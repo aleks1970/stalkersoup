@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="windows-1250"?> 
+<!-- TB3D 1.0.9.9.9.8 Serega, removed "string_table" - aleks1970  -->
+
+	<string id="val_escort_captive_dialog_11">
+		<text>Banditi... Ti kurvini sinovi su me hteli odvesti prema staroj fabrici. Ne znam, šta su tamo željeli samnom da urade, ali oni su već jednog drugog tipa tamo odveli i više ga nisam video. Oni imaju još jednog od nas: Serega. Drže ga zatvorenog u podrumu... U onoj velikoj zgradi tamo... Jedna ogromna još ne dovršena zgrada. Možeš li mu pomoći? Inače će oni... Znaš već ...</text>
+	</string>
+	<string id="val_escort_captive_dialog_2">
+		<text>Znaš li šta oni imaju tamo u fabrici?</text>
+	</string>
+	<string id="val_escort_captive_dialog_21">
+		<text>Nisam puno čuo. Sve što znam jest da Borov, njihov šef, ima jedan deo ključa za pećinu. Tu je jednom valjda bila laboratorija ili tako nešto... Čuo sam, kako su o tome pričali, da se Borov na to loži, tamo da uđe. Ali njemu fali još drugi deo tog ključa. Hm... Ako o tome razmisliš, tu da uđeš, onda bi trebao još jednom da promisliš. Tu je sve puno Bandita.</text>
+	</string>
+	<string id="val_escort_captive_dialog_211">
+		<text>Razumem. Hvala, imat ću to na umu.</text>
+	</string>
+	<string id="val_escort_captive_dialog_3">
+		<text>Ja ću pokušati da pomognem tom čoveku.</text>
+	</string>
+	<string id="val_escort_captive_dialog_41">
+		<text>To je jedna sramota sa mojim drugom... Bio je odličan lik. Usprkos tome nešto sam ti dužan.</text>
+	</string>
+	<string id="val_escort_captive_dialog_411">
+		<text>Tako nešto se baš dešava.</text>
+	</string>
+	<string id="val_escort_captive_dialog_51">
+		<text>Hvala za pomoć!</text>
+	</string>
+	<string id="val_escort_captive_dialog_511">
+		<text>Vidimo se.</text>
+	</string>
+	<string id="val_escort_captive_dialog_61">
+		<text>Kad sam pitao za pomoć, odbio si da pomogneš. Nemamo šta da raspravljamo.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21">
+		<text>Hvala brate. Ovde si izvukao mog druga! Evo, uzmi to - dolazi iz sveg srca.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2111">
+		<text>Dogovoreno.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212">
+		<text>Pretpostavljam, da ti ovu ovde oblast dobro poznaješ. Šta ima ovde interesantnog?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2121">
+		<text>Prema severu je lager Bandita, prema istoku je jedna stara fabrika, prema jugozapadu je napuštena farma svinja. A tamo iza je jedna vrsta kapije... Šta  se tamo nalazi, ne mogu ti reći. Nisam još tako daleko bio.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21211">
+		<text>Možeš li mi nešto reći o lageru Bandita?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212111">
+		<text>Hmm, šta ima na to da se kaže... Ti su se, tačno severno odavde, u jednu zgradu smestili, koja još nije izgrađena. Njihov vođa je Borov - jedna prava životinja, đubre. Zato su nas ovamo poslali: da ga sredimo.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21212">
+		<text>A kakva je priča sa tom starom fabrikom?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212121">
+		<text>Mi smo saznali, da je unutra jedna vrsta blaga. I dobro se čuva kao Fort Knox.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2121211">
+		<text>Kakva je to vrsta blaga? Šta je unutra?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21212111">
+		<text>Ne znam. Stvarno ne znam. Ne usuđujemo se da uđemo. Jedino, šta znam, jest, da Borov poseduje drugi deo ključa za taj ulaz.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21213">
+		<text>Jedna prava farma svinja? Tu su svinje i tako te stvari?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212131">
+		<text>Sanjaš li o jednoj šnicli ili sta već? Prokletstvo, Zona je puna divljih svinja! Jedi nešto od njih, i više ne trebaš bateriju - jer ćeš sam od sebe u tami da svetliš! Dobro, dobro, samo se šalim ... Farma je već odavno napuštena i sad je postala kuća od nekoliko stalkera. Doduše, nisu ostavili dobar utisak za mene. A kao i obično za mene, ja se mogu oslonuti samo na svoje utiske.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21214">
+		<text>A kakva je to kapija o kojoj si pričao?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212141">
+		<text>Jednostavno ne znam. Nekakva stara kapija... Samo znam, da je zatvorena i dobro se čuva. Nismo još tamo iza bili.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21215">
+		<text>Razumem. Hvala za informacije.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212151">
+		<text>Nema na čemu! U svako doba se možeš vratiti.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_213">
+		<text>Samo ste vas dvojica krenuli u izviđanje?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2131">
+		<text>Tu je bio još jedan drugi tip: Serega. Ne znam tačno, ali on je nestao i više o njemu nisam čuo... Banditi su ga valjda sredili.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_214">
+		<text>Pazi na sebe i čuvaj se.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_31">
+		<text>O, čoveče... Šta će se desiti samnom, druže? Hvala brate - u najmanju ruku si pokušao da mi pomogneš. A ja držim svoju reč.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_41">
+		<text>Hvala za tvoju pomoć! Šta bi želio još da znaš?</text>
+	</string>
+	<string id="val_escort_nap1_dialog_61">
+		<text>Nisam siguran da si hteo da nam pomogneš kada sam to od tebe tražio, Stalker tvojih očiglednih sposobnosti trebalo bi da ubije makar JEDNOG bandita. Nisam siguran da li si namerno hteo da omanemo, ali više nemamo šta da razgovaramo. Odjebi.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_611">
+		<text>Ćao.</text>
+	</string>
+	<string id="val_prisoner_hello_11">
+		<text>Hej druže! Pomozi mi! Ja sam izviđač Djutija. Pomozi mi izaći odavde!</text>
+	</string>
+	<string id="val_prisoner_hello_111">
+		<text>Pokušat ću.</text>
+	</string>
+	<string id="val_prisoner_hello_112">
+		<text>Nažalost, za tebe ne mogu ništa učiniti.</text>
+	</string>
+	<string id="val_prisoner_hello_21">
+		<text>Hvala, brate! Ostajem ti dužan. Nešto sam saznao - možda će ti informacije trebati, ko zna? Borov - taj luđak - skupio je poprilično puno lepih stvari. On ima jedan deo nekog ključa za donju etažu te fabrike. Čuo sam stražare kako međusobno pričaju... Pričali su, da je tu bila neka vrsta laboratorije. A problem je što Borovu nije lako tamo da uđe.</text>
+	</string>
+	<string id="val_prisoner_hello_211">
+		<text>Hvala za informacije.</text>
+	</string>
+	<string id="val_prisoner_hello_2111">
+		<text>Došlo je vreme da se vratimo našim momcima. Ali nešto mi govori, da ćemo o sreći moći pričati ako odavde živi izađemo...</text>
+	</string>
+	<string id="val_prisoner_hello_21111">
+		<text>Sretno.</text>
+	</string>
+	<string id="val_prisoner_hello_31">
+		<text>Moramo odavde nestati pre nego što ova kopilad zaključe da zauzmu ovo mesto! Trebaš li nešto? Onda donesi sebi brzo!</text>
+	</string>
+	<string id="val_prisoner_hello_311">
+		<text>Ne, ništa.</text>
+	</string>
+	<string id="val_prisoner_hello_41">
+		<text>Hej,druže! Tu iza na zidu je jedan prekidač - on otvara vrata ove ćelije.</text>
+	</string>
+	<string id="val_prisoner_hello_411">
+		<text>U redu, pogledat ću malo.</text>
+	</string>
+	<string id="val_rob_dialog_11">
+		<text>Ej, trebaš li jedno moćno oružje? Ja sam tu u blizini kod Jantara nešto pronašao... Neku vrstu skladišta. Ispod drugog bila je tu Gauss-puška. Kažem ti, ova stvar je odlična - u krugu od 100 metara je svaki dobar kao i mrtav... Za mršavih 800 rubalja biće ovde za trenutak!</text>
+	</string>
+	<string id="val_rob_dialog_111">
+		<text>Evo ti novac.</text>
+	</string>
+	<string id="val_rob_dialog_112">
+		<text>Ne, hvala.</text>
+	</string>
+	<string id="val_rob_dialog_113">
+		<text>Ne, zadrži. Teško je doći do novca.</text>
+	</string>
+	<string id="val_rob_dialog_21">
+		<text>Imaš li novac? Požuri se, imam puno mušterija... Inače će da kupi drugi.</text>
+	</string>
+	<string id="val_rob_dialog_3">
+		<text>Odlično. Čekaj ovde, odmah donosim.</text>
+	</string>
+	<string id="val_rob_dialog_31">
+		<text>Čekam.</text>
+	</string>
+	<string id="val_sos_dialog_11">
+		<text>Hej, daj mi prvu pomoć!</text>
+	</string>
+	<string id="val_sos_dialog_111">
+		<text>Evo, izvoli.</text>
+	</string>
+	<string id="val_sos_dialog_112">
+		<text>Žao mi je, nemam ni jednu prvu pomoć.</text>
+	</string>
+	<string id="val_sos_dialog_21">
+		<text>Puno hvala druže. Ti si mi stvarno pomogao. Ako još dugo poživim, i još jednom ako te sretnem, za to ću te nagraditi. Sve što ti sad mogu reći je jedan super savet. U redu, južno odavde ima jedno uzgajalište, u kome su nekoliko stalkera otvorili skladište. Jedan od njih ima jednu pušku za prodaju, stvarno jeftino, samo 800. Želio sam ga upravo kupiti, ali snađe me ovo ovde... Dakle, ako imaš lovu, onda idi brzo tamo.</text>
+	</string>
+	<string id="val_sos_dialog_211">
+		<text>Hvala za informaciju.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_4111">
+		<text>Ostajem ti dužan a moje dugove izravnam uvek. Idemo.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_41111">
+		<text>Odlično. A sad ćemo sve rastrgati u komade.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_4112">
+		<text>Žao mi je, nešto drugo smeram.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_41121">
+		<text>Onda, puno sreće ti želim.</text>
+	</string>
+	<string id="val_escort_nap1_dialog_412">
+		<text>Zbogom.</text>
+	</string>
+	<string id="dark_pulia_talk_story_0">
+		<text>Dosadno mi je, možeš li mi ispričati neku priču?</text>
+	</string>
+	<string id="dark_pulia_talk_story_1">
+		<text>Mogu ti pričati o artefaktu po imenu "Krv", otkrio sam tajnu o njemu još pre mnogo vremena - vraćao sam se nazad sa izviđanja, ranjen, takođe mi je novac bio jako potreban. Kad iznenada, ugledao sam neki čudan artefakt na zemlji, požurio sam prema njemu - to je tolika vrednost uostalom! Dok sam ga uzimao, skoro da sam upao u anomaliju "Lift". Dok sam ga doneo u kamp, sve moje rane su zacelile! Ljudi u kampu su me posavetovali da ga pokažem naučnicima. Tako da sam ga i odneo njima.. Kada su ugledali tu stvar počeli su da se tresu i dali su mi mnogo novca. Verovao ili ne... to je prava istina.</text>
+	</string>
+<!-- Preveo i prilagodio Coolkingeye -=- 13:09 21.04.2015 -->

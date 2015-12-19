@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 removed bad filename characters from task titles, tm_kill_stalker_2_text, minor edits,
+ renamed ecolog_find_item_1 to ecolog_find_item_2, drunk_dolg_find_item_descr, spelling and minor edits,
+ green_find_artefact_3, mercenary_kill_stalker -->
+<string_table>
+	<string id="artefact">
+		<text>Uzmi artefakt.</text>
+	</string>
+	<string id="barmen_defend_camp_1">
+		<text>Zaštiti stalkerski kamp na Deponiji.</text>
+	</string>
+	<string id="barmen_defend_camp_1_descr">
+		<text>Zaštiti stalkerski kamp na Deponiji od napada Bandita.</text>
+	</string>
+	<string id="barmen_defend_camp_1_text">
+		<text>Jedna grupa stalkera se krenula u posetu kod mene, a ja sam lično zainteresovan za njihov bezbedan dolazak. Oni su se zaustavili u blizini Bara. Jedan kriminalac koji se pokajao nam je, gotovo dobrovljno, prijavio da će uskoro biti napadnuti. Dakle, idi tamo i zaštiti ovaj kamp od napada.</text>
+	</string>
+	<string id="barmen_defend_camp_2">
+		<text>Pomozi stalkerima u Agropromu.</text>
+	</string>
+	<string id="barmen_defend_camp_2_descr">
+		<text>Pomozi stalkerima da se odbrane od Bandita u Agropromu.</text>
+	</string>
+	<string id="barmen_defend_camp_2_text">
+		<text>Dakle, ovako stoje stvari. Nedavno je grupa stalkera otišla u Agroprom. Poslednji put kad su mi se javili, rekli su da izgleda ima nešto vredno u podzemlju, ali su ih jako pritisli Banditi. Oni se još drze dobro, ali ne mogu da ih oteraju. Hoćeš li im pomoći?</text>
+	</string>
+	<string id="barmen_eliminate_camp_1">
+		<text>Uništi Bandite na Deponiji.</text>
+	</string>
+	<string id="barmen_eliminate_camp_1_descr">
+		<text>Očisti Bandite koji su se naselili na Deponiji. Moraš to obaviti brzo i efikasno.</text>
+	</string>
+	<string id="barmen_eliminate_camp_1_text">
+		<text>Posao, poslić veliš... Hm, da vidimo šta tu ima? Aha! Pazi ovako: možeš li da rokneš grupu Bandita na Deponiji? Djuti, puna su im usta reda i zakona, ali ovima nikako da stanu na rep.To su neke retke vucibatine,dosad su se uvek izvlačili, ali neće još dugo.Onaj koji im dođe glave, dobro će se opariti...i popiti piće samnom, to je pod obavezno</text>
+	</string>
+	<string id="barmen_eliminate_camp_2">
+		<text>Eliminiši Plaćenike i Bandite u Rostoku.</text>
+	</string>
+	<string id="barmen_eliminate_camp_2_descr">
+		<text>Uništi grupu Plaćenika i Bandita koji blokiraju prolaz kroz teritoriju Rostoka</text>
+	</string>
+	<string id="barmen_eliminate_camp_2_text">
+		<text>Nedaleko odavde, u Rostoku, zasela je grupa Plaćenika. Zajedno sa Banditima su nagrnuli i trenutno je prolaz kroz fabriku blokiran. Ne moram da ti kažem kolika nam je to smetnja i to mora odmah da se raščisti. Djuti i grupa iskusnih momaka je otišla da ih nauči pameti, ali već neko vreme se ne javljaju. Ti bi mogao da odeš tamo i proveriš kako stoje stvari. Platiću dobro.</text>
+	</string>
+	<string id="barmen_eliminate_camp_3">
+		<text>Uništi Bandite na farmi.</text>
+	</string>
+	<string id="barmen_eliminate_camp_3_descr">
+		<text>Prosto: očisti farmu od Bandita.</text>
+	</string>
+	<string id="barmen_eliminate_camp_3_text">
+		<text>Na području starog vojnog skladišta, ima jedna mala farma. Bila je zgodno mesto za sastanke, za razmenu robe, nadam se da kapiraš. Sad su je zauzeli Banditi i izgleda da nemaju nameru da je napuste u skorije vreme. To mi se uopšte ne dopada. Dakle, neophodno mi je da se farma oslobodi što pre.Šta će se desiti sa stanarima, to me nije briga.</text>
+	</string>
+	<string id="barmen_eliminate_camp_4">
+		<text>Očisti Banditski logor.</text>
+	</string>
+	<string id="barmen_eliminate_camp_4_descr">
+		<text>Očisti Banditski logor na Divljoj teritoriji.</text>
+	</string>
+	<string id="barmen_eliminate_camp_4_text">
+		<text>Na Divljoj teritoriji su Banditi. Ne možemo dozvoliti da ova kopilad zagađuju okolinu Bara. Moramo počistiti njihov logor.</text>
+	</string>
+	<string id="barmen_eliminate_camp_5">
+		<text>Uništi brlog divljih pasa-mutanata.</text>
+	</string>
+	<string id="barmen_eliminate_camp_5_descr">
+		<text>Uništi brlog divljih pasa-mutanata na Divljoj teritoriji.</text>
+	</string>
+	<string id="barmen_eliminate_camp_5_text">
+		<text>Nekoliko naših momaka je krenulo u ekspediciju, a jedan se vratio, sam. Ceo iscepan, krvav, staklastih očiju. Najverovatnije su naleteli na pse. Ima tu čitav čopor pasa. Dakle, pronađi njihovo leglo i sve pokokaj.</text>
+	</string>
+	<string id="barmen_eliminate_camp_6">
+		<text>Uništi grupu Bandita.</text>
+	</string>
+	<string id="barmen_eliminate_camp_6_descr">
+		<text>Uništi grupu Bandita u Agropromu.</text>
+	</string>
+	<string id="barmen_eliminate_camp_6_text">
+		<text>Sećam se kako su me 94-te spopali reketaši, pljuni lovu, kopaj...odreši kesu, vikali su.Uh, šta sam sve pretrpeo, imao sam tada restoran. Tada nije bilo šanse da im se suprostaviš. A onda iznenada saznam da ta ista banda radi sada na Agroprom Institutu. Uzimaju procenat od nađenih artefakata.Ali meni su sada ovde ruke duže. Učini mi uslugu, poseti ih.</text>
+	</string>
+	<string id="barmen_eliminate_camp_7">
+		<text>Uništi leglo snorkova.</text>
+	</string>
+	<string id="barmen_eliminate_camp_7_descr">
+		<text>Uništi leglo snorkova u Mračnoj Dolini.</text>
+	</string>
+	<string id="barmen_eliminate_camp_7_text">
+		<text>Hmm..da. Izgleda da su upravu ovi što tvrde da se Zona širi. Primećeni su snorkovi u Mračnoj Dolini, a tu ih ranije nikad nije bilo. Neki su se već uspaničili. Iz Djutija su obećali da će uništiti snorkove, ali nikako da se sakupe. Prihvataš li?</text>
+	</string>
+	<string id="barmen_find_artefact_1">
+		<text>Pronađi artefakt "Komad mesa"</text>
+	</string>
+	<string id="barmen_find_artefact_1_descr">
+		<text>Pronađi artefakt "Komad mesa", koji leči bolesti i povrede.</text>
+	</string>
+	<string id="barmen_find_artefact_1_text">
+		<text>Tu su nedavno svraćali neki sveštenici, tražili su da im nabavim artefakt "Komad mesa". Znaš, zainteresovani su za ovaj lekoviti artefakt. To natrulo čudo izgleda funkcioniše. Hoćeš li da to uradiš? Odluči sam.</text>
+	</string>
+	<string id="barmen_find_artefact_2">
+		<text>Pronađi artefakt "Kristalni trn"</text>
+	</string>
+	<string id="barmen_find_artefact_2_descr">
+		<text>Pronađi artefakt "Kristalni trn" koji štiti od  PSI-napada.</text>
+	</string>
+	<string id="barmen_find_artefact_2_text">
+		<text>"Boca"? Ne, nije to. "Kristalni bodež"? Ne, nije ni tako...uf bem ti. "Kristalni trn", da, tako se zove. Pazi ovako, imam narudžbinu za artefakt "Kristalni trn". Čuo si za njega? Izgleda da kad ga imaš kod sebe, nema stvorenja koje može da ti čačka po mozgu. Dakle, šta kažeš?</text>
+	</string>
+	<string id="barmen_find_artefact_3">
+		<text>Pronađi artefakt "Noćna zvezda"</text>
+	</string>
+	<string id="barmen_find_artefact_3_descr">
+		<text>Pronađi artefakt "Noćna zvezda", pomozi domaćim vojnim istraživanjima.</text>
+	</string>
+	<string id="barmen_find_artefact_3_text">
+		<text>Treba mi artefakt "Noćna zvezda". Nažalost, ne ispunjava želje, to je provereno, ali te može obogatiti. Naučnici dobro plaćaju za njega. Kažu da prave od njega neke vojne stvari... Pa, šta veliš?</text>
+	</string>
+	<string id="barmen_find_artefact_4">
+		<text>Pronađi artefakt "Bljesak"</text>
+	</string>
+	<string id="barmen_find_artefact_4_descr">
+		<text>Pronađi artefakt "Bljesak"</text>
+	</string>
+	<string id="barmen_find_artefact_4_text">
+		<text>Zadatak je jednostavan i dobro je plaćen. Treba da nađeš artefakt "Bljesak". Ne pitaj me ko je i zašto naručio. Pa, hoćeš li to odraditi?</text>
+	</string>
+	<string id="barmen_find_artefact_5">
+		<text>Pronađi artefakt "Zlatna ribica"</text>
+	</string>
+	<string id="barmen_find_artefact_5_descr">
+		<text>Pronađi artefakt "Zlatna ribica"</text>
+	</string>
+	<string id="barmen_find_artefact_5_text">
+		<text>Obeleženi, znaš li bajku o Zlatnoj ribici? Da, da, to je jedna. Ima gomila viceva na tu temu. Pa ovako, ima jedan starac koji želi da je uhvati. Da skratim, potreban mi je unikatni artefakt "Zlatna ribica". Kupac je stranac, ugledan. Pomoći ćeš?</text>
+	</string>
+	<string id="barmen_find_item_1">
+		<text>Pronađi psi-odelo</text>
+	</string>
+	<string id="barmen_find_item_1_descr">
+		<text>Pronađi odelo koje pruža efikasnu zaštitu od PSI-Emisije. Mesto gde treba da traži je napuštena laboratorija u Mračnoj Dolini.</text>
+	</string>
+	<string id="barmen_find_item_1_text">
+		<text>U tim laboratorijama dole u Mračnoj Dolini, oni su pokušavli da pronađu način da zaštite ljudski mozak od PSI-Emisije. Samo su suviše sporo radili, da... Istina, postojao je jedan uspešan pokušaj i negde tamo lezi to odelo, u kojem možete da komotno poljubite Kontrolera. Da, to je suva istina. Ako mi doneseš tu stvar, neću ti to zaboraviti.</text>
+	</string>
+	<string id="barmen_find_item_2">
+		<text>Pronađi strančevo oružje.</text>
+	</string>
+	<string id="barmen_find_item_2_descr">
+		<text>Zanimljiv zadatak. Poznato ime, uzgred budi rečeno, stranac...odakle li samo dolaze?</text>
+	</string>
+	<string id="barmen_find_item_2_text">
+		<text>Pojavio se u našim krajevima jedan stranac...Gordon ga zovu, ili tako nekako. Po svim osobinama, bio je iskusan stalker, ali on je tvrdio da nikad nije boravio u Zoni. No, naravno, nije o tome reč. Ipak, negde je nestao u Zoni. Kod njega je bila jedna veoma interesantna stvar. "Crni Zmaj" .Hteo bih tu stvar da pogledam izbliza.</text>
+	</string>
+	<string id="barmen_find_item_3">
+		<text>Pronađi modifikovani Vintorez</text>
+	</string>
+	<string id="barmen_find_item_3_descr">
+		<text>Pronađi modifikovani Vintorez. Po svemu sudeći, treba ga tražiti u Crvenoj Šumi.</text>
+	</string>
+	<string id="barmen_find_item_3_text">
+		<text>Dakle, ovako ide istorija slučaja. Pojavio se jedan moj kolega, pun love ko brod. Počeo da zapošljava kod sebe Bandite, ne one iskusne, već pre svega hitre. Nakupovao je tone opreme. Imao sam jedan Vintorez, potpuno nov, doteran, čudo od puške. Bio sam dovoljno lud da ga prodam. Neću da lažem, dobio sam puno novca...uskoro je cela ova ekipa pobijena negde u blizini Crvene Šume. Žao mi je ljudi, naravno. Šta da kažem, umro je nizašta...Osim što je to dobra lekcija za one koji misle da se novcem može otvoriti put kroz Zonu. Svejedno...ne mogu da prestnem da mislim o tom Vintorezu, takva puška da tamo negde trune. Pronaći ćeš je za mene? Dajem dobar honorar.</text>
+	</string>
+	<string id="barmen_kill_stalker_1">
+		<text>Ubij vojnika</text>
+	</string>
+	<string id="barmen_kill_stalker_1_descr">
+		<text>Potrebno je da se ubije jedan vojnik. Posao je, čini mi se, veoma jednostavan...osim što čudno da je meta uniformisano lice. Očito da je naručilac veoma ljut .</text>
+	</string>
+	<string id="barmen_kill_stalker_1_text">
+		<text>Treba da kokneš jednog vojnika... Ne pitaj me ko je on, to te nije briga! Samo to odradi. Pa? Mogu li da računam na tebe?</text>
+	</string>
+	<string id="barmen_kill_stalker_2">
+		<text>Ubij stalkera</text>
+	</string>
+	<string id="barmen_kill_stalker_2_descr">
+		<text>Ubiti jednog od stalkera. Smrt prevarantu - ovo je osveta trgovca.</text>
+	</string>
+	<string id="barmen_kill_stalker_2_text">
+		<text>Znaš, ima ljudi za koje nikad ne možeš da kažeš ništa loše...veruješ im, jel' tako? Imaš poverenja u njega kao u samog sebe. Tek iznenada shvatiš da je lukavo i lažljivo kopile. U pitanju je ozbiljna stvar, treba za svagda završiti sa jednim tipom. Uradi to, ostalo je na meni.</text>
+	</string>
+	<string id="barmen_kill_stalker_3">
+		<text>Ubij stalkera iz "Monolit" grupacije</text>
+	</string>
+	<string id="barmen_kill_stalker_3_descr">
+		<text>Pronađi bivšeg prijatalja trgovca i pomozi mu da umre.</text>
+	</string>
+	<string id="barmen_kill_stalker_3_text">
+		<text>Nekada davno imao sam prijatelja...teško je poverovati, zar ne? Ah! Zajedno smo došli u Zonu, kad sve ovo ovde još nije postojalo. I šta sve nismo radili gde sve nismo išli. Ali njemu to nije bilo dovoljno. Hteo je da idemo u centar Zone ali sam ja odbio...i uradio sam dobru stvar. Posvađali smo se i ajd zdravo,a on je otišao sam...I sad čujem da su ga neki videli tamo. On je sad u redovima "Monolita". Dakle, ovako Obeleženi. Zamoliću te kao prijatelja, uradi ovo za mene, pronađi ga i...nemoj da se muči, to mora da je mnogo bolno...On mi je bio kao brat, razumeš?</text>
+	</string>
+	<string id="barmen_kill_stalker_4">
+		<text>Ubij stalkera zvanog Vampir</text>
+	</string>
+	<string id="barmen_kill_stalker_4_descr">
+		<text>Pronađi i ubij stalkera zvanog Vampir.</text>
+	</string>
+	<string id="barmen_kill_stalker_4_text">
+		<text>To je to, dosta mi je ove bitange. Mislim na Vampira, znaš o kome pričam? Kopile! On ljudima ne sisa krv, već njihovu dobru sreću. Skim god da je pošao, nijedan se nije vratio, a on živ i zdrav. Ovo je već peti put. To je zlo, zar ne? Voleo bih da stavim neko cveće na Vampirov grob. Dakle, da li si za posao?</text>
+	</string>
+	<string id="barmen_kill_stalker_5">
+		<text>Ubij stalkera sa nadimkom Vrabac</text>
+	</string>
+	<string id="barmen_kill_stalker_5_descr">
+		<text>Nađi Vrabca i osveti se za smrt drugih stalkera</text>
+	</string>
+	<string id="barmen_kill_stalker_5_text">
+		<text>Jebeni mušketiri! Izigravaju D`Artanjana, seronje! Kao da im surfovanje oko anomalija i klanje sa mecima nije dovoljno, tikvani su sad počeli da se bore među sobom u dvobojima. I ajde sad ti to razumi...doslo je do neke svađe i niko ne zna kako je to počelo. Tako su ove dve budale rešile da puste jedan drugom krv. I tako, jedan je ušao i poginuo...kakav je to stalker bio! Drugi, Vrabac ga zovu, je brzo zbrisao,zbog čega bih mu ja prvi sasuo metak u stomak. Nađi ga, siguran sam da još nije napustio Zonu. Hoćeš li mi to učiniti?</text>
+	</string>
+	<string id="barmen_monster_part_1">
+		<text>Nabavi oko "Mesine"</text>
+	</string>
+	<string id="barmen_monster_part_1_descr">
+		<text>Nabavi oko "Mesine"</text>
+	</string>
+	<string id="barmen_monster_part_1_text">
+		<text>Uskoro je kod nas praznik i biće praznična večera i neki lokalni gurmani sa specifičnim ukusom, žele da probaju moj specijalni recept - oči "Mesine" u svinjskom sosu. To je u sopstvenom sosu sa majonezom. U principu, trebaju mi oči tog stvorenja, što je moguće pre.</text>
+	</string>
+	<string id="barmen_monster_part_2">
+		<text>Donesi papak od vepra</text>
+	</string>
+	<string id="barmen_monster_part_2_descr">
+		<text>Donesi papak od vepra</text>
+	</string>
+	<string id="barmen_monster_part_2_text">
+		<text>Znaš li da mi prepariramo rogove i papke? To je sad velika retkost. Od papaka lokalnih mutanata prave odlične ukrase.</text>
+	</string>
+	<string id="barmen_monster_part_3">
+		<text>Donesi rep od mačke</text>
+	</string>
+	<string id="barmen_monster_part_3_descr">
+		<text>Donesi rep od mačke</text>
+	</string>
+	<string id="barmen_monster_part_3_text">
+		<text>Iz "Velike zemlje" primili smo narudžbu za rep lokalnih mački. Umetnikov prijatelj nas je nedavno došao posetiti da slika o "mestu punom dekadentnog šarma". Tada je video te mačke i tvrdi da od njihove dlake može dobiti jako dobar kist. Razumem, naravno, da je ovo opasan posao i da te životinje neće same doći ovamo, ali... Novac je novac. A ti i ne izgledaš k'o neki žutokljunac. Pa, Obeleženi, uzimaš posao?</text>
+	</string>
+	<string id="barmen_monster_part_4">
+		<text>Donesi glavu Tuškana</text>
+	</string>
+	<string id="barmen_monster_part_4_descr">
+		<text>Donesi glavu Tuškana</text>
+	</string>
+	<string id="barmen_monster_part_4_text">
+		<text>Posao, kažeš? Imam jednu lekciju za tebe, Obeleženi. Jedan od mojih prijatelja ima čudan posao, kako ono ga zove "Podzemni duhovni proizvod". Ima neki komplicirani recept, ali izlazna kvaliteta proizvoda - skidam mu kapu. Tako da uvek treba glave tuškana, jer ga pravi od ekstrakta njihova mozga. Ha-ha-ha-ha, šta si izbekačio oči? Ali to ulje i ostalo smeće, u njegovoj kući vreju upola manje vremena nego za "Cossacks" votku! Ali ne brini, neću te isplatiti u toj votki, nije ona za tebe. Pa, hoćeš li ispoštovati želju jednog starca?</text>
+	</string>
+	<string id="dolg_defend_lager_1">
+		<text>Zaštiti kontrolni punkt Djutija</text>
+	</string>
+	<string id="dolg_defend_lager_1_descr">
+		<text>Zaštiti kontrolni punkt Djutija u Deponiji.</text>
+	</string>
+	<string id="dolg_defend_lager_1_text">
+		<text>Znači ovako, sigurno si već sreo naše momke u Deponiji. Oni su neka vrsta isturenog kordona koji štiti Bar od naleta mutanata iz pravca Mračne Doline. Javili su mi da im se približava veliko krdo divljih veprova. Pomozi im da se odbrane od mutanata, a ja ti neću ostati dužan. </text>
+	</string>
+	<string id="dolg_eliminate_lager_1">
+		<text>Uništi zombije</text>
+	</string>
+	<string id="dolg_eliminate_lager_1_descr">
+		<text>U Jantaru uništi zombirane članove Djutija.</text>
+	</string>
+	<string id="dolg_eliminate_lager_1_text">
+		<text>Nedavno smo poslali jednu grupu na Jantar, nažalost, niko se nije vratio. Javili su mi da su nedaleko od mobilne laboratorije na Jantaru videli nekoliko zombifiziranih stalkera iz grupe. Ne možemo dozvoliti da ostanu u tom užasnom stanju. Tvoj zadatak: nađi i uništi to, u šta su se preobratili.</text>
+	</string>
+	<string id="dolg_eliminate_lager_10">
+		<text>Ukloni čopor pasa.</text>
+	</string>
+	<string id="dolg_eliminate_lager_10_descr">
+		<text>Ukloni čopor pasa u Deponiji.</text>
+	</string>
+	<string id="dolg_eliminate_lager_10_text">
+		<text>Mi, po prirodi stvari, ne dajemo zadatke stalkerima sa strane. S druge strane, ovo je jednostavan zadatak, pa nema potrebe da cimam svoje momke. Zato slušaj. Potrebno je da očistiš malo leglo zveri u Deponiji. Jedna od naših grupa već operiše tamo, pa ćeš u slučaju nevolje imati gde da se skloniš. S druge strane, ne bi trebalo da bude problema jer nema puno zveri tamo - desetak najviše. Najverovatnije psi: skoro je bilo izveštaja o dolasku velikog čopora u područje. Potrebno je da si u mogućnosti da odradiš zadatak.</text>
+	</string>
+	<string id="dolg_eliminate_lager_11">
+		<text>Uništi stalkerski kamp.</text>
+	</string>
+	<string id="dolg_eliminate_lager_11_descr">
+		<text>Uništi stalkerski kamp u Agropromu.</text>
+	</string>
+	<string id="dolg_eliminate_lager_11_text">
+		<text>Postoji jedna osetljiva stvar, ali naši momci definitivno ne treba da budu uvučeni u istu. Prisustvo Neutralnih u fabrici u Agropromu, nije prednost za naše saveznike. Evo zaduženja: očisti tu zonu od stalkera, bez obzira ko su i kojoj grupi pripadaju. Razumeš?</text>
+	</string>
+	<string id="dolg_eliminate_lager_12">
+		<text>Uništi odred Plaćenika.</text>
+	</string>
+	<string id="dolg_eliminate_lager_12_descr">
+		<text>Uništi odred Plaćenika u Rostoku.</text>
+	</string>
+	<string id="dolg_eliminate_lager_12_text">
+		<text>Znači evo zadatka: potrebno je da uništiš odred snajperista iz grupe Plaćenika. Situacija: snajperisti su zaposeli zadnji sprat zgrade u kopmleksu. Pretpostavka o broju: ne manje od dvojice i ne više od petorice. Po svemu sudeći, naoružani su snajperskim puškama. Preporuka: na pojavljuj se tamo tokom dana.</text>
+	</string>
+	<string id="dolg_eliminate_lager_13">
+		<text>Zaštiti bazu Bandita</text>
+	</string>
+	<string id="dolg_eliminate_lager_13_descr">
+		<text>Zaštiti glavnu bazu Bandita u Mračnoj Dolini.</text>
+	</string>
+	<string id="dolg_eliminate_lager_13_text">
+		<text>Od najveće važnosti je rasturiti glavnu bazu Bandita i uništiti najveći deo ljudstva neprijatelja. To je u Mračnoj Dolini, tamo gde je bio nezavrseni naučni centar. Trideset neprijateljskih boraca je naoružano lakim automatskim oružjem, puškama i sačmarama. Jel' ti sve jasno?</text>
+	</string>
+	<string id="dolg_eliminate_lager_14">
+		<text>Pobij snorkove.</text>
+	</string>
+	<string id="dolg_eliminate_lager_14_descr">
+		<text>Pobij snorkove u tunelu u sektoru Jantara.</text>
+	</string>
+	<string id="dolg_eliminate_lager_14_text">
+		<text>Ovog puta ćeš morati malo da pročistiš. Tuneli u Jantaru se prosto raspadaju od gomile snorkova: ima ih oko desetak. Da, nećeš moci da vedriš i oblaciš kao pre...</text>
+	</string>
+	<string id="dolg_eliminate_lager_2">
+		<text>Uništi krdo "Mesina"</text>
+	</string>
+	<string id="dolg_eliminate_lager_2_descr">
+		<text>Uništi krdo "Mesina" na Divljoj teritoriji.</text>
+	</string>
+	<string id="dolg_eliminate_lager_2_text">
+		<text>Pratili smo kretanje velikog krda zveri... Prilično odvratni svinjoliki mutanti koje svako zove "Mesina". Sada se nalaze u području Deponije. Svi naši ljudi su zauzeti, a ove životinje moraju da budu uništene. U pitanju je specijalan posao - platićemo ga.</text>
+	</string>
+	<string id="dolg_eliminate_lager_3">
+		<text>Uništi Pseudo pse.</text>
+	</string>
+	<string id="dolg_eliminate_lager_3_descr">
+		<text>Očisti leglo Pseudo pasa pored Vojnih Skladišta.</text>
+	</string>
+	<string id="dolg_eliminate_lager_3_text">
+		<text>Naši saveznici su nas obavestili o otkrivanju legla čudovišta na teritoriji Vojnih Skladišta. Verujemo da je u pitanju čopor Pseudo pasa. Ne bi trebalo da se petljamo tamo u ovom trenutku, pa je to posao za neutralca. Jesi li za?</text>
+	</string>
+	<string id="dolg_eliminate_lager_4">
+		<text>Uništi bezbednosnu ispostavu Plaćenika</text>
+	</string>
+	<string id="dolg_eliminate_lager_4_descr">
+		<text>Uništi bezbednosnu ispostavu Plaćenika u blizini Vojnih Skladišta.</text>
+	</string>
+	<string id="dolg_eliminate_lager_4_text">
+		<text>U poslednje vreme je došlo do povećane aktivnosti Plaćenika, desilo se nekoliko napada na naučnike koji obavljaju istraživanja u Zoni. To ne sme proći nekažnjeno. Potrebno je sprovesti malu kaznenu operaciju. Cilj: bezbednosna ispostava Plaćenika u blizini Vojnih Skladišta, iza napuštenog sela.</text>
+	</string>
+	<string id="dolg_eliminate_lager_5">
+		<text>Uništi Plaćenike.</text>
+	</string>
+	<string id="dolg_eliminate_lager_5_descr">
+		<text>Unisti Plaćenike na Divljoj teritoriji.</text>
+	</string>
+	<string id="dolg_eliminate_lager_5_text">
+		<text>Grupa naučnika planira da istraži Divlju teritoriju. Ipak, u poslednje vreme, nije bilo sigurno tamo, Plaćenici su se aktivirali. Postaraj se da ne ostane nijedan Plaćenik na Divljoj teritoriji..</text>
+	</string>
+	<string id="dolg_eliminate_lager_6">
+		<text>Ubij Bandite</text>
+	</string>
+	<string id="dolg_eliminate_lager_6_descr">
+		<text>Ubij Bandite koji su došli do Divlje teritorije.</text>
+	</string>
+	<string id="dolg_eliminate_lager_6_text">
+		<text>Biću kratak. Banditi su se provukli pored naših bezbednosnih tačaka u Baru i sada se nalaze na Divljoj teritoriji. Potrebno je da budu eliminisani.</text>
+	</string>
+	<string id="dolg_eliminate_lager_7">
+		<text>Uništi Kontrolera</text>
+	</string>
+	<string id="dolg_eliminate_lager_7_descr">
+		<text>Uništi Kontrolera u Jantaru.</text>
+	</string>
+	<string id="dolg_eliminate_lager_7_text">
+		<text>Da bi odradio ovaj posao, moraš da poseduješ specijalne veštine. Naučnici su nas izvestili da su primetili Kontrolera u Jantaru, pored ulaza u podzemnu laboratoriju (u centru zgrade). Kontroleri su veoma opasni, al'sam siguran da ćeš se snaći.</text>
+	</string>
+	<string id="dolg_eliminate_lager_8">
+		<text>Očisti Fridomovce</text>
+	</string>
+	<string id="dolg_eliminate_lager_8_descr">
+		<text>Ocisti napušteno selo nedaleko od Vojnih Skladišta od Fridomaovaca.</text>
+	</string>
+	<string id="dolg_eliminate_lager_8_text">
+		<text>Došlo je do povećanja aktivnosti patrola Fridoma, u napuštenom selu pored Vojnih Skladišta. Očisti selo od boraca. Nakon završetka zadatka čeka te specijalna nagrada.</text>
+	</string>
+	<string id="dolg_eliminate_lager_9">
+		<text>Uništi Bandite</text>
+	</string>
+	<string id="dolg_eliminate_lager_9_descr">
+		<text>Uništi Bandite u Deponiji.</text>
+	</string>
+	<string id="dolg_eliminate_lager_9_text">
+		<text>Trenutna situacije je nepovoljna, Banditi se okupljaju u oblastima Deponije i Mračne Doline. Najbolje rešenje je izvesti dva preventivna napada u isto vreme! Naši borci će preuzeti Dolinu, ti se pozabavi Deponijom.</text>
+	</string>
+	<string id="dolg_find_item_1">
+		<text>Pronađi poboljšanu pušku</text>
+	</string>
+	<string id="dolg_find_item_1_descr">
+		<text>Pronađi primerak poboljšane TR 301 u blizini Vojnih Skladišta.</text>
+	</string>
+	<string id="dolg_find_item_1_text">
+		<text>Neko pomaže Plaćenicima. Skoro su opremljeni mašinkama, poboljšanim za snajpersku vatru. Shvataš da se radi o opasnim igračkama? Pa, ja sam zainteresovan za takvo oružje. Budi siguran da će moja zahvalnost biti primerena.</text>
+	</string>
+	<string id="dolg_kill_stalker_1">
+		<text>Sredi jednog Bandita</text>
+	</string>
+	<string id="dolg_kill_stalker_1_descr">
+		<text>Sredi bandita Pokera.</text>
+	</string>
+	<string id="dolg_kill_stalker_1_text">
+		<text>Subjektov nadimak - Poker. Jedan od najsurovijih vođa Bandita, svinja i silovatelj... Očigledno da nije sam u glavi: kažu da je navatao neku retku bolest u Zoni. Sada pati od čestog gubitka pamćenja i kad povrati svest ne seća se ko je i gde se nalazi. Kako god, uvek je naoružan i veoma agresivan. Najverovatnija lokacija: Mračna Dolina. Spreman za zadatak?</text>
+	</string>
+	<string id="dolg_monster_part_1">
+		<text>Nabavi oko poltergeista</text>
+	</string>
+	<string id="dolg_monster_part_1_descr">
+		<text>Nabavi oko poltergeista</text>
+	</string>
+	<string id="dolg_monster_part_1_text">
+		<text>Ooo, Obeleženi! Pozdravljam! Šta kažeš? Prošao si stražara na ulazu? I čak dobio propusnicu? KOji šaljivdžije... Nego, da pređemo na posao. Ukratko, neko iz "Velike zemlje" hitno treba oko poltergeista. Netaknuto po mogućnosti. Obeleženi, znam da si iskusan stalker i da si vidio svega i svačega, i zato mislim da je ovo zadatak koji možeš obaviti. Vredno je nagrade. Pa, ako ne želiš odmah mi reci, ne želim nikoga prisiljavati.</text>
+	</string>
+	<string id="dolg_monster_part_2">
+		<text>Nabavi ruku zombija</text>
+	</string>
+	<string id="dolg_monster_part_2_descr">
+		<text>Nabavi ruku zombija.</text>
+	</string>
+	<string id="dolg_monster_part_2_text">
+		<text>Zadatak kažeš? Ima jedan poslić, taman za tebe. Jesi ikada sreo zombija? Ma ne one sa oružjem i one koji mašu rukama. Šta? Oh, ne, ne prekidaj me! A za šest meseci morao si videti nekog Izloma. Oh, pa dobro. Znaš kako to stvorenje izgleda a takav se posao pojavio. I to dobro plaćen. Treba nam ruka od tog lepotana. Pa jesi li za tu malu avanturicu?</text>
+	</string>
+	<string id="drunk_dolg_find_item">
+		<text>Nađi oružje od Djutija.</text>
+	</string>
+	<string id="drunk_dolg_find_item_descr">
+		<text>Jedan pripadnik Djutija je zatražio da mu pronađem oružje koje je izgubio u Mrtvom gradu tokom jedne izviđačke misije.</text>
+	</string>
+	<string id="drunk_dolg_find_item_text">
+		<text>Nisam trebao da odlepim ovako. Kako te Zona jebe u mozak. Mislio sam da sam stabilan, da se ničeg ne plašim, a onda se desi ovo. Urla u ušima. Sve je ko po običaju. Bila je jedna izviđačka misija u Mračnoj Dolini, upali smo u rov sa Krivonjom da pokrivamo ostatak grupe, i odjednom sam čuo urlanje, umalo se nisam usr'o od straha. Do vraga, i ne sećam se kako sam stigao na na zadate koordinate. Kada sam se vratio u bazu, Voronjin me umalo nije ubio na mestu: samo mi je dao poboljšan top, za dobru službu da tako kažem. Nakon toga... Uspaničio sam se i zbrisao sam toliko brzo da sam ostavio top tamo. Hoćeš li da mi ga doneseš, gde sad da idem bez pristojnog oružja.</text>
+	</string>
+	<string id="ecolog_eliminate_lager_1">
+		<text>Očisti leglo snorkova</text>
+	</string>
+	<string id="ecolog_eliminate_lager_1_descr">
+		<text>Uništi leglo snorkova u Jantaru.</text>
+	</string>
+	<string id="ecolog_eliminate_lager_1_text">
+		<text>Daću ti nešto novca ukoliko snorkovi, koji žive u močvari, prestanu da uznemiravaju mene i moje kolege. Ponekad kad vršimo eksperimente nema šanse da se koncentrišemo.</text>
+	</string>
+	<string id="ecolog_eliminate_lager_2">
+		<text>Očisti leglo divljih pasa</text>
+	</string>
+	<string id="ecolog_eliminate_lager_2_descr">
+		<text>Očisti leglo divljih pasa na Divljoj teritoriji.</text>
+	</string>
+	<string id="ecolog_eliminate_lager_2_text">
+		<text>Na Divljoj teritoriji se nalazi leglo pasa-mutanata, i hoću da odeš tamo i očistiš to. Ovi mutanti su posebno opasni po naše ekspedicije. Znam da zoolozi neće biti oduševljeni ovim, ali ovo nije Zoološki vrt, da budem iskren. Te zveri prenose besnilo, kugu i bogzna šta još.</text>
+	</string>
+	<string id="ecolog_find_artefact_1">
+		<text>Donesi artefakt Vatrena lopta</text>
+	</string>
+	<string id="ecolog_find_artefact_1_descr">
+		<text>Donesi artefakt Vatrena lopta naučnicima radi istraživanja</text>
+	</string>
+	<string id="ecolog_find_artefact_1_text">
+		<text>Uspeli smo da dobijemo artefakt u laboratorijskim uslovima! To je veliki pomak! Sada će ceo svet čuti o našem uspehu. I Nobelova nagrada će biti nadohvat ruke! Ovo je jedinstveni artefakt - "Opna", i  glavna mu je odlika da štiti od hemijskih opekotina. Da li želisš da ti ga dam u ime nauke? Kako bilo, imam jedan zahtev - zauzvrat mi je potreban artefakt Vatrena lopta, jesi li čuo za takav? Jedinstveni termalni kvaliteti njegove površine zahtevaju podrobnija ispitivanja.</text>
+	</string>
+	<string id="ecolog_find_artefact_2">
+		<text>Pronađi "Gravi" artefakt</text>
+	</string>
+	<string id="ecolog_find_artefact_2_descr">
+		<text>Donesi artefakt "Gravi" naučnicima.</text>
+	</string>
+	<string id="ecolog_find_artefact_2_text">
+		<text>Približili smo se potpunom razumevanju prirodi gravitacije, praktično, uskoro ćemo moći da proizvedemo antigravitacione motore, i najverovatnije da nam je put do zvezda otvoren. Za tako nešto nam je potreban artefakt Gravi i to brzo.</text>
+	</string>
+	<string id="ecolog_find_artefact_3">
+		<text>Pronađi artefakt "Meduza"</text>
+	</string>
+	<string id="ecolog_find_artefact_3_descr">
+		<text>Naučnicima je potrebna "Meduza" da bi radili istraživanja na polju vremena u svemiru.</text>
+	</string>
+	<string id="ecolog_find_artefact_3_text">
+		<text>Naši istraživači su na korak od otkrivanja misterije vremena u svemiru. Mogućnost teleportacije više nije fantazija! Vrtlog je anomalija koja steže prostor, a ne samo gravitaciono utiče na objekte, kako smatra jedan od mojih osiljenih protivnika-teoretičara, koji sedi u toplom istraživačkom postrojenju ozbiljno zvačući kredu. Naočari će im zamagliti kada saznaju do kakvih se naucnih otkrića može doći kada radiš neposredno na terenu! Molim te, donesi mi artefakt Meduza".</text>
+	</string>
+	<string id="ecolog_find_artefact_4">
+		<text>Pronađi artefakt "Mesečina"</text>
+	</string>
+	<string id="ecolog_find_artefact_4_descr">
+		<text>Odnesi naučnicima u Jantaru artefakt "Mesečina". Dobar artefakt...</text>
+	</string>
+	<string id="ecolog_find_artefact_4_text">
+		<text>Očajnički nam je potreban materijal da bi nastavili istraživanja u energetici. Vidiš, naučili smo da generišemo energiju uz pomoć artefekata. Naravno, ovo radi sve dok KPD nije puno visok. Najbolje rezultate smo dobili sa artefaktom Mesečina. Molim te, donesi nam primerak radi eksperimenata.</text>
+	</string>
+	<string id="ecolog_find_artefact_5">
+		<text>Pronađi artefakt pod nazivom Morski jež</text>
+	</string>
+	<string id="ecolog_find_artefact_5_descr">
+		<text>Naučnicima je potreban Morski jež da poboljšaju svoja odela</text>
+	</string>
+	<string id="ecolog_find_artefact_5_text">
+		<text>Verovatno znaš da naša odela pružaju najbolju zaštitu od radijacije. Tajna leži u cčnjenici da ih potapamo u rastvor koji se pravi o prilično retkog artefekta. Da bi napravili drugu seriju tih odela, potreban nam je takav artefakt. Zovi ga Morski jež.</text>
+	</string>
+	<string id="ecolog_find_item_1">
+		<text>Donesi jedinstveno odelo</text>
+	</string>
+	<string id="ecolog_find_item_2_descr">	<!-- prije "ecolog_find_item_1_descr" !! -->
+		<text>Donesi neobično odelo iz podzemne laboratorije X16.</text>
+	</string>
+	<string id="ecolog_find_item_2_text">	<!-- prije "ecolog_find_item_1_text" !! -->
+		<text>Imamo neka posla s tobom. Skoro smo unajmili stalkera da ode do te laboratorije. Čak smo i tada primetili njegovo neobično zaštitno odelo - odavalo je primetnu toplotu. Stalker je rekao da to odelo samo može da zalečuje rane. Sve u svemu, stalker se nije vratio iz laboratorije. I ne - čak i ne pomišljaj na to! Mi nismo imali ništa s tim! A njegovo zaštitno odelo je verovatno još uvek negde tamo. Bilo bi mi veoma drago da ga dobijem radi istraživanja.</text>
+	</string>
+	<string id="ecolog_monster_part_1">
+		<text>Donesi deo tela snorka</text>
+	</string>
+	<string id="ecolog_monster_part_1_descr">
+		<text>Prosto je ko pasulj doći do dela snorka u ovim krajevima.</text>
+	</string>
+	<string id="ecolog_monster_part_1_text">
+		<text>Upoznali smo se sa Semenovim na univerzitetu gde sam predavao genetiku, i on je bio moj student. Tako sam postao njegov šef nauke. Tada, samo smo malo otkrili misteriju genske modifikacije. Šta sam pricao? Ah, da. Za genetske eksperimente ćemo trebati primerak svežih ćelija misićnog tkiva snorka. Moraćeš da se promuvaš po tresištu za ovaj genski materijal. Postoji pretpostavka da su snorkovi, kao vrsta, novi nivo ljudske evolucije. Da bi smo ovo sa sigurnošću saznali, mora se obaviti DNK test!</text>
+	</string>
+	<string id="ecolog_monster_part_2">
+		<text>Donesi oko "Mesine"</text>
+	</string>
+	<string id="ecolog_monster_part_2_descr">
+		<text>Bolje da se, za svaki slučaj, držim podalje od ovih jajoglavih! Vrlo dobro, nabaviću im oko "Mesine", a oni mogu da rade sa dobrovoljcima sta im je volja.</text>
+	</string>
+	<string id="ecolog_monster_part_2_text">
+		<text>Dobre vesti, mladiću, imamo jedan veoma zanimljiv zadatak za tebe! Mislim da kao intelektulno biće sa puno iskustva, znaćeš da ceniš teorije mojih kolega. Stvar je u tome, a to su pokazala istraživanja: oči stvorenja koje u žargonu zovemo "Mesina", poseduju... Jel' me pratiš?... sa mirisnim receptorima! Znaci, ne samo da mogu da vide očima, ona mogu i da mirišu njima! Spremni smo da izvršimo operaciju ovog čudesnog oka na jednog...jednog od nasih asistenata dobrovoljaca. Verujem da ćemo započeti pomamu za ovim! Uzgred, želiš li da postaneš primalac jednog ovakvog čudesnog organa?</text>
+	</string>
+	<string id="ecolog_monster_part_3">
+		<text>Donesi rep slepog psa</text>
+	</string>
+	<string id="ecolog_monster_part_3_descr">
+		<text>Dobro, pogledaj nauku! Trudi se da nađe drugi mozak u ljudima?.. Siroti psi, jedan od njih će morati da ostane bez repa.</text>
+	</string>
+	<string id="ecolog_monster_part_3_text">
+		<text>Dobrodošao...putniče! Drago mi je što si svratio: potreban nam je čovek za učešće u krajnje važnom eksperimentu. Moj kolega Brenter skuva i proba jelo koristeći lokalnu faunu radi praktičnog ispitivanja uticaja mutiranih proteina na ljudsko telo. Za početak, odlučili smo da probamo divlje veprove. Potrebna nam je šunka. Veprov but, razumeš? I molim te, ukoliko pristaneš na ovo, da izabereš najzdraviji primerak.</text>
+	</string>
+	<string id="ecolog_monster_part_4">
+		<text>Donesi but od divljeg vepra</text>
+	</string>
+	<string id="ecolog_monster_part_4_descr">
+		<text>Ljubitelji gurmanskih uzbuđenja... U redu, doneću ja vama šunku.</text>
+	</string>
+	<string id="ecolog_monster_part_4_text">
+		<text>Dobar dana, kolega! Nadam se da znaš da psi spadaju u podgrupu kičmenjaka... Što znači da njihov kičmeni stup počinje sa glavom a završava se sa repom. E tu je začkoljica! Jedan od mojih kolega je teoretski dokazao da kičma kod slepih pasa - tako si nazvao ovu vrstu životinja - počinje od repa, ne od glave! Misleći o tome, to potpuno tumba naglavačke ono sto smo mislili da znamo u ovoj oblasti. Već postoje neke prilično smele teorije da su ljudi deo njihovog evoluciono stabla... doduše, ova tema je predmet mnogih diskusija. Ukratko, potrebna nam je glava psa, slepog psa, koji smo zbog ignorisanja i ne znanja mislili da je u stvari rep.</text>
+	</string>
+	<string id="ecolog_monster_part_5">
+		<text>Donesi vilicu Krvopije</text>
+	</string>
+	<string id="ecolog_monster_part_5_descr">
+		<text>Šta će da urade sa vilicom krvopije, nije me briga. Interesuje me samo koliko će mi platiti za ovu retkost.</text>
+	</string>
+	<string id="ecolog_monster_part_5_text">
+		<text>Ej stalkeru, drago mi je da te vidim! Slušaj... Već si sreo krvopije u svojim avanturama, zar ne? Ako nisi, onda mi želimo da se to desi. Donesi nam donju vilicu predstavnika ove vrste, sa kompletnim, da tako kažem, inventarom. Nažalost, ne mogu ti bliže otkrivati detalje eksperimenta jer bi imalo jak udarac na stabilnost tvoje psihe. čekaćemo te.</text>
+	</string>
+	<string id="ecolog_monster_part_6">
+		<text>Donesi ruku Kontrolera</text>
+	</string>
+	<string id="ecolog_monster_part_6_descr">
+		<text>Ekolozi žele ruku Kontrolera. Da ne žele naučiti upravljati tim stvorenjem?</text>
+	</string>
+	<string id="ecolog_monster_part_6_text">
+		<text>Ekhm... Obeleženi? Mislim da si na svojim putovanjima sigurno naleteo na jedno vrlo radoznalo stvorenje, koje stalkeri zovu "kontroler", jesi? Vidiš, mi smo jako zainteresirani za neke njegove sposobnosti... Ako nam omogućiš neophodni materijal za istraživanje, recimo njegovu ruku na primer, bićemo jako zahvalni... .</text>
+	</string>
+	<string id="eliminate_lager">
+		<text>Uklanjanje kampa.</text>
+	</string>
+	<string id="find_item">
+		<text>Pronađi predmet.</text>
+	</string>
+	<string id="freedom_defend_lager_1">
+		<text>Zaštiti stalkere u Agropromu</text>
+	</string>
+	<string id="freedom_defend_lager_1_descr">
+		<text>Odbiti napad Bandita na stalkerski kamp u Agropromu.</text>
+	</string>
+	<string id="freedom_defend_lager_1_text">
+		<text>U Agropromu živi grupa stalkera. Normalni momci, razumeju da je Zona mesto slobode, da zakoni ovde ne važe i da samo moraš da živiš ispravno, na osnovu svojih moralnih normi. Sada se razmišljaju da nam se pridruže.Pa...hoćeš li im pomoći da odbiju napade Bandita? Mi ćemo ti poslati i nešto municije.</text>
+	</string>
+	<string id="freedom_defend_lager_2">
+		<text>Zaštiti granicu</text>
+	</string>
+	<string id="freedom_defend_lager_2_descr">
+		<text>Zaštiti granicu u blizini Vojnih Skladišta od čudovišta.</text>
+	</string>
+	<string id="freedom_defend_lager_2_text">
+		<text>Evo ih opet, čudovišta koja dolaze iz pravca Spaljivača Mozgova. Pomogni momcima na granici da ih zadrže. Garantujem ti da ćeš biti nagrađen.</text>
+	</string>
+	<string id="freedom_eliminate_camp_1">
+		<text>Unisti vojni kamp</text>
+	</string>
+	<string id="freedom_eliminate_camp_1_descr">
+		<text>Unisti Vojni kamp pored Istraživačkog Instituta Agroprom.</text>
+	</string>
+	<string id="freedom_eliminate_camp_1_text">
+		<text>Vojska je krenula u postepeno preuzimanje Zone. Moramo da ih zaustavimo ili će u suprotnom Zona postati istraživački Zoološki vrt. Jedan od vojnih kampova je odmah do Agroproma. Ukoliko uspeš da očistiš to mesto, to će usporiti preuzimanje Zone od strane Vojske.</text>
+	</string>
+	<string id="freedom_eliminate_camp_2">
+		<text>Uništi kamp Plaćenika</text>
+	</string>
+	<string id="freedom_eliminate_camp_2_descr">
+		<text>Uništi kamp Plaćenika u blizini Skladišta.</text>
+	</string>
+	<string id="freedom_eliminate_camp_2_text">
+		<text>Slušaj, da se dogovorimo. Potrebno je da kamp Plaćenika bude uništen. Možemo mi da ih ostavimo, u pitanju su okej momci... Sem što su u stvari sami tražili da dobiju preko nosa, tako što su se šunjali po našoj teritoriji i pokušavajući da podmite moje ljude. Vreme je da nauče lekciju. Možeš li da odradiš to?</text>
+	</string>
+	<string id="freedom_eliminate_camp_3">
+		<text>Uništi odred Djutija</text>
+	</string>
+	<string id="freedom_eliminate_camp_3_descr">
+		<text>Uništi Djutijevu jedinicu za "čišćenje" u Rostoku.</text>
+	</string>
+	<string id="freedom_eliminate_camp_3_text">
+		<text>Šta misliš da kreneš malo u lov? Djutijev odred za "čišćenje" se pojavio u Rostoku. Ovo je odlična prilika da ih sredimo iznenada. Djuti stalno šalje ljude da love čudovišta, ali se usput ne libe da upucaju bilo koga, ko im se ne sviđa. Ovaj odred mora biti eliminisan pre nego se Djuti pojavi u Rostoku. Ne bi trebalo biti previše ljudi: tri ili četiri veterana i par guštera.</text>
+	</string>
+	<string id="freedom_eliminate_camp_4">
+		<text>Uništi ispostavu Djutija</text>
+	</string>
+	<string id="freedom_eliminate_camp_4_descr">
+		<text>Uništi Djutijevu ispostavu na Deponiji što je pre moguće.</text>
+	</string>
+	<string id="freedom_eliminate_camp_4_text">
+		<text>Postoji jedan veoma hitan posao. Prolaz od Deponije do Bara treba biti očišćen od Djutijeve jedinice... Tamo su se sakrili i pljačkaju sve koji tuda prolaze. Očekujemo veoma važan paket, međutim sada ne sme da nam bude poslat jer Djuti već zna za našeg dostavljača i pokušaće da ga se dočepa. Potrebno je da se uklona ta blokada puta, makar i na kratko. Važi?</text>
+	</string>
+	<string id="freedom_eliminate_camp_5">
+		<text>Očisti selo.</text>
+	</string>
+	<string id="freedom_eliminate_camp_5_descr">
+		<text>Očisti selo od krvopija i, ako je moguće, uništi Kontrolera.</text>
+	</string>
+	<string id="freedom_eliminate_camp_5_text">
+		<text>Čoveče, pogledaj sva ta čudovišta krvopijska, lunjaju po selu! Niko ne može prići unutar 100 metara od sela, osim totalnih glupandera. Neki tvrde da su viđali stvari tamo... Kontroler je sve što nam je sada potrebno! U svakom slučaju, krajnje je vreme da završimo to. Ne prisiljavam te, i da budem iskren, ja tamo nikad otišao ne bih. Ali ukoliko se ne plašiš, moja zahvalnost bi bila bezgranična.</text>
+	</string>
+	<string id="freedom_eliminate_camp_6">
+		<text>Uništi krdo divljih veprova i "Mesina"</text>
+	</string>
+	<string id="freedom_eliminate_camp_6_descr">
+		<text>Uništi krdo divljih veprova i "Mesina" kraj Vojnih Skladišta.</text>
+	</string>
+	<string id="freedom_eliminate_camp_6_text">
+		<text>Naš snajperista sedi na ulasku u Bazu. Sedi na tornju preko noći...tiho je, noćno vreme... Odjednom se desila eksplozija, divlje zavijanje, bljesak! Koji moj!... Ispostavilo se da divlji veprovi i "Mesine" imaju naviku da lutaju oko minskog polja. Đavo će ga znati šta traže tamo, ali je sigurno da bar jedna zver nedeljno biva raznesena od mine. Zadatak je jednostavan - pobij sve te živuljke. Hoćeš li?</text>
+	</string>
+	<string id="freedom_eliminate_camp_7">
+		<text>Uništi krdo glodara</text>
+	</string>
+	<string id="freedom_eliminate_camp_7_descr">
+		<text>Uništi krdo glodara na Divljoj Teritoriji.</text>
+	</string>
+	<string id="freedom_eliminate_camp_7_text">
+		<text>Nema glodara u blizini naše Baze, mada tih stvorenja može biti svuda. Do skoro ih je ovde bilo toliko da ne bi poverovao. Dva meseca smo ih tamanili...hehehe. Na kraju smo ukapirali odakle ti glodari dolaze u našu bazu. Sa Divlje Teritorije, razumeš? Postoji bojazan da će se ovi pacovi namnožiti i potom vratiti ovamo. Potreban nam je neko da se pobrine za njih. Hoćeš li ti?</text>
+	</string>
+	<string id="freedom_find_item_1">
+		<text>Ukradi snajpersku pušku</text>
+	</string>
+	<string id="freedom_find_item_1_descr">
+		<text>Ukradi modifikovani SVDm 2 iz Djutijevog skladišta.</text>
+	</string>
+	<string id="freedom_find_item_1_text">
+		<text>Evo jednog specijalnog zadatka. I prilično zeznutog, doduše... Znači, moraćeš da se dočepaš poboljšanog Dragunova iz Djutijevog skladišta. Ovaj komad čak ima i ime, ali to nije vazno. Glavna stvar je u tome što sa njegovim sjajnim optičkim nišanom i umanjenim trzajem, možeš da upucaš vevericu u oko sa 400 metara. Verujem da ćeš mi to odraditi!</text>
+	</string>
+	<string id="freedom_find_item_2">
+		<text>Dokopaj se modifikovanog Cejsera 13</text>
+	</string>
+	<string id="freedom_find_item_2_descr">
+		<text>Dokopaj se modifikovanog Cejsera 13 od naučnika.</text>
+	</string>
+	<string id="freedom_find_item_2_text">
+		<text>Čujem da je jajoglavi uspeo da unapredi sačmaricu Cejser koristeći artefakt. Snaga udarca ove stvarčice je ista ko kod haubice. Mogao bi da ih posetiš i vidiš da li možeš da se nagodiš sa njima. Nadoknadiću ti sve troškove!</text>
+	</string>
+	<string id="freedom_find_item_3">
+		<text>Donesi neprobojni prsluk</text>
+	</string>
+	<string id="freedom_find_item_3_descr">
+		<text>Donesi novi model neprobojnog prsluka.</text>
+	</string>
+	<string id="freedom_find_item_3_text">
+		<text>Neki kreteni se šetaju u novim modelima neprobojnih prsluka. Unutrašnjost istih je natopljena nekom mašću za zarastanje rana ili tako nešto... kako god, čine da male rane zarastaju veoma brzo. Provali, koja sreća sad: baš pre neki dan desetorica tih momaka je otišlo u Jantar, a samo šest ih se vratilo sa trojicom koju su nosili na leđima. Kapiraš? Jedan od njih je ostao tamo. Ukoliko nam doneseš njegov neprobojni prsluk, ispitaćemo ga i napraviti ih dosta posle toga.</text>
+	</string>
+	<string id="freedom_kill_stalker_1">
+		<text>Ubij Djutijevog šefa obezbeđenja</text>
+	</string>
+	<string id="freedom_kill_stalker_1_descr">
+		<text>Ubij Djutijevog šefa obezbeđenja što je tiše moguće.</text>
+	</string>
+	<string id="freedom_kill_stalker_1_text">
+		<text>Bilo bi dobro da šef obezbeđenja Djutija tiho nestane. Kada se nađu u haosu, moći ću da ubacim nekoliko mojih momaka u njihovu družinu. Posle toga, đavo može da dođe po svoje... dobro je, bolje da ućutim. Predlazem ti da ga skineš iz daljine, bez dizanja nepotrebne prašine.</text>
+	</string>
+	<string id="freedom_kill_stalker_2">
+		<text>Ubij Kapetana Ivancova</text>
+	</string>
+	<string id="freedom_kill_stalker_2_descr">
+		<text>Ubij Kapetana Ivancova, najbližeg pomoćnika Djutijevog lidera.</text>
+	</string>
+	<string id="freedom_kill_stalker_2_text">
+		<text>U pitanju je težak posao, odma' ću da te upozorim, ali isplatiće ti se. Ivancov, blizak pomoćnika Djutijevog vođe, je sam tražio đavola. On odrađuje najprljavije poslove: kaznene operacije, pljačke... Da samo znaš koliko je naših momaka pobio! Krajnje je vreme da se obračunamo sa ovom slinom. Znači, ukoliko se odlučiš da uradiš to, savetujem da se dobro naoružaš i opremiš.</text>
+	</string>
+	<string id="freedom_kill_stalker_3">
+		<text>Ubij Pukovnika Petrenka</text>
+	</string>
+	<string id="freedom_kill_stalker_3_descr">
+		<text>Ubij Pukovnika Petrenka, jednog od osnivača Djutija.</text>
+	</string>
+	<string id="freedom_kill_stalker_3_text">
+		<text>Pukovnik Petrenko... Ne znam da li si čuo za to ime ili si ga sreo, ali bi bilo dobro da se sretnete. Taj čovek je jedan od osnivača Djutija i jedan od naših najgorih neprijatelja. Potrudi se da se vaš razgovor završi što je pre moguće... za njega. Možeš li da obaviš to?</text>
+	</string>
+	<string id="freedom_kill_stalker_4">
+		<text>Ubij nesvrstanog stalkera</text>
+	</string>
+	<string id="freedom_kill_stalker_4_descr">
+		<text>Pronađi i ubij nesvrstanog stalkera</text>
+	</string>
+	<string id="freedom_kill_stalker_4_text">
+		<text>Ima jedan momak koji se šeta okolo, nedaleko odavde. Ubio je jednog našeg. Nešto tako ne može biti oprošteno. Hoćeš li da prihvatiš posao? Dobra je kinta, ne brini.</text>
+	</string>
+	<string id="freedom_kill_stalker_5">
+		<text>Ubij Djuti komandira</text>
+	</string>
+	<string id="freedom_kill_stalker_5_descr">
+		<text>Ubij jednog od Djutijevih komandira.</text>
+	</string>
+	<string id="freedom_kill_stalker_5_text">
+		<text>Platiću za glavu bilo kod Djutijevog vođe! Kokni jednog od njih i dođi po nagradu.</text>
+	</string>
+	<string id="freedom_kill_stalker_6">
+		<text>Ubij stalkera Strašila .</text>
+	</string>
+	<string id="freedom_kill_stalker_6_descr">
+		<text>Eliminiši stalkera Strašila</text>
+	</string>
+	<string id="freedom_kill_stalker_6_text">
+		<text>Mi ubijamo čudovišta, sa tom razlikom da je to za nas pitanje opstanka ,a ne profita. Populacija mutanata nije tako brojna, osim toga, oni su živa bića također, pa ne možemo da dozvolimo njihovo istrebljenje. Neki pojedinci odbijaju da to razumeju. Prava ilustracija toga je stalker Strašilo. Dobio je nadimak s razlogom, prodajući ubijene mutante. Već smo ga upozorili, ali uzalud. Možeš li da odradiš dobro delo za majku Zemlju?</text>
+	</string>
+	<string id="freedom_kill_stalker_7">
+		<text>Ubij stalkera Barina.</text>
+	</string>
+	<string id="freedom_kill_stalker_7_descr">
+		<text>Ubij stalkera Barina, glavnog intendanta Djutija.</text>
+	</string>
+	<string id="freedom_kill_stalker_7_text">
+		<text>Gad, ulizica, licemer i kukavica... to je stalker Barin za tebe. Kao sto vidiš, čovek sa "čudesnim" karakterom, koji mu je pomogao da se popne na sam vrh u Djutiju. Trenutno snabdeva frakciju sa potrepštinama i hranom, ali s vremena na vreme učestvuje u prepadima i racijama. Potrebno nam je da ga se oslobodimo, a pre svega zato što sve ukazuje da je Barin glavni za Djutijevu logistiku.</text>
+	</string>
+	<string id="freedom_monster_part_1">
+		<text>Donesi nogu divljeg vepra</text>
+	</string>
+	<string id="freedom_monster_part_1_descr">
+		<text>Donesi nogu divljeg vepra</text>
+	</string>
+	<string id="freedom_monster_part_1_text">
+		<text>Planiramo žurku u vezi proslave rođendana Boba Marlija. Zašto nam ne bi doneo neku ukusnu šunku? Što više, to bolje! To ti ne bi bilo zaboravljeno!</text>
+	</string>
+	<string id="freedom_monster_part_2">
+		<text>Donesi kandže Himere</text>
+	</string>
+	<string id="freedom_monster_part_2_descr">
+		<text>Donesi kandže Himere</text>
+	</string>
+	<string id="freedom_monster_part_2_text">
+		<text>Oh! Jadni prijatelji, stalkeri grešnici! Kurvini sinovi! A baš smo pričali o tebi, Obeleženi. I ja kažem: "Obeleženi - on trga kandže sa žive himere!" A ova dva kretena mi ne veruju, možeš li zamisliti? Kažu: "Pa pusti li bar jednu suzu!"... Vidiš koliko su sumnjičavi? Prdlažem ti da da mi nabaviš jednu kandžu a ja ću ti dati čitavu vreću plena. I to punu i tešku. Pa, donećeš mi kandžu?</text>
+	</string>
+	<string id="hunter_eliminate_lager">
+		<text>Unisti leglo krvopija.</text>
+	</string>
+	<string id="hunter_eliminate_lager_descr">
+		<text>Jedan lovac je zamolio da se očisti leglo krvopija u selu u blizini Vojnih Skladišta, a zauzvrat je obećao jedan redak artefakt.</text>
+	</string>
+	<string id="hunter_eliminate_lager_text">
+		<text>Da li si ikad naleteo na krvopiju? Užasna stvar, zar ne? Pre par dana sam otišao do sela u blizini Vojnih Skladišta, reko' da potražim neki artefakt. Kad najednom ugledah krvopiju, bio je crn i sav u ožiljcima. Sedeo je nad nekim lešom, nije me primetio. Ispametio sam se i pobegao odatle. Ipak, nisam trebao da trčim jer me je čuo i krenuo je zamnom, a potom sam čuo i urlikanje svuda oko mene i shvatio sam da nije bio sam. Mislim da imaju leglo u tom selu. Ako bi mogao da ih oteraš odatle, daću ti redak artefakt koji sam pronašao pre par dana.</text>
+	</string>
+	<string id="kill_stalker">
+		<text>Ubij stalkera.</text>
+	</string>
+	<string id="lisiy_kill_stalker">
+		<text>Ubij izdajnika.</text>
+	</string>
+	<string id="lisiy_kill_stalker_descr">
+		<text>Ćelavi želi da ubiješ jednog stalkera koji je pobegao sa jednim veoma retkim artefaktom.</text>
+	</string>
+	<string id="lisiy_kill_stalker_text">
+		<text>Pre nekog vremena sam zajedno sa jednim stalkerom krenuo u potragu za artefektima u blizini Spaljivača Mozgova. Pronašli smo ih gomilu, a čak smo pronašli i neke koje nikada ranije nisam video, čak ni na slikama. Taj kučkin sin me je zavrnuo. Tokom naredne noći se iskrao i skrio je najvrednije artefakte. Potom je probao da mi proda priču kako su isti isparili sami od sebe. Pre par dana sam video jedan od tih vrednih artefakata kod Barmena. Popizdeo sam... U svakom slučaju stalkeru, ukoliko ga pronađeš, prenesi mu veliki pozdrav od mene. Usput, možda bi mogao da pronađeš gde mu se nalazi tajni štek i dočepaš se drugog artefakta. Vredi puno, veruj mi.</text>
+	</string>
+	<string id="mercenary_kill_stalker">
+		<text>Ubij vođu stalkera.</text>
+	</string>
+	<string id="mercenary_kill_stalker_descr">
+		<text>Plaćenici bi trebalo da plaćaju za svakog ubijenog vođu stalkera. Što je manje vođa, to je Plaćenicima lakše.</text>
+	</string>
+	<string id="mercenary_kill_stalker_text">
+		<text>Nije nam u interesu da ti hodajući tenkovi lutaju Zonom: stalkeri u egzoskeletnim odelima i naoružani do zuba. Posao postaje još opasniji i teži sa ovim. Što je njih manje - za nas je bolje. Ubij jednog od njih i dobićeš nagradu.</text>
+	</string>
+	<string id="monster_part">
+		<text>Nabavi deo tela čudovišta.</text>
+	</string>
+	<string id="petrenko_kill_stalker">
+		<text>Uništi stalkere Fridoma.</text>
+	</string>
+	<string id="petrenko_kill_stalker_descr">
+		<text>Jedan stalker, bivši Djutijevac, koji je imao gomilu važnih podataka o objektima u Pripjatu, pre nekog vremena se pridružio Fridomu. Mora biti eliminisan pre nego što previše ispriča.</text>
+	</string>
+	<string id="petrenko_kill_stalker_text">
+		<text>Pazi. Imamo mape Pripjata, nisu najnovije već stare, pravljene početkom devedesetih. Najvažnije na njima je obeležavanje svih vojnih objekata: podzemnih skladišta, skloništa. Sada nam, naravno, ne vrede puno, ali ukoliko nađemo put do Pripjata, ove informacije će biti neprocenjive. Međutim, evo šta je problem. Jedan od oficira je prebegao na stranu Fridoma, i on je bio upoznat sa tim informacijama. Jednostavno je, treba biti ućutkan pre nego što kaže previše.</text>
+	</string>
+	<string id="return_for_reward">
+		<text>Vrati se po nagradu.</text>
+	</string>
+	<string id="return_for_reward_bring">
+		<text>Donesi mušteriji obećano.</text>
+	</string>
+	<string id="shustriy_find_item">
+		<text>Pronađi usavršeno odelo.</text>
+	</string>
+	<string id="shustriy_find_item_descr">
+		<text>Nimble nam je rekao za štek Bandita gde kriju plen. Raspituje se dal' bi neko mogao da mu vrati ukradeno odelo...za nagradu, naravno.</text>
+	</string>
+	<string id="shustriy_find_item_text">
+		<text>Dok sam bio u zatočenistvu, čuo sam Bandite kako pričaju o svoj tajnom šteku, gde kriju plen. Čuo je da su sakrili kul ogrtač tu, a narednog dana nekom čudovistu je zapao za oko njihov štek. I toliko je postalo zainteresovano da se sada boje da se vrate tamo. Učini mi uslugu i donesi mi odelo. Platiću ti dobro.</text>
+	</string>
+	<string id="tm_barman_has_no_job">
+		<text>Trenutno nemam ništa da ti ponudim.</text>
+	</string>
+	<string id="tm_barman_job_ask">
+		<text>O čemu želiš da razgovaraš?</text>
+	</string>
+	<string id="tm_barman_job_complete">
+		<text>Sjajan posao, zasluženo dobijaš nagradu!</text>
+	</string>
+	<string id="tm_barman_job_what">
+		<text>Šta ima?</text>
+	</string>
+	<string id="tm_barman_list_job">
+		<text>Vidi šta smo to dobili:</text>
+	</string>
+	<string id="tm_defend_camp_1">
+		<text>Pokrivaj Djutijev odred.</text>
+	</string>
+	<string id="tm_defend_camp_1_descr">
+		<text>Pokrivaj Djutijev odred od napada Bandita u Mračnoj Dolini.</text>
+	</string>
+	<string id="tm_defend_camp_1_text">
+		<text>Konačno sam uspeo da ubedim tvrdoglave Djutijevce da je krajnje vreme da očistimo Deponiju od Bandita. Djuti će povećati svoju teritoriju i Banditi neće oštećivati moje redovne klijente tako često.  Dakle, ovako stoji stvar - vođstvo Djutija je odlučilo, za početak, da zaustavi priliv Bandita iz Mračne Doline. Povodom toga su poslali odred koji bi trebao da uspostavi blokadu, ali su otkrili da se Banditima to nije svidelo. Ko bi pomislio! Ono što sam se pitao, jel' možeš da im pomogneš da obezbede ulaz u Mračnu Dolinu? Izdašno ću ti se zahvaliti.</text>
+	</string>
+	<string id="tm_dolg_has_no_job">
+		<text>Trenutno nema nikakvih poslova.</text>
+	</string>
+	<string id="tm_dolg_job_ask">
+		<text>O čemu želiš da pričaš?</text>
+	</string>
+	<string id="tm_dolg_job_complete">
+		<text>Dobar momak! Dobro odrađen posao.</text>
+	</string>
+	<string id="tm_dolg_job_what">
+		<text>Slušam.</text>
+	</string>
+	<string id="tm_dolg_list_job">
+		<text>Evo novih detalja u vezi posla:</text>
+	</string>
+	<string id="tm_drunk_dolg_has_no_job">
+		<text>U ovom trenutku nema ništa.</text>
+	</string>
+	<string id="tm_drunk_dolg_job_ask">
+		<text>O kom zadatku želiš da pričaš?</text>
+	</string>
+	<string id="tm_drunk_dolg_job_complete">
+		<text>Posao odrađen - A evo i nagrade!</text>
+	</string>
+	<string id="tm_drunk_dolg_job_what">
+		<text>Šta je sa zadatkom?</text>
+	</string>
+	<string id="tm_drunk_dolg_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_ecolog_has_no_job">
+		<text>Žao mi je, ali nemamo nikakvih poslova za tebe trenutno.</text>
+	</string>
+	<string id="tm_ecolog_job_ask">
+		<text>O kom poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_ecolog_job_complete">
+		<text>Odradio se sjajan posao! Dozvoli da te nagradim.</text>
+	</string>
+	<string id="tm_ecolog_job_what">
+		<text>Slušam te.</text>
+	</string>
+	<string id="tm_ecolog_list_job">
+		<text>Evo sta mogu da ponudim:</text>
+	</string>
+	<string id="tm_eliminate_camp_1">
+		<text>Uništi kamp Bandita u Deponiji.</text>
+	</string>
+	<string id="tm_eliminate_camp_1_descr">
+		<text>Reši se Bandita koji pljačkaju stalkere koji si vraćaju iz Zone. Trgovac će biti srećan.</text>
+	</string>
+	<string id="tm_eliminate_camp_1_text">
+		<text>Banditi su se skoro okupili, stajući na put trgovini poštenih ljudi... Napravi najkraći put za Deponiju, rečeno mi je da su se te protuve smestile u blizini otpada. Pobrini se za ovo i svi će ti biti zahvalni, a ja ću biti darežljiv sa nagradom. Dogovoreno?</text>
+	</string>
+	<string id="tm_eliminate_camp_2">
+		<text>Uništi Banditski kamp u Autoparku.</text>
+	</string>
+	<string id="tm_eliminate_camp_2_descr">
+		<text>Postaraj se za Bandite u Autoparku. Izgleda da su novi u Zoni, pa posao bi trebao da bude lak.</text>
+	</string>
+	<string id="tm_eliminate_camp_2_text">
+		<text>Banditi se ponovo muvaju po Auto parku. Pa da li si već pogodio o kakvom je poslu reč? Dobro onda... odradi ga! Prenesi im naše najtoplije pozdrave pa se vrati, a ja ću onda da ti se zahvalim. Važi?</text>
+	</string>
+	<string id="tm_eliminate_camp_3">
+		<text>Ukloni Bandite pokraj Agropromovog Istraživačkog Instituta.</text>
+	</string>
+	<string id="tm_eliminate_camp_3_descr">
+		<text>Ukloni Bandite pokraj Agropromovog Istraživačkog Instituta. Bolje ti je da ostaneš u prijateljskim odnosima sa trgovcem.</text>
+	</string>
+	<string id="tm_eliminate_camp_3_text">
+		<text>Neki Banditi su se pojavili u blizini Agroproma. Uznemiravaju moje kopače kada pregledaju ono đubre. Reši taj problem, i biću tvoj dužnik.</text>
+	</string>
+	<string id="tm_eliminate_camp_4">
+		<text>Očisti područje od mutanata.</text>
+	</string>
+	<string id="tm_eliminate_camp_4_descr">
+		<text>Očisti područje od mutanata.</text>
+	</string>
+	<string id="tm_eliminate_camp_4_text">
+		<text>Ima jedna, prilično lagana stvar. Žele da dovedu nekog stranog turistu ovde. Platio je neke pare mojim momcima da pregledaju Zonu. Oblast koju žele da mu pokažu treba da bude očišćena od mutanata. 'Oćeš da odradiš to?</text>
+	</string>
+	<string id="tm_eliminate_camp_5">
+		<text>Ukloni dva Bandita u Deponiji.</text>
+	</string>
+	<string id="tm_eliminate_camp_5_descr">
+		<text>Učini da put ka jednom od dva najbolja mesta u Zoni bude pristupačan za sve.</text>
+	</string>
+	<string id="tm_eliminate_camp_5_text">
+		<text>Skoro je jedno od najboljih mesta u Zoni postalo nepristupačno za sve ljubitelje čudesnog. U Deponiji... Da, u Deponiji, postoji jedno neobično mesto koje nije ko nijedno drugo, gde te sva tuga napušta, gde zaboraviš na prljavštinu, na novac, krv. Zaboravi na njega, jer tamo sada sede dve nakaze, koje prete da će ubiti svakog ko im ne bude platio ulaz. Reši ih se - nemam na koje drugo mesto da vodim turiste.</text>
+	</string>
+	<string id="tm_eliminate_camp_6">
+		<text>Ubij krvopiju u Mračnoj Dolini</text>
+	</string>
+	<string id="tm_eliminate_camp_6_descr">
+		<text>Ubij krvopiju u Mračnoj Dolini</text>
+	</string>
+	<string id="tm_eliminate_camp_6_text">
+		<text>Kažu da su trupe napustile Mračnu Dolinu. Potom su čudovišta počela da izlaze iz svih pukotina. Stalkeri su već primetili jednog krvopiju i to veoma neobičnog zapravo - ovaj se ne boji otvorenog prostora. Kako god, kad se jednom procuje, naučnici će definitivno želeti da proučavaju ovog krvopiju. Ja želim da budem osoba koja će im predati telo. Tvoj posao je da ubiješ krvopiju, a ja ću se pobrinuti za ostalo.</text>
+	</string>
+	<string id="tm_find_artefact_1">
+		<text>Pronađi artefakt Meduza</text>
+	</string>
+	<string id="tm_find_artefact_1_descr">
+		<text>Pronađi artefakt Meduza koji je formiran u Trampolina anomaliji</text>
+	</string>
+	<string id="tm_find_artefact_1_text">
+		<text>Neki momci iz Veliki Zemlje su pitali za Meduzu. Ne vredi puno para, ali je prosto k'o pasulj dokopati ga se. Uzmi ga!</text>
+	</string>
+	<string id="tm_find_artefact_2">
+		<text>Pronađi artefakt Kameni Cvet</text>
+	</string>
+	<string id="tm_find_artefact_2_descr">
+		<text>Pronađi artefakt Kameni Cvet formiranom u Trampolina anomaliji. Pretpostavlja se da vredi dobru kintu.</text>
+	</string>
+	<string id="tm_find_artefact_2_text">
+		<text>Imam zahtev za Kameni Cvet. Narudžbina je, u stvari, od strane draguljara, pa učinimo lepe dame srećnima, a? Ukoliko ga se dočepaš, dobićeš novac i flašu pića da popiješ za njihovo zdravlje...</text>
+	</string>
+	<string id="tm_find_artefact_3">
+		<text>Nađi artefakt Noćna Zvezda</text>
+	</string>
+	<string id="tm_find_artefact_3_descr">
+		<text>Pronađi Noćnu Zvezdu, redak i skup artefakt.</text>
+	</string>
+	<string id="tm_find_artefact_3_text">
+		<text>Ima jedan poslić... Doduše, prilično neprijatan. Izgleda da dolazi od Vojske jer rade ne nekoj novoj zaštiti. Kako god, postoji narudžbina za Noćnu Zvezdu. U pitanju je prilično redak artefak, ali pruža veoma dobru zaštitu od metaka... Pa, odradićeš to? Dobro ću da platim!</text>
+	</string>
+	<string id="tm_find_artefact_4">
+		<text>Pronađi artefakt pod nazivom Komad Mesa</text>
+	</string>
+	<string id="tm_find_artefact_4_descr">
+		<text>Nađi artefakt koji zalečuje rane, Komad Mesa</text>
+	</string>
+	<string id="tm_find_artefact_4_text">
+		<text>Imam narudžbinu za artefakt, artefakt koji zalečuje rane, a zove se Komad Mesa! Imaju neku vrstu klinike. Ukoliko ga nađeš, bićeš plaćen i istovremeno ćeš pomoći ljudima.</text>
+	</string>
+	<string id="tm_find_item_1">
+		<text>Pronađi usavršen pištolj</text>
+	</string>
+	<string id="tm_find_item_1_descr">
+		<text>Nabavi oružje koje se zove Tvrđava i koji ima, kako kažu glasine, veću količinu metaka u svom šarzeru. Njegov poslednji poznati vlasnik je bio komandir vojnog kontrolnog punkta ispod pokvarenog i srušenog mosta.</text>
+	</string>
+	<string id="tm_find_item_1_text">
+		<text>Čoveče, sad je u modi koristiti modifikovano oružje i niko ne želi više da puca iz normalnog oružja, čak ni početnici! U svakom slučaju, postoji narudžbina za poboljšan mitraljez. Glasine kažu da vojni komandir, onaj koji ubira novac za prolazak ispod mosta, ima Tvrđavu sa povećim šarzerom. Hoćeš li da ga uzmeš?</text>
+	</string>
+	<string id="tm_freedom_has_no_job">
+		<text>Stvarno, trenutno nema nikakog posla...</text>
+	</string>
+	<string id="tm_freedom_job_ask">
+		<text>Pa, o čemu želiš da pričaš?</text>
+	</string>
+	<string id="tm_freedom_job_complete">
+		<text>Evo ga fini mladić! Sjajan posao, evo novca.</text>
+	</string>
+	<string id="tm_freedom_job_what">
+		<text>Šta ima?</text>
+	</string>
+	<string id="tm_freedom_list_job">
+		<text>Evo šta imam:</text>
+	</string>
+	<string id="tm_hunter_has_no_job">
+		<text>Za sad ništa.</text>
+	</string>
+	<string id="tm_hunter_job_ask">
+		<text>O kom zadatku želiš da pričaš?</text>
+	</string>
+	<string id="tm_hunter_job_complete">
+		<text>Posao je odrađen -  i evo novca!</text>
+	</string>
+	<string id="tm_hunter_job_what">
+		<text>Šta ima u vezi posla?</text>
+	</string>
+	<string id="tm_hunter_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_job_nothing">
+		<text>U redu je. Onda neki drugi put.</text>
+	</string>
+	<string id="tm_job_completed">
+		<text>Odradio sam posao.</text>
+	</string>
+	<string id="tm_job_refuse">
+		<text>Odbijam da odradim ovaj posao.</text>
+	</string>
+	<string id="tm_kill_stalker_1">
+		<text>Ubij vođu Bandita</text>
+	</string>
+	<string id="tm_kill_stalker_1_descr">
+		<text>Ubij vođu Bandita koji je izigrao trgovca. Najverovatnije neće biti sam... Težak posao, ali će isplata pokriti sve to. Potraži ga u Deponiji.</text>
+	</string>
+	<string id="tm_kill_stalker_1_text">
+		<text>Trebaš da odradiš ovog kicoša, jednog od vođa Bandita. Pre neki dan, Banditi su po njegovom naređenju, presreli mog kurira i propustili ga kroz šake, a je ne želim da trošim reči sa onima koji diraju moje ljude... Jednom rečju, ukoliko završiš ovo, vratiću ti uslugu. Jesi li spreman za ovaj posao?</text>
+	</string>
+	<string id="tm_kill_stalker_2">
+		<text>Ubij stalkera trgovca</text>
+	</string>
+	<string id="tm_kill_stalker_2_descr">
+		<text>Ubij stalkera... Pa, ovo nije najbolji posao, udariti na kolegu. Ali kinta je veoma dobra, i to je ono što je najbitnije.</text>
+	</string>
+	<string id="tm_kill_stalker_2_text">
+		<text>Imam problema sa ovim trgovcem. Ma goni ga, ako ne želi da sarađuje, do vraga s njim! Ali ne želim da bilo ko započne s prljavim glasinama. Ukratko, mora da bude zbrisan da ostalima nešto slično ne padne na pamet. Neka znaju ko je glavni ovde...</text>
+	</string>
+	<string id="tm_kill_stalker_3">
+		<text>Ubij stalkera početnika</text>
+	</string>
+	<string id="tm_kill_stalker_3_descr">
+		<text>Postaraj se za stalkera početnika, koji možda uopšte nije početnik... Ko je onda? Ma, koga briga! Sve dok odrađivanje tog posla nije previše traljavo.</text>
+	</string>
+	<string id="tm_kill_stalker_3_text">
+		<text>Ima jedan momak koji se muva ovuda, praveći se da je početnik, ali je pre, rekao bih, uvrnut... Znači, ukoliko iznenada nestane, učinio bi mi veliku uslugu. Znaš šta mislim?</text>
+	</string>
+	<string id="tm_kill_stalker_4">
+		<text>Ubij stalkera sa imenom Fiend</text>
+	</string>
+	<string id="tm_kill_stalker_4_descr">
+		<text>Odradi jednog protivnika trgovca Sidorovića pod imenom Fiend.</text>
+	</string>
+	<string id="tm_kill_stalker_4_text">
+		<text>Fiend, također poznat pod imenom Oleg Gusarov... Bivši pripadnik Spetsnaza. Sve dok je gledao svoja posla, nisam imao ništa protiv njega, usamljenik ko usamljenik. Ipak, čuo sam da okuplja bandu da bi razbio Kordon i pruzeo kontrolu nad krijumčarenjem u Zoni. To sad predstavlja veliki problem koji mora da bude brzo rešen. Odradićeš to?</text>
+	</string>
+	<string id="tm_kill_stalker_5">
+		<text>Ubij oca Diodora</text>
+	</string>
+	<string id="tm_kill_stalker_5_descr">
+		<text>Ubij čoveka koji propoveda u Zoni protiv sakupljanja i trgovine artefaktima. Upravo tako.</text>
+	</string>
+	<string id="tm_kill_stalker_5_text">
+		<text>Uvek sam pričao da posao i religija ne idu zajedno, nikad ne mogu da se ukrste, i nikada ne bi trebalo da se mešaju jedno drugom u odnose! Stvar je u tome da ovaj sveštenik, Bože mi oprosti, Diodor... pa...ne vidi prostu istinu. Nastavlja da priča o skupljanju artefakata, govoreći da trgovina njima vodi ljude u greh ne samo u Zoni, već i u čitavom svetu. Razumeš ovo, on propoveda uništenje artefakata! Vidiš šta mu je cilj? Najgore u svemu što je uspeo da neke preobrazi! Probao sam na razne načine da priđem do Diadora, ali on ne želi da promeni stav. Evo šta treba da uradiš: pošalji ga gore gde može da propoveda koliko mu je volja... Razumeš poentu, zar ne? Potom ću ti dati jedan kul artefakt. Jel' imamo dogovor?</text>
+	</string>
+	<string id="tm_kill_stalker_6">
+		<text>Ubij "trgovačkog predstavnika"</text>
+	</string>
+	<string id="tm_kill_stalker_6_descr">
+		<text>Ubij "trgovačkog predstavnika". Trgovac čuva svoj ugled.</text>
+	</string>
+	<string id="tm_kill_stalker_6_text">
+		<text>Zamisli ovo: ima jedan čudak ovde koji trči okolo i koji se predstavlja kao moj predstavnik, korisiti moj ugled, a potom pokušava da uvali drugorazrednu robu! Pokvarene cevi za oružje, pancir koji se raspada, konzerve kojima je istekao rok trajanja. Već sam imao posla sa nekoliko nezadovoljnih mušterija. Da podvučem, potreban mi je čovek da malo popriča sa tim "mojim" predstavnikom, pa šta košta nek košta.</text>
+	</string>
+	<string id="tm_lisiy_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_lisiy_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_lisiy_job_complete">
+		<text>Zadatak je ispunjen... A evo i nagrade!</text>
+	</string>
+	<string id="tm_lisiy_job_what">
+		<text>A šta je sa poslom?</text>
+	</string>
+	<string id="tm_lisiy_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_mercenary_has_no_job">
+		<text>Trenutno nema ništa</text>
+	</string>
+	<string id="tm_mercenary_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_mercenary_job_complete">
+		<text>Zadatak je ispunjen... A evo i nagrade!</text>
+	</string>
+	<string id="tm_mercenary_job_what">
+		<text>A šta je sa zadatkom?</text>
+	</string>
+	<string id="tm_mercenary_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_monster_part_1">
+		<text>Donesi čeljust krvopije</text>
+	</string>
+	<string id="tm_monster_part_1_descr">
+		<text>Znači, zub krvopije donosi sreću? Da vidimo da li će doneti sreću krvopiji</text>
+	</string>
+	<string id="tm_monster_part_1_text">
+		<text>Čuo sam za sujevernu priču da zub krvopije donosi sreću. Ukoliko neko, ko nosi zub na ogrlici oko vrata, prođe anomaliju, artefakt će mu sam pasti u ruke. U svakom slučaju, to je teško sranje, ali jedan tupan veruje u sve to i spreman je da plati dobre pare za zub. Ukoliko doneseš vilicu krvopije, platiću ti dobro.</text>
+	</string>
+	<string id="tm_monster_part_2">
+		<text>Donesi rep Pseudo psa</text>
+	</string>
+	<string id="tm_monster_part_2_descr">
+		<text>Donesi rep Pseudo psa</text>
+	</string>
+	<string id="tm_monster_part_2_text">
+		<text>Uskoro dolazi zima. A šta to ribe vole da nose na sebi u Velikoj Zemlji tokom zime? Tako je - krzno. Sad je u modi razni odevni predmeti od repa Pseudo pasa. Valjda je u pitanju neko specijalno krzno! Da skratim, imam narudžbinu za taj rep. 'Oćeš da mi doneseš jedan?</text>
+	</string>
+	<string id="tm_monster_part_3">
+		<text>Donesi ruku Pseudogiganta</text>
+	</string>
+	<string id="tm_monster_part_3_descr">
+		<text>Donesi ruku Pseudogiganta</text>
+	</string>
+	<string id="tm_monster_part_3_text">
+		<text>Težak zadatak. Zaznut i težak poslić. Ako hoćeš, odmah mi reci. Da skratim, jedno obrambeno preduzeće je naručilo ruku pseudogiganta. Šta kažeš? To preduzeće dobro plaća, ali dobro razmisli - pseudogigant - to stvorenje je neverovatno opasno. Već sam poslao dva svoja čoveka - jedva su se vratili pužući. Ali ti si ozbiljan stalker koji poznaje svoje mogućnosti. Šta kažeš?</text>
+	</string>
+	<string id="tm_monster_part_4">
+		<text>Donesi ruku Burera</text>
+	</string>
+	<string id="tm_monster_part_4_descr">
+		<text>Donesi ruku Burera</text>
+	</string>
+	<string id="tm_monster_part_4_text">
+		<text>Pa, Obeleženi... Za trofeje iz Zone zainteresirani su i prijateljske i neprijateljske strukture. Nedavno mi je došao jedan tip: u diplomatskom odelu sa aktovkom, suh kao štap. Nekako je čudno govorio... "Mi smo", - reče - "jako zainteresirani za ruku Burera. I jako želimo da je dobijemo." Otvori aktovku, a ona puna "zelenjave" k'o slatkiša. I onda ja kažem: Za tu "zelenjavu" videćemo šta možmo uraditi. Pa šta kažeš...?</text>
+	</string>
+	<string id="tm_petrenko_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_petrenko_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_petrenko_job_complete">
+		<text>Zadatak je obavljen... A evo i nagrade!</text>
+	</string>
+	<string id="tm_petrenko_job_what">
+		<text>A šta je sa zadatkom?</text>
+	</string>
+	<string id="tm_petrenko_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_reward_job">
+		<text>Tu sam zbog posla.</text>
+	</string>
+	<string id="tm_seek_job_abandon">
+		<text>Nisam zainteresovan za tu vrstu posla.</text>
+	</string>
+	<string id="tm_seek_job_no">
+		<text>Neki drugi put.</text>
+	</string>
+	<string id="tm_seek_job_yes">
+		<text>Uzimam.</text>
+	</string>
+	<string id="tm_seek_job_reward">
+		<text>Šta ću dobiti za to?</text>
+	</string>	
+	<string id="tm_seek_new_job">
+		<text>Treba mi posao. Imaš li nešto za mene?</text>
+	</string>
+	<string id="tm_shustriy_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_shustriy_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_shustriy_job_complete">
+		<text>Zadatak je obavljen... A evo i nagrade!</text>
+	</string>
+	<string id="tm_shustriy_job_what">
+		<text>A šta je sa zadatkom?</text>
+	</string>
+	<string id="tm_shustriy_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_trader_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_trader_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_trader_job_complete">
+		<text>Posao obavljen... A evo i nagrada!</text>
+	</string>
+	<string id="tm_trader_job_what">
+		<text>A šta je sa poslom?</text>
+	</string>
+	<string id="tm_trader_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_wolf_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_wolf_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_wolf_job_complete">
+		<text>Zadatak je obavljen...A evo i nagrade!</text>
+	</string>
+	<string id="tm_wolf_job_what">
+		<text>A šta je sa poslom?</text>
+	</string>
+	<string id="tm_wolf_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="tm_zastava_commander_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_zastava_commander_job_ask">
+		<text>O kojem poslu želiš da razgovaramo?</text>
+	</string>
+	<string id="tm_zastava_commander_job_complete">
+		<text>Zadatak je obavljen...A evo i nagrade!</text>
+	</string>
+	<string id="tm_zastava_commander_job_what">
+		<text>A šta je sa zadatkom?</text>
+	</string>
+	<string id="tm_zastava_commander_list_job">
+		<text>Ima nešto:</text>
+	</string>
+	<string id="wolf_eliminate_lager_1">
+		<text>Uništi leglo  divljih veprova</text>
+	</string>
+	<string id="wolf_eliminate_lager_1_descr">
+		<text>Divlji veprovi su imaju leglo u blizini mesta gde su Vuk i njegov prijatelj napravili skladište. Vuk je zatražio da se to leglo očisti i obećao je da će to velikodušno nagraditi.</text>
+	</string>
+	<string id="wolf_eliminate_lager_1_text">
+		<text>Zajedno sam s prijateljem napravio skladište nedaleko od voznog parka, gde je šuma gušća. U principu, baš ono što ti je potrebno. Međutim, skoro su divlji veprovi napravili leglo tamo i sad ne mogu da stignem do skladišta. Pomagaj - pobij veprove i ja ću da ti se zahvalim i u moje i u ime mog prijatelja.</text>
+	</string>
+	<string id="wolf_eliminate_lager_2">
+		<text>Uništi mutante na farmi.</text>
+	</string>
+	<string id="wolf_eliminate_lager_2_descr">
+		<text>Vuk traži da se očisti farma od mutanata, jer hoće da tu napravi tranzitni kamp</text>
+	</string>
+	<string id="wolf_eliminate_lager_2_text">
+		<text>Iako je ovo granica Zone, početnicima je čak i ovde teško. Banditi su samo pola problema, oni bar razumeju ruski. Ali mutanti - sa njima je stvarno teško. Imaju leglo na napuštenoj farmi, jedinom dobrom mestu za istureni kamp. Ukoliko uspeš da očistiš farmu od mutanata, tvoj ću dužnik biti.</text>
+	</string>
+	<string id="zastava_commander_eliminate_lager">
+		<text>Očisti leglo pasa</text>
+	</string>
+	<string id="zastava_commander_eliminate_lager_descr">
+		<text>Na južnom kontrolnom punktu Bara, nalazi se čopor pasa. Glavni na punktu je zatražio da se očisti leglo tih pasa i obećao je nagradu.</text>
+	</string>
+	<string id="zastava_commander_eliminate_lager_text">
+		<text>Uprkos svim naporima, neka čudovišta uspevaju da se probiju iz Deponije. Verovatno si i sam video čopor pasa južno od nas. Ukoliko ih ubiješ, dobićeš nagradu.</text>
+	</string>
+	<string id="defend_lager">
+		<text>Zaštiti kamp</text>
+	</string>
+	<string id="mil_screw_flamethrower_descr">	
+		<text>Moram pronaći neke predmete za popravku bacača plamena: \n1. Artefakt Vatrena Lopta\n2. Cevi. Moram pitati Sidoroviča o cevima.\n3. Manometer. Trebao bi biti u centralnim kompleksu u Agropromu.\n4. Plamenik. Moram pitati Barmena za njega.\n5. I, naravno, 10 flaša votke, za ovu nakazu...\nBiće ovo dug i težak dan...</text>
+	</string>
+	<string id="green_find_artefact_1">
+		<text>Donesi artefakt Vatrena Školjka</text>
+	</string>	
+	<string id="green_find_artefact_1_descr">
+		<text>Nabavi za lovce artefakt Vatrena Školjka.</text>
+	</string>
+	<string id="green_find_artefact_1_text">
+		<text>Obeleženi, od nas su naučnici naručili jedan jako redak artefakt: Vatrena Školjka. Ako ga pronađeš i doneseš, pored ostalih drangulija što to obično dajem, daću ti informaciju o jednom našem šteku gde ostavljamo naše stvari.</text>
+	</string>
+	<string id="green_find_artefact_2">
+		<text>Donesi artefakt Koža</text>
+	</string>	
+	<string id="green_find_artefact_2_descr">
+		<text>Nabavi za lovce artefakt Koža.</text>
+	</string>
+	<string id="green_find_artefact_2_text">
+		<text>Obeleženi, opet su naučnici naručili jedan artefakt, ovaj put artefakt Koža. Uslovi su kao i prošli put: ti pronađeš artefakt, a ja ti dam neke stvari i plus ti prebacim na PDA informaciju o jednom tajnom šteku.</text>
+	</string>
+	<string id="green_find_artefact_3">
+		<text>Donesi artefakt Bakine Perle</text>
+	</string>	
+	<string id="green_find_artefact_3_descr">
+		<text>Nabavi za lovce artefakt Bakine Perle.</text>
+	</string>
+	<string id="green_find_artefact_3_text">
+		<text>Obeleženi, opet su nam naučnici seli za vrat. Sada hoće artefakt Bakine Perle! A gde da ga nađem, do đavola!? Ako ga pronađeš vratiću ti uslugu uz odgovarajuću nagradu! Ah, umalo sam zaboravio...imam jedan štek samo za sebe, ali tebi će ipak bolje odgovarati.</text>
+	</string>
+	<string id="green_find_artefact_4">
+		<text>Donesi artefakt Elektro Dikobraz</text>
+	</string>	
+	<string id="green_find_artefact_4_descr">
+		<text>Nabavi za lovce artefakt Elektro Dikobraz.</text>
+	</string>
+	<string id="green_find_artefact_4_text">
+		<text>Oh, Obeleženi! Baš na vreme za jedan poslić. Narudžba za još jedan artefakt. Saharov u poslednje vreme traži samo najbolje, a ti najbolji artefakti se ne mogu naći na cesti. Da skratim, traži artefakt Elektro Dikobraz. Ako ga doneseš nećeš zažaliti, biću jako velikodušan. Uostalom, jedan naš čovek je nestao i mogu ti dati informacije o njegovom šteku. Nama ne koristi a tebi može dobro doći.</text>
+	</string>
+	<string id="tm_green_has_no_job">
+		<text>Trenutno nema ništa.</text>
+	</string>
+	<string id="tm_green_job_ask">
+		<text>O čemu želiš razgovarati?</text>
+	</string>
+	<string id="tm_green_job_complete">
+		<text>Zadatak odrađen... Evo isplata!</text>
+	</string>
+	<string id="tm_green_job_what">
+		<text>Šta je sa zadatkom?</text>
+	</string>
+	<string id="tm_green_list_job">
+		<text>Ima nešto...</text>
+	</string>
+</string_table>
+<!-- Tekst usklađen sa 109989 verzijom zakrpe - 13.06.2015 17:06 -sadd -->
+<!-- Preveo i prilagodio Flexerca -=- 10:55 10.04.2015 -->

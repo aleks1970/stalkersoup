@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 aleks edits, something-->
+<string_table>
+	<string id="list_trader_repair_0">
+		<text>Popravak oružja iz prvog slota košta:</text>
+	</string>
+	<string id="list_trader_repair_1">
+		<text>Popravak oružja iz drugog slota košta:</text>
+	</string>
+	<string id="list_trader_repair_2">
+		<text>Popravak odela košta:</text>
+	</string>
+	<!-- Sidorovich with complication. Repair of weapons -->
+	<string id="release_repair_weapon_0">
+		<text>Pa, da li je moje oružje gotovo?</text>
+	</string>
+	<string id="release_repair_weapon_1">
+		<text>Oružje? Koje oružje?\nAaa... To oružje... pomislio sam da si se zabunio oko nečega ... moja greška... Ha-ha... samo se šalim. Evo, uzmi ... izgleda kao novo.</text>
+	</string>
+	<!--********************************-->
+	<!-- Sidorovich Repair dialog start -->
+	<!--********************************-->
+	<string id="escape_trader_repair_0">
+		<text>Sidoroviču, da li popravljaš oružje i zaštitna odela?</text>
+	</string>
+<!--<string id="escape_trader_repair_0">	- 133    !!!!TB3D -
+		<text>Sidorovich, can you repair Weapons? .. Armour?</text>
+	</string -->
+	<string id="escape_trader_repair_1">
+		<text>Zanima te ono oružje u stegi pozadi? Da, to je dobro oružje. Međutim, potrebni su novi delovi. Dakle, šta želiš da popravljaš? Moram te upozoriti ... da to nije jeftin posao. Što je oštećenje veće, popravka će biti skuplja. Između ostalog, za popravku mi je potrebno i slično oružja za rezervne delove. Proveri svoj PDA. Tamo ti je tabela sa listom kompatibilnosti oružja. I pazi ovo ... nemoj mi davati unikatna oružja za rezervne delove - zadržaću ih, pa ih više nikad nećeš videti. Takođe, treba da uzmeš u obzir i vreme koje je potrbno za popravku stvari. Što je komplikovanija popravka, više će vremena biti potrebno. Ponekad i pola dana ... ponekad i duže. I samo da znaš, ne vršim popravke odela. Moraćeš pronaći nekog drugok ko će ti to raditi, ili možeš kupiti specijalni kit za popravke, pa to raditi sam ... ukoliko si vešt, tako ti je to ...</text>
+	</string>
+<!--<string id="escape_trader_repair_1">	- 133    !!!!TB3D -
+		<text>You're asking about that piece out back in the vice?! The 'Groza' .. yes, it's a fine weapon. However, Im waiting on some parts to finish repairing it. So, do you need somthing repaired? I can also fix Armour. I warn you though, its not cheap work. The more damaged the Armour is, the more expensive the repairs will be...\n \nHere is a list of possible repairs:</text>
+	</string -->
+	<string id="escape_trader_repair_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+<!--<string id="escape_trader_repair_2">	- 133    !!!!TB3D -
+		<text>Popravi oružje iz prvog slota:</text>
+	</string -->
+	<string id="escape_trader_repair_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+<!--<string id="escape_trader_repair_3">	- 133    !!!!TB3D -
+		<text>Popravi oružje iz drugog slota:</text>
+	<string -->
+	<string id="escape_trader_repair_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="escape_trader_repair_5">
+		<text>Samo malo, ostao sam bez novca. Vratiću se poslije.</text>
+	</string>
+<!--<string id="escape_trader_repair_5">	- 133    !!!!TB3D -
+		<text>Im a bit short on cash .. I will come back later...</text>
+	</string -->
+	<string id="escape_trader_repair_6">
+		<text>Kada popravka bude gotova - obavestiću te putem PDA. Nema tu mnogo posla, oko pola sata od prilike ...</text>
+	</string>
+<!--<string id="escape_trader_repair_6">	- 133    !!!!TB3D -
+		<text>I will perform the repairs...\n \nWhen it's ready, I will contact you...</text>
+	</string -->
+	<string id="escape_trader_repair_62">
+		<text>Kada popravka bude gotova - obavestiću te putem PDA. Mala su oštećenja. Oko sat vremena od prilike ...</text>
+	</string>
+	<string id="escape_trader_repair_63">
+		<text>Kada popravka bude gotova - obavestiću te putem PDA. Oštećenja su prilična .... potrajaće oko sat i po vremena ...</text>
+	</string>
+	<string id="escape_trader_repair_64">
+		<text>Kada popravka bude gotova - obavestiću te putem PDA. Ovde su u pitanju ozbiljna oštećenja - oko 3 sata rada ... ne trudi se da čekaš.</text>
+	</string>
+	<string id="escape_trader_repair_65">
+		<text>Kada popravka bude gotova - obavestiću te putem PDA. Ovde su u pitanju ozbiljna oštećenja - potrebno je zameniti paljbeni mehanizam - oko 4 sata rada ... ne trudi se da čekaš.</text>
+	</string>
+	<string id="escape_trader_repair_66">
+		<text>Kada popravka bude gotova - obavestiću te putem PDA. Biće potrebno oko 6 sati ili više ... za sada služi se drugim oružjem.</text>
+	</string>
+	<string id="escape_trader_repair_7">
+		<text>Da, Obeleženi, sve popravke su završene ...\n \nNek' te služi dobro.</text>
+	</string>
+	<string id="escape_trader_repair_8">
+		<text>Kakvim se ti poslom ovde baviš u stvari!? - Dam ti dva oružja da bih dobio jedno popravljeno, a onda mi kažeš da moram čekati ... Mislim da to neće moći ...</text>
+	</string>
+<!--<string id="escape_trader_repair_8">	- 133    !!!!TB3D -
+		<text>Excellent work. You are quite skilled ...</text>
+	</string -->
+	<string id="escape_trader_repair_9">
+		<text>Majstorski odrađeno, dobro sam potrošio novac. Hvala, vidimo se posle.</text>
+	</string>
+<!--<string id="escape_trader_repair_9">	- 133    !!!!TB3D -
+		<text>Masterful work!! Well worth the money.</text>
+	</string -->
+	<string id="escape_trader_repair_10">
+		<text>Možeš li popraviti nešto drugo?</text>
+	</string>
+<!--<string id="escape_trader_repair_10">	- 133    !!!!TB3D -
+		<text>Can you repair something else?</text>
+	</string -->
+	<string id="escape_trader_repair_11">
+		<text>Prestani trošiti moje vreme, vrati se kada budeš imao nešto što je stvarno oštećeno.</text>
+	</string>
+<!--<string id="escape_trader_repair_11">	- 133    !!!!TB3D -
+		<text>What else needs repairs?\n \nHere is a list of possible repairs:</text>
+	</string -->
+	<string id="escape_trader_repair_12">
+		<text>To je u redu, hvala ti. Opljačkan sam, ali bar je moje oružje popravljeno.</text>
+	</string>
+	<string id="escape_trader_repair_13">
+		<text>Pa bolje išta nego ništa ... Evo, uzmi.</text>
+	</string>
+	<string id="escape_trader_repair_14">
+		<text>Evo, uzmi novac ... Šta?! Nije dovoljno? Ovo je više nego što državni službenici zarade za mesec dana!!! Haje odmah uzmi ... pre nego što se predomislim.</text>
+	</string>
+	<string id="escape_trader_repair_21">
+		<text>Prihvata sve što dobijam. Ali ipak ... ovo je pljačka, znaš!!</text>
+	</string>
+	<string id="escape_trader_repair_31">
+		<text>OK .. daj mi novac. U ovim krajevim, Trgovci prave neverovatan profit od za S.T.A.L.K.E.R.e ... lol!!</text>
+	</string>
+	<!--****************************-->
+	<!-- Vasily Repair dialog start -->
+	<!--****************************-->
+	<!-- Vasily with complication. Repair of weapons and usual repair of the armor -->
+	<string id="finish_repair_weapon_0">
+		<text>Primio sam tvoju poruku ... da li je popravka završena?</text>
+	</string>
+	<string id="finish_repair_weapon_1">
+		<text>Da ... gubi mi se sa očiju. Potrošio sam tonu rezervnih delova na ovo sranje ... teško da je uopšte i vredelo ..</text>
+	</string>
+	<string id="march_trader_repair_0">
+		<text>Vasilij, možeš li mi popraviti opremu!?</text>
+	</string>
+	<string id="march_trader_repair_1">
+		<text>Svakako da mogu ... ali moram te upozoriti ... to nije jeftin posao. Više oštećenja, veći će troškovi biti. Pored toga, za popravku će mi biti potrebno slično oružje za rezervne delove. To je neophodan zahtev. Proveri svoj PDA. Tu ti je tabela sa listom kompatibilnih oružja. A zapamti i ovo ... nemoj mi davati unikatna oružja za rezervne delove - zadržaću ih, pa ih više nikada nećeš videti. Takođe, treba da uzmeš u obzir i vremem potrebno za popravkju stvari. Što je popravka složenija, to će trebati više vremena za nju. Ponekad pola dana ... a ponekad i duže. - Glavni deo posla je zamena oštećenih delova ..  Dakle?! ...</text>
+	</string>
+	<string id="march_trader_repair_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+	<string id="march_trader_repair_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+	<string id="march_trader_repair_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="march_trader_repair_5">
+		<text>To je previše skupo za sada ... Vratiću se kasnije.</text>
+	</string>
+	<string id="march_trader_repair_6">
+		<text>Kada završim popravke - poslaću ti poruku. Nema tu previše posla ... oko pola sata i biće spremno za tebe ...</text>
+	</string>
+	<string id="march_trader_repair_62">
+		<text>Kada popravka bude gotova - obavestiću te preko tvog PDA. Mislim da će sat vremena biti dovoljno ...</text>
+	</string>
+	<string id="march_trader_repair_63">
+		<text>Kada popravka bude gotova - obavestiću te preko tvog PDA. Ovde je šteta poprilična .... trebaće najmanje sat i po vremena ...</text>
+	</string>
+	<string id="march_trader_repair_64">
+		<text>Kada popravka bude gotova - obavestiću te preko tvog PDA. Ovde postoje ozbiljna oštećenja - oko 3 sata rada ... ne moraš čekati.</text>
+	</string>
+	<string id="march_trader_repair_65">
+		<text>Kada popravka bude gotova - obavestiću te preko tvog PDA. Ovde postoje ozbiljna oštećenja - Potrebno je zameniti paljbeni mehanizam - okoi 4 sata rada ... nemoj uzalud čekati.</text>
+	</string>
+	<string id="march_trader_repair_66">
+		<text>Kada popravka bude gotova - obavestiću te preko tvog PDA. Ovo oružje je skoro uništeno ... Biće potrebno oko 6 sati, idi odspavaj ili popij piće ... ova popravka zahteva ozbiljne zahvate ...</text>
+	</string>
+	<string id="march_trader_repair_7">
+		<text>Poslaću ti poruku kada sve bude gotovo. Oštećenja nisu jako strašna. Trebaće sat ili dva vremena ...</text>
+	</string>
+	<string id="march_trader_repair_71">
+		<text>Kada završim popravke poslaću ti poruku. Ovde je šteta poprilična, oko 4 sata rada, Rekao bih ...</text>
+	</string>
+	<string id="march_trader_repair_72">
+		<text>Kakvo je ovo smeće?!! ... ako stvarno insistiraš da se ovo popravlja, trebaće najmanje 8 sati. Poslaću ti poruku preko PDA kada bude gotovo.</text>
+	</string>
+	<string id="march_trader_repair_73">
+		<text>Kada popravka bude gotova ja ću ti javiti. Ovde će biti potrebno određeno vreme da se ovo odradi ... Nadam se da imaš dovoljno love da platiš za ovo!! Vreme popravke će biti oko 12 sati.</text>
+	</string>
+	<string id="march_trader_repair_74">
+		<text>Jel' ti mene zajebavaš!!? .. ovu stvar treba baciti u smeće!! ... ali, ako insistiraš, popraviću je za tebe ...  Poslaću ti poruku kada bude gotovo ... ovo će mi oduzeti ceo dan.</text>
+	</string>
+	<string id="march_trader_repair_75">
+		<text>Kada završim popravke - poslaću ti poruku. Šta se do đavola desilo sa ovim odelom!? Biće potrebni dani da pronađem odgovarajuće delove za njega ...</text>
+	</string>
+	<string id="march_trader_repair_8">
+		<text>Vasilij, barabo jedna: dao sam ti 2 oružja, a i dosta love ... Pa, još uvek moram da čekam?! ...</text>
+	</string>
+	<string id="march_trader_repair_81">
+		<text>Vasilij, ova popravka je važna ... koliko god vremena ti treba.</text>
+	</string>
+	<string id="march_trader_repair_9">
+		<text>Dobar posao!! .. Jesi li možda radio u fabrici oružja pre svega ovoga?</text>
+	</string>
+	<string id="march_trader_repair_10">
+		<text>Možeš li mi nešto popraviti?</text>
+	</string>
+	<string id="march_trader_repair_11">
+		<text>Pa onda, vrati mi nazad ... Napraviću.</text>
+	</string>
+	<string id="march_trader_repair_12">
+		<text>Dogovoreeno .. hvala ti ... Evo tvoje love.</text>
+	</string>
+	<string id="march_trader_repair_13">
+		<text>Kao novo... hvala ti ... Evo, uzmi novac.</text>
+	</string>
+	<string id="march_trader_repair_14">
+		<text>Evo, uzimaj pre nego što se predomislim ...</text>
+	</string>
+	<string id="march_trader_repair_21">
+		<text>Uzimam šta god dobijem za ovo sporedno oružje ...</text>
+	</string>
+	<string id="march_trader_repair_31">
+		<text>Dogovoreno. Evo, mi trgovci pravimo ogroman profit od vas ljudi ...</text>
+	</string>
+	<!--****************************-->
+	<!-- lanky Repair dialog start  -->
+	<!--****************************-->
+	<!-- lanky with complication. Repair of weapons and usual repair of the armor -->
+	<string id="final_repair_weap_0">
+		<text>Dobio sam poruku. Da li je popravka gotova?</text>
+	</string>
+	<string id="final_repair_weap_1">
+		<text>Sve je spremno za tebe. Evo, uzimaj ...</text>
+	</string>
+	<string id="dlinnuy_repair_0">
+		<text>Pozdrav, Majstoru od oružja, možeš li mi nešto popraviti?</text>
+	</string>
+	<string id="dlinnuy_repair_1">
+		<text>Svakako da mogu ... ali moram te upozoriti ... to nije jeftin posao. Više oštećenja, veći će troškovi biti. Pored toga, za popravku će mi biti potrebno slično oružje za rezervne delove. To je neophodan zahtev. Proveri svoj PDA. Tu ti je tabela sa listom kompatibilnih oružja. A zapamti i ovo ... nemoj mi davati unikatna oružja za rezervne delove - zadržaću ih, pa ih više nikada nećeš videti. Takođe, treba da uzmeš u obzir i vremem potrebno za popravkju stvari. Što je popravka složenija, to će trebati više vremena za nju. Ponekad pola dana ... a ponekad i duže. - Glavni deo posla je zamena oštećenih delova ..  Dakle?! ...</text>
+	</string>
+	<string id="dlinnuy_repair_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+	<string id="dlinnuy_repair_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+	<string id="dlinnuy_repair_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="dlinnuy_repair_5">
+		<text>U redu ... Vratiću se kasnije.</text>
+	</string>
+	<string id="dlinnuy_repair_6">
+		<text>Kada završim popravke - Poslaću ti poruku. Nema tu mnogo posla ... od prilike pola sata i biće sve spremno za tebe ... Popij piće u baru.</text>
+	</string>
+	<string id="dlinnuy_repair_62">
+		<text>Kada završim popravke - Poslaću ti poruku na PDA. Mislim da će sat vremena biti dovoljno ...</text>
+	</string>
+	<string id="dlinnuy_repair_63">
+		<text>Kada popravka bude gotova - Obavestiću te putem PDA. Oštećenja su prilična .... biće potrebno najmanje sat i po vremena ...</text>
+	</string>
+	<string id="dlinnuy_repair_64">
+		<text>Kada budem završio popravke - Obavestiću te putem PDA. Ovde postoje ozbiljna oštećenja - oko 3 sata rada ... ne trudi se da čekaš.</text>
+	</string>
+	<string id="dlinnuy_repair_65">
+		<text>Kada budem završio popravke - Obavestiću te putem PDA. Mnoge delove treba izmeniti ovde ... Najmanje 4 sata rada. Bilo bi ti jeftinije da si jednostavno kupio novo oružje. Ali, nema veze ...</text>
+	</string>
+	<string id="dlinnuy_repair_66">
+		<text>Kada budem završio popravke - Obavestiću te putem PDA. Ovo je strašno oštećeno, ali mogu to popraviti. Trebaće mi oko 6 sati ...</text>
+	</string>
+	<string id="dlinnuy_repair_660">
+		<text>Kada budem završio popravke - Obavestiću te putem PDA. To je sitan poslić. Jednostavno treba izvršiti neka podešavanja. Za sat i po, možda malo duže.</text>
+	</string>
+	<string id="dlinnuy_repair_661">
+		<text>Kada budem završio popravke - Obavestiću te putem PDA. Nema mnogo oštećenja, ali trebalo bi da prekontrolišem i podesim sve ne-standardne dodatke. Dođi ponovo za 5 sati ...</text>
+	</string>
+	<string id="dlinnuy_repair_662">
+		<text>Kada budem završio popravke - Obavestiću te putem PDA. Ovo će potrajati oko pet i po sati ...</text>
+	</string>
+	<string id="dlinnuy_repair_663">
+		<text>U kojoj gomili govana od Burera si ovo pronašao!? Za ovo će biti potrebno najmanje sedam sati da bi se popravilo!!! Obavestiću te putem  PDA kada bude gotovo, pa ga nemoj isključivati ...</text>
+	</string>
+	<string id="dlinnuy_repair_664">
+		<text>Ovo je obično smeće. Nadam se da si doneo drugo oružje za rezervne delove? Za ovo će biti potrebno oko osam sati. Kada završim popravke obavestiću te putem PDA.</text>
+	</string>
+	<string id="dlinnuy_repair_665">
+		<text>Kada završim popravke obavestiću te putem PDA. Ovo će potrajati, a i koštaće te značajne količine novca ... 10 sati rada, možda i više ...</text>
+	</string>
+	<string id="dlinnuy_repair_7">
+		<text>Kada završim - Poslaću ti poruku:\nOvde nema mnogo posla - dva sata.</text>
+	</string>
+	<string id="dlinnuy_repair_71">
+		<text>Kada završim - Kontaktiraću te:\nNema previše oštećenja - četiri sata.</text>
+	</string>
+	<string id="dlinnuy_repair_72">
+		<text>Kada završim - Poslaću ti poruku:\nOvo je ozbiljna popravka - osam sati.</text>
+	</string>
+	<string id="dlinnuy_repair_73">
+		<text>Kada završim - Kontaktiraću te:\nOvo je ogroman posao - dvanaest sati.</text>
+	</string>
+	<string id="dlinnuy_repair_74">
+		<text>Kada završim - Poslaću ti poruku:\nIzgleda da se neću naspavati večeras ...</text>
+	</string>
+	<string id="dlinnuy_repair_75">
+		<text>Kada završim - Poslaću ti poruku:\nTi ozbiljno zahtevaš da se ovo popravi? Ovo će trajati danima! Pa dobro ... to je tvoj novac ...</text>
+	</string>
+	<string id="dlinnuy_repair_8">
+		<text>Ako platiš u napred, čak i sa mojim delovima ... i opet ćeš morati da čekaš!!!</text>
+	</string>
+	<string id="dlinnuy_repair_81">
+		<text>Ponekad je čekanje nužno, moram preduzeti sve neophodne popravke.</text>
+	</string>
+	<string id="dlinnuy_repair_9">
+		<text>Majstorski posao. Ti si prokleto najbolji oružar u ZONI!!!</text>
+	</string>
+	<string id="dlinnuy_repair_10">
+		<text>Možeš li popraviti nešto drugo za mene?</text>
+	</string>
+	<string id="dlinnuy_repair_11">
+		<text>Dobro, daj da vidim ... šta treba da se popravlja?</text>
+	</string>
+	<string id="dlinnuy_repair_12">
+		<text>Sve će biti u redu ... hvala ... pogotovo sad kad je sav moj novac kod tebe ...</text>
+	</string>
+	<string id="dlinnuy_repair_13">
+		<text>Pa, bolje išta nego ništa ... Evo, uzimaj.</text>
+	</string>
+	<string id="dlinnuy_repair_14">
+		<text>Evo, uzimaj pre nego što se predomislim ...</text>
+	</string>
+	<string id="dlinnuy_repair_21">
+		<text>Daj mi novac ... i prestani da kukaš ...</text>
+	</string>
+	<string id="dlinnuy_repair_31">
+		<text>Ja ću uzeti tvoj novac ... nema problema. Ovde u ZONI, trgovci profitiraju od ljudi poput tebe ...</text>
+	</string>
+	<!--****************************-->
+	<!-- lanky upgrade dialog start  -->
+	<!--****************************-->
+	<!-- lanky with an upgrade of weapons -->
+	<string id="dlinnuy_upgrade_0">
+		<text>Pozdrav vrhunskom tehničaru, da li radi nadogradnju za različita oružja?</text>
+	</string>
+	<string id="dlinnuy_upgrade_1">
+		<text>Da, mogu izvršiti nadogradnju za određena oružja, ali da te upozorim ... to nije jeftino. Ja sam jedini tehničar ZONI koji može odraditi ovakvu vrstu posla ... zato nemoj kukati oko cene!! Međutim, ne radim sa pištoljima - proveri svoj PDA ... Postavio sam ti listu dostupnih nadogradnji. Takođe ... sve nadogradnje traju oko 3 sata. Svako oružje za modifikaciju koje zahteva i popravke će koštati više, a biće neophodno i više vremena za potrebne radnje.</text>
+	</string>
+	<string id="start_wnd_upgrade">
+		<text>Počnimo sa nadogradnjom.</text>
+		<!-- 133   !!!!TB3D -->
+	</string>
+	<string id="dlinnuy_upgrade_2">
+		<text>Nadogradi moje sekundarno oružje:</text>
+	</string>
+	<string id="dlinnuy_upgrade_21">
+		<text>Koju vrstu nadogradnje želiš?</text>
+	</string>
+	<string id="dlinnuy_upgrade_211">
+		<text>Promeni kalibar oružja za municiju koja je više dostupna ...</text>
+	</string>
+	<string id="dlinnuy_upgrade_212">
+		<text>Skupi grupisanje pogodaka kod oružja ... promašaj od nekoliko centimetara me može koštati života tamo.</text>
+	</string>
+	<string id="dlinnuy_upgrade_213">
+		<text>Umanji težinu oružja - biće lakše za nošenje, a i smirenije će biti nišanjenje.</text>
+	</string>
+	<string id="dlinnuy_upgrade_214">
+		<text>Nemoj još ništa raditi ...</text>
+	</string>
+	<string id="dlinnuy_upgrade_3">
+		<text>nadogradi moje primarno oružje:</text>
+	</string>
+	<string id="dlinnuy_upgrade_31">
+		<text>Koju vrstu nadogradnje želiš da izvršim?</text>
+	</string>
+	<string id="dlinnuy_upgrade_311">
+		<text>Promeni kalibar oružja za municiju koja je više dostupna ...</text>
+	</string>
+	<string id="dlinnuy_upgrade_312">
+		<text>Skupi grupisanje pogodaka kod oružja ... promašaj od nekoliko centimetara me može koštati života tamo.</text>
+	</string>
+	<string id="dlinnuy_upgrade_313">
+		<text>Umanji težinu oružja - biće lakše za nošenje, Ja nisam Švarceneger ... lol!!</text>
+	</string>
+	<string id="dlinnuy_upgrade_314">
+		<text>Nemoj još ništa raditi ...</text>
+	</string>
+	<string id="dlinnuy_upgrade_5">
+		<text>Vratiću se kasnije ...</text>
+	</string>
+	<string id="dlinnuy_upgrade_6">
+		<text>Kada nadogradnja bude gotova, poslaću ti poruku.\nBiće potrebno najmanje 3 sata.</text>
+	</string>
+	<string id="dlinnuy_upgrade_8">
+		<text>Tražiš od mene da čekam?! ... čak i pošto sam ti platio toliko!?</text>
+	</string>
+	<string id="dlinnuy_upgrade_9">
+		<text>Majstorski posao. Jesi li ti najbolji oružar u ZONI?</text>
+	</string>
+	<string id="dlinnuy_upgrade_10">
+		<text>Možeš li mi nadograditi nešto drugo?</text>
+	</string>
+	<string id="dlinnuy_upgrade_11">
+		<text>Ma daj ovamo .... Videću šta mogu učiniti ...</text>
+	</string>
+	<string id="dlinnuy_upgrade_12">
+		<text>U redu je, hvala ti ... ako budem imao nekih problema sa tim, doći ću ponovo.</text>
+	</string>
+	<string id="dlinnuy_upgrade_13">
+		<text>Bolje išta nego ništa ... Evo ti uzmi.</text>
+	</string>
+	<string id="dlinnuy_upgrade_14">
+		<text>Evo ... Šta, nije dovoljno?! Uzimaj pre nego što se predomislim!!</text>
+	</string>
+	<!--****************************-->
+	<!-- Sjak Repair dialog start   -->
+	<!--****************************-->
+	<!-- Sjak with complication. Repair of weapons and simple the armor -->
+	<string id="skryga_konez_repair_weap_0">
+		<text>Pozdrav ... kako moja popravka napreduje?</text>
+	</string>
+	<string id="skryga_konez_repair_weap_1">
+		<text>Posao je završen. Evo, uzimaj...</text>
+	</string>
+	<string id="skryga_repair_weap_0">
+		<text>Da li ti vršiš popravke?</text>
+	</string>
+	<string id="skryga_repair_weap_1">
+		<text>Naravno da vršim ... Ali moram te upozoriti ... taj posao nije jeftin. Što je veća šteta, popravka će biti skuplja. Mada, za popravku mi treba slično oružje za rezervne delove. To je obavezan zahtev. Proveri svoj PDA. Tamo ti je izlistana tabela sa kompatibilnosti oružja. A pazi i na to ... da mi slučajno ne daš unikatno oružje za rezervne delove - zadržaću ga, pa ga više nikada nećeš videti. Takođe, treba da uzmeš u obzir i vreme potrebno za popravke. Što je popravka komplikovanija, više će vremena biti potrebno. Ponekad pola dana ... možda i duže. - posao se uglavnom svodi na zamenu oštećenih delova ... Sa odelima, posao je mnogo lakši, pošte sve potrebne materijale imam već kod sebe u magacinu ... Pa?</text>
+	</string>
+	<string id="skryga_repair_weap_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+	<string id="skryga_repair_weap_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+	<string id="skryga_repair_weap_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="skryga_repair_weap_5">
+		<text>Preskupo mi je za sada ... Doći ću kasnije ...</text>
+	</string>
+	<string id="skryga_repair_weap_6">
+		<text>Popraviću to za tebe - Obavestiću te putem tvog PDA kada posao bude gotov.\nTrebaće oko polasata.</text>
+	</string>
+	<string id="skryga_repair_weap_62">
+		<text>Kada završim popravku - Obavestiću te putem tvog PDA.\nNe izgleda tako loše.\nBiće potrebno oko jednog sata ili malo više.</text>
+	</string>
+	<string id="skryga_repair_weap_63">
+		<text>Kada završim popravku - Obavestiću te putem poruke na tvoj PDA\nNajmanje sat i po vremena ...</text>
+	</string>
+	<string id="skryga_repair_weap_64">
+		<text>Kada završim popravku - Obavestiću te putem tvog PDA.\nJesi li ti ovo oružje ispustio u anomaliju ili tako nešto?... Biće potrebno oko 3 sata.</text>
+	</string>
+	<string id="skryga_repair_weap_65">
+		<text>Kada završim popravku - Obavestiću te putem tvog PDA.\nŠta to smrdi!? Jesi li ti ovo ispustio u snorkova govna?! Najmanje 4 sata rada, a i dobro čišćenje ...</text>
+	</string>
+	<string id="skryga_repair_weap_66">
+		<text>Kada završim popravku - Obavestiću te putem tvog PDA.\nOvo oružje je skoro potpuno uništeno ... Najmanje 6 sati vredi vreme popravka ovoga.</text>
+	</string>
+	<string id="skryga_repair_weap_7">
+		<text>Kada završim popravku - Obavestiću te putem poruke kada bude gotovo ... ili možeš čekati.\nOvde ne bi trebalo da ima mnogo posla. Biće spremno za nekoliko sati.</text>
+	</string>
+	<string id="skryga_repair_weap_71">
+		<text>Kada završim popravku - Obavestiću te putem poruke kada bude spemno.\nBiću u stanju da popravim ovo za 4 sata vremena ...</text>
+	</string>
+	<string id="skryga_repair_weap_72">
+		<text>Kada završim popravku - Obavestiću te putem tvog PDA.\nOvde je potrebno odraditi ozbiljan posao ... oko 8 sati rada ...</text>
+	</string>
+	<string id="skryga_repair_weap_73">
+		<text>Kada završim popravku - Obavestiću te putem tvog PDA.\nDa li si ovo možda pronašao u Himerinoj jazbini!? Ovo će trajati najmanje dvanaest sati!!</text>
+	</string>
+	<string id="skryga_repair_weap_74">
+		<text>Kada završim popravku - Obavestiću te putem poruke.\nNisi li valjda ozbiljan ... šališ se zar ne?! Ovo će traja ti oko 18 sati ... najmanje.</text>
+	</string>
+	<string id="skryga_repair_weap_75">
+		<text>Kada završim popravku - Obavestiću te putem poruke.\nOvo je najgore do sada što mi je neko doneo!! .. Ovo će trajati danima!!!</text>
+	</string>
+	<string id="skryga_repair_weap_8">
+		<text>Sjak, počeću da te zovem 'Škrti' iz Zone. Daću ti dva oružje, platiću ti u napred ... pa ću onda opet morati da čekam ... Prvoklasni šinter, to si ti!!</text>
+	</string>
+	<string id="skryga_repair_weap_81">
+		<text>Sjak, učini šta je potrebno, mogu da sačekam ...</text>
+	</string>
+	<string id="skryga_repair_weap_9">
+		<text>Hvala.</text>
+	</string>
+	<string id="skryga_repair_weap_10">
+		<text>Da li možeš popraviti nešto drugo?</text>
+	</string>
+	<string id="skryga_repair_weap_11">
+		<text>Pa, daj da vidimo šta još treba da se odradi ... Nadam se samo da nisi izgubio svoj novčanik.</text>
+	</string>
+	<string id="skryga_repair_weap_12">
+		<text>Vratiću se kasnije ... vidimo se.</text>
+	</string>
+	<string id="skryga_repair_weap_13">
+		<text>Pa, bolje išta nego ništa, rekao bih.</text>
+	</string>
+	<string id="skryga_repair_weap_14">
+		<text>Šta?! To je stvarno malo za ovo parče gvožđal!!</text>
+	</string>
+	<string id="skryga_repair_weap_21">
+		<text>Uzeću pare za prvo oružje. Vidim da cenjkanje sa tobom nema nikakvog smisla ...</text>
+	</string>
+	<string id="skryga_repair_weap_31">
+		<text>Uzeću pare za drugo oružje. Ovde u Zoni, mi trgovci pravimo dobar profit od likova kao što si ti ... HaHa!!</text>
+	</string>
+	<!--****************************-->
+	<!-- Barist Repair dialog start -->
+	<!--****************************-->
+	<string id="bar_trader_repair_0">
+		<text>Barmenu, možeš li popraviti nešto od moje opreme?</text>
+	</string>
+	<string id="bar_trader_repair_1">
+		<text>Mogu popraviti gotovo sve, a moje kolege nude nadogradnje za PDA.\nDakle, šta će biti?\n \nLista mogućih popravki:</text>
+	</string>
+	<string id="bar_trader_repair_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+	<string id="bar_trader_repair_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+	<string id="bar_trader_repair_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="bar_trader_repair_5">
+		<text>Izgleda da sam bez novca. Možda drugi put.</text>
+	</string>
+	<string id="bar_trader_repair_6">
+		<text>Evo, popravljeno i ispolirano!</text>
+	</string>
+	<string id="bar_trader_repair_7">
+		<text>Gotovo je, sve je popravljeno!</text>
+	</string>
+	<string id="bar_trader_repair_8">
+		<text>Ahh! Baš kao novo! Ti si uistinu majstor! Hvala ti.</text>
+	</string>
+	<string id="bar_trader_repair_9">
+		<text>Uistinu, odlično odrađeno!</text>
+	</string>
+	<string id="bar_trader_repair_10">
+		<text>Možeš li popraviti nešto drugo?</text>
+	</string>
+	<string id="bar_trader_repair_11">
+		<text>Naravno, sada trenutno i nemam nikakvog drugog posla.\n \nLista popravaka:</text>
+	</string>
+	<!--****************************-->
+	<!-- Doctor Repair dialog start -->
+	<!--****************************-->
+	<string id="yantar_trader_repair_0">
+		<text>Možeš li popraviti nešto od moje opreme?</text>
+	</string>
+	<string id="yantar_trader_repair_1">
+		<text>Mogu. Kada je potrebno mogu se malo odvojiti od istraživanja. Ali nemam sav alat, a i popravljanje radim čisto iz hobija, tako da ti neće biti jeftino.\n \nLista popravaka:</text>
+	</string>
+	<string id="yantar_trader_repair_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+	<string id="yantar_trader_repair_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+	<string id="yantar_trader_repair_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="yantar_trader_repair_5">
+		<text>O ne, skroz sam bez novca. Možda drugi put.</text>
+	</string>
+	<string id="yantar_trader_repair_6">
+		<text>Ovo će izgleda malo potrajati...\n \nOnda možeš doći da ga pokupiš.</text>
+	</string>
+	<string id="yantar_trader_repair_7">
+		<text>Ovo odelo je prilično oštećeno, ali imam materijale na polici. Neće dugo trajati...\n \nPopraviću ti ga kao da je za mene.</text>
+	</string>
+	<string id="yantar_trader_repair_8">
+		<text>Vrlo dobro! Stvarno si dobar oružar.</text>
+	</string>
+	<string id="yantar_trader_repair_9">
+		<text>Ovo će trajati oko pet sati ...</text>
+	</string>
+	<string id="yantar_trader_repair_10">
+		<text>Možeš li popraviti nešto drugo?</text>
+	</string>
+	<string id="yantar_trader_repair_11">
+		<text>Ako požurim, mogao bih završiti pre nego što se završi analiza podataka.\n \nLista popravaka:</text>
+	</string>
+	<!--***************************-->
+	<!-- Screw Repair dialog start -->
+	<!--***************************-->
+	<string id="mil_trader_repair_0">
+		<text>Izvini, ali ovde sam zbog popravka opreme... Koje su ti cene?</text>
+	</string>
+	<string id="mil_trader_repair_1">
+		<text>Ahahah... Ne brini, neću te opelješiti. Nisam "gramzivac" kako svi misle. Pa, šta želiš popraviti? To nije jeftin posao. Što je veće oštećenje, to je skuplji popravak. Dogovoreno?\n \nLista popravaka:</text>
+	</string>
+	<string id="mil_trader_repair_2">
+		<text>Popravi oružje iz prvog slota:</text>
+	</string>
+	<string id="mil_trader_repair_3">
+		<text>Popravi oružje iz drugog slota:</text>
+	</string>
+	<string id="mil_trader_repair_4">
+		<text>Popravi zaštitno odelo:</text>
+	</string>
+	<string id="mil_trader_repair_5">
+		<text>Nemam dovoljno novca... Odradićemo to drugi put.</text>
+	</string>
+	<string id="mil_trader_repair_6">
+		<text>Zamenio sam nekoliko delova, kapnuo ulja tu i tamo, očistio i ispolirao...\n \nSada se možeš dobro zabaviti!</text>
+	</string>
+	<string id="mil_trader_repair_7">
+		<text>Obeleženi, jel' imaš ti metu na leđima? Ok, daj mi je... Popraviću je...\n \nSamo za tebe, novcate ploče iz frižidera za pancirku! šteta što ti ne mogu popraviti mozak... Haha I sakrio sam ti tu metu na leđima... Oo, ma daj! Kakve su ti to face... Samo se šalim s tobom!...</text>
+	</string>
+	<string id="mil_trader_repair_8">
+		<text>Baš kao novo! Odlično odrađeno!</text>
+	</string>
+	<string id="mil_trader_repair_9">	<!-- U SS je "Nice work!!" ?? sadd -->
+		<text>Da, baš smešno... Zaista... Zaštitno odelo si perfektno popravio... Iako si mogao dodati još te dve ploče koju leže na stolu... Škrti stvore!</text>
+	</string>
+	<string id="mil_trader_repair_10">
+		<text>Možeš li popraviti nešto drugo?</text>
+	</string>
+	<string id="mil_trader_repair_11">
+		<text>Naravno, samo nemoj zaboraviti platiti. Ne popravljam besplatno.\n \nLista popravaka:</text>
+	</string>
+	<!--********************-->
+	<!-- Repair dialogs end -->
+	<!--********************-->
+	<!-- the table of the compatible weapon for PDA-->
+	<string id="text_tabl_stvol">
+		<text>Lista kompatibilnog oružja za popravku:\n \n
+1. AS 'Val' BCC 'Vintorez' VSK-94, AK-9\n
+2. Winchester 1300, W1300 'Chaser', Winchester 1200, Franchi SPAS-12, SPAS-12 'Hunter', SPAS-12 'Storm', Prototype 'Protecta', Protecta 'Assault', Benelli M4 Scoped, Benelli M4 Super 90, Scattergun Benelli M3, Mossberg 590, Scattergun Remington 870, Remington 870, TDS-194, USAS-12\n
+3. AEK-971 AK-74 AKS-74 'Archer', AKS-74U AK-101 AK-104 AK-108, RPK-74 PP-19 'Bison', PP-20 'Bison', OTS -14 'Thunderstorm', OTS-14 'Groza' 5.45mm, OC-14 'Groza' 5.56mm, OC-14 Groza 'Lynx', OC-14 Groza 'Flame', FN FNC Para, VZ-58\n
+4. Cut with BM-16, TOZ-34, Browning Auto-5\n
+5. AK-47, AKM, AKM 'Ghost', AKS-47, RPD, PKM, SKS, rifle AR-F\n
+6. AN-94 'Abakan' AN-2012\n
+7. HK G36, Heckler-Koch MG-36, HK XM8 Para, XM8 Sharpshooter, HK G36 'Aimpoint'\n
+8. Enfield L85A2, Enfield L86A1, Enfield L86A2 LSW, Steyr AUG A1, Steyr AUG A3, Steyr AUG BMK\n
+9. LR-300ML, Colt M16A2, M4A1 SOPMOD, M4A1 Modded, M4 Compact, Diemaco C7, Ironsighted SBR, Heckler-Koch 416, Heckler-Koch 417 'Sniper', Knights SR-25, FN FAL C1\n
+10. SIG SG-550, SIG SG-552 'Commando', SIG SG-552 'Anaconda', FN SCAR-L, FN SCAR-H, Heckler-Koch G3A3, Magpul Masada, SCAR 'Crysis'\n
+11. Saiga-12C, Saiga-12K, Tactical Saiga, Saiga Tactical 'Sniper'\n
+12. HK MP5, HK MP5M, HK MP5K-PDW, HK MP5-SD, HK MP7, IMI UZI, Micro-Uzi, ScorpionVz.61, Steyr TMP, Ingram MAC-10, Heckler-Koch 53A3, Heckler-Koch UMP-45 PP-2000 PP-9 'Wedge'\n
+13. SVD, SVD-S, PRS 'Tiger' IRS 'hawk', IED, IED, AC, Arctic Warfare Police, 'Iglomet' B-94, VSSK 'exhaust' KSVK, Mosin Rifle, Rifle Mosin 'Sniper' Cutting Mosin rifle, Zastava M76, M-14, M-14 DMR, M-21, Barrett M82, MSG-90, Sako TRG-42, Sako TRG-41, Arctic Warfare Police, Remington 700, M-21 'Warfare' , Walther WA-2000 'Warfare'\n
+14. Gauss-Pistol M72-GG, Gauss M72-GR, Gauss M72-G1, Gauss M72-G2, Gauss M72 'Ghost,' Anomalous Gauss-SPAS\n
+15. FN F2000, FN F2000 'Sniper', FN-2000 'The Executioner', FN F2000 'Duo', XM-29 OICW\n
+16. RG-6, RG-6 'Bulldog', M-79\n
+17. RPG-7 RPG-7 'Bumblebee' MANPADS 'Needle'\n
+18. Beretta 92FS, Beretta M9A1, Beretta Cleric, Beretta 8000, Beretta PX4, Beretta 93R, Beretta Stars, FN Browning HP-SA, Walther P99, Walther P100, Walther PPK, Glock 17, Glock 18, Glock 19, Heckler-Koch P7, Bernardelli P-018, SIG-Sauer 226, SW MK-22, Intratec TEC DC-9\n
+19. APS, OC-33 'Pernach' Fort 12 Fort 14, PB, PM, Special PM, PM 'Award', Army PM, CT-33, MP-444 'Bagheera'\n
+20. SIG-Sauer P220, HK USP, Colt M1911, Desert Eagle, Desert Eagle 'Magnum', Desert Eagle 'Steppe Eagle', Desert Eagle 9x19mm, Desert Eagle Mark XIX, Glock 35, FN Five-Seven\n
+21. Kriss super V, Kriss Waper PRO\n
+22. FAMAS Prototype, Tavor TAR 21, FW-900K, QBZ-97, KAC PDW\n
+23. FN P90, Zastava CZN-M22\n
+24. Taurus Raging Bull, Colt Anaconda\n
+25. Maschinengewehr 42, FN Minimi, Minigun M-134SM, Minigun M-134 'Plus', PTRD\n
+26. SCD-40, PPS-41, Thompson, MR-40, Mauser C96\n
+27. Homemade pistol\n
+28. Flamethrower\n
+29. Crossbow\n
+		</text>
+	</string>
+	<!-- upgrade realisation-->
+	<string id="upgrade_tabl_stvol">
+		<text>
+			Lista dostupnih nadogradnji i ograničenih varijanti:\n
+			1. Nakon smanjenja težine, nisu moguće dalje nadogradnje\n \n
+			2. Oružja kojima je moguće menjati kalibar (samo za osnovne modele):\n
+			* AK-74, AKS-74 'Cobra', AK-74U, AN-94 'Abakan' - sa 5.45x39mm na 5.56x45mm\n
+			* PP-19 'Bizon', Scorpion SA Vz 82 - sa 9x18mm na 9x19mm\n
+			* HK MP5A3, HK MP-5K-PDW, HK MP-7a3, IMI UZI - sa 9x19mm na 9x18mm\n
+			* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, - sa 5.56x45mm na 5.45x39mm\n \n
+			3. Oružja kod kojih se može smanjiti trzaj ra di boljeg grupisanja pogodaka (samo za osnovne modele):\n
+			AK-74, AKS-74 'Cobra', AKS-74U, AN-94 'Abakan', AK-47, PP-19 'Bizon', Scorpion Vz.61, HK MP5A3, HK MP-5K-PDW, HK MP-7A3, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, HK 417 Sniper, Knights SR25 Mk.11\n \n
+			4. Oružja koja se mogu 'olakšati' (bez dalje nadogradnje):\n
+			AK-74, AKS-74 'Cobra', AKS-74U, AN-94 'Abakan', AK-47, PP-19 'Bizon', Scorpion Vz.61, OC-14-4 'Thunder-Storm', AS 'Val', BCC 'Vintorez', SVD, SVU-A, Mosin Rifle, B-94, 'Iglomet', HK MP5A3, HK MP-5K-PDW, HK MP-7A3, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, HK 417 Sniper, Knights SR25 Mk.11, Saiga-12C, Winchester 1300, Franchi SPAS-12, BM16 (sawn-off), TOXZ-34, M4 SUPER 90, Protekta, PPSH-41, Kriss Super V, FN P90, PKM, M79 Grenade-Launcher\n
+		</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 21:04 23.03.2015 -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:45 -sadd -->

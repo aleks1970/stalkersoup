@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+<string id="pripyat_task_objective_1">
+	<text>Prati grupu stalkera</text>
+</string>
+<string id="pripyat_task_objective_2">
+	<text>Pronađi put do NEP Černobil</text>
+</string>
+<string id="pripyat_task_title">
+	<text>Sastani se za grupom stalkera</text>
+</string>
+<string id="rad_antenna">
+	<text>Antena</text>
+</string>
+<string id="rad_get_to_aes">
+	<text>Pronađi ulaz u Černobilski Sarkofag</text>
+</string>
+<string id="rad_get_to_aes_0">
+	<text>Uđi u elektranu</text>
+</string>
+<string id="rad_get_to_aes_1">
+	<text>Pronađi ulaz u Sarkofag</text>
+</string>
+<!-- Preveo i prilagodio Flexerca - 28.01.2015 - 12.50 -->
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 21:53 -sadd -->

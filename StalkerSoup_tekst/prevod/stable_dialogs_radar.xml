@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 Sealside and TB edits June 18, 2012, removed "string_table" - aleks1970 -->
+
+	<string id="rad_chief_start_dialog_0">
+		<text>Hej!</text>
+	</string>
+	<string id="rad_chief_start_dialog_100">
+		<text>Pozdrav!</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_0">
+		<text>Gde je novac od misije?</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_100">
+		<text>Nađi mog pomoćnika i naći ćeš svoj novac!</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_1000">
+		<text>Dobro, ali ovaj put bez zajebancije!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_0">
+		<text>Ko si ti?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_10">
+		<text>Leha Čeljust je moje ime! A ove vucibatine - to je moja brigada!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_100">
+		<text>Šta ti i tvoji ljudi radite ovde?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_20">
+		<!-- Sealside word changes  -->
+		<text>Ja i moja dečica se odmaramo ovde! Nakon toga krećemo u Pripjat.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_0">
+		<text>Šta znaš o Pripjatu?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_10">
+		<!-- Sealside rewrite -->
+		<text>Znam da je to stari napušteni grad iz vremena komunizma!\nSada je prepun čudovišta i Monolitovaca. Ko god da se uputio tamo, nije se vratio, niko.\n</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_100">
+		<!-- Sealside rewrite  -->
+		<text>Misliš da je opasno zaputiti se tamo?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_20">
+		<!-- Sealside  rewrite-->
+		<text>Nema sumnje da je opasno. Ali siguran sam da se isplati probati.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_0">
+		<!-- Sealside minor -->
+		<text>Jesi li vidio Vojsku u blizini?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_10">
+		<!-- Sealside rewrite -->
+		<text>Ne, nažalost nisam. Prošlo je dosta vremena odkako su se zadnji put pojavili.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_100">
+		<!-- Sealside  rewrite-->
+		<text>Čak ni vojni stalkeri?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_20">
+		<!-- Sealside major rewrite -->
+		<text>Čuo sam da su se pojavili u okolini Radara, blizu antena! Kad su njih isključili mnogo ljudi je počelo dolaziti do Radara i dalje do Pripjata! Ali nismo sreli nikoga da dolazi iz Skladišta odkako smo došli ovde. Najverovatnije da neko blokira put ovamo.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_200">
+		<!-- Sealside rewrite... i pretty much rewrite everything here, i won't set a rewrite note in from anymore; expect everything to be written entirly new. -->
+		<text>Blokira, kažeš? Ali ko, šta misliš? Vojska?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_30">
+		<text>Kao što rekoh, Vojska se dugo nije pojavljivala ovde, stoga, najverovatnije da su vojni stalkeri. To su žilava kopilad, i rade jako brzo i efikasno. Čudim se zašto nisu blokirali put čak i ranije!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_300">
+		<text>Zar ne bi bilo pametnije otići u Pripjat i tamo blokirati ulaz?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_40">
+		<text>Ne znam, možda se boje ili se pripremaju za nešto. Beskorisno je nagađati šta im je na pameti.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_0">
+		<text>Dobro, kako god... Imaš li neki posao za mene?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_10">
+		<text>Pa, ima jedan, ali i nije baš lak... Još te zanima stalkeru?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_100">
+		<text>Da, ne bojim se teškog posla!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_101">
+		<text>Nije lak, hmm... Ipak, ne, nađi ti nekog drugog.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_11">
+		<text>Razumem... I ja se bojim, radije ću platiti nekom da ode umesto mene i mojih ljudi. Baš šteta.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_20">
+		<!-- Sealside  major rewrite all the way down...-->
+		<text>Dobro!\nDakle, ovo ti je posao: Moji izviđači, Štanga i Klada, su poslani u Pripjat da provere kako je zaista loša situacija, ali se još nisu vratili.\nPokušaj da ih pronađeš žive i da i sigurno vratiš... A ako to nije moguće, bar donesi njihove puške, jako su dobre i trebaju nam ovde!\nDaću ti 2000 ako odradiš ovo za mene!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_200">
+		<text>Pošteno, dovešću tvoje ljude nazad.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_201">
+		<text>2000? Sigirno se zezaš. Ovaj poslić vredi bar 4000.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_21">
+		<text>Žao mi je, stalkeru. 2000 je sve što mogu dati.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_30">
+		<text>Odlično, čekam te ovde!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_0">
+		<text>Obeleženi se javlja... Zadatak izvršen!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_100">
+		<text>Odlično, daj mi njegov PDA!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1000">
+		<text>Polako, ljudino. Prvo lovu na sunce!</text>
+	</string>
+	<!-- Sealside note: the original text did not make any sense. tried to make the best of it, tough it could be wrong in the context -->
+	<string id="rad_found_deputy_dialog_1_1100">
+		<text>Pokušavaš da me na brzinu zezneš. Nije imao ništa kod sebe!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1200">
+		<text>Molim te prestani se zajebavati. Želiš se igrati samnom, zar stvarno to želiš?</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1300">
+		<text>Najradije bih te sada ubio!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1400">
+		<text>U redu, razumem. Sretno...</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_200">
+		<text>Ne mogu da ti dam ništa, nemam ni prebijene pare. Možeš da zadržiš njegove stvari ako hoćeš!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_300">
+		<text>Nije važno... Ovo ti je gratis. Ne interesuju me njegove stvari.</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_0">
+		<text>Nisam još pronašao.</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_10">
+		<text>Pa, požuri malo stalkeru, ako želiš dobiti svoje pare.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_0">
+		<text>Našao sam tvoje ljude, ali već su bili mrtvi. Ne znam šta i h je ubilo, morao sam ih vaditi iz himerinih kandži. Njihovo oružje je netaknuto, izvoli.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_100">
+		<text>Oh, sranje. To su mi bili najbolji ljudi... Sada kad njih više nema, mislim da i nema smisla ići u Pripjat... Ne želim odvesti svoje ljude u samoubilačku misiju! Jedan problem je ostao, ne mogu ti platiti za tvoj posao. Moj pomoćnik je pobegao sa svim novcem... Molim te da me razumeš, Obeleženi.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_1001">
+		<text>Pronaći ću ga! Reci mi gde da tražim. I ne pokušavaj da me zezneš. Bićeš mrtav dok trepneš.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_200">
+		<text>Mislim da nije otišao predaleko, označiću ti na karti, ovde ili ovde! Ako ga pronađeš dovedi ga ovamo. Ako "slučajno" pogine, i njegov PDA će biti dovoljan... Kontaš?</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_2000">
+		<text>Dobro, čekaj me ovde! Doneću ti PDA.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_0">
+		<text>Nisam ih pronašao.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_10">
+		<text>Pronađi ih što prije! Ne mogu čekati celu večnost!!! Srećno!</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 29.01.2015 -13.46 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:46 -sadd -->

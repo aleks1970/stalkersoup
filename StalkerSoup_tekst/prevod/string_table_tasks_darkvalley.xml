@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 removed bad filename characters -->
+	<string id="bar_darklab_documents">
+		<text>Pronađi dokumenta u podzemnoj laboratoriji</text>
+	</string>
+	<string id="bar_darklab_documents_1">
+		<text>Uzmi ključ od laboratorije od Borova</text>
+	</string>
+	<string id="bar_darklab_documents_2">
+		<text>Izađi iz baze Bandita</text>
+	</string>
+	<string id="bar_darklab_documents_3">
+		<text>Nađi ulaz u laboratoriju</text>
+	</string>
+	<string id="bar_darklab_documents_4">
+		<text>Ušunjaj se u bazu</text>
+	</string>
+	<string id="bar_darklab_documents2">
+		<text>Pronađi dokumenta u X18</text>
+	</string>
+	<string id="bar_darklab_documents2_1">
+		<text>Pronađi dokumenta</text>
+	</string>
+	<string id="bar_darklab_documents2_2">
+		<text>Odnesi dokumenta Barmenu</text>
+	</string>
+	<string id="dar_codedoor_1">
+		<text>Otvori kodirana vrata</text>
+	</string>
+	<string id="dar_codedoor_1_1">
+		<text>Pronađi šifru za vrata</text>
+	</string>
+	<string id="dar_codedoor_1_2">
+		<text>Otvori vrata koristeći šifru</text>
+	</string>
+	<string id="dar_codedoor_2">
+		<text>Otvori vrata prema kontrolnom centru</text>
+	</string>
+	<string id="dar_codedoor_2_1">
+		<text>Otkrij šifru za otvaranje vrata</text>
+	</string>
+	<string id="dar_codedoor_2_2">
+		<text>Otvori vrata pomoću šifre</text>
+	</string>
+	<string id="val_captive_help">
+		<text>Oslobodi Djutijevca</text>
+	</string>
+	<string id="val_captive_help_1">
+		<text>Prati Metka do mesta na kom se nalazi zaseda</text>
+	</string>
+	<string id="val_captive_help_2">
+		<text>Ubij Bandite kako bi oslobodio Djutijevca</text>
+	</string>
+	<string id="val_come_to_trader">
+		<text>Pobegni kroz južnu kapiju</text>
+	</string>
+	<string id="val_come_to_trader_0">
+		<text>Vrati se nazad kod trgovca</text>
+	</string>
+	<string id="val_come_to_trader_1">
+		<text>Napusti Mračnu Dolinu</text>
+	</string>
+	<string id="val_come_to_trader_2">
+		<text>Pokaži dokumenta trgovcu</text>
+	</string>
+	<string id="val_prisoner_help">
+		<text>Oslobodi Djutijevca iz pritvora</text>
+	</string>
+	<string id="val_prisoner_help_0">
+		<text>Izvuci Djutijevca iz zatočenistva</text>
+	</string>
+	<string id="val_prisoner_help_main">
+		<text>Oslobodi člana Djutija iz ćelije</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:31 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:28 -sadd -->

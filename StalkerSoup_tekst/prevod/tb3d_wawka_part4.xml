@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--TB3D 1.0.9.9.9.8 improved some text ===========================-->
+<string_table>
+	<string id="start_update_outfit_zahar_0">
+		<text>Zdravo Šumaru! Čuo sam da možeš modifikovati odela. Šta nudiš?</text>
+	</string>
+	<string id="start_update_outfit_zahar_1">
+		<text>Zdravo i tebi... Mogu nadograditi samo Plaćeničko odelo. Postoje i drugi majstori koji rade na drugim odelima. Mogu ti instalirati uređaj za noćno osmatranje i ojačati odelo što podiže njihovu otpornost na habanje prilikom nošenja.</text>
+	</string>
+	<string id="start_update_outfit_zahar_2">
+		<text>Odlično, to su važne nadogradnje...</text>
+	</string>
+	<string id="update_outfit_zahar_0">
+		<text>Šta možeš ponuditi za nadogradnju odela?</text>
+	</string>
+	<string id="update_outfit_zahar_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nPlaćeničko odelo;\nNaučniško Plaćeničko odelo;\nPlaćenički Egzoskelet;\nPlaćeničko odelo sa gas maskom;\nModifikovano Plaćeničko odelo.\nTakođer, moguće je povećati otpornost na habanje.\nAh da, ubaci ostala odela u kutiju i kod sebe drži samo one koje želiš da poboljšaš...\nIzaberi, šta ti odgovara?</text>
+	</string>
+	<string id="update_outfit_zahar_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_zahar_11111">
+		<text>Na koje odelo da ugradim uređaj za noćno osmatranje, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_zahar_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_zahar_1111111">
+		<text>Odlično...Izaberi model odela.</text>
+	</string>
+	<string id="update_outfit_zahar_2">
+		<text>Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_3">
+		<text>Francusko vojno odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_4">
+		<text>U.S.ARMY odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_5">
+		<text>Naučničko odelo Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_6">
+		<text>Egzoskelet Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_7">
+		<text>Plaćeničko odelo sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zahar_8">
+		<text>Modifikovano Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_02">
+		<text>Za Plaćeničko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_03">
+		<text>Za Francusko vojno odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_04">
+		<text>Za U.S.ARMY odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_05">
+		<text>Za Naučničko odelo Plaćenika, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_06">
+		<text>Za Egzoskelet Plaćenika, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_07">
+		<text>Za Plaćeničko odelo sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0071">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0072">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0073">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0074">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0075">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0076">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0077">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0078">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_08">
+		<text>Za Modifikovano Plaćeničko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0081">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0082">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0083">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0084">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0085">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0086">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0087">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0088">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_2100">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_2200">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_2300">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_2400">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_2500">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_2600">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_2700">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_2800">
+		<text>Uzmi Plaćeničko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_3100">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3200">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3300">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3400">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3500">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3600">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3700">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3800">
+		<text>Uzmi odelo Francuske vojske. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_4100">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_4200">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_4300">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_4400">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_4500">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_4600">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_4700">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_4800">
+		<text>Uzmi U.S.ARMY odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_5100">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_5200">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_5300">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_5400">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_5500">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_5600">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_5700">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_5800">
+		<text>Uzmi Naučničko odelo Plaćenika. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_6100">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_6200">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_6300">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_6400">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_6500">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_6600">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_6700">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_6800">
+		<text>Uzmi Egzoskelet Plaćenika. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_7100">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_7200">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_7300">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_7400">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_7500">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_7600">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_7700">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_7800">
+		<text>Uzmi Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_8100">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_8200">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_8300">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_8400">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_8500">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_8600">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_8700">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_8800">
+		<text>Uzmi Modifikovano Plaćeničko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_zahar_1111121">
+		<text>Odlično...Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_zahar_102">
+		<text>Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_103">
+		<text>Francusko vojno odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_104">
+		<text>U.S.ARMY odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_105">
+		<text>Naučničko odelo Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_106">
+		<text>Egzoskelet Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_107">
+		<text>Plaćeničko odelo sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zahar_108">
+		<text>Modifikovano Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_1022">
+		<text>Za ojačano Plaćeničko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0128">
+		<text>Daj mi bolji uređaj, 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1033">
+		<text>Za ojačano odelo Francuske vojske, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1044">
+		<text>Za ojačano U.S.ARMY odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1055">
+		<text>Za ojačano naučničko Plaćeničko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1066">
+		<text>Za ojačani Plaćenički Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1077">
+		<text>Za ojačano Plaćeničko odelo sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0171">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0172">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0173">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0174">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0175">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0176">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0177">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0178">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1088">
+		<text>Za ojačano Modifikovano Plaćeničko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zahar_0181">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_0182">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_0183">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_0184">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_0185">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_0186">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0187">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_0188">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1210">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1220">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1230">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1240">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1250">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1260">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1270">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1280">
+		<text>Uzmi ojačano Plaćeničko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1310">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1320">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1330">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1340">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1350">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1360">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1370">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1380">
+		<text>Uzmi ojačano odelo Francuske vojske. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1410">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1420">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1430">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1440">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1450">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1460">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1470">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1480">
+		<text>Uzmi ojačano U.S.ARMY odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1510">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1520">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1530">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1540">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1550">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1560">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1570">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1580">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_1610">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1620">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1630">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1640">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1650">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1660">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1670">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1680">
+		<text>Uzmi ojačani Egzoskelet Plaćenika. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1710">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1720">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1730">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1740">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1750">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1760">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1770">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1780">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1810">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_1820">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_1830">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_1840">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_1850">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_1860">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_1870">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_1880">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_2222">
+		<text>Ojačanje Odela...</text>
+	</string>
+	<string id="update_outfit_zahar_22222">
+		<text>Koje odelo želiš ojačati, obično ili sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_zahar_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_zahar_2222211">
+		<text>Odlično... Moje kvote:\n- Plaćeničko odelo - za artefakt 'Koža' i 5000 Ru;\n- Naučničko odelo Plaćenika - za artefakt 'Krljušt' i 40000 Ru;\n- Egzoskelet Plaćenika - za artefakt 'Čeličn Krljušt' i 80000 Ru;\n- Plaćeničko odelo sa gas maskom - za artefakt 'Koža' i 10000 Ru;\n- Modifikovano Plaćeničko odelo - za artefakt 'Koža' i 10000 Ru.\nIzaberi odelo.</text>
+	</string>
+	<string id="update_outfit_zahar_202">
+		<text>Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_203">
+		<text>Francusko vojno odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_204">
+		<text>U.S.ARMY odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_205">
+		<text>Naučničko odelo Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_206">
+		<text>Egzoskelet Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_207">
+		<text>Plaćeničko odelo sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zahar_208">
+		<text>Modifikovano Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_211">
+		<text>Uzmi ojačano Plaćeničko odelo.</text>
+	</string>
+	<string id="update_outfit_zahar_212">
+		<text>uzmi ojačano odelo Francuske vojske.</text>
+	</string>
+	<string id="update_outfit_zahar_213">
+		<text>uzmi ojačano U.S.ARMY odelo.</text>
+	</string>
+	<string id="update_outfit_zahar_214">
+		<text>Uzmi ojačano Naučničko odelo Plaćenika.</text>
+	</string>
+	<string id="update_outfit_zahar_215">
+		<text>Uzmi ojačani Egzoskelet Plaćenika.</text>
+	</string>
+	<string id="update_outfit_zahar_216">
+		<text>Uzmi ojačano Plaćeničko odelo sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_zahar_217">
+		<text>Uzmi pojačano Modifikovano Plaćeničko odelo.</text>
+	</string>
+	<string id="update_outfit_zahar_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_zahar_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_zahar_302">
+		<text>Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_303">
+		<!-- in 133 !!!!TB3D -->
+		<text>Naučnička odela Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_304">
+		<text>Egzoskelet Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_305">
+		<text>Naučničko odelo Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_306">
+		<text>Egzoskelet Plaćenika...</text>
+	</string>
+	<string id="update_outfit_zahar_307">
+		<text>Plaćeničko odelo sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zahar_308">
+		<text>Modifikovano Plaćeničko odelo...</text>
+	</string>
+	<string id="update_outfit_zahar_3022">
+		<text>Cena ojačanja za Plaćeničko odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 5000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zahar_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3033">
+		<text>Cena ojačanja za Francusko vojno odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zahar_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3044">
+		<text>Cena ojačanja za U.S.ARMY odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zahar_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3055">
+		<text>Cena ojačanja za Naučničko odelo Plaćenika, sa instaliranim uređajem za noćno osmatranje (PNV) je 40000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3066">
+		<text>Cena ojačanja za Egzoskelet Plaćenika, sa instaliranim uređajem za noćno osmatranje (PNV) je 80000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_zahar_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3077">
+		<text>Cena ojačanja za Plaćeničko odelo sa gas maskom, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zahar_0371">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0372">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0373">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0374">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0375">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0376">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0377">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0378">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3088">
+		<text>Cena ojačanja za Modifikovano Plaćeničko odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zahar_0381">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0382">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0383">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0384">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0385">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0386">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0387">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_0388">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zahar_3210">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3220">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3230">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3240">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3250">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3260">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3270">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3280">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_3310">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3320">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3330">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3340">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3350">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3360">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3370">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3380">
+		<text>Evo, uzmi ojačano odelo Francuske vojske sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_3410">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3420">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3430">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3440">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3450">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3460">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3470">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3480">
+		<text>Evo, uzmi ojačano U.S.ARMY odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_3510">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3520">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3530">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3540">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3550">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3560">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3570">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3580">
+		<text>Evo, uzmi ojačano Naučničko odelo Plačenika sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_3610">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3620">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3630">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3640">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3650">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3660">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3670">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3680">
+		<text>Evo, uzmi ojačano Plaćenički Exoskeleton sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zahar_3710">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3720">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3730">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3740">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3750">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3760">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3770">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3780">
+		<text>Evo, uzmi ojačano Plaćeničko odelo sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3810">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zahar_3820">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_3830">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zahar_3840">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zahar_3850">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zahar_3860">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zahar_3870">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zahar_3880">
+		<text>Evo, uzmi ojačano Modifikovano Plaćeničko odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zahar_999">
+		<text>Ne treba mi ništa...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio flexerca -=- 13:46 14.09.2015 -->

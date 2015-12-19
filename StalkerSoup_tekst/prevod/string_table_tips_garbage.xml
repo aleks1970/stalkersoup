@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="gar_actor_looser">
+		<text>Ti si obični klošar, Obeleženi. Potpuno bezvredan! Ne očekuj zahvalnost - nema ti se na čemu zahvaliti!</text>
+	</string>
+	<string id="gar_actor_normal">
+		<text>Nije loše, stalkeru! Sigurno jesi upucao ponekog mutanta, ali uopšte nisi tako brz na obaraču, jelde? Zato, ako hoćeš da prođeš, moraš da platiš!.</text>
+	</string>
+	<string id="gar_actor_winner">
+		<text>Odlično, Obeleženi, stvarno si nam pomogao!. I to dovoljno da bi sebi platio prolaz. Nastavi do Bara.</text>
+	</string>
+	<string id="gar_direction_fire">
+		<text>Pusti ih da priđu bliže, kako niko ne bi pobegao. Ja ću pucati prvi, a ti me prati.</text>
+	</string>
+	<string id="gar_dolg_blokpost_warning">
+		<text>Stalkeru... Sada si na teritoriju pod kontrolom Djutija... Bilo kakav akt agresije biće rešen brzo i glatko...</text>
+	</string>
+	<string id="gar_dolg_monster_rush">
+		<text>Pažnja!!! Ovo je kontrolni punkt Djutija. Horda mutanata se kreće iz Mračne Doline u pravcu Bara. Neće zažaliti niko ko nam pomogne da je zaustavimo!.</text>
+	</string>
+	<string id="gar_dolg_warning">
+		<text>Ne zezsaj se puno ovde, stalkeru... Napravi neki nered, i Djuti će se pobrinuti da ne dočekaš sutra... Upozoren si!</text>
+	</string>
+	<string id="gar_hellcar_victory">
+		<text>Odlično momci, sredili ste ih sve. Sada se malo odmorite. Ti stalkeru, dođi malo ovamo da popričamo.</text>
+	</string>
+	<string id="tips_gar_hellcar_alarm">
+		<text>Ljudi, govori vam komandir Neutralne grupe. Potisnuli smo Bandite iz napuštenog parkirališta, ali očekujemo ponovni napad svakog momenta. Malo nas je, molim vas da nam pomognete, nećemo vam to zaboraviti.</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:19 -sadd -->
+	<!-- Preveo i prilagodio Flexerca -=- 00:44 19.04.2015 -->

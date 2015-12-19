@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 -->
+
+	<string id="dm_general_action_info">
+		<text>Šta radiš ovde?</text>
+	</string>
+	<string id="dm_general_cool_info">
+		<text>Možeš li da mi kažeš nešto zanimljivo?</text>
+	</string>
+	<string id="dm_general_cool_info_no_more">
+		<text>Ne znam ništa više.</text>
+	</string>
+	<string id="dm_general_help_bandage">
+		<text>Uzmi zavoj.</text>
+	</string>
+	<string id="dm_general_help_medkit">
+		<text>Uzmi komplet prve pomoći.</text>
+	</string>
+	<string id="dm_general_trade_info">
+		<text>Interesuju me informacije. Za pare.</text>
+	</string>
+	<string id="dm_general_trade_info_caption">
+		<text>Mogu da ti ponudim sledeće:</text>
+	</string>
+	<string id="dm_general_trade_info_hasno">
+		<text>Nemam ništa da ti ponudim.</text>
+	</string>
+	<string id="dm_general_trade_info_nothing">
+		<text>Neki drugi put.</text>
+	</string>

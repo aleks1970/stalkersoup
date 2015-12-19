@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 werewolf, enc_mutant_snork_general -->
+<string_table>
+	<string id="Mutants">
+		<text>Životinje i mutanti</text>
+	</string>
+	<string id="General">
+		<text>Opšte informacije</text>
+	</string>
+	<!-- MUTANTS -->
+	<string id="Werewolf">
+		<text>Vukodlak</text>
+	</string>
+	<string id="enc_mutant_werewolf_general">
+		<text>Vukodlak je pas koji liči na Kerbera sa krznom, ogromno telo, duge i oštre kandže. Oni su ekstremno jaki i mogu samostalno prevrnuti auto. Uglavnom se pojavljuju noću ili u pećinama, preskaču neverovatne distance i čine ekstremna oštećenja. Neznatno su jači i agresivniji od Himere. Njihovi napadi su prilično ograničeni, na skakanje i kidisanje, a i prilično opaki - ali u kratkom radijusu - fizički napadi. Njihovi napadi uzrokuju duboke posekotine od kojih se može brzo iskrvariti. Jako oklopljeno zaštitno odelo se preporučuje pri kontaktu sa ovim stvorenjima.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]1500 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]220kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]Vrlo brz (3.7 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99.8%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]98%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]85%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]98%</text>
+	</string>
+	<string id="Chimera">
+		<text>Himera</text>
+	</string>
+	<string id="enc_mutant_chimera_general">
+		<text>Himera je pas koji liči na Kerbera bez krzna, ogromno telo, dve glave i širok rep. Himere su ekstremno jake i ustanju su da prevrnu automobil samostalno. One su najsmrtonosniji mutanti registrovani, preskaču neverovatne distance i čine ekstremna oštećenja. Iako su fizički slabije nego Pseudogiganti, Himere se smatraju smrtonosnijim zbog njihove brzine i agresivnosti. Njihovi napadi su prilično ograničeni, na skakanje i kidisanje, a i prilično opaki - ali u kratkom radijusu - fizički napadi. Kidisanje samo i nije toliko opasno u poređenju sa njihovim direktnim napadom, ali izaziva kratkotrajno ošamućenje, umanjujući žrtvine mogućnosti pokretanja. Direktan napad može brzinski srediti žrtvu - ubijajući je sa takvom silom koja lansira leševe u vazduh, što je u stvari odlično upozorenje da je jedna u blizini. Teško oklopljeno odelo ili nešto približno je neophodno za preživljavanje susreta - Egzoskeleton je najbolji izbor.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]1500 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]220kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]Vrlo brz (3.7 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99.8%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]98%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]85%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]98%</text>
+	</string>
+	<string id="himera_prizrak">
+		<text>Fantomska Himera</text>
+	</string>
+	<string id="enc_mutant_himera_prizrak">
+		<text>Fantomska Himera: Vrlo retka podvrsta Himere. Iz nepoznatih razloga, neke Himere postaju prozirne i vrlo ne uočljive, posebno noću. A još i to, kada izmeni sloj kože, ova podvrsta postaje znatno otpornija na bilo kakve povrede i oštećenja.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]1800 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]220kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]brz (3 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99.8%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]98%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]85%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]98%</text>
+	</string>
+	<string id="Fracture">
+		<text>Izlom</text>
+	</string>
+	<string id="enc_mutant_fracture_general">
+		<text>Izlom je mutirano ljudsko biće koje se kreće pomoću sva 4 ekstremiteta, jedna ruka mu je znatno duža od druge i ima veoma dugačak vrat. Izlom se vrlo retko viđa, i oni nisu agresivni, oni se trude da izbegnu konflikt sa S.T.A.L.K.E.R.ima. Izlomi uobičajeno putuju u grupi 2-3 ili više i retko napadaju osim ako im se previše približi, kada napadaju prilično su zastrašujući sa ludačkim zombijevskim zavijanjem, koriste svoje duge ruke da blokiraju i izudaraju žrtvu.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]300 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]170kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.5 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]80%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]90%</text>
+	</string>
+	<string id="Burer">
+		<text>Burer</text>
+	</string>
+	<string id="enc_mutant_burer_general">
+		<text>Oni su rezultat tajnih genetskih eksperimenata na kriminalcima u okviru programa razvoja ljudskih telekinetićkih sposobnosti. Humanoidno stvorenje sa hipertrofičnim tenom odeveno u otrcan ogrtač. Boje se jakog svetla, zbog toga se kreću kroz mračna i sumorna podzemlja i pećine uglavnom. Hrane se mrtvim telima. Bureri su zdepasti, poput patuljaka čudovišta koja se uglavnom drže podzemlja, izbegavajući svetlost po svaku cenu. Može s greškom pomisliti da su banditi na većim odtojanjima zbog njihove sklonosti da nose duge crne kapute, ali su mnogo veća opasnost, u stanju su da parališu protivnika i razbiju mu oklop u momentu. Definitivno težak protivnik čak i za iskusne S.T.A.L.K.E.R.e, a čak i opasno teške ukoliko budu u paru ili u grupi.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]70kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.8 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Psihokinetički/Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]40%</text>
+	</string>
+	<string id="Cat">
+		<text>Divlja Mačka</text>
+	</string>
+	<string id="enc_mutant_cat_general">
+		<text>Divlja Mačka je mutirana verzija kako se veruje onoga što je nekada bila domaća kućna mačka. One imaju par mutiranih kljova sa strane svojih usta koje koriste prilikom napada, zajedno sa ostalim zubima. One napadaju tako što grizu svoj plen, u istom stilu kao i Slepi Psi. Poznate su po tome što ispuštaju dugačak i glasan "mjauk" tokom napada.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]50kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]brz (3 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]0%</text>
+	</string>
+	<string id="Blind">
+		<text>Slepi pas</text>
+	</string>
+	<string id="enc_mutant_blind_general">
+		<text>Nekoliko generacija pasa živi i umire nakon katastrofe u Zoni. Svaka sledeća generacija biva otpornija na negativne uticaje Zone od predhodne. Najprimetnije promene su gubitak vida uz natprirodno razvijeno čulo mirisa. Ispostavilo se da slepi mladunci preživljavaju u Zoni kao i normalni mladunci, ako ne i bolje. Kao rezultat toga, obični psi su izumrli u Zoni, ostavljajući prostor za novu vrstu pasa - Slepe pse. Životinje instiktivno prepoznaju i izbegavaju anomalije, zračenje i druge opasnosti kojima je zaražena Zona. Poput svojih divljih predaka, vukova, i oni love u čoporima. Susret sa čoporom slepih pasa može biti opasan i iskusne i dobro naoružane stalkere.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]40kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]srednje (2.1 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]20%</text>
+	</string>
+	<string id="black_dog">
+		<text>Crni Pas</text>
+	</string>
+	<string id="enc_mutant_black_dog">
+		<text>Crni Pas Černobila. Priča se da ova rasa mutiranih pasa je visoko akresivna, a i neustrašiva ... naročito kad se okupe u čopore. Njihova koža je znatno otpornija na oštećenja u odnosu na druge pse, a i svaki ugriz od njih zahteva mnogo duže zarastanje. Oni mogu izgledati kao i svi drugi psi u Zoni, ali su mnogo brži ... kada se okupe u većem broju, dokazali su se kao ekstremno opasni!!!\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]40kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]srednje (2.1 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]20%</text>
+	</string>
+	<string id="Bloodsucker">
+		<text>Krvopija</text>
+	</string>
+	<string id="enc_mutant_bloodsucker_general">
+		<text>Iskusni stalkeri opisuju ovu polu-legendarnu zver kao visokog, pogrbljenog humanoida sa gomilom pipaka umesto usta. Prema pričama onih koji su se susreli sa njim i preživeli, pipke koristi da obuhvati vrat žrtve i parališe je i njome isisa krv iz nje do poslednje kapi. Suva, mumificirana ljuštura je sve što ostne od nekada žive osobe. Međutim, najupečatljivija osobina krvopija je sposobnost da postanu nevidljivi. Za bezbroj mrtvih i nestalih stalkera se ispostavilo da su stradali u nemilosrdnom zagrljaju krvopija. Retki srećnici koji su preživeli u suštini pričaju o verziji Grofa Drakule iz Zone koji lovi po močvarama i podzemnim katakombama.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]150kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]srednje (2.1 m/sek), kod nevidljivosti (9 m/s)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]93%</text>
+	</string>
+	<string id="Boar">
+		<text>Vepar</text>
+	</string>
+	<string id="enc_mutant_boar_general">
+		<text>Masivna, mutirana životinja, dostiže 1.5 metara u ramenima. Agresivnost i sposobnost da preživi čine Zoninog vepra daleko razvijenijim od onih izvan granica Zone. Radijacija i animalije su ostavile trag i na psihi ove životinje: na nekim mestima uopšte nema dlake, dok je ona duga i gusta na nekim mestima. Papci su postali oštre kandže, zenice su bezbojne, a glava vepra je puna bodlja i svakakvih drugih stvari. Ovo su opasna bića i treba ih se kloniti bez dobrog oružja.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]500 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]250 lbs\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]srednje (2.1 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0-20%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0-20%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]50-70%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99-100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0-20%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]45-85%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]70-85%</text>
+	</string>
+	<string id="Crow">
+		<text>Vrana</text>
+	</string>
+	<string id="enc_mutant_crow_general">
+		<text>Jedina ptica koja je preživela u zoni, izdržava povećanu radioaktivnost i izbegava anomalije. Dok se vojni piloti oslanjaju na kompleksne detektore da izbegnu anomalije, vrana se za to oslanja na svoja čula - misterija koja proganja naučnike. Razne teorije postoje, ali sve ukazuju na to da se pticin mozak razvio.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]Nepoznato %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]1kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.8 m/sek) %c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]-\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]0%</text>
+	</string>
+	<string id="Flesh">
+		<text>Mesina</text>
+	</string>
+	<string id="enc_mutant_flesh_general">
+		<text>Kao i svako živo biće u Zoni, domaća svinja je podlegla ozbiljnim biološkim promenama od katastrofe. Čini se da su geni zaduženi za metabolizam najviše razvijeni u ovom slučaju. Mutirane svinje, koje stalkeri zovu Mesine, su jedan od najboljih primera bolesti Zone. Mutirane svinje su izgradile jedinstveni odbrambeni sistem. Sposobnost regeneracije se povećala par puta, kao i složenost njihovog nervnog sistema. Kao i obična svinja, Mesina će napasti stalkera ako je gladna.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]250 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]200kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.5 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]0%</text>
+	</string>
+	<string id="Poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="enc_mutant_poltergeist_general">
+		<text>Natprirodna bića u očima nekih stalkera, nevidljiva bića koja se nalaze dublje u Zoni, obično posedaju stare, napuštene zgrade. Ništa se ne zna o njihovom poreklu, ali se priča da su to duhovi stalkera koji su pogođeni masivnim talasima radijacije. Njihova misteriozna pojavljivanja i nestajanja izgleda da pristaju legendi o poltergiestu, odatle i ime. Susreti sa mutantom se razlikuju: od čudnog smeha i zavijanja od koga se ledi krv, do smrtonosnih vatrenih lopta koje se pojavljuju niotkuda. Nažalost, sve informacije o mutantu dolaze iz čudnih priča čija se tačnost može samo nagađati.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]250 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]80kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]vrlo spor (1.2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Psihokinetički/vrućina\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]30%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]95%</text>
+	</string>
+	<string id="Pseudodog">
+		<text>Pseudopas</text>
+	</string>
+	<string id="enc_mutant_pseudodog_general">
+		<text>Uprkos imenu, Pseudopsi su mutirali direktno od vukova. Životinje koje su nastanjivale šume za vreme katastrofe su postale neke od Zoninih najopasnijih mutanata. Pseudopsi se razlikuku od ostalih mutiranih pasa kao divlji vukovi od pudlica. Stvorenja pažljivo markiraju i čuvaju svoju teritoriju, napadajući svakog dovoljno glupog da uđe na njihovu teritoriju. Munjeviti refleksi, neverovatna spretnost i kandže oštre kao žilet čine Pseudopsa dostojnog neprijatelja za veće mutante i mnoge stalkere.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]250 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]78kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.5 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]50%</text>
+	</string>
+	<string id="Pseudogiant">
+		<text>Pseudogigant</text>
+	</string>
+	<string id="enc_mutant_pseudogiant_general">
+		<text>Pseudogigant je masivan, okrugao sa parom nepravilno postavljhenih i velikih udova. Udovi su i ruke i noge u isto vreme. Stvorenje ih koristi da zaobiđe i zgrabi svoju žrtvu. Odrastao pseudogigant može da teži i do dve tone i do dva metra u visinu. Njihov nespretan izgled često dovodi do pogrešnog zaključka, jer oni mogu da se kreću dosta brzo ako moraju. Njihovi mišići su neverovatno snažni a kosti tvrde kao čelik. Mozak stvorenja je zaštićen tvrdom (debela i do deset cm) lobanjom, dok su mnoge kompleksne funkcije kontrolisane kičmenom nebulom. Još jedna neverovatna mogućnost ove zveri je mogućnost da stvori lokalne šok talase, koje oštećuju sve u određenom radijusu.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]1500kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]brz (3 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički/Udarni talas\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]95%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]95%</text>
+	</string>
+	<string id="Snork">
+		<text>Snork</text>
+	</string>
+	<string id="enc_mutant_snork_general">
+		<text>Izgleda da su ova stvorenja bili ljudi u jednom trenutku, ali je teško zamisliti kakvi uslovi mogu da preobraze čoveka u ovu odvratno zver. Snorkovi su luda stvorenja koja žive život zveri i razlikuju se malo od ostalih zveri u Zoni. Kreću se na sve četiri noge u dugim skokovima, stalno njušeći tlo u nadi da će uhvatiti miris sledeće žrtve. Oni love pažljivo, često postavljaju sačekuše i čekaju svoje žrtve. Zahvaljujući svojim neverovatnim refleksima i jakim mišićima, Snork prilazi svojoj žrtvi, obaraju ih na zemlju u jednom dugačkom, preciznom skoku i rastrgnu žrtvu na komade. Tragovi vojnih uniforma i drugih odela se ponekad nalaze na njihovim telima. Smatra se da su to ostaci izgubljenih Vojnih stalkera.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]130kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]brz (3 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički/Zamah\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]82%</text>
+	</string>
+	<string id="Tushkano">
+		<text>Skočimiš</text>
+	</string>
+	<string id="enc_mutant_tushkano">
+		<text>Ove životinje nisu u rodu sa pacovima, iako postoje neke sličnosti. Pokušaji da se pronađe tačan predak ovog mutanta su do sada bili neuspešni, ali njihov predak je bio veliki glodar. Dostiže i do 40 cm u ramenima, životinja je mnogo opasnija, agresivnija i krvoločnija od svojih pustinjskih rođaka. Mutirani glodari žive u ruševinama starih zgrada, hraneći sa sa svime što mogu da zariju zube u njega, od biljaka do neopreznih stalkera. Ponekad grupa glodara ubije veće mutante i životinje, i rastrgne ih na komade pre nego što uspeju da pobegnu.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]20 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]20kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.5 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]0%</text>
+	</string>
+	<string id="Zombie">
+		<text>Zombi</text>
+	</string>
+
+	<string id="enc_mutant_zombie_general">
+		<text>"Spaljivač mozgova" potpuno uništava ljudsku ličnost, ostavljajući samo praznu telesnu ljušturu. Nakon kraćeg lutanja Zonom, tela lišena razuma, počinju da pretvaraju u potpune zombije. Od refleksa su im ostali samo oni najprimitivniji, oružje i odeća im postaju beskorisni. Zombiji su nešto malo više od hodajućih leševa, koji jedino brinu o hrani i spavanju. Jedu i piju sve što im dospe u kandže, pa su praktično natopljeni radijacijom i toksičnim otpadom. Obično beciljno lutaju Zonom ili samo leže kao leševi u napuštenim zgradama. Međutim, čim osete prisustvo čoveka, odmah kreću u napad. Poučeni iskustvom, stalkeri ih zaobilaze u širokom luku.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]150 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]80kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]vrlo spor (1.2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]90%</text>
+	</string>
+	<string id="Zombieg">
+		<text>Zombi 'Duh'</text>
+	</string>
+	<string id="enc_mutant_zombieg_general">
+		<text>Duh Zombi se razlikuje od običnih Zombija jer je pod uticajem "Spaljivača Mozgova" potpuno uništen, psihički i fizički. Oni su praktično otporni na sve moguće opasnosti iz Zone. "Spaljivač Mozgova" uništava žrtvin mozak i razum, ostavljajući samo praznu, nerazumnu ljušturu. Tela bez mozga se onda pretvaraju u Zombije, prateći tada samo najosnovnije instikte, lutajući besciljno po Zoni bez oružja i odeće. Zombiji su malo iznat sporih hodajućih leševa. Oni jedu i piju skoro sve što im dolazi pod kandže, oni su praktično natopljeni toksičnim otpadom i radijacijom. Oni obično lutaju Zonom bez ikakvog vidljivog cilja, ili samo leže kao leševi u napuštenim objektima. Međutim, čim osete prisustvo ljudskog bića, oni napadaju momentalno. Zombiji su verovatdno posledni korak devolucije ljudskog bića u Zoni. Iskusni S.T.A.L.K.E.R.i su naučili da ih izbegavaju ukoliko mogu.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]150 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]80kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]vrlo spor (1.2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]90%</text>
+	</string>
+	<string id="Skelet">
+		<text>Zombi Skelet</text>
+	</string>
+	<string id="enc_mutant_zombie_skelet">
+		<text>Retka vrsta Zombija. Oni koji su imali tu nesreću da upadnu u anomaliju "Zvezda" ne samo da im je odeća kompletno otrgnuta, nego je i meso iskidano, i odvojeno od njihovih kostiju. Preostali skelet nastavlja da postoji u zombifikovanom stanju, njegove kosti su sada učvršćene energijom anomalije. Oni tako lutaju Zonom ... kao personifikacija same smrti ... veoma su opasni, najbolje ih je izbeći.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]150 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]80kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]vrlo spor (1.2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]85%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]80%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]83%</text>
+	</string>
+	<string id="zombie_babka">
+		<text>Baka</text>
+	</string>
+	<string id="enc_mutant_zombie_babka">
+		<text>Ženski zombiji koji imaju sve fizičke karakteristike i instikte običnih Zombija. Napadaju tako što žrtve privlače plačem i izazivaju sažaljenje. Kada se neko približi, one kreću da kidišu sa kandžama oštrim kao žilet, koje su uz to i inficirane. Omiljeno mesto prebivališta su im tamna mesta, obično pećine, gde one leže i čekaju da neoprezan S.T.A.L.K.E.R. naiđe.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]150 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]80kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]vrlo spor (1.2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]90%</text>
+	</string>
+	<string id="Controller">
+		<text>Kontroler</text>
+	</string>
+	<string id="enc_mutant_controller_general">
+		<text>Mutant koji se nalazi samo blizu centra Zone. Ima dosta sličnosti sa ljudima osim veoma velike glave. Poseduje dobar vid i sposobnost da kontroliše bića sa manje razvijenim mozgovima. Odrasle jedinke mogu da steknu kontrolu nad ljudima. Ovo je opasan neprijatelj, kojeg se čak i najiskusniji stalkeri boje.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]200 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]90kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.8 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Psihokinetički/Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]80%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]80%</text>
+	</string>
+	<string id="yazva">
+		<text>Mutirani Kontroler</text>
+	</string>
+	<string id="enc_mutant_kontroller_yazva">
+		<text>Mutirani Kontroler. Tačan uzrok mutacije ostaje tajna za naučnu zajednicu u Zoni. Očigledni fizički znaci mutacije su simetrični čirevi koji izrastaju i mozga ovih stvorenja, takođe su primetne izrasline na koži leđa, koje imaju neku nepoznatu funkciju. Napad ovog stvorenja je isti kao i kod normalnog Kontrolera, ali mnogo jači u svakom pogledu. Veoma opasan, tako da ga je najbolje izbeći po svaku cenu.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]200 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]90kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.8 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Psihokinetički/Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]80%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]10%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]80%</text>
+	</string>
+	<string id="bibliotekar">
+		<text>Bibliotekar</text>
+	</string>
+	<string id="enc_mutant_bibliotekar">
+		<text>U Pripjatu, ispod biblioteke, nalazila se tajna laboratorija koja je bila specijalizovana za eksperimente sa životinjama. Najčešće sa gorilama. Došlo je do nesreće koja se desila čak i pre drugog incidenta u Zoni 2006 godine. Iz zvaničnog transkripta skinutog sa trake sa snimljene izjave operativca Specijalnih Jedinica Gustava Marakina: "... Začuo sam signak alarma, pa sam krenuo da istražim. Tokom ulaska u glavni hol odmah izvan Istraživačke Laboratorija, samo što nisam ispustio svoje oružje i počeo bežati za goli život ... najmanje sedam članova naučnog osoblja je ležalo na podu u lokvama krvi, bili su rastrgani na delove!!! Tamo dalje iz hodnika začuo sam teške, teturajuće korake ... kako dolaze bliže ... i bliže ... onda, najednom bio je tamo ... bio je oko dva metra visok, oblih ramena, vrlo dlakav ... ličio je na džinovskog majmuna ili gorilu. Oglasio ee užasno, tužnim zavijajućim glasom prema meni ... a ja sam se okrenu prema glavnom ulazu, pa sam potrčao koliko su me noge nosile ... nisam se osvrtao ... Mogao sam osetiti kako juri zamnom ... strašeći me svojim zvucima. Uspeo sam stići do otvorenih izlaznih vrata sa sigurnosnom bravom... i samo sam nastavio da bežim ... bez osvrtanja nazad!!! Znao sam da sam pogrešio ... što nisam zatvorio vrata ... i zapečatio izlaz iza sebe ... i zaključao ovu ... ovu ... "Stvar" unutra zauvek ... ali, prošlost ne možeš promeniti ... a ja moram živeti sa tim do kraja svog života ....  "zvuk gegajućih koraka" ...\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]300 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]170kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.8 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Psihokinetički/Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]95%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]95%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]95%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]95%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]99%</text>
+	</string>
+	<string id="tarakan">
+		<text>Tarakan</text>
+	</string>
+	<string id="enc_mutant_tarakan">
+		<text>Mutirana Černobilska Bubašvaba koja je nastala pod uticajem ZONE. Dostignuto je značajno povećanje dimenzija tela, ako mase od 3 kilograma. U stanju su da se kreću prilično brzo, to su svaštojedi, smrdljivi i zli po prirodi. Obično napadaju u grupama. Smrad ovih svorenja može momentalno izazvati gušenje, a i mučninu. Duži kontakt može dovesti do privremene paralize. Njihove pljuvačne žlezde luče toksin, pa bliski kontakt nipošto nije preporučljiv. Pojavila su se neka mišljenja da ova stvorenja mogu biti korišćena za proizvodnju masti, a i drugih ulja, koja se posle mogu prodati za dobre pare Naučnicima koji rade kozmetiku izvan ZONE.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]15 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]3kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1.5 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]0%</text>
+	</string>
+	<!-- USEABLE MUTANT PARTS by dariuskzoot-->
+	<!-- EDIBLE PARTS -->
+	<string id="mutant_boar_leg">
+		<text>Veprovo kopito</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+7\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[default]Kopita Vepara se mogu koristiti za proizvodnju nekih lekova, uključujući i serum protiv radijacije.</text>
+	</string>
+	<string id="mutant_dog_tail">
+		<text>Pseći rep</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+5\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[default]Rezistencija kože mutiranih pasa na elektricitet i na hemikalije već dugo zanima naučnike. Pošto je rep životinje slobodan od masnog tkiva, on je odličan za eksperimente.</text>
+	</string>
+	<string id="mutant_tail_cat">
+		<text>Rep Divlje Mačke</text>
+	</string>
+	<string id="mutant_tail_cat_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+5\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]-3\n%c[default]Sam spoljnji omotač kože Divlje Mačke poseduje retku osobinu da odbija radijaciju. Kao rezultat toga, naučnici koji rade u Zoni će platiti pristojnu sumu novca da bi došli do odgovarajućeg primerka za dalja proučavanja...</text>
+	</string>
+	<string id="mutant_spleen_rat">
+		<text>Pacovska Slezina</text>
+	</string>
+	<string id="mutant_spleen_rat_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+5\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Tečnost koja je sadržana u Pacovskoj Slezini poseduje retke anti-neoplastične sposobnosti. Naučnici iz Zone ih proučavaju još od drugog incidenta u Zoni 2006 godine u nadi da će bolje razumeti kako se ona formira. Do sada su imali ograničn uspeh u tome, ali postoji osećaj da dalja pročavanja mogu eventualno otkriti dovoljno informacija koje će se pokazati korisnim u razvoju lekova za otpornost na emisije. Tržište takvog leka bilo bi ogromno, a vodilo bi dramatičnom poboljšanju tretmana kancerogenih oboljenja kako u Zoni, tako i izvan nje...</text>
+	</string>
+	<string id="mutant_face_tushkano">
+		<text>Glava Skočimiša</text>
+	</string>
+	<string id="mutant_face_tushkano_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+7\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[default]'Skočimiši' kako se ispostavilo imaju visoko razvijenu intelegenciju, pa naučnici pokušavaju da razumeju kako tako sićušan mozak je sposoban da procesira toliko informacija. Oni će dobro platiti za takav primerak, a S.T.A.L.K.E.R.i koji ih sakupljaju mogu dobro proći u trgovini s njima .. ukoliko ne završe kao njihova hrana pre toga!!</text>
+	</string>
+	<string id="mutant_krovosos_jaw">
+		<text>Pipci Krvopije</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+12\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+5\n%c[255,1,255,255]Krvarenje: %c[255,255,0,0]+3\n%c[255,1,255,255]Porcije: x2\n%c[default]Pipci Krvopije imaju specijalnu žlezdu koja luči ferment koji razgrađuje kožu i mišiće žrtve i sprečava zgrušavanje krvi. Otkrivanje strukture fermenta moglo bi biti kamen oslonac za velika medicinska dostignuća.</text>
+	</string>
+	<string id="mutant_snork_leg">
+		<text>Snorkovo stopalo</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+7\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+4\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Snorkova stopala sadrže veliki broj visoko elastičnih tetiva. Ovo objašnjava sposobnost zveri da pravi tolike skokove.</text>
+	</string>
+	<string id="mutant_psevdodog_tail">
+		<text>Rep Pseudopsa</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+5\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Rezistencija kože mutiranih pasa na elektricitet i na hemikalje već dugo zanima naučnike. Pošto je rep životinje slobodan od masnog tkiva, on je odličan za eksperimente.</text>
+	</string>
+	<string id="mutant_poltergeist_glas">
+		<text>Oko Poltergeista</text>
+	</string>
+	<string id="mutant_poltergeist_glas_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+8\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]-5\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]'Oko Poltergeista' se naročito retko pronalazi, jedino ih je moguće uzeti sa leša mrtve zveri ukoliko je u fizičkoj formi .. Naučnici poseduju vrlo skromne informacije o ovom jedinstvenom okularnom organu, pošto vrlo teško dolaze do njega .. glasine kruže da bi oni platili razumni sumu novca samo da dođu do tog oka zbog proučavanja ... (mnogi izveštaji o manifestaciji Poltergeista uključuju buku i uništenje koje nema trenutnog vidljivog uzroka .. situacije uključuju i razne nežive objekte koji bivaju dignuti i bačeni; zvuci kao što su kucanje, grebanje, ili čak ljudski glasovi; a i fizički napadi na ljudska bića...)</text>
+	</string>
+	<string id="mutant_hand_kontroler">
+		<text>Ruka Kontrolera</text>
+	</string>
+	<string id="mutant_hand_kontroler_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+10\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+5\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-5\n%c[default]Kontroleri poseduju neverovatno moćne Psioničke sposobnosti. Napadaju sa distance, stvaraju razna halucinogena dejstva .. Oni su, međutim, osetljivi na fizičke napade, pa se mogu ubiti uz pomoć lukavstva i veštine. Naučnici su u ubeđenju da njihova snaga leži u njihovim rukama, i platiće lepu svotu za njih ukoliko su ne oštećene...</text>
+	</string>
+	<string id="mutant_flesh_eye">
+		<text>Oko "Mesine"</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+7\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]-5\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Mutirano, oteklo oko mutanta "Mesine" je dobilo dosta čudnih karakteristika, a najkorisnija od svih je regeneracija sočiva. Tačan proces je nepoznat, ali ako se otkrije proces to bi bilo najveće otkriće u modernoj medicini. Možeš da budeš deo tog otkrića tako što možeš da prodaš oči naučnicima za njihove eksperimente.</text>
+	</string>
+	<string id="mutant_burer_hand">
+		<text>Burerova Ruka</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+7\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Ruka Burera ima mnoga i unikatna svojstva, najkorisnija osobina je ta da je vrlo otporna na radijaciju + psi-emisije .. ali tu je kompromis u vidu ubrzanja metabolizma + utrošak energije. Naučnici iz Zone nemaju vliki interes za njih, međutim, oni su ekstenzivno proučavani još od formiranja Zone...</text>
+	</string>
+	<string id="mutant_zombie_hand">
+		<text>Ruka Zombija</text>
+	</string>
+	<string id="mutant_zombie_hand_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+6\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+4\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-2\n%c[default]Ruka Zombija ima brojne unikatne osobine, najbitnija je jaka otpornost na radijaciju. Poznate su i po tome da povećavaju apetit, međutim, na svu sreću ne i prema ljudskom mesu!! Poznato je da naučnici iz Zone plaćaju lepe pare za takve anatomske pronalaske ali samo ukoliko nisu oštećeni...</text>
+	</string>
+	<string id="mutant_fracture_hand">
+		<text>Izlomova Ruka</text>
+	</string>
+	<string id="mutant_fracture_hand_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+10\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+5\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-5\n%c[default]Naučnici iz Zone proučavaju Zombije još od drugog incidenta u Zoni 2006 godine u nadi da će bolje razumeti kako oni nastaju. Do sada su imali samo sporadičan uspeh u tome, ali postoji nada da će dalje proučavanje eventualno otkriti dovoljno informacija koje će se pokazati korisnim za razvijanje lekova za otpornost na emisije. Tržište takvih lekova bilo bi masivno, a i dramatično bi se poboljšao tretman prema kancerogenim oboljenjim, kako u Zoni, tako i izvan nje...</text>
+	</string>
+	<string id="mutant_psevdogigant_hand">
+		<text>Ruka Pseudogiganta</text>
+	</string>
+	<string id="mutant_psevdogigant_hand_description">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+7\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+4\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Mutirana ruka Pseudogiganta poseduje čudesne anomalne sposobnosti koje se trenutno proučavaju od strane naučnika iz Zone .. oni će platiti S.T.A.L.K.E.R.ima relativnomnogo za sve, ali ne oštećene primerke. Ekstremno retko, a i teško za pronaći .. naravno potrebno je zabravo ubiti jednog kako bi mu se ruka amputirala...</text>
+	</string>
+	<string id="part_tarakan">
+		<text>Tarakanova Ljuštura</text>
+	</string>
+	<string id="enc_part_tarakan">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+5\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+3\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-3\n%c[default]Veliki deo mutirane ljušture skinut sa Černobilske Bubašvabe, ili 'Tarakana'. Sadrži mnoge 'nepoznate' karakteristike. Koristi se za pripremu raznih medicinskih masti pomoću ekstrakcije radijo-aktvnih enzima i mutiranih hormona .. takođe se priča, da nije loše dodati određenu količinu 'zinga!!' u domaću čorbu!?..</text>
+	</string>
+	<string id="part_tarakan_strong">
+		<text>Stara Tarakanova Ljuštura</text>
+	</string>
+	<string id="enc_part_tarakan_strong">
+		<text>%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+15\n%c[255,1,255,255]Radijacija: %c[255,255,0,0]+12\n%c[255,1,255,255]Krvarenje: %c[255,1,255,1]-10\n%c[default]Ljuštura iskusnog seniora 'Tarakana' je mnogo više tražena u odnosu naone od mlađih primeraka. Vremenom, ljuštura upije mnogo više radijacije, a i drugih anomalnih kvaliteta koji su ekstremno traženi za proučavanje od strane Naučne zajednice. Istovremeno, može se koristiti za pravljenje raznih medicinskih masti, koje značajno ubrzavaju proces lečenja ...</text>
+	</string>
+	<!-- COLLECTABLE PARTS -->
+	<string id="mutant_chimera_kogot">
+		<text>Himerine Kandže</text>
+	</string>
+	<string id="mutant_chimera_kogot_description">
+		<text>Priča se da su Himerine Kandže čvršće od legiranog čelika. To objašnjava tako razorna oštećenja nastala kod žrtvi Himerinog napada. Mnogi su nađeni sa otkinutim ekstremitetima, a mnogo često i .. potpuno odečene glave. Naučnici dobro plaćaju samo da bi došli do ovih predmeta do kojih se jako teško dolazi, zbog daljeg proučavanja ...</text>
+	</string>
+	<string id="mutant_werewolf_kogot">
+		<text>Kandže Vukodlaka</text>
+	</string>
+	<string id="mutant_werewolf_kogot_description">
+		<text>Priča se da su Kandže Vukodlaka jače i oštrije nego Himerine. Takođe se priča da su oni u stanju i vrata da rasture u delova samo da bi došli do svojih žrtava. Nekoliko ih je donešeno za proučavanje ...</text>
+	</string>
+	<string id="part_digitis_biblio">
+		<text>Krzno Bibliotekara</text>
+	</string>
+	<string id="enc_part_digitis_biblio">
+		<text>Retko se ronalazi zaista!! .. pošto su oni najređi mutanti u Zoni. Za Krzno Bibliotekara postoji priča da ono donosi sreću onome ko ga poseduje ... ali, prava istina je da njegova svojstva i poreklo tek treba otkriti... Neki pričaju da su oni migrirali čak iz podzemlja Moskve, ali niko do sada nije preživeo susret sa Bibliotekarem da bi potvrdio tu priču, u bilo kom obliku...</text>
+	</string>
+	<string id="mutant_zombie_teeth">
+		<text>Zub Zombija</text>
+	</string>
+	<string id="enc_mutant_zombie_teeth">
+		<text>Zob Zombija priča se da poseduje pozitivne, "srećne" karakteristike kada se nosi oko vrata. Mnogi sezonski S.T.A.L.K.E.R.i su poznati po pravljenju ogrlica od njih. Samo u Zoni, tako sujeverje može vladati .. Kao rezultat toga, vrednost tog predmeta je narasla, jer u poslednje vreme svi tragaju za 'nečim' što će im dati neku vrstu pozitivne energije ovde u Zoni...</text>
+	</string>
+	<string id="rudiment_big">
+		<text>Mutirane Grudi Zombija</text>
+	</string>
+	<string id="enc_rudiment_big">
+		<text>Uzorak mutiranog tkiva od grudi ženskog Zombija .. Ima razna nepoznata svojstva, ali čini se da ne ispoljava nikakav uticaj na nosioca, ni pozitivan, a ni negativan.Naučna zajednica je tek počela da proučava takve uzorke, a rezultat je taj da će trgovci platiti do neba za tako redak pronalazak ..</text>
+	</string>
+<!--	Duplicated string id from the "string_table_arhara.xml" file - aleks1970
+	<string id="enc_rudiment_big">
+		<text>Uzorak mutiranog tkiva od grudi ženskog Zombija .. Ima razna nepoznata svojstva, ali čini se da ne ispoljava nikakav uticaj na nosioca, ni pozitivan, a ni negativan.Naučna zajednica je tek počela da proučava takve uzorke, a rezultat je taj da će trgovci platiti do neba za tako redak pronalazak ..</text>
+	</string> -->
+</string_table>
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:49 -sadd -->
+<!-- Preveo i prilagodio Coolkingeye -=- 13:40 22.05.2015 -->

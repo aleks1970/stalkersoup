@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="bar_arena_locator">
+		<text>Arena</text>
+	</string>
+	<string id="bar_bar_locator">
+		<text>"100*Rendgena" Bar</text>
+	</string>
+	<string id="bar_dolg_locator">
+		<text>Baza Djutija</text>
+	</string>
+	<string id="rostok_banda_volkodava">
+		<text>Vukodav i njegovi razbojnici u blizini helikoptera</text>
+	</string>
+	<string id="rostok_kruglov">
+		<text>Profesor Kruglov</text>
+	</string>
+	<string id="rostok_tainyi_hod">
+		<text>Zaseda u blizini fabrike</text>
+	</string>
+	<string id="rostok_volkodav">
+		<text>Vukodav</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 28.01.2015 - 12.05 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:39 -sadd -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+<string id="bun_code">
+<text>Prate me neki brojevi, kao da su dolaze iz prošlog života. Znao sam brojeve ali ne verujem da ih se... Sad sam se setio - 342089. To je šifra jednih vrata, ali ne sećam se koji je put do tih vrata..</text>
+</string>
+<string id="bun_monolith_pda">
+<text>PDA vojnika Monolita</text>
+</string>
+<string id="rad_code_door_info">
+<text>Mrtvi naučnik imao je jednu kartu sa sobom na kojoj su jedna vrata bila obeležena. Šifra 1287975</text>
+</string>
+<string id="rad_code_door_info_name">
+<text>Kodirana vrata</text>
+</string>
+<string id="rad_get_to_aes_desc">
+<text>Barmen: "Ovde su svi poludeli kada su saznali! Svaki pojedinac se uputio prema centru Zone: Samotnjaci, Fridom, Djuti, čak i Plaćenici. Ko prvi tamo stigne, dobija sve! Taj Ispunitelj Želja, mesto puno artefakta, i sam đavo zna šta ima još. Požuri se! Ako se taj Ispunitelj Želja stvarno nalazi ispod Sarkofaga, on će prvom ko ga nađeispuniti njegove želje. Trenutno se sada, ispred Pripjata, okuplja jedna jedinica veterana. Ako se požuriš, možeš sa njima krenuti."</text>
+</string>
+<string id="rad_sleep_info">
+<text>Isključio sam Spaljivača. Pritom sam iz nepoznatog razloga izgubio svest. Onda sam imao jedan san: video sam veliku nuklearnu elektranu u Černobilu i taj Sarkofag. Onda jak bljesak i video sam taj svetleći monolit ispod Sarkofaga. Verujem, da je to taj Ispunitelj želja. Jedan stalker, zadihan i u krpama umotan, posle toga, nemoćno ispruža svoju ruku... Dalje jedan jak bljesak i vidim prvi deo moga sna... Jedan čovek, stoji okrenut leđima prema meni i puca na sve strane. Neko viče "Strelok". Taj čovek zadrhta, ostade jedan momenat nepokretan i počne se lagano okretati... ali slike su izvrnute, kao kad bi neko pustio film unazad, i onda vidim, kako on sa svojim oružjem vraća pacove nazad u reaktor... Jednom sam već bio tamo. Ja moram ka Monolitu.</text>
+</string>
+<string id="rad_sleep_info1">
+<text>Spaljivač je gotov</text>
+</string>
+<!-- Preveo i prilagodio Flexerca---27.01.2015 --13.09 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:54 -sadd -->

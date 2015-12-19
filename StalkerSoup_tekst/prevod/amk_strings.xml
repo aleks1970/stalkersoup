@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 changed sleep prompts, fixed text block with hard returns in it, amk options, more options, spelling,
+ Text editing by: Martin Pallo 09/12/11, added weather option, Grimwald edits, sleep times, minor edits by: Michael Stout 24 Jan 15, amk_warn_attention-->
+<string_table>
+	<string id="mil_lukash_healing_armor_01">
+		<!-- MF Punctuation, tenses -->
+		<text>Napokon, Obeleženi! Ovo odelo je zadivljujuće! Pokušaćemo da upotrebimo njihovu tehnologiju u našim odelima. Daćemo ti neke recepte kao nagradu. Imamo jednog momka ovde, on je genije mogu ti reći, njegovo ime je Kuvar - verovatno ga znaš. On može napraviti nov i efektivan artefakt od skoro svakog bezvrednog, on zapisuje na čudan način znaš, primio je udar emisije u svoju glavu i od tad je vrlo poetičan, zato probaj da razumeš. U redu?</text>
+	</string>
+	<string id="mil_lukash_healing_armor_02">
+		<text>Da svakako.</text>
+	</string>
+	<string id="mil_lukash_healing_armor_03">
+		<!-- MF minor rewrite, -->
+		<text>I još jedna stvar, Obeleženi, nadam se da ove stvari koje "donose korist i stvaraju blagostanje", neće doći do ušiju Djutija, u redu?</text>
+	</string>
+	<string id="mil_lukash_healing_armor_04">
+		<text>Garantujem ti.</text>
+	</string>
+	<string id="trader_beads_1">
+		<!-- MF Punctuation, structure -->
+		<text>Nagrada koju ti dajem je vredna, uskoro ćeš uvideti kolika je korist u pretvaranju jednog artefakta u drugi. Tako je, to je moguće, ne veruješ mi? Baci pogled na tvoj PDA, ubacujem ti informaciju.</text>
+	</string>
+	<string id="trader_beads_2">
+		<!-- MF your=you are -->
+		<text>Prtepostavljam da mi nikada nećeš otkriti gde si došao do ove informacije?</text>
+	</string>
+	<string id="trader_beads_3">
+		<text>Da, tačno tako, ali sigurno kada dobiješ recepte sigurno ćeš biti zadovoljan?</text>
+	</string>
+	<string id="ecolog_prizrak_outfit_reward_1">
+		<text>Želim da ti zahvalim na ovom odelu! Ne samo da dobro izgleda, već i pomaže u istraživanju. Baci pogled na svoj PDA, daći ti neke vrlo značajne informacije, "Himerine Suze" izgradiće ti otpornost na psihološke efekte od strane Kontrolera, a isto tako će ti pomoći da prođeš kroz Pripjat! Budo oprezan, Obeleženi, nadam se da će naša saradnja biti dugotrajna!</text>
+	</string>
+	<string id="drunk_dolg_reward_phr_1">
+		<!-- MF punctuation, minor rewrite -->
+		<text>Hej Obeleženi! Ovde u Djutiju, nikada ne zaboravljamo svoje dugove. Uzmi ovaj recept, on će ti pokazati kako da modifikuješ artefakt. Veruj mi, ovo je vrlo retka informacija! Iskoristi je pametno.</text>
+	</string>
+	<string id="val_sos_dialog_21_amk_1">
+		<!-- MF minor rewrite, capitalization, -->
+		<text>Hvala ti prijatelju, mnogo si mi pomogao. Ako ikada budem imao šansu pokušaću da ti vratim uslugu. Ako još uvek budem disao... Ali za sada, imam samo jednu stvar da ti kažem: južno odavde postoji ranč, a i kamp Stalkera samotnjaka. Jedan od njih prodaje neku vrstu "Gaus puške" po vrlo niskoj ceni, milim negde oko 800. Hteo sam da kupim, ali jebena Krvopija me je napala i bacila me ovde. Ako imaš navca, idi odmah. Osim što osim informacije o toj pušci nemogu ti dati ništa toliko vredno da se odužim za spasavanje života. U stvari... Ima tu još jedna stvar koju ti mogu reći... Da li si ikada čuo nešto o "Kiselom Dikobrazu"?</text>
+	</string>
+	<string id="val_sos_dialog_21_amk_2">
+		<!-- MF tenses, -->
+		<text>Jel' ovo mutant o kojem smo razgovarali? Nikad nisam čuo nešto o ovome mutantu.</text>
+	</string>
+	<string id="val_sos_dialog_21_amk_3">
+		<!-- MF articles, -->
+		<text>N-ne ovo je modifikovani artefakt! Pun je smrdljive kiseline, prepun je tečnosti iznutra pa ga je nemoguće nositi na pojasu, trebaće ti nešto poput džaka, ili plastični kontejner, sa poklopcem koji dobro dihtuje... Sve će ti biti jasno kada budem napravio ovaj artefakt.</text>
+	</string>
+	<string id="val_sos_dialog_21_amk_4">
+		<text>Kako si došao do ovog recepta? Deluješ mi kao neko nov u Zoni... Jesi li ubio nekoga?</text>
+	</string>
+	<string id="val_sos_dialog_21_amk_5">
+		<!-- MF off=on, capitalization, tenses, articles -->
+		<text>Ne! Pronašao sam ga kod mrtvog stalkera Djutija, a-ali ja ga nisam ubio, ja ne bih imao nikakve šanse protiv njega. On je imao jedan od onih egzoskeleton odela, a i VAL, ne bih imao šanse! On je ubijen od strane nečeg moćnog, egzoskeleton je izgledao kao da ga je nešto izžvakalo, a VAL je bio u usranom stanju... nema šanse da se može popraviti, ali PDA je bio netaknut, a kad sam pogledao u njega pronašao sam recept. Svakako, prebaciću ti na tvoj PDA. Pa pročitaj ga sam.</text>
+	</string>
+	<string id="val_sos_dialog_21_amk_6">
+		<text>Pa, hvala ti! Sa srećom!</text>
+	</string>
+	<string id="amk_zapiska">
+		<text>Skicirano parče papira</text>
+	</string>
+	<string id="amk_zapiska_s">
+		<text>Poruka</text>
+	</string>
+	<string id="enc_amk_zapiska_descr">
+		<text>-</text>
+	</string>
+	<string id="mil_freedom_commander_3001_amk">
+		<!-- MF structure, standards, medium rewrite -->
+		<text>Hvala Obeleženi, mnogo cenim tvoju pomoć. Moji momci su iscrpljeni, pre dva sata su imali pravu borbu sa Kontrolerom i nekim stalkerima ubijenog mozga koje je on držao pod svojom kontrolom... To je bila teška borba, izgubio sam tri dobra čoveka, a i ostali se žale kako im zvoni u glavama. Mogolo bi se reći po načinu na koji su gađali, većina od njih obično gađaju vrlo dobro, ali ne i sa Kontrolerom koji im prži mozgove... kao 'Hvala ti' za pomoć u pravi čas, daću ti recept. Dragiša Zvučni se skoro vratio sa provere lokacije. On i njegova grupa su imali čarku sa nekim Djutijevim Stalkerima i pronašli su zanimljiv deo informacije sa jednog PDA koji su zaplenili. mislim da ćeš razumeti kada budeš pročitao. Pa, sa srećom, nadam se da ćemo se ponovo sresti!</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_1_amk">
+		<!-- MF structure, standards, tenses -->
+		<text>Odličan posao, Obeleženi. Mnogo si mi pomogao. A kao nagradu možeš uzeti ovo odelo. Mislim da će tebi biti od koristi. I još jedna stvar: Naučnici su nam dali recept. Ti si nama pomogao, tako da ga dajem tebi, zaslužio si ga, Fridom neće saznati za ovo, jel' tako? Baci pogled na svoj PDA, prebacio sam ti informaciju na njega.</text>
+	</string>
+	<string id="amk_mus_disabled">
+		<text>Dinamička Borbena Muzika : Isključeno</text>
+	</string>
+	<string id="amk_mus_enabled">
+		<text>Dinamička Borbena Muzika : Uključeno</text>
+	</string>
+	<string id="amk_save_disabled">
+		<text>AutoSnimak Zadatka : Isključeno</text>
+	</string>
+	<string id="amk_save_enabled">
+		<text>AutoSnimak Zadatka : Uključeno</text>
+	</string>
+	<string id="amk_dyn_suit_enabled">
+		<text>Napredne funkcije odela : Uključeno</text>
+	</string>
+	<string id="amk_dyn_suit_disabled">
+		<text>Napredne funkcije odela : Isključeno</text>
+	</string>
+	<string id="amk_hud_disabled">
+		<text>Aktivan HUD : Isključeno</text>
+	</string>
+	<string id="amk_hud_enabled">
+		<text>Aktivan HUD : Uključeno</text>
+	</string>
+	<string id="amk_hud_and_blood_enabled">
+		<text>Aktivan HUD : Uključeno+Krv</text>
+	</string>
+	<string id="amk_hud_and_steam_enabled">
+		<text>Aktivan HUD : Uključeno+Krv+Disanje</text>
+	</string>
+	<string id="amk_dof_disabled">
+		<text>DOF : Isključeno</text>
+	</string>
+	<string id="amk_dof_blur">
+		<text>DOF : Zamućenje pri pokretu</text>
+	</string>
+	<string id="amk_dof_low">
+		<text>DOF : Dinamički nisko</text>
+	</string>
+	<string id="amk_dof_high">
+		<text>DOF : Dinamički visoko</text>
+	</string>
+	<string id="amk_nv_disabled">
+		<text>NV Zvuk : Isključeno</text>
+	</string>
+	<string id="amk_nv_enabled">
+		<text>NV Zvuk : Uključeno</text>
+	</string>
+	<string id="amk_auto_adj_disabled">
+		<text>Auto Podešavanje Nivoa : Isključeno</text>
+	</string>
+	<string id="amk_auto_adj_enabled">
+		<text>Auto Podešavanje Nivoa : Uključeno</text>
+	</string>
+	<string id="amk_pda_classic">
+		<text>PDA Zvuci : Klasično</text>
+	</string>
+	<string id="amk_pda_modern">
+		<text>PDA Zvuci : Moderno</text>
+	</string>
+	<string id="amk_ballistics_disabled">
+		<text>Napredna Balistika : Isključeno</text>
+	</string>
+	<string id="amk_ballistics_enabled">
+		<text>Napredna Balistika : Uključeno</text>
+	</string>
+	<string id="amk_megafone_disabled">
+		<text>Megafonska Priča : Isključeno</text>
+	</string>
+	<string id="amk_megafone_enabled">
+		<text>Megafonska Priča : Uključeno</text>
+	</string>
+	<string id="amk_treasure_old">
+		<text>Štekovi : Klasični Mod Igre</text>
+	</string>
+	<string id="amk_treasure_new">
+		<text>Štekovi : Mod Nasumične Sadržine</text>
+	</string>
+	<string id="amk_treasure_rare">
+		<text>Štekovi : Mod Nasumičnog Pojavljivanja</text>
+	</string>
+	<string id="amk_weather_normal">
+		<text>Vreme : Uobičajeno</text>
+	</string>
+	<string id="amk_weather_cloudy">
+		<text>Vreme : Oblačno</text>
+	</string>
+	<string id="amk_weather_fair">
+		<text>Vreme : Vedro</text>
+	</string>
+	<string id="amk_repop_normal">
+		<text>Repopulacija : Normalna</text>
+	</string>
+	<string id="amk_repop_moderate">
+		<text>Repopulacija : Umerena</text>
+	</string>
+	<string id="amk_repop_hardcore">
+		<text>Repopulacija : Intezivna</text>
+	</string>
+	<string id="amk_news_disabled">
+		<text>Vesti u Igri : Isključeno</text>
+	</string>
+	<string id="amk_news_enabled">
+		<text>Vesti u Igri : Uključeno</text>
+	</string>
+	<string id="amk_cop_disabled">
+		<text>Psi Efektori : Isključeno</text>
+	</string>
+	<string id="amk_cop_enabled">
+		<text>Psi Efektori : Uključeno</text>
+	</string>
+	<string id="amk_options">
+		<text>Napredne Opcije</text>
+	</string>
+	<string id="amk_rkd0">
+		<text>Opušteno.</text>
+	</string>
+	<string id="amk_rkd1">
+		<!-- MF punctuation, -->
+		<text>Hej, Imam dobre i loše vesti za tebe. Počeću sa lošim vestima. Nisam siguran šta si to uradio, ali izgleda da je nešto strašno loše... Poslali su me da te ubijem.</text>
+	</string>
+	<string id="amk_rkd2">
+		<text>...?!</text>
+	</string>
+	<string id="amk_rkd3">
+		<text>Dobre vesti su da ja u stvari ne želim to da uradim. Zašto? Nisam siguran... Ali imaš dobru šansu da spaseš svoju guzicu. Sigurno si do sada shvatio, da sve na svetu ima svoju cenu.</text>
+	</string>
+	<string id="amk_rkd4">
+		<text>Jebi se!!</text>
+	</string>
+	<string id="amk_rkd5">
+		<text>Znaš, Obeleženi, znao sa da će pre ili kasnije doći do ovoga...</text>
+	</string>
+	<string id="amk_rkd6">
+		<text>Misli čoveče! Misli...</text>
+	</string>
+	<string id="amk_rkd8">
+		<text>Hvala, čoveče. Ja sad idem. Nek ti je sa srećom!</text>
+	</string>
+	<string id="amk_recipt_stone_dikoobraz_1_text">
+		<!-- MF articles, minor rewrite, articles -->
+		<text>Snimak 1: "... Tokom toga smo videli ceo proces od početka do kraja, uprkos borcima Monolita koji su opkolili anomaliju "Trampolina" u tesnom obruču, pokušavajući da prikriju proces transmutacije kao i sam artefakt od bilo kojeg slučajnog svedoka. Ali Artjom je stajao prilično blizo, tako da je uz pomoć dvogleda uspeo da vidi artefakt, jasno je da je bio bačen u anomaliju. To je bio "Kiseli Dikobraz" (prilično čudno ime, ali tako ga je Stalker koji ga je napravio i nazvao, to smo proverili). Nakon devet sati, noću, artefakt je bio izbačen iz anomalije. Sada je trebalo da ga otmemo od boraca Monolita.  Artjom je spredložio da to učinimo tokom njihove sledeće molitve Monolitu. To bi trebalo da počne za oko 40 minuta. Kada se budem vratio, postaraću se za tog pametnjakovića, nadam se da ćeš me podržati, Vladislave Leonidovitču."\n \nSnimak 2: "... Prebaciću delove podataka na memorijski stik, napraviću kopije od njih. obračunali smo se sa borcima Monolita na brzinu. Dok su oni zavijali okolo ranca (prvo sam pomislio da je to bio ranac, ali se ispostavilo da je to ustvari bio portabl oltar (Mislim da će ta činjenica biti zanimljiva za centar u Moskvi i za strane kolege, Vladislave Leonidovitču) koji je jedan od njih odneo u mračni desni ugao, Artjom je otvorio vatru iz svog Vintoreza, a ja sam mu pomoga sa nekoliko granata. Uprkos svim brigama, modifikovani artefakt je ostao netaknut. Nakon dva dana naše ekspedicije primetio sam dodatna svojstva "Kamenog Dikobraza": ovaj artefakt koji sam svrstao u apsolutnu klasu, umanjuje količinu radijacije, koju osoba prima za 60 mcv na sat! I ne samo to, "Kameni Dikobraz" smanjuje osetljivost osobe na električno delovanje i povećava izdržljivost..."\n \nSnimak 3: "... progonili su nas borci Monolita, oko petnaest njih. Kretali su se vrlo brzo, pokušali smo da pobegnemo, ali nismo uspeli. Polako su nas opkolili. Ostaviću memorijski stik sa podacima kod Artjoma Inkina i pokušati da ih usporim ..."</text>
+	</string>
+	<string id="amk_recipt_stone_dikoobraz_2_text">
+		<!-- MF capitalization, tenses -->
+		<text>Snimak 1: "...Uhvatili su me na putu koji vodi iz sela... Petorica njih su bili... Nismo mogli čak ni da javimo naše koordinate, grupa za podršku je samo čekala... Upucali su Andreja Semionoviča u nogu odmah ispred mene, kurve! Dugo su nas vodili, ja sam nosio Andreja Semionoviča... Nisam čak ni znao da oni ovde imaju tajno skrovište pod zemljom. Andrej Semionovič je šantao, ta kopilad su napravili zavoj za njega i kazali su mi da će nam se uskoro osvetiti zbog ubijanja njihove braće... Andrej Semionovič je bačen u kavez odmah pored moga, već je bio bez svesti... odvezali su mi ruke a nisu mi oduzeli moj PDA ni moju torbu, samo moje oružje i municiju..."\n \nSnimak 2: "...  Ne znam šta je ovo... Ne znam... Nije Krvopija, nije ni Himera... Nije ni... Ispuzalo je iz jame kada su oni počeli da pevaju! Otvorili su vrata od kaveza Andreja Semionoviča... To ih nije ni dotaklo, krenulo je prema kavezu odmah... ušlo je unutra... i... POČELO JE DA GA JEDE! ON JE JOŠ UVEK BIO ŽIV KADA GA JE ZAGRIZLO ON JE VRISNUO!!! TO JE JELO NJEGOVO LICE I ON JE ŠIŠTAO I POKUŠAVAO."\n \nSnimak 3: "... Ono će se vratiti... Oni su otišli, ali to sedi dole u jami... Mogu da čujem negove misli... oni su otišli i ostavili vrata od mog kaveza otvorena... A to se vratilo u jamu i šalje svoje misli u moju glavu... Ono mi govori... I Andrej Semionovič mi govori... Takođe u mojoj glavi... Ja ću otići... Samo ću uzeti ruku Andreja Semionoviča... On kaže da je čak i ruka, dovoljno je dobra... Ruka... je važna, vrlo je važna... Ali ono... Ne izlazi napolje... Ono sjaji tamo dole... u jami... kao duga... i govori mi u mojoj glavi da ne odlazim.... ali ja ću otići... oni nisu čak ni vrata zatvorili... oni su rekli da mi ono neće dozvoliti da odem... ali ono je otišlo čim je pojelo Andreja Semionoviča... ostala je samo ruka... Andrej Semionovič mi govori da idem odmah... dok ono razmišlja tamo dole... i da uzmem ruku... jer ona je jako važna za njega..."\n \nSnimak 4:  "Prevario sam ga... ono je glupo... Uzeo sam ruku Andreja Semionoviča i ruksak... i počeo da idem... ono je počelo da reži i da puzi napolje... Osetilo me je u svojim mislima... Ono je bilo besno i bilo je iznenađeno... Ono nije znalo zbog čega ja odlazim... zato što nije trebalo da odlazim... a ja sam osetio u mislima da zaista treba da odem... Andrej Semionovič želi da ode takođe i on je otišao! Ono mi je verovalo i nije izašlo! Ono je samo režalo i sjajilo u mraku... PREVARIO SAM GA! Prevario sam ga..."</text>
+	</string>
+	<string id="amk_recipt_steel_kolobok_text">
+		<!-- MF tenses, standards, -->
+		<text>Snimak 1: "Pronašao sam mrtvog stalkera, sve što je ostalo od njega, stvarno, blizo anomalije "Trampolina". Imao je "Kolobok" u svom rancu, neki vrlo čudan, tako je strašno sjajio. Na brzinu sam pomislio i odlučio da bacim svoj Kolobok u anomaliju "Trampolina" i da vidim šta će se dogoditi. To je šteta, da budem iskren, mogao sam zaraditi mnogo pića prodajući ga, ali... jebi ga, isprobao sam trik svakako"\n \nSnimak 2: "Evo čekam već tri sata, kao usamljeni zombi. Sad mi je žao što sam bacio taj Kolobok u anomaliju, prokletstvo!"\n \nSnimak 3: "Da! Izleteo je kao pluteni čep! Pet sati je prošlo i evo ga. Sija! Trebalo bi da proslavim ovov sa nekoliko pića!"\n \nSnimak 4: "Fiju! To je bilo blizo! Od sada ima uvek da šetam Zonom pijan, jebeno bih poginuo da sam bio trezan! Sreo sam bandita, pogodio me je iz svog pištolja i njegov pištolj se raspao odmah nakon što je pucao. Tako da je kopile hteo da me iseče nožem! Roknuo sam ga sa sačmaricom."\n \nSnimak 5: "Nije sva tako jednostavno. Kada mislim o njemu dok sam trezan, on ne deluje uopšte. Pa, on me je promašio iz njegovog PM pištolja, ali sa nožem je vrlo lako isekao moju kožnu jaknu. Pamtim udar sečiva... ali na mom stomaku - bila je samo ogrebotina. Možda su moji "Koloboci" pomogli? "Čelični Koloboci"... Sjajni, prokleti kopilani. Svakako, sa čeličnim jajima zar nisam cool..."</text>
+	</string>
+	<string id="amk_recipt_titan_kolobok_text">
+		<!-- MF typos, -->
+		<text>Saratsin je doveo sa sobom nekog žutokljunca kojeg je uhvatio. On kaže, da nije hteo odmah da ga ubije jer se momak osvrtao naokolo na čudan način, pa je pomislio da nosi nešto vredno. Tvrdoglavo derište! Pronašli smo interesantan "Kolobok" u njegovom rancu. Dakle, izgledao je kao "Kolobok", ali ... Tu je bilo nešto drugačije u vezi sa njim. Kada smoga upitalo šte je dođavola ta stvar u njegovom rancu, on je samo ćutao. Poštujem to! Posebno kada neko izgleda kao totalna kukavica! Šveđanin je morao da mu polomi nekoliko prstiju, pre nego što je napokon počeo da govori. Rekao nam je da je to bio "Čelični Kolobok" koji je izmenjen u anomaliji "Ringišpil". Rekao je da kada ga ubaciš, ostaviš ga tamo na pet sati, a nakon toga on postaje drugačiji. Takođe je rekao da te onda štiti od metaka, umanjuje oštećenja od vatre i posekotina, ali je jebeno radioaktivan. Smislo sam cool ime za njega - "Titanski Kolobok"! Sada moram da isprobam njegov trik i da vidim da li govori istinu. Ali pre svega, moram da pronađem "Čelični Kolobok"...</text>
+	</string>
+	<string id="amk_recipt_almaz_kolobok_text">
+		<!-- MF typos, -->
+		<text>Ovaj hipermodifikat može se dobiti transmutacijom međumodifikata "Titanskog Koloboka" u anomaliji "Voćni Punč". On daje svome nosiocu imunitet na posekotine, umanjuje oštećenja od vatre i hemijskog delovanja. Takođe je vrlo zanimljiv jer generiše neku vrstu polja oko nosioca. To polje menja trajektoriju metaka ispaljenih u pravcu nosioca. Jedina negativna osobina ovog vrlo korisnog hipermodifikata je da zrači radijacijom.</text>
+	</string>
+	<string id="amk_recipt_controller_skalp_text">
+		<text>Neka On bude u Večnosti! Neka On promeni Svet! Mudrac Viktor nam je pričao o još jednom uspehu njegovih prirodnjaka! Mudrac, kao što smo svi mi sigurni On nam je pomovo podario, Njegove sledbenike poklonom koji će ojačati našu veru! Nakon borbe sa grupom vojnika, koji su čuvali naučnike, Ostah, vođa falange je doneo "Čeličnu Krljušt" zajedno sa telima i plenom. Žrtvovao je artefakt zajedno sa telima u Njegovom plamenu, ali Posmatrači, brat Akim i brat Lioko su pronašli Čeličnu Krljušt, koja je bila izletela iz anomalije Gorionik nakon šest sati. Artefakt je odavao neobičnu svetlost i to se prikazalo Posmatračima da je to bio Njegov znak. Ova izmenjena Čelična Krljušt je bila u dve bitke sa prirodnjakom, Romanom. Na povratku njegova falanga se srela i borila sa četiri Burera. Brat Roman kaže da ova modifikovana Čelična Krljušt pravi čuda - on se osećao kao da skoro ni nema psi-napada od Burera! On je takođe primetio da sve vreme dok je nosio taj artefakt nije imao potrebu da jede. Istinski, On nam daje deliće Večnosti čak i sada! Nadalje naši eksperimenti su pokazali da ovaj artefakt, nazvan "Skalp Kontrolera" po kvalitetu čini svom nosiocu da se oseća bolje i štiti ga od hemijskih opekotina. Naša Vera raste i postaje čak i snažnija iz dana u dan, za Njega koji nas nije zaboravio! Neka On bude u Večnosti! Neka On promeni Svet!</text>
+	</string>
+	<string id="amk_recipt_souls_text">
+		<!-- MF typos, tenses, structure, more tenses, -->
+		<text>Pre oko pola meseca, tačno u noć sedmog jula, u bloku broj 3 pojavila se pokretna anomalija "Gorionik". Baš tada sam ugledao plamen kako se kreće nasuprot zida, kod kojeg sam saznao šta je to. Ali bilo je prekasno - imao sam dovoljno vremena samo da dohvatim moj G-36, koji je visio na zidu, ali ne i vreću sa artefaktom "Duša", koji sam bio pronašao dva dana ranije. Bio sam prilično tužan i popio sam malo više. Onda, nakon oko četiri sata ugledao sam moju "Dušu" kako ispada iz plamena netaknuta! To je bilo vrlo čudno, znaš, bacala je svetlo kao lampa. Pa sam je uzeo i ubacio u kontejner. Kada sam se ujutro probudio ugledao sam par momaka kako peku vepra u "Gorioniku", odmah sam se setio "Duše". Ja sam upozorio Maksa i otišao sam kod naučnika. Put do njihove laboratorije nije bio baš najbolji, ali to je već druga priča. Dakle, otišao sam do njih i dao im tu "Dušu" zbog ispitivanja. Saharov je dugo razmišljao o tom artefaktu... Artefakt može svog vlasnika učiniti zdravijim, a, kao što Saharov reče, može umanjiti radijaciju oko nosioca takođe. Isto tako ovaj artefakt (Nazvao sam ga "Kapi Duše", zvuči cool) čini svog nosioca neznatno umornijim. Saharov me je čak i molio da mu prodam artefakt, ali mudra ideja mi je pala na pamet - poželeo sam da ga bacim u "Gorionik" još jedan put i da vidim šta će se dogoditi, a onda da ga donesem naučnicima na ispitivanje ponovo. On se složio, ali ne odmah, zaista. Dakle, uzeo sam artefakt i uputio sam se prema tunelu - tamo je mnoštvo tih "Gorionika". Bacio sam artefakt unutra i čekao. Za oko šest časova iskočio je napolje, uzeo sam ga, pokušavajući da se ne ispečem, inače bih bio poput Saharova... Doneo sam ga nazad na ispitivanja i shvatio da sam bio u pravu! Ovaj artefakt, koji sam nazvao "Vatrena Duša", bio je dvostruko bolji u zaštiti od radijacije! Čak mi je bilo žao što nisam išao na univerzitet, mogao sam postati tamo neki profesor ili nešto slično... Dakle, po treći put sam došao do anomalije i bacio ga unutra. Usput sam roknuo nekoliko zombija, jedan od njih je bio Mika Kamerun, pokoj mu duši. Vidiš, život ti je definitivno čudna priča: pili smo zajedno pre mesec dana, a sada sam morao da ga upucam u lobanju... pokoj mu... Bilo kako bilo, bacio sam tu "Vatrenu Dušu" u "Gorionik", pa sam čekao kao i ranije. Samo ovaj put sam morao da čekam znatno duže - artefakt se pojavio nakon 10 sati, imao sam vremena čak i da odspavam, neko režanje me je probudilo. Artefakt je sijao, kao da je bio srećan zbog nečega. Ponovo, otišao sam kod naučnika. Oni su me već čekali sa povećom grupom ljudi, dali su mi kafu i konjak odmah i odradili su sav svoj posao sa artefaktom. Moje Hennesy-i-kafica raspoloženje navelo me je da dam ima novom artefaktu - "Kristalna duša". Profesori su bili srećni, plakali su, smejali se, govorili su da je ovo hiper... hiperdif... ma, ova "Kristalna Duša" povećava zdravlje i ima neverovatnu zaštitu od radijacije. Ujutro sam otišao do "Gorionika" ponovo, ubacio sam ga unutra. Kao da sam čekao godinama! Kada je iskočio napolje, Bio sam pomalo iznenađen - njegov sjaj i ostalo se uopšte nisu promenili. Pa, pomislio sam, tako i treba. Na svom povratku pokretna "Elektro" anomalija je blokirala moj put, nisam mogao da prođem. Seo sam, dugo sam razmišljao i odlučio da bacim tu "Dušu" u "Elektro"! Ovaj put je bilo kao i sa "Gorionikom" ranije - artefakt je nestao i onda je izleteo nakon nakon jednog sata. Sjajio je drugačije. Kada se "Elektro" anomalija pomerila, nastavio sam svoj put. Doneo sam "Dušu" u Jantarsku laboratoriju i dao je Saharovu. On je nestao na duže vreme, ali kada se konačno vratio iz svoje eksperimentalne sobe, delovao je kao poludeli psihopata. Rekao je da je to neka vrsta Apsolutnog artefakta. Pre, trans...transm... ma, modifikovana "Duša" umanjuje izdržljivost nosioca dok nasuprot povećava zdravlje i otpornost na radijaciju, ovaj put je bilo drugačije, nosioca čini mnogo izdržljivijim. Dobio sam mnogo novca od naučnika za njihove eksperimente sa tom "Dušom"...</text>
+	</string>
+	<string id="amk_recipt_tears_electra_text">
+		<!-- MF typos, -->
+		<text>Artefakt "Kapljice" potrebno je staviti u "Elektro" anomaliju. Rezultirajući  modifikat - "Suze Elektre", ubzava proces izbacivanja radijacije iz tela nosioca (nosilac postaje imun na doze manje od 7mcv/čas), a takođe nosioca čini manje umornim. Negativni efekti nisu detektovani.</text>
+	</string>
+	<string id="amk_recipt_tears_fire_text">
+		<!-- MF minor rewrite, -->
+		<text>Modifikat "Suze Elektre" potrebno je staviti u anomaliju "Gorionik". Rezultirajući međumodifikat je "Vatrene Suze" koji ubrzava proces izbacivanja radijacije iz tela nosioca (maksimalna doza - 20+-2mcv/čas). Negativni efekti nisu detektovani.</text>
+	</string>
+	<string id="amk_recipt_tears_chimaera_text">
+		<!-- MF consitency, typos, minor rewrite, -->
+		<text>Međumodifikat "Vatrene Suze" postaviti u anomaliju "Voćni Punč". Ovaj hipermidifikovani rezultat, "Himerine Suze", obezbeđuje izvrsnu zaštitu od radijacije, a takođe blokira i skoro polovinu psi-emisije. Negativne karakteristike su pogoršanje dobrog stanja organizma i loše zaratanje rana.</text>
+	</string>
+	<string id="amk_recipt_grandmother_glassbeards_text">
+		<!-- MF typos, punctuation -->
+		<text>Ova informacija je bitna svakom vojniku Djutija.\n \nVojnici! Naši drugovi, naučnici su nam dali informaciju o mogućnosti izmene artefakta "Mamine Perle" u artefakt sa boljim osobinama. Ovaj artefakt se može izmeniti samo u anomaliji "Elektra", u kojoj artefakt treba da leži pet sati. Nakon toga on ima veliku šansu da dobije nova svojstva. Ovo je izvod iz naučničkog dokumenta:\n \nRezultirajući artefakt, nazvan "Stare Perle", povećava izdržljivost svom nosiocu, dok polje koje se generiše oko njegovog vlasnika usporava sve metke štiteći ga od kritičnih pogodaka. Neznatno je radioaktivan i umanjuje otpornost nosioca na električna oštećenja.\n \nI preporučujem svim vojnicima da kopiraju ovaj fajl u svoj PDA i da pošalju ovu informaciju svom vođi grupe...</text>
+	</string>
+	<string id="amk_recipt_pra_grandmother_glassbeards_text">
+		<!-- MF typos, articles, tenses, rewrote parts that didn't make sense,  -->
+		<text>... Pronašao sam Vanju Četiri Prsta u selu. Tamo sam se skrivao od pasa, kad sam iznenada začuo zvuk Gajgerovog brojača iz podruma. Momentalno sam izvukao svoje oružje, jer ko zna, tamo dole može biti Bandit ili Plaćenik. Ali kada sam pogledao dole, ugledao sam ga, njegovo lice je bilo u anomaliji "Voćni Punč". Uspeo sam da ga prepoznam samo po njegovom šeširu - crven sa znakom srpa i čekića na sebi. Prošlo je samo četiri sata od kako sam ga poslednji put video - on je otišao napred dok sam ja ostao da čekam Vadika, da bi mu dao torbu. Bilo mi je žao Vanje... Pa ipak, stavio sam svoju gas-masku i krenuo dole da ga izvučem. Nisam mogao da shvatim kako je završio tamo dole, ipak on je bio iskusan stalker, četiri godine u Zoni, dok nisam primetio da je neko u stvari polomio njegov vrat. Naravno, odmah sam se predomislio u vezi ideje da ga sahranim, đavo ga zna kakvo stvorenje ga je spremilo sebiza večeru, posebno ako je to stvorenje još uvek u blizini. Tako da sam na brzinu pregledao njegovo mrtvo telo, pokušavajući da ne dotaknem njegovu odeću; pokupio sam njegov ranac i artefakte. Nisam uzeo njegov omiljeni TOZ - "Voćni Punč" ga je skoro potpuno uništio, i pobegao sam što sam brže mogao. Imao je samo tri artefakta: "Kapljice", jedan "Morski Jež" i "Bakine Perle". "Kapljice" i "Morski Jež" su mu bili na pojasu , ali "Bakine Perle" su upale u "Voćni Punč". Pomisli sam da je artefakt završio svoje, ali u stvari bio je netaknut, jedino što je čudno sjajio. Isprobao sam ga pre nego što sam stigao do baze Fridoma. Postao je drugačiji. Nazvao sam ga "Prababine Perle". On zaustavljao jr krvarenje, davao mi energiju i čuvao me od metaka, kada sam susreo vojnika zombija. Emituje više radijacije nego "Bakine Perle", znaš. Mislim da ću ga prodati i kupiti sebi novo zaštitno odelo.</text>
+	</string>
+	<string id="amk_recipt_burer_grandmother_glassbeards_text">
+		<!-- MF typos, articles, little rewrite,  -->
+		<text>Snimak: "Fju, da budem iskren, počeo sam da mislim da nikada više neću ugledati moju Alionu ponovo. Znate, ja sam bio zapisničar u našoj bazi - provodio sam vreme sedeći ispred kompjutera, radio sam na raznim dokumentima i izveštajima. Ali onda, kada su naši momci počeli ubijati stalkere svakodnevno, nisam više mogao da podnesem! Bio sam ogorčen... međutim, to nije ono o čemu sam hteo da vam pričam. Slučajno sam pročitao jedan fajl tamo ... pa, sasvim slučajno mislim... znate već, trebalo mi je određeno vreme da se pozabavim sa kodom, dok napokon nisam hakovao prokletu stvar... Nisam napravio kopiju, ali se još uvek jasno sećam - to je bio naučnički izveštaj o ponašanju artefakata u anomalijama! Da li shvatate, šta to znači? U fajlu je navedeno, sa ukoliko uzmete neki mezo... mezo nešto... to je nazvano "Pra-babine perle" - glupo ime, nemoj ni da me pitaš šta je to, jer nemam ni najmanju ideju - pa, ukoliko uzmeš jedan od tih i ubaciš u "Ringišpil" onda nakon deset, bar misli da je deset, sati dobijaš drugačiji artefakt! Pa, recimo različit... on je u stvari isti, ali sa izmenjenim svojstvima. On emituje neku vrstu polja, sve što brzo uleti u to polje biva znatno usporeno. I ja sam pomislio da bi to trebalo da utiče i na metke takođe! Radijoaktivan. To ti je to. Nadam se, da će ove informacija biti od veće koristi tebi nego što su bile meni."</text>
+	</string>
+	<string id="amk_recipt_dikoobraz_text">
+		<!-- MF punctuation, -->
+		<text>... da bi dobio potrebnu transmutaciju, artefakt "Morski Jež" potrebno je ubaciti u anomaliju "Gorionik". Ukoliko transmutacija bude uspešna, za tri sata artefakt postaje veoma dobar u zaštiti od radijacije. Jedina njegova loša osobina je to što povećava umor kod nosioca. Naši dalji eksperimenti nisu pokazali mogućnost dalje promene modifikovanog artefakta, tako da je on nazvan "Dikobraz", u "Gorionik" anomaliji...</text>
+	</string>
+	<string id="amk_recipt_electra_dikoobraz_text">
+		<!-- MF minor rewrite, sounds a lot better, articles, consistency (names are not in quatation marks), -->
+		<text>Poverljiva informacija! Samo za članove Fridoma! Ovo je jebena državna tajna!\n \nVitja Rudi je napravio novi artefakt! Za početak potreban ti je artefakt "Dikobraz", zatim ga baciš u "Elektro anomaliju", i za pet sati dobijaš novi artefakt. Prosto nazvan "Elektro Dikobraz", ali to ne pravi razliku. Glavna stvar je to što artefakt upija radijaciju iz svog nosioca i povećava izdržljivost. Znam da ćeš me pitati za devojke, ti perverzna nakazo, ali ako mi pošalješ poruku u vezi toga ubiću te! Oh, zaboravio sam! Ako staviš artefakt i šetaš blizo "Elektra" anomalije, ima da te opali vrlo snažno - artefakt privlači elektricitet. Zato budi pažljiv sa utičnicama, te stvaru su jebeno opasne sada!\n \nStepan Mediacenter, infoservis.</text>
+	</string>
+	<string id="amk_recipt_sopl_dikoobraz_text">
+		<!-- MF typos, tenses, small rewrite, punctuation -->
+		<text>Gospodo! Grupa gospodina Alekseja Astronoma je našoj laboratoriji učinila veliku uslugu. Dvorište ispred naše laboratorije je bilo puno Veprova i Mesina, to je bio drugi talas nakon poslednje emisije i već smo imali žrtava među našim osobljem. Grupa Alekseja Astronoma, koji je odgovorio na naš poziv u pomoć, je pobila sve mutante! Mi verujemo, da novčana nagrada ne bi u stvari bila dovoljna da iskaže našu zahvalnost. Da bismo podržali našu saradnju u buduće, mi vam šaljemo informaciju kako da napravite "kiseli Dikobraz" hipermodifikat. Izvinjavamo se zbog tako prostog naziva, ali on je dat od strane tvorca ovog hipermodifikata i najbolje opisuje njegova svojstva. Nadam se da će vojnici Djutija reagovati ozbiljno na ovaj naziv! Da bi napravili "Kiseli Dikobraz", "Elektro Dikobraz" je potrebno ubaciti u anomaliju "Voćni Punč" na dva sata. Želeo bih da obratite pažnju na činjenicu da taj hipermodifikat poseduje redak kvalitet u svojstvu blokiranja radijacije - osoba koja ga nosi prima samo 45% od svake emisije koji bi primio bez artefakta. Osim toga, artefakt je efektan u zaustavljanju krvarenja i pomaže u izdržljivosti. Negativna osobina ovog artefakta je u tome da smanjuje otpornost nosioca na električno delovanje i da je težak za nošenje zbog sluzi koju proizvodi. Ova sluz je bezopasna ali je prilično neprijatna, moram priznati. U osnovi, naša zajednica je u uverenju da ova mala neugodnost neće ugroziti volju naših vojnika da nose i koriste ovaj hipermodifikat!\n \nPozdravi, član Ruske Akademije Nauka profesor Saharov.</text>
+	</string>
+	<string id="amk_recipt_giant_small_brother_text">
+		<!-- MF tenses, articles, minor rewrite,  -->
+		<text>Snimak 1: "Upravo smo izašli iz Mračne Doline. Izgubili smo Juru Bujona - rasturila ga je u komade "Ringišpil" anomalija. Tokom borbe nismo ni primetili, ali očigledno je tamo bio gurnut od strane Burera... Neka počiva u miru... Užasan način da se umre. Naša grupa više nije grupa bez njega, što znači da su nam šanse umanjene da donesemo ovo vrlo interesantno parče papira u Bar. Izgleda da su Bureri odvukli nekog jadnog naučnika u svoju jazbinu za ručak. Na svom PDA on je pisao kako je pronašao način da pretvara artefakte u nove, sa drugačijim osobinama... modifikate, ili kako god ih je već nazivao... da, tako je ... Onda, dobijaš artefakt neke "absolutne" klase, šta god to značilo. Artefakt se zove "Sfera" a dobijen je u Gorioniku uz pomoć "Dijamantskog Koloboka". Naučnik je napisao da ovaj apsolut smanjuje osetljivost kože kod nosioca. Ovo je vrlo zanimljiva informacija, mislim da bi trebalo da je odnesemo Saharovu i njegovom timu, samo treba da povedemo još ljudi sa nama, najmanje dve grupe."\n \nSnimak 2: "Ona kopilad iz Fridoma su nam bila na putu! Nas trojca smo ubili njih petoricu. I upravo kada smo pokupili njihovo oružje - koje je inače vrlo dobro, neko je upucao Sašu Kulera u glavu, mislim da je to bio Dragunov. Bacili smo nekoliko granata, ali nismo mogli da vidimo snajperistu, tako da nisam mogao znati jesmo li ga pogodili ili nismo. Rinat mi je rekao da krenem a on će me pokrivati... Informacija je vrlo važna. Prokleti snajper, još uvek je skriven. Kako god, moram da krenem..."</text>
+	</string>
+	<string id="amk_recipt_shkura_text">
+		<!-- MF minor rewrite, tenses -->
+		<text>Zdravo, Vova. Ti si takav idijot! Zašto stalno pitaš "Kako je u Zoni?". Nije uzbudljivo! Užasno je dosadn, da budem iskren. Da nismo uhvatili nekoliko budala, koje su išle tamo po artefakte, zabravo bih umro od dosade. Svakako, bude zastrašujuće ponekad, ne bih da čažem... posebno kada neka odvratna životinja ili nešto gore počne zavijati u blizini punkta - ne userem se od straha, ali mi se dlake podignu. Čak i na dupetu... Čak i ako uzmem u obzir, kao i ostali, da se ne odvajam od svoh kalašnjikova nikada. Skorije smo imali malo zabave - uhvatili smo tipa koji se vraćao iz Zone. Dakle, uhvatili smo ga. Nosio je dragulj sa sobom, sijao je kao dno tjunerovanog auta u mraku! Pa, mi smo ga 'lepo' pitali, šta je to što nosi sa sobom a on nam je rekao da taj kamen nije običan artefakt - rekao je da on poseduje mogućnost da smanjuje štetu nestalu kod hemijskih opekotina, a kada ga nosiš postaješ i otporan na metke. Pa, ne u potpunosti. Proverili smo dragulj sa Gajgerovim brojačem - prokleti kamen je vrlo radioaktivan! A momak kojeg smo uhvatili rekao nam je da je tu stvar nosio naučnicima zbog dobrobiti čovečanstva. Onda je počeo da nam govori kako treba da bacimo neki "Opna" artefakt "Trambolina" anomaliju i onda... Za pet sati dobijaš ovu stvar! On je mnogo pričao. Izgledao je kao prokleti vampir: ćelav, u ožiljcima, i ko zna sa čime još. Poslali smo ga na vojni punkt, oni će se pobrinuti za njega. Inače, zbogom Vova, treba da idem u svoj vod sada. Usput, kaži Juliji da je pamtim i da je volim, i ostalo... Znaš već. Zbogom!</text>
+	</string>
+	<string id="amk_recipt_cheshya_text">
+		<!-- MF minor rewrite, -->
+		<text>Gospodo, zadovoljstvo mi je da izvestim de je otkriven novi primer transmutacije! "Koža" modifikat treba da se stavi u "Ringišpil" na pet sati. Rezultirajući međumodifikat sa privremenim imenom "Krljušt" se dobija sa sledećim osobinama: umanjuje hemijska oštećenja, povećava zdravlje i čini kožu nosioca manje osetljivom na metke. Pažnja, važna informacija! "Krljušt" je radioaktivan artefakt i povećava krvarenje nosioca! Nadamo se da će ova informacija biti od pomoći u vašem plemenitom radu i da će ovaj mali poklon učiniti naše prijateljstvo još većim!\n \nPozdravi, član Ruske Akademije nauka profesor Saharov.</text>
+	</string>
+	<string id="amk_recipt_pancir_text">
+		<!-- MF rewrite, -->
+		<text>Gospodine majore, izveštaj iz centra u vezi artefakta "Krljušt" je stigao. Sudeći prema pristiglim podacima, artefakt "Čelična Krljušt" (stvoren u anomaliji "Voćni Punč" od "Krljušt" međumodifikata) smanjuje krvarenje, pojačava zdravlje, obezbeđuje otpornost na metke i štiti od hemijskih oštećenja. Njegovo jedino negativno svojstvo je da je neznatno radioaktivan. Transmutacija ne traje dugo, samo dva i po sata. Ljudi iz Centra su rekli da bi voleli da dobiju još artefakata za eksperimentisanje da bi dobili informacije o svim modifikatima, dajući nam pristup podacima 5. nivoa. Zbog toga tražim vašu dozvolu da nastavim sa mučenjem stalkera koje smo skoro uhvatili.\n \nKapetan M. Lubjankin</text>
+	</string>
+	<string id="amk_recipt_simbion_text">
+		<!-- MF consistency, typos, -->
+		<text>Požurio sam da te obavestim da nam je "B 4" odsek dao vrlo nepredvidljive rezultate u vezi njihovih eksperimenata! Otkrili su da ukoliko staviš četiri artefakta ("Meduza", "Kapljice", "Kamena Krv" i "Trn") u anomaliju "Voćni Punč", tada nakon četiri sata, dvadest i jednog minuta i osamnaest sekundi dobijaš potpuno nov artefakt sa neverovatnim osobinama! Ovaj modifikat, koji je nazvan "Simbion" blokira 45% od psi-emisija! Testirali smo ga na zatvorenicima, koji su bili psi-napadnuti od strane našeg zarobljenika Arčibalda. I moram priznati, da je ovaj Kontroler sa nama već dugo vremena i bez dobijanja energije od emisija postao je prilično slab, ali svakako artefakt je pokazao neverovatan rezultat u psi-blockiranju! Već sam napisao izveštaj za Centralu, sve što mi je potrebno su vaši komentari i vaša dozvola za slanje podataka.\n \n"B" Šef odeljenja profesor Sneghiriov</text>
+	</string>
+	<string id="amk_recipt_dummy_text">
+		<!-- MF consistency, minor rewrite, punctuation, -->
+		<text>Izveštaj Br. 14/7 o "Lažovu"\nDirektoru "K 32" istraživačkog odseka\nZa profesoa Sazonov Nickolaja Dmitrijeviča\n \nDragi Nikolaj Dimitrijevič! Danas smo završili našu eksperimentperimenata artefaktu "Beba Školjka". Tokom trajanja eksperimenta 7 (sedam) "Školjki" je uništeno, 5 (pet) je degradirano, 1 (jedna) "Beba Školjka" je pokazala pozitivne rezultate u seriji transmutacija.\n \nArtefakt "Beba Školjka" ako se stavi u "Elektro" anomaliju na 3 sata, 1 minut i 43 sekunde dobija sledeće osobine: povećava otpornost na oštećenja od vatre, povećava izdržljivost i umanjuje otpornost na elektro oštećenja. Privremeno ime ovog artefakta je "Vatrena Školjka".\n \nUkoliko "Vatrenu Školjku" stavimo u "Elektro" anomaliju ponovo, onda nakon 6 sati, 3 minuta i 12 sekundi artefakt dobija sledeće osobine: značajno povećanje otpornosti na oštećenja od vatre, povećana itdržljivost, povećana osetljivost na električna pražnjenja. Privremeno ime za ovaj među-modifikat je "Sjajeća Školjka".\n \nAko je stavimo u "Elektro" anomaliju ponovo, onda nakon 8 sati i tačno 4 minuta artefakt dobija sledeće ososbine: značajno povećana otpornost na štetu od vatre, značajno povećana izdržljivost i značajno povećana osetljivost na električna pražnjenja. Privremeno ime ovog artefakta je "Mesečeva Školjka".\n \nNastavili smo eksperimente sa "Bebom Školjkom" u istoj anomaliji. Poput "Štangla", "Sestra", "Nevidljivi" i "Gospodar Muva" projekata, ovi eksperimenti su se ispostavili neuspešni!\n \nAli pokušali smo sa drugom anomalijom i otkrili da kada hiper-modifikat "Mesečevu Školjku" stavimo u "Voćni Punč" biva 'prihvaćen' od strane anomalije. Nakon 12 sati, 3 minuta i 56 sekondi artefakt poprima "apsolutna" svojstva: daje skoro potpunu otpornost na vatreno delovanje, ekstremno povećava izdržljivost, uveliko pojačava otpornost na električno delovanje. Privremeno ime ovog artefakta je "Puding".\n \nDalji eksperimenti nisu pokazali nikakve rezultate - anomalija 'odbacuje' artefakt.\n \nVerujem da je naš tim postigao veliki rezultat nakon eksperimenata sa "Beba Školjka" artefaktom. Zbog toga verujem da je projekat "Lažov" završen uspešno. Pronaćićete sve zapise o eksperimentima na serveru.\n \nŠef istraživačkog tima "7" V. Avakjan</text>
+	</string>
+	<string id="amk_recipt_fake_text">
+		<!-- MF articles, standards, medium rewrite-->
+		<text>Da bi napravio artefakt "Sunčanik", postavi artefakt "Mesečina" u anomaliju "Gorionik". Nakon oko četiri sata modifikovani "Sunčanik" se stvara sa sledećim osobinama: uveliko pojačava izdržljivost, umanjuje osetljivost na visoke temperature, kao i pomalo umanjuje osetljivost na elektro-šok. Sporedni efekti rezultirajućeg artefakta je da odaje radijaciju. Informacija nije potvrđena.</text>
+	</string>
+	<!-- AR -->
+	<string id="enc_amk_recipt_dikoobraz_text">
+		<!-- MF minor rewrite, articles -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]-40\n%c[255,255,255,255]Izdržljivost  %c[255,255,1,1]-18\n \n%c[255,224,224,160] Uprkos činjenici da je ova modifikacija vrlo jednostavna, "Dikobraz" ima umereno dejstvo protiv radijacije! Ovo je, zapravo, njegovo jedino svojstvo, kao modifikova pomalo umanjuje izdržljivost, što je vrlo skromna cena za mogućnost lutanja kroz kontaminirano zemljište i biti bez bojazni od dobitka smrtonosne doze radijacije.\n \nArtefakt "Morski Jež" reaguje sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]3 sata u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije je %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_electra_dikoobraz_text">
+		<!-- MF medium rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]-50\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+91\n%c[255,255,255,255]Elektro  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Telepatija  %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Međumodifikat "Elektro Dikobraz" poseduje retko dobar kvalitet u blokiranju radijacije kao dodatak u umanjenju umora. Na žalost, njegovi negativni efekti su pojačana osetljivost na električni šok. Takođe on obezbeđuje neznatnu zaštitu od telepatskog uticaja.\n \nModifikovani "Dikobraz" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]5 sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije je  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_sopl_dikoobraz_text">
+		<!-- MF medium rewrite, articles -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]-55\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+100\n%c[255,255,255,255]Elektro  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Hemijske Opekotine  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Ova hipermodifikacija poseduje retko dobar kvalitet u blokiranju radijacije - čovek prima upola manje od emitovane količine X-zraka, koju bi primio bez artefakta na svom pojasu. Još kao dodatak artefakt povećava izdržljivost. Mračna strana "Kiselog Dikobraza" je da pojačava osetljivost na električne šokove, a i vrlo je nezgodan za nosioca zbog stalnog curenja nepodnošljive sluzi. Supstanca je bezopasna, ali vrlo neprijatna. Uprkos što je neprijatan, ovaj hipermodifikat je vrlo cenjen u Zoni.\n \nMeđumodifikovani "Električni Dikobraz" reaguje sa anomalijom "Voćni Punč".\n%c[255,255,255,255]Vreme uspešne transmutacije  %c[255,224,224,160]2 sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije je  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_stone_dikoobraz_text">
+		<!-- MF medium rewrite, articles -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]-60\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+77\n%c[255,255,255,255]Elektro  %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Ovaj umanjuje apsolutnu dozu radijacije primljene kod nosioca više nego dvostruko! Kao dodatak poseduje redak kvalitet, "Kameni Dikobraz" umanjuje osetljivost na električni šok i pojačava izdržljivost. Nije cenjen samo među naučnicima nego i među mnogim stalkerima.\n \nHipermodifikovani "Kiseli Dikobraz" reaguje sa anomalijom "Trambolina".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]9 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_steel_kolobok_text">
+		<!-- MF minor rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+5\n%c[255,255,255,255]Kidanje  %c[255,1,255,1]+7 %\n \n%c[255,224,224,160]Ova modifikacija je prvenstveno zanimljiva jer umanjuje osetljivost kože na kidanje. Nažalost, on je radioaktivan.\n \nArtefakt "Kolobok" reaguje sa anomalijom "Trambolina".\n%c[255,255,255,255]Vreme transmutacije je  %c[255,224,224,160]2 Sata u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_titan_kolobok_text">
+		<!-- MF minor rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+6\n%c[255,255,255,255]Kidanje  %c[255,1,255,1]+9 %\n \n%c[255,224,224,160]"Titanski Kolobok" umanjuje osetljivost kože na kidanje. Nažalost, on je čak i više radijoaktivan nego "Čelični Kolobok".\n \nModifikovani "Čelični Kolobok" reaguje sa anomalijom "Rigišpil".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]5 sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_almaz_kolobok_text">
+		<!-- MF minor rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+8\n%c[255,255,255,255]Kidanje  %c[255,1,255,1]+11 %\n \n%c[255,224,224,160]Ova hipermodifikacija daje nosiočevoj koži otpornost na cepanje. Loša strana ovog vrlo korisnog artefakta je da emituje veliku dozu radijacije.\n \nMeđumodifikovani "Titanski Kolobok" reaguje sa anomalijom "Voćni Punč".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]8 sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_giant_small_brother_text">
+		<!-- MF minor rewrite, articles -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+9\n%c[255,255,255,255]Kidanje  %c[255,1,255,1]+14 %\n \n%c[255,224,224,160]Ovaj zanimljivi artefakt umanjuje osetljivost kože. Međutim, on je vrlo radioktivan.\n \nHipermodifikovani "Dijamantski Kolobok" reaguje sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]3 sata u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_soul_drops_text">
+		<!-- MF minor rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+2\n%c[255,255,255,255]Zdravlje  %c[255,1,255,1]+350 %\n%c[255,255,255,255]Krvarenje %c[255,1,255,1]-67\n%c[255,255,255,255]Izdržljivost  %c[255,255,1,1]-16\n \n%c[255,224,224,160]Ova modifikacija poboljšava zdravlje i eliminiše krvarenje. Pomalo je radijoaktivan. Takođe, pomalo uvećava umor.\n \nArtefakt "Duša" reaguje sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]4 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_soul_fire_text">
+		<!-- MF minor rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+4\n%c[255,255,255,255]Zdravlje  %c[255,1,255,1]+375 %\n%c[255,255,255,255]Krvarenje %c[255,1,255,1]-133 \n%c[255,255,255,255]Izdržljivost  %c[255,255,1,1]-16\n \n%c[255,224,224,160]Ova međumodifikacija je očuvala svojstva artefakta "Kapi Duše" - poboljšava zdravlje i eliminiše krvarenje. Pomalo je radioaktivan. U isto vreme poseduje negativne efekte na ljudsku izdržljivost.\n \nModifikovane "Kapi Duše" reaguju sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme transmutacije  %c[255,224,224,160]6 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_soul_cristal_text">
+		<!-- MF minor rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+7\n%c[255,255,255,255]Zdravlje  %c[255,1,255,1]+400 %\n%c[255,255,255,255]Krvarenje %c[255,1,255,1]-200 \n%c[255,255,255,255]Izdržljivost  %c[255,255,1,1]-16\n \n%c[255,224,224,160]Ovaj hipermodifikat zadržava osobine u poboljšavanju zdravlja, zamora tela i otklanjanje krvarenja. On je radioaktivan.\n \nMeđumodifikovana "Vatrena Duša" reaguje sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]10 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_soul_bengal_text">
+		<!-- MF medium rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+10\n%c[255,255,255,255]Zdravlje  %c[255,1,255,1]+425 %\n%c[255,255,255,255]Krvarenje %c[255,1,255,1]-300 \n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+16\n \n%c[255,224,224,160]Ovaj artefakt "apsolutne" klase uveliko poboljšava zdravlje, Zaustavlja krvarenje i povećava izdržljivost. Vrlo je radioaktivan. Vrlo je vredan na tržitu kako u Zoni tako i van nje.\n \nHipermodifikat "Kristalno Srce" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]1 Sat u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_tears_electra_text">
+		<!-- MF complete rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]-7\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+16\n \n%c[255,224,224,160]Ovaj artefakt uklanja radijaciju i povećava izdržljivost.\n \nArtefakt "Kapljica" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]5 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_tears_fire_text">
+		<!-- MF complete rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]-20\n \n%c[255,224,224,160]Artefakt "Vatrene Suze" uveliko upija radijacijukada se nosi na pojasu.\n \nModifikovane "Suze Elektre" reaguju sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]6 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_tears_chimaera_text">
+		<!-- MF complete rewrite, -->
+		<text>%c[255,255,255,255]Zdravlje  %c[255,255,1,1]-200 %\n%c[255,255,255,255]Radijacija  %c[255,1,255,1]-30\n%c[255,255,255,255]Krvarenje  %c[255,255,1,1]+153 %\n%c[255,255,255,255]Telepatija  %c[255,1,255,1]+15 %\n \n%c[255,224,224,160]Ova hipermodifikacija ekstremno je dobra za upijanje radijacije. Takođe pomaže ljudskom mozgu u blokiranju psi-emisija. Negativne karakteristike "Suza Himere" - su pogoršavanje ljudskog osećaja zdravlja i slabo zarastanje rana.\n \nMeđumodifikat "Vatrene Suze" reaguje sa anomalijom "Voćni Punč".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]2 Sata u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_grandmother_glassbeards_text">
+		<!-- MF medium rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+5\n%c[255,255,255,255]Elektro  %c[255,255,1,1]-15 %\n%c[255,255,255,255]Eksplozija %c[255,1,255,1]+3 %\n%c[255,255,255,255]Pancir  %c[255,1,255,1]+6 %\n \n%c[255,224,224,160]Modifikovane "Babine Perle" generišu vremensko polje, koje značajno usporava brzinu fizičkih objekata u njemu, pa samim tim štiti ljude od kritičnih povreda i eksplozija. Pomalo je radioaktivan i umanjuje otpornost na elektro-šok.\n \nArtefakt "Majčine Perle" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]5 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_pra_grandmother_glassbeards_text">
+		<!-- MF medium rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+7\n%c[255,255,255,255]Eksplozija %c[255,1,255,1]+5 %\n%c[255,255,255,255]Pancir  %c[255,1,255,1]+8 %\n \n%c[255,224,224,160]"Prababine Perle" obezbeđuju povećanu otpornost na povrede od metaka i eksplozija u poređenju sa "Babinim Perlama" zahvaljujući mnogo moćnijem vremenskom polju. Ne smemo zaboraviti da su "Prababine Perle" radioaktivne.\n \nMeđumodifikat "Babine Perle" reaguje sa anomalijom "Voćni Punč".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]3 Sata u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_burer_grandmother_glassbeards_text">
+		<!-- MF medium rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+9\n%c[255,255,255,255]Eksplozija %c[255,1,255,1]+8 %\n%c[255,255,255,255]Pancir  %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Jedinstveni hipermodifikat koji parira "apsolutnoj" klasi artefakata. Njegovo vremensko poljeje vrlo moćno i ima ogroman radijus, tako da osoba koja nosi "Perle Babe Burera" na pojasu, ima veliku šansu da ostane živ čak i ako bude pogođen sa snajperom SVD. Ova hipermodifikacija takođe štiti od eksplozija, ali je radioaktivan.\n \nMeđumodifikat "Prababine Perle" reaguje sa anomalijom "Ringišpil".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]10 minuta u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_shkura_text">
+		<!-- MF minor rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+2\n%c[255,255,255,255]Hemijske opekotine  %c[255,1,255,1]+18 %\n%c[255,255,255,255]Opekotine  %c[255,1,255,1]+16 %\n \n%c[255,224,224,160]Ova modifikacija umanjuje osetljivost na vatru i na bilo koju hemijski agresivnu okolinu. Minimalna radijacija.\n \nArtefakt "Opna" reaguje sa anomalijom "Trambolina".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]5 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_cheshya_text">
+		<!-- MF minor correction, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+4\n%c[255,255,255,255]Hemijske opekotine  %c[255,1,255,1]+24 %\n%c[255,255,255,255]Opekotine  %c[255,1,255,1]+20 %\n \n%c[255,224,224,160]Međumodifikat "Krljušt" umanjuje izloženost ljudi vatri i hemijski agresivnim okruženjima. Ova "Krljušt" je neznatno radijoaktivna.\n \nModifikovana "Koža" reaguje sa anomalijom "Ringišpil".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]5 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_pancir_text">
+		<!-- MF medium rewrite, -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+6\n%c[255,255,255,255]Hemijske opekotine  %c[255,1,255,1]+28 %\n%c[255,255,255,255]Opekotine  %c[255,1,255,1]+24 %\n \n%c[255,224,224,160]Hipermodifikat "Beba Školjka" neutralizuje vatru i većinu hemijski agresivnih komponenti koje dolaze u kontakt sa ljudskom kožom. Jedina negativna osobina mu je radijacija.\n \nMeđumodifikovana "Krljušt" reaguje sa anomalijom "Voćni Punč".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]2 Sata u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_controller_skalp_text">
+		<!-- MF minor rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+10 %\n%c[255,255,255,255]Sitost  %c[255,255,1,1]-2200 %\n%c[255,255,255,255]Telepatija  %c[255,1,255,1]+40 %\n%c[255,255,255,255]Hemijske Opekotine  %c[255,1,255,1]+15 %\n%c[255,255,255,255]Opekotine  %c[255,1,255,1]+28 %\n \n%c[255,224,224,160]Ovaj artefakt umanjuje oštećenja od vatre i agresivnog hemijskog okruženja, umanjuje kod osobe potrebu za hranom i nudi vrlo dobru zaštitu od psi-zračenja! Vrlo je radioaktivan.\n \nHipermodifikad "Beba Školjka" reaguje sa anomalijom "Gorionik".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]6 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_simbion_text">
+		<!-- MF minor rewrite -->
+		<text>%c[255,255,255,255]Izdržljivost  %c[255,255,1,1]-18\n%c[255,255,255,255]Krvarenje  %c[255,255,1,1]+56 %\n%c[255,255,255,255]Kidanje  %c[255,255,1,1]-15 %\n%c[255,255,255,255]Telepatija  %c[255,1,255,1]+45 %\n \n%c[255,224,224,160]Jedini jedinstveni modifikat "Simbion" daje svom nosiocu više nego dobru zaštitu od psi-radijacije, ali podstiče krvarenje, umanjuje izdržljivost i otpornost na kidanje.\n \nArtefakt proizveden pomoću spajanja u anomaliji "Voćni Punč" sa samo četiri artefakta: "Meduza", "Kapljica", "Kamena Krv" i "Trn".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]5 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_dummy_fire_text">
+		<!-- MF minor correction -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+2 %\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+27\n%c[255,255,255,255]Udar  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Elektro  %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Ova modifikacija umanjuje oštećenja od udara i povećava izdržljivost. Ali telo čini više osetljivim na efekat anomalije "Elektra". Pomalo je radioaktivan.\n \nArtefakt "Školjka" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]3 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_dummy_bright_text">
+		<!-- MF medium rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+3 %\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+65\n%c[255,255,255,255]Udar  %c[255,1,255,1]+9 %\n%c[255,255,255,255]Elektro  %c[255,255,1,1]-15 %\n \n%c[255,224,224,160]Sudeći prema daljoj evoluciji, "Zemljana Školjka" ili "Sjajna Školjka", poboljšava izdžljivost, ali takođe povećava oseljivost organizma na električne šokove. Takođe zadržava zaštitu od udara ali je i više radioaktivan u poređenju sa "Školjkom".\n \nModifikovana "Vatrena Školjka" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]6 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_dummy_moon_text">
+		<!-- MF complete rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+91\n%c[255,255,255,255]Udar  %c[255,1,255,1]+11 %\n%c[255,255,255,255]Elektro  %c[255,255,1,1]-20 %\n \n%c[255,224,224,160]Ova hipermodifikacija štiti nosioca od povreda zbog udara i pomalo povećava izdržljivost, ali povećava i osetljivost na električne šokove. Takođe je i radioaktivan.\n \nMeđumodifikat "Sjajna Školjka" reaguje sa anomalijom "Elektra".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]8 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="enc_amk_recipt_dummy_puding_text">
+		<!-- MF medium rewrite -->
+		<text>%c[255,255,255,255]Radijacija  %c[255,1,255,1]+3 %\n%c[255,255,255,255]Izdržljivost  %c[255,1,255,1]+18\n%c[255,255,255,255]Opekotine  %c[255,1,255,1]+35 %\n%c[255,255,255,255]Elektro  %c[255,1,255,1]+25 %\n \n%c[255,224,224,160]Ovaj artefakt je odličan u neutralizaciji visokih temperatura od anomalnih vatri i električnih šokova. Takođe, pomalo pojačava izdržljivost.\n \n"Lunarna Školjka" u anomaliji "Voćni Punč"\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]12 Sati u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+	</string>
+	<string id="blowout_not_sleep">
+		<text>Nije preporučljivo spavati tokom Emisije!!!</text>
+	</string>
+	<string id="not_need_sleep">
+		<text>Nije potrebno da spavaš...</text>
+	</string>
+	<string id="not_need_sleep_nrg">
+		<text>Nemožeš da zaspiš zbog efekata konzumiranja energetskog napitka..</text>
+	</string>
+	<string id="not_need_sleep_enemy">
+		<text>Ne možeš spavati kada je neprijatelj u blizini...</text>
+	</string>
+	<string id="not_need_sleep_in_hell">
+		<text>Nije preporučljivo spavati tokom Emisije Paklenog Sata!!!</text>
+	</string>
+	<string id="trans_finished_title">
+		<text>Rezultat transmutacije artefakta -</text>
+	</string>
+	<string id="trans_finished_msg">
+		<text>Rezultat transmutacije artefakta -</text>
+	</string>
+	<string id="stalker_died">
+		<text>S.T.A.L.K.E.R. ubijen:</text>
+	</string>
+	<string id="alc_too_much_die">
+		<text>Umro si od posledice trovanja alkoholom...</text>
+	</string>
+	<string id="alc_too_much">
+		<text>Mnoooogo sam popio!!</text>
+	</string>
+	<string id="alc_todo_alcoholic">
+		<text>Sada patiš od alkoholne zavisnosti...</text>
+	</string>
+	<string id="alc_need_drink">
+		<text>Potrebno mi je piće...</text>
+	</string>
+	<string id="alc_need_drink_big">
+		<text>Vrlo sam očajan treba mi neki alkohol!!!</text>
+	</string>
+	<string id="alc_coded">
+		<text>Alkoholizam izlečen .. molim pokušaj da ostaneš trezan...</text>
+	</string>
+	<string id="alc_no_more_need">
+		<text>Ne treba mi mnogo pića u poslednje vreme ... tako je bolje. Treba da preživim nedelju dana da bih se oslobodio ove nesreće sa alkoholom...</text>
+	</string>
+	<string id="amk_warn_trans">
+		<text>UPOZORENJE!!! GREŠKA: BUfer je podbacio!! .. Transmutacioni podaci nisu snimljeni!! Sačekaj Transmutaciju da ponovio postupak, pa pokušaj da SNIMIŠ kasnije...</text>
+	</string>
+	<string id="amk_warn_trans_critical">
+		<text>UPOZORENJE!!! GREŠKA: BUfer je podbacio!! Započeta Transmutacija neće biti završena. Preporučuje se da učitaš prethodno SNIMLJENU igru...</text>
+	</string>
+	<string id="amk_warn_attention">
+		<text>Pažnja!!! .. tvoji snimljeni podaci će uskoro prevazići dozvoljeni limit!! .. završi sve tekuće zadatke .. sačekaj da sve Transmutacije budu gotove .. ne uzimaj ni jedan novi posao .. ne pokušavaj da započneš novu Transmutaciju ..</text>
+	</string>
+	<string id="amk_sleep_title">
+		<text>Spavaj</text>
+	</string>
+	<string id="amk_sleep_one_hour">
+		<text>Spavaj 1 sat ...</text>
+	</string>
+	<string id="amk_sleep_three_hours">
+		<text>Spavaj 5 sati ...</text>
+	</string>
+	<string id="amk_sleep_five_hours">
+		<text>Spavaj 8 sati ...</text>
+	</string>
+	<string id="amk_sleep_until_full_health">
+		<text>Spavaj dok se potpuno ne oporaviš ...</text>
+	</string>
+	<string id="amk_dots_title">
+		<text>Unesi natpis</text>
+	</string>
+	<string id="amk_dots_done">
+		<text>Pošalji</text>
+	</string>
+	<!--  !!!!TB3D  FREE PLAY == COLLECTOR ====-->
+	<string id="amk_welcome_title">
+		<text>STALKERSOUP</text>
+	</string>
+	<string id="amk_welcome_msg">
+		<text>%c[255,255,128,128]Dobro došao STALKERU...  Srećan lov!...\n%c[default]TB3D</text>
+	</string>
+	<!--=========================================-->
+	<string id="rep_no_weapon_in_slot">
+		<text>Nema oružja u slotu...</text>
+	</string>
+	<string id="rep_not_need">
+		<text>Oružje nije potrebno popravljeti...</text>
+	</string>
+	<string id="rep_need_big">
+		<text>Oružje je potrebno popravljeti...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 14:30 04.02.2015 -->
+	<!-- Tekst usklađen sa 109983 verzijom zakrpe - 24.03.2015 23:52 -sadd -->

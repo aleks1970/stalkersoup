@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1250"?>
+	<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="esc_direction_fire">
+		<text>Nema pucnjave dok ne dobijete naređenje. Nemojte da vas svrbe prsti na okidaču, jel jasno?</text>
+	</string>
+	<string id="esc_fanat_victory">
+		<text>Pobjeda!!! Dolazite svi ovamo. Dođi, Obeleženi. Trebamo popričati.</text>
+	</string>
+	<string id="esc_return_dv">
+		<text>Dobro, Obeleženi. Drago mi je da si živ i da si nas odlučio posetiti. Dođi ovamo da proćaskamo. Ima jedan poslić za obaviti...</text>
+	</string>
+	<string id="esc_tutorial_end">
+		<text>Izvrsno, zadatak je izvršen. Smatraj se dobrodošlim ovde ...</text>
+	</string>
+	<string id="esc_wolf_thanks">
+		<text>Obeleženi, sada kada si razgovarao sa trgovcem, možemo da poslujemo zajedno ... dođi ovamo, želim da razgovaram sa tobom ...</text>
+	</string>
+	<string id="escape_fox_quest">
+		<text>Reč je o Streloku, Obeleženi. Jedan od stalkera se upravo vratio sa dugotrajne misije. Zove se Lisac. Izgleda da je prošao kroz težak period i pitao je za pomoć. Celim putem su ga pratile divlje zveri, i kaže da neće moći još dugo da izdrži. Skužio sam da tip zna nešto o Streloku. Evo ti njegove koordinate. Trebao bi da požuriš.</text>
+	</string>
+	<string id="escape_stalker_death">
+		<text>Jebi se, Obeleženi. Pomislio sam da nije tvoja greška, neki početnici su pobijeni za badava ... Dakle - nakon što budeš oslobođen od strane Trgovca, vrati se nazad, onda ćemo razgovarati ...</text>
+	</string>
+	<string id="escape_stalker_helped">
+		<text>Odlično obavljeno, Obeleženi. Nastavi tako i stvorićeš sebi dosta prijatelja. Poseti me da porazgovaramo o poslu.</text>
+	</string>
+	<string id="escape_stalker_killed">
+		<text>To ti baš i nije bilo pametno Obeleženi. Prošao si test, ali ćeš morati da sam izađeš na kraj sa Vukom i njegovim ljudima. Kako god, čekam te. Ima više poslova o kojima trebamo razgovarati.</text>
+	</string>
+	<string id="info_esc_give_agroprom_task">
+		<text>Vojska je iskopala nešto u blizini Naučnog Istraživačkog Instituta kod Agroproma. Prilično sam zainteresovan da saznam nešto više o tome, a verovatno bi trebalo i ti. Pronađi informacije i odnesi ih Barmenu u 100*Rada u staroj fabrici gradića Rostok na severu.</text>
+	</string>
+	<string id="tips_esc_trader_about_anomalies">
+		<text>Pazi! Nalaziš se u neposrednoj blizini anomalija. Koristi šarafe da odrediš njihov tačan oblik i lokaciju.</text>
+	</string>
+	<string id="tips_esc_trader_about_pda">
+		<text>Pritisni Kontakt ($$ACTION_CONTACTS$$). Ljudi u krugu od 250 metara koji imaju uključene PDA postat ce vidljivi na tvoj mapi i spisku kontakata. Također češ videti i njihov stav prema tebi, tako da na vreme možeš primetiti neprijatelje. Kako god, Banditi i mutanti  obično ne ukljucuju svoje PDA, pa budi oprezan!!</text>
+	</string>
+	<string id="tips_esc_trader_activate_map">
+		<text>Da bi aktivirali mapu, pritisnite '$$ACTION_MAP$$'.</text>
+	</string>
+	<string id="tips_esc_trader_activate_pda">
+		<text>Da bi aktivirali PDA, pritisnite '$$ACTION_ACTIVE_JOBS$$'.</text>
+	</string>
+	<string id="tips_esc_trader_how_to_talk">
+		<text>Da bi se obratili nekome, okrenite se prema njemu i pritisnite '$$ACTION_USE$$'.</text>
+	</string>
+	<string id="tips_esc_trader_quest_1">
+		<text>Pronađi artefakt označen na mapi i odnesi ga trgovcu.</text>
+	</string>
+	<string id="tutorial_flash_anomaly_alarm">
+		<text>Pripazi se, Obeleženi, sledeći put bi to mogao da budeš ti.</text>
+	</string>
+	<string id="tutorial_trader_give_medikit">
+		<text>Daj ovom moronu prvu pomoć.</text>
+	</string>
+	<string id="tutorial_trader_look_vagon">
+		<text>Obeleženi! Zaboravi sad na artefakt, obavićeš to kasnije. Idi do prikolice na cesti SMESTA! Moji momci trebaju pomoć tamo. Idioti su zapucali na helikopter koji je letio u blizini. Poslao sam ti koordinate.</text>
+	</string>
+	<string id="tutorial_trader_search_corpses">
+		<text>Pretraži tela, možda nađeš nešto korisno.</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 14:18 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:20 -sadd -->

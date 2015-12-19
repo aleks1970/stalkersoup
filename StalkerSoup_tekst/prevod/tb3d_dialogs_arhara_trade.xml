@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8  Trans 100%, Literal editing 0% -->
+<!-- AKIM TRADE and OFFERS -->
+<string_table>
+	<string id="akim_obmen_0">
+		<text>Da li prodaješ municiju?</text>
+	</string>
+	<string id="akim_obmen_1">
+		<text>Prodajem samo municiju za M-134 minigun, koju je jako teško naći!!</text>
+	</string>
+	<string id="akim_obmen_2">
+		<text>Koliko košta?</text>
+	</string>
+	<string id="akim_obmen_3">
+		<text>2500 Ru. po kutiji i Meduza artefakt.</text>
+	</string>
+	<string id="akim_obmen_4">
+		<text>Zar ne misliš da je to malo preskupo!?</text>
+	</string>
+	<string id="akim_obmen_5">
+		<text>To je cena, uzmi ili ostavi.</text>
+	</string>
+	<string id="akim_obmen_6">
+		<text>Dobro! Izvoli.</text>
+	</string>
+	<string id="akim_obmen_7">
+		<text>Ma zaboravi!!!</text>
+	</string>
+	<string id="akim_obmen_fnsnip_0">
+		<text>Imaš li kakvog unikatnog oružja?</text>
+	</string>
+	<string id="akim_obmen_fnsnip_1">
+		<text>Mogu ti nabaviti snajpersku pušku sa kompjuterizovanom optikom, ali, neće biti jeftino!</text>
+	</string>
+	<string id="akim_obmen_fnsnip_2">
+		<text>Koliko?</text>
+	</string>
+	<string id="akim_obmen_fnsnip_3">
+		<text>120,000 Ru. i jedan Puding artefakt.</text>
+	</string>
+	<string id="akim_obmen_fnsnip_4">
+		<text>To mora da je neka paklena puška!!</text>
+	</string>
+	<string id="akim_obmen_fnsnip_5">
+		<text>Zaista i jeste, jako profinjno oružje!</text>
+	</string>
+	<string id="akim_obmen_fnsnip_6">
+		<text>Smatraj da smo se dogovorili.</text>
+	</string>
+	<string id="akim_obmen_fnsnip_7">
+		<text>Uh, nemam toliko novca, možda posle.</text>
+	</string>
+	<string id="akim_zamok_0">
+		<text>Da li prodaješ neke unikatne predmete?</text>
+	</string>
+	<string id="akim_zamok_1">
+		<text>Mogu ti prodati kodiranu bravu, odlična za čuvanje plena i ostalih potrepština!!</text>
+	</string>
+	<string id="akim_zamok_2">
+		<text>Pa je li krađa toliki problem ovde u Zoni?</text>
+	</string>
+	<string id="akim_zamok_3">
+		<text>Problem kao i na svim ostalim delovima sveta, samo još 100 puta gore!!!</text>
+	</string>
+	<string id="akim_zamok_4">
+		<text>Koliko košta ta brava košta?</text>
+	</string>
+	<string id="akim_zamok_5">
+		<text>20,000 Ru. plus Vijuga artefakt za jednu bravu.</text>
+	</string>
+	<string id="akim_zamok_6">
+		<text>Ok, onda ću uzeti jednu bravu.</text>
+	</string>
+	<string id="akim_zamok_7">
+		<text>Nisam zainteresiran.</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca - 03.02.2015 - 14.25-->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 21:57 -sadd -->

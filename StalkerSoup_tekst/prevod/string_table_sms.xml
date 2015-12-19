@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 sms_pilot, _girl3_nachalo, sms_shadows_cube, sms_shadows_speech, sms_solvador, harsh environment, hunt_part2_message, sms_syac, sms_zaschita_portal, sms_foto_mozg_ok, sms_mina_pant, sms_pili_sdelal_psevdofoto - aleks1970 -->
+<string_table>
+<string id="nl_default">
+<text>: %c[255,255,255,255]</text>
+</string>
+<string id="sms_player">
+<text>Media Plejer</text>
+</string>
+<string id="sms_radio_playing">
+<text>Radio [</text>
+</string>
+<string id="sms_track_playing">
+<text>USB pesme [</text>
+</string>
+<string id="sms_station_1">
+<text>Djuti]</text>
+</string>
+<string id="sms_station_2">
+<text>Fridom]</text>
+</string>
+<string id="sms_station_3">
+<text>STALKERI]</text>
+</string>
+<string id="sms_station_4">
+<text>Vojska]</text>
+</string>
+<string id="sms_station_5">
+<text>MIR-12]</text>
+</string>
+<string id="sms_station_6">
+<text>Monolit]</text>
+</string>
+<string id="sms_station_7">
+<text>Podzemlje Zone [</text>
+</string>
+
+<string id="sms_tb3d">
+<text>TB3D</text>
+</string>
+<string id="sms_incoming">
+<text>DOLAZNA</text>
+</string>
+<string id="sms_incomming">
+<text>DOLAZNA</text>
+</string>
+<string id="sms_intel">
+<text>INFORMACIJE PROMLJENE</text>
+</string>
+<string id="sms_arhara">
+<text>ARHARA</text>
+</string>
+<string id="sms_sid">
+<text>SIDOROVIČ</text>
+</string>
+<string id="sms_fang">
+<text>Fang</text>
+</string>
+<string id="sms_hermit">
+<text>Hermit</text>
+</string>
+<string id="sms_adrenaline">
+<text>ADRENALIN</text>
+</string>
+<string id="sms_panther">
+<text>PANTERA</text>
+</string>
+<string id="sms_gynecologist">
+<text>GINEKOLOG</text>
+</string>
+<string id="sms_unknown">
+<text>NEPOZNAT</text>
+</string>
+<string id="sms_chimera">
+<text>HIMERA</text>
+</string>
+<string id="sms_chimera_thief">
+<text>LOPOV HIMERA</text>
+</string>
+<string id="sms_cyclops">
+<text>KIKLOP</text>
+</string>
+<string id="sms_dharma">
+<text>D.H.A.R.M.A.</text>
+</string>
+<string id="sms_bald">
+<text>ĆELAVI</text>
+</string>
+<string id="sms_mihai">
+<text>MIHAI</text>
+</string>
+<string id="sms_vitaly">
+<text>VITALIŽ ŽIVOTINJA</text>
+</string>
+<string id="sms_strelok">
+<text>STRELOK</text>
+</string>
+<string id="sms_marked_one">
+<text>OBELEŽENI</text>
+</string>
+<string id="sms_kostylnoga">
+<text>NAREDNIK KOSTILNOGA</text>
+</string>
+<string id="sms_barkeep">
+<text>BARMEN</text>
+</string>
+<string id="sms_barman">
+<text>SAHAROV</text>
+</string>
+<string id="sms_vetroply">
+<text>PORUČNIK VETROPLIJEV</text>
+</string>
+<string id="sms_kolmogor">
+<text>KOLMOGOROV</text>
+</string>
+<string id="sms_maple">
+<text>KLENOV</text>
+</string>
+<string id="sms_piligrim">
+<text>PILIGRIM</text>
+</string>
+<string id="sms_gray">
+<text>SIVI</text>
+</string>
+<string id="sms_delayed">
+<text>Zakašnjeli SMS</text>
+</string>
+<string id="sms_black_doc">
+<text>CRNI DOKTOR</text>
+</string>
+<string id="sms_black_affiliate">
+<text>CRNI DOKTOR partner</text>
+</string>
+<string id="sms_black_guard">
+<text>CRNI DOKTOR telohranitelj</text>
+</string>
+<string id="sms_ghost">
+<text>DUH</text>
+</string>
+<string id="sms_countryman">
+<text>ZEMLJAK</text>
+</string>
+<string id="sms_pilot">
+<text>PILOT</text>
+</string>
+<string id="sms_fritz">
+<text>FRIC</text>
+</string>
+<string id="sms_bosun">
+<text>BOSUN</text>
+</string>
+<string id="sms_solvador">
+<text>SOLVADOR</text>
+</string>
+<string id="sms_sapsan">
+<text>SAPSAN</text>
+</string>
+<string id="sms_voronin">
+<text>VORONJIN</text>
+</string>
+<string id="sms_moscow">
+<text>SMS IZ MOSKVE</text>
+</string>
+<string id="sms_fly">
+<text>MUVA</text>
+</string>
+<string id="sms_vitamin">
+<text>VITAMIN</text>
+</string>
+<string id="sms_lan">
+<text>LAN</text>
+</string>
+<string id="sms_freedom">
+<text>FRIDOM</text>
+</string>
+<string id="sms_astrologer">
+<text>ASTROLOG</text>
+</string>
+<string id="sms_panther_dad">
+<text>PANTERIN OTAC</text>
+</string>
+<string id="sms_dealer">
+<text>LETEĆI TRGOVAC</text>
+</string>
+<string id="sms_hoary">
+<text>STARI</text>
+</string>
+<string id="sms_lukash">
+<text>LUKAŠ</text>
+</string>
+<string id="sms_hog">
+<text>BOROV</text>
+</string>
+<string id="sms_smonoliths">
+<text>SENKA MONOLITA</text>
+</string>
+<string id="sms_sakharov">
+<text>Saharov</text>
+</string>
+<string id="sms_cold">
+<text>LEDENI</text>
+</string>
+<string id="sms_kuznet">
+<text>KUZNJECOV</text>
+</string>
+<string id="sms_ara">
+<text>ARA</text>
+</string>
+<string id="sms_dan">
+<text>DEN</text>
+</string>
+<string id="sms_shak">
+<text>RUDAR</text>
+</string>
+<string id="sms_krot">
+<text>KROT</text>
+</string>
+<string id="sms_akim">
+<text>AKIM</text>
+</string>
+<string id="sms_petrenko">
+<text>PETRENKO</text>
+</string>
+<string id="sms_marsh_doc">
+<text>BLATNI DOKTOR</text>
+</string>
+<string id="sms_lightning">
+<text>MUNJA</text>
+</string>
+<string id="sms_max">
+<text>MAKSIMILIJAN</text>
+</string>
+<string id="sms_gunner">
+<text>TOBDŽIJA</text>
+</string>
+<string id="sms_forester">
+<text>ŠUMAR</text>
+</string>
+<string id="sms_sanych">
+<text>SAN SANIČ</text>
+</string>
+<string id="sms_time">
+<text>VREME</text>
+</string>
+<string id="sms_black_sea">
+<text>CRNO MORE</text>
+</string>
+<string id="sms_malicious">
+<text>ZLOBNIK</text>
+</string>
+<string id="sms_perfumer">
+<text>PARFEMDŽIJA</text>
+</string>
+<string id="sms_norman">
+<text>NORMON</text>
+</string>
+<string id="sms_omborok">
+<text>OMBOROK</text>
+</string>
+<string id="sms_sahkarov">
+<text>SAHAROV</text>
+</string>
+<string id="sms_duda">
+<text>DUDA</text>
+</string>
+<string id="sms_spark">
+<text>SPARK</text>
+</string>
+<string id="sms_sentry">
+<text>STRAŽAR</text>
+</string>
+<string id="sms_lastday">
+<text>PRIPADNIK POSLEDNJEG DANA</text>
+</string>
+<string id="sms_system">
+<text>SISTEMSKA ZAŠTITA</text>
+</string>
+<string id="sms_system_comm">
+<text>KOMUNIKACIJSKI SISTEM</text>
+</string>
+<string id="sms_get_info">
+<text>PRIKUPI INFORMACIJE</text>
+</string>
+<string id="sms_teleport">
+<text>Teleporter</text>
+</string>
+<string id="sms_tweed">
+<text>TVID</text>
+</string>
+<string id="sms_associate">
+<text>Pomoćnik</text>
+</string>
+<string id="sms_syac">
+<text>SJAK</text>
+</string>
+
+<!-- TB3D -->
+<string id="sms_coll_greet">
+<text>Obeleženi... Dogurao si daleko, a? Izgledaš kao strašilo! Paa... Uđi unutra, pre nego se Vojska vrati... OH... I stalkeru, čuvaj leđa... Reputacija te je pretekla!</text>
+</string>
+<string id="sms_plenty_ammo">
+<text>Nadam se da imaš dosta municije... Stvari su se promenile kako si prvi put bio ovde!</text>
+</string>
+<string id="sms_being_hunted">
+<text>Budi oprezan, Obeleženi... Love te...</text>
+</string>
+<string id="sms_tunnel_rat">
+<text>Obeleženi.. Ima jedan starac koji tvrdi da je oružar iz Crvene Šume.. Kaže da je pravio posebno oružje za novu frakciju. Kaže da je imao skrovište u jednom blokiranom tunelu kada su ga Banditi pretresli, vredi pogledati...</text>
+</string>
+<string id="sms_osoznanie_call">
+<text>Obeleženi... Zašto si se vratio? ... Pusti... Pusti nas da spavamo.</text>
+</string>
+<string id="sms_bandranen_pda">
+<text>BANDITI...  Čuvajte se Obeleženog... On nema milosti!</text>
+</string>
+<string id="sms_arena">
+<text>ARENA</text>
+</string>
+<string id="sms_mod_deleted">
+<text>MOD OBRISAN</text>
+</string>
+<string id="sms_potap">
+<text>Potap</text>
+</string>
+<string id="sms_pda_restored">
+<text>Opet možete koristiti usluge lokalne mreže. Sve najbolje!</text>
+</string>
+<string id="sms_pda_reminder">
+<text>PDA Podsetnik</text>
+</string>
+<string id="sms_pda_bullseye">
+<text>Pogodak, noge su mi se odsekle, sigurno si primetio!</text>
+</string>
+<string id="sms_babah">
+<text>Detonator</text>
+</string>
+<string id="sms_babah_not_explode">
+<text>Eksploziv nije uspeo detonirati! Meta nije pronađena...</text>
+</string>
+<string id="sms_babah_not_explode2">
+<text>Eksploziv nije uspeo detonirati! Pozicija nestabilna...</text>
+</string>
+<string id="sms_babah_expl">
+<text>Eksploziv</text>
+</string>
+<string id="sms_babah_another">
+<text>Raznesen na drugoj lokaciji</text>
+</string>
+<string id="sms_babah_strange">
+<text>Evo čudnog mesta...</text>
+</string>
+<string id="sms_babah_error">
+<text>Detonator pokvaren!</text>
+</string>
+<string id="sms_babah_boom">
+<text>Eksploziv detoniran!</text>
+</string>
+<string id="sms_babah_dud">
+<text>Ništa nije razneseno!</text>
+</string>
+<string id="sms_babah_timer">
+<text>Odbrojavanje je počelo! Smesta se povući na sigurnu udaljenost.</text>
+</string>
+<string id="sms_babah_nil">
+<text>babah obj == nil: id</text>
+</string>
+<string id="sms_babah_name">
+<text>, ime</text>
+</string>
+<string id="sms_car_blowout">
+<text>Radio nije dostupan za vreme Emisije!</text>
+</string>
+<string id="sms_car_repair">
+<text>Da koristiš Komplet za popravku moraš ostati u vozilu!</text>
+</string>
+<string id="sms_car_found">
+<text>Pronašao si jedno od unikatniha auta! Preostalo je da pronađeš</text>
+</string>
+<string id="sms_car_found_all">
+<text>Pronašao si sva unikatna auta! Primljena nagrada: M-134 Minigun 'Plus', Karton FMJ 5.56x45mm</text>
+</string>
+<string id="sms_car_total">
+<text>od 6.</text>
+</string>
+<string id="sms_finish_goldbars">
+<text>Otišao sam u potkrovlje ali nisam mogao pronaći šipke!\nUloviću i ubiti osobu koja ih je uzela!</text>
+</string>
+<string id="sms_finish_tweedbook">
+<text>Obeleženi, još si živ? Jesi mi doneo moju knjigu?\nVidimo se uskoro, molim te čuvaj se tamo vani!</text>
+</string>
+<string id="sms_finish_secretlab">
+<text>Šta je s tim tunelom i tim zlatnim šipkama?\nZašto se nivo energije povećava u blizini NEP a ne unutar nje?\nNešto je...</text>
+</string>
+
+<!-- arhara_dialog -->
+<string id="sms_baza_vxod">
+<text>Ulaz u bazu je onemogućen</text>
+</string>
+<string id="sms_baza_vuxod">
+<text>Izlaz iz baze je onemogućen</text>
+</string>
+<string id="sms_taynik">
+<text>Ulaz u tajnu pećinu je onemogućen</text>
+</string>
+<string id="sms_otkl">
+<text>Ulaz u tajnu pećinu u Neotkrivenoj zemlji će se zatvoriti za nekoliko sati</text>
+</string>
+<string id="sms_del_plen">
+<text>Zamka onesposobljena</text>
+</string>
+<string id="sms_vhod_otsek">
+<text>Ulaz u bolnički treći odeljak je onemogućen</text>
+</string>
+<string id="sms_blok_vhod_otsek">
+<text>Blokiran je izlaz odeljka</text>
+</string>
+<string id="sms_otshelnik_1">
+<text>Strelok, imal' šta novo? Vreme dolazi - pogledaj.</text>
+</string>
+<string id="sms_adrenalin_1">
+<text>Strelok, imal' šta novo? Vreme dolazi - pogledaj, ljudi dolaze po kovčege. Da, detektor nemoj zaboraviti.</text>
+</string>
+<string id="sms_medik_1">
+<text>Strelok, Kiklop je otvorio sef. Ukratko, sad čeka.</text>
+</string>
+<string id="sms_medik_2">
+<text>Strelok, došlo je do promene naređenja. Kako pronaći flopi disk - pogledaj.</text>
+</string>
+<string id="sms_nekto">
+<text>Strelok, znam da imaš staru kartu. Napravi kopiju ali bez mojih oznaka prelaza. Kopiju daj Astrologu.</text>
+</string>
+<string id="sms_piligrim_2">
+<text>Poslano vam je - da vidimo šta ima reći o Plaćenicima kojima se odlučio pridružiti...</text>
+</string>
+<string id="sms_medik_3">
+<text>Sidorovič, naručio si. Ukoliko želiš živeti - donesi slike, Strelok, dođi spreda da ti vidim lice.</text>
+</string>
+<string id="sms_ziklop_1">
+<text>Strelok, ide prema Tajničuku, dođi...</text>
+</string>
+<string id="sms_kluk_1">
+<text>Strelok, ovo nije razlaz. nemoj biti iznenađen... Moramo se naći, nema smisla da se krijemo. Čekam te kod Pilgrima u našoj novoj bazi, požuri.</text>
+</string>
+<string id="sms_delete_teleport_warlab">
+<text>Teleporter u tajno područje u Varlabu je deaktiviran...</text>
+</string>
+<string id="sms_bolot_tv">
+<text>Sada si se umešao vojniče... Sada ćeš da platiš... HAHAHAHA!!!....</text>
+</string>
+<string id="sms_kanal">
+<text>Vi dečki samo pričate gluposti! Nosim ovaj glupi artefakt na pojasu već 3 meseca i ništa. Apsolutno ništ! A danas ih se pola pretvorilo u prašinu! Nadam se da ste sada sretni, ali isto sranje čeka i vas, ja vam kažem!</text>
+</string>
+<string id="sms_pant_zveri">
+<text>Strelok... Napustili smo Varlab. Veliki čopor Pseudopasa nas je napao toko noći... Izgubili smo tri dobra čoveka... Naći ćemo se u Baru... Znaš kako...</text>
+</string>
+<string id="sms_vitamin_reyd_zadan">
+<text>Strelok... Ima nekih novih vesti, uključi se malo...</text>
+</string>
+<string id="sms_vitamin_reyd_zadan2">
+<text>Teleporter u tajno područje u Varlabu je deaktiviran... Ne znamo kako... Ili zašto...</text>
+</string>
+<string id="sms_band_yantar">
+<text>Primili smo signal iz Jantara - zasad izgleda dobro... Izvestiću te čim se testna faza završi... Prebaci koordinate na 4-8-15-16-23-42...</text>
+</string>
+<string id="sms_razvod">
+<text>Obeleženi... Tek si u poseti ovom području tako da te niko i ne zna... Ima jedna farma u blizini nekih ruševine - jesi bio tamo? Taj lik je teo da odputuje do Perimetera, a ja sam mu obećao nešto novca dati za put. Pomozi mi... - dao sam mu 70,000 Ru. Onda navrati do mene - odužiću ti se.. Sa kamatama.</text>
+</string>
+<string id="sms_gar_naemn_grup1">
+<text>Video sam grupu Plaćenika u Deponiji - ili su poslom tu ili su u izviđanju. Budite oprezni</text>
+</string>
+<string id="sms_dark_btr1">
+<text>Video sam motorizovanu grupu Specnaza kroz Kordon... Teško je reći šta nameravaju</text>
+</string>
+<string id="sms_dark_sidor">
+<text>Sidorovič... Bolje ti je da imaš nešto korisno za mene kad se vratimk... Ili će ti glava biti na pladnju... Da li se razumemo?!</text>
+</string>
+<string id="sms_garbage_adren">
+<text>Mogu ti ponuditi nadogradnju za različita oružja, i posao za one koji žele zaraditi usluge i popuste na cene. Uskoro ću biti u Agropromu</text>
+</string>
+<string id="sms_lysyi">
+<text>Ja sam u Baru. Treba mi neko da mi pronađe nešto. Velikodušno ću platiti za posao.. Dođi da se vidimo.</text>
+</string>
+<string id="sms_art_negoden">
+<text>Imam isti problem kao i ostali - neki artefakti su se transformirali, i postali obično beskorisno kamenje, Kaldrma... Živo sranje!!!</text>
+</string>
+<string id="sms_art_negoden1">
+<text>Unapred se radujem susretu u Baru.. Samo ponesi lovu... I kartu..</text>
+</string>
+<string id="sms_pant_kord1">
+<text>Vojniče, na mestu si. Pažljivo gledaj u smeru Vojne predstraže. Tvoj je. Samo ga prati, nemoj ga ubiti...</text>
+</string>
+<string id="sms_dolbannn">
+<text>Druže!! .. Major Kuznjecov te pozdravlja... Imam tvoj fleš drajv sa sobom... Nađemo se u Agropromu za dva dana... Donesi fotografije!!</text>
+</string>
+<string id="sms_sidor_piyn">
+<text>Obeleženi... Šta opet hoćeš!? Zar još nisi bio kod doktora, možda si još zaražen.. Ili još nešto gore... Kada razgovaraš sa doktorom i popiješ njegov lek - tek onda dođi do mene pa ćemo razgovarati.</text>
+</string>
+<string id="sms_sidor_piyn_done">
+<text>Dobrodošao nazad stalkeru... Taj lek ti je, izgleda, pomogao... Paa...osim tvom izgledu, i dalje si ružan, hehe...</text>
+</string>
+<string id="sms_kluk3">
+<text>Drago mi je da to čujem, Strelok... Jesi li pronašao taj Laboratorij koji si tražio bez nas?! Vidimo se u Baru.. Da popijemo koje piće... Pronaći ćeš nas oko logorske vatre u jednom skladištu iza Arene</text>
+</string>
+<string id="sms_gg_1">
+<text>FANG... Teleporter u tajnom području u Varlabu je deaktiviran, ja sam ga deaktivirao... Objasniću ti posle.</text>
+</string>
+<string id="sms_kluk2">
+<text>Strelok, kako ide? Prebaci na privatni kanal...</text>
+</string>
+<string id="sms_yan_barmen">
+<text>Barmen... Ja sam u Jantaru. Našao sam dva svoja prethodnika... Pošalji obavest o smrti njihovim najbližima... Oni se neće vratiti kući... Vratiću se čim pre stignem... Tiket broj: 89115683244.</text>
+</string>
+<string id="sms_yan_barmen_otvet">
+<text>Obeleženi... Poslaću njihovoj rodbini obavest o smrti i nešto malo novca - 50,000 Ru. Hvala tebi što si javio.. Sve najbolje.</text>
+</string>
+<string id="sms_plen">
+<text>Kapetane! Uhvatili smo još jednog ekscentrika. temeljito smo ga opljačkali. Ostavli smo za vas posebne stvari jer ste vi sugerisali za zamku na prvom mestu. Napravićemo pijanku kada se vratite.</text>
+</string>
+<string id="sms_village_kapitan">
+<text>Obeleženi!! Izvuci moje momke, hoćeš?! ...Vidimo se u selu čim se vratim. Pripremio sam nešto posebno za tebe, sa Tabasko sosom... HAHA!!!</text>
+</string>
+<string id="sms_village_pantera">
+<text>Pantera, gde si? Moramo se videti.</text>
+</string>
+<string id="sms_village_obsledovanie">
+<text>Kolmogorov, selo je ispitano.</text>
+</string>
+<string id="sms_village_pantera_otvet">
+<text>Hej. Imam problem. U nekvim sam baruštinama, na nekakvom rtu. Gde tačno - nemam pojma, ali vidim odavde neki osmatrački toranj. Daj mi bilo kakve koordinate na PDA - vidi kartu.</text>
+</string>
+<string id="sms_kolm_stroy">
+<text>Pa, orlovi, jeste li spremni? Za mnoge ovo će biti poslednja borba. Moramo ih kazniti..... Mnogi životi su u vašim rukama. Postrojte se u formaciju za polazak. Nek je sa srećom - trebaće vam.</text>
+</string>
+<string id="sms_pobeda">
+<text>Hej, dečki... Ako je iko još živ... Ovo je pobeda! Isprašili smo im guzice! Strelok, odličan posao. Čekam te u Komandnom štabu.</text>
+</string>
+<string id="sms_strelok_kluk_vopros1">
+<text>Fang, ovako stvari stoje... Pogledaj kartu - treba mi ruta kroz Močvaru do Starog sela. Neću biti sam. Bojim se da mi kompanjon neće izdržati put kroz celu Zonu... Pilgrim nam je pomogao - on ostaje u selu.</text>
+</string>
+<string id="sms_kluk_perexod_derevny">
+<text>Strelok, slušaj pažljivo. Karta Močvare se izmenila. Ranije je prelaz bio prema selu, kod zapuštenog mosta, kod pećine. Ali sad više nije tu. Nisam siguran, ali prelaz sada počinje pre mosta... Koordinate sam bacio. Još nešto - pogledaj u kutiju.</text>
+</string>
+<string id="sms_kluk_pili_lovushka">
+<text>Strelok, stvar je hitna. Pilgrim je zarobljen u Novoj teritoriji. Detelje ne znam. Šaljem koordinate - on je bio u Pripjatu, sada... Idi vidi Crnog Doktora u Limansku, on bi ti trebao pomoći... Kreni što pre!</text>
+</string>
+<string id="sms_vill_klenov">
+<text>Strelok, ima problem sa tvojim slučajem. Ne možeš to odraditi bez pomoći. Ako si u blizini Varlaba - pogledaj.</text>
+</string>
+<string id="sms_warl_kolmogor">
+<text>Strelok, imamo problem - ili bolje rečeno, ja imam problem. Pantera i Pilgrim su nestali. Vrag zna kuda su nestali - u selu sam dok se ne smirim. Nisi znao za ovo?</text>
+</string>
+<string id="sms_warl_gg_pili">
+<text>Pilgrim, šta se dešava? Gde si ti i Pantera?</text>
+</string>
+<string id="sms_warl_pili_gg_otvet">
+<text>Devojka je pobegla. Imam neki presađeni bug, sam prečnik je smanjen samo na nekoliko kilometrara. Signal je nestao dok sam je pratio - ona izgleda ne pešači, najverovatnije se kreće automobilom ili nekim drugim sretstvom - da, čak sam išao i nekim prečicama ali je nisam uspeo stići... Sudeći po svemu - nije sama - susrela se s nekim. Zadnji signal je bio iz Crvene Šume. U povratku sačekaj me u selu, moram izvestiti Kolmogorova.</text>
+</string>
+<string id="sms_agro_torgash">
+<text>Molba svima - ne otvarajte vatru na moj helikopter. Ovo je pokretna trgovin u Zoni. Ko ima nešto za prodati - neka požuri - helikopter je u blizini železničkog tunela.</text>
+</string>
+<string id="sms_gg_black_doc1">
+<text>Znam tu Panteru. Treba mi živa i zdrava. I ne pokušavaj me uceniti, sličan sam tebi, ali ja još imam savest znam vrednost prijateljstva - a o znači da sam dvostruko opasan.</text>
+</string>
+<string id="sms_otsroch">
+<text>Zdravo, ovde Pantera. Nadam se da će poruka doći nakon mog bega, jer znam da bi me zaustavio da sam ti rekla. Poslala sam SMS sa pretnjama prema njegovom starijem bratu... Ne želim izgubiti, zato idem na ovaj sastanak. S kim, šta žele od mene i šta će se sledeće desiti - ne znam. Izvini... Kolmogorov ne treba ništa reći...</text>
+</string>
+<string id="sms_gg_black_doc2">
+<text>Šef kaže da si pogrešio. Nemamo nikakvu devojku - niti jednu. Približna lokacije jedne od njih - Generatori. Šef ti se također zahvaljuje - jedan tanjir što si doneo klen - je ukraden pre dva dana, zajedno sa generatorom. Kraj razgovora.</text>
+</string>
+<string id="sms_gg_black_doc3">
+<text>Fang, zdravo. Treba mi ruta u smeru Generatora. Pomozi mi.</text>
+</string>
+<string id="sms_gg_black_doc4">
+<text>Zdravo. To je put iz stanice. Duh je stručnjak za to područje, idi do njega.</text>
+</string>
+<string id="sms_gg_black_doc5">
+<text>Strelok, živio stari. Ima jedan prelaz iz NEP1, kojeg nisam koristio. Hajdemo zajedno. Čekaću te kod NEP1 kod izlaza za NEP2 - taj prelaz sigurno znaš. Sastanimo se što pre.</text>
+</string>
+<string id="sms_gg_black_doc6">
+<text>Da, znam to mesto. Hmm... Odlučio si da ideš samnome? Vidimo se uskoro.</text>
+</string>
+<string id="sms_ubit_glavar">
+<text>Strelok, stvari su loše. Ne vidim njihovog vođu. Otišao je sekundu pre sletanja na drugu stranu naselja, i očito je tamo. Dok mi držimo utvrđenje - tvoj zadatak je da počistiš. Čoveče. Tvoj top će ti dobro doći u ovom.</text>
+</string>
+<string id="sms_pili_zayti_after_antenna">
+<text>Strelok, i dalje ostajem tu. Budi blizu - znaš - da raspravimo o planu akcije.</text>
+</string>
+<string id="sms_actor_trup">
+<text>Strelok, razguli odatle, brzo! Još nekoliko sekundi i mrtav si!!</text>
+</string>
+<string id="sms_uchenuy_pobeg">
+<text>Kit, hej, ovde Zemljak. Večeras iz baze Generatora pobegao je naučnik. Ako imaš išta u glavi znaćeš šta treba uraditi i zašto ga treba pratiti u potrazi do Monolita.</text>
+</string>
+<string id="sms_pipets_vert_zadanie">
+<text>Izgleda stalkeru da si upropastio moju misiju. Pik igre. Dođi.</text>
+</string>
+<string id="sms_hit_heli_hit1">
+<text>Neki idiot puca na nas. Samoubistvo.</text>
+</string>
+<string id="sms_hit_heli_hit2">
+<text>Primetio sam neprijatelja koji je pucao na naš helikopter. Raznesi ga!</text>
+</string>
+<string id="sms_hit_heli_hit3">
+<text>Prenos svih podataka je završen. Do vraga s tim nakazama. Raznesi tog Švarcenegera bazukama.</text>
+</string>
+<string id="sms_hit_heli_hit4">
+<text>Sranje, to đubre je pogodilo turbinu... Gorimo!!</text>
+</string>
+<string id="sms_hit_heli_hit5">
+<text>Dao sam ovom androidu komad Monolita... Napunio sam ga!!</text>
+</string>
+<string id="sms_frits1">
+<text>Čekaj, stalkeru. Ništa ne može bez dozvole naših starešina. Idi do Zemljaka - on je glavni ovde.</text>
+</string>
+<string id="sms_frits2">
+<text>Možda jesam glup, ali nisam gluv. Čuo sam tvoj razgovor. Možeš li proći...</text>
+</string>
+<string id="sms_frits3">
+<text>Zemljače, s nama je stigao i jedan gost. Šaljemo ti ga. Sačekaj.</text>
+</string>
+<string id="sms_frits4">
+<text>Nešto si često kod naučnika. Skorifanilis? Ok, ok, šalim se. Dođi.</text>
+</string>
+<string id="sms_frits5">
+<text>Dobro, daj! Imaš li tamo pčelinjeg meda? Ideš za 5 minuta! Ok, kreni.</text>
+</string>
+<string id="sms_doc_letit">
+<text>Neka niko ne brine i svi ostanite na zemlji. Spustiće se helikopter sa gostima. Javili su da dolaze sa mirovnim namerama.</text>
+</string>
+<string id="sms_dok_ot_andersena_letit">
+<text>Strelok, završio sam razgovor sa Andersenom. Reci to istniskim arijevcima, koje on štiti, tako da mogu ići.</text>
+</string>
+<string id="sms_sekretnuy_vuhod">
+<text>Ljudi koji su preživeli - nek napuste podzemnu - vođa odlazi!!</text>
+</string>
+<string id="sms_sekretnuy_vuhod_1">
+<text>Izgleda da je tu još jedan helikopter. Evo sranja...</text>
+</string>
+<string id="sms_boloto_k_doku">
+<text>Doktore, imamo neki zastoj. Pronašli smo čoveka ali bio je pijan i nije došao do Generatora. Propast i prokletstvo, ali poslali su helikopter po nas u Močvare.</text>
+</string>
+<string id="sms_ot_doka_o_verte">
+<text>Helikopter je poslan. Krenite pokraj groblja prema bredu u blizini stare crkve.</text>
+</string>
+<string id="sms_boloto_k_prizraku">
+<text>Duh, ovde Strelok. Ovaj Bosun je pjan k'o zemlja. Išta novo?</text>
+</string>
+<string id="sms_boloto_ot_prizraka">
+<text>Da, Strelok, vesti su jako zabavne. Čekam.</text>
+</string>
+<string id="sms_70m_vert">
+<text>Prilazim. Idite na brdo, kod groblja.</text>
+</string>
+<string id="sms_letchik_1">
+<text>Primetio sam grupu bandita ispod kopče. Moraćeš ih se rešiti - sleteti ispred njih je jako opasno. Helikopter nije naoružan.</text>
+</string>
+<string id="sms_rugan_gg">
+<text>Opet sranje. Ali i nije neko veliko. Bosun, sakrij se tu, trebaš mi živ. A ja ću se obračunati sa banditima.</text>
+</string>
+<string id="sms_letchik_2">
+<text>Izgleda da je sve čisto. Ipak ću na drugo sletno mesto. Za svaki slučaj.</text>
+</string>
+<string id="sms_udav_v_vert">
+<text>Bosun, helić je sleteo. Brzo kreni u helikopter!</text>
+</string>
+<string id="sms_udav_sel">
+<text>U helikopterusam. Pa tehnički jesam. Oh, sranje, zaboravio sam pišati. Nadam se da neće dugo leteti, inače...</text>
+</string>
+<string id="sms_marsh_udav_pogib">
+<text>Dok, Bosun je mrtav... Znam da nema alternative... Ne isključuj antene bez nas.</text>
+</string>
+<string id="sms_udav_antenna_1">
+<text>Prva je isključena. Bila je na ulazu u bazu. Idem dalje.</text>
+</string>
+<string id="sms_udav_antenna_2">
+<text>I druga antena je isključena - ona u bunkeru. Onda me je pogledao kao idiot - ne može shvatiti kako sam prošao. 20 ljudi - dobro naoružani - na tornjevima, s belim akademskim odelim. Otišao sam do naučnika - on će popraviti antenu.</text>
+</string>
+<string id="sms_udav_antenna_3">
+<text>Treća antena ne radi. Devojaka nigde na vidiku. Pošto naučnici ne pričaju - zaštiti ih. Vidim helikopter - priprema se da uzleti, očito. Sad sam seo na trenutak uz logorsku vatru.</text>
+</string>
+<string id="sms_udav_antenna_4">
+<text>Duh, dok je PSI polje još aktivno ja ću sačekati povratak Bosuna u blizini granice polja, moram mu postaviti nekoliko pitanja. Pa - moraćemo se dogovoriti kako nastaviti dalje.</text>
+</string>
+<string id="sms_priz_bomz">
+<text>Duh, doveo sam ti jednog beskućnika na edukaciju. Za nekoliko sati mora biti trezan i spreman.</text>
+</string>
+<string id="sms_fritz_shturm_mat">
+<text>Banzai! Pišljive nakaze! Ehh... Šta s... Evo vođen, n. ...do! Hej, dečki, neko blizu! Uverite tog majmuna na tornju! Ovo je iz... moja glava ne pokupi! To đubre, sada sam mu rekao, njegovo svemirsko odelo - guzica. Majku mu astronautsku!!</text>
+</string>
+<string id="sms_fritz_shturm_mat_1">
+<text>Duh, slušaš? Evo pitanja... Mogu li se roboti zakleti kao obućari?</text>
+</string>
+<string id="sms_black_heli">
+<text>Hej, svete! Vidim da ste tamo razorili Rajhstag! Pažljivo - idi na zemljišta, bez zajebancije - Crni Doktor šalje pojačanje.</text>
+</string>
+<string id="sms_solvador_1">
+<text>Išli su kroz podzemni tunel i devojka ih je vodila. Ulaz u pozemlje je između vatre i tornja.</text>
+</string>
+<string id="sms_ne_strelyt">
+<text>Dečki, ne pucajte u drugi helikopter! Pantera je verovatno u njemu.</text>
+</string>
+<string id="sms_mu_opozdaly">
+<text>Šefe, izgleda da smo zakasnili. Devojka je mrtva. Uradili su sve što su mogli.</text>
+</string>
+<string id="sms_mu_opozdaly_1">
+<text>Sapsan, pošalji mi helikopter. Dolazim lično. Možda ipak nešto možeš uraditi.</text>
+</string>
+<string id="sms_mu_opozdaly_2">
+<text>Strelok, ostani tu gde si, ubrzo stižem.</text>
+</string>
+<string id="sms_boy_1">
+<text>Dečki, pazite - helikopter je uzletio, sada će biti ispeglan.</text>
+</string>
+<string id="sms_boy_2">
+<text>Izgleda da nije sama - vidi drugi helikopter - dolazi iz sela. Odlučili smo zatvoriti klešta. Neophodno ih je raspršiti. Doći ću sa desnog boka.</text>
+</string>
+<string id="sms_boy_2_1">
+<text>Da, razumem. Dolaziš s desna a ja idem kroz porušena vrata.</text>
+</string>
+<string id="sms_boy_3">
+<text>E... Samo pogledaj, vidi šta rade - izgleda da je drugi helić na našoj strani.</text>
+</string>
+<string id="sms_plan_zahvata_1">
+<text>Duh. Sve je ok, vraćamo se. Trebam plan hvatanja. Nećemo moći zajedno. Planiram Fricov tim uključiti.</text>
+</string>
+<string id="sms_plan_zahvata_2">
+<text>Pa, ti daješ. On ne... pa, rekao sam ti. Prevelik rizik. Ok, dođi da popričamo.</text>
+</string>
+<string id="sms_podgotovka_zahvata_1">
+<text>Opet doktor ovde, Strelok. Bez tvoje pomoći ne možemo sami zauzeti bazu. Nadam se da razumeš. Nismo mi heroji iz Matriksa, sa viškom vremena.</text>
+</string>
+<string id="sms_podgotovka_zahvata_2">
+<text>Fric, poslovna ponuda - evo ima prilika da malo izbrusiš svoje veštine. Planiramo ići do baze Monolita, između ostalih i ti si pozvan. Ideš? Zasad je Andersen siguran, a i ti imaš priliku da skineš prašinu sa svoje puške.</text>
+</string>
+<string id="sms_podgotovka_zahvata_3">
+<text>Sapsan ovde. Šef kaže da će ti pomoći.</text>
+</string>
+<string id="sms_podgotovka_zahvata_4">
+<text>Pa i ja ću onda prošeteti s vama. Šta tačno hoćete? Već sam bio u toj bazi.</text>
+</string>
+<string id="sms_podgotovka_zahvata_5">
+<text>To je dobro. Pošto si već bio znaš da baza nema ogradu. Ostani tu i čekaj signal. Da ne bi potonuli prerano. How will the noise - Pazi i sredi sve što se miče, osim mene, Duha i devojke. Nadam se da znaš kako žensko izgleda?</text>
+</string>
+<string id="sms_podgotovka_zahvata_6">
+<text>Rečeno, urađeno. Kako su devojke - zaboravio sam, dok nisam nekog ubio - pitaću u vezi ovog.</text>
+</string>
+<string id="sms_mat_1">
+<text>Oh, čoveče, ne šali se ili ću te pretvoriti u prašinu.</text>
+</string>
+<string id="sms_pony_1">
+<text>Razumem, Strelok.</text>
+</string>
+<string id="sms_spasibo_frits_1">
+<text>Fric, hvala na pomoći. Ne znam kako ću ti se odužiti ali nekako sigurno hoću. Možeš ostati u bazi ako želiš.</text>
+</string>
+<string id="sms_spasibo_frits_2">
+<text>Ma ništa. Dovoljno je samo hvala. Ostaću kod baze. Šta trebam - naći ću.</text>
+</string>
+<string id="sms_sapsan_ulet">
+<text>Svi šefovi su otišli. Sačekaću sa svojom grupom, da zaštitim bazu.</text>
+</string>
+<string id="sms_dok_podvox_1">
+<text>Pišem ti osobno, iako mi se ne sviđa ova okupacija. Izgleda da nas je neko zeznuo obojicu. Pronađeno je telo ali to nije devojčino telo. Za tebe je to, verovatno, dobra vest ali nije za mene.</text>
+</string>
+<string id="sms_dok_podvox_2">
+<text>Dok, kao da nisi zadovoljan bazom? Sad je to još jedan više problem na gomili problema. Da, drago mi je da je Pantera živa, i drago mi je da si mi rekao istinu.</text>
+</string>
+<string id="sms_dok_podvox_3">
+<text>Želim svoj ukradeni artefakt. Ta devojka što ga je uzela još nije pronađena. Drugi problem - treba mi energija, dva generatora koja rade jednostavno nisu dovoljna. Osim toga, kontrolna ploča je u Varlabu. Vrata tamo su kodirana a ko je sada tamo u laboratoriji - ne zna se.</text>
+</string>
+<string id="sms_dok_podvox_4">
+<text>Znam šifru i otvoriću vrata. Čak znam i ko je u Varlabu. A znam i to da tvoji ljudi ne mogu tamo ići bez zaštite. Mogu pomoći ali mi prvo trebaju neke informacije - naime, sve to što mi treba zna Astrolog - koliko znam, doskoro je bio tvoj čovek.</text>
+</string>
+<string id="sms_dok_podvox_5">
+<text>U redu. Pokušaj otvoriti vrata Varlaba. A onda - ne žuri se vraćati - poslaću ti svog čoveka. Naći ćeš se s njim kod tačke prelaska u Bolnicu. Znaš gdje se nalazi - kod barijere, koja je na staroj vojnoj cesti koja vodi do betonskih generatora. Daću dokumenta Astrologu. A ostalo - na sastanku.</text>
+</string>
+<string id="sms_dok_podvox_6">
+<text>Duh, kontaktirao sam doktora, u stvari, on je kontaktirao mene. Ponosan je po pitanj Pantere. Ukratko, proverio sam kod, raskrsnicu i idem prema tački prelaza u Bolnicu. Doktor je obećao da će poslati dokumente po Astrologu.</text>
+</string>
+<string id="sms_dok_trupak">
+<text>Dok, žao mi je, ali ljudi željni artefakata su se popeli u anomalnu zonu. Mrtav je. Dokumenti su blizu ali doći do njih je problem.</text>
+</string>
+<string id="sms_idu_na_nz_1">
+<text>Duh, ja sam u Neotkrivenoj zemlji. Ostani tu. Videćeš se sa Astrologom, ali ga ne diraj - ja ću ga zadaviti. Ne brini, Fang će mi pomoći...</text>
+</string>
+<string id="sms_idu_na_nz_2">
+<text>Razumem. Što se Crnog Doktora tiče, gotovo sam siguran: nije čudno da poznati naučnik samo tako stigne u Bolnicu? Još ne mogu verovati da Sivi Sokol u svojoj maski nije je video ili Fric - da ne vide ženu... Ali doktor? To nek ti bude dijetna meditacija dok hodaš. Pozdravi Fanga.</text>
+</string>
+<string id="sms_idu_na_nz_3">
+<text>FANG, haallo. To je to. Miris sprženog Astrologa. Moramo pronaći tajnu pećinu u Neotkrivenoj zemlji. Pokušaću to odraditi. Vidimo se u našem novom sedištu. Da, Duh te pozdravlja.</text>
+</string>
+<string id="sms_idu_na_nz_4">
+<text>Zdravo. Dugo vremena se nisi javljao, već sam pomislio da se odmaraš na Maldivima. Razumio sam te, biću u sedištu u Neotkrivenoj zamlji. Pokušaj saznati gde je ta pećina.</text>
+</string>
+<string id="sms_peshera_naydena_1">
+<text>Fang, pronašao sam pećinu. Tamo je neko, izgleda - neutralac. Verovatno Astrolog. Ne mogu proveriti - teleporter je još aktivan.</text>
+</string>
+<string id="sms_peshera_naydena_2">
+<text>Razumeo - ja sam u sedištu, dođi da popričamo šta dalje. Ne guraj nos u pećinu sam - neutralan-neutralan, kao da ti znaš što mu je u glavi.</text>
+</string>
+<string id="sms_kluk_na_meste_1">
+<text>Dolazimo. Zauzmi poziciju negde među stenama - u slučaju nepozvanih gostiju.</text>
+</string>
+<string id="sms_kluk_shuher_1">
+<text>Strelok, šta imaš? Šta to tako jezivo vrišti? Nešto se i ne sećam tolikog plačljivca.</text>
+</string>
+<string id="sms_kluk_shuher_2">
+<text>Da, bilo bi bolje da je neki mutant... Nećeš verovati - pronašli smo devojku koja je ukrala artefakt. Tačno pristaje za nju - ovo se dešava samo u Zoni.</text>
+</string>
+<string id="sms_kluk_shuher_3">
+<text>idemo do nije sve otišlo u vazduh - izgleda da imamo društvo. Znao sam da bi...</text>
+</string>
+<string id="sms_na_predesant">
+<text>Budite spremni ali ne pucajte prerano - prvo da vidimo ko su ti gosti.</text>
+</string>
+<string id="sms_posadka_pant_1">
+<text>A evo i društva... Vidi, Strelok, izgleda da tvoja devojka rado ide, bar nosi oružje. Sad ću ih upucati nekoliko.</text>
+</string>
+<string id="sms_posadka_pant_2">
+<text>Nije ona moja, a verovatno bi i promašila. Ali bilo je bar zabavno. Nemojte još pucati. Neka vidi šta će se sledeće desiti, dok ih ne ostane bar dvoje.</text>
+</string>
+<string id="sms_posadka_pant_3">
+<text>Izgleda da žele razgovarati, i to s tobom, očito. Idi i saznaj njihove poslednje želje, pokrivaću te. Samo jedan znak agresije s njihove strane - i oboje su mrtvi.</text>
+</string>
+<string id="sms_pant_proschay_1">
+<text>Oprosti mi što ti opet pravim nevolje. Zbunjena sam. Ne brini, neću opet tražiti tvoju pomoć, da se razumemo. Dosta toga šta se desilo nije mi baš najjasnije. U međuvremenu, poslušaj šta sam saznala: nema regrutovanja za O-svest, bar ne od Crnog Doktora.</text>
+</string>
+<string id="sms_pant_proschay_2">
+<text>Nije prošlo ni 5 minuta a već me mučiš sa tom svešću? Ili je to još jedan trik? Koju ti vrstu fantastike pišeš? A ovo nije Crni Doktor? Moje oči još vide nešto, većinu onoga što što i ne žele videti - a to se odnosi na tebe.</text>
+</string>
+<string id="sms_pant_proschay_3">
+<text>Snažno si se postavio protiv mene, a moj posao zahteva artefakt koji nije dostupan. Zbog toga ću se morati povući. Zato ti govorim sve što znam. Možda ću ti ovako pomoći da pronađeš istinski odgovor ne tajnu Zone. A verovao ili ne - to je tvoj posao. Zbogom. Ti si dobar stalker i drago mi je što si mi prijatelj. Čak i više nego drugi...</text>
+</string>
+<string id="sms_pant_proschay_4">
+<text>Fang, svi, idemo do Varlaba - do Klenova. Interesantne informacije su došle na račun Crnog Doktora - i moraju biti potvrđene.</text>
+</string>
+<string id="sms_muha_bazar">
+<text>Strelok, nisi li odmakao daleko? Vrati se, devojka želi razgovarati. Uhvati trenutak. Zove se Muva.</text>
+</string>
+<string id="sms_muha_bazar_1">
+<text>Nisam još na cesti... Ok, vratiću se.</text>
+</string>
+<string id="sms_voronin_voen_1">
+<text>Strelok, čuo sam se sa Vojskom. Ima nešto... Sumnjivi građani u uniformama. Poslaću ti tačne informacije, sačekaj. Da, energija se ne pogoršava.</text>
+</string>
+<string id="sms_voronin_voen_2">
+<text>Slušaj pažljivo. Prema dostupnim vojnim podacima broj 124 je pogođen i oboren snažnom Emisijom iz NEP. u isto vreme izgubljena su dva helikoptera u istom području. Tačna lokacija može se odrediti na osnovu crnih kutija iz ovog 124. Ali opet, to je jako problematično - signal iz letnog snimača dolazi sa krova uništenog četvrtog bloka...</text>
+</string>
+<string id="sms_voronin_voen_3">
+<text>Pa, Generale, teško. Vrag zna kako je tam. U tom području radijacija prži i bez ikakvog elektriciteta...</text>
+</string>
+<string id="sms_voronin_voen_4">
+<text>Odluči. Kada kreneš svi će te, verovatno, zvati luđakom. Imaš li neki nagoveštaj gde bi devojka mogla biti, ukoliko se ipak odlučiš za ovu ludost. Za svaki slučaj, ubaci u svoj PDA sliku ove letelice.</text>
+</string>
+<string id="sms_voronin_voen_5">
+<text>Fang, bradonjo sa snimačem. Onaj 124 na krovu je katastrofa. Ostani tamo. Čuvaj devojku i Panteru zajedno - neka plaču, ako se ne vratim.</text>
+</string>
+<string id="sms_voronin_voen_6">
+<text>Strelok, krov je sav potrgan. Bolje ti je da se ne približavaš kabini, već da ideš preko krova reaktora. Vredi li? Ako misliš da vredi - idi. Samo da znaš.</text>
+</string>
+<string id="sms_chaes2_kluk_1">
+<text>FANG, pronašao sam ovaj prokleti snimač. Vraćam se do Voronjina - da ga dešifrujemo.</text>
+</string>
+<string id="sms_chaes2_kluk_2">
+<text>Strelok, sada si tamo. Ovo ne može biti odrađeno - šta si ti, vojska ne zna? Nakon što si dešifrirao i vratio se u stanicu - oni su proverili sve koordinate. Samo je jedan izlaz - potraži u blizini srušenog helikoptera - tu bi trebao biti izlaz. Obrati pažnju tamo gde su mrtva tela u crnim oklopima - tu bi tačno trebala biti prekretnica.</text>
+</string>
+<string id="sms_chaes2_kluk_3">
+<text>Da, u pravu si. Prvo je ispitao sve helikopterske linije.</text>
+</string>
+<string id="sms_iz_moskvy_1">
+<text>Hej, kako si... A. .. Strelok. Gde je moja unuka? Odgovori!!</text>
+</string>
+<string id="sms_iz_moskvy_2">
+<text>Dobro, kako ste Vi... Imam vašu unuku, ne brinite.</text>
+</string>
+<string id="sms_iz_moskvy_3">
+<text>Ok sam, nisam još za penzije. Izvini. Ako je istina da si je pronašao, beskrajno ti hvala. Gde je možemo pokupiti?</text>
+</string>
+<string id="sms_iz_moskvy_4">
+<text>Istina je. Evo koordinate za spuštanje helikoptera. I da... Ne zaboravite zahvaliti Voronjinu.</text>
+</string>
+<string id="sms_iz_moskvy_5">
+<text>Primljeno. Ne brinite, zahvaliću mu se i neću ni vas zaboraviti. Helikopter poleće iz baze za 5 minuta.</text>
+</string>
+<string id="sms_dosvidanie_devchonka">
+<text>Zbogom dečki!! Volim vas puno i čekam vas ako ikada posetite Moskvu!</text>
+</string>
+<string id="sms_pilot_muhi">
+<text>Generale, operacija je uspešna. Devojka je pokupljena a kutija sa darom ostavljena. Vraćamo se u bazu.</text>
+</string>
+<string id="sms_vzruv_aver_vert_1">
+<text>SRANJE, neko puca! Neko je opalio iz bazuke! Ah, vidim ih! Na brdu - grupa stalkera. Kučke jedne! Idu prema kabini.</text>
+</string>
+<string id="sms_vzruv_aver_vert_2">
+<text>Otkazale su kontrole. Pokušaj nekako do močvare, devojku treba baciti u vodu, možda preživi...</text>
+</string>
+<string id="sms_vzruv_aver_vert_3">
+<text>Otkazale su kontrole. Pokušaj nekako do močvare, devojku treba baciti u vodu, možda preživi...</text>
+</string>
+<string id="sms_vzruv_aver_vert_4">
+<text>Ahh, gotovi smo! Svi skačite! Prokleta džukela...</text>
+</string>
+<string id="sms_after_die_muha_1">
+<text>Šta se tamo, do vraga, dešava... Jel' vojniče?!</text>
+</string>
+<string id="sms_after_die_muha_2">
+<text>Jadnica. Helikopter je pogođen. Vaša unuka... Ona je... Teško je povređena. Poslaću nju i još jednog preživelog vojnika do doktora. Nije naša krivica. Uradiću sve što je u mojoj moći. Razumem kako se osećate, ako bude nekih novih vesti - javiću vam se. Kraj razgovora.</text>
+</string>
+<string id="sms_after_die_muha_3">
+<text>Doktore, evo naših koordinata. Hitno trebamo pomoć. Jedan čovek je mrtav. Obični čovek, daleko od Zone i od blata života. Pokušajte nešto uraditi. Svi prigovori neće biti prihvaćeni. Imam stvari koje će vas zanimati. Ali ipak mislim da je život vredniji od toga.</text>
+</string>
+<string id="sms_after_die_muha_4">
+<text>U redu. Helikopter je oboren. Ali želim da vas obavestim o stanju - da se adekvatno osigura kamera potrebno je još energije. Ovo trenutno nije dovoljno. Trebaš se čuti sa naučnicima kod generatora i pomoći im da pokrenu treći generator. Posle, ako sve bude išlo dobro, biće još jedan zahtev.</text>
+</string>
+<string id="sms_after_die_muha_5">
+<text>Fang, Muva je mrtva. Šaljem telo Crnom Doktoru. Preživeli vojnik mi je dao nekoliko fotografija srušenog helikoptera. To je bio Monolit. A njima je komandovao... Naš zajednički prijatelj - Astrolog... Pucali su iz pećine gde je Muva bila. Idem tamo - možda i uspem u svom naumu ako se ovi kreteni malo opuste. A kabina? Pa kao i Monolitovci, idem da vidim.</text>
+</string>
+<string id="sms_after_die_muha_6">
+<text>Mrtva? Nekako sam se vezao za nju - bila je dobra devojka... Sve je tiho zasad. Vidi ovo... Ne diraj tu kučku, molim te. Preklinjem te. Za to džukelo ću ja sravniti račun. Već duže vreme to đubre pravi probleme. Da li je Pantera bila s njim?? Ako je bila - onda su oboje u istom košu. Zatvor za njih ne važi. Ti ljudi nemaju pravo na život, ili na neko suđenje za koje bi dobili desetak godina za pljačku i ubistvo i onda uslovno pušteni nakon nekoliko godina... To im ovde neće proći. U Zoni su i zakoni Zone.</text>
+</string>
+<string id="sms_mono_netu_1">
+<text>Fang, na mesti sam. Izgleda da su otišli deci. Pa srećno im bilo. Da li si još u kabini? Ja sam kod generatora, sa naučnicima - treba im pomoć da pokrenu treći generator. Da, bila je i Pantera - ali je ne diraj.</text>
+</string>
+<string id="sms_mono_netu_2">
+<text>Razumem. Ako bude nekih vesto - javim ti. Pozdravi Duha.</text>
+</string>
+<string id="sms_mono_netu_3">
+<text>Lukas, živio. Pitaj svoje obaveštajce jesu li videli Astrologa - ako jesu, javi mi.</text>
+</string>
+<string id="sms_mono_netu_4">
+<text>Voronjin, zdravo. Rekli su nam da ne idemo - ali vi to sigurno već znate. Reci svojim ljudima ako vide Astrologa - da jave.</text>
+</string>
+<string id="sms_mono_netu_5">
+<text>Pantera, odgovori.</text>
+</string>
+<string id="sms_mono_netu_6">
+<text>PDA je isključen ili je van mrežnog dometa...</text>
+</string>
+<string id="sms_vitamin_posrednik_1">
+<text>Vitamin, hej. Ima jedna stvar što mi je jako važna. Neophodno je da propustiš nekoliko naučnika sa površine do upravljačke ploče generatora u Varlabu. Oni su neutralci, kao i ljudi za koje rade.</text>
+</string>
+<string id="sms_vitamin_posrednik_2">
+<text>Hej, Strelok. Imajući na umu tvoju pomoć - reći ću jednu stvar - što se tiče nas ta opcije je prihvatljiva, ali ti ljudi će morati ispoštovati nekoliko uslova. Izlaz na površinu iz Varlaba je u funkciji - poslaću jednog čoveka za pregovaranje. Čekam tvoj signal.</text>
+</string>
+<string id="sms_vitamin_posrednik_3">
+<text>Doktore, pošaljite svog čoveka za generator - slobodno, oni koji su u Varlabu postaviće vam nekoliko uslova za prolaz naučnika. Moramo razgovarati o tim uslovima.</text>
+</string>
+<string id="sms_vitamin_posrednik_4">
+<text>Nije problem. Reci im da pristajemo razgovarati o uslovima. Neka pošalju svog predstavnika. Crni Doktor će biti moj predstavnik. Mesto susreta će biti na ulazu u Varlab iz Generatora, što znači da ti ne moraš ići.</text>
+</string>
+<string id="sms_vitamin_posrednik_5">
+<text>Vitamin, pošalji predstavnika. Čekam.</text>
+</string>
+<string id="sms_sv_chern_peregovor_1">
+<text>Pozdrav gospodari slobode. Suštinu pregovora već znate. Vaši uslovi?</text>
+</string>
+<string id="sms_sv_chern_peregovor_2">
+<text>Pozdrav i vama. Naloženo mi je da predložim sledeće: mi ćemo propustiti vaše naučnike i obezbediti pristup praktično svim potrebnim postrojenjima. Njihova zaštita je također u domeni naših ljudi. Zauzvrat tražimo pola miliona u kešu i pristup naših vojnika na površinu - po mogućnosti kod barijere kod starih betonskih prevlaka - želimo organizovati mali kamp, da se malo ljudi opuste i da imamo kontrolu obližnjem prelazu. Naravno, vaši ljudi će imati slobodan pristup.</text>
+</string>
+<string id="sms_sv_chern_peregovor_3">
+<text>Meni je naloženo da prihvatim sve vaše uslove. Financijski uslov - nema problema. Što se tiče kampa: ovo područje još nije pod našim nadzorom, koliko znam tuda još tumaraju razni fanatici. Ali imam rešenje - mi pošaljemo Streloka da malo pročešlja područje, nakon čega možete lako ići, OK...?</text>
+</string>
+<string id="sms_sv_chern_peregovor_4">
+<text>Eh.. Mladiću... Izvini ako ovo razbija tvoju slatku trampu, ali šta do đavola da radim? Ili više volite da vi kao profesionalci nemate hrabrosti da sami počiste svoj teritorij?</text>
+</string>
+<string id="sms_sv_chern_peregovor_5">
+<text>Pa vidiš, Strelok... Ostani koliko god želiš kod Crnog Doktora. Učinio si puno za nas, ali ovaj posao mora da se završi i to je i od tvog interesa. Ali opet, možeš i odbiti, i u ovom trenutku ne možemo pristati bez tebe.</text>
+</string>
+<string id="sms_sv_chern_peregovor_6">
+<text>Ako ne znaš, već dugo vreme pljujem na kvantitet i kvalitet svojih neprijatelja. Nadam se da ne želiš popuniti mojih žrtava, zato nema potrebe za nekim mojim uslovima. Nije problem, izvidiću situaciju kod barijere, ali mi vi stavljate trn pod dupe, ako ćete nastaviti odlučivati umesto mene šta ću raditi a šta ne. Nadam se da ste se vi gospodo složili. Možemo li se razići. Naučnici, kažem, neka idu u Varlab, a nakon toga i vi ćete dobiti više za svoje poslovanje.</text>
+</string>
+<string id="sms_u_shlagbauma_1">
+<text>Problem je rešen kod barijere. Možete im javiti - slobodno mogu poslati svoje ljude.</text>
+</string>
+<string id="sms_u_shlagbauma_2">
+<text>Solvador, radiš li tamo?</text>
+</string>
+<string id="sms_u_shlagbauma_3">
+<text>Sve je spremno. Neophodno je da pratimo pokretanje. Idi u polje genaratora i potraži treći generator, tu bi negde trebala da stoji kutija sa alatom za popravku. Kad dođeš - javi mi, pokušaćemo da ga pokrenemo.</text>
+</string>
+<string id="sms_u_tretego_generatora_1">
+<text>Solvador, na mestu sam. Šta je sledeće?</text>
+</string>
+<string id="sms_u_tretego_generatora_2">
+<text>Ništa. Sada samo stani i gledaj. Generator je prigušen, pokušaćemo da ga aktiviramo odjednom - žice bi trebale da idu u struju, a iznad generatora treba da bude električno polje. Onda?</text>
+</string>
+<string id="sms_u_tretego_generatora_3">
+<text>I jeste.</text>
+</string>
+<string id="sms_u_tretego_generatora_4">
+<text>Jeste? To je... Andi, nisi šta uprskao???</text>
+</string>
+<string id="sms_u_tretego_generatora_5">
+<text>Opa, Učo je doktorirao banditski rečnik.</text>
+</string>
+<string id="sms_u_tretego_generatora_6">
+<text>Sve je zasluženo, seljačino!</text>
+</string>
+<string id="sms_u_tretego_generatora_7">
+<text>Strelok, zdravo. Astrolog se ponovo pojavio. Moramo kazniti čudovište! Ako želiš učestvovati, čekaću te kod generatorskog postrojenja - znaš već gde. Pogledaj kartu NEP2 - pokušaću ti poslati lokaciju gde sam sada. Ali odmah te upozoravam - ako vidim Panteru - oboje ste ledeni!</text>
+</string>
+<string id="sms_mesto_gg_na_chaes2">
+<text>Fang, na poziciji sam. Ne vidim vrata kroz koja ova svinja mora proći.</text>
+</string>
+<string id="sms_kluk_pogib_1">
+<text>Strelok, izgleda da smo pogrešili. Većina iz grupe je, očigledno, promenila rutu. Vidim helikopter - spušta se u blizini grupe. Idu, idu! Nećeš biti u mogućnosti da helikopter... Neću ga srušiti. Vrati se na mesto našeg sastanka, možda još ima vremena. A imam i ideju - potraži APC, kao jedan od radnika. I onda Tryahnu Antiquity. Srećno, Strelok, idi sa vetrom u leđa...</text>
+</string>
+<string id="sms_kluk_pogib_2">
+<text>Fang, zašt misliš o tome tako?? Eh, jel' to tvoja kap - ma do đavola i s tim Astrologom!!! Fang? Fang??? To je sranje...</text>
+</string>
+<string id="sms_kluk_pogib_3">
+<text>Fang, gubi se iz BTR! Nemam vremena... Fang!!!</text>
+</string>
+<string id="sms_kluk_pogib_4">
+<text>Brzo uzleti! Odbaci gorivo inače nećemo uspeti!</text>
+</string>
+<string id="sms_kluk_pogib_5">
+<text>Ah, puška se zaglavila... Ali ti Astrolože, tvoji će ti se uzalud radovati... Tvoj odar je spreman...</text>
+</string>
+<string id="sms_after_kluk_pogib_1">
+<text>Duh, hej... J sam u NEP Sever. Fang ga je ubio... Nema ga više, nema ništa čak ni za pokopati...</text>
+</string>
+<string id="sms_after_kluk_pogib_2">
+<text>Strelok, jel me zezaš? To je sranje, pa kako se desilo? Bežite odatle, ali znam da si ti glupan koji se voli praviti budala a i on je sam gad... Ni ja nisam dobro - Panteru smo odveli u bolnicu - do Crnog Doktora. Išao sam do nje - ona je kao mačka - jedan život manje... Videćeš sam kako stvari stoje.</text>
+</string>
+<string id="sms_after_kluk_pogib_3">
+<text>Oh, nije lako... Duh - Pilgrim... U bolnici sam, moramo završiti posao.</text>
+</string>
+<string id="sms_after_kluk_pogib_4">
+<text>Doktore, šta ima novo?</text>
+</string>
+<string id="sms_after_kluk_pogib_5">
+<text>Aaa, Strelok! I više si nego dobrodošao. Evo tvoje male curice, pravi mali razvratnik. Slažem se sa nerealnim, više izgrišeno čudovište... Oprosti, imaju neki ljudi iz Zone koje još nisam video. Požuri do bolnice ili će biti prekasno. A da, nemoj zaboraviti da doneseš i artefakte.</text>
+</string>
+<string id="sms_nachalo_bazara_otsek">
+<text>Ah, tu si, pre svega reci devojci da se smiri. Ima neke lude zahteve a preopasno je da ovde nosimo oružje.</text>
+</string>
+<string id="sms_poshel_bazar_otsek">
+<text>Da, ja sam. Vizija se neće sažeti u ovom trenutku. Neka vaši ljudi sklone oružje. Pantera, ovo se odnosi na tebe. Smiri se malo, nikakva sila ovde neće rešiti problem, ali ono što je na kraju, to je heroizam!</text>
+</string>
+<string id="sms_poshel_bazar_otsek_2">
+<text>Ne, pištolj ostaje. Pogledaj, pogledaj ga - kako je miran na balkonu. Ali pratila sam ga - to nije Crni Doktor, to je samo izmanipulirani hologram, ali i on sam je negde u blizini. Ima tu još jedan razlog - on je bio drugi deo Monolita...</text>
+</string>
+<string id="sms_poshel_bazar_otsek_3">
+<text>Ako je ovo istina, onda si srećan što si još živ. A zašto bi on dao i drugo Srce Poltergeista i da ga ima? To je kao da ga pokušavaš uzeti od mene.</text>
+</string>
+<string id="sms_poshel_bazar_otsek_4">
+<text>Zna on zašto. Taj artefakt je davno pronašao moj otac. S njim i počinje priča o O-svesti Zone. Ali tu je bio i drugi artefakt, za koji se ispostavilo da postoji... Crni Doktor je pokupio prvi artefakt od mog oca a nije mu htio pomoći iako je bio smrtno bolestan. Vreme je da se vrati dug, tim više jer mu nije pomogao... Uzeću artefakt i daću ga tebi - a ti sam odluči šta ćeš dalje.</text>
+</string>
+<string id="sms_poshel_bazar_otsek_5">
+<text>Doktore, je li to istina?</text>
+</string>
+<string id="sms_poshel_bazar_otsek_6">
+<text>Uglavnom - da, istina je. Ali - samo što se tiče holograma. Ostavi devojku dole na dnu i uspenji se ovamo - teleporter pravo.</text>
+</string>
+<string id="sms_poshel_bazar_otsek_7">
+<text>Oče???!!! Jesi li to ti? Kako si ti, ja... I ti... Pa, ne boli li te puno...</text>
+</string>
+<string id="sms_poshel_bazar_otsek_8">
+<text>Kćeri... Do zadnjeg trenutka nisam znao da si u Zoni i da me tražiš, ovaj artefakt... Inače, sve bi bilo drugačije. Sići ću dole do tebe, reci još neku reč svom prijatelju - ostalo treba završiti.</text>
+</string>
+<string id="sms_sidor_mina">
+<text>Ovo je rudnik pod nogama i komrad bogalj... Hehe... Nešto me vuče na tužnu romantiku...</text>
+</string>
+<string id="sms_k_generalu">
+<text>Generale, zdravo. Strelok ovde. Sa vašom unukom sam. Vidimo se uskoro.</text>
+</string>
+<string id="sms_k_prizraku">
+<text>Duh, zdravo. Svašta se izdešavalo. Letim za Agroprom. Trag se otvorio negde u blizini sela. Dođi.</text>
+</string>
+<string id="sms_k_prizraku_1">
+<text>Duh, zdravo. Ja sam u Agropromu. Trag se otvorio negde u blizini sela.</text>
+</string>
+<string id="sms_k_muhe">
+<text>Muva, idemo. Moramo na dalek put - u Agroprom.</text>
+</string>
+<string id="sms_atp_torgovetz">
+<text>Obeleženi, sedokosi čoveče, nadam se da se sećaš. Primetio sam da dosta manje rasturate tikvice... Tvrd kao orah. Ma Rambo, ukratko, onaj koji je završio genocid, koji odmara, jede Tviks... Ne Tveks... Jebaji ga, šta sve nije...sranje i smeće iz inostranstva a nekad i šipak domaći. Imate minutu da sakupite sve svoje izglede i krajeve - moj helikopter kod autobusne stanice, imaćete sve pri ruci. Ostajemo kao i obično - 6-8 minuta.</text>
+</string>
+<string id="sms_sedoy_poka">
+<text>Obeleženi, zbogom, vidimo se. Uh, jedva se diže ovaj helikopter...</text>
+</string>
+<string id="sms_tu_sdurel">
+<text>Hej, buraz, jesi li normalan? Ovo je helikopter Mobilnog Trgovca.</text>
+</string>
+<string id="sms_agro_muxa_1">
+<text>Oh, okupili smo se. Muva, idemo, brzo.</text>
+</string>
+<string id="sms_agro_replika_1">
+<text>Pa, ono, hajde, siđi, ne uzmate drva...</text>
+</string>
+<string id="sms_agro_boltobny_1">
+<text>Sranje na vidiku, okupljanje na vrhu. Di... A koliko su okrnjeni - obezglavljeni šefovi.</text>
+</string>
+<string id="sms_agro_boltobny_2">
+<text>Ti si vrhovni. I mrtav si već odavno.</text>
+</string>
+<string id="sms_agro_boltobny_3">
+<text>Isto izgledaš mrtvo. Uzmi ogledalo i pogledaj. Da te nije krava sažvakala i ispljunula?</text>
+</string>
+<string id="sms_agro_boltobny_4">
+<text>Eh, muljaža, ne politika? Ko vas je okupio tu i s kim prvo razgovarati?</text>
+</string>
+<string id="sms_agro_boltobny_5">
+<text>Neka Kuznjecov priča. Neka kaže - svoju zadnu reč - nako toga ću ga ubiti, podmititi ostale i otići napiti se.</text>
+</string>
+<string id="sms_agro_boltobny_6">
+<text>Sad ću se ubiti, ha, božićno drvce, sranje... informanti se ovde okupili...</text>
+</string>
+<string id="sms_agro_boltobny_7">
+<text>Mladi ljudi, dopustite da završimo uvodni deo. Vidim da ste se ovde okupili da podelite sfere uticaja. Nauku ne zanima ko je glavni u Zoni, njena briga je samo jedno pitanje: Hoće li ostati u opštem području nakon nedavnih događaja u Bolnici? Priča se da je to sve delo ljudkih ruku.</text>
+</string>
+<string id="sms_agro_boltobny_8">
+<text>Hmm. Ponašajmo se pristojno. Svi smo se okupili ovde - dragi moji, i nije nikakva tajna da kolekcije artefakata, novac, i tako dalje - nije naš cilj. Već svega navedenog imamo i u većim količinama nego što nam je potrebno. Prepustićemo te izazove novajlijama, neka profitiraju. Za nas - Zona - to je način života, i mi ne želimo da ona nestane. I tako - ovo pitanje upućujem Obeleženom.</text>
+</string>
+<string id="sms_agro_boltobny_9">
+<text>Koliko ja znam, u Zoni se ništa ne dešava - kakva je sada, takva će i ostati - barem u bliskoj budućnosti. Oni koji misle da je istražena - su u krivu. Zagonetke su svuda oko nas.</text>
+</string>
+<string id="sms_agro_boltobny_10">
+<text>To je ono što želimo čuti. A štetni uticaj Zone - to ćemo videti posle.</text>
+</string>
+<string id="sms_agro_boltobny_11">
+<text>Pa, onda razla. Već mi se ugrejala votka ispod mosta...</text>
+</string>
+<string id="sms_agro_boltobny_12">
+<text>Vino...</text>
+</string>
+<string id="sms_agro_boltobny_13">
+<text>Ujka Strelok, hoću li ja leteti sa ovim piljarima, i gde je ujka Fang?</text>
+</string>
+<string id="sms_agro_boltobny_14">
+<text>Oh, devojko... Tražimo ga...</text>
+</string>
+<string id="sms_agro_boltobny_15">
+<text>Oh, bel i mekan... Da, i nosi naočale. Dođi s nama, on je dobar...</text>
+</string>
+<string id="sms_agro_boltobny_16">
+<text>Ara, Borov. Već kasnite. Muva je sa mojim prijateljima. AH Fang... Pozdraviću ga od vas. Duh, Dok, Pilgrim - vi se ne pozdravljajte. Znam gde ću vas naći. Glavna stvar - pazite ne Muvu, osigurajte da se ništa ne desi - Obećao sam Fangu... Da, Kuznjecov - ako dostavi devojku, promaknuće ga u pukovnika.</text>
+</string>
+<string id="sms_agro_boltobny_17">
+<text>Sve je odletelo kući. Ali - za pola sata bi trebalo leći iz banke.</text>
+</string>
+<string id="sms_agro_boltobny_18">
+<text>Poslednja stvar: zna li neko ko je Fric? On je njemac koliko i šljem.</text>
+</string>
+<string id="sms_agro_boltobny_19">
+<text>Ne, definitivno nije naš - Njemac ne znam. Plaćenik verovatno.</text>
+</string>
+<string id="sms_agro_boltobny_20">
+<text>Ne, nije naš. Da, a gde plaćenik ide sa šljemom??? Možda je rudar?</text>
+</string>
+<string id="sms_agro_boltobny_21">
+<text>Nemam toga. Ne volim njemačke šljemove. Moramo pitati naučnike.</text>
+</string>
+<string id="sms_agro_boltobny_22">
+<text>Pa, ne mogu reći, ali to nije jedan od mojih prototipova... Pa, ne, ne poznajem takav.</text>
+</string>
+<string id="sms_agro_boltobny_23">
+<text>Da-da, doktore, sve što imate je eksperimentalno. Sranje, za sat kasnije, zamenićemo uloge.</text>
+</string>
+<string id="sms_agro_boltobny_24">
+<text>Čini se da, Strelok - ili neko ili nešto nije završilo, ili niko od prisutnih ne zna. A... Možda je on iz neke nove grupe? Niko ne zna koliko se dugo proteže Černobilska Zona, i ko tamo prebiva. Najverovatnije, Strelok, morati to otkriti sam.</text>
+</string>
+<string id="sms_agro_boltobny_25">
+<text>Ok, ljudi, Hare Bazaar - vidimo se opet na posebnom okupljanju. Uđite u helikopter, vreme je da se leti. A onda, izgleda da vaši pomoćnici nervozno očekuju da se ne vratite.</text>
+</string>
+<string id="sms_agro_boltobny_26">
+<text>Da, vreme je.</text>
+</string>
+<string id="sms_agro_boltobny_27">
+<text>Da, sednite - sve je predviđeno - ko u zalasku sunca u Mračnoj Dolini, u mraku i dogovori.</text>
+</string>
+<string id="sms_agro_boltobny_28">
+<text>Daj zašutite idioti jedni. Sada stižemo - Poslao sam sokolove u posetu, sa darovima u formi bombi. Darove ćemo baciti preko ograde, i tek onda - ići sami sebi čestitati.</text>
+</string>
+<string id="sms_agro_boltobny_29">
+<text>Pa, požurite... Letite tako brzo da... Intelektualci...</text>
+</string>
+<string id="sms_agro_boltobny_30">
+<text>Strelok, vidimo se na šolji čaja. Ja sam još u Pripjatu - tamo ćemo se i sastati. Požuri! Ne zastajkuj - nećemo čekati.</text>
+</string>
+<string id="sms_agro_boltobny_31">
+<text>Da, idem... Strelok, vidimo se i hvala! Čekaću tebe i Fanga!</text>
+</string>
+<string id="sms_agro_boltobny_32">
+<text>Moramo ići. Za sreću nije dovoljno samo da ga izvučeš iz ranca i bazukom skineš helikopter.</text>
+</string>
+<string id="sms_agro_boltobny_33">
+<text>Okrenuo sam helikopter, pa sada pročešljate malo sa minigunom - a onda sam pogledao u tvoje lice i video da nema mesta bez ožiljka.</text>
+</string>
+<string id="sms_agro_boltobny_34">
+<text>Doviđenja, Strelok! Vidimo se.</text>
+</string>
+<string id="sms_arh_finish_1">
+<text>Vidiš, Strelok. Uvek se srećemo. Okreni se. Teleporter i onaj koga si izgubio - su pred vratima.</text>
+</string>
+<string id="sms_proschalnoe_1">
+<text>Vidimo se  Strelok. Sigurno ćemo se opet sresti.</text>
+</string>
+<string id="sms_proschalnoe_2">
+<text>Zbogom, Strelok. Istina Zone je ipak ostala tajna za tebe.</text>
+</string>
+<string id="sms_proschalnoe_3">
+<text>Budi dobro, i ne zaboravi. Pozdravi nam okean.</text>
+</string>
+<string id="sms_proschalnoe_4">
+<text>Zbogom, Strelok. Vidimo se u Zoni...</text>
+</string>
+<string id="sms_td_preduprezhdenie1">
+<text>Zaštitni laboratorijski sistem je aktiviran i traži da ostaviš artefakte 1, 2, 3 faze razvoja, kao i apsolute, pre ulaska u laboratoriju. Omogući zaštitu od negativnih uticaja ovih artefakata.</text>
+</string>
+<string id="sms_td_preduprezhdenie2">
+<text>Zaštitni laboratorijski sistem ponavlja upozorenje: ostavi na ulazu u laboratoriju artefakt više 1, 2 i 3 faze, kao i apsolute. Inače će ovi artefakti biti dekontaminirani.</text>
+</string>
+<string id="sms_laba_skan_arts_1">
+<text>Zaštitni sistem skenira laboratoriju od štetnih i opasnih artefakata.</text>
+</string>
+<string id="sms_laba_skan_arts_2">
+<text>Zaštitni laboratorijski sistem ponovno skenira od štetnih i opasnih artefakata.</text>
+</string>
+<string id="sms_von">
+<text>Fuj... Koji smrad... Čak ni filtracioni sistem ne može eliminisati smrad propadajućeg mesa. Stanovnisi su mrtvi ili je ovde nešto jako gadno...</text>
+</string>
+<string id="sms_sark_art_negoden">
+<text>Ovo... Kakvo pogrešno vreme... Opet je nešto krenulo loše. Moramo pogledati.</text>
+</string>
+<string id="sms_bomba_vzruv">
+<text>Daj, ne seri... Pa šta prevoze? Nuklearnu bombu ili nešto slično??</text>
+</string>
+<string id="sms_spezdetektor">
+<text>Vi ste u području koje sadrži određenu plastiku.</text>
+</string>
+<string id="sms_pda_slom_1">
+<text>Navigacijski modul vašeg PDA nije u funkciji. Prikaz je trenutno onemogućen.</text>
+</string>
+<string id="sms_pda_slom_2">
+<text>Ovo je sranje... Koje pogrešno vreme...</text>
+</string>
+<string id="sms_pda_slom_3">
+<text>Barmen, hej. Pomozi mi - navigacija u PDA mi je otišla... Ništa ne mogu, ni LAN, ni kartice...</text>
+</string>
+<string id="sms_pda_slom_4">
+<text>Pričao sam sa asistentom profesora. Kada budeš u Baru - odi do njega - da ti pogleda PDA. Za neku malu naknadu. Heh-heh...</text>
+</string>
+<string id="sms_pda_slom_5">
+<text>Sranje... Moram otići do profesorovog asistenta u Bar. Čak mi i ranac treba popraviti - zatvarač se zaglavio, a teško je i drugu cev nabaviti... Pa, kako god, na put.</text>
+</string>
+<string id="sms_pda_slom_6">
+<text>Navigacijski modul vašeg PDA ne može adekvatno prikazati koordinate u nekim područjima.</text>
+</string>
+<string id="sms_pda_sdelan_1">
+<text>Navigacijski modul vašeg PDA ne radi. Možda ponavljanje sistemske greške. Kontaktirajte odeljenje servisa.</text>
+</string>
+<string id="sms_pda_sdelan_2">
+<text>Navigacijski modul vašeg PDA je spreman za rad. Sistemska greška popravljena.</text>
+</string>
+<string id="sms_girl3_nachalo">
+<text>Hej. Nemoj biti iznenađen, nije tvoja Pantera. Čuo sam tvoj razgovor sa Fangom. Uzajamni sastanak bi bio koristan ali... Sredi tu bubu u svom PDA pre ikakvog drugog razgovora.</text>
+</string>
+<string id="sms_girl3_nachalo_1">
+<text>Doktore, zdravo. Izgleda da sam pogrešno skrenuo, heh... Imam u svom PDA vašu bubu... A trebamo odlučivati o velikim pitanjima...</text>
+</string>
+<string id="sms_girl3_nachalo_2">
+<text>Da, buba je trebala da bude instalirana još pre te famozne posete Mašine Smrti. Ali tu ideju smo odbacili - bilo je dovoljno Astrologovo praćenje. Tako da ta buba - nije moja. Seti se kome si davao svoj PDA - to te pitam.</text>
+</string>
+<string id="sms_girl3_nachalo_3">
+<text>Dok, hvala puno. Mislim da znam - jedan u Rostoku mi je popravljao PDA... Sad ću ga posetiti i...</text>
+</string>
+<string id="sms_molniy_bar">
+<text>Sve. HMA čist. Međutim, da saznam ko stoji iza ovoga vredi slušanja.</text>
+</string>
+<string id="sms_molniy_bar_1">
+<text>Prebacio sam slike prostora gde sam sada u tvoj PDA. U problemima sam, požuri. Nisam siguran gde sam... Izgleda da ima puno prolaza, nekada je verovatno bio nešto kao kontrolni centar... Koordinate neće biti korištene dok se poptuno ne uverim u odsustvo bube.</text>
+</string>
+<string id="sms_strannik_lima">
+<text>Hvala Bogu, to je Strelok. Tvoj prijatelj je pokušao pojesti grupu lokalnih kanibala. Uređaj nije video, ali tu je beležnica sa vatrom oko čoveka... Pokušaću je naći.</text>
+</string>
+<string id="sms_strannik_lima_1">
+<text>Loše. Bez detektora ne možemo nositi. Molim te - pogledaj tamo kod kuće, na krovu koji je bio teleporter.</text>
+</string>
+<string id="sms_strannik_lima_2">
+<text>Već sam bio tamo... Pogledaću opet. Sve je ograđeno. Šta ga je dovelo ovde... Negde mora biti put ili način.</text>
+</string>
+<string id="sms_after_semetskiy">
+<text>Duh, zdravo burazeru. Idem u tvom smeru. Da nisi slučajno video jednonogog stalkera? Moram razgovarati s njim.</text>
+</string>
+<string id="sms_after_semetskiy_1">
+<text>Zdravo. Da, upravo sam u selu sreo takvog stalkera. Otišao je u brda, levo od sela, u blizini betonske trake. Ljudi su pričali o šatoru koji nosi. Istražićemo dok ne dođeš. Vidimo se.</text>
+</string>
+<string id="sms_preduprezhdenie">
+<text>Hej, šta hoćeš? Ne preporučujem ti da priđeš bliže, jako sam nervozan, pucaću...</text>
+</string>
+<string id="sms_preduprezhdenie_1">
+<text>Svi su ovde nešto sa čeličnim živcima. Puška - nije u kvaru, ponekad puca, ako nisi znao.</text>
+</string>
+<string id="sms_preduprezhdenie_2">
+<text>Dobro. Šta si ti... Čekaj ovde, vratiću se...</text>
+</string>
+<string id="sms_preduprezhdenie_3">
+<text>Hej stalkeru, vrati se. Neću pucati, ali mislim da se sa Gaussom sa 20 metara lako pogodi proteza. Šta ćemo onda?</text>
+</string>
+<string id="sms_preduprezhdenie_4">
+<text>Duh, hvala ti. Nešto sam imao previše poverenja u ljude, ali uzalud...</text>
+</string>
+<string id="sms_odnon_proval">
+<text>Promašili ste ili ste došli preblizu Monolitu pa je film osvetljen.</text>
+</string>
+<string id="sms_foto_ok">
+<text>Slikanje je uspešno. Podignite sliku.</text>
+</string>
+<string id="sms_vopros_k_prizraku">
+<text>Duh, sudbina me dovela do starog sela. Imam pušku, kameru i sliku Monolita, ali čini se da se zbog zujanja, nakon slikanja fotografije, pojavile neke čudne figure...</text>
+</string>
+<string id="sms_vopros_k_prizraku_1">
+<text>Znaš bolje nego ja šta ćeš sa tom puškom - spusti je. Figure - zapamti ih ili ih nacrtaj, a posle, kada se nađeš u selu odi do Pilgrima, da uzme te fotke figura.</text>
+</string>
+<string id="sms_pili_sdelal_psevdofoto"> <!-- corrected, aleks1970 -->
+<text>Strelok, evo nešto nalik na sliku je spremno. Uzmi.</text>
+</string>
+<string id="sms_molniy_posle_foto">
+<text>Dobio sam izomorfni detektor. Još nešto?</text>
+</string>
+<string id="sms_molniy_posle_foto_1">
+<text>Već je dobro. Ali i loše. Područje je veliko, a izomorfi mobu biti bilo gde. Činjenica je da energetska ravnoteža može pronaći samo u nekoliko tačaka. Kako izgldaju - ne znam, ali verovatno ne izgledaju kao obične stvari. Neki izomorfi su manje vredni i ne treba ih vraćati, ali za neke je potrebno imati kapsulu. Tvoj prijatelj je pokušao pronaći bombu i onoga ko ih je napravio. Trenutno imaš dve opcije - ili ćeš stupiti s njim u kontakt i saznati kako se stvari idu, ili saznati istinu o tome ko je imao detektor.</text>
+</string>
+<string id="sms_molniy_posle_foto_2">
+<text>Već radim na tom ko je imao detektor. Uzgred, tvoj mrtvi drug je imao beležnicu, iz koje se jasno vidi da je i on tražio tog čoveka. A čini mi se da i od ranije na vašem računu postoji još jedna osoba... Vraćam se do Fanga, da vidim kako on napreduje.</text>
+</string>
+<string id="sms_molniy_posle_foto_3">
+<text>Fang, hej. Kako ide? Imam hrpu novih vesti.</text>
+</string>
+<string id="sms_molniy_posle_foto_4">
+<text>Hej. I ja imam vesti i posao za tebe. Ne znam kad ću te videti pa dobro poslušaj: u x-10 pojavili su se neki čudni. Moj detektor ih je odredio kao pripadnike Monolita, ali... Oni su nevidljivi. Sasvim nevidljivi. Samo ih možeš primetiti noću kada upale lampe.</text>
+</string>
+<string id="sms_molniy_posle_foto_5">
+<text>Da, shvatam - ipak su vidljivi.</text>
+</string>
+<string id="sms_molniy_posle_foto_6">
+<text>Ne, ovo nije isto... Bar ne u ovom slučaju. U sobi sa prekidačem imaju kodirana vrata. Tamo drže još jednu bombu... Bio sam tamo - ali nisam mogao otvoriti vrata. Ali imam plan. Imaš li dobro maskirno odelo? Približi se toj sobi, biće gužve sigurno - ali i dar - samo zauzmi položaj i čekaj. Oni će doći, tamo su svaki dan... Pogledaj na dva sata... Kada se vrata otvore - pokušaj ih poskidati pre nego zatvore vrata.</text>
+</string>
+<string id="sms_molniy_posle_foto_7">
+<text>A ti?</text>
+</string>
+<string id="sms_molniy_posle_foto_8">
+<text>Nisam očajavao ali nisam ni uspeo. Da ideš za njima - isto neće upaliti - dok smo se pojavili, oni su nestali. Znači u to vreme moraćeš raditi sam. Poslaću ti sliku gde je najbolje da zauzmeš poziciju za osmatranje. Ali ne pokušavaj da uđeš tamo - biće živi urnebes. Zapamti - jedan metak, sve dok ne otvore vrata. Pokušaću ti pomoći ako ikako mognem.</text>
+</string>
+<string id="sms_pozisiy_bunker_gg">
+<text>Fang, na poziciji sam. Zasada je sve mirno.</text>
+</string>
+<string id="sms_pozisiy_bunker_gg_1">
+<text>Odlično. Nadam se da si se dobro sakrio... Čekaj, u bunkeru su, pazi na ulaz u halu. Ja idem za njima. Ovo nije Monolit... To su neki neutralac - sa radiom - mora biti uhvaćen živ, inače nećemo znati ništa osim onoga šta je u skrovištu. Zapamti - ne sme biti ubijen čak ni kada otvori vrata.</text>
+</string>
+<string id="sms_bunker_fotik_artu">
+<text>Pod uticajem nepoznate komponente, artefakt u rancu može biti podvrgnut transmutaciji u artefakt Spirala.</text>
+</string>
+<string id="sms_bunker_fotik_artu_1">
+<text>Pa... Stvari nisu apsolutne, ali nisu apsoluti... A Klenov reče Spirala - samo pogrešan eksperiment...</text>
+</string>
+<string id="sms_ozhivil_radista">
+<text>Strelok, ima jedna stvar... Imao sam plen - živo srce - verovatno si čuo za to. Uzeo sam ga od oživljenog radioveziste... Ostavio sam ga u životu, može biti korisno...</text>
+</string>
+<string id="sms_ozhivil_radista_1">
+<text>Strašna stvar... Ako želiš razgovarati, ja sam u Pripjatu.</text>
+</string>
+<string id="sms_nashel_sadik_taynik">
+<text>Fang, izgleda da sam pronašao prokleti štek. Čak ni fanatici nisu ulazili kroz vrata na kojima piše Direktor.</text>
+</string>
+<string id="sms_seif_zakrut">
+<text>Tamo je sigurno. Ali ne mogu videti - treba mi šifra. Prodrmaj radiovezistu - neka propeva...</text>
+</string>
+<string id="sms_seif_zakrut_1">
+<text>Moći ćeš ga i sam pitati uskoro - napustili smo bunker i idemo putem, nakon ulaska u Radar - idemo na mesto sastanka. Ako radiovezista umre - ta vrata ćemo morati otvarati aparatom za zavarivanje. Trči brzo, i ide prvi, ne puca po putu po parking vozilima.</text>
+</string>
+<string id="sms_seif_sadik_otkrut">
+<text>Sef je otvoren. Tu su samo neki papiri, ništa više. Jedan od tih papira je uzeo Maksimilijan...</text>
+</string>
+<string id="sms_otkroem_bez_radista">
+<text>Pa, Radiovezista je umro... Šta sada sa sefom?</text>
+</string>
+<string id="sms_otkroem_bez_radista_1">
+<text>Drži se puške. Postrelyaem in the castle ????, i možda budu otvorena.</text>
+</string>
+<string id="sms_forest_pozisiy_na_dome">
+<text>Ja sam na poziciji.</text>
+</string>
+<string id="sms_forest_pozisiy_na_dome_1">
+<text>Pa... Imaš li malo vremena da razgledaš uokolo. Kada i gde će se pojaviti je nepoznato, ali ih moraš otkriti ranije nego iko drugi - i ubiti. Jedan snajper - vatrom ih držati na odstojanju. Da vidimo za šta si sposoban, majstore.</text>
+</string>
+<string id="sms_pogib_stalk">
+<text>Do đavola! Opet, taj prokleti snajper je stvarno zajeban, kopile jedno!</text>
+</string>
+<string id="sms_pogib_stalk_1">
+<text>Do đavola... I gde puca, parazit?</text>
+</string>
+<string id="sms_ozhivil2_radista2">
+<text>Hej, već gotov? Ovde sam ispao jako glup - ukratko, oživeo sam radiovezistu... Potrošio sam zadnje zalihe živog srca...</text>
+</string>
+<string id="sms_ozhivil2_radista2_1">
+<text>Postao si jako dobar u zadnje vreme... da se nisi zaljubio u njega? Haha. Ok, neka živi - možda nam bude još koristan.</text>
+</string>
+<string id="sms_superzhekan">
+<text>Pod uticajem nepoznate komponente municija u rancu može biti izmenjena.</text>
+</string>
+<string id="sms_superzhekan_1">
+<text>Fang, imam Klenova u Varlabu. Znam neke interesantne detalje... Da, za našu informaciju - u jednoj daščari na padini brežuljka, u blizini oštećenog spremnika - vodi trag u Varlab. Ovo je jako korisna informacija i sada ću ga pokušati pronaći.</text>
+</string>
+<string id="sms_foto_mozg_ok"> <!-- corrected, aleks1970 -->
+<text>Uspešno fotografisanje. Pogledajte sliku.</text>
+</string>
+<string id="sms_vodka_dly_kepa">
+<text>Hej, ti stalkeru! Kakva žena? Okreni se ili ću napraviti rešeto od tebe.</text>
+</string>
+<string id="sms_vodka_dly_kepa_1">
+<text>Sačekaj bar minutu pre nego pucaš. Moramo se videti.</text>
+</string>
+<string id="sms_kuznets">
+<text>Hej, odmori se malo... Votka i logorska vatra... Šta više poželeti...</text>
+</string>
+<string id="sms_kuznets_1">
+<text>Rekao sam ti... Zauzmi poziciju, uzmi dvogled i osmatraj... Neka ljudi jedu i piju... Ali čekaj sve dok ljudi ne počnu teturati uokolo i dok ne odu na pišanje u grmlje - ne guraj nos u vatru - pucaj.</text>
+</string>
+<string id="sms_narod_napilsy">
+<text>Sve mi se čini da su se svi ponapijali... Oh, kako je malo votke potrebno za vojničku sreću... I zašto nosim 10 flaša - kad bi i jedna bila dovoljna...</text>
+</string>
+<string id="sms_narod_napilsy_1">
+<text>Sve mi se čini da su se svi ponapijali... Oh, kako je malo votke potrebno za vojničku sreću... I zašto nosim 10 flaša - kad bi i jedna bila dovoljna...</text>
+</string>
+<string id="sms_yntar_k_molnii1">
+<text>Ej, Munjo! Našao sam jedan čudan predmet, ili šta je već... Izgleda da je ovo izomorf. Trenutno sam u Varlabu a onda planiram prema tebi.</text>
+</string>
+<string id="sms_yntar_k_molnii1_1">
+<text>To je dobro. Čekam te, znaš gde ćeš me naći.</text>
+</string>
+<string id="sms_mina_pant"> <!-- corrected, aleks1970 -->
+<text>Dovraga... To je moj... Gdje... ona je ovdje... bomba detonirana...\n</text>
+</string>
+<string id="sms_mina_pant_1">
+<text>Ah... Oče, ovo što radiš je isto kao odustajanje... Idemo do vatre, moramo razgovarati. Pre nego što umrem moraš naučiti kako da pronađeš i eliminišeš... Ne znam još koliko ljudi može umreti...</text>
+</string>
+<string id="sms_mina_pant_2">
+<text>Kako to? Da, a zašto smo sada živi...</text>
+</string>
+<string id="sms_mina_pant_3">
+<text>Da, mislim da si u pravu... Prvo ih pronaći pa onda eliminisati. Pričaćemo u kampu.</text>
+</string>
+<string id="sms_pantera_stop1">
+<text>Hej, Pantero, lagano spusti ranac i dođi do mene!</text>
+</string>
+<string id="sms_pantera_stop2">
+<text>Da, da, sve je pod kontrolom. Tajmer radi samo 10 sati. Uzeću ga malo dalje...</text>
+</string>
+<string id="sms_bazar_s_klenovum1">
+<text>Zdravo Dok. Jesi šta pronašao na Fotopištolju?</text>
+</string>
+<string id="sms_bazar_s_klenovum2">
+<text>Malo ali dovoljno. I što je još važnije, kao što sam i pre potvrdio, moj film mu odgovara.</text>
+</string>
+<string id="sms_bazar_s_klenovum3">
+<text>Oh, misliš da ga nosim... Malo sam odmakao od Kordona...</text>
+</string>
+<string id="sms_bazar_s_klenovum4">
+<text>Možda ima i druga opcija. Napravio sam mali teleportacijski uređaj za manje predmete. Možeš ga isprobati..</text>
+</string>
+<string id="sms_bazar_s_klenovum5">
+<text>Ne... Doktore, to ne može biti? Ovo je ipak egzotična stvar, ako teleportacija krene loše...huh...</text>
+</string>
+<string id="sms_bazar_s_klenovum6">
+<text>Ne brine. Gde si sada? U Kordonu? Prvo, da potvrdimo - poslaću ti testni uzorak - kratki opis svog istraživanja i najjeftiniji artefakt. Ako sve prođe kako treba pošalji mi SMS. Idi u bunker kod lokalnog trgovca i potraži - na stepenicama beležnicu i artefakt.</text>
+</string>
+<string id="sms_kl_pos_est">
+<text>Sve je OK. Sve je stiglo. Šaljem Fotopištolj (Photogun).</text>
+</string>
+<string id="sms_kl_pos_est_1">
+<text>Odlično. Tu je negde - zbog tih koordinata pogledaj u gužvi ili u objektima napred... U kameru je stavljen film. Nemoj ga trošiti bezveze.</text>
+</string>
+<string id="sms_kl_pos_est_2">
+<text>Ipak je ovo drugo, hvala vam, doktore. Doktore, vi kategorično ne obeshrabrujete da se Zona napusti - ubićete radnike... Ostavićete bez posla njihove šefove - bez profita.</text>
+</string>
+<string id="sms_prizrak_ranen">
+<text>Strelok, ej! Kako si? Ja sam upao u nevolje... Sinoć su nas napali... Neka nevidljiva odela. 6-7 ljudi. Znaš i sam kako je teško boriti se protiv nevidljivih ljudi. Ako to nije bio Fridom od betonske trake - opet ne znam. Oh, ništa što sam ostavio u bazi nije nestalo... Dvojicu napadača smo poslali na onaj svet i onda smo pregledali tela - mislim da su to ljudi iz onog klana od jučer. Super opremljeni. Opet zajedno skupljaju novac, unatoč činjenici da sam otpravio njihovog zadnjeg šefa... Gadni neki čovečuljak...</text>
+</string>
+<string id="sms_prizrak_ranen_1">
+<text>Zdravo. Jesi li ti onda dobro? Slabe veštine također prouzrokuju nesreću - Pantera je mrtva - bomba je raznela u Kampu Početnika... I to... Pred očima njenog oca...</text>
+</string>
+<string id="sms_prizrak_ranen_2">
+<text>Da... Koji je i ovaj život sranje... Tako nešto doživeti kao njen otac, strašno, nadam se da se ne krivi za njenu smrt... Odlučio sam - previše sam i sam izgreban nekoliko puta. Jako je teško, pogotovo bez jedne noge. Dok je bila gužva - ali ne pre nje... Ali nakon toga - ni njega ni njegovog leša... Neko sa našeg mesta kod Generatora je dao dojavu - tačno osećam... Neko kuca...</text>
+</string>
+<string id="sms_prizrak_ranen_3">
+<text>Ma do đavola više i s njim, sa tim jednonogim bogaljem - glavna stvar je da je živ... Ozdravi - Osećam da ovi mazohisti iz Poseldnjeg Dana stvarno nam pripremaju poslednji dan... Panterin otac, uverio sam ga, koliko sam mogao - iako nikada ne mogu razumeti osećaje koje ima otac koji je izgubio ćerku. On će čekati vesti od mene, da se osveti onome ko je postavio bombe i mine. Ja sam u Jantaru - tražim jedno čoveka - bivšeg borca iz Poslednjeg Dana... Da, Fang me upozorio - a možda i ljudi žele da mu se vrate. On je sada u Pripjatu...</text>
+</string>
+<string id="sms_perehov_na_yantar">
+<text>Na poziciji sam. Čekam da se teleporter otvori. Ah, nadam se da se neću raspršiti u molekulama uokolo...</text>
+</string>
+<string id="sms_perehov_na_yantar_1">
+<text>Nećeš se raspršiti. Heh... Ti i tvoj žargon - nešto kao - tvoje dupe mi može biti korisno? Zar nije tako?</text>
+</string>
+<string id="sms_perehov_na_yantar_2">
+<text>Munjo, kontaj malo, a ja ću na tvoj žargon u potpunosti odgovoriti - za nekoliko dana znaćeš šta sam rekao...</text>
+</string>
+<string id="sms_pantera_na_kordone">
+<text>Strelok, zdravo. Otac i ja odlučili smo da se malo odmorimo od Zone - na mesec-dva. Sada smo u Kordonu, u Kampu Početnika. Malo da odmorimo - i onda idemo u vanjske zemlje.</text>
+</string>
+<string id="sms_pantera_na_kordone_1">
+<text>Nadam se da ćete se vratiti. Ja sam blizu - u Deponiji - brzo ću doći - sačekaj. Neću otići daleko od perimetra. Moramo razgovarati.</text>
+</string>
+<string id="sms_poslednie_pantera">
+<text>Pantero, pažljivo slušaj. Izgleda da je pre nekoliko sati u Kordon dovučena bomba... Imao sam priliku videti je na delu - strašna stvar. Upozori vođu Kampa Početnika, povedi oca i krenite... Ubrzo stižem.</text>
+</string>
+<string id="sms_poslednie_pantera_1">
+<text>Našao sam je. U rancu je, u jednom podrumu u Kampu Početnika. Jako je teška. Sada ću je izvući. Ko god je stavio, nije ga moglo videti puno ljudi... Ne brini - sa bombom je i tajmer - radi već 10.5-sati, znači već puno.</text>
+</string>
+<string id="sms_moroz">
+<text>Uzmi u obzir, stalkeru... Trenutni ranci su bez ikakvih znakova kvalitete - kada nosiš puno tereta, jednostavno se raspadnu i ispuste stvari posvuda.</text>
+</string>
+<string id="sms_pomosch_ot_chernomora">
+<text>Černomor, zdravo. Upao sam u slepu ulicu, i ne znam više koga da pitam. Treba mi informacija o Fotopištolju. Da nisi slučajno čuo nešto o tome?</text>
+</string>
+<string id="sms_pomosch_ot_chernomora_1">
+<text>Hajde, kreni.</text>
+</string>
+<string id="sms_nashel_gada">
+<text>Oče, našli smo gada. Stavi njegovu sliku.</text>
+</string>
+<string id="sms_otez_poreshil">
+<text>Mrtav stalker. Kordon. Nagazi.</text>
+</string>
+<string id="sms_otez_poreshil_1">
+<text>Otac, dobro, ti daješ... Došao sam do tačke ključanja?</text>
+</string>
+<string id="sms_otez_poreshil_2">
+<text>Postoje ljudi koje maltretiraju celo vreme zato što su ukrali vreću krompira. Postoje ništarije koji su pokrali milione i žive kao bubreg u loju. Postoje ljudi koji trunu u zatvoru zbog pravedne borbe, a postoje i nakaze koje naša humana država ne može poslati na električnu stolicu, već ih čitav život hrane i gotive. U Zoni postoje pravila. Ako se neko pokaje - oprostiću mu. Moja curica se neće vratiti. Ovo je tačka ključanja.</text>
+</string>
+<string id="sms_otez_poreshil_3">
+<text>Slažem se, moj oče, tu je pao i tu je cesta. Samo zato što je - obični pijun...</text>
+</string>
+<string id="sms_otez_poreshil_4">
+<text>Pijuni postaju kraljice, to je problem. Idem pešice - a ti raskrsti sa ostalima. Čekam vesti.</text>
+</string>
+<string id="sms_na_kamne">
+<text>Pa, izgleda da je ovo kamen... Moraćemo sačekati. Glavna stvar - ne izlazi iz slušnog dometa - inače ga ne čujemo.</text>
+</string>
+<string id="sms_razgovor_sxod_nz">
+<text>Nadam se da tamo nisi izgubio trag. Kada budeš išao njegovim stopama, vidi da li je označio putanju kroz generatore? Oni su tamo iza odakle si došao. A šta je to za vas profesionalce da prođete?</text>
+</string>
+<string id="sms_razgovor_sxod_nz_1">
+<text>Gde? Ako je takav posao otpočeo onda se samo bežeći možeš spasiti. Moje vreme dolazi - vražje lenčine baciti bombu na šator? Ako je samo jedan stražar poginuo - svi ste mrtvi - veruj mi. A zašto nosite nevidljiva odela?</text>
+</string>
+<string id="sms_razgovor_sxod_nz_2">
+<text>Pa, jako skupi mrtvaci - malo si se uzbudio... Pancir je oštećen, ali ovde je sigurno i bez njega. Ok, da pređemo na stvar. Ostatak grupe je sada u Vojnim Skladištima. Znaš si gde želiš izomorf?</text>
+</string>
+<string id="sms_razgovor_sxod_nz_3">
+<text>Da. Ali tu nije dobio ništa. Usput - gde je novac za prethodni posao?</text>
+</string>
+<string id="sms_razgovor_sxod_nz_4">
+<text>Biće novac. Donesi još jedan izomorf - i biće. Ako ne doneseš - onda nećeš dobiti ništa.</text>
+</string>
+<string id="sms_razgovor_sxod_nz_5">
+<text>Izomorf je u X16 ali se ne može do njega. Ipak postoji teleporter i lokalni profesor Saharov zna gde je. Ali neće da kaže ništa ni za kakvu cenu - sigurno. Čak ni da ga ubiješ.</text>
+</string>
+<string id="sms_razgovor_sxod_nz_6">
+<text>Saharov, to je dobro... On će ti sigurno reći. Nastavi s poslom. Ja idem prema Skaldištima. Kada osiguramo mesto prebaciću ti koordinate,uzeću predmet i predati Saharovu. Ako ne bude hteo reći gde je teleporter - gotov je. Ali mislim da je on pametan... Izomorf - malo će ga oraspoložiti - malo kasnije ćemo doći po njega, ili jednostavno pokušati otvoriti teleporter - pa ga pošalji nama, a mi ćemo te isplatiti za posao.</text>
+</string>
+<string id="sms_taynik_zlobnuy">
+<text>Znači, siguran sam. Odlazimo. Trebamo pronaći stablo u jednoj od zgrada unutar područja vojne baze i agrikulturnog instituta. Čim se popneš do tamo, novac je već tvoj. Zato ga potraži. Ranac je tamo već celu sedmicu - u bazi sa čovečuljkom, a u toj bazi je pravo mesto za štekove.</text>
+</string>
+<string id="sms_taynik_zlobnuy_1">
+<text>Pa, Strelok, znaš li gde je štek. Hvala Bogu što se nisam morao pentrati tamo. Leži na dnu. Ako je tamo - pošalji SMS.</text>
+</string>
+<string id="sms_ynt_after_perexod">
+<text>Černomor, jesi li još u Jantaru? Doći ću te posetiti - trebam savet.</text>
+</string>
+<string id="sms_ynt_after_perexod_1">
+<text>Strelok, hej. Kako ide? Jesi pronašao još nešto?</text>
+</string>
+<string id="sms_ynt_after_perexod_2">
+<text>Munjo, zdravoo. Nešto ima. Moram razgovarati sa prijatelejm - i sa tobom.</text>
+</string>
+<string id="sms_preplastilin">
+<text>Pod uticajem nepoznatih faktora artefakti u rancu su podvrgnuti transmutaciji .</text>
+</string>
+<string id="sms_dialog_oborvan">
+<text>Izgleda da sam otišao predaleko i ne mogu ništa čuti, još bi izazavao sumnju pričajući a još je čovek iz Poslednjeg Dana otišao.</text>
+</string>
+<string id="sms_poluchenie_klucha">
+<text>Šifra je ispravno unesena. Polje za ključ je aktivirano, nalazi se ispred stepenica. Pripremite željenji predmet da obrišete teleporter</text>
+</string>
+<string id="sms_del_blok_and_restr">
+<text>Pristupni kod primljen. Pokušaj da se deaktivira poluga za zaključavanje aktivira teleporter.</text>
+</string>
+<string id="sms_zaschita_teleport">
+<text>Zaštita teleportera je aktivirana.</text>
+</string>
+<string id="sms_zaschita_portal"> <!-- corrected, aleks1970 -->
+<text>Zaštita teleportera je aktivirana.</text>
+</string>
+<string id="sms_pervoe_dsity">
+<text>Hej! Spusti oružje ili te više nema. Priđi ovamo i bez ikakve zajebancije, novajlije ovde i nisu baš dobrodošle.</text>
+</string>
+<string id="sms_parfumer1">
+<text>Hej stalkeru! Ne znam ti ni ime... Proveri PDA - pronaći ćeš me označenog - na samom izlazu starog odvoda. Čekam te.</text>
+</string>
+<string id="sms_zaschita_mg">
+<text>Uljez u zaštićenoj zoni. Uništenje za 6 sekundi.</text>
+</string>
+<string id="sms_parfum_kontrik1">
+<text>Stalker, šta god... Strelok... Još si živ izašao od tamo? To je...</text>
+</string>
+<string id="sms_parfum_kontrik2">
+<text>Zdravo. Slučaj sa tužiteljom - među običnim ljudima - odrađeno. Moj odgovor je - još sam živ... U čemu je problem?</text>
+</string>
+<string id="sms_parfum_kontrik3">
+<text>Onda pažljivo slušaj. Negde u blizini Crnih farmi - gde zombiji žive - nalazi se i jedan kontroler. Poseban kontroler... Upravo sam čuo da su neki iz Poslednjeg Dana poslani da ga unište. Ovaj kontroler puno zna... U tvom je interesu da eliminišeš tu grupu iz Poslednjag Dana i da pokušaš komunicirati sa tim bićem, ako je ikako moguće. Mislim da će to čudovišete samo se obračunati sa tom grupom, tako da nećeš imati puno posla. Poslaću ti koordinate farme. Kada budeš tamo radi šta hoćeš. Hoćeš li mu pomoći ili ne - na tebi je...</text>
+</string>
+<string id="sms_netu_kontrolera">
+<text>Hej, stalkeru! Znam da je hrpa ljudi iz Poslednjeg Dana došla u blizinu sela i da si došao pomoći. Tu sam - vidim da si hrabar čovek, možeš prići farmi.</text>
+</string>
+<string id="sms_obmorok1">
+<text>Hej, Obmorok, odgovori. Moramo izravnati račun - ima jedan predlog koji će biti obojici od koristi.</text>
+</string>
+<string id="sms_obmorok2">
+<text>Ko je taj smeđi? Da proveravam vezu od Plaćenika?</text>
+</string>
+<string id="sms_obmorok3">
+<text>Nije Plaćenik. Neutralac je. Jedan od ideja je da ode na svojim nogama. Sanjao si o ovome? Ulog - prelaz iz teritorije u zamenu za tvoju pomoć. Naći ćemo se na neutralnom terenu. Gde hoćeš?</text>
+</string>
+<string id="sms_obmorok4">
+<text>Oho... Nema ovde neutralnog terena... Izaći ćemo iz našeg kampa do kotline gdje je stari kamion cisterna. Tamo ćemo se naći. Dođi preko šiljaka, bočno.</text>
+</string>
+<string id="sms_strelka_obmorok1">
+<text>Obmorok, na mestu sam.</text>
+</string>
+<string id="sms_strelka_obmorok2">
+<text>Vidim. Ostani tu gde si. Stižem.</text>
+</string>
+<string id="sms_dcity_zenter_doza">
+<text>Ušao si u zabranjenu A zonu. Nemaš dozvolu za to. Smesta se vrati nazad, inače ćeš biti eliminisan.</text>
+</string>
+<string id="sms_dcity_zenter_doza_otkl">
+<text>Centar zone A je onesposobljen. Upozorenje!</text>
+</string>
+<string id="sms_dcity_gorod2_doza2">
+<text>Nalazite se u Zaštićenoj zoni B sa pravima gosta. Vaše vreme prisutnosti je ograničeno na 10 minuta. Za to vreme morate završiti svoj posao i napustiti B zonu. Ulaz u gradski centar zone A bez posebne dozvole je striktno zabranjen.</text>
+</string>
+<string id="sms_dcity_gorod_doza">
+<text>Gradsko zaštitno polje je aktivirano. Uljez u zoni B. Uništenje za 4 sekundi.</text>
+</string>
+<string id="sms_poziciy_cherdak_zanyta">
+<text>Pozicija zauzeta. Eh, nemam dovoljno vremena... Sada ćemo do Svetog Bartola... Gde je ta žaba u zelenom kombinezonu??</text>
+</string>
+<string id="sms_hand_hoh">
+<text>Hej, novajlijo, priđi! Podigni ruke i okreni se!</text>
+</string>
+<string id="sms_suki_rasstrel">
+<text>Ovamo kučke... Sad ću da vas sve sredim...</text>
+</string>
+<string id="sms_zlobnomu_rasstrel">
+<text>Hej, dobro jutro i tebi... Vidim te tvoje kriminalce... Nije to dobro. Čujem da su neki od tih tvojih insekata kažnjeni za to. Odlazim iz teritorije ali ću se vratiti. Videćemo se - opet...</text>
+</string>
+<string id="sms_zlobnomu_rasstrel1">
+<text>Ej Zlobniče... Moji ljudi su upravo videli neutralca kako je prošao kroz prelaz prema ATP.</text>
+</string>
+<string id="sms_zlobnomu_rasstrel2">
+<text>Prema the ATP, kažeš... A činjenice... Kako je on znao za taj prelaz i ostala sranja ako vaši ljudi nisu pucali?</text>
+</string>
+<string id="sms_zlobnomu_rasstrel3">
+<text>I sam znaš da mi nemamo snajperske puške nikako... A uostalom - kako da znamo da to nije vaš agent?</text>
+</string>
+<string id="sms_zlobnomu_rasstrel4">
+<text>Ok, prošao. To čelo će biti uništeno.</text>
+</string>
+<string id="sms_zlobnomu_rasstrel4_1">
+<text>Sada idite do stroncijske grupe u ATP, vidite da pucnjava nije dogovorena. A ja ću otvoriti prelaz.</text>
+</string>
+<string id="sms_zlobnomu_rasstrel5">
+<text>Strelok, požuri. Premeštanje je još aktivno. Pogledaj kartu i brzo napreduj, ubrzo će se zatvoriti. Ako se to dogodi - ostaćeš ovde zauvek. Kako preći preko - poslali su grupu ubojica. Čućemo se posle.</text>
+</string>
+<string id="sms_zlobnomu_rasstrel6">
+<text>Aktiviran teleporter kod ATP. Vreme - 2 minute.</text>
+</string>
+<string id="sms_zlobnomu_rasstrel7">
+<text>Teleporter na teritoriji ATP, nakon grupe je deaktiviran.</text>
+</string>
+<string id="sms_agro_tainik_norman">
+<text>Hej, Strelok, jesi živ? Čuvaj koordinate teleportera u tajnosti. Negde je u agrikulturnom postrojenju... Sa uređajem kojeg sam ti dao, i sa ovim koordinatama lako ćeš pronaći a teleporter. A onda ćeš u tajnoj pregradi naći ono šta trebaš.</text>
+</string>
+<string id="sms_k_normany1">
+<text>Norman, zdravo. Po mojem mišljenju, sve je odrađeno sa štekovima i prelazima. Samo gde ga je skrio? Dugo živim u ovom području, ali nisam znao...</text>
+</string>
+<string id="sms_k_normany2">
+<text>Ovo je skrovište mojih bivših saboraca. Izgleda kao kontroler, ali je ipak dobio više od mene - bio je delimično paralizovan... Ne znam da li je uopšte bio živ... Moraš nabaviti bolje oružje - koliko ja znam, kod teleportera u podrumu Limanska će ti uzeti oružje. Prat teleporter - moguće je. I najvažnije - uzni kamuflažnu jaknu, i ništa baš upadljivo tipa abnormalne M-16, ali više novca... Kako ćeš se vratiti - pronađi Parfemdžiju - obeležio sam ti na karti gde ćeš ga naći. Pripremi se na neugodna iznenađenja - nije protrebno da čekaš grupu iz Poslednjeg Dana.</text>
+</string>
+<string id="sms_dcity_otvet_ok_obmor1">
+<text>Hej, Obmorok, mafijo jedna... Vratio sam se i otvorio prelaz, kao što sam i obećao. Možete nestati iz grada...</text>
+</string>
+<string id="sms_dcity_otvet_ok_obmor2">
+<text>Pojedinačne vesti. Iskoristićemo prednost tvoje uslige. Ali - malo kasnije.</text>
+</string>
+<string id="sms_dcity_otvet_ok_obmor3">
+<text>Strelok. Izvini što te ometam u poslu. Da li išta znaš o mojoj ženi?</text>
+</string>
+<string id="sms_dcity_otvet_ok_obmor4">
+<text>Ne, profesore - još ništa. Video sam da se helikopter srušio na samoj granici teritorije ali je bio prazan. Još tražim neke tragove. Možda ih nađem u gradu. Ako išta nađem - javim.</text>
+</string>
+<string id="sms_dcity_duda_zvonok1">
+<text>Hej, Duda, stari krokodilu. Ovde Parfemdžija, ako me se sećaš. Čujem da si na brdu... Ali mislim da je to pogrešno. Postoji li način da se brdo zaobiđe, da sasečemo Mehur i siđemo na cestu? Bez ikakvog ulizivanja. Šta misliš?</text>
+</string>
+<string id="sms_dcity_duda_zvonok2">
+<text>A ti si, ljubitelju kolonjske vode... Koji put? Da ovo nije opet neki test?</text>
+</string>
+<string id="sms_dcity_duda_zvonok3">
+<text>Tačka u gradu miriše na prženje. Prelaz je otvoren. A prava ljutibaba ga je otvorila - jako ljuta. Pre ili kasnije će pronaći način da uskomeša stršljenovo gnezdo ovde. Nema uopšte razlike da li će taj vaš talac kojeg štitite biti živ ili mrtav. Dok, počuj, taj dečko me nežno upitao koliko imate Mehura. Prevrnuće sve odavde do pakla... Ali - to neće potrajati dugo - možda se i predomisli. Samo kažem - ne naređujte iz Komsomol ... Pavlik Morozov trnutno nije interesantan, jedino za nekrofiliju.</text>
+</string>
+<string id="sms_dcity_duda_zvonok4">
+<text>Izgleda da i ti imaš tajnu nameru... Pa - polaznicima će trebati nekoliko stotina hiljada. Koliko tačno - odlučiću na ličnom sastanku - dolazim - u kući sam sa tubovima - bivša škola - na drugom spratu. Zaštita je privremeno skinuta, upozorenje borcima... PRISTUP - DVORIŠTE DO NEVIĐENOG MESTA. To da ostanu na trgu nije samo taština, nijdena druga stranke ne može ući. Pa ako uđe, Mehur će se pozabaviti s njim - slobodno neka ponesu i grobni venac - jer to će im i grob biti.</text>
+</string>
+<string id="sms_dcity_iskra_zvonok1">
+<text>Zdravo Iskro (Spark). Znam da je glupo ovo što radim ali to nam je zadnja šansa... Isključi sigurnosni sistem.</text>
+</string>
+<string id="sms_dcity_iskra_zvonok2">
+<text>Zdravo. Zamolio sam te da ne komuniciraš ovako... Znaš da ako onesposobim zaštitu, da će za 5 minuta znati ko je to učinio. I šta onda - nadam se da ti ne moram objašnjavati da je već prošao školu...</text>
+</string>
+<string id="sms_dcity_iskra_zvonok3">
+<text>Moramo preuzeti taj rizik. Samo to uradi. Druge šanse neće biti. Dolazim po tebe, devojčice.</text>
+</string>
+<string id="sms_otkl_zona1">
+<text>Parfemdžijo - nakon nekoliko minuta zaštita će biti onemogućena. Sretno... Nakon alarma čisto sumnjam da će me ostaviti živa... Već sam pripremio pismo za tebe...</text>
+</string>
+<string id="sms_otkl_zona2">
+<text>Iskro (Spark), kakve su to tužne misli... Beži odatle!</text>
+</string>
+<string id="sms_otkl_zona3">
+<text>Da, znao sam da će sve to loše završiti... Krenuo sam kroz podzemnu železnicu u nepoznatom smeru...</text>
+</string>
+<string id="sms_otkl_zona4">
+<text>Strelok, gde si tamo?? Molim te - raznesi to sedište - izgleda da će stvari biti samo gore... Pronađi ga... Ja ću uskoro biti tamo...</text>
+</string>
+<string id="sms_otkl_zona5">
+<text>Sedište nije prioritet - a ti još kasniš. Čekam te u zgradi preko puta sedišta - na drugom spratu. Ako uspeš doći.</text>
+</string>
+<string id="sms_vylozhit_oruzhie">
+<text>Prvo zaštiti teleporter. U svrhu zaštite - ostavi svo automatsko, snajpersko i anomalno oružje, lako i poluautomatsko oružje, velikokalibarsko oružje, optičke nišane, ručne teleportere i druge načine teleportacije, sve ostavi u sef koji ti se nalazi iza leđa. Inače će ih zaštitni sistem trajno obrisati.</text>
+</string>
+<string id="sms_remen_dialog1">
+<text>Hej, Strelok! Nemoj se stiditi, baci oružje i priđi, ne grizem. Ali se ne približavaj puno - volim da te imam celog na oku.</text>
+</string>
+<string id="sms_remen_dialog2">
+<text>Prestao sam biti stidljiv još u drugom razredu osnovne škole... Video sam te na paradi - lepa trakica... Rekao sam mu... Drago mi je da smo i to otvorili nakon... Nakon tog premlaćivanja... Ali mislim da ovaj slučaj neće biti ograničen.</text>
+</string>
+<string id="sms_remen_dialog3">
+<text>Ha-ha. Pa nisi ti samo naivan, još si i seksi šaljivdžija. Srešćemo se opet, ali u stvari - ja uopšte nisam ovde. Pokvario si nam planove, ali ovo mesto - u ovom gradu nema ništa zanimljivo. Ali ipak ovo je naš grad - iako beskoristan. Moji ljudi će se vrati i neće nikom dati mira - zapamti to. Ne pokušavaj da tražiš nešto - čekamo te a i većina najvrednijih stvari je već odnešena...</text>
+</string>
+<string id="sms_remen_dialog4">
+<text>Rođen sam kao tragač. A te obmane i taj terorizam neću tolerisati. Zato se spremi - dolazim po tebe...</text>
+</string>
+<string id="sms_remen_dialog5">
+<text>I ne pokušavaj. Moji ljudi su pogrešili sa tvojim Doktorom, ali ja sam time stekao iskustvo, ha-ha-ha ... Imam nekog koga ti želiš - zar ne... Ali ti voliš pomagati ljudima, jel' tako? Iskro (Spark) - ovaj izdajica, verujem... Ona će umreti ako ne zaustaviš njihove naivne pokušaje da nas pronađu. Ovaj razgovor je završen. Zbogom.</text>
+</string>
+<string id="sms_remen_dialog6">
+<text>Strelok, moramo pronaći belešku u sedištu od Iskre (Sparks)... Možda sadrži važne informacije.</text>
+</string>
+<string id="sms_otkr_perex_zaton1">
+<text>Hej, Parfemdžijo, požuri... Izgleda da je ovde teleporter... Vidimo se nakon teleportacije.</text>
+</string>
+<string id="sms_otkr_perex_zaton2">
+<text>Hej, ljudi! S vama sam! Nemam više šta raditi ovde.</text>
+</string>
+<string id="sms_nashel_listok1">
+<text>Izgleda da sam pronašao belešku... Vladimir Iljič je u stanju da čuva tajne...</text>
+</string>
+<string id="sms_nashel_listok2">
+<text>Strelok, koji Lenjin??? Bio sam na ulazu u sedište, vidimo se.</text>
+</string>
+<string id="sms_operator_babki_otdat">
+<text>Dragi korisnici lokalne mreže! Vaš pružalac usluga vas obaveštava da će zbog modernizacije opreme sa svakog računa korisnika biti skinuto 3000 Ru.</text>
+</string>
+<string id="sms_operator_babki_otdat1">
+<text>Lopovi... Ovo smrdi na Djuti!</text>
+</string>
+<string id="sms_operator_babki_otdat2">
+<text>EH!!!! Nemam novca ni za džeparac!!!</text>
+</string>
+<string id="sms_operator_babki_otdat3">
+<text>Prazna kutija...</text>
+</string>
+<string id="sms_operator_babki_otdat4">
+<text>3,000 Ru je skinuto sa vašeg računa. Hvala na razumevanju i saradnji.</text>
+</string>
+<string id="sms_bland">
+<text>Hej, neutralac! Vidim da imate strašnu obleku! Za stepenice što ste se popeli, prosečna osoba, čak ni sa malim rancem ne bi se uspela popeti. Za fleš ovde? A ko je nju cinkario i okupljanje? Čekaj me na najvišoj razini.</text>
+</string>
+<string id="sms_bland_1">
+<text>\n .... Hej, neutralac! Vidim da si nešto zamišljen... Verovatno ideš meni... Čekaj me na najvišoj razini.</text>
+</string>
+<string id="sms_sborr">
+<text>Hej, ljudi! Ko je ostao živ... Vreme je da se krene. Idemo na pumpu.</text>
+</string>
+<string id="sms_nachalnik_zvonok_1">
+<text>Hej, pazi! O tvom neutralnom odelu - preskočićemo to, kao što smo se dogovorili. Neka bude donacija gladnima. Jednom - možeš napustiti položaj.</text>
+</string>
+<string id="sms_nachalnik_zvonok_2">
+<text>Ok, šefe...</text>
+</string>
+<string id="spot_boloto_provodnik">
+<text>Orijentacija prelaza u selu</text>
+</string>
+<string id="spot_esc_trupak_antenna">
+<text>Orijentacija signala PSI-antene</text>
+</string>
+<string id="sms_boloto_provod_vstrecha">
+<text>Pantera, osećaj se slobodno. Idem na sastanak s njim. Mogu i tebi dogovoriti da se nađeš s njim. Dobaci koordinate.</text>
+</string>
+<string id="sms_village_kap_pda">
+<text>Pa gde si ti? Vidi, sada nije vreme da ležiš na jajima. Treba mi samo devojka, njen drugi brat će sigurno potonuti zajedno sa svojim nasilnicima. Ovaj idiot Strelok se lako ne predaje... Ipak, naređenje je da devojka bude naša. On ima prolaznu ulogu.</text>
+</string>
+<string id="sms_village_kap_pda2">
+<text>Već je odletela. Razumem. Devojka je već u zemlji. Nako ove operacije s tobom sledi dvostruka isplata.</text>
+</string>
+<string id="sms_village_kap_pda3">
+<text>Isplata? Sranje, odradio si ono zašto si već plaćen u poptunosti. Još pre javljanja.</text>
+</string>
+<string id="sms_voronin_samopisez_done">
+<text>Fang, zdravo. Sve je ok, dolazim do tebe. Moram na helikopter, Muva.</text>
+</string>
+<string id="sms_gen_zone_emi1">
+<text>Anomalna zona deaktivirana.</text>
+</string>
+<string id="spot_kluk_chaes2">
+<text>Fang mora biti ovde negde.</text>
+</string>
+<string id="sms_priz_pamt">
+<text>Duh, zdravo. Imaju neke novosti... Šaljem ti Panteru - pazi na devojku - malo je smušena. Moram brzo kroz NEP2 - Fang me čeka.</text>
+</string>
+<string id="sms_hosp_taik_new_art">
+<text>Nekoliko artefakata je promenilo svoja svojstva.</text>
+</string>
+<string id="sms_del_baza_doza_timer">
+<text>Smrtonosna obrambena zona baze je deaktivirana.</text>
+</string>
+<string id="sms_del_podstanziy_doza_timer">
+<text>Smrtonosna zona zaštite trafostanice baze je deaktivirana.</text>
+</string>
+<string id="sms_delete_dt_zone_zvuk">
+<text>Videokaseta pronađena.</text>
+</string>
+<string id="sms_delete_blok_and_restr">
+<text>Teleporter, poluga zaključavanje je onemogućena.</text>
+</string>
+<string id="spot_city_parfumer">
+<text>Poslednja poznata lokacija stalkera.</text>
+</string>
+<string id="spot_city_norman">
+<text>Približan položaj Crne farme.</text>
+</string>
+<string id="spot_owl_group">
+<text>Sovina grupa</text>
+</string>
+<string id="sms_transmutat_bezoar">
+<text>bezoar neophodan</text>
+</string>
+<string id="sms_transmutat_fail">
+<text>Nema dovoljno komponenti za obavljanje transmutacije</text>
+</string>
+<string id="sms_look_elsewhere">
+<text>Potraži negdje drugo</text>
+</string>
+<string id="sms_msg_uploaded">
+<text>Potraži put... poruka učitana...  Možeš ga pronaći.</text>
+</string>
+<string id="sms_water_tower">
+<text>Obeleženi, idi u Jantar i razgovaraj sa Kruglovim... On možda zna gde je Duhov dnevnik.</text>
+</string>
+<string id="sms_shadows_speech">
+<text>Budi na straži... Može se pojaviti u svakom trenutku...</text>
+</string>
+
+<!-- OGSE style companions -->
+<string id="sms_your_companion">
+<text>Tvoj drug</text>
+</string>
+<string id="sms_companion_dead">
+<text>je mrtav!</text>
+</string>
+<string id="sms_companion_dead_2">
+<text>je također mrtav. Tvoja reputacija među stalkerima je pogoršana!</text>
+</string>
+<string id="sms_is_enemy">
+<text>je postao tvoj neprijatelj!</text>
+</string>
+
+<string id="sms_no_info">
+<text>Nema informacija [</text>
+</string>
+<string id="sms_cook_arts">
+<text>kuvanje artefakata</text>
+</string>
+<string id="sms_minigun">
+<text>Minigun</text>
+</string>
+<string id="sms_repbox">
+<text>Alat za popravku</text>
+</string>
+<string id="sms_teleport_released">
+<text>Teleporter oslobođen</text>
+</string>
+<string id="sms_cache_unlocked">
+<text>Otključan</text>
+</string>
+
+<!-- eprip apartment -->
+<string id="sms_x8_doc1">
+<text>Idem do stana, Senka i Pavel su bili tamo, ali nema Kocke. Ali sam našao interesantnu beležnicu o noći kada se desio incident... Očito da se naš prijatelj ponovo vratio u laboratoriju nakon što se sve to izdešavalo. Nije se vratio...\nUsput.. Ima nešto čudno, zadnji upis se stalno ponavlja...\nŠta ti misliš?</text>
+</string>
+
+<string id="sms_x8_doc2">
+<text>Mislim da je to... Beži odatle. U nevolji smo... Naš zadnji razgovor je prisluškivan. A možda još neko zna za Kocku... Možda onaj koji je dopustio da me savetuješ...\nUkratko, istočni deo Pripjata je okupiran od jednog odreda Plaćenika. Oni znaju šta tražiš u stanu...\nMoramo ih naterati da poveruju u nešto drugo. Izbegavaj ih! Pokušaj im podvaliti lažnu informaciju kroz stalkersku mrežu...\nPokušaj preko čata kroz PDA: "Na prodaju Kocka koja je pripadala Senki. U Kodonu oko perimetra, u 8sati".\nNapiši tačno ovako kako sam ja tebi napisao, možda pomisle da si već pronašao Kocku... Pokušaj.</text>
+</string>
+
+<string id="sms_shadows_cube1">
+<text>Odlično! Upecali su se... Sada neka te čekaju na kraju Zone. Hehe... Pa dobro... Šta je bilo u stanu, samo Pavelova beležnica?</text>
+</string>
+
+<string id="sms_shadows_cube2">
+<text>Treba da pronađeš neke lokalne stalkere, pokušaj u staroj praonici rublja, nekada je to bila stanica. Oni bi mogli znati o laboratoriji...</text>
+</string>
+
+<string id="sms_companion_sig_found">
+<text>Signal PDA od vašeg prijatelja je pronađen.</text>
+</string>
+<string id="sms_companion_sig_proximity">
+<text>je u blizini!</text>
+</string>
+
+<string id="sms_sak_cube">
+<text>Senkkaa..  shplb.  Kockaa Duššš je..   Sssssssnnnnt..   Sst...</text>
+</string>
+
+<!-- harsh environment -->
+<string id="harsh_environment_title">
+<text>UPOZORENJE OKOLINE</text>
+</string>
+
+<string id="harsh_environment_msg">
+<text>Nalazite se u području sa opasno visokom razinom radijacije, smesta napustite područje!</text>
+</string>
+
+<!-- Moved duplicated "hunt_part2_message" string id in to the "valerich_stable.xml" file - aleks1970 -->
+
+</string_table>
+	<!-- Preveo i prilagodio Flexerca - 31.03.2015 - 14.33 -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:55 -sadd -->

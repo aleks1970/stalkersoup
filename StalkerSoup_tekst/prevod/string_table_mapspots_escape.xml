@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="blokpost_case">
+		<text>Aktovka sa dokumentima</text>
+	</string>
+	<string id="esc_fox">
+		<text>Povređeni Lisac.</text>
+	</string>
+	<string id="esc_mill">
+		<text>Napušteni mlin</text>
+	</string>
+	<string id="escape_trader">
+		<text>Trgovac.</text>
+	</string>
+	<string id="factory_bandits">
+		<text>Banditi u fabrici.</text>
+	</string>
+	<string id="killers_team">
+		<text>Nepoznata grupa Plaćenika.</text>
+	</string>
+	<string id="novice_leader">
+		<text>Vođa kampa početnika.</text>
+	</string>
+	<string id="soldiers_bridge">
+		<text>Vojni punkt kod razorenog mosta; za bezbedan prolaz ispod mosta uzeće mito uključujući i vodku</text>
+	</string>
+	<string id="tutorial_artefact">
+		<text>Artefakt.</text>
+	</string>
+	<string id="tutorial_bandits">
+		<text>Bandits</text>
+	</string>
+	<string id="tutorial_secret">
+		<text>Skriveno mesto napušteno od strane mrtvog s.t.a.l.k.e.r.-a</text>
+	</string>
+	<string id="tutorial_secret_place1">
+		<text>Skriveno mesto koje je napustio izgubljeni s.t.a.l.k.e.r.</text>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<text>Nimbelov sandučić.</text>
+	</string>
+	<string id="tutorial_wounded">
+		<text>Nimble</text>
+	</string>
+	<string id="volk">
+		<text>Vuk, vođa kampa početnika.</text>
+	</string>
+	<string id="wolfs_rangers">
+		<text>Vukovi izviđači.</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:14 -sadd -->

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 bad psi helmet, removed "string_table" - aleks1970  -->
+
+	<string id="item test1">
+		<text>Ovo je jedan ITEM test string</text>
+	</string>
+	<string id="item test2">
+		<text>Ovo je još jedan ITEM test string</text>
+	</string>
+	<string id="item_case_esc_desc">
+		<text>Vatrostalna aktovka sa dokumentima.</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>Nešto nalik moćnom elektronskom kalauzu. Izgleda da je napravljen za "lomljenje" specifičnih elektronskih brava. I pored neobičnog dizajna nema univerzalna svojstva. Napravljen je za određene tipove elektonskih brava i ne može se koristiti za druge vrste kodova</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Dekoder</text>
+	</string>
+	<string id="item_detector_yantar_desc">
+		<text>Detektor PSI-Emisije</text>
+	</string>
+	<string id="item_detector_yantar_name">
+		<text>PP-4a senzor</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>Plastična facikla sa dokumentima. Bez određenog stepena predznanja iz Biologije, nećete razumeti ni jednu reč iz njih.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Dokumenti iz X16 Laboratorije</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>Ogromna gomila naučnih dokumenata. Sadrži čudnu terminologiju, kompleksne formule i brojne neobične dijagrame</text>
+	</string>
+	<string id="item_doc_x18p1_name">
+		<text>Dokumenti iz Laboratorije X18, 1. dio</text>
+	</string>
+	<string id="item_doc_x18p2_name">
+		<text>Dokumenti iz Laboratorije X18, 2. dio</text>
+	</string>
+	<string id="item_doc_x18p3_name">
+		<text>Dokumenti iz Laboratorije X18, 3. dio</text>
+	</string>
+	<string id="item_doc_x18p4_name">
+		<text>Dokumenti iz Laboratorije X18, 4. dio</text>
+	</string>
+	<string id="item_doc_x18p5_name">
+		<text>Dokumenti iz Laboratorije X18, 5. dio</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Izbledeli rukopis u kožnom povezu. Napisao lično Strelok. Sudeći po naslovima, u njemu se otkrivaju neke tajne Zone</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>Dokumenti iz tajnog skrovišta u Pripjatu</text>
+	</string>
+	<string id="item_dynamite_esc_desc">
+		<text>Teški drveni sanduk sa natpisom "Eksploziv" na više jezika</text>
+	</string>
+	<string id="item_dynamite_esc_name">
+		<text>Sanduk eksploziva</text>
+	</string>
+	<string id="item_flash_crazy_mil_desc">
+		<text>USB Fleš drajv - zgodan uređaj za čuvanje i prenos informacija.</text>
+	</string>
+	<string id="item_flash_crazy_mil_name">
+		<text>Fleš drajv Ludog stalkera</text>
+	</string>
+	<string id="item_flash_eco_rost_desc">
+		<text>Encrypted USB Flash-drive</text>
+	</string>
+	<string id="item_flash_eco_rost_name">
+		<text>Fleš drajv Profesora Kruglova</text>
+	</string>
+	<string id="item_flash_esc_desc">
+		<text>pomalo oštećen USB Fleš-drajv</text>
+	</string>
+	<string id="item_flash_esc_name">
+		<text>USB Fleš-drajv od Brzog</text>
+	</string>
+	<string id="item_flash_gslinger_agro_desc">
+		<text>Moćno kodiran USB Fleš-drajv</text>
+	</string>
+	<string id="item_flash_gslinger_agro_name">
+		<text>Strelokov fleš drajv</text>
+	</string>
+	<string id="item_key_x18_desc">
+		<text>Elektronski ključ za podzemnu Laboratoriju X18.</text>
+	</string>
+	<string id="item_key_x18_name">
+		<text>Ključ Borova</text>
+	</string>
+	<string id="item_krot_flash">
+		<text>Krtičin USB Flash-Drive</text>
+	</string>
+<!-- moved string id: "item_PDA_lucky_desc", "item_PDA_lucky_name", "item_PDA_tiran_desc" and "item_PDA_tiran_name" in to the "string_table_general.xml" file -aleks1970 -->
+<!-- moved string id: "item_quest_case_02_desc", "item_quest_case_02_name" and "item_case_esc_name" in to the "sak_strings.xml" file -aleks1970 -->
+	<string id="yan_bad_psy_helmet_desc">
+		<text>Prototip razvijen od strane Naučnika za zaštitu nosioca od Psi-Emisija srednjeg inteziteta .. Potrebno ga je propisno kalibrisati za propisnu upotrebu kroz Zonu...</text>
+	</string>
+	<string id="yan_bad_psy_helmet_name">
+		<text>Nefunkcionalan PSI-šlem.</text>
+	</string>
+	<string id="yan_good_psy_helmet_desc">
+		<text>Prototip razvijen od strane Naučnika za zaštitu od Psi-Emisija. Ovaj prototip je podešen na osnovu poslednjih merenja nivoa Psi aktivnoti u okviru lokalnog područja, pa zbog toga funkcioniše sa svojim optimalnim operacionim potencijalom...</text>
+	</string>
+	<string id="yan_good_psy_helmet_name">
+		<text>Funkcionalan PSI-šlem</text>
+	</string>
+	<string id="documents">
+		<text>Informacija o Teleportima</text>
+	</string>
+	<string id="teleport_document">
+		<text>Pre nego što budeš u stanju da uspešno upotrebljavaš ručni uređaj za teleportaciju, biće ti potreban artefakt Mesečina. Baci uređaj na zemlju ispred sebe... tranziciona tačka će biti kreirana. Uređaj je za jednokratnu upotrebu, zato budi pažljiv.\nSklonište u Deponiji je najbolja solucija, pošto je udaljeno... tajno. Tamo je jedino moguće doći kroz baru na Deponiji...</text>
+	</string>
+	<string id="information">
+		<text>Saharov kaže da može napraviti uređaj za teleportaciju uz pomoć informacije pronađene u dokumentima iz Laboratorije. Da bi bio u stanju da ga napravi, potreban mu je artefakt "Baterija" i najmanje 10,000 rubalja...</text>
+	</string>
+	<string id="info_1">
+		<text>Pozdrav, Strelok .. tvoj stari prijatelj, Duh (Ghost) je ovde ..Re-kalibrisao sam ulaznu sekvencu u naše Sklonište, zato nemoj biti u panici .. Novi Ulaz se takođe može pronaći ovde u Podzemlju .. Verujem da nećeš imati problema da ga pronađeš .. pametan si momak, nakon svega!!! \nP.S. Uređaj za uklanjanje Teleporta je na sigurnom i sakriven u našem Skloništu...</text>
+	</string>
+<!-- Preveo i prilagodio Coolkingeye -=- 0:33 19.08.2014 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:41 -sadd -->

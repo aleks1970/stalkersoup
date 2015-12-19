@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 fixed for proper filename generation-->
+	<string id="sar_monolith">
+		<text>Ispunitelj Želja</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Stigni do Monolita</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Ušunjaj se u sarkofag</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Pronađi Ispunitelja Želja</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Tajna Monolita.</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Uđi u tajnu laboratoriju.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Otkrij tajnu Monolita</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Uništi agregate Monolita.</text>
+	</string>
+	<string id="sar_perception">
+		<text>Tajna Zone.</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Otkrij ko stoji iza Monolita.</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Nađi tajnu laboratoriju i sretni se sa "lutkarima".</text>
+	</string>
+	<string id="sar_secret_lab">
+		<text>Tajna laboratorija</text>
+	</string>
+	<string id="sar_secret_lab_0">
+		<text>Uđi u tajni bunker.</text>
+	</string>
+	<string id="sar_secret_lab_1">
+		<text>Nađi skrivena vrata.</text>
+	</string>
+	<string id="sar_secret_lab_2">
+		<text>Otvori vrata uz pomoć dekodera</text>
+	</string>
+	<string id="sar_secret_lab_3">
+		<text>Vidi šta se nalazi iza tih vrata.</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:55 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:24 -sadd -->

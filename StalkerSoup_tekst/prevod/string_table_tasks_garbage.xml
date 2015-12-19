@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="gar_car_graveyard_quest">
+		<text>Odgovori na poziv za pomoć</text>
+	</string>
+	<string id="gar_defend_garbage">
+		<text>Odbiti napad Bandita</text>
+	</string>
+	<string id="gar_dialog_hellcar">
+		<text>Ponudi pomoć vođi Neutralaca.</text>
+	</string>
+	<string id="gar_dialog_hellcar_1">
+		<text>Ponudi pomoć Besu.</text>
+	</string>
+	<string id="gar_hellcar_alive">
+		<text>Razgovaraj sa Besom.</text>
+	</string>
+	<string id="gar_help_dymon">
+		<text>Odbij napad Bandita.</text>
+	</string>
+	<string id="gar_help_tunnel_newbie">
+		<text>Pomozi početniku sa vodkom</text>
+	</string>
+	<string id="gar_kill_bandits">
+		<text>Uništi napad Bandita</text>
+	</string>
+	<string id="gar_kill_boars">
+		<text>Pomozi kontrolnom punktu Djutija</text>
+	</string>
+	<string id="gar_kill_boars_1">
+		<text>Pobij veprove.</text>
+	</string>
+	<string id="gar_kill_boars_2">
+		<text>Popričaj sa komandirom koji komanduje punktom</text>
+	</string>
+	<string id="gar_kill_boars_descr">
+		<text>Za Sve!!! .. Dođite kod punkta Djutija u Deponiji. Nailazi krdo Divljih Veprina iz pravca Mračne Doline ... kreću se brzo!!! Svako ko nam pomogne da odbijemo napad i uništimo ove štetočine, mi ćemo lepo nagraditi ...  pa, molim!!!  Pomozite nam ... ODMAH!!!</text>
+	</string>
+	<string id="gar_kill_boars_main">
+		<text>Pomozi frakciji Djutija i eliminiši veprine</text>
+	</string>
+	<string id="garbage_meet_stalker_1">
+		<text>Saznaj šta Serli zna o Streloku</text>
+	</string>
+	<string id="graveyard_raid_text">
+		<text>Bes: Ta banditska kopilad ponovo pokušavaju da preuzmu kontrolu nad Deponijom. Pre oko pola sata su nas napali. Uspeli smo ubijemo trojcu od tih spodoba. Neki od mojih ljudi su otišli po pojačanje. Nije nas dovoljno ostalo, a svakako bi nam pomoć dobrodošla. Ako se budeš borio uz nas, brate ... Lično ću se postarati da budeš nagrađen za to ...</text>
+	</string>
+	<string id="help_for_neitrals_text">
+		<text>Kod groblja mašina, odigrava se užasna bitka između neutralaca i bandita. Uskoro će doći do novog napada, a neutralcima je potrebna svaka pomoć koja je moguća ...</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:50 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:27 -sadd -->

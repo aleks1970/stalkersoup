@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--1.0.9.9.9.8 -->
+	<string id="bar_darklab_documents_txt">
+		<text>Barmen: Prema dokumetnima koje si doneo iz "Agroproma" stvari počinji da se razjašnjavaju, ali neki podaci nedostaju. Postoje informacije o "Spaljivaču mozgova", koji blokira put ka severu, ali niko ne zna šta je to tačno. Također, tu se pominje Laboratorija X-18, čiji opis se poklapa sa napuštenim podzemnim objektom u Mračnoj Dolini. Šta se tamo trenutno radi, nepoznato je, osim toga, u Mračnoj Dolinu su Banditi uspostvili svoju bazu.\nNekoliko izviđaca iz Djutija je nedavno otišlo tamo, zasad nikakvih vesti nemamo od njih.\nDa bi ušao u laboratoriju, potreban su dva elektronska ključa, ja ću ti dati jedan, ali ćeš drugi morati da uzmeš od Borova, vođe Bandita.\n \nDakle, moraš uzeti drugi ključ od Borova, neopaženo se uvući u laboratorij i uzmeti dokumente</text>
+	</string>
+	<string id="bar_darklab_documents2_txt">
+		<text>Neophodno je da pronađeš dokumenta o istraživanjima u laboratoriji X-18. Oni mogu baciti svetlo na problem "Spaljivača Mozgova".</text>
+	</string>
+	<string id="dar_codedoor_1_txt">
+		<text>Kodirana brava blokira put u dubinu laboratorije. Moraš pronaći nekog ko zna šifru brave.</text>
+	</string>
+	<string id="dar_codedoor_2_txt">
+		<text>Još jedna vrata, a tu je svakako nešto iza njih. Moraš pronaći šifru koja otvara vrata.</text>
+	</string>
+	<string id="dar_document1">
+		<text>Početak eksperimenta</text>
+	</string>
+	<string id="dar_document2">
+		<text>Druga faza eksperimenta</text>
+	</string>
+	<string id="dar_document3">
+		<text>Izveštaj osiguranja</text>
+	</string>
+	<string id="dar_document4">
+		<text>Napad na osoblje</text>
+	</string>
+	<string id="dar_document5">
+		<text>Poslednja faza eksperimenta</text>
+	</string>
+	<string id="documents_1">
+		<text>Pre nedelju dana je odlučeno da se poveća intenzitet zračenja nad subjektima testa. Nisu primećene promene u prvih nekoliko dana. Nakon nekoliko dana su počele da se javljaju čudne metamorfoze: opadanje kose i povećana agresivnost. Nekoliko subjekata je bukvalno na smrt pregazilo ostale srodnike.</text>
+	</string>
+	<string id="documents_2">
+		<text>Stanje subjekata testa stabilizovano. Količina kose je 10% od originalne količine. Zubi su im znatno porasli. Eksplozivne aktivnosti pokazuju naizgled nasumično ponašanje, koje nije usmereno na svoje srodnike. Viši laboratorijski tehničar A.N.Burnov smatra da ovo ukazuje na povećanje inteligencije subjekta. Odlučeno je da se nad subjektima testa primeni PSI-emisija novih modulacija</text>
+	</string>
+	<string id="documents_3">
+		<text>Šef osiguranja: Jučer je čuvar G.P. Glebov bacio komad mesa među ispitanike, čisto iz zabave. Oni su ga pojeli za nekoliko sekundi. Nekoliko subjekata je pokušalo da pobegne iz ćelije. Zbog ovoga, laboratorijski tehničari nisu bili u mogućnost da dobiju potreben uzorke za analizu. Uprkos tome što je G.P. Glebov postupio nepromišljeno, predlažem da osoblje na održavanju bude naoružano zračnim pištoljima za adekvatnu zaštitu u hitnim slučajevima.</text>
+	</string>
+	<string id="documents_4">
+		<text>Šef osiguranja: Jučer je eksperiment gotovo izmakao kontroli. Dvadesetak ispitanika je pobeglo i demoliralo dve prostorije laboratorije. Srećom, osoblje je uspelo da pobegne i zaključa se na gornjem spratu. Naredili smo da se očisti glavna prostorija laboratorije. Tokom operacije čišćenja laboratorije, trojica čuvara su zadobila ujede. Nadamo se da će sa njima biti sve uredu. Želim da se eksperiment što pre okonča.</text>
+	</string>
+	<string id="documents_5">
+		<text>Jučer smo primenili nove modulacije PSI-emisije na subjekte testa. Utisak je da im je to jednostavno spržilo mozak. Jedva mogu da zamislim kako bi ovo zračenje delovalo na ljude. Ispitali smo sve vrste zračenja i rezultati su saglasni sa onoma iz drugih laobratorija. Eksperiment se sada može smatrati završenim. Mislim da ćemo za nedelju dana biti spremni da izvršimo eksperiment na krupnijim stvorenjima.</text>
+	</string>
+	<string id="LabX18 first key">
+		<text>Pristupna šifra 2. nivoa</text>
+	</string>
+	<string id="LabX18 second key">
+		<text>Pristupna šifra 1. nivoa</text>
+	</string>
+	<string id="LabX18_information">
+		<text>Informacije iz X-18</text>
+	</string>
+	<string id="pass_to_1st_door">
+		<text>Odlično, kolega. Drago mi je što ste dobili pristup 2.nivou. Na kraju ćete saznati čime se bavi naša laboratorija. Tvoja pristupna šifra je 1243. Šef Laboratorije X-18, Pjotr Iljić Kalugin.</text>
+	</string>
+	<string id="pass_to_2nd_door">
+		<text>Dragi kolega, želim da vas podsetim da sutra krenete u obilazak rezervoara u Centralnoj laboratorij. Treba da ih proveravate svakih dva sata. Izveštaj o svemu šaljite lično meni.  Šifra za centralnu laboratoriju je 9524. šef laboratorije X-18, Pjotr Iljić Kalugin.</text>
+	</string>
+	<string id="sl_x18_dream_name">
+		<text>Neobičan san</text>
+	</string>
+	<string id="sl_x18_dream_text">
+		<text>Usnio sam čudan san. Kolosalna Černobilska elektrana izranja u sumraku. Sve izgleda mirno. Pojavljuje se usamljeni čovek. Vidim ga sa leđa, ispred elekrane. Vetar počinje da duva. Iznenada, more pacova počinje da se iz elektrane izliva u svim pravcima. Čovek, okrenut ma meni leđima, puca po pacovima. Odjednom se prolomi krik: "Strelok!". Čovek se trgne, zastane na momenat, i lagano počne da se okreće prema meni, ali...samo trenutak pre nego što sam uspeo da jasno vidim njegovo lice, probudio sam se. Šta ovaj san znači? Ne znam, ali mislim da sam ovo već negde video.</text>
+	</string>
+	<string id="val_captive_help_txt">
+		<text>Član Djutija, Metak, zamolio me je da mu pomognem da oslobodi svog prijatelja kojeg su zarobili Banditi. On uskoro treba da bude spoveden u napuštenu fabriku.</text>
+	</string>
+	<string id="val_prisoner_help_art_txt">
+		<text>Djutijevac: "Oni drže još jednog našeg: Seregu. Drže ga u podrumu...tamo u velikoj zgradi...nije gotov još... Pomozi mu da se izbavi, važi? Ili će s njim da završe čas posla..."</text>
+	</string>
+	<string id="val_x18_conclusion">
+		<text>Laboratorij X18</text>
+	</string>
+	<string id="val_x18_conclusion_txt">
+		<text>Pakao... Laboratorija X18 uopšte nije zabavna...njeni sadašnji stanovnici...nisam mogao ni da zamislim da takva stvorenja mogu da postoje u stvarnosti... Pronašao sam neka dokumenta... Nisam razumeo mnogo toga što je u njima napisano, osim da oni sadrže tehničke specifikacije za neke komponete za Kajmanov emiter. Interesantno je, da su delovi namenjeni za jednu drugu laboratoriju, sa kodnim imenom "Laboratorij X-16" i očigledno je i ona tajna.</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 26.01.2015 - 14.39 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 20:56 -sadd -->

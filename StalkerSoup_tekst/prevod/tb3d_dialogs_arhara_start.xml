@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 lis_doctor_dialog_3 patch to path, The Doctor, naemn_shturm_otbit, something  -->
+<!-- GAME START -->
+<!-- ASTROLOGER -->
+<string_table>
+	<string id="zvezdochet_talk_0">
+		<text>Glava mi se raspada od bolova. Gde sam? Ko si ti?!</text>
+	</string>
+	<string id="zvezdochet_talk_1">
+		<text>Polako, bila je nesreća i imaš sreće što si uopće živ. Pronašao sam te tamo u onoj olupini, sigurno si bio u tom kamionu, Kamionu Smrti!\nObuci ovu kabanicu prije nego te radijacija ubije! Skinuo sam je od jednog mrtvog bandita tamo iza. Da li se uopšte ičeg sećaš?</text>
+	</string>
+	<string id="zvezdochet_talk_2">
+		<text>Kamion Smrti?! Št...a....n...ne, ne sećam se ničega! Šta su, do vraga, Kamioni Smrti i šta sam ja tamo radio!?</text>
+	</string>
+	<string id="zvezdochet_talk_3">
+		<text>To ti ne mogu reći sa sigurnošću, ali nije ništa dobro, uveravam te. Kamioni Smrti su se koristili za prevoz žrtava iz NEP, užasna stvar!\nA šta si tamo radio? E pa to je tvoj problem, ne moj.\nUzmi i ovo, trebaće ti. Sada uzmi prvu pomoć dok ne dođeš do Kampa. Kada dođeš tamo, najbolje ti je da potražiš Doktora!</text>
+	</string>
+	<string id="zvezdochet_talk_4">
+		<text>Doktora? Kojeg Doktora?! Ma ko si ti uopšte!?</text>
+	</string>
+	<string id="zvezdochet_talk_5">
+		<text>Naći ćeš ga u Kampu Početnika, dole iza porušenog mosta. Doktor većinu vremena provodi u podrumu, u radio sobi. On će ti pomoći, samo mu reci da te Astrolog poslao. Razumeće. Reci mu da ću ga čekati odmah iza mosta, on zna mesto. Uradi ovaj jednostavni zadatak za mene i odužiću ti se sledeći put kada se sretnemo. Sada:\nDOBRO SLUŠAJ! Nećeš moći proći pokraj vojne predstraže ispod mosta a da im ne ponudiš nešto zauzvrat. Ne mogu ti dati novac, ali sam sakrio flašu votke i još jednu Prvu pomoć u drvenoj kutiji, odmah tu preko brda u jednoj staroj napuštenoj farmi, idi tamo i uzmi sve. Dobro razgledaj kad si tamo, svašta se može naći. Ali budi oprezan, ovde se stvari pojavljuju iz ničega! Ajde, kreni!</text>
+	</string>
+	<string id="zvezdochet_talk_6">
+		<text>Pokušaću nekako doći do Kampa. Hvala ti na pomoći!!</text>
+	</string>
+	<string id="zvezdochet_talk1_0">
+		<text>Video sam Doktora i preneo mu tvoju poruku. Nešto si prošli put spominjao da ćeš se odužiti za uslugu...</text>
+	</string>
+	<string id="zvezdochet_talk1_1">
+		<text>Jesam. Izvoli, stavi ga za pojas i dobro će ti poslužiti. Daću ti i jedan savet Obeleženi: kloni se ATP-a!! U potpunosti su ga preuzeli Banditi, a ukoliko ne znaš izlaz, zaglavićeš tamo dugo, dugo vremena!</text>
+	</string>
+	<string id="zvezdochet_talk1_2">
+		<text>Hvala.</text>
+	</string>
+	<!-- SWAMP DOCTOR -->
+	<string id="kordon_doctor_dialog_0">
+		<text>Zdravo Obeleženi. Trebaš nešto?</text>
+	</string>
+	<string id="kordon_doctor_dialog_1">
+		<text>Astrolog me uputio do tebe, kaže da mi možeš pomoći. Celo telo me sve više boli a glava mi je kao da je neko s njom zid probijao! Uopšte se ničeg ne sećam. Također me zamolio da vam prenesem da će vas čekati odmah iza porušenog mosta, na starom mestu. Rekao je da ćete vi znati gde. Možete li mi pomoći, molim vas?</text>
+	</string>
+	<string id="kordon_doctor_dialog_2">
+		<text>Kažeš da ne znaš ko si. Pa, ja znam ko si ali je najbolje za mene da sada ništa ne govorim. Vratiće ti se sve s vremenom, videćeš. Evo, popij ovaj lek i idi da spavaš. Kada se probudiš idi do Sidoroviča, lokalnog trgovca. On će te uputiti na put koji tražiš.\nNemoj ni pokušavati da ga vidiš prije nego što popiješ ovaj lek, jednostavno neće hteti da te vidi, još smrdiš na Kamione Smrti! Prvo uzmi lek i odspavaj, a kada se probudiš tek onda idi kod Sidoroviča. Moram da idem da se nađem sa Astrologom. Ugodni snovi, Obeleženi, siguran sam da ćemo se ponovo sresti.</text>
+	</string>
+	<string id="kordon_doctor_dialog_3">
+		<text>Uzeću taj lek. Nadam se da će mi pomoći.</text>
+	</string>
+	<string id="lis_doctor_dialog_0">
+		<text>Drago mi je što vas opet vidim. Onaj lek što ste mi dali, stvarno me oporavio!!</text>
+	</string>
+	<string id="lis_doctor_dialog_1">
+		<text>Već bolje izgledaš. Da li si se setio nečeg o sebi?</text>
+	</string>
+	<string id="lis_doctor_dialog_2">
+		<text>Ništa, baš ništa. Kada sam uzeo lek, zaspao sam i sanjao da sam na nekom užasnom mestu, u nekoj pećini punoj strašnih stvorenja, mutanata!! Na kraju sam sreo jednog čoveka, doktora, kao što ste vi. Bio je vrlo čudan. Imao je još dva pratioca sa sobom. Nisu puno pričali. Dao mi je nešto slično onom što ste mi vi dali, to me vratilo u stvarnost. Mada se još uvek ničeg ne sećam.</text>
+	</string>
+	<string id="lis_doctor_dialog_3">
+		<text>Budi strpljiv, vratiće ti se sve. Moraš da pratiš put koji je položen ispred tebe. Ja idem prema severu sa Astrologom, siguran sam da će nam se jednog dana putevi ponovo ukrstiti.</text>
+	</string>
+	<string id="lis_doctor_dialog_4">
+		<text>Moram saznati istinu, a da to uradim moram nabaviti neko bolje oružje i pancir.</text>
+	</string>
+	<!-- BLAND FLASH-DRIVE -->
+	<string id="bland_say_norma_0">
+		<text>Vrlo impresivno, stalkeru!!! Uspeo si da ih sve sam poskidaš, iako su bolje naoružani i opremljeni! Nemoj ni pretpostavljati da su to bili moji ljudi, jer nisu!!! Pretpostavljam da si tu zbog fleš drajva? Baš me zanima ko me otkucao ovaj put?</text>
+	</string>
+	<string id="bland_say_norma_1">
+		<text>Pa čiji su onda ako nisu tvoji? I da, tu sam zbog fleš drajva i ne nameravam otići dok ga ne dobijem!</text>
+	</string>
+	<string id="bland_say_norma_2">
+		<text>To su bili Plaćenici! Moja pripadnost je, pa ajmo reći, komplicirana. To ne treba da te zanima. Imaš li ideju šta bi moglo biti na ovom fleš drajvu?! Ne? Mislio sam ga prodati za neki sitniš, jer sadrži samo neko beskorisno smeće. U stvari, ceo ovaj sastanak je bio varka!\nNe trudi se postavljati pitanja, jer ti sada ne mogu odgovoriti. Dakle, ovako stoje stvari... Daću ti fleš drajv za 50,000ru pa ćemo se razići kao ljudi. U suprotnom, moraćeš me ubiti, što ti baš ne preporučujem, jer će nas u budućnosti, možda, sudbina opet spojiti i obojica možemo imati koristi od toga.</text>
+	</string>
+	<string id="bland_say_norma_3">
+		<text>Govoriš u zagonetkama, ali pošto mi taj fleš stvarno treba, voljan sam platiti za njega. Evo ti novac.</text>
+	</string>
+	<string id="bland_say_norma_4">
+		<text>Napravio si dobar izbor. Sada moram da idem, videćemo se opet.</text>
+	</string>
+	<string id="bland_say_norma_5">
+		<text>Jedva čekam! Vidimo se.</text>
+	</string>
+	<string id="bland_say_norma_6">
+		<text>Mislim da si me s nekim zamenio, pripremi se da upoznaš svog tvorca, majku ti tvoju...!!!</text>
+	</string>
+	<string id="bland_say_lapti_0">
+		<text>Pa čiji su onda ako nisu tvoji? I da, tu sam zbog fleš drajva i ne nameravam otići dok ga ne dobijem.</text>
+	</string>
+	<string id="bland_say_lapti_1">
+		<text>To su bili Plaćenici! Moja pripadnost je, pa ajmo reći, komplicirana. To ne treba da te zanima. Imaš li ideju šta bi moglo biti na ovom fleš drajvu?! Ne? Mislio sam ga prodati za neki sitniš, jer sadrži samo neko beskorisno smeće. U stvari, ceo ovaj sastanak je bio varka!\nNe trudi se postavljati pitanja, jer ti sada ne mogu odgovoriti. Dakle, ovako stoje stvari... Daću ti fleš drajv za 50,000ru pa ćemo se razići kao ljudi. U suprotnom, moraćeš me ubiti, što ti baš ne preporučujem, jer će nas u budućnosti, možda, sudbina opet spojiti i obojica možemo imati koristi od toga.</text>
+	</string>
+	<string id="bland_say_lapti_2">
+		<text>Govoriš u zagonetkama, ali pošto mi taj fleš stvarno treba, voljan sam platiti za njega. Evo ti novac.</text>
+	</string>
+	<string id="bland_say_lapti_3">
+		<text>Napravio si dobar izbor. Sada moram da idem, videćemo se opet.</text>
+	</string>
+	<string id="bland_say_lapti_4">
+		<text>Jedva čekam! Vidimo se.</text>
+	</string>
+	<string id="bland_say_lapti_5">
+		<text>Mislim da si me s nekim zamenio, pripremi se da upoznaš svog tvorca, majku ti tvoju...!!!</text>
+	</string>
+	<!-- SCREW MISSION START -->
+	<string id="arhara_atp_0">
+		<text>Zdravo, rečeno mi je da možeš ponuditi više od popravki. Priča se da imaš neke korisne informacije za trgovanje.</text>
+	</string>
+	<string id="arhara_atp_1">
+		<text>Šta tačno tražiš?</text>
+	</string>
+	<string id="arhara_atp_2">
+		<text>Sve korisno što mi možeš ponuditi.</text>
+	</string>
+	<string id="arhara_atp_3">
+		<text>Ne misliš valjda da dajem informacije svakom ko samo upita!? Prvo ćeš morati odradiiti nešto za mene, a onda ću ti reći nešto korisno, a možda te i nagradim.</text>
+	</string>
+	<string id="arhara_atp_4">
+		<text>Slušam.</text>
+	</string>
+	<string id="arhara_atp_5">
+		<text>Jesi li već razgovarao sa Lukašem? Ako nisi, ubrzo hoćeš, a onda će te on poslati u misiju da potražiš dva važna objekta. Pa, jedan od tih predmeta je već kod mene, i daću ti ga kao nagradu ako doneseš nešto za mene. Znam da u ATP-u imaju jedne radne mengele. Stvarno mi trebaju za moj posao ovde i želim da mi ih doneseš. Jesmo li se dogovorili, Obeleženi?</text>
+	</string>
+	<string id="arhara_atp_6">
+		<text>Naravno, odradiću to za tebe. Uskoro ću navrtiti do tebe sa mengelama.</text>
+	</string>
+	<string id="arhara_atp_7">
+		<text>Ako misliš da ću uokolo vući mengele u svom rancu, onda ti je sigurno nekoliko šarafa popustilo u glavi!!</text>
+	</string>
+	<!-- SCREW MISSION COMPLETE -->
+	<string id="arhara_shurup_atp_propusk_0">
+		<text>Zdravo opet, Šraf. Imam dobre vesti.</text>
+	</string>
+	<string id="arhara_shurup_atp_propusk_1">
+		<text>Mislio sam da te Zona uzela kao i mnoge druge.</text>
+	</string>
+	<string id="arhara_shurup_atp_propusk_2">
+		<text>Ova stvar je teška tonu!!! Drago mi je što ću je se rešiti!!! Izvoli!</text>
+	</string>
+	<string id="arhara_shurup_atp_propusk_3">
+		<text>Hvala. A ti izvoli Mozak Kontrolera koji će ti trebati za Lukašev zadatak. Ako do sada nisi pronašao i drugi, onda ćeš morati ići do Černobila 2, i tamo ga potražiti. Idi sada.</text>
+	</string>
+	<!-- CHERNOBYL-2 TRANSITION MISSION -->
+	<string id="ugrum_perexod_0">
+		<text>Zdravo, čuo sam da si bio u Pripjatu.</text>
+	</string>
+	<string id="ugrum_perexod_1">
+		<text>Zdravo, stalkeru. Da, upravo sam se vratio iz Pripjata. Zašto pitaš?</text>
+	</string>
+	<string id="ugrum_perexod_2">
+		<text>Jesi naletio na snage Monolita tamo?</text>
+	</string>
+	<string id="ugrum_perexod_3">
+		<text>To su sve fanatici! Ipak, vode ih jako odgovorne osobe. Jedan od njih mi je rekao da se planiraju proširiti iz Centra Zone sve do Kordona.</text>
+	</string>
+	<string id="ugrum_perexod_4">
+		<text>Kako to tačno misle uraditi?</text>
+	</string>
+	<string id="ugrum_perexod_5">
+		<text>Nisam siguran za njihove planove, ali sam kontaktirao jednog od njih i dobio informacije o stazi koju često koriste da se infiltriraju u jug iz Centra Zone. Rado ću podeliti ovu informaciju s tobom ako mi pomogneš da se zaštitim od zombifikacije. Moram se vratiti u Pripjat. Ako mi nabaviš antizombin, daću ti informacije o prelazu iz Černobila u ATP. Šta kažeš?</text>
+	</string>
+	<string id="ugrum_perexod_6">
+		<text>Zombifi..šta? Ma, kako god. Pošto mi treba ta informacija, pokušaću ti nabaviti taj antizombin.</text>
+	</string>
+	<string id="ugrum_perexod_7">
+		<text>Bojim se da nemam antizombin, niti ga mogu nabaviti za tebe! Čak ni da mi ponudiš prelaz za Mesec!!</text>
+	</string>
+	<string id="ugrum_plaer_otdat_0">
+		<text>Izvoli antizombin, retka i skupa stvarčica. Ali nadam se da će se ova informacija za prelaz isplatiti!</text>
+	</string>
+	<string id="ugrum_plaer_otdat_1">
+		<text>Sve u Zoni je vredno! Misliš da mi je ovo hobi?!!</text>
+	</string>
+	<string id="ugrum_plaer_otdat_2">
+		<text>Htio sam te pitati, kako si uspeo stupiti u kontakt sa Monolitovcima?</text>
+	</string>
+	<string id="ugrum_plaer_otdat_3">
+		<text>Kroz nišan svog Vintoreza, haha!! Šalim se. Izvoli koordinate prelaza. Ali zapamti, zbog anomalnih aktivnosti u Černobil-2, marker prelaza nestaje s vremena na vreme. Zato ću ti ubaciti sliku prelaza u PDA. To bi ti trebalo pomoći!!</text>
+	</string>
+	<!-- LUKASH MISSIONS -->
+	<string id="lukash_mozg_0">
+		<text>Zdravo, nadam se da možemo surađivati. Možda možemo pomoći jedan drugom?</text>
+	</string>
+	<string id="lukash_mozg_1">
+		<text>Ne očekuj nešto za ništa. Ponudiću ti samo zadatke koji meni pogoduju.</text>
+	</string>
+	<string id="lukash_mozg_2">
+		<text>Dobro, šta nudiš sada?</text>
+	</string>
+	<string id="lukash_mozg_3">
+		<text>Imam posao za tebe, ali nije to mala stvar. Moskva je poslala zahtev. Čuo si za taj grad?</text>
+	</string>
+	<string id="lukash_mozg_4">
+		<text>Naravno. A gde je to???</text>
+	</string>
+	<string id="lukash_mozg_5">
+		<text>U redu, prošao si test sposobnosti. Iznenadićeš se kada čuješ da je Mozak Kontrolera postao prava poslastica za elitu u Moskvi. I to ne svaki mozak, samo oni koji se mogu naći u Černobil-2 poseduju taj jedinstveni ukus i hranjive kvalitete. Ti mozgovi su već povađeni i možeš ih naći na tlu. Ali priča se da Monolitovci izviđaju teritoriju kod ATP-a. Možda su doneli te mozgove sa sobom. Razgovaraj sa Šrafom, iza ove zgrade, on je nedavno tražio stalkera da istraži tu teritoriju. Možda ima neke korisne informacije. Poslaću detalje na tvoj PDA. Da, još nešto, pored mozga trebaš mi doneti i 300,000ru. Znam da je to puno, ali veruj da će ti nagrada biti vredna toga.</text>
+	</string>
+	<string id="lukash_mozg_6">
+		<text>Mmmm, da, pokušaću pronaći par tih mozgova. Ali stvarno tražiš puno novca!</text>
+	</string>
+	<string id="lukash_mozg_7">
+		<text>Isplatiće ti se! Očekuje te velika nagrada.</text>
+	</string>
+	<string id="lukash_mozg_otdat_0">
+		<text>Zdravo šefe! Nisam pronašao ništa u ATP. Morao sam ih potražiti u Černobil-2. Evo ti tvoji mozgovi, ehhh!</text>
+	</string>
+	<string id="lukash_mozg_otdat_1">
+		<text>Bio si u Černobilu???? Samo dva? Nadao sam se da ih ima više! Tri mi trebaju!</text>
+	</string>
+	<string id="lukash_mozg_otdat_2">
+		<text>Tražio si samo dva, pokušaj računati malo na prste ako ti ne ide glavom. Drago mi je što ću se rešiti mozgova, ali 300,000! E to boli!.</text>
+	</string>
+	<string id="lukash_mozg_otdat_3">
+		<text>Hvala, nadam se da ih nisi oštetio. Da vidim da nisi uzeo koji zalogajčić. Hmmm, ne vidim nikakve znakove ugriza. A sada tvoja nagrada!!!! Izvoli jedan jako redak artefakt! I, još važnije, ručni teleporter koji je pripadao vođi Monolita, u blizini samog Monolita u Sarkofagu!\nTakođer ćeš pronaći i maskirni egzoskelet. Čuo sam da su svi ovi predmeti pripadali Streloku, jednom od retkih koji su uspeli doći do Sarkofaga. Ali možda je to samo glasina.</text>
+	</string>
+	<!-- ATP TRANSITION INFO -->
+	<string id="tolik_info_0">
+		<text>Šta ima novo u Zoni?</text>
+	</string>
+	<string id="tolik_info_1">
+		<text>Nema ništa, jedino ako nisi čuo za novi prelaz. Pogledaj u svoj PDA, ima označeno, Banditi su pronašli prelaz u nove teritorije!!! Na teritoriji je Bara. Ako uspeš proći sve pse, onda moraš preskočiti ogradu.</text>
+	</string>
+	<string id="tolik_info_2">
+		<text>E ovo je nešto što nisam znao!</text>
+	</string>
+	<string id="tolik_info_3">
+		<text>Problem je što niko ne zna gde je izlaz! Možeš tamo zaglaviti zauvek! Najbolje je hodati Zonom i prvo saznati gde je izlaz! Ali i to sigurno neko mora znati.</text>
+	</string>
+	<string id="tolik_info_4">
+		<text>Pokušaću saznati od stalkera veterana, on bi mogao znati gde je izlaz.</text>
+	</string>
+	<string id="tolik_info_5">
+		<text>Budi oprezan, nakon zadnje Emisije neke čudne anomalije su se pojavile iz mosta!</text>
+	</string>
+	<string id="tolik_info_6">
+		<text>Hvala na upozorenju.</text>
+	</string>
+	<string id="arh_disk_nayty_0">
+		<text>Slušaj, sigurno mi možeš pomoći. Čuo sam da postoji prelaz za novu teritoriju, mislim da je zovu ATP. Ali ne znam gde počinje. Znaš li ti?</text>
+	</string>
+	<string id="arh_disk_nayty_1">
+		<text>Da, znam za taj prelaz. Samo ti je beskorstan, iz te teritorije nećeš izaći. Postoje tri izlaza: u Kordon, Vojna Skladišta i Pripjat. A ja znam samo jedan, onaj u Kordon.</text>
+	</string>
+	<string id="arh_disk_nayty_2">
+		<text>Ma i to je odlično! Hoćeš li mi pokazati?</text>
+	</string>
+	<string id="arh_disk_nayty_3">
+		<text>Hoću, ali prvo moraš nešti uraditi za mene.</text>
+	</string>
+	<string id="arh_disk_nayty_4">
+		<text>Šta?</text>
+	</string>
+	<string id="arh_disk_nayty_5">
+		<text>Disk. Obični kompjuterski disk. Sam disk je za tebe bezvredan, jer su sve informacije šifrirane. Poslednja poruka od mog kurira je poslana pre dve sedmice. Sakrio se od mutanata u jednu od šupa u ATP. Ako prihvatiš ovaj zadatka bićeš dobro nagrađen. Moram te uopzoriti, Banditi punom parom traže ovaj disk. Misle da su na njemu podaci prelaza iz ATP-a u centar Zone, zato budi oprezan!!! Ulaz i izlaz iz ove lokacije su ti ubačeni u PDA. To je opasno područje, stalkeru!!!</text>
+	</string>
+	<string id="arh_disk_nayty_6">
+		<text>Mmm, da, nadam se da će se isplatiti!</text>
+	</string>
+	<string id="arh_disk_nayty_7">
+		<text>Put znaš bolje nego ja, zato idi sam po to šta ti treba.</text>
+	</string>
+	<string id="arh_disk_otd_0">
+		<text>Zdravo Adrenalin! Pronašao sam disk.</text>
+	</string>
+	<string id="arh_disk_otd_1">
+		<text>Zdravo. Drago mi je što si se vratio živ i zdrav. A kurir?</text>
+	</string>
+	<string id="arh_disk_otd_2">
+		<text>Video sam samo telo, na prvi pogled netaknuto. Ali nisam imao vremena istraživati, jer su se Banditi iznenada pojavili, ozbiljno naoružani i spremni za ples!!!</text>
+	</string>
+	<string id="arh_disk_otd_3">
+		<text>Možemo privesti ove poslove kraju! Kao nagradu daću ti svoje lične beleške i još neke informacije. Dok si bio odsutan, pronašao sam još jedan izlaz iz ATP-a u Vojna Skladišta. Poslaću ti informacije na PDA. A gde je treći izlaz koji vodi u Pripjat, to zna Saharov.</text>
+	</string>
+	<!-- AKIM TRADE and OFFERS -->
+	<!-- removed duplicated string id's: "akim_obmen_0", "akim_obmen_1", "akim_obmen_2", "akim_obmen_3", "akim_obmen_4", "akim_obmen_5", "akim_obmen_6", "akim_obmen_7", "akim_obmen_fnsnip_0", "akim_obmen_fnsnip_1", "akim_obmen_fnsnip_2", "akim_obmen_fnsnip_3", "akim_obmen_fnsnip_4", "akim_obmen_fnsnip_5", "akim_obmen_fnsnip_6", "akim_obmen_fnsnip_7", "akim_zamok_0", "akim_zamok_1", "akim_zamok_2", "akim_zamok_3", "akim_zamok_4", "akim_zamok_5", "akim_zamok_6" and "akim_zamok_7" - it's also in the "tb3d_dialogs_arhara_trade.xml" file - aleks1970 -->
+	<!-- SAKHAROV MISSIONS -->
+	<string id="sahar_sumka_dost_0">
+		<text>Profesore, da li Vojska posećuje često ovo mesto?</text>
+	</string>
+	<string id="sahar_sumka_dost_1">
+		<text>Zar nisi u dobrim odnosima sa Vojskom? Ah da, oni ne vole stalkere. Mada, ako uradiš neki posao za njih, onda postoji mogućnost da ih uveriš u svoju lojalnost. Dođu ponekad kada zombiji zaprete bunkeru. Često ih zovem u pomoć, posebno ovih dana. Uzgred, kad smo već kod Vojske, imam jedan posao za tebe.</text>
+	</string>
+	<string id="sahar_sumka_dost_2">
+		<text>Kakav posao, profesore?</text>
+	</string>
+	<string id="sahar_sumka_dost_3">
+		<text>Prošle godine Doktor me posetio. Jedna vrlo mudra i ljubazna osoba. Dao mi je na poklon običnu medicinsku torbu. Obična torba, ali za mene nezaboravan poklon!</text>
+	</string>
+	<string id="sahar_sumka_dost_4">
+		<text>Da, i?</text>
+	</string>
+	<string id="sahar_sumka_dost_5">
+		<text>Zaustavili su me na vojnoj predstraži. Tražili su votku, ali nisam je imao. Moju torbu je uzeo vojni kapetan, koji je odbio da mi je vrati ili proda, a da ugrozim odnose sa Vojskom je neprihvatljivo zbog svog istraživanja ovde. Taj kapetan je često na dužnosti u području Černobila. Ako mi doneseš tu torbu, nagradiću te sa prelazom iz ATP direktno u Pripjat. Uveren sam da će ti taj prelaz biti jako koristan. Pristaješ li? Daću ti jedan dobar artefakt i približnu lokaciju kapetana u Černobilu. Poslaću ti informacije na PDA.</text>
+	</string>
+	<string id="sahar_sumka_dost_6">
+		<text>To je veliki rizik za jednu običnu medicinsku torbu. A i sam put na sever je skroz neistražen za mene. Ali artefakt bi mi bio jako koristan, a informacija o prelazu mi je jako važna.</text>
+	</string>
+	<string id="sahar_sumka_dost_7">
+		<text>Hoćeš da se suočim sa neizrecivom opasnošću zbog neke stare torbe! Potraži neku drugu budalu!!!</text>
+	</string>
+	<string id="sahar_sumka_otd_0">
+		<text>Zdravo profesore! Vratio sam se živ!</text>
+	</string>
+	<string id="sahar_sumka_otd_1">
+		<text>Drago mi je što te vidim, Obeleženi! Jesi li stvarno doneo moju torbu? Kako si uspeo uveriti kapetana?</text>
+	</string>
+	<string id="sahar_sumka_otd_2">
+		<text>Da, doneo sam je. A kapetana sam uverio preko nišana svoje puške. Brzo se složio, čak nije hteo ni novac! Šala mala, profesore. Dobio je privremenu penziju, šta da vam kažem?</text>
+	</string>
+	<string id="sahar_sumka_otd_3">
+		<text>Smrt mi nikada toliko nije bila smešna! Hvala za torbu! Jako mi je važna. Izvoli informacije o prelazu iz ATP u Pripjat.</text>
+	</string>
+	<!-- DOCTOR MEDALLION MISSION -->
+	<string id="arhara_doctor_doct_0">
+		<text>Doktore, jeste li čuli za napušteni rudnik i Rudara? Pitao je za vas. Ostavio sam kod njega Komad Monolita.</text>
+	</string>
+	<string id="arhara_doctor_doct_1">
+		<text>Rudar? Znači živ je, to je odlična vest! Dugo vremena sam mislio da je mrtav. Trebao si mi doneti taj artefakt.</text>
+	</string>
+	<string id="arhara_doctor_doct_2">
+		<text>Rudar će mi ga dati samo ako mu donesem neki predmet.</text>
+	</string>
+	<string id="arhara_doctor_doct_3">
+		<text>Ahhh, medaljon! Ali trenutno nije kod mene.</text>
+	</string>
+	<string id="arhara_doctor_doct_4">
+		<text>Pa gde je?</text>
+	</string>
+	<string id="arhara_doctor_doct_5">
+		<text>Gotovo odmah nakon nesreće u Černobilu, ispao mi je ranac na krovu jednog nebodera u Pripjatu. U tom rancu je medaljon koji traži Rudar. Pokušavao sam puno puta da dođem do njega, ali previše je snajperista! Jednom me vojska gotovo ubila, drugi put sam pao!!  Donesi mi taj ranac i biću ti jako zahvalan. Nagradu za ovaj opasni posao naći ćeš upravo na tom krovu. Da dođeš tamo jedino je moguće kroz ATP</text>
+	</string>
+	<string id="arhara_doctor_doct_6">
+		<text>OK Doktore, pokušaću. Uvek mi je drago pomoći, uz određenu cenu, naravno!!!</text>
+	</string>
+	<string id="arhara_doctor_doct_7">
+		<text>Doktore, pošto se još od detinjstva bojim visina, i svega iznad 3 sprata, ZABORAVITE!!! Izvinite, ali slobodno angažujte nekog drugog za tu akrobaciju!</text>
+	</string>
+	<string id="arhara_doctor_otd_0">
+		<text>Zdravo, Doktore! Izvolite vaš medaljon.</text>
+	</string>
+	<string id="arhara_doctor_otd_1">
+		<text>Znao sam da ćeš uspeti. Ipak si ti najbolji!</text>
+	</string>
+	<string id="arhara_doctor_otd_2">
+		<text>Evo, uzmite ga. Da se dođe na neboder, bilo je neophodno proći kroz teleporter.</text>
+	</string>
+	<string id="arhara_doctor_otd_3">
+		<text>Tvoj zadatak je bio dug i opasan, ali interesantan. Ipak si ti stalker. A medaljon odnesi Rudaru i prenesi mu moje pozdrave. Komad Monolita možeš zadržati za sebe. Samo zapamti da je jako radioaktivan!</text>
+	</string>
+	<string id="arhara_sahar_bezo_0">
+		<text>Profesore, imam pitanje.</text>
+	</string>
+	<string id="arhara_sahar_bezo_1">
+		<text>Slušam.</text>
+	</string>
+	<string id="arhara_sahar_bezo_2">
+		<text>Treba mi recept za transformaciju sadržaja želudca Kontrolera u retki artefakt.</text>
+	</string>
+	<string id="arhara_sahar_bezo_3">
+		<text>Da, znam taj recept. Samo što mi ne govorimo o sadržaju želudca, već o Bezoaru - znate. To je velika stara gruda hrane idrugih ostataka, koja je zapela u želudcu i ne može izaći. Jako retko za pronaći!</text>
+	</string>
+	<string id="arhara_sahar_bezo_4">
+		<text>Ughhh, blokada creva? Sranje! Ok, profesore, možete li mi dati recept?</text>
+	</string>
+	<string id="arhara_sahar_bezo_5">
+		<text>Naravno, ali ne tako brzo, mladiću. Ne brini, nije potrebno da se ide negde. Ono što je potrebno jeste 50,000ru donacije za razvoj lokalne nauke. A sa već prisutnom krizom i čitav svet nas je potpuno zaboravio!</text>
+	</string>
+	<string id="arhara_sahar_bezo_6">
+		<text>Donaciju? Znači tako se to se sada zove. Izvolite.</text>
+	</string>
+	<string id="arhara_sahar_bezo_7">
+		<text>Profesore, to su prdine splačine! Nema nikakve donacije od mene.</text>
+	</string>
+	<string id="arhara_omlet_0">
+		<text>Sa ovoliko votke koju popiješ, kako uopšte završiš neki posao?</text>
+	</string>
+	<string id="arhara_omlet_1">
+		<text>Posao nije problem. Moj jedini problem je što želim napraviti omlet, ali mi nedostaje jedna stvar.</text>
+	</string>
+	<string id="arhara_omlet_2">
+		<text>Šta, sveži inćuni, kavijar, šta? Umirem od znatiželje!</text>
+	</string>
+	<string id="arhara_omlet_3">
+		<text>Imamo kobasice, hleb, konzerviranu hranu, ali nemamo jaja! Kokoške ne žive u Zoni, samo gavranovi...samo gavranovi što na nebu kruže...</text>
+	</string>
+	<string id="arhara_omlet_4">
+		<text>Aj mi reci koliko si popio danas? Tri ili četiri flaše? </text>
+	</string>
+	<string id="arhara_omlet_5">
+		<text>OZBILJNO TI KAŽEM!!! Treba mi desetoro jaja. Hoćeš li ih nabaviti za mene? U zamenu ću ti nabaviti specijalno oružje. Savetujem ti da pitaš Akima, novog trgovca u Kordonu. On ti može reći gde da ih potražiš.</text>
+	</string>
+	<string id="arhara_omlet_6">
+		<text>Pa, specijalno oružje uvek lepo zvuči! Videću šta Akim zna.</text>
+	</string>
+	<string id="arhara_omlet_7">
+		<text>Kuvaru, stvarno misliš da bi jedan veteran stalker lutao po Zoni tražeći jaja? Ni slučajno! Ti si omleterisan!!!</text>
+	</string>
+	<string id="arhara_omlet_otdat_0">
+		<text>Zdravo, jel' ostalo išta votke?</text>
+	</string>
+	<string id="arhara_omlet_otdat_1">
+		<text>Oh, vratio si se! Nadam se da si nešto pronašao.</text>
+	</string>
+	<string id="arhara_omlet_otdat_2">
+		<text>Izvini, ogladnio sam pa sam ih morao ispržiti...groznog su okusa!!! Samo se šalim, evo ti tvoja jaja.</text>
+	</string>
+	<string id="arhara_omlet_otdat_3">
+		<text>Šta?! O-nee! Razbio si jedno!!! Evo, svejedno, uzmi oružje!</text>
+	</string>
+	<string id="arhara_omlet_akim_0">
+		<text>Akim, zdravo. Da li znaš gde bi mogao pronaći jaja?</text>
+	</string>
+	<string id="arhara_omlet_akim_1">
+		<text>Čija jaja? Gavranova? Oh, možda Burerova jaja? Reći ću ti jednu tajnu: jaja ne postoje!</text>
+	</string>
+	<string id="arhara_omlet_akim_2">
+		<text>Ne postoje? Šta je ovo, neka zagonetkae??? Samo mi reci gde se gnezde!</text>
+	</string>
+	<string id="arhara_omlet_akim_3">
+		<text>Znam gde se gnezde, ali za tu informaciju ćeš morati nešto odraditi za mene. Naručio sam neke medicinske potrepštine za jednog važnog klijenta, jednog od vođa lokalne kriminalne bande. Moj kurur je izgubio živce i ispustio bočice u mraku dok se prikradao u Kordon.</text>
+	</string>
+	<string id="arhara_omlet_akim_4">
+		<text>A gde da potražim te lekovite bočice?</text>
+	</string>
+	<string id="arhara_omlet_akim_5">
+		<text>Te bočice se nalaze u minskom polju u blizini vojne baze, na jugu Kordona. Sa leve strane, kada gledaš u bazu. Neophodne su mi samo tri. Pronaći ćeš ih više ali meni trebaju samo tri.</text>
+	</string>
+	<string id="arhara_omlet_akim_6">
+		<text>Misnko polje pored vojnog punkta...a ja mislio da ćeš mi dati nešto teže!\n Jel' imaš bar neki detektor mina da mi daš?</text>
+	</string>
+	<string id="arhara_omlet_akim_7">
+		<text>Šetnja kroz minsko polje? Ne za pišljiva gavranova jaja! Jesi normalan???</text>
+	</string>
+	<string id="arhara_lekar_akim_0">
+		<text>Akim, doneo sam ti tvoje medicinske bočice. Strašno smrde! Taj bolesnik ima da umre samo od smrada!!!</text>
+	</string>
+	<string id="arhara_lekar_akim_1">
+		<text>Neophodno je da se popije samo jedna čajna kašikica. Smrdi, kažeš! Izgleda da ih onda imaš još u rancu.</text>
+	</string>
+	<string id="arhara_lekar_akim_2">
+		<text>Nego, gde su ta đavolja jaja?</text>
+	</string>
+	<string id="arhara_lekar_akim_3">
+		<text>U Zaboravljenoj Šumi. Potraži na panjevim drveća, ili u njihovoj blizini. Tu bi trebao pronaći jaja.</text>
+	</string>
+	<string id="arhara_shaxter_0">
+		<text>Zdravo. Ko si ti?</text>
+	</string>
+	<string id="arhara_shaxter_1">
+		<text>Ja sam Rudar. Ovde sam još pre nesreće u Černobilu. Bilo nas je nekoliko, ali nas je ostalo samo trojica. Ostale smo izgubili od mutanata, bolesti i urušavanja starog dela rudnika nakon havarije.</text>
+	</string>
+	<string id="arhara_shaxter_2">
+		<text>Zašto živite ovamo dole i šta je ovde bilo ranije?</text>
+	</string>
+	<string id="arhara_shaxter_3">
+		<text>Navikao sam se živeti u podzemlju. Nije bilo sigurno živeti na površini nakon nesreće, tako da smo ostali ispod. Već dugo vremena nisam video sunčavu svetlost i bojim se da bi oslepeo da odem na površinu. Dugo vremena niko s površine nije se pojavio ovde. Nekada davno, ovo je bio rudnik uglja! Sada je pun anomalija i mutanata. A nedavno i Monolitovaca! A ti? Zašto si ti ovde?!</text>
+	</string>
+	<string id="arhara_shaxter_4">
+		<text>Ne znam kako sam završio ovde. Znam samo da ti trebam predati Komad Monolita. Siguran sam da ću se vratiti po njega. Zasada ga ne mogu ga dalje nositi.</text>
+	</string>
+	<string id="arhara_shaxter_5">
+		<text>Ostavi ga kod mene i kada dođe pravo vreme, vrati se po njega, čekaće te ovde. Evo, uzmi ovaj lek za iscrpljenost, vratiće te na tvoj put. Neka ti je sa srećom!</text>
+	</string>
+	<string id="arhara_shaxter_6">
+		<text>Hvala, videćemo se opet - ako preživim! Znam da ti trebam dati ovaj Komad Monolita, ali ko sam ja? I kada će mi se sve vratiti i biti jasnije? Kada saznam sve, vratiću se.</text>
+	</string>
+	<string id="shaxter_fonar_dost_0">
+		<text>Zdravo, Rudaru. Vratio sam se! Treba mi Komad Monolita koji sam ostavio kod tebe.</text>
+	</string>
+	<string id="shaxter_fonar_dost_1">
+		<text>Zdravo, drago mi je što si još živ! Prošlo je dugo vremena kako smo se zadnji put videli.</text>
+	</string>
+	<string id="shaxter_fonar_dost_2">
+		<text>Doktor mi je rekao da ti donesem ovaj Medaljon, to je ono što si tražio, jel' tako? Imaš li kod sebe moj artefakt?</text>
+	</string>
+	<string id="shaxter_fonar_dost_3">
+		<text>Da, to je Medaljon! Hvala ti puno! Tvoj artefakt je kod mene, ionako ovde nema nikog da ga ukrade a mutanti ne jedu artefakte!!! Ali želim te prvo nešto pitati.</text>
+	</string>
+	<string id="shaxter_fonar_dost_4">
+		<text>Šta?</text>
+	</string>
+	<string id="shaxter_fonar_dost_5">
+		<text>Želim se ponovo naviknuti na svetlost. Ona knjiga koju si mi doneo - ne mogu je čitati. Možeš li mi doneti dve male lampe? Sigurno ćeš pitati gde da ih potražiš? Iskreno ne znam, ali možda je najbolje da pitaš trgovce koji se nalaze bliže granica Zone.</text>
+	</string>
+	<string id="shaxter_fonar_dost_6">
+		<text>Otići ću u Kordon i raspitati se o tim malim lampama.</text>
+	</string>
+	<string id="shaxter_fonar_dost_7">
+		<text>Ne idem ja nikuda, previše je opasno! Koristi šibice!!!</text>
+	</string>
+	<string id="shaxter_fonar_otdat_0">
+		<text>Hej Rudaru, doneo sam ti lampe.</text>
+	</string>
+	<string id="shaxter_fonar_otdat_1">
+		<text>To je odlična vest.</text>
+	</string>
+	<string id="shaxter_fonar_otdat_2">
+		<text>Izvoli. I nove su baterije u njima!</text>
+	</string>
+	<string id="shaxter_fonar_otdat_3">
+		<text>Hvala, nadam se da ću sada moći pročitati očevu knjigu. Uzmisvoj artefakt, ali ne zaboravi da je izuzetno radioaktivan. Prenesi moje pozdrave Doktoru. Nadam se da ovo nije naš zadnji susret.</text>
+	</string>
+	<string id="akim_kubik_nayti_0">
+		<text>Akim, gde bi mogao naći par malih lampi?</text>
+	</string>
+	<string id="akim_kubik_nayti_1">
+		<text>Zdravo. A za šta ti trebaju lampe?</text>
+	</string>
+	<string id="akim_kubik_nayti_2">
+		<text>Duga priča. Možeš li mi nabaviti te lampe sa novim baterijama?</text>
+	</string>
+	<string id="akim_kubik_nayti_3">
+		<text>Nekada sam se bojao mraka, znaš. Kao dete sam uvek imao malu lampu u svojoj sobi. Oh, to su bili dani sreće i naive, ha-ha.</text>
+	</string>
+	<string id="akim_kubik_nayti_4">
+		<text>Alo, jel' ti mene slušaš ikako? Prestani sa tim detinjarijama. Možeš li mi ih nabaviti ili ne?</text>
+	</string>
+	<string id="akim_kubik_nayti_5">
+		<text>Naravno, ali prvo nešto moraš uraditi za mene. Stvarno se dosađujem ovde dok čekam mušterije, i želim da mi doneseš Rubikovu kocku.  Ima jedna u Mračnoj Dolini, u bazi Bandita. Jedan je kreten bacio na krov jedne od zgrada. Donesi mi kocku i a ja ću ti nabaviti lampe.</text>
+	</string>
+	<string id="akim_kubik_nayti_6">
+		<text>OK! OK! Nabaviću ti. Šta je sledeće... Barbika?!</text>
+	</string>
+	<string id="akim_kubik_nayti_7">
+		<text>Idi i nađi sam sebi kocku, psihopatu!</text>
+	</string>
+	<string id="akim_kubik_prines_0">
+		<text>Doneo sam ti kocku, daj mi lampe.</text>
+	</string>
+	<string id="akim_kubik_prines_1">
+		<text>Hvala za kocku, ali lampe nisu ovde.</text>
+	</string>
+	<string id="akim_kubik_prines_2">
+		<text>Šta!! Daj mi šta si obećao ili ću te nahraniti sa Morskim Ježom!</text>
+	</string>
+	<string id="akim_kubik_prines_3">
+		<text>Polako, smiri se. Znam gde bi trebale biti. U Zaboravljenoj Šumi, u kampu odmah do helikoptera. Traži na tlu.</text>
+	</string>
+	<string id="shax_kniga_naity_0">
+		<text>Zdravo, tek sam nedavno pronašao ulaz u Pećinu. Došao sam po svoj artefakti po savet.</text>
+	</string>
+	<string id="shax_kniga_naity_1">
+		<text>Zdravo. Ako si došao po Komad Monolita, prvo mi moraš doneti jedan predmet od njegovog sadašnjeg vlasnika i onda ćeš ga dobiti. A kakav savet tražiš?</text>
+	</string>
+	<string id="shax_kniga_naity_2">
+		<text>Iako si mi natuknuo, opet nisam siguran ko je ta osoba od koje trebam doneti taj predmet.  A savet - pa zamoljen sam da potražim blago koje je neko izgubio negde u ovoj pećini.</text>
+	</string>
+	<string id="shax_kniga_naity_3">
+		<text>Razgovaraj sa Doktorom, znam ga već dugo vremena. Blago, te prastare kovanice... Mnogo ljudi ih je došlo tražiti, ali nisu našli ništa osim smrti! Moraš se spustiti u donje delove pećine ako misliš tražiti to blago. Tu je jedno mesto, u nižim tunelima, gde se možeš popeti na zid do drugog dela pećine, kojeg zovemo Lavirint. Strašno mesto. Budi oprezan!!!</text>
+	</string>
+	<string id="shax_kniga_naity_4">
+		<text>A kako da izađem iz pećine?</text>
+	</string>
+	<string id="shax_kniga_naity_5">
+		<text>Odavde imaju dva izlaza. Prvi vodi u Agroprom, tu u blizini. Odmah do ulaza u naš kamp, vidljiv je i na karti. Drugi vodi u Deponiju. Nalazi se na donjim nivoima pećine, mislim da ćeš ga naći bez problema. Moram nešto zatražiti od tebe. U Zaboravljenoj Šumi ima jedna knjiga, hoćeš li je pronaći za mene? U blizini tog blaga, ima jedan vredan artefakt...ako mi doneseš knjigu, daću ti i drugi! Postoje samo dva! Oni se rađaju samo svakih 10 godina!</text>
+	</string>
+	<string id="shax_kniga_naity_6">
+		<text>Pokušaću pronaći to blago a potrudiću se da nađem i tu knjigu.</text>
+	</string>
+	<string id="shax_kniga_naity_7">
+		<text>Još nisam našao knjigu!</text>
+	</string>
+	<string id="shax_kniga_prines_0">
+		<text>Izvoli, doneo sam ti knjigu.</text>
+	</string>
+	<string id="shax_kniga_prines_1">
+		<text>Hvala. To je knjiga moga oca.</text>
+	</string>
+	<string id="shax_kniga_prines_2">
+		<text>Čudno, koliko je vremena prošlo a izgleda ko nova! Sigurno ti je drago zbog toga.</text>
+	</string>
+	<string id="shax_kniga_prines_3">
+		<text>Nije to obična knjiga. Izvoli svoju nagradu. Da, jako sam zadovoljan kako je sve ispalo.</text>
+	</string>
+	<string id="lysyi_klad_nayti_0">
+		<text>Zdravo. Izgledaš kao čovek kome bi se moglo verovati. Imaš li neke informacije koje bi mi mogle koristiti?</text>
+	</string>
+	<string id="lysyi_klad_nayti_1">
+		<text>Hej, pod hitno ti treba brijanje, hehe. Izgledaš dovoljno čvrsto pa ću ti reći šta je na stvari. Imam jedan prljavi posao koji nije zaa...ljude u pelenama...znaš šta hoću reći?</text>
+	</string>
+	<string id="lysyi_klad_nayti_2">
+		<text>E ne budeš mi pantalone proveravao!!! Ako je opasno, onda mora biti bolje plaćeno! Hrabar jesam, ali glup nisam.</text>
+	</string>
+	<string id="lysyi_klad_nayti_3">
+		<text>Mislim da si ti pravi čovek za ovaj posao. Postoji jedna napuštena pećina, tu je još i prije havarije u Černobilu. Pravo blago je izgubljeno negde u njoj. Niko ga nije uspeo pronaći. I ako ga je pronašao, nije ga uspeo izneti iz pećine.</text>
+	</string>
+	<string id="lysyi_klad_nayti_4">
+		<text>Kakva je kompenzacija i gde je ulaz u tu pećinu?</text>
+	</string>
+	<string id="lysyi_klad_nayti_5">
+		<text>Znam za dva ulaza, i oba su tunelima. Jedan je u Deponiji a drugi u Agropromu. Kompenzacija: VRLO velika novčana isplata. U pećini je Rudar, i možda još jedan ili dva njegova prijatelja. Razgovaraj s njima, možda ti oni pomognu da pronađeš izlaz.</text>
+	</string>
+	<string id="lysyi_klad_nayti_6">
+		<text>Pokušaću pronaći to blago, samo se nadam da je stvarno!</text>
+	</string>
+	<string id="lysyi_klad_nayti_7">
+		<text>Kome trebaju novci u Zoni? Samo sam stigao u Bar. Planiram se dobro napiti, zato razguli!</text>
+	</string>
+	<string id="lysyi_klad_prines_0">
+		<text>Bio sam u pećini i pronašao sam blago!</text>
+	</string>
+	<string id="lysyi_klad_prines_1">
+		<text>Ššš!!! Jel' me zezaš?!</text>
+	</string>
+	<string id="lysyi_klad_prines_2">
+		<text>Evo ti tvoje kovanice. HEJ LJUDI, kolega nas sviju časti pićem, sve na NJEGOV račun!</text>
+	</string>
+	<string id="lysyi_klad_prines_3">
+		<text>Izvoli keš, Obeleženi. Ne znam je li to dobro ili loše, ali ovde si brzo stekao reputaciju.</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_0">
+		<text>Zdravo Rudaru. Potpuno sam zaboravio da sam ostavio svoj PDA kod tebe. Sećam se samoe Monolita, pročitao sam belešku koju sam tamo našao.</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_1">
+		<text>Da, tvoj PDA je u ovoj pećini.</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_2">
+		<text>U njemu su mnoge korisne informacije koje mi trebaju.</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_3">
+		<text>Ne mogu čitati niti upotrebiti ovakav uređaj. Nikada nisam imao vremena za ove spravice. Ali pre nego što ti ga predam, moram te nešto pitati.</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_4">
+		<text>Pitati o čemu?</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_5">
+		<text>Ima jedan kontroler koji često ovde pojavljuje. Nikako ga ne mogu ubiti, pametno stvorenje! Kada pošaljem ljude da ga eliminišu, zombificira ih izdaleka i odmah odlazi! Treba mi artefakt za zaštitu, ali ga nema u ovoj pećini. Zove se Skalp Kontrolera. Ali za tako veštog stalkera kao što si ti, neće biti problem nabaviti jedan. Šta kažeš?</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_6">
+		<text>Kontroleri stvarno znaju biti neugodni. Pokušaću pronaći artefakt.</text>
+	</string>
+	<string id="pda_shaxt_strelok_naity_7">
+		<text>To je jako retka stvar: I ako ga nađem, ne znam da li bih ti ga mogao dati jer i meni treba takva zaštita. Mislim da ti ne mogu pomoći.</text>
+	</string>
+	<string id="pda_shaxt_strelok_vzyt_0">
+		<text>Izvoli Sklap Kontrolera.</text>
+	</string>
+	<string id="pda_shaxt_strelok_vzyt_1">
+		<text>Hvala! Sada ću biti imun na njegove moći!</text>
+	</string>
+	<string id="pda_shaxt_strelok_vzyt_2">
+		<text>Mogu li sada dobiti svoj PDA?</text>
+	</string>
+	<string id="pda_shaxt_strelok_vzyt_3">
+		<text>Ah da, ukraden je. Ali lopov nije napustio pećinu. Mutanti su ga ubili. Pronađi njegovo telo i pronaći ćeš svoj PDA. Mogu ti još malo pomoći: već znaš gde je prelaz u Lavirint. Tamo potraži.</text>
+	</string>
+	<string id="flyga_naity_0">
+		<text>Hej! Ne izgledaš baš nešto zadovoljno! Šta je bilo?</text>
+	</string>
+	<string id="flyga_naity_1">
+		<text>Ne trebam nikakva pitanja, trebaju mi odgovori!</text>
+	</string>
+	<string id="flyga_naity_2">
+		<text>U čemu je problem? Visok čin, brdo votke...šta još poželeti?</text>
+	</string>
+	<string id="flyga_naity_3">
+		<text>Postoji razlog, nije fatalan ali me ipak stigne ponekad. Možda mi možeš pomoći. Još davno, kada sam bio zeleni poručnik, bio sam na Čečenskom ratištu. Tu mi je darovao ćuturicu komadant Prve Divizije. Uvek sam je nosio sa sobom, ali sada je nestala!! Ako mi pomogneš, pomoći ću i ja tebi. Šta kažeš?</text>
+	</string>
+	<string id="flyga_naity_4">
+		<text>Pa, gde da u ovako velikoj i širokoj Zoni potražim jednu malu ćuturicu?</text>
+	</string>
+	<string id="flyga_naity_5">
+		<text>Pitaj Lankija u Baru. Čuo sam da mu je neko htio prodati sličnu ćuturicu.</text>
+	</string>
+	<string id="flyga_naity_6">
+		<text>Sigurno sam poludeo, ali ok. Raspitaću se malo, sigurno taj nije odmakao daleko.</text>
+	</string>
+	<string id="flyga_naity_7">
+		<text>Nemam ja vremena za takve gluposti, više me muče Monolitovci.</text>
+	</string>
+	<string id="flyga_vzyt_0">
+		<text>Ufff, Lanki je stvarno kreten! Jako teško je poslovati s njim!</text>
+	</string>
+	<string id="flyga_vzyt_1">
+		<text>Je li ti išta rekao?</text>
+	</string>
+	<string id="flyga_vzyt_2">
+		<text>Taj parazit Lanki me stvarno ogulio. Nadam se da ćeš to imati na umu kada me budeš isplaćivao. Izvoli svoju ćuturicu?</text>
+	</string>
+	<string id="flyga_vzyt_3">
+		<text>Ah! Da!  Svoju nagradu možeš pokupiti kod Sidoroviča, samo mu reci da sam te ja poslao. Zasad uzmi nešto keša, ovo je više nego što moji borci dobiju za dva meseca!</text>
+	</string>
+	<string id="dolgovyzui_lentyi_0">
+		<text>Zdravo, želim te nešto pitati.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_1">
+		<text>Pa pitaj onda. Imam puno posla, zato budi brz.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_2">
+		<text>Da li ti je neko pokušao prodati neku ukradenu ćuturicu.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_3">
+		<text>Je li ukradena ili nije, to nije moja stvar. Cena za moju uslugu je: 100 flaša votke i Skalp Kontrolera i, uhm , još deset mikrokola za posao.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_4">
+		<text>Polako čoveče! Koji ti je vrag?! Sve to za jedno glupu ćuturicu??? Ma slušaj, ne tražim ništa besplatno, ali moraćeš smanjiti tu cenu inače odlazim odavde.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_5">
+		<text>OK, OK, smiri se malo! Smanjiću cenu na 50,000ru, a umesto Skalpa Kontrolera, stavićemo, uhmm, pet Vijuga i deset mikrokola. Mikrokola možeš naći u Kordonu. Vojska je nedavno popravljala svoje odašiljače a stara mikrokola jednostavno bacila. Nalio sam jednog vojnika pa je spomenu da ih je bacio u zahod, mislim da je rekao zahod.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_6">
+		<text>OK, ovo je već bolje. I dalje guliš do kože, ali moram ostati u dobrim odnosima sa Petrenkom.</text>
+	</string>
+	<string id="dolgovyzui_lentyi_7">
+		<text>Takvu pohlepu još nisam video u celoj Zoni, zato zaboravi, živio!</text>
+	</string>
+	<string id="dolgovyzui_urod_0">
+		<text>Evo ti šta si tražio, ova mikrokola smrde kao i ono mesto gde sam ih našao! Moraću dezinficirati ranac nakon ovoga.</text>
+	</string>
+	<string id="dolgovyzui_urod_1">
+		<text>Izvrsno! Ali ćuturica... Ćuturica nije ovde!!!</text>
+	</string>
+	<string id="dolgovyzui_urod_2">
+		<text>Nadam se da se šališ! Nakon svega šta sam prošao!</text>
+	</string>
+	<string id="dolgovyzui_urod_3">
+		<text>Ne ljuti se. Čovek koji mi je pokušao prodati je bio pijan. Kada sam mu nisam hteo platiti koliko je tražio, samo je otišao, a onda se vratio i rekao da je bacio kroz kapiju. To je ona kapija sa desne strane kada prođeš kraj onih Djuti morona, kada dolaziš iz Deponije. Postoji nekoliko mesta kako da pređeš preko one ograde tamo.  Ćuturica bi još trebala biti tamo iza te kapije.</text>
+	</string>
+	<string id="voronin_termos_naity_0">
+		<text>Zdravo!</text>
+	</string>
+	<string id="voronin_termos_naity_1">
+		<text>Zdravo. Imam jadan zadatak za tebe. Ako mi pomogneš biću ti jako zahvalan.</text>
+	</string>
+	<string id="voronin_termos_naity_2">
+		<text>Šta treba?</text>
+	</string>
+	<string id="voronin_termos_naity_3">
+		<text>Krijumčario sam neke informacije iz baze Fridoma. Skrivene su termos flaš, verovao ili ne.</text>
+	</string>
+	<string id="voronin_termos_naity_4">
+		<text>U termosici?! Gde si ikako nabavio termos flašu? Mah, zaboravi... Gde da potražim tu termosicu?</text>
+	</string>
+	<string id="voronin_termos_naity_5">
+		<text>Postoji ih nekoliko i različitih su veličina. Pet ih je velikih i nalaze se negde iza baze Fridoma, mislim pod nekim drvetom. Prati dalekovod i doći ćeš iza baze. Dobro pazi na tornjeve u kojima su snajperisti. Najbolje ti je da ideš noću. Poslaću ti skicu na tvoj PDA. Da pronađeš pet malih termosica, moraćeš popričati sa Garikom, on je uvek u Baru. Kažu da voli pivo, ostalo možeš sam skontati.</text>
+	</string>
+	<string id="voronin_termos_naity_6">
+		<text>Dobro šefe, pokušaću ih pronaći.</text>
+	</string>
+	<string id="voronin_termos_naity_7">
+		<text>Žao mi je, ali ti ne mogu pomoći. Trnutno sam zauzet nekim drugim, tečnim stvarima!</text>
+	</string>
+	<string id="voronin_termos_otdat_0">
+		<text>Evo ti ovo smeće.</text>
+	</string>
+	<string id="voronin_termos_otdat_1">
+		<text>Termosice, svih deset?</text>
+	</string>
+	<string id="voronin_termos_otdat_2">
+		<text>Da, svih deset!</text>
+	</string>
+	<string id="voronin_termos_otdat_3">
+		<text>To je odlično! Daću ti lokaciju jednog šteka. Moji ljudi su uhvatili jednog vojnika sa rancem, negde u Mračnoj Dolini. Banditi imaju sada bazu tamo, ali to verovatno već znaš. Kako god, proveri tornjeve. Čuo sam da tamo ima lepog plena.</text>
+	</string>
+	<string id="garik_vopros_0">
+		<text>Garik, moram te nešto pitati.</text>
+	</string>
+	<string id="garik_vopros_1">
+		<text>Šta?</text>
+	</string>
+	<string id="garik_vopros_2">
+		<text>Termosice, želim znati gde si ih pokupio.</text>
+	</string>
+	<string id="garik_vopros_3">
+		<text>To su poverljive informacije, razguli... Ne, čekaj... Šta kažeš na 10,000ru?</text>
+	</string>
+	<string id="garik_vopros_4">
+		<text>Huh, ovaj put me držiš za jajca. Ok! Sad mi reci gde su!</text>
+	</string>
+	<string id="garik_vopros_5">
+		<text>Eh?! Čekaj! Imam ja još toga. Ja pušim, dakle, želim i 10 kutija cigareta. Dosta stalkera trguje s njima.</text>
+	</string>
+	<string id="garik_vopros_6">
+		<text>Do đavola! Novac nije problem, ali bi cigarete mogle biti. Ali dobro. Videću šta mogu učiniti.</text>
+	</string>
+	<string id="garik_vopros_7">
+		<text>Garik, ti nisi ništa drugo nego sitno lopov sa lošim navikama. Tu "poverljivu" informaciju zabij sebi u dupe!</text>
+	</string>
+	<string id="garik_otvet_0">
+		<text>Evo ti novac i cigarete.</text>
+	</string>
+	<string id="garik_otvet_1">
+		<text>Čoveče, stvarno si bio očajan! Mislio sam da te nikada neću videti!</text>
+	</string>
+	<string id="garik_otvet_2">
+		<text>Ajde ne davi me tim popovanjem. Samo mi daj informaciju.</text>
+	</string>
+	<string id="garik_otvet_3">
+		<text>OK, OK, nemoj se nervirati toliko. Termosice su u zgradi u Pripjatu. Odmah do autobusne stanice je uništena prodavnica, pogledaj na zadnjem spratu.</text>
+	</string>
+	<string id="petr_sidor_vzyt_0">
+		<text>Zdravo Sidoroviču, šta ima?!</text>
+	</string>
+	<string id="petr_sidor_vzyt_1">
+		<text>Dugo se nismo videli, Obeleženi. Bio si zauzet, jel'? Čuo sam svakakve priče.</text>
+	</string>
+	<string id="petr_sidor_vzyt_2">
+		<text>Nemam vremena za priče, Sidoroviču. Ovde sam poslovno. Petrenko me poslao do tebe.</text>
+	</string>
+	<string id="petr_sidor_vzyt_3">
+		<text>Pa dobro onda, nemoj se previše opuštati. Sačuvaću ovo pivo za neki drugi put, u redu?!</text>
+	</string>
+	<string id="petr_sidor_vzyt_4">
+		<text>Moram pokupiti paket koji je Petrenko ostavio ovde.</text>
+	</string>
+	<string id="petr_sidor_vzyt_5">
+		<text>Znaš, hmmm, možda bi prvo mogao odraditi jedan posao za mene ako hoćeš taj paket. Pa, junačino?! Vojska iz Agroproma je od mene naručila 2 kutije alata. Očigledno je neko nešto zabrljao oko oklopnih vozila, neki Rambo koji je ispao iz Kamiona Smrti! Oh, izvini Obeleženi! Kako god, taj bi Rambo trebao biti sada malo oprezniji jer ga sada sigurno svi traže. Kako god, svaka kutija sadrži čekič, odvijač i šrafciger. Čekiče i šrafcigere su viđali oko ATP, a odvijače u Vojnim Skladištima, najverovatnije u Šrafovoj radionici. Pošto si verovatnio ti kriv za ovaj haos, ti si taj koji će ga popraviti, jasno?!</text>
+	</string>
+	<string id="petr_sidor_vzyt_6">
+		<text>Nekada stvarno preteruješ, Sid! Da te ne bi Rambo posadio na tu tvoju škrtu guzicu. Mislim da bi to baš bilo zabavno, ha Sid?!</text>
+	</string>
+	<string id="petr_sidor_vzyt_7">
+		<text>Heh, opa, pa nemoj se sada vaditi na mene, ni ja nisam ovde na odmoru! Samo odradi posao i rado ću ti dati Petrenkov paket i slobodno možeš nastaviti sa svojim poslom ubijanja ljudi, jel' ok?</text>
+	</string>
+	<string id="petr_sidor_zabrat_0">
+		<text>Čoveče!! Kada si rekao čekič, mogao si spomenuti da su to kovački čekiči! Ovo smeće je preteško! Trebaš ih malo pronosati uokolo, verovatno bi omršavio nekih stotinjak kila!</text>
+	</string>
+	<string id="petr_sidor_zabrat_1">
+		<text>Da sam ti odmah to rekao, verovatno ne bi ni pristao na posao. Daj, stavi ih ovamo na sto i prestani s tim sranjem!!</text>
+	</string>
+	<string id="petr_sidor_zabrat_2">
+		<text>Trebalo bi da ti razbijem sto u hiljadu komadića sa ovim čekičima! Evo ti ih. A sada, Petrenkov paket! Gde je? Što pre želim otići iz ove rupetine negde gde se može disati i vratiti se svom poslu!</text>
+	</string>
+	<string id="petr_sidor_zabrat_3">
+		<text>Kao što možeš i pretpostaviti, Petrenko mi baš i ne veruje u nekim stvarima. Sve što mi je dao su ove koordinate koje vode do paketa. Nalazi se negde u Zaboravljenoj Šumi. Odmah nakon prelaza, samo se drži ruba granice gde ćeš naići na neke stene, od kojih je jedna ravna, tu bi trebao biti paket. Srećno! Veruj mi da će ti trebati, junačino!</text>
+	</string>
+	<string id="voronin_stol_dostat_0">
+		<text>Generale, treba mi vaša pomoć.</text>
+	</string>
+	<string id="voronin_stol_dostat_1">
+		<text>Možda ti i treba, ali šta ja imam od toga? Mislim da sam imao neki zadatak za uraditi.... Hmmmm, da, ima jedan!</text>
+	</string>
+	<string id="voronin_stol_dostat_2">
+		<text>Sranje! OK, slušam.</text>
+	</string>
+	<string id="voronin_stol_dostat_3">
+		<text>Obeleženi, do sada ti je sve lepo išlo od ruke, pa zato slušaj: Imamo informacije da su Banditi uspostavili komunikaciju sa Plaćenicima, i da ih obaveštavaju o našim kretanjima. Stvari su ozbiljne. Moji ljudi stalno upadaju u zasede, a znaš da ljudi ne rastu na drveću, iako se čini da je u Zoni sve moguće, zar ne stalkeru?</text>
+	</string>
+	<string id="voronin_stol_dostat_4">
+		<text>I? Ne čitam misli! Daj reci već jednom šta ti je na umu!</text>
+	</string>
+	<string id="voronin_stol_dostat_5">
+		<text>Oh, vidi gospodina SIMPATIČNOG! Idi i pronađi mi kompjuter i uređaj za video vezu. Video veza je viđena u ATP, a kompjuter negde u bazi u Mračnoj Dolini. Moje veze mi javljaju da je tamo neka tajna soba u podrumu, sa raznom opremom.</text>
+	</string>
+	<string id="voronin_stol_dostat_6">
+		<text>Generale ako nabavim sve ovo smeće što vam treba, pripremite mi jednu lepu oficirsku uniformu, ništa ispod pukovnika!</text>
+	</string>
+	<string id="voronin_stol_dostat_7">
+		<text>Stvarno ne volim Bandite, i bolje je da pošaljete Ivancova nego mene. On i tako samo igra džepni bilijar sam sa sobom po celi dan.</text>
+	</string>
+	<string id="voronin_stol_dostat_8">
+		<text>To je pravi vojnik. Znao sam da ćeš pristati.</text>
+	</string>
+	<string id="voronin_stol_dostat_9">
+		<text>Dobro ste me nagrađivali do sada, pa kako bih mogao odbiti.</text>
+	</string>
+	<string id="voronin_stol_prines_0">
+		<text>Je li moja uniforma pukovnika spremna?</text>
+	</string>
+	<string id="voronin_stol_prines_1">
+		<text>Sve je moguće. Jesi doneo robu?</text>
+	</string>
+	<string id="voronin_stol_prines_2">
+		<text>Evo vam vaše igračke, generale. Lepo se igrajte onlajn...nikada ne znate ko tamo u sajbersvemiru!</text>
+	</string>
+	<string id="voronin_stol_prines_3">
+		<text>Ma goni uniformu! Imam nešto PUNO bolje! Nadam se da će ti ovo ulepšati dan!</text>
+	</string>
+	<!-- ESCORT THE SCIENTISTS -->
+	<string id="sahar_info_0">
+		<text>Zdravo profesore.</text>
+	</string>
+	<string id="sahar_info_1">
+		<text>Zdravo stalkeru. Imam jedan hitan posao za tebe. Toliko hitan da nemamo vremena razgovarati o nagradi, ali će sigurno biti dobra.</text>
+	</string>
+	<string id="sahar_info_2">
+		<text>Šta se dogodilo?</text>
+	</string>
+	<string id="sahar_info_3">
+		<text>Neke naše naučnike su napali Plaćenici u Divljoj Teritoriji. Trebaš mi da ih otpratiš van.</text>
+	</string>
+	<string id="sahar_info_4">
+		<text>Mislio sam da ste vi pod zaštitom Vojske. Pozovite preko radia, neka pošalju helikopter! Ili su se opet ponapijali?</text>
+	</string>
+	<string id="sahar_info_5">
+		<text>Haha, uvek me znaš nasmejati, Obeleženi! Blizu si. Imaju telefon sa sobom, ali ne mogu nikako dobiti Vojsku. Jako su blizu bunkera. Trebaš se naći s njima u blizini prelaza iz Jantara u Divlju Teritoriju. Isprati ih do bunkera. Moraćeš im čak i vrata otvoriti. Sačekaj dok svi uđu. Šta god da se desi, donesi mi telefon. To je NAJVAŽNIJA stvar, razumeš?</text>
+	</string>
+	<string id="sahar_info_6">
+		<text>Idem, idem. Smirite se, dobićete srčani udar!</text>
+	</string>
+	<string id="sahar_info_7">
+		<text>Moram se naspavati! Danas vam ne mogu pomoći. Žao mi je.</text>
+	</string>
+	<string id="sahar_info_prines_0">
+		<text>Izvolite telefon.</text>
+	</string>
+	<string id="sahar_info_prines_1">
+		<text>Odlično! A šta se desilo sa mojim ljudima?</text>
+	</string>
+	<string id="sahar_info_prines_2">
+		<text>Profesore sami znate kako se vrata bunkera otvaraju i zatvaraju uz tresak.\nOstalo vam nije teško pogoditi. Nije baš lep prizor. Drago mi je što ja to neću morati čistiti!!</text>
+	</string>
+	<string id="sahar_info_prines_3">
+		<text>Baš tužno. Kako god, primi ovaj skromni poklon nauke!</text>
+	</string>
+	<string id="informator_buy_pda_0">
+		<text>Zdravo, gospodine Sveznajući.</text>
+	</string>
+	<string id="informator_buy_pda_1">
+		<text>Šta? Oh, da. Stalkeru, imam jednu poslovnu ponudu za tebe.</text>
+	</string>
+	<string id="informator_buy_pda_2">
+		<text>Da nekog raznesem? Da nekog ulovim? Onda?</text>
+	</string>
+	<string id="informator_buy_pda_3">
+		<text>Ne, ništa tako zabavno, nažalost. Otkupljujem stalkerske PDA uređaje, ispravne, polomljene, pokvarene...</text>
+	</string>
+	<string id="informator_buy_pda_4">
+		<text>Šta je sada ovo, neki reciklažni centar za sve izgubljene PDA uređaje? Baš ekološki od vas!</text>
+	</string>
+	<string id="informator_buy_pda_5">
+		<text>Pa ja sam Doušnik, idiotu! Sve ih skeniram i tražim vredne informacije. Slušaj, za svakih 20 komada PDA uređaja, možeš odigrati jednu malu lutriju. Nagrade su: municija, artefakti (izuzetak su oni retki, naravno), i možda neko oružje. Za 40 PDA-ova podeliću sa tobom informaciju o skrivenom šteku. Samo što ti štekovi pripadaju ili nekom početniku ili veteranu. To je rizik koji moraš da prihvatiš.</text>
+	</string>
+	<string id="informator_buy_pda_6">
+		<text>Zvuči kao neki veliki posao! Ali sakupljaću ih, bolje ih i razmeniti za nešto nego baciti u smeće.</text>
+	</string>
+	<string id="informator_beret_pda_0">
+		<text>Zdravo</text>
+	</string>
+	<string id="informator_beret_pda_1">
+		<text>Pa? Jesi li doneo nešto da poslujemo?</text>
+	</string>
+	<string id="informator_beret_pda_2">
+		<text>Jesam. Imam 20 komada PDA za tebe.</text>
+	</string>
+	<string id="informator_beret_pda_3">
+		<text>Čoveče, ranac će mi se raspasti! Evo 40 PDA-ova.</text>
+	</string>
+	<string id="informator_beret_pda_4">
+		<text>Imam previš posla i nemam vremena tražiti te smrdljive PDA uređaje. Možda neki drugi put. Odoh popiti nešto, suv sam k'o barut!</text>
+	</string>
+	<string id="informator_beret_pda_5">
+		<text>Doneo si 20 komada. Odigrajmo onda lutriju!!!</text>
+	</string>
+	<string id="informator_beret_pda_6">
+		<text>40 komada?!! Ima da ih hakiram celu sedmicu! Mogu samo zamisliti koliko si ih poslao na onaj svet! U redu. Daj mi te uređeje. Daću ti informaciju o skrivenom šteku.</text>
+	</string>
+	<string id="informator_beret_pda_7">
+		<text>Dobro, vidimo se kasnije.</text>
+	</string>
+	<string id="voronin_infa_gg_0">
+		<text>Pravi pravcati general! A zašto niste u Moskvi da živite lep i ugodan život?</text>
+	</string>
+	<string id="voronin_infa_gg_1">
+		<text>Hmph, stalkeri, svi odreda pametnjakovići! Otvori oči! U ratnoj si zoni, ako nisi primetio. Ovde nikad nema dovoljno vojne sile i potrebna nam je sva raspoloživa vatrena moć! I? Jesi li spreman pokazati šta imaš? Ili ćeš poviti svoj rep i pobeći kao slepi pas?!</text>
+	</string>
+	<string id="voronin_infa_gg_2">
+		<text>Stvarno velike reči, generale! Šta se dešava?</text>
+	</string>
+	<string id="voronin_infa_gg_3">
+		<text>Upravo sam dobio informaciju da Plaćenici planiraju napasti Djutijev severni kamp u Vojnim Skladištima. Već sam poslao ljude, a i tvoje prisustve će pomoći u odbrani. Ne želim poslati nekoga ko će se sakriti u ćošak i usrati u gaće dok moji ljudi ginu! Zato je tvoj zadatak da uništiš vođu grupe koji se zove Grba (Hump).</text>
+	</string>
+	<string id="voronin_infa_gg_4">
+		<text>Grba?! Gde smo mi? U crkvi Notre Dam?</text>
+	</string>
+	<string id="voronin_infa_gg_5">
+		<text>Ne pravi se blesav. Od tebe očekujem da uništiš Grbu inače nemamo o čemu više da razgovaramo. Tvoja nagrada je sve ono što pronađeš kod Grbe i njegove plaćeničke bande. Do mene ćeš doći tek kasnije. Daću ti signal za kada oni krenu u napad. Ali pre napada treba da sebi obezbediš Grozu.</text>
+	</string>
+	<string id="voronin_infa_gg_poluch_0">
+		<text>Hej, generale, pozdravite moju malu bebicu! Jednu Grozu koja ima da razvaljiva Plaćenike. Spreman sam za rock-n-roll!</text>
+	</string>
+	<string id="voronin_infa_gg_poluch_1">
+		<text>Odlično! Sada vidim da ozbiljno shvataš posao!</text>
+	</string>
+	<string id="voronin_infa_gg_poluch_2">
+		<text>Volim se malo i zabaviti. Nego, šta ima sa tom plaćeničkom bandom?</text>
+	</string>
+	<string id="voronin_infa_gg_poluch_3">
+		<text>Polako, prvo se moram čuti sa izvidnicom. Evo, uzmi ovu prvu pomoć, možda ti zatreba!</text>
+	</string>
+	<string id="naemn_shturm_poluch_0">
+		<text>Onda? Išta novo?</text>
+	</string>
+	<string id="naemn_shturm_poluch_1">
+		<text>Da, izvestili su me da su Plaćenici već krenuli!</text>
+	</string>
+	<string id="naemn_shturm_otbit_0">
+		<text>Onda, Generale, kakav je osećaj biti u svetu sa jednom Grbom manje?</text>
+	</string>
+	<string id="naemn_shturm_otbit_1">
+		<text>Odlično. Bilo je malo škakljivo, ali je dobro završilo! Djuti ti je jako zahvalan.</text>
+	</string>
+	<string id="naemn_shturm_otbit_2">
+		<text>Pa rekao sam vam da se znam boriti. A sada sam vam to i pokazao!</text>
+	</string>
+	<string id="naemn_shturm_otbit_3">
+		<text>Da. Ubeđen sam da će se sada pridržavati našeg usmenog dogovora. Treba nam puno ljudi poput tebe.</text>
+	</string>
+
+	<string id="naemn_shturm_otbit_f1">		<!--109976-->
+		<text>Možda, ali ti si trebao da rokneš Grbu. Čuo sam da je on, zapravo, jedan od mojih ranih regruta!</text>
+	</string>
+	<string id="naemn_shturm_otbit_f2">
+		<text>U takvom haosu i tako skučenom prostoru, svašta se može dogoditi.</text>
+	</string>
+	<string id="naemn_shturm_otbit_f3">
+		<text>Ipak, posao je posao. Dobićeš ono što pronađeš od smeća što smo uzeli. Ali barem si se trudio i to nećemo zaboraviti.</text>
+	</string>
+</string_table>
+	<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 22:39 -sadd -->
+	<!-- Preveo i prilagodio Flexerca -=- 08:41 29.05.2015 -->

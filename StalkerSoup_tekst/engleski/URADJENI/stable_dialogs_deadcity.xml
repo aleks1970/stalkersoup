@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="cit_doctor_escape_dialog_0">
+		<text>Trebam odgovore na nekoliko pitanja.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1">
+		<text>Samo pitaj, pokušaću ti pomoći.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_11">
+		<text>Gde su moje stvari?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_111">
+		<text>Komandir obično čuva sve oduzete stvari. Njegova soba je na zadnjem spratu. I meni su oduzeli stvari kad su me uhvatili.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1111">
+		<text>Hvala!</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_12">
+		<text>Kako mogu izaći odavde?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_121">
+		<text>Kada su me dovodili ovamo primetio sam kanalizacijeske rešetke ispod stepenica na prvom spratu... Ako uspeš otvoriti ćeliju, možda bi mogao da pobegneš kroz taj kanalizacioni otvor... Najbolje ti je onda da kreneš zapadno, kroz tunel da dođeš do Fridoma.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1211">
+		<text>Hvala na informacijama.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14">
+		<text>ko nas je zarobio?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141">
+		<text>Zarobili su nas Plaćenici. Niko ne zna ko su oni ali se priča da rade zajedno sa stranim obaveštajnim službama. Lokacija ove baze je najstroža tajna - niko ne zna kako da uđe u Mrtvi Grad. Mnogi ljude jako zanima ta informacija, posebno Fridom i Djuti.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1411">
+		<text>Nastavi.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14111">
+		<text>Ukoliko uspeš da nabaviš kartu Mrtvog Grada, napad bi onda mogao biti uspešan. Plaćenici najverovatnije imaju jednu. Pokušaj je nekako dobiti.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141111">
+		<text>Hvala na informacijama.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_15">
+		<text>Šta znaš o ovom mestu?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_151">
+		<text>Grad je podeljen na dve oblasti. Mi smo sada u Plaćeničkoj oblasti. Dole južno, iza trga, su Banditi. Ukopali su se u školskoj zgradi na jugozapadnom delu grada. Između baza, nalazi je istrošena petospratnica ali i nekoliko netaknutih zgrada. Ukoliko zagusti, možeš se tamo sakriti. Također ima tamo i garaža i nekoliko manjih kuća u blizini. Ima nekoliko petospratnica i tucet garaža i na Banditskoj strani. Bivša gradska većnica nalazi se sa druge strane trga.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1511">
+		<text>Hvala na informacijama.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_16">
+		<text>Ko je glavni ovde?</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_161">
+		<text>Jedan pravo zeznut tip pod imanom Dušman. Video sam ga nekoliko puta kako nosi neku fasciklu sa dokumentima. Pretpostavljam da je nešto interesantno unutra.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1611">
+		<text>Hvala na informacijama.</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_17">
+		<text>Ne, ništa.</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_11">
+		<text>Strelok! Gde si dovraga bio??? Nisam video ni tebe ni ostale dečke još od zadnje racije! Pravo sam se zabrinuo!</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_21">
+		<text>I, jel' se osećaš bolje? Razmišljaš li bistrije?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_0">
+		<text>Strelok???</text>
+	</string>
+	<string id="cit_doctor_main_dialog_1">
+		<text>Da, ti si Strelok! Ko bi drugi mogao biti? Ja sam Dok, zar me ne prepoznaješ? Šta ti se desilo, prijatelju? Ne izgledaš dobro. Bili smo zajedno u Zoni 2 godine. Zar me se stvarno ne sećaš?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_11">
+		<text>Ne, ne sećam.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_2">
+		<text>Ne sećaš??? Strelok, koji k...? Ne zezaš se samnom, jel tako? Čoveče... Šta je sa dečkima, našim dečkima? Fangom, Duhom? Sećaš se s njim, zar ne?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_21">
+		<text>Ne sećam se Fanga, a Duh je mrtav - našao sam njegovo telu u Jantaru.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_3">
+		<text>Duh!!?!?! Mrtav??!!! Do vraga, kako se to desilo?! Oni... Oni su bili najbolji. Šta se s tobom desilo?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_31">
+		<text>Ne znam šta se desilo, ne sećam se.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_4">
+		<text>Čekaj, moram doći sebi. To su jako loše vesti, čoveče. Mislim da je to sve povezano sa tvojim zadnjim izletom u Zonu. Kada smo se zadnji put videli, ostavio si mi ključ od šteka u Pripjatu i kartu kako ga pronaći. Uspeo sam ga sačuvati - sakrio sam ga od Plaćenika. Evo, uzmi ga i dobro sakrij. Možda pronađeš nešto tamo. Rekao si mi da ima neka varka u vezi Monolita. Ni ti ni ja nismo razumeli o čemu se radi.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_41">
+		<text>Razumem. Gde smo? Ne sećam se kako sam došao ovde.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_5">
+		<text>Nalazimo se u Mrtvom Gradu! U Plaćeničkom kampu.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_6">
+		<text>U Mrtvom Gradu!.. U Plaćeničkom kampu...</text>
+	</string>
+	<string id="quest_cit_reward_0">
+		<text>Usput, imam neke informacije o Plaćenicima. Zainteresiran?</text>
+	</string>
+	<string id="quest_cit_reward_1">
+		<text>Ovisi o informacijama.</text>
+	</string>
+	<string id="quest_cit_reward_11">
+		<text>Imam kartu sa svim detaljima i lokacijom njihove baze, stražarskim mestima, kako ući unutra da te ne primete i još puno stvari.</text>
+	</string>
+	<string id="quest_cit_reward_111">
+		<text>Zvuči jako dobro. Daću ti 3000 za nju.</text>
+	</string>
+	<string id="quest_cit_reward_1111">
+		<text>Dogovoreno. Izvoli.</text>
+	</string>
+	<string id="quest_cit_reward_11111">
+		<text>Odlično! Evo ti tvoja nagrada. Uskoro će stalkeri pričati o vremenu kada su Plaćenici postojali!</text>
+	</string>
+	<string id="quest_cit_reward_1112">
+		<text>Ne, to nije dovoljno.</text>
+	</string>
+	<string id="quest_cit_reward_11121">
+		<text>Kako hoćeš, ne mogu ti dati ništa više.</text>
+	</string>
+	<string id="quest_cit_reward_13">
+		<text>Ništa vredno. Samo obične glasine. Izvini.</text>
+	</string>
+	<string id="quest_cit_reward_131">
+		<text>Ako saznaš nešto konkretnije, vrati se. Platiću ti.</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca - 23.01.2015 -13.50 -->
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:43 -sadd -->

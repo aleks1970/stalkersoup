@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+<!-- Text editing by: Martin Pallo 09/12/11-->
+
+	<string id="mil_freedom_commander_7000">
+		<text>Hvala puno, Obeleženi! Izgleda da smo uspeli... Prokleta luda kopilad!! Te Monolitske lujke nisu najgore što se moglo desiti ovde... Nedavno su mutanti pokušali probiti unutra iz područja koje okružuje Radar. Jako brzo se kreću, i ne može svako pucati u tako brze mete i pogoditi! Mi imamo bacač plamena, odlično oružje protiv tih nakaza, ali je sada pokvaren. Možda ga naš tehničar, Screw(ne znam koje je ime), može popraviti. Ali kako mi ostali možemo pobeći iz ovog prokletog mesta?! Svedok si da ovde nema ni sekunde mira! Pa, vreme je za jednu malu nagradu za tebe. Jel' novac pali kod tebe?</text>
+	</string>
+	<string id="mil_freedom_commander_7001">
+		<text>Naravno, novac uvek pali...</text>
+	</string>
+	<string id="mil_freedom_commander_7002">
+		<text>Imaš li nešto drugo?</text>
+	</string>
+	<string id="mil_freedom_commander_7003">
+		<text>Hmm, vidiš... Nama treba novac, slušaj... Daću ti 1000 i pokvareni bacač plamena... Ovde nam je beskoristan, i kao što sam ti već rekao, niko neće da ga popravi. Vidim da si pametan dečko, odnesi ga Screw(Ime?), siguran sam da će on nešto smisliti. Veruj mi, vredi više od novca kada radi!</text>
+	</string>
+	<string id="mil_freedom_commander_7004">
+		<text>Ne hvala. Ne treba mi to smeće.</text>
+	</string>
+	<string id="mil_freedom_commander_7005">
+		<text>Mislim da će bacač plamena biti korisniji.</text>
+	</string>
+	<string id="mil_screw_flamethrower_1000">
+		<text>Hej Screw, pogledaj ovo. Totalno razvaljen bacač plamena. Tvoji su ga prijatelji razbili, tako da me ne gledaš tim pogledom sa toliko mržnje... Malo sam im pomogao pa su me sa ovim platili. Još su mi rekli da ga samo ti možeš popraviti. Šta ti misliš? Možeš li ga popraviti?</text>
+	</string>
+	<string id="mil_screw_flamethrower_1001">
+		<text>Prokletstvo... Potrošio sam puno vremena da napravim ovaj bacač plamena! Imbicili jedni... Ne mogu verovati da su ga ovako uništili! Nedostaje crevo za gorivo, kog vraga?! Jesu li ga bacali u sve anomalije što postoje u Zoni? Ili ga je Himera sažvakala u komade? E moj prijatelju... Ima ovde puno posla za odraditi. Već sam na njemu odradio puno, puno noći, ali dobro...  Ti si pomogao mojim momcima a ja ću tebi. Naravno, ne samo na tvoje lepe oči. Napraviću ti listu delova koje treba zameniti. Već imam većinu delova ali ima i nekih koje ne mogu nabaviti ovde. Razmisli malo i o tome, zar stvarno želiš trčkarati po celoj Zoni tražeći delove samo da popraviš ovo čudo?</text>
+	</string>
+	<string id="mil_screw_flamethrower_1002">
+		<text>Jok stari! Do vraga sa ovim komadom smeća! Daću ga tebi za 2500? Šta kažeš?</text>
+	</string>
+	<string id="mil_screw_flamethrower_1003">
+		<text>Trčkarati po celoj Zoni? Pa, zašto sam drugo i došao kod tebe? Reci mi šta ti treba.</text>
+	</string>
+	<string id="mil_screw_flamethrower_1004">
+		<text>Kako hoćeš, uzeću ga.</text>
+	</string>
+	<string id="mil_screw_flamethrower_1005">
+		<!-- MF minor rewrite -->
+		<text>Odlično... Evo šta nam treba:\n \n
+Prvo, treba nam artefakt koji se zove "Vatrena Lopta". Ovaj bacač plamena ima više rupa nego švicarski sir! Većinu mogu zavariti i zatvoriti, ali neću završiti do zime koliko ih ima! Ali sa Vatrenom Loptom, bilo bi gotovo za sekundu, veruj mi, postoje neke nepoznate karakteristike u toj Lopti...jako korisna stvar, zaista... \n
+Drugo, trebaju nam nove cevi i creva za gorivo(Ove koje imam dobre su samo za WC, a ne za bacač plamena!). Zato nabavi cevi. Razgovaraj sa Sidorovičem... Novajlije mu često donose tone smeća iz...pa...sa Deponije! Uzgred ga i pozdravi od mene.\n
+Treće, treba nam novi manometar, ili ćeš ti biti taj koji će biti spaljen. Bože, izgleda kao otvorena konzerva. Moroni jedni.. Dobro, pronađi ga gde god želiš. Ja bih pogledao po Agropromu... Tamo je bio Institute there, znaš, pa možda tamo nešto pronađeš.\n
+Sledeće, treba nam izvor paljenja, plamenik, glavni deo. Originalni plamenik je napravljen od titanijuma, i baš se pitam... Koji mozak ga je uspeo pokvariti, plamenik?!.. Ne možeš nabaviti plamenik od naših momaka... Nema šanse, niko ti ga neće dati! Najbolji je za dimljenje kobasica. Naravno, možeš pogledati i po Barakamayou, bez dozvole... Ali mislim da znam bolji način, idi do Barmena, on je stari lisac, sigurno on ima nešto. Kupi plamenik ali ne govori da je za mene, ako Djuti sazna da pravim oružje ovde, neće spavati dok me ne ucmekaju! Zašto bi mi, do vraga, trebao još i taj problem?\n
+E sada, treba nam najvažniji deo ovog našeg popravkat, votka... "Spiritus Vini", ako želiš, ima razne vrste primena... Čisti odlično delove a čisti i glavu. Kontaš? Donesi mi votke, hoćeš li? Vidiš, treba mi jaka motivacija za zadatak kao što je ovaj... Mislim, 5 flaša bi trebao biti dosta... Možda sedam... Ma goni ga, donesi mi 10 flaša. Kao što rekoh, ima tu puno posla za odraditi.\n
+To je sve. Mislim da ćeš uspeti, ipak si ti Stalker, jel' tako? Naposletku, imaćeš svoj bacač plamena... Verujem u tebe... Bili bi divno ako bi votka bila prva na listi od stvari koje ćeš potražiti...</text>
+	</string>
+	<string id="mil_screw_flamethrower_1006">
+		<text>Izgleda da ću morati u jednu ozbilju kupovinu. Nadam se da će se isplatiti.</text>
+	</string>
+	<string id="mil_screw_flamethrower_1007">
+		<text>Veruj mi, isplatiće ti se. Uzgred... Sve će to ovo koštati... 5000. Nije previše, jer mi se sviđaš!</text>
+	</string>
+	<string id="mil_screw_flamethrower_1008">
+		<text>Čekaj, nisi ništa spominjao novac!</text>
+	</string>
+	<string id="mil_screw_flamethrower_1009">
+		<text>Hej, budi pametan. Mogu dobiti milion za ovaj bacač! Ali ja nisam takva osoba, Obeleženi. Vidiš... Ko bi osim mene mogao to uraditi? Zato ne budi tako škrt, čoveče!</text>
+	</string>
+	<string id="mil_screw_flamethrower_1010">
+		<text>Dobro, do vraga, pristajem. Nemoj samo umreti od votke pre nego se vratim.</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_0">
+		<text>Hej Sidoroviču, dobio sam neke vesti od Screw. Želi znati da li ga se još sećaš?</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1000">
+		<!-- MF minor rewrite -->
+		<text>Screw huh? Screw... Pamćenje mi nije dobro kao nekada kada sam bio mlađi, Obeleženi... Ali sećam se stalkera sa imenom Screw. Bio je prava votkopija. Popio bi mi sve zalihe votke samo da sam mu dozvolio. Mislio sam da je do sada već odlepio od pića. Heh... Ali doneo mi je neke jako retke stvari dok je još bio mlađi, a njegove ruke, e to su ruke pravog majstora. Mogao je poprviti sve živo, sve od TV-a do Dosiometra... Znači još je živ?</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1001">
+		<!-- MF minor rewrite -->
+		<text>Da, živ je. On me i poslao tebi, rekao mi je da bi ti mogao imati nešto za mene, što mi jako treba... Tražim železne cevi, ne baš velike. Ne trebaju lično meni već Screw mi pomaže da nešto popravim... Imaš li nešto slično?</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1002">
+		<!-- MF minor rewrite -->
+		<text>Šta? Zašto ti, za ime Boga, trebaju cevi? Ne držim te stvari ovde, niti mi trebaju niti ih imam kome prodati!</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1003">
+		<text>Koliko ti trebam platiti za te cevi?</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1004">
+		<!-- MF minor rewrite -->
+		<text>Obeleženi... Jel' ti radijacija pomutila um? Kažem ti na nemam nikakvih železnih cevi! Jedino ti mogu dati savet... Stvarno si me razveselio kada si mi rekao da je Screw još živ. Zato ti savetujem da se nađeš saS Aleksejem Tambovskijem. On uvek pravi nešto od smeća. On je sada u Deponiji, traži delove za neki detektor koji hvata životne oblike. Daću ti njegove koordinate.</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1005">
+		<text>Hvala, znači li ovo da ćeš mi dati savet besplatno? Neverovatno.</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1006">
+		<text>Šta si rekao? Izgleda da nemam problema samo sa pamćenjem...</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1007">
+		<text>Zato i kažem, hvala puno! Hvala za savet i ostaj mi dobro Sidoroviču.</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1008">
+		<text>Eh, zdravlje mi nije kao što je nekada bilo.</text>
+	</string>
+	<string id="gar_flamethrower_0">
+		<text>Hej, trebaš nešto?</text>
+	</string>
+	<string id="gar_flamethrower_1000">
+		<!-- MF minor rewrite -->
+		<text>Sidorovič mi je rekao da možda imaš neke železne cevi.</text>
+	</string>
+	<string id="gar_flamethrower_1001">
+		<text>Železne cevi, eh? Hmm... Video sam ih nekoliko na onim radioaktivnim brdima, ali ne mogu doći do njih jer nemam prikladno odelo. Ali sam zapisao koordinate. Ako ti stvarno trebaju mogu ti ih prodati gotovo besplatno. Gore na brdu sam odlučio da još nešto pogledam ali sam uhvatio malo radijacije, samo mi je prestala teći krv iz nosa. Slušaj... Daćeš mi neki antirad, a ja ću tebi koordinate, ok?</text>
+	</string>
+	<string id="gar_flamethrower_1002">
+		<!-- MF minor -->
+		<text>Može, ali nemam antirad. Snalazi se sam. Sam ću potražiti cevi.</text>
+	</string>
+	<string id="gar_flamethrower_1003">
+		<text>U redu, moraš biti malo pažljiviji sa radijacijom. Izvoli.</text>
+	</string>
+	<string id="gar_flamethrower_1004">
+		<!-- MF minor -->
+		<text>Daj mi svoj PDA. E ovde pogledaj, označio sam ti. Siguran sam da su cevi tamo, niko ih nije mogao uzeti. Idi tamo.</text>
+	</string>
+	<string id="gar_flamethrower_1005">
+		<text>Hvala puno. Sretno sa tim novim uređajem.</text>
+	</string>
+	<string id="barmen_flamethrower_task_0">
+		<text>Hej! Slušaj, možeš li mi prodati plamenik?</text>
+	</string>
+	<string id="barmen_flamethrower_task_1000">
+		<text>Plamenik? Interesantno pitanje. Nezgodno mi je pitati ali moram: Zašto ti treba?</text>
+	</string>
+	<string id="barmen_flamethrower_task_1001">
+		<text>Crkavam od želje da pojedem malo dimljenih kobasica!</text>
+	</string>
+	<string id="barmen_flamethrower_task_1002">
+		<text>Ma stvarno? Ok, ok, ne tiče me se. Imam jedan i lepo rad. Tvoj je za 250.</text>
+	</string>
+	<string id="barmen_flamethrower_task_1003">
+		<text>250 za njega? Zaboravi. Naći ću negdje drugo.</text>
+	</string>
+	<string id="barmen_flamethrower_task_1004">
+		<text>Poštena cena, izvoli novac.</text>
+	</string>
+	<string id="parts_completed_0">
+		<text>Jesi nabavio sve delove? Nadam se da si i votku nabavio.</text>
+	</string>
+	<string id="parts_completed_1000">
+		<!-- MF minor rewrite -->
+		<text>Sve sam nabavio i votku također. Sada na posao! Ja čekam taj bacač plamena a moj novac čeka tebe.</text>
+	</string>
+	<string id="parts_completed_1001">
+		<text>Polako dečko! Rekao sam da ću napraviti tu prokletinju. Daj mi jedan dan i dobićeš svoju igračku.</text>
+	</string>
+	<string id="parts_completed_1002">
+		<text>Dogovoreno. Sačekaću.</text>
+	</string>
+	<string id="parts_completed_10111">
+		<text>I, kako idu popravci? Jesi li pri kraju?</text>
+	</string>
+	<string id="parts_completed_1003">
+		<text>Ooo, O-O-Obeležžženiii... Heh-heh, pa kako si mi najdraži prijatelju!? Šta si trebao od mene? ...Oh, pa da! Bacač plamena... Stvarno si mislio da je već gotov? Uhh, izvini čoveče, mislim da sam malo više popio i izgubio pojam o vremenu.</text>
+	</string>
+	<string id="parts_completed_1004">
+		<text>Zezaš me? Pa rekao si da ti piće pomaže da se fokusiraš. Da radiš bez pića vaša cela baza bi mogla biti opremljna sa bacačima plamena. Do vraga i s tobom, vratiću se kada se otrezniš.</text>
+	</string>
+	<string id="parts_completed_1013">
+		<text>I? Jesi došao sebi? Kako moj bacač plamena?</text>
+	</string>
+	<string id="parts_completed_1005">
+		<text>Jesam, sada sam dobro, izvini... Izvoli svoj bacač!</text>
+	</string>
+	<string id="parts_completed_1006">
+		<text>Je li moguće!? Mislio sam da nećeš uspeti. Izgleda odlično, daj ga ovamo.</text>
+	</string>
+	<string id="parts_completed_1007">
+		<text>Hej polako, ipak nisam toliko pijan danas. Imali smo dogovor... 10000 rublja za popravke, sećaš se?</text>
+	</string>
+	<string id="parts_completed_1008">
+		<text>Šta!? Jel' ti se mozak rastopio od votke? Rekli smo 5000. Ili bi radije voleo da te podsetim kako bi Djuti bio zainteresiran za tvoj rad ovdje?</text>
+	</string>
+	<string id="parts_completed_1009">
+		<text>Ok, smiri se,  5000 rublji... Evo ti tvoj bacač plamena. Sada možeš svoj život učiniti svetlijim. Oh da, ima još nešto... Taj balon goriva je dovoljan samo za jedan minut paljenja. Tada će se isprazniti... Dođi kod mene i ja ću ti ga ponovo napuniti za pristojnu cenu. Jer to i nije tako jednostavno, zapamti. Također mi treba i kanister benzina i balon napunjen Koliodnim gasom, koji se koristi za bacače plamena. Da, ne mogu sve nabaviti sam, i da, koštaće te puno.</text>
+	</string>
+	<string id="parts_completed_1010">
+		<text>Balon? A gde njega mogu naći?</text>
+	</string>
+	<string id="parts_completed_1011">
+		<text>Koloidni gas, kažem ti! Oni jajoglavi naučnici su ga puno doneli Zonu za svoje eksperimente. Savršen je kao gorivo za bacač. Možeš ga nabaviti u Agropromu, i svugdje drugo. Ali bolje ga potraži sada, u redu? Ne zaboravi, kanister goriva i balon to prokletog Koloida.</text>
+	</string>
+	<string id="parts_completed_1012">
+		<text>U redu, shvatio sam. Hvala. Želim ti prijatnu zabavu sa ostatkom votke.</text>
+	</string>
+	<string id="mil_screw_flamethrower_text">
+		<!-- MF A Pressuremeter -->
+		<text>Moram pronaći neke predmete sa liste koju mi je Šraf dao:\n \n
+1. Artefakt "Vatrena Lopta".\n
+2. Cevi. Šraf reče da bi ih Sidorovič mogao imati.\n
+3. Manometar. Pogledati u Agroprom Istraživačkom Institutu.\n
+4. Plamenik. Pitati Barmena.\n
+5. Deset flaša votke za ovog alkoholičara.\n \n
+Biće ovo dug dan...</text>
+	</string>
+	<string id="trubka_descr">
+		<text>Čelične cevi. Malo savijene ali izgledaju dovoljno jako. Trebale bi biti dobre za bacač plamena.</text>
+	</string>
+	<string id="gorelka_descr">
+		<text>Plamenik srednje veličine. Kao što stalkeri kažu, kobasica je predivna kada se nadimi sa ovom stvari. Koristi se da zapali visokotemperaturni gel u bacaču.</text>
+	</string>
+	<string id="manometr_descr">
+		<!-- MF Pressuremeter -->
+		<text>Obični manometar, iz nekog industrijskog mehanizma iz Sovjetskog doba. Staklo je prljavo ali izgleda u prilično dobrom stanju. Trebao bi propisno raditi na bacaču.</text>
+	</string>
+	<string id="flama_descr">
+		<text>Bezvredna stvar. Ko zna kakve je fantastične moći imala dok je radila. Možda bi je neki dobar tehničar mogao i popraviti. Gde bih mogao potražiti takvog specijalistu?</text>
+	</string>
+	<string id="flame_descr">
+		<text>Ručno rađeno oružje, bazirano na vojnom modelu bacača plamena, a napravio ga je Screw. Namenjeno za blisku borbuI, ali je razarajuće oružje. Najbolje se koristi za roštiljanje hordi mutanata. Pod punim naponom rigaće vatru oko jedne minute.</text>
+	</string>
+	<string id="flame_no_parts_0">
+		<text>Sranje, zaboravio sam nešto. Vratiću se.</text>
+	</string>
+	<string id="item_flamethrower_bad_name">
+		<!-- MF articles -->
+		<text>Pokvareni bacač plamena.</text>
+	</string>
+	<string id="manometr">
+		<!-- MF minor correction -->
+		<text>Manometar.</text>
+	</string>
+	<string id="trubka">
+		<!-- MF articles -->
+		<text>Cev.</text>
+	</string>
+	<string id="gorelka">
+		<!-- MF articles -->
+		<text>Plamenik.</text>
+	</string>
+	<string id="flamethrower_basic">
+		<text>Bacač plamena - ručno rađen ali sa velikim umećem. Može se napuniti u bazi Fridoma, kod Screw. Nije široko rasprostranjena tehnologija a i gorivo je teško nabaviti. Sastoji se od običnog benzina (pohranjen u običnom kanisteru) i specijalnog Koloidnog gasa (pohranjenom u specijalnom crveno obeleženom spremniku). Screw kaže da ih ima puno u Agroprom, ali da se mogu pronaći i na drugim mestima. Naravno, Screw ih može pronaći i sam ali bi to previše koštalo. I kao i uvek, trebaće mu flaša votke samo za sebe.</text>
+	</string>
+	<!-- Preveo i prilagodio Flexerca -=- 11:13 27.07.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:12 -sadd -->

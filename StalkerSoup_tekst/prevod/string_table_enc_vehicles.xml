@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 added vehicles, land rover, removed "string_table" - aleks1970   -->
+
+	<string id="Vehicles">
+		<text>Transport</text>
+	</string>
+	<string id="vehicles_icarus260_name">
+		<text>ICARUS 260</text>
+	</string>
+	<string id="enc_vehicles_icarus260">
+		<text>-</text>
+	</string>
+	<string id="vehicles_laz4202_name">
+		<text>LAZ 4202</text>
+	</string>
+	<string id="enc_vehicles_laz4202">
+		<text>-</text>
+	</string>
+	<string id="vehicles_kavz685_name">
+		<text>KAVZ 685</text>
+	</string>
+	<string id="enc_vehicles_kavz685">
+		<text>-</text>
+	</string>
+	<string id="vehicles_sport_baggi_name">
+		<text>Sportski Baggi</text>
+	</string>
+	<string id="enc_vehicles_sport_baggi">
+		<text>Odličan za močvarne i peskovite terene.</text>
+	</string>
+	<string id="vehicles_armored_car_name">
+		<text>Oklopno vozilo</text>
+	</string>
+	<string id="enc_vehicles_armored_car">
+		<text>Transportno oklopno vozilo.</text>
+	</string>
+	<string id="vehicles_btr80_name">
+		<text>BTR80</text>
+	</string>
+	<string id="enc_vehicles_btr80">
+		<text>Oklopno vozilo srednjeg dometa.</text>
+	</string>
+	<string id="vehicles_btr90_name">
+		<text>BTR90</text>
+	</string>
+	<string id="enc_vehicles_btr90">
+		<text>Oklopno vozilo dugog dometa.</text>
+	</string>
+	<string id="vehicles_vezdehod_name">
+		<text>Vezdehod</text>
+	</string>
+	<string id="enc_vehicles_vezdehod">
+		<text>-</text>
+	</string>
+	<string id="vehicles_gaz24_name">
+		<text>GAZ24</text>
+	</string>
+	<string id="enc_vehicles_gaz24">
+		<text>-</text>
+	</string>
+	<string id="vehicles_gaz66_name">
+		<text>GAZ66</text>
+	</string>
+	<string id="enc_vehicles_gaz66">
+		<text>-</text>
+	</string>
+	<string id="vehicles_zaz965_name">
+		<text>ZAZ-965</text>
+	</string>
+	<string id="enc_vehicles_zaz965">
+		<text>ZAZ-965 Hunchback</text>
+	</string>
+	<string id="vehicles_zaz968_name">
+		<text>ZAZ-968</text>
+	</string>
+	<string id="enc_vehicles_zaz968">
+		<text>ZAZ-968 Hunchback</text>
+	</string>
+	<string id="vehicles_zil130_name">
+		<text>ZIL130</text>
+	</string>
+	<string id="enc_vehicles_zil130">
+		<text>-</text>
+	</string>
+	<string id="vehicles_zil131_name">
+		<text>ZIL131</text>
+	</string>
+	<string id="enc_vehicles_zil131">
+		<text>-</text>
+	</string>
+	<string id="vehicles_zil130_truck_name">
+		<text>ZIL130 Kamion</text>
+	</string>
+	<string id="enc_vehicles_zil130_truck">
+		<text>-</text>
+	</string>
+	<string id="vehicles_lada2103_name">
+		<text>LADA 2103</text>
+	</string>
+	<string id="enc_vehicles_lada2103">
+		<text>-</text>
+	</string>
+	<string id="vehicles_lada2106_name">
+		<text>LADA 2106</text>
+	</string>
+	<string id="enc_vehicles_lada2106">
+		<text>-</text>
+	</string>
+	<string id="vehicles_moskvitch_name">
+		<text>Moskvič</text>
+	</string>
+	<string id="enc_vehicles_moskvitch">
+		<text>Sovjetsko policijsko vozilo.</text>
+	</string>
+	<string id="Kamaz">
+		<text>KAMAZ kamion</text>
+	</string>
+	<string id="vehicles_kamaz_name">
+		<text>KAMAZ kamion</text>
+	</string>
+	<string id="enc_vehicles_kamaz">
+		<text>Najčešće korišteni sovjetski kamion.</text>
+	</string>
+	<string id="vehicles_kamaz_military_name">
+		<text>KAMAZ Vojni</text>
+	</string>
+	<string id="enc_vehicles_kamaz_military">
+		<text>-</text>
+	</string>
+	<string id="Niva">
+		<text>Niva</text>
+	</string>
+	<string id="vehicles_niva_name">
+		<text>Niva</text>
+	</string>
+	<string id="enc_vehicles_niva">
+		<text>Vojna Niva</text>
+	</string>
+	<string id="vehicles_niva_sport_name">
+		<text>Sportska Niva</text>
+	</string>
+	<string id="enc_vehicles_niva_sport">
+		<text>Terensko i trkaće auto.</text>
+	</string>
+	<string id="vehicles_t40_name">
+		<text>T-40</text>
+	</string>
+	<string id="enc_vehicles_t40">
+		<text>-</text>
+	</string>
+	<string id="vehicles_raf_name">
+		<text>RAF</text>
+	</string>
+	<string id="enc_vehicles_raf">
+		<text>-</text>
+	</string>
+	<string id="Uaz">
+		<text>UAZ</text>
+	</string>
+	<string id="vehicles_uaz_name">
+		<text>UAZ</text>
+	</string>
+	<string id="enc_vehicles_uaz">
+		<text>Sovjetski vojni džip.</text>
+	</string>
+	<string id="vehicles_uaz469_uniq_name">
+		<text>UAZ-469 Unique</text>
+	</string>
+	<string id="enc_vehicles_uaz469_uniq">
+		<text>-</text>
+	</string>
+	<string id="vehicles_uaz469_open_name">
+		<text>UAZ-469 otvorene kabine</text>
+	</string>
+	<string id="enc_vehicles_uaz469_open">
+		<text>-</text>
+	</string>
+	<string id="vehicles_uaz_buhanka_name">
+		<text>UAZ transporter</text>
+	</string>
+	<string id="enc_vehicles_uaz_buhanka">
+		<text>-</text>
+	</string>
+	<string id="vehicles_ural4320_name">
+		<text>URAL4320</text>
+	</string>
+	<string id="enc_vehicles_ural4320">
+		<text>-</text>
+	</string>
+	<string id="vehicles_dodge_name">
+		<text>Dodge Charger</text>
+	</string>
+	<string id="enc_vehicles_dodge">
+		<text>Pouzdan i jeftin prevoz.</text>
+	</string>
+	<string id="vehicles_ferrari_name">
+		<text>Ferrari</text>
+	</string>
+	<string id="enc_vehicles_ferrari">
+		<text>Sportsko talijansko auto, daleko od svog idealnog područja!</text>
+	</string>
+	<string id="vehicles_hummer_name">
+		<text>HUMMER</text>
+	</string>
+	<string id="enc_vehicles_hummer">
+		<text>Robusno ali neekonomično transportno vozilo.</text>
+	</string>
+	<string id="vehicles_land_rover_name">
+		<text>Land Rover</text>
+	</string>
+	<string id="enc_vehicles_land_rover">
+		<text>Naučnički rover za istraživanje u teškim uvetima.</text>
+	</string>
+	<string id="vehicles_tb3d_atv">
+		<text>Quad ATV</text>
+	</string>
+	<string id="enc_vehicles_tb3d_atv">
+		<text>Quad ATV obično koristi za brzo kretanje kroz ogromne oblasti.</text>
+	</string>
+	<string id="btr-70">
+		<text>BTR-70</text>
+	</string>
+	<string id="enc_vehicles_btr-70">
+		<text>Oklopni transporter.</text>
+	</string>
+	<string id="mi-24">
+		<text>Mi-24 helikopter</text>
+	</string>
+	<string id="vehicles_mi24_name">
+		<text>MI-24 jurišni helikopter</text>
+	</string>
+	<string id="enc_vehicles_mi-24">
+		<text>Vojni jurišni helikopter.</text>
+	</string>
+	<string id="Zaporozh">
+		<text>Zaporožac</text>
+	</string>
+	<string id="enc_vehicles_zaporozh">
+		<text>Mali sovjetski auto.</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 28.01.2015 - 12.02 -->
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:49 -sadd -->

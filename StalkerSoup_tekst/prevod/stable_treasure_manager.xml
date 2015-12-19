@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 edits/cryillic, line 629, 1505 removed russian char. aleks1970  -->
+<string_table>
+	<string id="dead_city_secret_1_name">
+		<text>Štek Begunaca</text>
+	</string>
+	<string id="dead_city_secret_1_descr">
+		<text>Vreme je da se beži iz 'Poslednjeg Dana' (last day) ... Razbojnici ... Napraviću štek, kada budem u bekstvu - sa korisnim - malenim stvarčicama koje mi ščajnički trebaju ...</text>
+	</string>
+	<string id="dead_city_secret_2_name">
+		<text>Stvari Zombija</text>
+	</string>
+	<string id="dead_city_secret_2_descr">
+		<text>Nešto, nakon jučerašnjeg susreta sa kontrolerom nekako nije sve kako treba ... Misli su glupe i glava mi je kao cigla ... Sklonio sam svoje stvari ovde - ako to nije bila glupost, dok sam bio bolestan ...</text>
+	</string>
+	<string id="dead_city_secret_3_name">
+		<text>Nička Obomorok</text>
+	</string>
+	<string id="dead_city_secret_3_descr">
+		<text>Nička - nije Nička, ali do sada iste džukele nemaju profita a neće ni da odu - sklanjaj to ... U ovoj oblasti, čak i nadležnosti vlasti imaju vrlo mali značaj.</text>
+	</string>
+	<string id="dead_city_secret_4_name">
+		<text>Štek Veterana</text>
+	</string>
+	<string id="dead_city_secret_4_descr">
+		<text>Nisam mnogo sakupio. Ali gde sve to da ostavim?? Ovde nema ni trgovaca, niti drugih oblasti ... Ovo smeće bolje da ostavim ovde - možda za neko bolje vreme, onda ću ga pokupiti.</text>
+	</string>
+	<string id="dead_city_secret_5_name">
+		<text>Dedine Stvari</text>
+	</string>
+	<string id="dead_city_secret_5_descr">
+		<text>Star sam ... Ranac mi je veliki teret da nosim - ne kao ovi mladi klipani ... Oni ne znaju ukus pobede i adrenalina kada izvršiš misiju na ivici ... Ali moram - ostavi ga - može li neko, a uz odmor bih popio i piće ako dođem do njega ...</text>
+	</string>
+	<string id="atp_arhara_secret_1_name">
+		<text>Štek iskusnog izviđača</text>
+	</string>
+	<string id="atp_arhara_secret_1_descr">
+		<text>Zakopao sam mapu sa koordinatama tranzicije. Meni više nije potrebna - ovu putanju sam naučio napamet...</text>
+	</string>
+	<string id="atp_arhara_secret_2_name">
+		<text>Skriveni kablovi</text>
+	</string>
+	<string id="atp_arhara_secret_2_descr">
+		<text>Ah ti lopovi. Gde je lopovima savest'? Plen je beznačajan, nije mi potreban uopšte, ali ipak ću ga sakriti. Ako to bude vredelo - onda ću još dodati. Nadam se, da je dovoljno visoko da lopovi ne mogu doći do njega.</text>
+	</string>
+	<string id="atp_arhara_secret_3_name">
+		<text>Plen od Kita</text>
+	</string>
+	<string id="atp_arhara_secret_3_descr">
+		<text>Kalinjin-Kalinjin, kolebljivče jedan. Skloniću ga od radoznalih pogleda. Gaće su sada deficitarne. Spremiću novac - oružje sa dometom ću uzeti. Govori, ovde sada bezakonje vlada.</text>
+	</string>
+	<string id="generators_arhara_secret_1_name">
+		<text>Ranac od Monolita</text>
+	</string>
+	<string id="generators_arhara_secret_1_descr">
+		<text>Sudbina me je dovela do ovih fanatika. Kolebam se da ukradem od njih - oni nisu govorljivi - greh je da to ne uzmem... A onda hvatam maglu odavde - uzeću.</text>
+	</string>
+	<string id="generators_arhara_secret_2_name">
+		<text>Skriveno mesto Druga Zemljaka</text>
+	</string>
+	<string id="generators_arhara_secret_2_descr">
+		<text>Plen je zakopan daleko od zlih i zavidnih očiju. Neka tu i ostane - mesto je napušteno - niko neće ovde doći.</text>
+	</string>
+	<string id="generators_arhara_secret_3_name">
+		<text>Plen stražara iz obezbeđenja</text>
+	</string>
+	<string id="generators_arhara_secret_3_descr">
+		<text>Ostavljeno je od svačeg po malo. Stvari koje više nisu potrebne njihovim bivšim vlasnicima, a za mene - mogu i hoće odgovarati.</text>
+	</string>
+	<string id="generators_arhara_secret_4_name">
+		<text>Fricov Štek</text>
+	</string>
+	<string id="generators_arhara_secret_4_descr">
+		<text>Plen i nije tako loš. U njegovom rancu koji je stalno vukao - ali nije ga stavljao. Ostaviću ga za budućnost - naravno čitav vek sam zaglavljen u Zoni ...</text>
+	</string>
+	<string id="generators_arhara_secret_5_name">
+		<text>Nepoznato skriveno mesto</text>
+	</string>
+	<string id="generators_arhara_secret_5_descr">
+		<text>Vlasnik ovoh šteka je nepoznat. Verovatno je nestao već odavno u nekom od vrtloga života ovde u Zoni, ostavljajući plen stalkerima koji bi slučajno naišli do ovog skrivenog mesta.</text>
+	</string>
+	<string id="aver_arhara_secret_1_name">
+		<text>Arharin Štek</text>
+	</string>
+	<string id="aver_arhara_secret_1_descr">
+		<text>Sakrio sam stvari, nadam se da ih neće pronaći - ljudi ovde mnogo vole da čeprkaju.  Sam sam ih morao odneti na regionalni om (regional ohm?)...</text>
+	</string>
+	<string id="aver_arhara_secret_2_name">
+		<text>Pilgrimovo skriveno mesto</text>
+	</string>
+	<string id="aver_arhara_secret_2_descr">
+		<text>Ovo je za mene novo. Ne smem oklevati dok leži tamo dužole - prilagodiću se - ima da ga uzmem.</text>
+	</string>
+	<string id="aver_arhara_secret_3_name">
+		<text>Hermitovo skriveno mesto</text>
+	</string>
+	<string id="aver_arhara_secret_3_descr">
+		<text>Napio sam juče neke 'Osvetnike'... Maznuo sam im samo oružje - ali ono je - neobično, zbog toga sam ga sakrio za bolje dane.</text>
+	</string>
+	<string id="aver_arhara_secret_4_name">
+		<text>Astrologov Štek</text>
+	</string>
+	<string id="aver_arhara_secret_4_descr">
+		<text>Napraviću koristan štek u ovom stablu - često mi se dešava da prolazim ovuda ... a značajan je svaki minut - plen je prilično dobar ...</text>
+	</string>
+	<string id="aver_arhara_secret_5_name">
+		<text>Starčevo skriveno mesto</text>
+	</string>
+	<string id="aver_arhara_secret_5_descr">
+		<text>Ostaviću ranac sa artefaktima ovde dok budem bio na lečenju kod fizijatra. Popravljaju zdravlje - ima da ih uzmem i odnesem.</text>
+	</string>
+	<string id="warlab_arhara_secret_1_name">
+		<text>Panterin Štek</text>
+	</string>
+	<string id="warlab_arhara_secret_1_descr">
+		<text>Ostavila sam plen vrlo osetljive sadržine u omiljeni spremnik. Ovi tipovi - takvi lopovi, odvućiću ih sve, pa štek naća biti pronađen.</text>
+	</string>
+	<string id="warlab_arhara_secret_2_name">
+		<text>Vitaminovo skriveno mesto</text>
+	</string>
+	<string id="warlab_arhara_secret_2_descr">
+		<text>Došao sam. Upucao sam neke džukele. Naša baza. Ostavio sam poseban plen - u tom rancu moj višak opreme sam ostavio. Moram krenuti na misiju - odlazim.</text>
+	</string>
+	<string id="warlab_arhara_secret_3_name">
+		<text>Kotjin Štek</text>
+	</string>
+	<string id="warlab_arhara_secret_3_descr">
+		<text>Bacio sam ranac u okno od lifta. Ostavio sam ga tamo satima - a vrlo je koristan. Život plaćenika nije vredan žutog dinara - to bi moglo biti sutra.</text>
+	</string>
+	<string id="village_arhara_secret_1_name">
+		<text>Mihin Štek</text>
+	</string>
+	<string id="village_arhara_secret_1_descr">
+		<text>Đavo ga znao, kako sam ovde dospeo, i svo smeće sam ovde ostavio, koje ne mogu više da teglim sa sobom. Uglavnom ne potrebne stvari, ako i nestane, neće biti velika šteta.</text>
+	</string>
+	<string id="village_arhara_secret_2_name">
+		<text>Skriveno mest Lokalca</text>
+	</string>
+	<string id="village_arhara_secret_2_descr">
+		<text>Selo je odumrlo ... Svi su se neprimetno razbežali , koje-kuda... pre nego što bi neko nastradao, svi su ludački povegli... To nije dobro. Znači - ostaviću sve, za sada i hvatam maglu odavde.</text>
+	</string>
+	<string id="village_arhara_secret_3_name">
+		<text>Kapetanov Ranac</text>
+	</string>
+	<string id="village_arhara_secret_3_descr">
+		<text>Juče sa raščistio odabranu površinu. Leševa je mnogo. Povezao se sa preprodavcima polovnih stvari. To što je preostalo - ima da ostavim - u mapama će biti zapisano - biće, onda ću ih dati Djutiju.</text>
+	</string>
+	<string id="village_arhara_secret_4_name">
+		<text>Poručnikov Štek</text>
+	</string>
+	<string id="village_arhara_secret_4_descr">
+		<text>Izdvojio sam se. Ponekad je potrebno odmoriti, jesti i pročitati časopis... Trepa pregledati. A moraš nositi tonu opreme sa sobom. I koji je idiot rekao, da Zona nije za šene? Impotentna budala, tačno tako...</text>
+	</string>
+	<string id="agr_secret_0000_descr">
+		<text>Za sad je naš tajni štek u tunelu. Nije loše mesto - retko ko zna za njega, a anomalije sprečavaju druge da im priđu.</text>
+	</string>
+	<string id="agr_secret_0000_name">
+		<text>Tajni štek Sivog</text>
+	</string>
+	<string id="agr_secret_0001_descr">
+		<text>Sakrio sam stvari u panj pored tunela. Šupalj je izunutra.</text>
+	</string>
+	<string id="agr_secret_0001_name">
+		<text>Šuplji panj</text>
+	</string>
+	<string id="agr_secret_0002_descr">
+		<text>Zakopao sam neke stvari u grob pored žbunja.</text>
+	</string>
+	<string id="agr_secret_0002_name">
+		<text>Laka im crna zemlja</text>
+	</string>
+	<string id="agr_secret_0003_descr">
+		<text>Stavio sam ranac ispod oborenog drveta.</text>
+	</string>
+	<string id="agr_secret_0003_name">
+		<text>Ranac ispod drveta</text>
+	</string>
+	<string id="agr_secret_0004_descr">
+		<text>Ugurao sam ranac u cev pored fabrike. Nema šanse da ga nađu.</text>
+	</string>
+	<string id="agr_secret_0004_name">
+		<text>Odžačarev ranac</text>
+	</string>
+	<string id="agr_secret_0005_descr">
+		<text>Stavio sam kutiju na krov fabrike - tako da ga niko neće naći. Nego može da zarđa od kiše.</text>
+	</string>
+	<string id="agr_secret_0005_name">
+		<text>Kutija na krovu</text>
+	</string>
+	<string id="agr_secret_0006_descr">
+		<text>Pucali su na mene. Morao sam da bacim ranac u vagon ispod sedišta. Barem sam se izvukao. Vratiću se kasnije da ga pokupim.</text>
+	</string>
+	<string id="agr_secret_0006_name">
+		<text>Pijaničin ranac</text>
+	</string>
+	<string id="agr_secret_0007_descr">
+		<text>Sakrio sam ga ispod krsta, iza cisterne. Kopaj malo, samo nemoj da se zaneseš.</text>
+	</string>
+	<string id="agr_secret_0007_name">
+		<text>Pored tri cisterne</text>
+	</string>
+	<string id="agr_secret_0008_descr">
+		<text>Stavio sam ranac na krov fabrike, valjda niko neće da ga vidi. Jedino što, sam zaboravio šta imam unutra.</text>
+	</string>
+	<string id="agr_secret_0008_name">
+		<text>Ranac u otvoru</text>
+	</string>
+	<string id="agr_secret_0009_descr">
+		<text>Stavio sam stvari u mali kovčeg u fabrici</text>
+	</string>
+	<string id="agr_secret_0009_name">
+		<text>Ozračeni kovčeg</text>
+	</string>
+	<string id="agr_secret_0010_descr">
+		<text>U kutiji ispod stepenica ima dobar štek.</text>
+	</string>
+	<string id="agr_secret_0010_name">
+		<text>Kutija ispod stepenica</text>
+	</string>
+	<string id="agr_secret_0011_descr">
+		<text>Stavio sam sve u kutiju, tamo neće niko da gleda.</text>
+	</string>
+	<string id="agr_secret_0011_name">
+		<text>Fabrička kutija</text>
+	</string>
+	<string id="agr_secret_0012_descr">
+		<text>Bacio sam ranac kroz prozor. Pokupiću ga kasnije.</text>
+	</string>
+	<string id="agr_secret_0012_name">
+		<text>Ranac je na stubu</text>
+	</string>
+	<string id="agr_secret_0013_descr">
+		<text>Kolian i ja smo se lepo prošetali kroz Agroprom. Našli smo neke gluposti, pa smo ih sakrili. Kutiju smo stavili u korpu za otpatke.</text>
+	</string>
+	<string id="agr_secret_0013_name">
+		<text>Korpa za otpatke</text>
+	</string>
+	<string id="agr_secret_0014_descr">
+		<text>Našao sam sef ispod oborenog debla. Sve ću tamo da sakrijem.</text>
+	</string>
+	<string id="agr_secret_0014_name">
+		<text>Sef ispod drveta</text>
+	</string>
+	<string id="agr_secret_0015_descr">
+		<text>Bacio sam stvari u cev, uzeću ih kasnije. Morao sam, inače bi ih poneo sa sobom. Samo da se ne pokvase.</text>
+	</string>
+	<string id="agr_secret_0015_name">
+		<text>Stvari u cev</text>
+	</string>
+	<string id="agr_secret_0016_descr">
+		<text>Oprema je u staroj cevi, moramo to da kažemo momcima. Nema šanse da se tamo zavlačim.</text>
+	</string>
+	<string id="agr_secret_0016_name">
+		<text>Ozračena cev</text>
+	</string>
+	<string id="agr_secret_0017_descr">
+		<text>Pobegao sam iz logora, ko ih jebe! Izbegao sam stalkersku paljbu. A stvari sam stavio u cev u gomili otpada.  Kriću se ovde dok ne odu, onda ću da pokupim stvari.</text>
+	</string>
+	<string id="agr_secret_0017_name">
+		<text>Iza gomile</text>
+	</string>
+	<string id="agr_secret_0018_descr">
+		<text>Ima polu zakopan sef iza žbunja - tamo sam sve sakrio.</text>
+	</string>
+	<string id="agr_secret_0018_name">
+		<text>Sef ispod žbunja</text>
+	</string>
+	<string id="agr_secret_0019_descr">
+		<text>Pronašli su kutiju ispod stuba. Neko je dovukao ovde čak iz naučnog Instituta. Ajde da je uzmemo.</text>
+	</string>
+	<string id="agr_secret_0019_name">
+		<text>Arhivska kutija</text>
+	</string>
+	<string id="agr_secret_0020_descr">
+		<text>Stvari su mi u gvozdenoj kapsuli</text>
+	</string>
+	<string id="agr_secret_0020_name">
+		<text>Ispod podnih vrata</text>
+	</string>
+	<string id="agr_secret_0021_descr">
+		<text>Ima polu zatrpan sef ispod žbuna - tamo sam sve stavio.</text>
+	</string>
+	<string id="agr_secret_0021_name">
+		<text>Ispod žbuna pored zida</text>
+	</string>
+	<string id="agr_secret_0022_descr">
+		<text>Dobra kutija ako imaš višak stvari</text>
+	</string>
+	<string id="agr_secret_0022_name">
+		<text>Kutija iz Instituta</text>
+	</string>
+	<string id="agr_secret_0023_descr">
+		<text>Sve sam stavio u sef, a onda je stigla Vojska i sad mogu samo za glavu da se hvatam.</text>
+	</string>
+	<string id="agr_secret_0023_name">
+		<text>Agrosef</text>
+	</string>
+	<string id="agr_secret_0024_descr">
+		<text>Stavio sam opremu u cev - uzeću kad se setim.</text>
+	</string>
+	<string id="agr_secret_0024_name">
+		<text>Telo iz kamiona</text>
+	</string>
+	<string id="agr_secret_0025_descr">
+		<text>Uzmi stvari iz trulog debla</text>
+	</string>
+	<string id="agr_secret_0025_name">
+		<text>Trulo deblo</text>
+	</string>
+	<string id="agr_secret_0026_descr">
+		<text>Nije loša kutija ako imaš višak opreme. Oprema Instituta je nekad stajala tamo.</text>
+	</string>
+	<string id="agr_secret_0026_name">
+		<text>Kutija Instituta</text>
+	</string>
+	<string id="agr_secret_0027_descr">
+		<text>Dobar štek za sitnice. Imao sam istu takvu kutiju za alat kući.</text>
+	</string>
+	<string id="agr_secret_0027_name">
+		<text>Kutija za alat</text>
+	</string>
+	<string id="agr_u_secret_0000_descr">
+		<text>Banditi kriju stvari ispod cevi, moram da proverim. Ukapirao sam iz naših razgovora da tamo kriju svoje stvari.</text>
+	</string>
+	<string id="agr_u_secret_0000_name">
+		<text>Banditski' penzioni "fond"</text>
+	</string>
+	<string id="agr_u_secret_0001_descr">
+		<text>Stavio sam ranac iza betonske ploče, da bih se rasteretio. Biću gladan ali bar živ.</text>
+	</string>
+	<string id="agr_u_secret_0001_name">
+		<text>Ranac u sporednoj ulici</text>
+	</string>
+	<string id="agr_u_secret_0002_descr">
+		<text>Kutija je iza zarđalog "bureta" u podzemlju, sve mi je tamo. Ali nema šanse da se vraćam tamo. Pravo je čudo sto sam uspeo da ubijem krvopiju. Ni sam ne znam kako.</text>
+	</string>
+	<string id="agr_u_secret_0002_name">
+		<text>Kutija Krvopije</text>
+	</string>
+	<string id="agr_u_secret_0003_descr">
+		<text>Namirnice su iza vrata. Odgovoran sam za stvari iz marketa!</text>
+	</string>
+	<string id="agr_u_secret_0003_name">
+		<text>Stalkerove namirnice</text>
+	</string>
+	<string id="agr_u_secret_0004_descr">
+		<text>Iskopao sam neke sitnice. Pametno skrovište. Na žutom buretu ga sigurno nećeš naći.</text>
+	</string>
+	<string id="agr_u_secret_0004_name">
+		<text>Krtičina rupa</text>
+	</string>
+	<string id="bar_secret_0000_description">
+		<text>Stavio sam ranac blizu Djuti logora. Uzeću ga kasnije</text>
+	</string>
+	<string id="bar_secret_0000_name">
+		<text>Skriven ranac</text>
+	</string>
+	<string id="bar_secret_0001_description">
+		<text>Pojurio me je čopor pasa. Da nisam bacio ranac ne bih stigo ni do kapije</text>
+	</string>
+	<string id="bar_secret_0001_name">
+		<text>Odbačen ranac</text>
+	</string>
+	<string id="bar_secret_0002_description">
+		<text>Sve što je ostalo su zakopali ispod krsta</text>
+	</string>
+	<string id="bar_secret_0002_name">
+		<text>Tajni štek ispod krsta</text>
+	</string>
+	<string id="bar_secret_0003_description">
+		<text>Ovde sam ostavio ranac - lakše mi je bez njega</text>
+	</string>
+	<string id="bar_secret_0003_name">
+		<text>Ranac</text>
+	</string>
+	<string id="bar_secret_0004_description">
+		<text>Municija za Djuti kontrolni punkt je u bunkeru, ali je niko ne čuva</text>
+	</string>
+	<string id="bar_secret_0004_name">
+		<text>Zalihe u bunkeru</text>
+	</string>
+	<string id="bar_secret_0005_description">
+		<text>Video sam kako Djutijevac skriva nešto u cev pored kapije</text>
+	</string>
+	<string id="bar_secret_0005_name">
+		<text>Štek jednog Djutijevca</text>
+	</string>
+	<string id="bar_secret_0006_description">
+		<text>Sve je ovo i ovako bilo njegovo, neka mu za sad.</text>
+	</string>
+	<string id="bar_secret_0006_name">
+		<text>Zalihe u grobu</text>
+	</string>
+	<string id="bar_secret_0007_description">
+		<text>Idem do Bara, ostavio sam ranac u hangar</text>
+	</string>
+	<string id="bar_secret_0007_name">
+		<text>Ranac</text>
+	</string>
+	<string id="bar_secret_0008_description">
+		<text>Kažu da ima nešto vredno u razvodnoj tabli na Djuti teritoriju.</text>
+	</string>
+	<string id="bar_secret_0008_name">
+		<text>Razvodna tabla sa zalihama</text>
+	</string>
+	<string id="bar_secret_0009_description">
+		<text>Stavio sam kutiju na vrh tornja ispred Djuti logora - nikom ne bi palo na pamet tamo da traži</text>
+	</string>
+	<string id="bar_secret_0009_name">
+		<text>Tajni štek na vrhu kule</text>
+	</string>
+	<string id="bar_secret_0010_description">
+		<text>Stavio sam u cev ispod stepenice</text>
+	</string>
+	<string id="bar_secret_0010_name">
+		<text>Tajno skladište</text>
+	</string>
+	<string id="bar_secret_0011_description">
+		<text>Stavio sam stvari nedaleko od Bara, iza anomalije - niko neće moći da uđe. A i da uđu neće znati kako da otvore. Ništa lakše - povuci na gore kod vrata, i sve će se otvoriti.</text>
+	</string>
+	<string id="bar_secret_0011_name">
+		<text>Arnijevo tajno skrovište</text>
+	</string>
+	<string id="bar_secret_0012_description">
+		<text>Zakopao sam stvari nedaleko od Bara</text>
+	</string>
+	<string id="bar_secret_0012_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="bar_secret_0013_description">
+		<text>Pored Bara, u kutiji</text>
+	</string>
+	<string id="bar_secret_0013_name">
+		<text>Kutija</text>
+	</string>
+	<string id="bar_secret_0014_description">
+		<text>Stavio sam kutiju u sporednoj ulici pored Bara</text>
+	</string>
+	<string id="bar_secret_0014_name">
+		<text>Mala kutija</text>
+	</string>
+	<string id="bar_secret_0015_description">
+		<text>Zakopano u grob iza borovog drveta</text>
+	</string>
+	<string id="bar_secret_0015_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="bar_secret_0016_description">
+		<text>Ispod krsta blizu ulaza u Divlju teritoriju</text>
+	</string>
+	<string id="bar_secret_0016_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="bar_secret_0017_description">
+		<text>Stavio sam kutiju sa anti-rad lekovima u cev pored Arene</text>
+	</string>
+	<string id="bar_secret_0017_name">
+		<text>Mala kutija</text>
+	</string>
+	<string id="bar_secret_0018_description">
+		<text>Stavio sam sitnice u cev ispod tornja</text>
+	</string>
+	<string id="bar_secret_0018_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="bar_secret_0019_description">
+		<text>Postoji tajno skrovište ispod krsta</text>
+	</string>
+	<string id="bar_secret_0019_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="esc_secret_0000_descr">
+		<text>Stavio sam vojne rezerve u vagon tokom postrojavanja. Da ne zaboravim.</text>
+	</string>
+	<string id="esc_secret_0000_name">
+		<text>Vagon na mostu</text>
+	</string>
+	<string id="esc_secret_0001_descr">
+		<text>Video sam kako stalker gine u anomaliji kraj tunela. Izgledalo je da nosi dosta stvari.</text>
+	</string>
+	<string id="esc_secret_0001_name">
+		<text>Oprema onog što je poginuo u anomaliji</text>
+	</string>
+	<string id="esc_secret_0002_descr">
+		<text>Zakopao sam stvari u grob pored Banditskog logora</text>
+	</string>
+	<string id="esc_secret_0002_name">
+		<text>Krst kod Banditskog logora</text>
+	</string>
+	<string id="esc_secret_0003_descr">
+		<text>Kutija koju su Banditi ukrali se nalazi u podrumu centralne zgrade. Kad opremim odred krećemo po kutiju.</text>
+	</string>
+	<string id="esc_secret_0003_name">
+		<text>Banditsko skladište</text>
+	</string>
+	<string id="esc_secret_0004_descr">
+		<text>Kad smo se drugovi i ja puškarali sa onim gušterima, nešto opreme sam ostavio ispod mosta. Neka je tamo zasad.</text>
+	</string>
+	<string id="esc_secret_0004_name">
+		<text>Ispod krsta</text>
+	</string>
+	<string id="esc_secret_0005_descr">
+		<text>Stavio sam ranac u podrum. Vratiću se kasnije - ne mogu sad da ga nosim.</text>
+	</string>
+	<string id="esc_secret_0005_name">
+		<text>Zaklon u podrumu</text>
+	</string>
+	<string id="esc_secret_0006_descr">
+		<text>Našao sam polu zakopan sef na farmi. Ostaviću nešto namirnica u njemu.</text>
+	</string>
+	<string id="esc_secret_0006_name">
+		<text>Sef na farmi</text>
+	</string>
+	<string id="esc_secret_0007_descr">
+		<text>Ptičica mi rekla da neko nešto krije u vagonu na mostu. Proverićemo kad se budemo vraćali. Pitam li se čije je...</text>
+	</string>
+	<string id="esc_secret_0007_name">
+		<text>Kontenjer u vagonu</text>
+	</string>
+	<string id="esc_secret_0008_descr">
+		<text>Stavio sam stvari pod krov male kućice pored mosta.</text>
+	</string>
+	<string id="esc_secret_0008_name">
+		<text>Oprema strelca</text>
+	</string>
+	<string id="esc_secret_0009_descr">
+		<text>Stavio sam moje stvari u kutiju nedaleko od mosta. Dosta mi je, odustajem, odlazim iz Zone. Zbogom, braćo! Nikad neću zaboraviti otadžbinu.</text>
+	</string>
+	<string id="esc_secret_0009_name">
+		<text>Stvari pored mosta</text>
+	</string>
+	<string id="esc_secret_0010_descr">
+		<text>Jedan stalker je odapnuo pored sela. Idi pogledaj šta ima.</text>
+	</string>
+	<string id="esc_secret_0010_name">
+		<text>Ranac je blizu sela</text>
+	</string>
+	<string id="esc_secret_0011_descr">
+		<text>Rekao mi je Lihoj da je tajno skrovište u podrumu. Mnogo je počeo da brblja pa smo ga "ućutkali".</text>
+	</string>
+	<string id="esc_secret_0011_name">
+		<text>Podrum u selu</text>
+	</string>
+	<string id="esc_secret_0012_descr">
+		<text>Ima jedno odlično skrovište u podrumu. Sačekaću da neko nešto stavi tamo.</text>
+	</string>
+	<string id="esc_secret_0012_name">
+		<text>Lepo mesto</text>
+	</string>
+	<string id="esc_secret_0013_descr">
+		<text>Rekao mi je Vorpal da ima tajno skrovište u podrumu. Naši borci su vršili izvidnicu u tom regionu. Ajd da pogledamo.</text>
+	</string>
+	<string id="esc_secret_0013_name">
+		<text>Vorpalovo tajno skrovište</text>
+	</string>
+	<string id="esc_secret_0014_descr">
+		<text>Rekli su da komandir ima kutiju u kancelariji, i da je puna svega i svačega.</text>
+	</string>
+	<string id="esc_secret_0014_name">
+		<text>Komandirove stvari</text>
+	</string>
+	<string id="esc_secret_0015_descr">
+		<text>Neki stalker je bacio kašiku nedaleko od sela. Ajde da vidimo šta je nosio. Ko ih uopšte pušta da uđu?</text>
+	</string>
+	<string id="esc_secret_0015_name">
+		<text>Pored seoskog puta</text>
+	</string>
+	<string id="esc_secret_0016_descr">
+		<text>Stvari su u podrumu Bandita. Ranije tamo nije bilo ničeg, hajde da sačekamo pravi trenutak.</text>
+	</string>
+	<string id="esc_secret_0016_name">
+		<text>Podrum pljačkaša</text>
+	</string>
+	<string id="esc_secret_0017_descr">
+		<text>Otkrio sam inventar u cevki. Kad se završi blokada, sigurno se vraćam.</text>
+	</string>
+	<string id="esc_secret_0017_name">
+		<text>Gasovod</text>
+	</string>
+	<string id="esc_secret_0018_descr">
+		<text>Bacio sam ranac nedaleko od Kordona, trebalo bi što pre da ga pokupim, pre nego što nas prekomanduju.</text>
+	</string>
+	<string id="esc_secret_0018_name">
+		<text>Skrivene stvari</text>
+	</string>
+	<string id="esc_secret_0019_descr">
+		<text>Stavio sam kutiju u toranj. Uzeću je kad stignem.</text>
+	</string>
+	<string id="esc_secret_0019_name">
+		<text>Toranj na kordonu</text>
+	</string>
+	<string id="gar_secret_0000_descr">
+		<text>Video sam u hangaru kako Bandit krije stvari u kutiju. Kako da je neprimećen uzmem?</text>
+	</string>
+	<string id="gar_secret_0000_name">
+		<text>Banditov štek</text>
+	</string>
+	<string id="gar_secret_0001_descr">
+		<text>Vasju je neko ustrelio dok je bio samnom u izvidnici. Nemam ja ništa sa tim. To je zbog jebenog metka. Sakrio sam stvari u cev.</text>
+	</string>
+	<string id="gar_secret_0001_name">
+		<text>Stari kran</text>
+	</string>
+	<string id="gar_secret_0002_descr">
+		<text>Grizli je odapnuo na Deponiji, kod njega je još uvek njegova oprema, u železničkom tunelu iza lokomotive. Šteta za Grizlija.</text>
+	</string>
+	<string id="gar_secret_0002_name">
+		<text>Grizlijeve stvari</text>
+	</string>
+	<string id="gar_secret_0003_descr">
+		<text>Stavio sam stvari u cev na Deponiji.</text>
+	</string>
+	<string id="gar_secret_0003_name">
+		<text>Cev na severnoj gomili</text>
+	</string>
+	<string id="gar_secret_0004_descr">
+		<text>Stvari su na Deponiji, u jednoj cevki. Ako ne znaš gde je tačno, nećeš je ni naći.</text>
+	</string>
+	<string id="gar_secret_0004_name">
+		<text>Zarada je u starom gvožđu</text>
+	</string>
+	<string id="gar_secret_0005_descr">
+		<text>Sakrio sam stvari u cev blizu dve cisterne. Trebalo bi da uzmem te stvari, ali nemam vremena.</text>
+	</string>
+	<string id="gar_secret_0005_name">
+		<text>Gvozdena peć blizu cisterne.</text>
+	</string>
+	<string id="gar_secret_0006_descr">
+		<text>Ima po neka korisna stvarčica među ozračenim otpadom, tamo gde retko ko zalazi.</text>
+	</string>
+	<string id="gar_secret_0006_name">
+		<text>Cev na istočnoj gomili</text>
+	</string>
+	<string id="gar_secret_0007_descr">
+		<text>Nečiji ranac je u dolini, okružen anomalijama. Kako da čovek dođe uopšte do tamo?</text>
+	</string>
+	<string id="gar_secret_0007_name">
+		<text>Nečiji ranac</text>
+	</string>
+	<string id="gar_secret_0008_descr">
+		<text>"Overili" smo izdajicu u močvari... Tamo smo ga odmah i zakopali sa svim stvarima. Imali smo veće brige nego da ga lešinarimo.</text>
+	</string>
+	<string id="gar_secret_0008_name">
+		<text>Imovina pogubljenog</text>
+	</string>
+	<string id="gar_secret_0009_descr">
+		<text>Postoji tajno skrovište u senci - Dobro mesto za skrivanje.</text>
+	</string>
+	<string id="gar_secret_0009_name">
+		<text>Trulo deblo</text>
+	</string>
+	<string id="gar_secret_0010_descr">
+		<text>Ima deblo u šumi sa nečim unutra. Neko blago - vreme da se uzme.</text>
+	</string>
+	<string id="gar_secret_0010_name">
+		<text>Deblo u šumi</text>
+	</string>
+	<string id="gar_secret_0011_descr">
+		<text>Petrenko hoće da se pročuje da postoji tajno skrovište Strelokove grupe na Deponiji. Ovde u ovoj dolini bi trebalo da ima neki otvor, kaže da ima neka fora kako da se otvori. Kad se sve smiri, idemo da proverimo.</text>
+	</string>
+	<string id="gar_secret_0011_name">
+		<text>Skladište Strelokove grupe</text>
+	</string>
+	<string id="gar_secret_0012_descr">
+		<text>Sakrio sam u automobil, Dugi me je ubedio da je dobro skrovište.</text>
+	</string>
+	<string id="gar_secret_0012_name">
+		<text>Tajno skrovište u kolima</text>
+	</string>
+	<string id="gar_secret_0013_descr">
+		<text>Stavio sam ranac u autobos - deluje neprimetno</text>
+	</string>
+	<string id="gar_secret_0013_name">
+		<text>Stalkerov ranac u autobusu</text>
+	</string>
+	<string id="gar_secret_0014_descr">
+		<text>Stavio sam zalihe u kutiju, a kutiju u straćaru iza ćoska. Ne znam za šta služi ta zgrada.</text>
+	</string>
+	<string id="gar_secret_0014_name">
+		<text>Spremne zalihe</text>
+	</string>
+	<string id="gar_secret_0015_descr">
+		<text>Ima jedan sef polu zatrpan đubretom. Sve mi je unutra. Da ne zaboravim šta ima sve tamo.</text>
+	</string>
+	<string id="gar_secret_0015_name">
+		<text>Sef u južnoj gomili.</text>
+	</string>
+	<string id="gar_secret_0016_descr">
+		<text>Stavio sam stvari na gomilu krša u jednu cev</text>
+	</string>
+	<string id="gar_secret_0016_name">
+		<text>Skladište na deponiji.</text>
+	</string>
+	<string id="gar_secret_0017_descr">
+		<text>Naš komandir radio veze nam je izdao naređenje: Povlačenje. Našao sam kutiju, i stavio sve u nju, vratio sam se praznih ruku.</text>
+	</string>
+	<string id="gar_secret_0017_name">
+		<text>Zalihe u kovčegu</text>
+	</string>
+	<string id="gar_secret_0018_descr">
+		<text>Stavio sam stvari u cev na Deponiji. Neće to dugo da ostane tamo.</text>
+	</string>
+	<string id="gar_secret_0018_name">
+		<text>Cev u autobusu</text>
+	</string>
+	<string id="gar_secret_0019_descr">
+		<text>Lako je sakriti ranac u ruševinama. Nadam se da neće biti tesko sa ga uzmem, ako se slučajno pojave Banditi.</text>
+	</string>
+	<string id="gar_secret_0019_name">
+		<text>Ranac u ruševinama</text>
+	</string>
+	<string id="gar_secret_0020_descr">
+		<text>Dok su se Djutijevci puškarali, sakrio sam opremu u autobus. Nekako moram da se prišunjam i pokupim stvari. I da se zahvalim Djutiju.</text>
+	</string>
+	<string id="gar_secret_0020_name">
+		<text>Kutija u vojnom punktu</text>
+	</string>
+	<string id="gar_secret_0021_descr">
+		<text>Kazu da je Slabić poginuo na Deponiji - kad budem bio u prolazu videću šta ima od opreme. U suprotnom ima drugih koji su zainteresovani za njegove stvari.</text>
+	</string>
+	<string id="gar_secret_0021_name">
+		<text>Ranac Slabića</text>
+	</string>
+	<string id="gar_secret_0022_descr">
+		<text>Zasad drzaću stvari u ovoj jami. Možda ih ni neće naći.</text>
+	</string>
+	<string id="gar_secret_0022_name">
+		<text>Torba u jami</text>
+	</string>
+	<string id="gar_secret_0023_descr">
+		<text>Anomalija je pojela nekog pored lifta - vidi se njegov ranac, ali teško da se dopre do njega.</text>
+	</string>
+	<string id="gar_secret_0023_name">
+		<text>Ispod lifta</text>
+	</string>
+	<string id="gar_secret_0024_descr">
+		<text>Jedva sam se provukao ispod grede, bar je ranac dobro skriven - niko neće da pokuša da se provuče ovde.</text>
+	</string>
+	<string id="gar_secret_0024_name">
+		<text>Pare su ispod betonske grede</text>
+	</string>
+	<string id="mil_secret_0000_description">
+		<text>Stvari sam sakrio u deblo - pretpostavljam da ih niko neće pronaći.</text>
+	</string>
+	<string id="mil_secret_0000_name">
+		<text>Tajno skrovište u deblu</text>
+	</string>
+	<string id="mil_secret_0001_description">
+		<text>Stvari su u pećnici.</text>
+	</string>
+	<string id="mil_secret_0001_name">
+		<text>Tajno skroviste u pećnici</text>
+	</string>
+	<string id="mil_secret_0002_description">
+		<text>Stvari su u kaseti KAMAZa</text>
+	</string>
+	<string id="mil_secret_0002_name">
+		<text>Tajno skroviste u KAMAZu</text>
+	</string>
+	<string id="mil_secret_0003_description">
+		<text>Zakopao sam neke namirnice u grob pored sela.</text>
+	</string>
+	<string id="mil_secret_0003_name">
+		<text>Blago ispod krsta</text>
+	</string>
+	<string id="mil_secret_0004_description">
+		<text>Nabio sam stvari u cev, uzeću ih kasnije.</text>
+	</string>
+	<string id="mil_secret_0004_name">
+		<text>Tajno skrovište u cevi</text>
+	</string>
+	<string id="mil_secret_0005_description">
+		<text>Tajno skrovište u kutiji unutar vodo-tornja</text>
+	</string>
+	<string id="mil_secret_0005_name">
+		<text>Blago u tornju</text>
+	</string>
+	<string id="mil_secret_0006_description">
+		<text>Stavio sam ranac u peć, koristiće mi kasnije.</text>
+	</string>
+	<string id="mil_secret_0006_name">
+		<text>Ognjište tajno skrovište</text>
+	</string>
+	<string id="mil_secret_0007_description">
+		<text>Sakrio sam stvari u automobil u napuštenom selu.</text>
+	</string>
+	<string id="mil_secret_0007_name">
+		<text>Auto-Tajno skrovište</text>
+	</string>
+	<string id="mil_secret_0008_description">
+		<text>Ostavio sam ranac u ozračenoj ruini. Sad se plašim da se vratim tamo.</text>
+	</string>
+	<string id="mil_secret_0008_name">
+		<text>Opasna tajna</text>
+	</string>
+	<string id="mil_secret_0009_description">
+		<text>Zakopao sam stvari u jedan skriven grob.</text>
+	</string>
+	<string id="mil_secret_0009_name">
+		<text>Stalkerovo skladište</text>
+	</string>
+	<string id="mil_secret_0010_description">
+		<text>Sakrio sam ranac sa opremom na jedno dobro mesto.</text>
+	</string>
+	<string id="mil_secret_0010_name">
+		<text>Ranac sa opremom</text>
+	</string>
+	<string id="mil_secret_0011_description">
+		<text>Sakrio sam stvari u automobil na brdu</text>
+	</string>
+	<string id="mil_secret_0011_name">
+		<text>Tajno skrovište na brdu</text>
+	</string>
+	<string id="mil_secret_0012_description">
+		<text>Helikopter se srušio odmah pored napuštene kasarne, kovčeg je odmah pored olupine. Stvar je u tome - što je sve opkoljeno anomalijama i ozračeno u vražju mater.</text>
+	</string>
+	<string id="mil_secret_0012_name">
+		<text>Kovčeg pored helikoptera</text>
+	</string>
+	<string id="mil_secret_0013_description">
+		<text>Zakopao sam stvari na brdu, ispod krsta</text>
+	</string>
+	<string id="mil_secret_0013_name">
+		<text>Tajna u grobu</text>
+	</string>
+	<string id="mil_secret_0014_description">
+		<text>Postoji tajno skrovište u panju - dobar štek</text>
+	</string>
+	<string id="mil_secret_0014_name">
+		<text>Tajni panj</text>
+	</string>
+	<string id="mil_secret_0015_description">
+		<text>Ostavio sam ranac u kabini krana. Uzeću ga kasnije</text>
+	</string>
+	<string id="mil_secret_0015_name">
+		<text>Tajno skrovište visinskog radnika</text>
+	</string>
+	<string id="mil_secret_0016_description">
+		<text>Sve je u kutiji, u vagonu blizu kasarne. Tamo smo sve postavili, sad samo da sačekamo da neko proba da uzme stvari.</text>
+	</string>
+	<string id="mil_secret_0016_name">
+		<text>Ugovoreno tajno skrovište</text>
+	</string>
+	<string id="mil_secret_0017_description">
+		<text>Sakrio sam stvari u deblu. Mislim da niko neće primetiti.</text>
+	</string>
+	<string id="mil_secret_0017_name">
+		<text>Blago u deblu</text>
+	</string>
+	<string id="mil_secret_0018_description">
+		<text>Stavio sam stvari u cev na obali jezera</text>
+	</string>
+	<string id="mil_secret_0018_name">
+		<text>Cev sa opremom</text>
+	</string>
+	<string id="mil_secret_0019_description">
+		<text>Stvari su u gvozdenoj kapsuli</text>
+	</string>
+	<string id="mil_secret_0019_name">
+		<text>Tajno skrovište stalkera</text>
+	</string>
+	<string id="mil_secret_0020_description">
+		<text>Sakrio sam stvari u deblu. Mislim da niko neće primetiti</text>
+	</string>
+	<string id="mil_secret_0020_name">
+		<text>Namirnice u deblu</text>
+	</string>
+	<string id="mil_secret_0021_description">
+		<text>Dobra kutija za skladištenje</text>
+	</string>
+	<string id="mil_secret_0021_name">
+		<text>Dobro za čuvanje rezervi</text>
+	</string>
+	<string id="mil_secret_0022_description">
+		<text>Sakrio sam ranac u tunel</text>
+	</string>
+	<string id="mil_secret_0022_name">
+		<text>Ranac je u tunelu</text>
+	</string>
+	<string id="mil_secret_0023_description">
+		<text>Dobra kutija za čuvanje</text>
+	</string>
+	<string id="mil_secret_0023_name">
+		<text>Kutija sa stvarima</text>
+	</string>
+	<string id="mil_secret_0024_description">
+		<text>Sakrio sam stvari u deblu. Mislim da niko neće primetiti</text>
+	</string>
+	<string id="mil_secret_0024_name">
+		<text>Tajno skrovište u panju</text>
+	</string>
+	<string id="mil_secret_0025_description">
+		<text>Stavio sam stvari u kutiju - uzeću ih kasnije</text>
+	</string>
+	<string id="mil_secret_0025_name">
+		<text>Privremeno tajno skrovište</text>
+	</string>
+	<string id="mil_secret_0026_description">
+		<text>Stavio sam stvari u sklonište. Koristiće mi jednog dana.</text>
+	</string>
+	<string id="mil_secret_0026_name">
+		<text>Čelično tajno skrovište</text>
+	</string>
+	<string id="mil_secret_0027_description">
+		<text>Stavio sam opremu u kutiju - uzeću stvari kasnije</text>
+	</string>
+	<string id="mil_secret_0027_name">
+		<text>Kutija sa namirnicama</text>
+	</string>
+	<string id="mil_secret_0028_description">
+		<text>Stavio sam stvari u kola, Fridomu ispred nosa, nisam mogao da nađem bolje mesto</text>
+	</string>
+	<string id="mil_secret_0028_name">
+		<text>Tajno skrovište u kolima</text>
+	</string>
+	<string id="mil_secret_0029_description">
+		<text>Plijen je skriven u kutiji u neposrednoj blizini "baze Plačenika"...</text>
+	</string>
+	<string id="mil_secret_0029_name">
+		<text>Zalihe grupe Plačenika</text>
+	</string>
+	<string id="pri_secret_0000_description">
+		<text>Kažu da je neki poznati stalker odapnuo ovde, niko još nije uzeo njegove stvari</text>
+	</string>
+	<string id="pri_secret_0000_name">
+		<text>Svojina mrtvog stalkera</text>
+	</string>
+	<string id="pri_secret_0001_description">
+		<text>Kažu da je pravo blago zakopano u garaži</text>
+	</string>
+	<string id="pri_secret_0001_name">
+		<text>Blago u garaži</text>
+	</string>
+	<string id="pri_secret_0002_description">
+		<text>Kažu da je u obdaništu kutija sa svim i svačim</text>
+	</string>
+	<string id="pri_secret_0002_name">
+		<text>Staro tajno skrovište</text>
+	</string>
+	<string id="pri_secret_0003_description">
+		<text>Zakopali su Fanga blizu spomenika. Sve njegove stvari su još uvek tamo - nije u redu krasti od mrtvih.</text>
+	</string>
+	<string id="pri_secret_0003_name">
+		<text>Fangov grob</text>
+	</string>
+	<string id="pri_secret_0004_description">
+		<text>Za njega se samo zna da je bio poslednji opstali borac koji je preživeo moć Spaljivača. Svoje stvari je ostavio u starom supermarketu, i otišao dalje. Nije sve išlo po planu, a to je bio najbolji vođa Fridoma ikad.</text>
+	</string>
+	<string id="pri_secret_0004_name">
+		<text>Zalihe vođe Fridoma</text>
+	</string>
+	<string id="rad_secret_0000_description">
+		<text>Krst je na putu ka Spaljivaču, nisam išao ni korak dalje, sakrio sam sve tamo ispod krsta.</text>
+	</string>
+	<string id="rad_secret_0000_name">
+		<text>Murkovo blago</text>
+	</string>
+	<string id="rad_secret_0001_description">
+		<text>Neki stalker je poginuo tamo i njegove stvari i danas leže tamo u blizini. Niko ih ne može naći</text>
+	</string>
+	<string id="rad_secret_0001_name">
+		<text>Stvari poginulog stalkera</text>
+	</string>
+	<string id="rad_secret_0002_description">
+		<text>Oni kažu da je tamo poluspaljen štek u šumi i unutra je hrpa korisnih stvari</text>
+	</string>
+	<string id="rad_secret_0002_name">
+		<text>Stvarčice u šteku</text>
+	</string>
+	<string id="rad_secret_0003_description">
+		<text>Rekli su im da ne lete preko Spaljivača i vidi sta se dogodilo!S leteli su u sred šume, i malo je verovatno da je iko preživeo. Trebalo je da dobijemo robu koja je bila sa njima</text>
+	</string>
+	<string id="rad_secret_0003_name">
+		<text>Paket za Djutijevce</text>
+	</string>
+	<string id="rad_secret_0004_description">
+		<text>Oni kažu da su snabdevači frakcije, koji su pokušavali da dođu do centra zone, još uvek pod dejstvom radijacije Spaljivača. Niko se od njih nije vratio i zalihe su ostale da čekaju da ih neko pokupi.</text>
+	</string>
+	<string id="rad_secret_0004_name">
+		<text>Zalihe bezobzirne grupe.</text>
+	</string>
+	<string id="rad_secret_0005_description">
+		<text>Oni kazu da je lider neke bivše frakcije izdahnuo ovde, i da je bila vredna količina poslastica sa njim</text>
+	</string>
+	<string id="rad_secret_0005_name">
+		<text>Poslastica od lidera bivše frakcije.</text>
+	</string>
+	<string id="ros_secret_0000_description">
+		<text>Sakrio je ranac iza gvozdene ploče</text>
+	</string>
+	<string id="ros_secret_0000_name">
+		<text>Skriveni ranac</text>
+	</string>
+	<string id="ros_secret_0001_description">
+		<text>Sakrio je robu ispod krsta</text>
+	</string>
+	<string id="ros_secret_0001_name">
+		<text>Tajno skrovište ispod krsta</text>
+	</string>
+	<string id="ros_secret_0002_description">
+		<text>Sakriveno je nešto u sanduku ispod male kuće. Nemoj da zaboraviš na to!</text>
+	</string>
+	<string id="ros_secret_0002_name">
+		<text>Sanduk u maloj kući.</text>
+	</string>
+	<string id="ros_secret_0003_description">
+		<text>Držao sam ranac kada su se te budale pojavile. Čoveče kako li ću ga dobiti nazad?</text>
+	</string>
+	<string id="ros_secret_0003_name">
+		<text>Stalkerov ranac</text>
+	</string>
+	<string id="ros_secret_0004_description">
+		<text>Postoji napola zakopan sef u uglu iza drveta. Tamo će biti sva moja starudija za sada.</text>
+	</string>
+	<string id="ros_secret_0004_name">
+		<text>Tajno skrovište iza drveta</text>
+	</string>
+	<string id="ros_secret_0005_description">
+		<text>Oni su sakrili sve u sanduku u garaži,sve ono što su uzeli za vreme kiše.</text>
+	</string>
+	<string id="ros_secret_0005_name">
+		<text>Tajno skrovište u garaži</text>
+	</string>
+	<string id="ros_secret_0006_description">
+		<text>Skriveno je nešto u sanduku iza štanda.</text>
+	</string>
+	<string id="ros_secret_0006_name">
+		<text>Skriveni sanduk</text>
+	</string>
+	<string id="ros_secret_0007_description">
+		<text>Zaglavljen ranac u rupi. Izgleda neprimetan odozgo.</text>
+	</string>
+	<string id="ros_secret_0007_name">
+		<text>Ranac u tajnom skrovištu</text>
+	</string>
+	<string id="ros_secret_0008_description">
+		<text>Sakrivena je malu kutija na sigurnom mestu.</text>
+	</string>
+	<string id="ros_secret_0008_name">
+		<text>Kutija na sigurnom mestu.</text>
+	</string>
+	<string id="ros_secret_0009_description">
+		<text>Moj ranac je odmah ispod krova. Neka ga tamo za crne dane.</text>
+	</string>
+	<string id="ros_secret_0009_name">
+		<text>Tajno skrovište stalkera</text>
+	</string>
+	<string id="ros_secret_0010_description">
+		<text>Oni kažu da se nalazi sef u maloj kući, i da ima nešto u njemu.</text>
+	</string>
+	<string id="ros_secret_0010_name">
+		<text>Sef u kući</text>
+	</string>
+	<string id="ros_secret_0011_description">
+		<text>Sakriveno u kući, u cevi. Oprezno sve je isprevrtano tamo!</text>
+	</string>
+	<string id="ros_secret_0011_name">
+		<text>Tajno skrovište u cevi</text>
+	</string>
+	<string id="ros_secret_0012_description">
+		<text>Uzmi ono o čemu smo pričali iz kutije. Obično niko ne gleda unutra.</text>
+	</string>
+	<string id="ros_secret_0012_name">
+		<text>Skriveni kutija.</text>
+	</string>
+	<string id="ros_secret_0013_description">
+		<text>Skriveno je ispod krsta.</text>
+	</string>
+	<string id="ros_secret_0013_name">
+		<text>Tajno skroviste ispod krsta.</text>
+	</string>
+	<string id="ros_secret_0014_description">
+		<text>Sakrili su ekstra zalihe ispod betona na gradilištu.</text>
+	</string>
+	<string id="ros_secret_0014_name">
+		<text>Tajno skrovište ispod betona.</text>
+	</string>
+	<string id="ros_secret_0015_description">
+		<text>U slučaju da moramo da odnesemo brzo, stavićemo zavežljaj u sanduk na gradilištu.</text>
+	</string>
+	<string id="ros_secret_0015_name">
+		<text>Tajno skrovište Srećka.</text>
+	</string>
+	<string id="ros_secret_0016_description">
+		<text>Sakriveno je na jednoj strani ulice na gradilištu.</text>
+	</string>
+	<string id="ros_secret_0016_name">
+		<text>Skrovište</text>
+	</string>
+	<string id="ros_secret_0017_description">
+		<text>Zaglavio sam sve u neku cev - pokupiću kasnije.</text>
+	</string>
+	<string id="ros_secret_0017_name">
+		<text>Tajno skrovište u cevi</text>
+	</string>
+	<string id="ros_secret_0018_description">
+		<text>Sakriveni su lekovi u sanduku ne tako daleko od gradilišta.</text>
+	</string>
+	<string id="ros_secret_0018_name">
+		<text>Sanduk sa lekovima.</text>
+	</string>
+	<string id="ros_secret_0019_description">
+		<text>Dovuci sanduk do kabine krana.</text>
+	</string>
+	<string id="ros_secret_0019_name">
+		<text>Sanduk u kranu</text>
+	</string>
+	<string id="ros_secret_0020_description">
+		<text>Sakrivena je moja roba u sahti u uglu.</text>
+	</string>
+	<string id="ros_secret_0020_name">
+		<text>Tajno skroviste u sahti</text>
+	</string>
+	<string id="ros_secret_0021_description">
+		<text>Otišao je posle artefakta i ušao u anomaliju. Jedva sam mogao da hodam i ispustio sam ranac u uglu.</text>
+	</string>
+	<string id="ros_secret_0021_name">
+		<text>Ispušten ranac</text>
+	</string>
+	<string id="ros_secret_0022_description">
+		<text>Zaglavio sam sanduk upravo ispod krova kule kako ga niko ne bi primetio.</text>
+	</string>
+	<string id="ros_secret_0022_name">
+		<text>Mali sanduk ispod krova</text>
+	</string>
+	<string id="ros_secret_0023_description">
+		<text>Sakrili smo u cevi šta smo našli, ne tako daleko od gradilišta.</text>
+	</string>
+	<string id="ros_secret_0023_name">
+		<text>Tajno skrovište u cevi</text>
+	</string>
+	<string id="ros_secret_0024_description">
+		<text>Zaglavljena je sva roba u panj. Nemoj da misliš da će je naći.</text>
+	</string>
+	<string id="ros_secret_0024_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="ros_secret_0025_description">
+		<text>Baci ranac pored krana</text>
+	</string>
+	<string id="ros_secret_0025_name">
+		<text>Ranac</text>
+	</string>
+	<string id="val_secret_0000_description">
+		<text>Sakriveno je malo robe ispod krsta na planini.</text>
+	</string>
+	<string id="val_secret_0000_name">
+		<text>Tajno skrovište ispod krsta</text>
+	</string>
+	<string id="val_secret_0001_description">
+		<text>Zaglavljena je roba u panju. Nemoj da misliš da će je naći.</text>
+	</string>
+	<string id="val_secret_0001_name">
+		<text>Tajno skrovište u panju</text>
+	</string>
+	<string id="val_secret_0002_description">
+		<text>Nalazi se ranac ispod mosta. Neka tamo ostane za sada.</text>
+	</string>
+	<string id="val_secret_0002_name">
+		<text>Ranac ispod mosta</text>
+	</string>
+	<string id="val_secret_0003_description">
+		<text>Stavi sanduk u auto koji se nalazi u močvari</text>
+	</string>
+	<string id="val_secret_0003_name">
+		<text>Auto sa tajnim mestom</text>
+	</string>
+	<string id="val_secret_0004_description">
+		<text>Nalazi se tajno mesto u močvari - dobro mesto za to!</text>
+	</string>
+	<string id="val_secret_0004_name">
+		<text>Tajno skrovište u močvari</text>
+	</string>
+	<string id="val_secret_0005_description">
+		<text>Pronađi veliki kovčeg na farmi. Čuvaću zalihe tamo za sada...</text>
+	</string>
+	<string id="val_secret_0005_name">
+		<text>Kovčeg sa zalihama</text>
+	</string>
+	<string id="val_secret_0006_description">
+		<text>Bacio sam svoje stvari u cevi. Pokupiću ih kasnije.</text>
+	</string>
+	<string id="val_secret_0006_name">
+		<text>Tajno skrovište u cevi</text>
+	</string>
+	<string id="val_secret_0007_description">
+		<text>Sakriven je ranac pod borom.</text>
+	</string>
+	<string id="val_secret_0007_name">
+		<text>Tajno skrovište ispod bora</text>
+	</string>
+	<string id="val_secret_0008_description">
+		<text>Početnik je "završio" tako što je ukrao sanduk od Bandita. Stavio je u Nivu okrenuvši ga naopako. On kaže da pogledavši ga, izgleda kao Vladin sanduk. Moraćemo da naoružamo naše momke kako bi ga uzeli!</text>
+	</string>
+	<string id="val_secret_0008_name">
+		<text>Vladin sanduk</text>
+	</string>
+	<string id="val_secret_0009_description">
+		<text>Pljačke su svuda. Oni čak kradu jedan od drugih...ali nikada neće naći moj sanduk.</text>
+	</string>
+	<string id="val_secret_0009_name">
+		<text>Sanduk</text>
+	</string>
+	<string id="val_secret_0010_description">
+		<text>Moje stvari su skrivene u sahti. Možda će mi doći pod ruku jednog dana.</text>
+	</string>
+	<string id="val_secret_0010_name">
+		<text>Tajno skrovište u sahti</text>
+	</string>
+	<string id="val_secret_0011_description">
+		<text>Bačen je ranac ispod drveta. U suprotnom, ja ne bih mogao da pobegnem od Bandita.</text>
+	</string>
+	<string id="val_secret_0011_name">
+		<text>Stalkerov ranac</text>
+	</string>
+	<string id="val_secret_0012_description">
+		<text>Stavi moje stvari u cev, pokupiću to kasnije.</text>
+	</string>
+	<string id="val_secret_0012_name">
+		<text>Tajno skrovište</text>
+	</string>
+	<string id="val_secret_0013_description">
+		<text>Sve što sam ukrao od Borova ja sam sakrio daleko u jedan sef ispod borovog drveta. Sada moram da sačekam dok ih prođe nervoza.</text>
+	</string>
+	<string id="val_secret_0013_name">
+		<text>Skriveni sef</text>
+	</string>
+	<string id="val_secret_0014_description">
+		<text>Privremeni štab se nalazi u vagonu, kao i sanduk sa zalihama</text>
+	</string>
+	<string id="val_secret_0014_name">
+		<text>Skladište u vagonu</text>
+	</string>
+	<string id="val_secret_0015_description">
+		<text>Jedva je napravljen prostor u cevi pored puta. Sada ću imati mesta da sakrijem svoj ranac.</text>
+	</string>
+	<string id="val_secret_0015_name">
+		<text>Skriveno mesto u cevi</text>
+	</string>
+	<string id="val_secret_0016_description">
+		<text>Bačena je roba u sanduk, dobiću je kasnije</text>
+	</string>
+	<string id="val_secret_0016_name">
+		<text>Sanduk sa robom</text>
+	</string>
+	<string id="val_secret_0017_description">
+		<text>Krijem robu iza cevi- teško je prići, ali na kraju oni barem neće otići sa robom</text>
+	</string>
+	<string id="val_secret_0017_name">
+		<text>Tajno skrovište iza cevi</text>
+	</string>
+	<string id="val_secret_0018_description">
+		<text>Pronađi neku municiju u električnoj sobi</text>
+	</string>
+	<string id="val_secret_0018_name">
+		<text>Tajno skrovište električnoj sobi</text>
+	</string>
+	<string id="val_secret_0019_description">
+		<text>Ostavili smo sve što smo našli u sanduku, pokupićemo to kada se budemo vratili.</text>
+	</string>
+	<string id="val_secret_0019_name">
+		<text>Tajno mesto u sanduku</text>
+	</string>
+	<string id="val_secret_0020_description">
+		<text>Sakriven je ranac jednog početnika i on ga nikad nije našao.</text>
+	</string>
+	<string id="val_secret_0020_name">
+		<text>Skriveni ranac</text>
+	</string>
+	<string id="val_secret_0021_description">
+		<text>Sanduk je ostavljen u kombiju, potrebno ga je pokupiti.</text>
+	</string>
+	<string id="val_secret_0021_name">
+		<text>Zaboravljen sanduk</text>
+	</string>
+	<string id="val_secret_0022_description">
+		<text>Pronađi sef na gasnoj stanici i sakrij moju robu unutra. Čini mi se da niko nikad neće otići tamo.</text>
+	</string>
+	<string id="val_secret_0022_name">
+		<text>Sef na gasnoj stanici</text>
+	</string>
+	<string id="val_secret_0023_description">
+		<text>Dovuci sanduk do cisterne.</text>
+	</string>
+	<string id="val_secret_0023_name">
+		<text>Sanduk</text>
+	</string>
+	<string id="val_secret_0024_description">
+		<text>Sakrivena je roba u sefu na gasnoj pumpi.</text>
+	</string>
+	<string id="val_secret_0024_name">
+		<text>Sef na gasnoj pumpi</text>
+	</string>
+	<string id="val_secret_0025_description">
+		<text>Nalazi se neki sanduk u kolima u banditskom parku. Potrebno je da se ušunjamo u auto. Osećam da tamo nešto ima.</text>
+	</string>
+	<string id="val_secret_0025_name">
+		<text>Sanduk u kolima</text>
+	</string>
+	<string id="val_secret_0026_description">
+		<text>Stavi sanduk u Tajno skrovište - to je pouzdano mesto</text>
+	</string>
+	<string id="val_secret_0026_name">
+		<text>Sanduk u tajnom skrovistu</text>
+	</string>
+	<string id="val_secret_0027_description">
+		<text>Ostavi ranac u napuštenoj zgradi. Dobro je, nikoga nema okolo.</text>
+	</string>
+	<string id="val_secret_0027_name">
+		<text>Zapostavljeni ranac</text>
+	</string>
+	<string id="val_secret_0028_description">
+		<text>Ostavili smo robu u sefu u neopisivom mestu. Ako vojnici ne dođu danas, doći će sutra. Oni neće gledati okolo mnogo dugo tako da ću važne stvari ostaviti.</text>
+	</string>
+	<string id="val_secret_0028_name">
+		<text>Borovo tajno skrovište</text>
+	</string>
+	<string id="val_secret_0029_description">
+		<text>Sakriven je ranac daleko od zgrade.</text>
+	</string>
+	<string id="val_secret_0029_name">
+		<text>Ranac u tajnom skloništu</text>
+	</string>
+	<string id="val_secret_0030_description">
+		<text>Zaglavio sam robu u bezličnom sanduku. Uzeću ga kasnije.</text>
+	</string>
+	<string id="val_secret_0030_name">
+		<text>Bezlični sanduk</text>
+	</string>
+	<string id="val_secret_0031_description">
+		<text>Sakriven je ranac unutar auta. Niko neće obratiti pažnju na njega.</text>
+	</string>
+	<string id="val_secret_0031_name">
+		<text>Skriveni ranac</text>
+	</string>
+	<string id="val_secret_0032_description">
+		<text>Sakrivena je roba u autu ispred nosa Bandita, nema vremena da se potraži bolje mesto.</text>
+	</string>
+	<string id="val_secret_0032_name">
+		<text>Tajno skrovište u kolima</text>
+	</string>
+	<string id="x16_secret_0000_description">
+		<text>Priča se da postoji Stalker koji je upao u laboratoriju i sakrio njegovu robu u električnim utičnicama u liftu. Kada je došlo vreme da pokupi stvari on se nije pojavio.</text>
+	</string>
+	<string id="x16_secret_0000_name">
+		<text>Roba u električnim utičnicama</text>
+	</string>
+	<string id="x16_secret_0001_description">
+		<text>Priča se da postoji stalker koji je usao u laboratoriju i zavirio u oblast gde su vršeni eksperimenti, sa svom njegovom robom.</text>
+	</string>
+	<string id="x16_secret_0001_name">
+		<text>Skautov ranac</text>
+	</string>
+	<string id="x18_secret_0000_description">
+		<text>Dimljeni je stavio sve u sef u podzemlju laboratorije. Nije loše mesto - niko nema ključ od laboratorije. Jedini problem su stene koje počinju da lete iznenada svuda okolo. Kažu da je neko poginuo tako.</text>
+	</string>
+	<string id="x18_secret_0000_name">
+		<text>Tajno skrovište Dimljenog</text>
+	</string>
+	<string id="x18_secret_0001_description">
+		<text>Morao sam da zapostavim ranac</text>
+	</string>
+	<string id="x18_secret_0001_name">
+		<text>Zapostavljen ranac</text>
+	</string>
+	<string id="yan_secret_0000_description">
+		<text>Krst je na brdu i ranac je ispod njega.</text>
+	</string>
+	<string id="yan_secret_0000_name">
+		<text>Tajno skrovište ispod brda</text>
+	</string>
+	<string id="yan_secret_0001_description">
+		<text>Kažu da je napola zakopan sef na malom ostrvu u močvari. Potrebno je da dođeš do informacija o tome.</text>
+	</string>
+	<string id="yan_secret_0001_name">
+		<text>Stara slamarica</text>
+	</string>
+	<string id="yan_secret_0002_description">
+		<text>Zaglavio sam robu u cevi u kampu</text>
+	</string>
+	<string id="yan_secret_0002_name">
+		<text>Cev sa robom</text>
+	</string>
+	<string id="yan_secret_0003_description">
+		<text>Prikrivene stvari iza garaža</text>
+	</string>
+	<string id="yan_secret_0003_name">
+		<text>Torba iza garaža</text>
+	</string>
+	<string id="yan_secret_0004_description">
+		<text>Sakriven je ranac u kabini, odmah iza metalnog otpada.</text>
+	</string>
+	<string id="yan_secret_0004_name">
+		<text>Ranac sa plenom</text>
+	</string>
+	<string id="yan_secret_0005_description">
+		<text>Smestio sam sef u autobusu - deluje kao da ga je nemoguće pronaći</text>
+	</string>
+	<string id="yan_secret_0005_name">
+		<text>Tajno skrovište u autobusu</text>
+	</string>
+	<string id="yan_secret_0006_description">
+		<text>Roba je sakrivena u kolima ne tako daleko od teritorije. Radijacija nije tako visoka.</text>
+	</string>
+	<string id="yan_secret_0006_name">
+		<text>Plen je u kolima</text>
+	</string>
+	<string id="yan_secret_0007_description">
+		<text>Oni kažu da je nečija roba tamo, ali oni ne mogu doći tamo zbog radijacije</text>
+	</string>
+	<string id="yan_secret_0007_name">
+		<text>Stara torba</text>
+	</string>
+	<string id="yan_secret_0008_description">
+		<text>Oni kažu da je tamo Tajno skrovište neke grupe. Pitam se kako su došli dovde sa radijacijom?</text>
+	</string>
+	<string id="yan_secret_0008_name">
+		<text>Tajno skrovište grupe</text>
+	</string>
+	<string id="yan_secret_0009_description">
+		<text>Još jedan volonter stalker je izdahnuo jer ga prototip odelo nije zaštitilo od radijacije. On je jedino uspeo da dođe do središta teritorije i tamo je ostao. Saharov želi još precizna merenja ali ja ne želim ići, inače ću završiti boravak tamo sam, nedaleko od teritorije.</text>
+	</string>
+	<string id="yan_secret_0009_name">
+		<text>Torba volontera</text>
+	</string>
+	<string id="yan_secret_0010_description">
+		<text>Oni kažu da je tamo nečiji zavežljaj, ali ne može se prići zbog visoke radijacije.</text>
+	</string>
+	<string id="yan_secret_0010_name">
+		<text>Staro tajno skrovište</text>
+	</string>
+	<string id="yan_secret_0011_description">
+		<text>Moram da odem. Saharov i Kruglov su potpuni psihopate - oni žele da idem sa nekim stalkerima u centar radijacije. Ko ih jebe, čim skupim sve zalihe iz šahte, odlazim daleko!!!</text>
+	</string>
+	<string id="yan_secret_0011_name">
+		<text>Tajno skrovište naučnika</text>
+	</string>
+	<string id="yan_secret_0012_description">
+		<text>Stavio sam stvari u panj, ne verujem da će ih iko naći.</text>
+	</string>
+	<string id="yan_secret_0012_name">
+		<text>Blago u panju</text>
+	</string>
+	<string id="yan_secret_0013_description">
+		<text>Oni kažu da je nečije blago tamo, ali nema šanse doći do njega zbog radijacije.</text>
+	</string>
+	<string id="yan_secret_0013_name">
+		<text>Sanduk sa stvarima</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Informacija o šteku</text>
+	</string>
+	<string id="marsh_secret_0000_name">
+		<text>Skriveno mesto u baruštini</text>
+	</string>
+	<string id="marsh_secret_0000_description">
+		<text>Ostavio sam stvari, nadam se da niko neće pronaći - ljudi ovde vole da čeprkaju. Sam sam sve to dovukao do regionalnog oma (regional ohm)...</text>
+	</string>
+	<string id="marsh_secret_0001_name">
+		<text>Stalkersko skriveno mesto</text>
+	</string>
+	<string id="marsh_secret_0001_description">
+		<text>Ostavio sam stvari tamo, ako neko i ukrade nije neka šteta.</text>
+	</string>
+	<string id="marsh_secret_0002_name">
+		<text>Ranac mrtvog stalkera</text>
+	</string>
+	<string id="marsh_secret_0002_description">
+		<text>Priča se da je neki stalker nestao, ali iza njega su ostale skrivene stvari.</text>
+	</string>
+	<string id="marsh_secret_0003_name">
+		<text>Štek 'Osvetnika'</text>
+	</string>
+	<string id="marsh_secret_0003_description">
+		<text>Video sam jednog 'Osvetnika' kako skriva stvari u barama.</text>
+	</string>
+	<string id="marsh_secret_0004_name">
+		<text>Štek u barama</text>
+	</string>
+	<string id="marsh_secret_0004_description">
+		<text>Tu je bio jedan stalker, dok je bio pijan govorio je o nekom šteku. Da li je lagao, to nije sigurno bilo bi dobro proveriti to.</text>
+	</string>
+	<string id="marsh_secret_0005_name">
+		<text>Neprimetno skriveno mesto.</text>
+	</string>
+	<string id="marsh_secret_0005_description">
+		<text>Pre nego što sam proverio mesto nešto se pomerilo nedaleko, mesto nije bezbedno, strah me je da ukradem to.</text>
+	</string>
+	<string id="marsh_secret_0006_name">
+		<text>Štek.</text>
+	</string>
+	<string id="marsh_secret_0006_description">
+		<text>Oh kako sam se samo uvalio u nevolju, morao sam da bežim od dva pseudo-psa, pa sam morao stv ari pobacati u deponiju, trebalo bi to pretražiti.</text>
+	</string>
+	<string id="marsh_secret_0007_name">
+		<text>Dragoceni štek.</text>
+	</string>
+	<string id="marsh_secret_0007_description">
+		<text>Tada smo sa Žorom pešačili, pa nam se ukazala potreba da bežimo iz močvare i stvari da ostavimo tamo.</text>
+	</string>
+	<string id="marsh_secret_0008_name">
+		<text>Vredno skriveno mesto u močvari.</text>
+	</string>
+	<string id="marsh_secret_0008_description">
+		<text>O bože gde sam ranac zaturio. Mislio sam da sam zapamtio a onda sam se napio. I sve čega se sećam, to je da treba mnogo pešačiti, ali kasno je.</text>
+	</string>
+	<string id="marsh_secret_0009_name">
+		<text>Plen Stalkera</text>
+	</string>
+	<string id="marsh_secret_0009_description">
+		<text>Evo ovde je jedan stalker ostavio informaciju o šteku, rekao je da su zanimljive stvar, zar ne.</text>
+	</string>
+	<string id="marsh_secret_0010_name">
+		<text>Štek 'Čistog Neba'</text>
+	</string>
+	<string id="marsh_secret_0010_description">
+		<text>Video sam jednog od njih, iz klana 'Čistog Neba' sakrio je nešto u barama, da li te zanima?</text>
+	</string>
+	<string id="marsh_secret_0011_name">
+		<text>Rezervisano mesto</text>
+	</string>
+	<string id="marsh_secret_0011_description">
+		<text>Ovde se jedan uz muziku napio, a takva pričalica, govorio je o jednom šteku, navodno leži tamo, hvalio se, znaš...</text>
+	</string>
+	<string id="marsh_secret_0012_name">
+		<text>Skriveno mesto Lovca</text>
+	</string>
+	<string id="marsh_secret_0012_description">
+		<text>To je zakopano, nedaleko odavde, sačekaću da vidim ko će biti taj omiljeni klijent.</text>
+	</string>
+	<string id="marsh_secret_0013_name">
+		<text>Vredne stvari</text>
+	</string>
+	<string id="marsh_secret_0013_description">
+		<text>Dobro, budi frajer pa to donesi. To je zakopano, nedaleko odavde.</text>
+	</string>
+	<string id="marsh_secret_0014_name">
+		<text>Sitnice u šteku</text>
+	</string>
+	<string id="marsh_secret_0014_description">
+		<text>To je sve što je ostalo od našeg brata, uspeo je da zakopa na vreme, velika šteta je zbog njega.</text>
+	</string>
+	<string id="marsh_secret_0015_name">
+		<text>Skriveno mesto sa stvarima</text>
+	</string>
+	<string id="marsh_secret_0015_description">
+		<text>Evo uspeo sam da uštedim nešto novca, pokupiću te sitnice što sam zakopao i bežim iz Zone.</text>
+	</string>
+	<string id="marsh_secret_0016_name">
+		<text>Dragocenosti u močvari</text>
+	</string>
+	<string id="marsh_secret_0016_description">
+		<text>Kakv nered smo napravili, bilo je nužno stvari ostaviti na nepouzdanom mestu sakrivene. Moramo pronaći vreme da to bolje sakrijemo.</text>
+	</string>
+	<string id="marsh_secret_0017_name">
+		<text>Ranac sa stvarima</text>
+	</string>
+	<string id="marsh_secret_0017_description">
+		<text>Saleteli su nas monstrumi. Morali smo deo stvari da ostavimo u močvari.</text>
+	</string>
+	<string id="marsh_secret_0018_name">
+		<text>Štek sa stvarima</text>
+	</string>
+	<string id="marsh_secret_0018_description">
+		<text>Išao sam zajedno sa šmokljanom, kada smo stigli u močvaru, tamo su nas monstrumi napali, jedva smo se izvukli. Ali smo stvari sakrili na pouzdanom mestu.</text>
+	</string>
+	<string id="marsh_secret_0019_name">
+		<text>Neprimetna lokacija</text>
+	</string>
+	<string id="marsh_secret_0019_description">
+		<text>Na žalost smo naleteli tamo, pa smo pronašli mrtvog stalkera, imao je mnogo toga kod sebe. Ono najvrednije smo poneli sa sobom, ali nešto smo morali i da ostavimo.</text>
+	</string>
+	<string id="limansk_secret_0000_name">
+		<text>Skriveno mesto u Limansku.</text>
+	</string>
+	<string id="limansk_secret_0000_description">
+		<text>Tada sam sa Koljom izvršio uspešnu kontrolu mesta, deo opreme sam morao ostaviti na istom mestu u Limansku.</text>
+	</string>
+	<string id="limansk_secret_0001_name">
+		<text>Štek u Limansku.</text>
+	</string>
+	<string id="limansk_secret_0001_description">
+		<text>Teglio sam veliku količinu plena, pa sam bio primoran deo njega da osavim u štek.</text>
+	</string>
+	<string id="limansk_secret_0002_name">
+		<text>Štek Monolita</text>
+	</string>
+	<string id="limansk_secret_0002_description">
+		<text>Sa Seregojom smo uhvatili jednog "unesrećenog", on kod sebe nije imao ništa, jedino neku infekciju je dobio. Stvari je ostavio u istom šteku. Trebalo bi te stvari pokupiti.</text>
+	</string>
+	<string id="limansk_secret_0003_name">
+		<text>Štek Fridoma</text>
+	</string>
+	<string id="limansk_secret_0003_description">
+		<text>Moj drugar levak "se dokotrljao", onda smo prekontrolisali mesto, kod mene je bio novi ranac, morao sam da ga sakrijem.</text>
+	</string>
+	<string id="limansk_secret_0004_name">
+		<text>Štek Stalkera.</text>
+	</string>
+	<string id="limansk_secret_0004_description">
+		<text>Da ovde smo strahote pretrpeli. Borbe sa psima i tako to. Jedva smo umakli, morao sam ranac da odbacim.</text>
+	</string>
+	<string id="limansk_secret_0005_name">
+		<text>Štek Stalkera u Limansku</text>
+	</string>
+	<string id="limansk_secret_0005_description">
+		<text>Situacija u Limansku se pooštrila, pa smo se oprezno sastali, bilo je neohodno da sve odbacimo i da bežimo.</text>
+	</string>
+	<string id="limansk_secret_0006_name">
+		<text>Štek Stalkera u Limansku</text>
+	</string>
+	<string id="limansk_secret_0006_description">
+		<text>Prijatelj i ja smo se igrali sa mapama, uvek sam pobeđivao, ali u jednoj partiji, plen u Limansku je preostaot. Pa takođe bi izgubio ukoliko se pojavi tamo, zato je potrebno proveriti.</text>
+	</string>
+	<string id="limansk_secret_0007_name">
+		<text>Štek u Limansku</text>
+	</string>
+	<string id="limansk_secret_0007_description">
+		<text>Sa Petrom sam bio skoro u Limansku, pronašli smo vrednosti koje nismo mogli ponati sa sobom, neophodno je bilo te stvari ostaviti i ići dalje, trebaće vremena da se to pokupi u odnese.</text>
+	</string>
+	<string id="limansk_secret_0008_name">
+		<text>Štek mrtvog Stalkera u Limansku.</text>
+	</string>
+	<string id="limansk_secret_0008_description">
+		<text>Locilari smo jedanštek što ga je neki stalker ostavio, prava je nesreća šta se njemu dogodilo, u blizini je bio Krvopija, verovatno nas je osetio. Jedva smo stvari odneli, dok čoveka nismo mogli nositi.</text>
+	</string>
+	<string id="limansk_secret_0009_name">
+		<text>Štek Stalkera u Limansku</text>
+	</string>
+	<string id="limansk_secret_0009_description">
+		<text>Ovde je došlo do greške. Poserban štek mo pronašli, na tako izolovanom mestu. A onda je emisija počela pa se na tom mestu formirala anomalija "Trambolina". Tri dana sam čekao, pa sam onda morao da pobegnem bez ičega.</text>
+	</string>
+	<string id="red_forest_secret_0000_name">
+		<text>Štek Stalkera u Crvenoj Šumi</text>
+	</string>
+	<string id="red_forest_secret_0000_description">
+		<text>Štej je na drvetu ostavljen. Biće potrebno vreme da se dođe do njega.</text>
+	</string>
+	<string id="red_forest_secret_0001_name">
+		<text>Skriveno mesto Lovca</text>
+	</string>
+	<string id="red_forest_secret_0001_description">
+		<text>Ovde je bio jedan Lovac. I nije žalio što je prošao Zonu, sagnuo se, a pre nego što će umreti rekao nam je za skriveno mesto.</text>
+	</string>
+	<string id="red_forest_secret_0002_name">
+		<text>Skriveno mesto Plaćenika</text>
+	</string>
+	<string id="red_forest_secret_0002_description">
+		<text>Desilo se da smo zarobili Plaćenike. Možde prerano. Pa su nam rekli za skriveno mesto, ali tek kada smo ih šamarali.</text>
+	</string>
+	<string id="red_forest_secret_0003_name">
+		<text>Ranac u Crvenoj Šumi</text>
+	</string>
+	<string id="red_forest_secret_0003_description">
+		<text>Takav plen sam morao da ostavim u šumi. Mesto nije pouzdano. Takođe je lako videti i ukrasti.</text>
+	</string>
+	<string id="red_forest_secret_0004_name">
+		<text>Skriveno mesto u Crvenoj Šumi</text>
+	</string>
+	<string id="red_forest_secret_0004_description">
+		<text>Pronađeno je mesto sa toliko dobrih stvari. Sakriveno na takvom mestu. Ko bi mogao da ga pronađe.</text>
+	</string>
+	<string id="red_forest_secret_0005_name">
+		<text>Plen u Crvenoj Šumi</text>
+	</string>
+	<string id="red_forest_secret_0005_description">
+		<text>U Crvenoj Šumi je sakrivena takva vrednost. Doći će vreme da se odnese iz Zone. Nemoj zaboraviti da to uzmeši odneseš.</text>
+	</string>
+	<string id="red_forest_secret_0006_name">
+		<text>Plen na ivici</text>
+	</string>
+	<string id="red_forest_secret_0006_description">
+		<text>Pronašao sam mrtvog stalkera. U rancu mu je bilo mnogo dragocenosti. Ali nisam mogao sve da odnesem, jedan deo je preostao.</text>
+	</string>
+	<string id="red_forest_secret_0007_name">
+		<text>Plen Lovca</text>
+	</string>
+	<string id="red_forest_secret_0007_description">
+		<text>Znam za jedno mesto, priča se da je tamo pokopano mnogo blaga. Obavezno bi ga trebalo posetiti.</text>
+	</string>
+	<string id="red_forest_secret_0008_name">
+		<text>Štek Lovca</text>
+	</string>
+	<string id="red_forest_secret_0008_description">
+		<text>Meni je jedan Lovac neposredno pred svoju snmrt pričao o šteku u Crvenoj Šumi. Moram obavezno pronaći to mesto.</text>
+	</string>
+	<string id="red_forest_secret_0009_name">
+		<text>Štek kod drveta</text>
+	</string>
+	<string id="red_forest_secret_0009_description">
+		<text>Jedan je ovuda nosio, toliko tereta je uzeo na sebe da nije mogao sve da ponese. Pa je višak ostavio na jednom mestu kod drveta.</text>
+	</string>
+	<string id="red_forest_secret_0010_name">
+		<text>Skriveno mesto u drvetu</text>
+	</string>
+	<string id="red_forest_secret_0010_description">
+		<text>Dobro je što smo se otresli onog Stalkera. Njegov plen nam je neophodan.</text>
+	</string>
+	<string id="red_forest_secret_0011_name">
+		<text>Izolovano mesto u šumi</text>
+	</string>
+	<string id="red_forest_secret_0011_description">
+		<text>Vasa se izgubio. Pa popićemo za njega, za drugara mog. Ostavio sam sve što je vredno, da na istom mestu u šumi i otišao. Nisam mogao....</text>
+	</string>
+	<string id="red_forest_secret_0012_name">
+		<text>Obezbeđeno mesto u šumi</text>
+	</string>
+	<string id="red_forest_secret_0012_description">
+		<text>Desio se praznik na našim prostorima. Nafatirao sam se dobre love. Plen sam morao da ostavim. Ali nisam našao bezbedno mesto.</text>
+	</string>
+	<string id="red_forest_secret_0013_name">
+		<text>Obezbeđeno mesto u šumi</text>
+	</string>
+	<string id="red_forest_secret_0013_description">
+		<text>Šta sada da radim? Plen je skriven u Crvenoj Šumi. Već drugi mesec ne mogu da dođem do njega. I to je sve, prokletstvo.</text>
+	</string>
+	<string id="red_forest_secret_0014_name">
+		<text>Skriveno mesto majstora</text>
+	</string>
+	<string id="red_forest_secret_0014_description">
+		<text>On je odbacio stvari u štek tek tako. Nije mnogo vredno, ali nema veze.</text>
+	</string>
+	<!-- new string id's - aleks1970 -->
+	<string id="red_forest_secret_0015_name">
+		<text>Ranac u Šumi</text>
+	</string>
+	<string id="red_forest_secret_0015_description">
+		<text>Stigao sam u Limansk. Onda nisam mogao dalje, ali put koji sam odbrao, doveo me je do skrivenog mesta u Crvenoj Šumi.</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 18:15 27.03.2015 -->
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:44 -sadd -->

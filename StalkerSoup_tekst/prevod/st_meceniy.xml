@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 updated to 134, corrected text and new text addon, aleks1970, exo tb3d, added stats, new invisible suit,
+ Nano and enemy decoder text - aleks1970, enemy_sms_skat_system_m1, enemy_sms_storm_system_m1, on/off button text -->
+<string_table>
+	<string id="esc_akim">
+		<text>Akim</text>
+	</string>
+	<string id="agro_adrenalin">
+		<text>Adrenalin</text>
+	</string>
+	<string id="antizombie">
+		<text>Antidot</text>
+	</string>
+	<string id="antizombie_s">
+		<text>Antidot</text>
+	</string>
+	<string id="enc_equipment_medi_antizombie">
+		<text>Najnovije medicinsko otkriće od "Dharma Initiative". Antidot sprečava negativne efekte psi-radijacije. Ako se uzme u ranim fazama zombifikacije, moguće je izbeći transformaciju. ( dve (2) doze se moraju ubrizgati ) ... Jedina mana mu je: -  cena.</text>
+	</string>
+	<!-- invisible suit strings -->
+	<string id="You_can_see_invisi">
+		<text>Odijelo je isključeno!...</text>
+	</string>
+	<string id="You_beco_visible_invisi">
+		<text>Upozorenje: Deset sekundi do isključivanja</text>
+	</string>
+	<string id="You_are_invisible_invisi">
+		<text>Vi ste nevidljivi</text>
+	</string>
+	<string id="mas_outfit_name">
+		<text>Egzoskeleton "Stelt"</text>
+	</string>
+	<string id="mas_outfit_description">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+1%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+1%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+1%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+2%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+1%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+1%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+1%\n%c[default]Najnovije otkriće koje izlazi iz jedne od stranih tajnih laboratorije.\nKoristi se od strane Specijalnih jedinica, Sabotera, i izviđača u svrhu prikrivanja. Detalji o njegovom prvom pojavljivanju u Zoni su nepoznati. Korišćen je za prikrivene aktivnosti gde je "nevidljivost" od ključnog značaja.\nNapravljen je od polarizovane metalne mreže oklop koji koristi svaki delić prostora za komponente detekcije i prikrivanje. Oklop sam po sebi je napravljen od kompozitnih materijala drugačijih u odnosu na stadardne oklope.\nPovršina odela ima sloj prosečne debljine od 4 mm. i omogućuje sam vrh kamufliranja pomoću višestrukih uređaja za skeniranje i talasnih modifikatora koji izobličuju svetlosne zrake. To što oklop gubi na čvrstini, dobija na lukavstvu.\nSpoljašnjost odela je napravljena od talasaste mrežaste legure sa prizmatičnim vlaknima. Rezultirajuća površina menja način na koji se svetlost odbija od nje. Delujući na sličnim principima koji omogućuju da se utopi u blisko okruženje.\nOvaj kamuflažni uređaj neznatno menja spoljnju boju oklopa (pretvarajući ga u belo, na primer). Iako nije potpuno neprobojno, dokazalo se kao efikasno u većini situacija.</text>
+	</string>
+	<string id="integral_knife">
+		<text>Nevidljivi Mač</text>
+	</string>
+	<string id="enc_integral_knife_desc">
+		<text>Nevidljivi Samurajski mač</text>
+	</string>
+	<string id="battery_is_empty">
+		<text>Off:  baterija je prazna!</text>
+	</string>
+	<string id="is_damaged">
+		<text>Maskirno odijelo je oštećeno!</text>
+	</string>
+	<string id="mas_outfit_strelok_name">
+		<text>Egzoskeleton "Duh"</text>
+	</string>
+	<string id="mas_outfit_strelok_description">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+10%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+40%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+25%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+40%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+50%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+50%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+10%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+45%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+55%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+35kg\n%c[default]Najnovije otkriće koje izlazi iz jedne od stranih tajnih laboratorije.\nKoristi se od strane Specijalnih jedinica, Sabotera, i izviđača u svrhu prikrivanja. Detalji o njegovom prvom pojavljivanju u Zoni su nepoznati. Korišćen je za prikrivene aktivnosti gde je "nevidljivost" od ključnog značaja.\nNapravljen je od polarizovane metalne mreže oklop koji koristi svaki delić prostora za komponente detekcije i prikrivanje. Oklop sam po sebi je napravljen od kompozitnih materijala drugačijih u odnosu na stadardne oklope.\nPovršina odela ima sloj prosečne debljine od 4 mm. i omogućuje sam vrh kamufliranja pomoću višestrukih uređaja za skeniranje i talasnih modifikatora koji izobličuju svetlosne zrake. To što oklop gubi na čvrstini, dobija na lukavstvu.\nSpoljašnjost odela je napravljena od talasaste mrežaste legure sa prizmatičnim vlaknima. Rezultirajuća površina menja način na koji se svetlost odbija od nje. Delujući na sličnim principima koji omogućuju da se utopi u blisko okruženje.\nOvaj kamuflažni uređaj neznatno menja spoljnju boju oklopa (pretvarajući ga u belo, na primer). Iako nije potpuno neprobojno, dokazalo se kao efikasno u većini situacija.</text>
+	</string>
+	<string id="mil_exoskeleton_name">
+		<text>Vojni Prototip "SKAT15"</text>
+	</string>
+	<string id="mil_exoskeleton_name_s">
+		<text>Prototip SKAT15</text>
+	</string>
+	<string id="mil_exoskeleton_description">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+55%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+65%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+50%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+15%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+55%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+50%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+60%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+35%\n%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+150\n%c[255,1,255,255]Krvarenja: %c[255,1,255,1]-10%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+60%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+50kg\n%c[default]Prototip "s.m.a.r.t." odela poslednje generacije na bazi "SKAT-10" oklopa.\n \n• Omogućuje dobru zaštitu od psi-uticaja, a omogućuje i ugrađenu dijagnostiku zdravstvenog stanja. Povećava kapacitet nošenja, međutim težina samog odela delimično poništava ovu pogodnost. Specijalna sočiva koriščena u kacigi povećavaju vidno polje, tako da vizir prikazuje praktično 180 stepeni, a i otporan je na mehaničke i hemijske uticaje.\n \n• Tu su četiri slota sa mikro-elektronskim kolima koja utiču na proširenje tipičnih mogućnasti ovog egzo-skeletona, ali kao nus pojava tome je povećana potrošnja energije. Ne električne, nego mirotalasne energije, koja se stvara uz pomoć specifične forme Artefakta. \nSamo jedan prototip postoji. Svi zapisi, nacrti, kao i dizajnerski dokumenti su izgubljeni.</text>
+	</string>
+	<string id="mil_exoskeleton_name_add">
+		<text>Modifikovani Vojni Prototip "SKAT15-M"</text>
+	</string>
+	<string id="mil_exoskeleton_name_add_s">
+		<text>SKAT15-M "Uputstvo za održavanje Deo 1"</text>
+	</string>
+	<string id="mil_exoskeleton_description_add">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+55%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+65%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+50%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+35%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+55%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+50%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+60%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+60%\n%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+230\n%c[255,1,255,255]Krvarenja: %c[255,1,255,1]-15%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+60%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+60kg\n%c[default]• Modifikovani prototip "SKAT15" odela sa povezanim blokovima elektronike i dodatnim mikro-kolima.\n \n• To je najbolje dostupna zaštita protiv psi-uticaja, a poseduje i ugrađenu dijagnozu zdravlja, takođe je sa povećanim kapacitetom nošenja. Težina odela je smanjena...</text>
+	</string>
+	<string id="mil_exoskeleton_name_addr">
+		<text>Modifikovani Vojni Prototip "SKAT15-M1"</text>
+	</string>
+	<string id="mil_exoskeleton_name_addr_s">
+		<text>SKAT15-M1 "Razine-1"</text>
+	</string>
+	<string id="mil_exoskeleton_description_addr">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+55%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+65%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+55%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+55%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+60%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+60%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+70%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+60%\n%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+420\n%c[255,1,255,255]Krvarenja: %c[255,1,255,1]-33%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+65%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+70kg\n%c[default]• Modifikovani prototip odela SCAT15-M1, sa aktivacionim sistemskim modulom i zakačenim blokom za nadogradnju broj 1.\n \n• Za razliku od ne nadogradive verzije ima i 50% veću zaštitu od bilo kojeg VIP-udara, napredni ugrađeni analizator stanja zdravlja nosioca, koji takođe prati efekat radijacije, a povećana je i nosivost na 70 kg tereta.\n \n• SKAT-15M1 - je prototip novog vojnog odela, poslednja generacija proizvoda na bazi SKAT-10. Pojačava snagu mišića nosioca, što omogućuje nošenje i većeg tereta, ali njegova težina je 26 kg. U proizvodnji je korišćeno poslednje dostignuće "prskanja" nekih artefakata na pločama kevlara odela, tako da ima dobre odbrambene karakteristike. U kacigu su ugrađena posebna sočiva, koja povećavaju ugavo vidnog polja, sa staklom koje je praktično večitu i nije osetljivo na mehaničke ili hemijske uticaje. Poseduje jedan slot za set čipova i četiri slota za blokove čipova koji proširuju funkcionalnost ovog egzo-skeletona, ali aktivacijom trećeg sklopa, odelo počinje da troši energiju, ne električnu, nego mikrotalasnu, koju stvara neka vrsta artefakta. \nTo je sprečilo dalje razvijanje ovog modela. Postoji u pojedinačnim primercima, nacrti i razvojan dokumentacija - su izgubljeni.</text>
+	</string>
+	<string id="mil_exoskeleton_name_addx">
+		<text>Modifikovani Vojni Prototip "SKAT15-M2"</text>
+	</string>
+	<string id="mil_exoskeleton_name_addx_s">
+		<text>SKAT15-M2 "Razine-2"</text>
+	</string>
+	<string id="mil_exoskeleton_description_addx">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+55%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+70%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+55%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+60%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+60%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+60%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+70%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+65%\n%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+640\n%c[255,1,255,255]Krvarenja: %c[255,1,255,1]-45%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+70%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+70kg\n%c[default]• Modifikovani prototip odela SCAT15-M2, sa aktivacionim sistemskim modulima i zakačenim blokovima za nadogradnju broj 1 i broj 2.\n \n• Za razliku od ne nadogradive verzije ima i 60% veću zaštitu od bilo kojeg VIP-udara, napredni ugrađeni analizator stanja zdravlja nosioca, koji takođe prati efekat radijacije, automatizovani sistem koristi energiju i povećava nosivost na 70 kg tereta. Loša strana - potrošnja energije, potrebno dopunjavanje na svakih 2 sata. Kao baterija se koristi artefakt 'Crna Energija'.\n \n• SKAT15-M2 - je prototip novog vojnog odela, poslednja generacija, napravljen na bazi SKAT-10. Pojačava snagu mišića nosioca, što mu omogućuje da nosi više tereta, ali težina mu je 26 kg. Pri proizvodnji korišćena su poslednja dostignuća u "prskanju" nekim artefaktima na kevlarske ploče odela, zato poseduje dobre odbrambene osobine. U kacigi su ugrađena specijalna sočiva, ona povećavaju ugao gledanja i vidno polje, sa staklom koje je praktično večno i koje je otporno na mehanička i hemijska delovanja. Poseduje jedan slot za specijalan set čipova i tri slota za blokove čipova koji proširuju funkcionalnost ovog egzo-skeletona, ali aktivacijom trećeg sklopa, odelo počinje trošiti energiju, ne električnu, nego mikrotalasnu, koju stvara neka vrsta artefakta. Ovo je sprečilo dalji razvoj ovog modela. Postoji u pojedinačnim primercima, nacrti i razvojna dokumentacije - su izgubljeni.</text>
+	</string>
+	<string id="item_manual_part_1">
+		<text>Uputstvo za održavanje Deo 1</text>
+	</string>
+	<string id="item_manual_part_1_s">
+		<text>Uputstvo Deo 1</text>
+	</string>
+	<string id="item_manual_part_2">
+		<text>Uputstvo za održavanje Deo 2</text>
+	</string>
+	<string id="item_manual_part_2_s">
+		<text>Uputstvo Deo 2</text>
+	</string>
+	<string id="item_manual_part_3">
+		<text>Uputstvo za održavanje Deo 3</text>
+	</string>
+	<string id="item_manual_part_3_s">
+		<text>Uputstvo Deo 3</text>
+	</string>
+	<string id="item_manual_part_4">
+		<text>Uputstvo za održavanje Deo 4</text>
+	</string>
+	<string id="item_manual_part_4_s">
+		<text>Uputstvo Deo 4</text>
+	</string>
+	<string id="item_manual_part_5">
+		<text>Uputstvo za održavanje Deo 5</text>
+	</string>
+	<string id="item_manual_part_5_s">
+		<text>Uputstvo Deo 5</text>
+	</string>
+	<string id="item_manual_part_6">
+		<text>Uputstvo za održavanje Deo 6</text>
+	</string>
+	<string id="item_manual_part_6_s">
+		<text>Uputstvo Deo 6</text>
+	</string>
+	<string id="item_manual_part_7">
+		<text>Uputstvo za održavanje Deo 7</text>
+	</string>
+	<string id="item_manual_part_7_s">
+		<text>Uputstvo Deo 7</text>
+	</string>
+	<string id="enc_doc_manual_part_descr">
+		<text>Mikro-čipovi za aktiviranje dodatnih modula za Egzoskeleton "SKAT15-M". Treba da budu ubačeni u specijalno ležište unutar odela.</text>
+	</string>
+	<string id="doc_1">
+		<text>Modularni Aktivacioni Sistem</text>
+	</string>
+	<string id="enc_doc">
+		<text>Kompletan set mikro-čipova koji se koriste pri aktivaciji dodatnih modula za Egzo-skeleton "SKAT15-M". Ubačen je u specijalno ležište unutar odela. Vrlo je ne stabilan, ali osigurava funkcionalnost, a naknadno omogućuje i dodatnu funkcionalnost sam po sebi.</text>
+	</string>
+	<string id="doc_8">
+		<text>Nadogradivi Blok #1</text>
+	</string>
+	<string id="doc_8_s">
+		<text>Blok #1</text>
+	</string>
+	<string id="new_apgreider_1">
+		<text>Prvi set mikro-kola priključen unutar bloka odela, koristi se za proširenje funkcionalnosti za Egzo-skeleton "SKAT15-M". Vrlo su osetljivi i nestabilni. Zahtevaju specijalni slot..</text>
+	</string>
+	<string id="doc_10">
+		<text>Nadogradivi Blok #2</text>
+	</string>
+	<string id="doc_10_s">
+		<text>Blok #2</text>
+	</string>
+	<string id="new_apgreider_2">
+		<text>Drugi set mikro-kola priključen unutar bloka odela, koristi se za proširenje funkcionalnosti za Egzo-skeleton "SKAT15-M1". Vrlo su osetljivi i nestabilni. Zahtevaju specijalni slot.</text>
+	</string>
+	<!--DMX UPGRADE -->
+	<string id="dmx_skat15_upgrade">
+		<text>Nadogradivi Blok #3</text>
+	</string>
+	<string id="dmx_apgreider_3">
+		<text>Treći set čipova je iskombinovan u jedinstvenu celinu. Oni služe da bi proširili funkcionalnost Egzo-skeletona SCAT-15M, nakon nadogradnje broj #1 i #2 .. Takođe, tu su i nove super-lake komponente, koje kada se instaliraju, težinu smanjuju za šest funti. Glavna prednost nadogradnje, dakle, da se odelo sada može koristiti bez "Crne Energije". Postoji i specijalan slot u koji se priključuje nadogradnja...</text>
+	</string>
+	<string id="mil_exoskeleton_name_dmx_upgrade">
+		<text>Modifikovani prototip odela "SKAT15-M3"</text>
+	</string>
+	<string id="mil_exoskeleton_name_dmx_upgrade_s">
+		<text>SKAT15-M "Razine-3"</text>
+	</string>
+	<string id="mil_exoskeleton_description_dmx_upgrade">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+62%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+75%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+68%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+72%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+75%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+73%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+73%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+85%\n%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+850\n%c[255,1,255,255]Krvarenja: %c[255,1,255,1]-55%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+85%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+80kg\n%c[default]Modifikovani prototip odela SCAT15-M3, sa aktivacionim sistemskim modulima i zakačenim blokom za nadogradnju #1, #2, i  #3.\n \n• Ova verzija poseduje 65% zaštite od bilo kakvog VIP-udara, smanjuje težinu odela za šest funti, napredni ugrađeni analizator stanja zdravlja nosioca, koji proračunava uticaj efekta radijacije, automatizovan sistem koristi energiju i povećava nosivot na 80 kg tereta. Uklonjene nestabilnosti u odelu, može se koristiti bez artefakta 'Crna Energija'.\n \n• SKAT15-M3 - prototip novog vojnog odela, poslednja generacija, pravljen na bazi SKAT-10. Pojačava snagu mišića nosioca, što mu daje mogućnost da nosi više tereta. Pri proizvodnji korišćena su poslednja dostignuća u "prskanju" nekim artefaktima na kevlarske ploče odela, zato poseduje dobre odbrambene osobine. U kacigi su ugrađena specijalna sočiva, ona povećavaju ugao gledanja i vidno polje, sa staklom koje je praktično večno i koje je otporno na mehanička i hemijska delovanja. \nPostoji model samo jedne vrste, nacrti i razvojna dokumentacija - su izgubljeni.</text>
+	</string>
+<!-- TB3D 1.0.9.9.6.0 SKAT15 section sms -->
+<!-- Skat15 suit Sytem upgrades -->
+	<string id="skat15_sms_skat_system_m">
+		<text>SKAT15 Sistem odela:\n</text>
+	</string>
+	<string id="skat15_sms_upg_complete_m">
+		<text>Održavanje i nadogradnja kompletni...</text>
+	</string>
+	<string id="skat15_sms_upg_complete_m1">
+		<text>Blok #1 Nadogradnja kompletna...</text>
+	</string>
+	<string id="skat15_sms_upg_complete_m2">
+		<text>Blok #2 Kompletno...</text>
+	</string>
+	<string id="skat15_sms_upg_complete_dmx">
+		<text>Blok #3 Kompletno...</text>
+	</string>
+	<string id="skat15_sms_req_energy">
+		<text>Nadogradnja zahteva izvor Crne Energije...</text>
+	</string>
+	<string id="skat15_sms_final_upg_complete">
+		<text>Finalna nadogradnja kompletna.</text>
+	</string>
+<!-- Skat15 suit Sytem Life Support "Health" -->
+	<string id="skat15_sms_life_suport">
+		<text>Sistem održavanja života:</text>
+	</string>
+	<string id="skat15_sms_life_suport_1">
+		<text>Održavanje života: - sistem lečenja:</text>
+	</string>
+	<string id="skat15_sms_life_suport_2">
+		<text>Održavanje života: - antiradijacijski sistem:</text>
+	</string>
+	<string id="skat15_sms_life_suport_3">
+		<text>Održavanje života: - sistem napajanja:\n</text>
+	</string>
+	<string id="skat15_sms_life_suport_4">
+		<text>Održavanje života: - antizombi sistem:\n</text>
+	</string>
+	<string id="skat15_sms_life_suport_5">
+		<text>Održavanje života: - sistem protiv krvarenja:</text>
+	</string>
+	<string id="skat15_sms_life_adminis_aid_proced_suport">
+		<text>  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_health_below_auto">
+		<text>tvoje zdravlje je ispod 65% od normalnog stanja,\n  ukoliko si snabdeven sa medecinskim materijalom, sistem održavanja života će se automatski aktivirati ...\n</text>
+	</string>
+	<string id="skat15_sms_life_suport_auto">
+		<text>imaš teško krvarenje ... ukoliko imaš zavoje ...\n  sistem održavanja života će se automatski aktivirati ...\n</text>
+	</string>
+	<string id="skat15_sms_med_suppl_found">
+		<text>Medicinski materijal pronađen\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+<!-- ***********************************- Healing Supplies -******************************* -->
+	<string id="skat15_sms_life_heal_suport_medkit">
+		<text>Kit 'Prve pomoći' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_medkit_army">
+		<text>Kit 'Vojna prva pomoć' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_medkit_scientic">
+		<text>Kit 'Naučnička prva pomoć' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_medkit_elite">
+		<text>Kit 'Elitna prva pomoć' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_suvorotka">
+		<text>'Tablete SUrutka' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_irp-b">
+		<text>'Vojni obrok'  Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_syh_pay_gde_3">
+		<text>'Vojni obrok GDE-3'  Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_syh_pay_spp5">
+		<text>'Vojni obrok SSP5'  Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+<!-- ***********************************- Bandages -************************************ -->
+	<string id="skat15_sms_life_heal_bandage">
+		<text>'Zavoj' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_bandage_2">
+		<text>'Zavoj' Polovni-Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_zhgut">
+		<text>'Udlaga' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_antiseptic">
+		<text>'Antiseptički Zavoj' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+	<string id="skat15_sms_life_heal_bandage_dmx">
+		<text>'Specijalni zavoj' Medicinski materijal pronađen...\n  - Obavlja se procedura prve pomoći ...\n</text>
+	</string>
+<!-- ********************************************************************************** -->
+	<string id="skat15_sms_med_suppl_not_found">
+		<text>Medicinski materijal nije pronađen. Pronađi neko sigurno mesto da bi zalečio svoje rane...\n</text>
+	</string>
+<!-- Skat15 suit Sytem Life Support "Radiation" -->
+	<string id="skat15_sms_cri_dose_of_rad">
+		<text>Rezultirajuća doza radijacije je blizo kritične .. Ne poseduješ Antidot\n ... Ostani izvan zona sa radijacijom ...\n</text>
+	</string>
+	<string id="skat15_sms_cri_dose_of_rad_2">
+		<text>Rezultirajuća doza radijacije je blizo kritične .. ukoliko poseduješ Antidot\n .. Sistem može ukloniti radijaciju iz tela, ali sa opasnim opadanjem zdravlja ...\n</text>
+	</string>
+	<string id="skat15_sms_alcohol_dose_found">
+		<text>... Izvršavanje liječenje bolesti zračenja s alkoholom ...</text>
+	</string>
+	<string id="skat15_sms_antirad_antidote_dose_found">
+		<text>'Antirad' Antidot pronađen.. Primenjujem Antirad sada ...\n</text>
+	</string>
+	<string id="skat15_sms_amfetamin_dose_found">
+		<text>'Amfetamin' pronađen.. Primenjujem ga odmah ...\n</text>
+	</string>
+	<string id="skat15_sms_scientic_med_dose_found">
+		<text>'Naučnički' kit prve pomoći pronađen.. Primenjujem ga odmah ...\n</text>
+	</string>
+	<string id="skat15_sms_medkit_elite_dose_found">
+		<text>'Elitni' kit prve pomoći pronađen.. Primenjujem ga odmah ...\n</text>
+	</string>
+	<string id="skat15_sms_antidote_not_found">
+		<text>'Anti-Radijacijski' resoursi nisu prisutni ...\n</text>
+	</string>
+<!-- Skat15 suit Sytem Life Support "Psy Protection" -->
+	<string id="skat15_sms_zombi_proc_under">
+		<text>Zombifikacijski proces je počeo... Ukoliko poseduješ 'Antizombin' Antidot,\n  - Sistem će ga automatski primeniti za tebe ...\n</text>
+	</string>
+	<string id="skat15_sms_antizombin_adminst_now">
+		<text>Antidot 'Antizombin' pronađen.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_antizombin_not_found">
+		<text>Antidot 'Antizombin' Nije pronađen...\n</text>
+	</string>
+<!-- Skat15 suit Sytem Life Support "Energy" -->
+	<string id="skat15_sms_seek_energy_now">
+		<text>Da li si umoran. Tražim izvore energije sada...\n</text>
+	</string>
+	<string id="skat15_sms_administ_100_Rads_energy_now">
+		<text>Detektovan '100*Rad' Izvor energije.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_administ_amfetamin_energy_now">
+		<text>Detektovan 'Amfetamin' Izvor energije.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_administ_energy_red_bull_energy_now">
+		<text>Detektovan 'Red Bull' Izvor energije.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_administ_energy_ad_rush_energy_now">
+		<text>Detektovan 'Adrenaline Rush' Izvor energije.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_administ_energy_non_stop_energy_now">
+		<text>Detektovan 'Non-Stop Drink' Izvor energije.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_administ_energy_stalker_energy_now">
+		<text>Detektovan 'S.T.A.L.K.E.R. Drink' Izvor energije.. Primenjujem ga odmah...\n</text>
+	</string>
+	<string id="skat15_sms_energy_sourc_ok">
+		<text>Izvor energije je pronađen.. Napojni sistem je aktiviran!...\n</text>
+	</string>
+	<string id="skat15_sms_energy_sourc_rest">
+		<text>Izvor energije nije pronađen.. Moraš se odmoriti.\n</text>
+	</string>
+	<string id="skat15_sms_skat_power_system">
+		<text>Napojni sistem odela:\n</text>
+	</string>
+	<string id="skat15_sms_power_suit_full">
+		<text>Napon odela 100%\n</text>
+	</string>
+	<string id="skat15_sms_power_suit_no_sourc_remain">
+		<text>Nema preostalih izvora energije ...\n</text>
+	</string>
+	<string id="skat15_sms_power_suit_null_add">
+		<text>Napon odela 0%\n .. podrška nije uspela! Treba da pronađeš dodatne izvore energije! ...\n</text>
+	</string>
+	<string id="skat15_sms_power_suit_demage_low">
+		<text>Stanje odela je kritično! Promeni svoje odelo odmah kada se oštećenje dogodi!\n</text>
+	</string>
+	<string id="skat15_sms_power_suit_demage_high">
+		<text>Stanje odela je kritično! - Odelo je pretrpjelo ~100% oštećenja! ...\n</text>
+	</string>
+<!-- Skat15 suit Sytem Life Support "Food" -->
+	<string id="skat15_sms_seek_food_now">
+		<text>Oslabljen si zbog predoziranja anti-radijacijskim lekovima. Pronađi neki izvor hrane odmah...\n</text>
+	</string>
+	<string id="skat15_sms_administ_bread_now">
+		<text>... Primenjujem hranu ...</text>
+	</string>
+	<string id="skat15_sms_bread_sourc_rest">
+		<text>Požuri... brzo pronađi neku hranu ...</text>
+	</string>
+<!-- ***** New Skat15 suit "Storm" ****** -->
+	<string id="mil_exoskeleton_name_tb3d">
+		<text>Modifikovani prototip odela SKAT15-M3 "Oluja"</text>
+	</string>
+	<string id="mil_exoskeleton_name_tb3d_s">
+		<text>SKAT15-M "Oluja"</text>
+	</string>
+	<string id="mil_exoskeleton_description_tb3d">
+		<text>%c[255,1,255,255]Zaštita od udara: %c[255,1,255,1]+92%\n%c[255,1,255,255]Zaštita od povreda: %c[255,1,255,1]+88%\n%c[255,1,255,255]Zaštita od eksplozije: %c[255,1,255,1]+88%\n%c[255,1,255,255]Pancir: %c[255,1,255,1]+100%\n%c[255,1,255,255]Toplotna zaštita: %c[255,1,255,1]+100%\n%c[255,1,255,255]Hemijska zaštita: %c[255,1,255,1]+93%\n%c[255,1,255,255]Elektrozaštita: %c[255,1,255,1]+83%\n%c[255,1,255,255]Telepatija: %c[255,1,255,1]+100%\n%c[255,1,255,255]Zdravlje: %c[255,1,255,1]+920\n%c[255,1,255,255]Krvarenja: %c[255,1,255,1]-60%\n%c[255,1,255,255]Radijacija: %c[255,1,255,1]+100%\n%c[255,1,255,255]Nosivost: %c[255,1,255,1]+80kg\n%c[default]• Modifikovani prototip odela SCAT15-M3, sa aktivacionim sistemskim modulima i zakačenim blokom za nadogradnju #1, #2, i  #3.\n \n• Ova verzija poseduje 65% zaštite od bilo kakvog VIP-udara, smanjuje težinu odela za šest funti, napredni ugrađeni analizator stanja zdravlja nosioca, koji proračunava uticaj efekta radijacije, automatizovan sistem koristi energiju i povećava nosivot na 80 kg tereta. Uklonjene nestabilnosti u odelu, može se koristiti bez artefakta 'Crna Energija'.\n \n• SKAT15-M3 - prototip novog vojnog odela, poslednja generacija, pravljen na bazi SKAT-10. Pojačava snagu mišića nosioca, što mu daje mogućnost da nosi više tereta. Pri proizvodnji korišćena su poslednja dostignuća u "prskanju" nekim artefaktima na kevlarske ploče odela, zato poseduje dobre odbrambene osobine. U kacigi su ugrađena specijalna sočiva, ona povećavaju ugao gledanja i vidno polje, sa staklom koje je praktično večno i koje je otporno na mehanička i hemijska delovanja. \nOvo određeno odijelo je posebno modificirao Lanki iz Rostoka da izdrži oluju...</text>
+	</string>
+<!-- ************* Nano suit text addon ************ -->
+	<string id="nano_sms_skat_system_m">
+		<text>NANO Sistem odela:\n</text>
+	</string>
+	<!-- ********** Enemy detector text addon ********** -->
+	<string id="enemy_sms_storm_system_m1">
+		<text>RASPON PRIJETNJE: </text>
+	</string>
+	<string id="enemy_sms_skat_system_m1">
+		<text>OPREZ: - PRISUTNOST NEPRIJATELJA UNUTAR</text>
+	</string>
+	<string id="enemy_sms_skat_system_m2">
+		<text>METARA...</text>
+	</string>
+	<!-- ********** Enable/disable button (for later use) ********** -->
+	<string id="ui_mm_dyn_suit">
+		<text>Napredne funkcije odela.</text>
+	</string>
+	<string id="ui_mm_dyn_suit_hint">
+		<text>Omuguči/onemuguči Modul samozdravljenja na naprednim odelima.</text>
+		<!-- Enable/disable the LifeGuard(auto healing) system for some of the suits. -->
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 16:08 29.11.2014 -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:36 -sadd -->

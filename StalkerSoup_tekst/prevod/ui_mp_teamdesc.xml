@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+
+<!-- <string id="svoboda_outfit_name_m1"> - Duplicated - aleks1970
+	<text>Odelo Fridoma MKII</text>
+	</string> -->
+	<string id="team_1_desc">
+		<text>Anarhisti iz Zone ... proturaju ideju da je Zona, njihov privatni rezervat u stvari. Oni veruju da svi zakoni koji postoje u spljnom svetu se na njih ne odnose ovde. Njihov moto je: "Bori se protiv svih pokušaja vlasti da preuzme kontrolu  nad Zonom". Zakleti neprijatelji protiv svih frakcija Djutija, a i svih Plaćenika. Oni su sebe manje-više opremili sa oružjem i opremom koja je preostala od vojnih pohoda u Zonu tokom bivšeg režima SSSR.</text>
+	</string>
+	<string id="team_1_name">
+		<text>Frakcija Fridom</text>
+	</string>
+	<string id="team_2_desc">
+		<text>Uhode i ubice iz svih krajeva sveta, ništa manje. Njihov moto je "Pecunia non olet - Money does not smell - Novac ne smrdi." Pošto su artefakti ovde, znači ovde je i novac. Plaćenici uglavnom koriste zapadnjačka oružja.</text>
+	</string>
+	<string id="team_2_name">
+		<text>Plaćenička frakcija</text>
+	</string>
+<!-- Preveo i prilagodio Coolkingeye -=- 21:36 27.08.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:49 -sadd -->

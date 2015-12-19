@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="gar_angar">
+		<text>Napušteni hangar.</text>
+	</string>
+	<string id="gar_bandit_agr">
+		<text>Banditski Kamp</text>
+	</string>
+	<string id="gar_bandit_post">
+		<text>Banditi</text>
+	</string>
+	<string id="gar_bandits_leader">
+		<text>Banditski Vođa</text>
+	</string>
+	<string id="gar_boars_nest">
+		<text>Denove divlje svinje</text>
+	</string>
+	<string id="gar_car_graveyard">
+		<text>Auto otpad.</text>
+	</string>
+	<string id="gar_dogs_in_forest">
+		<text>Šuma puna pasa</text>
+	</string>
+	<string id="gar_dolg_blokpost">
+		<text>'Djutijev' punkt</text>
+	</string>
+	<string id="gar_hellcar">
+		<text>s.t.a.l.k.e.r.i.</text>
+	</string>
+	<string id="gar_newbie">
+		<text>Početnik</text>
+	</string>
+	<string id="gar_secret1">
+		<text>Početnikov skriveni sanduk.</text>
+	</string>
+	<string id="gar_seriy">
+		<text>Serlijeva Grupa</text>
+	</string>
+	<string id="gar_swamp">
+		<text>Močvara</text>
+	</string>
+	<string id="gar_trash1">
+		<text>Gomile smeća okružene anomalijama i artefaktima.</text>
+	</string>
+	<string id="gar_tunnel">
+		<text>Tunel za voz.</text>
+	</string>
+	<string id="gar_wounded_help">
+		<text>s.t.a.l.k.e.r. (ranjenik)</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:14 -sadd -->

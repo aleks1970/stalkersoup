@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 wawka 2=========================================================-->
+<string_table>
+	<string id="start_update_outfit_zhmot_0">
+		<text>Evo i mene...</text>
+	</string>
+	<string id="start_update_outfit_zhmot_1">
+		<text>O, Obeleženi! Hvala ti što si nam pomogao da potučemo fanatike. Želim da ti predložim nešto... Mogućnost nadogradnje pancir odela u našoj grupi. A i ugradnju uređaja za noćno osmatranje na odela također.</text>
+	</string>
+	<string id="start_update_outfit_zhmot_2">
+		<text>To je odlično, to što je potrebno...</text>
+	</string>
+	<string id="update_outfit_zhmot_0">
+		<text>Šta možeš ponuditi za nadogradnju pancir odela?</text>
+	</string>
+	<string id="update_outfit_zhmot_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nOdelo 'Vetar Fridoma';\nOdelo 'Zaštitnik Fridoma';\nNaučničko odelo Fridoma;\nEgzoskelet Fridoma;\nJedinstveno odelo "Vetar Fridoma";\nOdelo "Vetar Fridoma" sa gas maskom;\nOdelo "Zaštitnik Fridoma" sa gas maskom;\nJedinstveni Egzoskelet Fridoma;\nJedinstveni Kameni Oklop.\nTakođer, moguće je povećati otpornost na habanje. Što ti je potrebno?</text>
+	</string>
+	<string id="update_outfit_zhmot_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_zhmot_11111">
+		<text>Na koje odelo želiš instalirati uređaj, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_zhmot_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_zhmot_1111111">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_zhmot_2">
+		<text>Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3">
+		<text>Odelo 'Zaštitnik Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4">
+		<text>Naučničko odelo Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_5">
+		<text>Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_6">
+		<text>Jedinstveno Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7">
+		<text>Odelo 'Vetar Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_8">
+		<text>Odelo 'Zaštitnik Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_9">
+		<text>Jedinstveni Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_10">
+		<text>Jedinstveni Kameni Oklop...</text>
+	</string>
+	<string id="update_outfit_zhmot_02">
+		<text>Za odelo 'Vetar Fridoma', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_03">
+		<text>Za odelo 'Zaštitnik Fridoma', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_04">
+		<text>Za Naučničko odelo Fridoma, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_05">
+		<text>Za Egzoskelet Fridoma, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_06">
+		<text>Za jedinstveno Odelo 'Vetar Fridoma', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_07">
+		<text>Za odelo 'Vetar Fridoma' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0071">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0072">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0073">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0074">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0075">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0076">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0077">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0078">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_08">
+		<text>Za odelo 'Zaštitnik Fridoma' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0081">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0082">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0083">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0084">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0085">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0086">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0087">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0088">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_09">
+		<text>Za Jedinstveni Egzoskelet Fridoma, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0091">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0092">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0093">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0094">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0095">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0096">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0097">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0098">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_010">
+		<text>Za Jedinstveni Kameni Oklop:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 roubles ;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_00101">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00102">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00103">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00104">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00105">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00106">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00107">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_00108">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2100">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2200">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2300">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2400">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2500">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2600">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2700">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2800">
+		<text>Uzmi Odelo 'Vetar Fridoma'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3100">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3200">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3300">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3400">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3500">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3600">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3700">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3800">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4100">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4200">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4300">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4400">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4500">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4600">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4700">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_4800">
+		<text>Uzmi Naučničko odelo Fridoma. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5100">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5200">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5300">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5400">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5500">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5600">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5700">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_5800">
+		<text>Uzmi Egzoskelet Fridoma. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6100">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6200">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6300">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6400">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6500">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6600">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6700">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_6800">
+		<text>Uzmi jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7100">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7200">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7300">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7400">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7500">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7600">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7700">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_7800">
+		<text>Uzmi Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8100">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8200">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8300">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8400">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8500">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8600">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8700">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_8800">
+		<text>Uzmi Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9100">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9200">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9300">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9400">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9500">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9600">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9700">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_9800">
+		<text>Uzmi Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10100">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10200">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10300">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10400">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10500">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10600">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10700">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10800">
+		<text>Uzmi Jedinstveni Kameni Oklop. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_zhmot_1111121">
+		<text>Odlično...Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_zhmot_102">
+		<text>Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_103">
+		<text>Odelo 'Zaštitnik Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_104">
+		<text>Naučničko odelo Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_105">
+		<text>Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_106">
+		<text>Jedinstveno Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_107">
+		<text>Odelo 'Vetar Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_108">
+		<text>Odelo 'Zaštitnik Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_109">
+		<text>Jedinstveni Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_110">
+		<text>Jedinstveni Kameni Oklop...</text>
+	</string>
+	<string id="update_outfit_zhmot_1022">
+		<text>Za ojačano Odelo 'Vetar Fridoma', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1033">
+		<text>Za ojačano Odelo 'Zaštitnik Fridoma', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1044">
+		<text>Za ojačano naučničko odelo Fridoma, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1055">
+		<text>Za ojačani Fridom Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1066">
+		<text>Za ojačano jedinstveno Odelo 'Vetar Fridoma', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1077">
+		<text>Za ojačano Odelo 'Vetar Fridoma' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0171">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0172">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0173">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0174">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0175">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0176">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0177">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0178">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1088">
+		<text>Za ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0181">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0182">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0183">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0184">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0185">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0186">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0187">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0188">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1099">
+		<text>Za ojačani Jedinstveni Egzoskelet Fridoma, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_0191">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0192">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0193">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0194">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0195">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0196">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0197">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0198">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_10110">
+		<text>Za ojačani Jedinstveni Kameni Oklop:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_zhmot_01101">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01102">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01103">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01104">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01105">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01106">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01107">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_01108">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1210">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1220">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1230">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1240">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1250">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1260">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1270">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1280">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1310">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1320">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1330">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1340">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1350">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1360">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1370">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1380">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1410">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1420">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1430">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1440">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1450">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1460">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1470">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1480">
+		<text>Uzmi ojačano Naučničko odelo Fridoma. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1510">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1520">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1530">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1540">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1550">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1560">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1570">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1580">
+		<text>Uzmi ojačani Egzoskelet Fridoma. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1610">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1620">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1630">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1640">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1650">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1660">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1670">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1680">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1710">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1720">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1730">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1740">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1750">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1760">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1770">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1780">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1810">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1820">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1830">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1840">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1850">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1860">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1870">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1880">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1910">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1920">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1930">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1940">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1950">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1960">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1970">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_1980">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11010">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11020">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11030">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11040">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11050">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11060">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11070">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_11080">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_2222">
+		<text>Ojačanje Odela...</text>
+	</string>
+	<string id="update_outfit_zhmot_22222">
+		<text>Koje odelo želiš ojačati, obično ili sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_zhmot_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_zhmot_2222211">
+		<text>To je odlično... Moje kvote:\n-Odelo 'Vetar Fridoma' - za artefakt 'Koža' i 10,000 Ru;\n-Odelo 'Zaštitnik Fridoma' - za artefakt 'Koža' i 15,000 Ru;\n-Naučničko odelo Fridoma - za artefakt 'Krljušt' i 35,000 Ru;\n-Egzoskelet Fridoma - za artefakt 'Čelična Krljušt' i 75,000 Ru;\n-the jedinstveno Odelo 'Vetar Fridoma' - za artefakt 'Koža' i 15,000 roubles ;\n-Odelo 'Vetar Fridoma' sa gas maskom - za artefakt 'Koža' i 15,000 Ru;\n-Odelo 'Zaštitnik Fridoma' sa gas maskom - za artefakt 'Koža' i 20,000 roubles ;\n-Jedinstveni Egzoskelet Fridoma - za artefakt 'Čelična Krljušt' i 70,000 Ru;\n-Jedinstveni Kameni Oklop - za artefakt 'Čelična Krljušt' i 150,000 Ru.\nIzaberi odelo.</text>
+	</string>
+	<string id="update_outfit_zhmot_202">
+		<text>Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_203">
+		<text>Odelo 'Zaštitnik Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_204">
+		<text>Naučničko odelo Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_205">
+		<text>Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_206">
+		<text>Jedinstveno Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_207">
+		<text>Odelo 'Vetar Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_208">
+		<text>Odelo 'Zaštitnik Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_209">
+		<text>Jedinstveni Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_210">
+		<text>Jedinstveni Kameni Oklop...</text>
+	</string>
+	<string id="update_outfit_zhmot_211">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma'.</text>
+	</string>
+	<string id="update_outfit_zhmot_212">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma'.</text>
+	</string>
+	<string id="update_outfit_zhmot_213">
+		<text>Uzmi ojačano Naučničko odelo Fridoma.</text>
+	</string>
+	<string id="update_outfit_zhmot_214">
+		<text>Uzmi ojačani Egzoskelet Fridoma.</text>
+	</string>
+	<string id="update_outfit_zhmot_215">
+		<text>Uzmi ojačano jedinstveno Odelo 'Vetar Fridoma'.</text>
+	</string>
+	<string id="update_outfit_zhmot_216">
+		<text>Uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_zhmot_217">
+		<text>Uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_zhmot_218">
+		<text>Uzmi ojačani Jedinstveni Egzoskelet Fridoma.</text>
+	</string>
+	<string id="update_outfit_zhmot_219">
+		<text>Uzmi ojačani Jedinstveni Kameni Oklop.</text>
+	</string>
+	<string id="update_outfit_zhmot_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_zhmot_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_zhmot_302">
+		<text>Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_303">
+		<text>Odelo 'Zaštitnik Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_304">
+		<text>Naučničko odelo Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_305">
+		<text>Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_306">
+		<text>Jedinstveno Odelo 'Vetar Fridoma'...</text>
+	</string>
+	<string id="update_outfit_zhmot_307">
+		<text>Odelo 'Vetar Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_308">
+		<text>Odelo 'Zaštitnik Fridoma' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_zhmot_309">
+		<text>Jedinstveni Egzoskelet Fridoma...</text>
+	</string>
+	<string id="update_outfit_zhmot_310">
+		<text>Jedinstveni Kameni Oklop...</text>
+	</string>
+	<string id="update_outfit_zhmot_3022">
+		<text>Cena ojačanja za Odelo 'Vetar Fridoma', sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3033">
+		<text>Cena ojačanja za Odelo 'Zaštitnik Fridoma', sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3044">
+		<text>Cena ojačanja za Naučničko odelo Fridoma, sa instaliranim uređajem za noćno osmatranje (PNV) je 35000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0348">
+		<text>Instalirao sam PNV 'Bela noć'... In, hold...</text>
+	</string>
+	<string id="update_outfit_zhmot_3055">
+		<text>Cena ojačanja za Egzoskelet Fridoma, sa instaliranim uređajem za noćno osmatranje (PNV) je 75000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3066">
+		<text>Cena ojačanja za jedinstveno Odelo 'Vetar Fridoma', sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3077">
+		<text>Cena ojačanja za Odelo 'Vetar Fridoma' sa gas maskom, sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0371">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0372">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0373">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0374">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0375">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0376">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0377">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0378">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3088">
+		<text>Cena ojačanja za Odelo 'Zaštitnik Fridoma', sa instaliranim uređajem za noćno osmatranje (PNV) je 20000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0381">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0382">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0383">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0384">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0385">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0386">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0387">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0388">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3099">
+		<text>Cena ojačanja za Jedinstveni Egzoskelet Fridoma, sa instaliranim uređajem za noćno osmatranje (PNV) je 70000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_0391">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0392">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0393">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0394">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0395">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0396">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0397">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_0398">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_30110">
+		<text>Cena za ojačanje Jedinstvenog Kamenog Oklopa, sa instaliranim uređajem za noćno osmatranje (PNV) je 150000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_03101">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03102">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03103">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03104">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03105">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03106">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03107">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_03108">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_zhmot_3210">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3220">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3230">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3240">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3250">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3260">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3270">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3280">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3310">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3320">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3330">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3340">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3350">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3360">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3370">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3380">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3410">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3420">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3430">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3440">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3450">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3460">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3470">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3480">
+		<text>Evo, uzmi ojačano Naučničko odelo Fridoma sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3510">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3520">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3530">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3540">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3550">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3560">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3570">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3580">
+		<text>Evo, uzmi ojačani Egzoskelet Fridoma sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3610">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3620">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3630">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3640">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3650">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3660">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3670">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3680">
+		<text>Evo, uzmi ojačano jedinstveno Odelo 'Vetar Fridoma' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3710">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3720">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3730">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3740">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3750">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3760">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3770">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3780">
+		<text>Evo, uzmi ojačano Odelo 'Vetar Fridoma' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3810">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3820">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3830">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3840">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3850">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3860">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3870">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3880">
+		<text>Evo, uzmi ojačano Odelo 'Zaštitnik Fridoma' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3910">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3920">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3930">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3940">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3950">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3960">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3970">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_3980">
+		<text>Evo, uzmi ojačani Jedinstveni Egzoskelet Fridoma sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31010">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31020">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31030">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31040">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31050">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31060">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31070">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_zhmot_31080">
+		<text>Evo, uzmi ojačani Jedinstveni Kameni Oklop sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_zhmot_999">
+		<text>Trenutno nije potrebno ništa...</text>
+	</string>
+	<!--=====TB3D 1.0.9.8 ===============================================-->
+	<string id="start_update_outfit_dolgovyazyj_0">
+		<text>Zdravo, Lanki...</text>
+	</string>
+	<string id="start_update_outfit_dolgovyazyj_1">
+		<text>Zdravo Obeleženi! Vidim da si ozbiljan u poslu - Barmen  mi reče da si doneo  dokumenta iz Agroproma - odlično odrađeno. Biće mi drago da ti ponudim uslugu nadogradnje najtežih i najzahtevnijih odela u Zoni - Egzoskeleta. Mogu ti instalirati uređaj ua noćno osmatranje i ojačane pločice, što povećava otpornost na habanje. Nažalost, ne možemo nadograditi sva odela jer nam nije poznata njihova struktura... Egzoskelet Djutija može nadograditi bivši njihov snajperista, Petrenko. Ako se nekako dogovoriš sa stražarom na ulazu u njihovu bazu, obrati mu se. Sa egzoskeletima Bandita i Neutralaca - tu mogu pomoći. Tehnologija njihove proizvodnje mi je poznata...</text>
+	</string>
+	<string id="start_update_outfit_dolgovyazyj_2">
+		<text>To je odlično, hvala!</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0">
+		<text>Šta možeš ponuditi za nadogradnju pancir odela?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nStalkerski Egzoskelet;\nOštećeni Egzoskelet;\nEgzoskelet 'Mk.1';\nBanditski Egzoskelet;\nPrototip Egzoskeleta;\nModifikovani Egzoskelet .\nTakođer, moguće je povećati otpornost na habanje. Što je potrebno za vas?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_11111">
+		<text>Na koje odelo da ugradim uređaj za noćno osmatranje, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1111111">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2">
+		<text>Stalkerski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3">
+		<text>Oštećeni Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4">
+		<text>Egzoskelet 'Mk.1'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5">
+		<text>Banditski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6">
+		<text>Prototip Egzoskeleta...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7">
+		<text>Modifikovani Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_02">
+		<text>Za Stalkerski Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_03">
+		<text>Za Oštećeni Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_04">
+		<text>Za Egzoskelet 'Mk.1', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_05">
+		<text>Za Banditski Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_06">
+		<text>Za Prototip Egzoskeleta, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_07">
+		<text>Za Modifikovani Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0071">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0072">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0073">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0074">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0075">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0076">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0077">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0078">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2100">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2200">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2300">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2400">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2500">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2600">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2700">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2800">
+		<text>Uzmi Stalkerski Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3100">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3200">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3300">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3400">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3500">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3600">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3700">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3800">
+		<text>Uzmi Oštećeni Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4100">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4200">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4300">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4400">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4500">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4600">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4700">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_4800">
+		<text>Uzmi Egzoskelet 'Mk.1'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5100">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5200">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5300">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5400">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5500">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5600">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5700">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_5800">
+		<text>Uzmi Banditski Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6100">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6200">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6300">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6400">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6500">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6600">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6700">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_6800">
+		<text>Uzmi Prototipni Egzoskeleton. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7100">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7200">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7300">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7400">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7500">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7600">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7700">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_7800">
+		<text>Uzmi Modifikovani Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1111121">
+		<text>Odlično...Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_102">
+		<text>Stalkerski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_103">
+		<text>Oštećeni Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_104">
+		<text>Egzoskelet 'Mk.1'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_105">
+		<text>Banditski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_106">
+		<text>Prototip Egzoskeleta...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_107">
+		<text>Modifikovani Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1022">
+		<text>Za ojačani Stalkerski Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1033">
+		<text>Za ojačani Oštećeni Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1044">
+		<text>Za ojačani Egzoskelet 'Mk.1', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1055">
+		<text>Za ojačani Banditski Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1066">
+		<text>Za ojačani Prototipni Egzoskeleton, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1077">
+		<text>Za ojačani Modifikovani Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0171">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0172">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0173">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0174">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0175">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0176">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0177">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0178">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1210">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1220">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1230">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1240">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1250">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1260">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1270">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1280">
+		<text>Uzmi ojačani Stalkerski Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1310">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1320">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1330">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1340">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1350">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1360">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1370">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1380">
+		<text>Uzmi ojačani Oštećeni Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1410">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1420">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1430">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1440">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1450">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1460">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1470">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1480">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1510">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1520">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1530">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1540">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1550">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1560">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1570">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1580">
+		<text>Uzmi ojačani Banditski Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1610">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1620">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1630">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1640">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1650">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1660">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1670">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1680">
+		<text>Uzmi ojačani Prototipni Egzoskeleton. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1710">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1720">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1730">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1740">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1750">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1760">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1770">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_1780">
+		<text>Uzmi ojačani Modifikovani Egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2222">
+		<text>Ojačanje Egzoskeletona...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_22222">
+		<text>Koji Egzeskeleton da ojačam, običan ili sa instaliranim uređajem za noćno osmatranje (PNV)?</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2222211">
+		<text>To je odlično... Moje kvote:\n-Stalkerski Egzoskelet - za artefakt 'Čelična Krljušt' i 70,000 Ru;\n-Oštećeni Egzoskelet - za artefakt 'Čelična Krljušt' i 5,000 Ru;\n-Egzoskelet 'Mk.1' - za artefakt 'Čelična Krljušt' i 55,000 Ru;\n-Banditski Egzoskelet - za artefakt 'Čelična Krljušt' i 90,000 Ru;\n-Prototip Egzoskeleta - za artefakt 'Čelična Krljušt' i 55,000 Ru;\n-Modifikovani Egzoskelet - za artefakt 'Čelična Krljušt' i 75,000 Ru.\nOdaberite model pancira.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_202">
+		<text>Stalkerski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_203">
+		<text>Oštećeni Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_204">
+		<text>Egzoskelet 'Mk.1'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_205">
+		<text>Banditski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_206">
+		<text>Prototip Egzoskeleta...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_207">
+		<text>Modifikovani Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_211">
+		<text>Uzmi ojačani Stalkerski Egzoskelet.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_212">
+		<text>Uzmi ojačani Oštećeni Egzoskelet.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_213">
+		<text>Uzmi ojačani Egzoskelet 'Mk.1'.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_214">
+		<text>Uzmi ojačani Banditski Egzoskelet.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_215">
+		<text>Uzmi ojačani Prototipni Egzoskeleton.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_216">
+		<text>Uzmi ojačani Modifikovani Egzoskelet.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_2222221">
+		<text>To je odlično... Izaberite model Egzoskeletona.</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_302">
+		<text>Stalkerski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_303">
+		<text>Oštećeni Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_304">
+		<text>Egzoskelet 'Mk.1'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_305">
+		<text>Banditski Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_306">
+		<text>Prototip Egzoskeleta...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_307">
+		<text>Modifikovani Egzoskelet...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3022">
+		<text>Cena ojačanja za Stalkerski Egzoskelet, sa instaliranim uređajem za noćno osmatranje (PNV) je 70000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3033">
+		<text>Cena ojačanja Oštećenog Egzoskeleta, sa instaliranim uređajem za noćno osmatranje (PNV) je 5000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3044">
+		<text>Cena ojačanja za Egzoskelet 'Mk.1', sa instaliranim uređajem za noćno osmatranje (PNV) je 55000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3055">
+		<text>Cena ojačanja za Banditski Egzoskelet, sa instaliranim uređajem za noćno osmatranje (PNV) je 90000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3066">
+		<text>Cena ojačanja za Prototipni Egzoskeleton, sa instaliranim uređajem za noćno osmatranje (PNV) je 55000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3077">
+		<text>Cena ojačanja za Modifikovani Egzoskelet, sa instaliranim uređajem za noćno osmatranje (PNV) je 75000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0371">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0372">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0373">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0374">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0375">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0376">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0377">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_0378">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3210">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3220">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3230">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3240">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3250">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3260">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3270">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3280">
+		<text>Evo, uzmi ojačani Stalkerski Egzoskelet sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3310">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3320">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3330">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3340">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3350">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3360">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3370">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3380">
+		<text>Evo, uzmi ojačani Oštećeni Egzoskelet sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3410">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3420">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3430">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3440">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3450">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3460">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3470">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3480">
+		<text>Evo, uzmi ojačani Egzoskelet 'Mk.1' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3510">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3520">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3530">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3540">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3550">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3560">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3570">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3580">
+		<text>Evo, uzmi ojačani Banditski Egzoskelet sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3610">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3620">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3630">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3640">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3650">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3660">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3670">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3680">
+		<text>Evo, uzmi ojačani prototipni Egzoskeleton sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3710">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3720">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3730">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3740">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3750">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3760">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3770">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_3780">
+		<text>Evo, uzmi ojačani modifikovan Egzoskelet sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_dolgovyazyj_999">
+		<text>Trenutno nije potrebno ništa...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio flexerca -=- 13:16 14.09.2015 -->

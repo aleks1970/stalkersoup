@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 new dialogs, st_found_new_pda, new levels, ep_jupu, path_pripyat_npp1, \n, new paths, zat to eprip, jupu to tunnels, removed "string_table" - aleks1970  -->
+
+	<string id="return_char">
+		<text>\n</text>
+	</string>
+	<string id="car_character_use">
+		<text>Otvori vrata ($$ACTION_USE$$)</text> <!-- -USE- !?? -->
+	</string>
+	<string id="character_use">
+		<text>Razgovaraj ($$ACTION_USE$$)</text> <!-- -USE- !?? -->
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Pretraži telo ($$ACTION_USE$$)\nVuci telo (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Pretraži telo ($$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Kompletiran zadatak:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Neispunjen zadatak:</text>
+	</string>
+	<string id="general_help">
+		<text>Brzo, treba mi prva pomoć! Ja umirem ovde!</text>
+	</string>
+	<string id="general_in_item">
+		<text>Dobijen predmet:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Dobijen novac:</text>
+	</string>
+	<string id="general_new_diary">
+		<text>Novi zapis u dnevniku.</text>
+	</string>
+	<string id="general_new_encyclopedy">
+		<text>Novi članak u enciklopediji.</text>
+	</string>
+	<string id="general_new_task">
+		<text>Novi zadatak:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Predmet izgubljen:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Novca izgubljeno:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Zadatak obnovljen:</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>Pomeri objekat ($$ACTION_USE$$)</text> <!-- -USE- !?? -->
+	</string>
+	<string id="st_codelock">
+		<text>Šifra brave ###$ ($$ACTION_USE$$)</text>	<!-- ###$ !?? -->
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Zaštita isključena.</text> <!-- PROTECTION SHUTDOWN IMMINENT !?? -->
+	</string>
+	<string id="st_psy_danger">
+		<text>Kritičan nivo PSI-emisije. Odmah napustite opasnu zonu.</text> <!-- PSI-DANGER !?? -->
+	</string>
+	<string id="st_radiation_danger">
+		<text>Opasan nivo radijacije. Neophodna zaštita za prolaz.</text> <!-- RADIATION DANGER !?? -->
+	</string>
+	<string id="st_found_new_pda">
+		<text>Pronađena informacija:</text>
+	</string>
+	<string id="to_labx16">
+		<text>Laboratorij X16</text>
+	</string>
+	<string id="to_labx10">
+		<text>Laboratorij X10</text>
+	</string>
+	<string id="bar_rostok">
+		<text>Divlja Teritorija - Rostok</text>
+	</string>
+	<string id="to_escape">
+		<text>Za Kordon</text>
+	</string>
+	<string id="to_garbage">
+		<text>Za Deponiju</text>
+	</string>
+	<string id="to_agroprom">
+		<text>Za Agroprom</text>
+	</string>
+	<string id="to_agroprom_underground">
+		<text>Za Katakombe</text>
+	</string>
+	<string id="to_darkvalley">
+		<text>Za Mračnu Dolinu</text>
+	</string>
+	<string id="to_labx18">
+		<text>Laboratorij X18</text>
+	</string>
+	<string id="to_bar">
+		<text>Za Rostok</text>	<!-- Rostok area !?? -->
+	</string>
+	<string id="to_rostok">
+		<text>Za Divlju Teritoriju</text>
+	</string>
+	<string id="to_yantar">
+		<text>Za Jantar</text>
+	</string>
+	<string id="to_military">
+		<text>Za Vojna Skladišta</text>
+	</string>
+	<string id="to_radar">
+		<text>Za Radar</text>
+	</string>
+	<string id="to_bunker">
+		<text>Bunker</text>
+	</string>
+	<string id="to_pripyat">
+		<text>Za Pripjat</text>
+	</string>
+	<string id="to_pripyat_s">
+		<text>Južni Pripjat</text>
+	</string>
+	<string id="to_pripyat_n">
+		<text>Severni Pripjat</text>
+	</string>
+	<string id="to_aes">
+		<text>NEP Jug</text>
+	</string>
+	<string id="to_north_aes">
+		<text>NEP Sever</text>
+	</string>
+	<string id="to_sarcofag">
+		<text>Sarkofag</text>
+	</string>
+	<string id="to_control">
+		<text>Monolit Kontrola</text>
+	</string>
+	<string id="to_atp">
+		<text>ATP</text>
+	</string>
+	<string id="to_cave">
+		<text>Pećine</text>
+	</string>
+	<string id="to_maze">
+		<text>Lavirint</text>
+	</string>
+	<string id="to_puzir">
+		<text>Zaboravljena Šuma</text>
+	</string>
+	<string id="to_aver">
+		<text>Neotkrivena Zemlja</text>
+	</string>
+	<string id="to_limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="to_hospital">
+		<text>Bolnica</text>
+	</string>
+	<string id="to_generators">
+		<text>Generatori</text>
+	</string>
+	<string id="to_warlab">
+		<text>Vojni Laboratorij</text>
+	</string>
+	<string id="to_redforest">
+		<text>Crvena Šuma</text>
+	</string>
+	<string id="to_lostvillage">
+		<text>Staro Selo</text>
+	</string>
+	<string id="to_marsh">
+		<text>Močvara</text>
+	</string>
+	<string id="to_deadcity">
+		<text>Mrtvi Grad</text>
+	</string>
+	<string id="to_zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="to_jupiter">
+		<text>Jupiter</text>
+	</string>
+	<string id="to_eprip">
+		<text>Istočni Pripjat</text>
+	</string>
+	<string id="to_jupunder">
+		<text>Podzemlje Jupitera</text>
+	</string>
+	<string id="to_labx8">
+		<text>Laboratorij X-8</text>
+	</string>
+	<string id="to_tunnels">
+		<text>Tuneli</text>
+	</string>
+	<string id="to_pred">
+		<text>Čekaonica</text>
+	</string>
+	<string id="to_yanold">
+		<text>Istraživački Centar</text>
+	</string>
+	<string id="to_swampold">
+		<text>Mrtve Baruštine</text>
+	</string>
+	<string id="to_hiding">
+		<text>Skriveni Put</text>
+	</string>
+	<string id="to_darkscape">
+		<text>Mračni izlaz</text>
+	</string>
+	<string id="to_darkforest">
+		<text>Crna Šuma</text>
+	</string>
+	<string id="to_f1">
+		<text>Postrojenje F1</text>
+	</string>
+	<string id="to_prom">
+		<text>Industrijska Zona</text>
+	</string>
+	<string id="to_digger">
+		<text>Rupa u zemlji</text>
+	</string>
+	<string id="to_kras">
+		<text>Distributivni Centar</text>
+	</string>
+	<string id="to_dd">
+		<text>Dvorište</text>
+	</string>
+	<string id="to_rinok">
+		<text>Crno Tržište</text>
+	</string>
+	<string id="to_pogost">
+		<text>Groblje</text>
+	</string>
+	<string id="to_vokzal">
+		<text>Zadnja Stanica</text>
+	</string>
+	<string id="to_labx14">
+		<text>Tajni Laboratorij</text>
+	</string>
+	<string id="to_poli">
+		<text>Poligon</text>
+	</string>
+	<string id="path_new">
+		<text>Novi put</text>
+	</string>
+	<string id="path_cop_ep">
+		<text>Centar Pripjata za Istočni Pripjat</text>
+	</string>
+	<string id="path_ep_x8">
+		<text>Istočni Pripjat za Laboratorij X-8</text>
+	</string>
+	<string id="path_rf_dc">
+		<text>Crvena Šuma za Mrtvi Grad</text>
+	</string>
+	<string id="path_bw_jp">
+		<text>Zaton za Jupiter</text>
+	</string>
+	<string id="path_jp_ep">
+		<text>Jupiter za Istočni Pripjat</text>
+	</string>
+	<string id="path_ep_jp">
+		<text>Istočni Pripjat za Jupiter</text>
+	</string>
+	<string id="path_ep_jpu">
+		<text>Istočni Pripjat za Jupiter Podzemlje</text>
+	</string>
+	<string id="path_jp_jpu">
+		<text>Jupiter za Jupiter Podzemlje</text>
+	</string>
+	<string id="path_jpu_jp">
+		<text>Jupiter Podzemlje za Jupiter</text>
+	</string>
+	<string id="path_jp_bw">
+		<text>Jupiter za Zaton</text>
+	</string>
+	<string id="path_jpu_lm">
+		<text>Jupiter Podzemlje za Limansk</text>
+	</string>
+	<string id="path_ep_bar">
+		<text>Istočni Pripjat za Rostok</text>
+	</string>
+	<string id="path_jp_yn">
+		<text>Jupiter za Jantar</text>
+	</string>
+	<string id="path_sc_bar">
+		<text>Sarkofag za Bar</text>
+	</string>
+	<string id="path_sc_chs">
+		<text>Sarkofag za NEP1</text>
+	</string>
+	<string id="path_sc_zat">
+		<text>NEP Jug za Zaton</text>
+	</string>
+	<!-- new paths -->
+	<string id="path_dv_ds">
+		<text>Stari put za Mračni Izlaz kroz Mračnu Dolinu</text>
+	</string>
+	<string id="path_ww_bar">
+		<text>Crna Šuma za Rostok</text>
+	</string>
+	<string id="path_prip_vok">
+		<text>Pripjat za Zadnja Stanica</text>
+	</string>
+	<string id="path_jup_zat">
+		<text>Jupiter za Zaton</text>
+	</string>
+	<string id="path_jup_prip">
+		<text>Jupiter za Pripjat</text>
+	</string>
+	<string id="path_ds_esc">
+		<text>Južna ruta za Kordon</text>
+	</string>
+	<string id="path_ds_poli">
+		<text>Mračni izlaz za Poligon</text>
+	</string>
+	<string id="path_bar_ww">
+		<text>Rostok za Crna Šuma</text>
+	</string>
+	<string id="path_zat_f1">
+		<text>Zaton za Postrojenje F1</text>
+	</string>
+	<string id="path_zat_jup">
+		<text>Zaton za Jupiter</text>
+	</string>
+	<string id="path_zat_vil">
+		<text>Zaton za Staro Selo</text>
+	</string>
+	<string id="path_zat_prip">
+		<text>Zaton za Pripjat</text>
+	</string>
+	<string id="path_prip_jup">
+		<text>Pripjat za Jupiter</text>
+	</string>
+	<string id="path_prip_zat">
+		<text>Pripjat za Zaton</text>
+	</string>
+	<string id="path_eprip_kras">
+		<text>Istočni Pripjat za Distributivni Centar</text>
+	</string>
+	<string id="path_dc_cem">
+		<text>Mrtvi Grad za Groblje</text>
+	</string>
+	<string id="path_cem_dc">
+		<text>Groblje za Mrtvi Grad</text>
+	</string>
+	<string id="path_esc_ds">
+		<text>Kordon za Mračni Izlaz</text>
+	</string>
+	<string id="path_esc_fr">
+		<text>Kordon za Poligon</text>
+	</string>
+	<string id="path_vil_zat">
+		<text>Staro Selo za Zaton</text>
+	</string>
+	<string id="path_gen_dm">
+		<text>Generatori za Mrtve Baruštine</text>
+	</string>
+	<string id="path_gen_rs">
+		<text>Generatori za Istraživačku Stanicu</text>
+	</string>
+	<string id="path_gen_dc">
+		<text>Generatori za Mrtvi Grad</text>
+	</string>
+	<string id="path_dc_gen">
+		<text>Mrtvi Grad za Generatore</text>
+	</string>
+	<string id="path_npp2_rs">
+		<text>NEP Sever za Istraživačku Stanicu</text>
+	</string>
+	<string id="path_hosp_tunnels">
+		<text>Bolnica za Tunele</text>
+	</string>
+	<string id="path_rsch_hole">
+		<text>Istraživačka Stanica za Rupa u zemlji</text>
+	</string>
+	<string id="path_rsch_wait">
+		<text>Istraživačka Stanica za Čekaonica</text>
+	</string>
+	<string id="path_tech_broken">
+		<text>Industrijska Zona za Skriveni Put</text>
+	</string>
+	<string id="path_eprip_x14">
+		<text>Istočni Pripjat za Tajni Laboratorij</text>
+	</string>
+	<string id="path_x8_x14">
+		<text>Laboratorij X8 za Tajni Laboratorij</text>
+	</string>
+	<string id="path_jupu_x14">
+		<text>Jupiter Podzemlje za Tajni Laboratorij</text>
+	</string>
+	<string id="path_kras_dm">
+		<text>Distributivni Centar za Mrtve Baruštine</text>
+	</string>
+	<string id="path_prip_eprip">
+		<text>Pripjat za Istočni Pripjat</text>
+	</string>
+	<string id="path_jupu_x10">
+		<text>Jupiter Podzemlje za Laboratorij X10</text>
+	</string>
+	<string id="path_vok_lim">
+		<text>Zadnja Stanica za Limansk</text>
+	</string>
+	<string id="path_lim_vok">
+		<text>Limansk za Zadnja Stanica</text>
+	</string>
+	<string id="path_bm_kras">
+		<text>Crno Tržište za Distributivni Centar</text>
+	</string>
+	<string id="path_dm_tech">
+		<text>Mrtve Baruštine za Industrijsku Zonu</text>
+	</string>
+	<string id="path_tech_hole">
+		<text>Industrijska Zona za Rupu u zemlji</text>
+	</string>
+	<string id="path_wait_broke">
+		<text>Čekaonica za Skriveni Put</text>
+	</string>
+	<string id="path_tech_wait">
+		<text>Industrijska Zona za Čekaonica</text>
+	</string>
+	<string id="path_npp1_npp2">
+		<text>NEP Jug za NEP Sever</text>
+	</string>
+	<string id="path_mil_npp1">
+		<text>Skladišta za NEP Jug</text>
+	</string>
+	<string id="path_dcity_gen">
+		<text>Mrtvi Grad za Generatori</text>
+	</string>
+	<string id="path_rsch_tech">
+		<text>Istraživačka Stanica za Industrijsku Zonu</text>
+	</string>
+	<string id="path_gen_hosp">
+		<text>Generatori za staru Bolnicu</text>
+	</string>
+	<string id="path_recon_npp1">
+		<text>NEP Jug za Neotkrivena Zemlja</text>
+	</string>
+	<string id="path_pripyat_npp1">
+		<text>Pripjat za NEP</text>
+	</string>
+	<string id="path_rad_red">
+		<text>Radar za Crvenu Šumu</text>
+	</string>
+	<string id="path_res_ros">
+		<text>Istraživački Centar za Rostok</text>
+	</string>
+	<string id="path_prom_gen">
+		<text>Industrijska Zona za Generatori</text>
+	</string>
+	<string id="path_radar_rostok">
+		<text>Radar za Divlju Teritoriju</text>
+	</string>
+	<string id="path_cem_gen">
+		<text>Groblje za Generatore</text>
+	</string>
+	<string id="path_jup_cem">
+		<text>Jupiter za Groblje</text>
+	</string>
+	<string id="path_ww_hos">
+		<text>Crna Šuma za Bolnicu</text>
+	</string>
+	<string id="path_hos_f1">
+		<text>Bolnica za Postrojenje F1</text>
+	</string>
+	<string id="path_hr_dm">
+		<text>Skriveni Put za Mrtve Baruštine</text>
+	</string>
+	<string id="path_rsch_eprip">
+		<text>Istraživački Centar za Istočni Pripjat</text>
+	</string>
+	<string id="path_eprip_npp1">
+		<text>Istočni Pripjat za NEP Jug</text>
+	</string>
+	<string id="path_eprip_zaton">
+		<text>Zaton za Istočni Pripjat</text>
+	</string>
+	<string id="path_npp2_x14">
+		<text>NEP Sever za Tajni Laboratorij</text>
+	</string>
+	<string id="path_dark_npp">
+		<text>NEP Jug za Mračni Izlaz</text>
+	</string>
+	<string id="path_jupu_tunnels">
+		<text>Podzemlje Jupitera za Južni Tuneli</text>
+	</string>
+	<string id="path_redf_tunnels">
+		<text>Crvena Šuma za Južni Tuneli</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca -=- 12:13 12.07.2014 -->
+	<!-- Tekst usklađen sa 109983 verzijom zakrpe - 24.03.2015 23:18 -sadd -->

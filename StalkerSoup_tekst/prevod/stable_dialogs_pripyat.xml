@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 fixed \n, removed "string_table" - aleks1970  -->
+
+<string id="pri_followers_start_dlg_21">
+<text>Krenimo dalje niz ulicu. Dobro pazite na krovove.</text>
+</string>
+<string id="pri_followers_start_dlg_211">
+<text>Dobro.</text>
+</string>
+<string id="pri_followers_start_dlg_31">
+<text>Hvala na pomoći Obeleženi... Bila je ovo teška borba. Ovde ćemo kampirati. \nAko želiš da nastaviš dalje, reći ću ti više o ovoj oblasti. Ako se vratis nazad i skreneš desno, naići ćeš na autobusku stanicu. To mesto je na otvorenom i jako je opasno. \nAko samo ideš napred naći ćeš se ispred hotela. Sa desne strane je Monolit baza. Ti momci ne znaju za ograničenje. \nBaza je u blizini stadiona. Planiramo kroz njega do elektrane. To je sve.</text>
+</string>
+<string id="pri_followers_start_dlg_311">
+<text>Hvala.</text>
+</string>
+<string id="pri_followers_start_dlg_41">
+<text>Hvala ti na pomoći. Sretan put.</text>
+</string>
+<string id="pri_followers_start_dlg_411">
+<text>Živio.</text>
+</string>
+<!-- Preveo i prilagodio Flexerca - 29.01.2015 - 11.22 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:45 -sadd -->

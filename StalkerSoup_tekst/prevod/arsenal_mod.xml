@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 DKZ fn2000 fix, sg552, galil 7.62, aleks fixes -->
+<string_table>
+	<string id="ars-m16a2">
+		<text>Colt M16A2</text>
+	</string>
+	<string id="enc_arsenal_m16a2">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Težina: 3.7kg\n• Kapacitet spremnika: 30 Komada\nPoboljšana M16A1 puška. Ima težu cev, i režim paljbe ograničen na 3 metka u kratkom rafalu, uz podršku magazina od 30 metakaa.\nMoguća dogradnja:\n• M16 optika\n• 5.56x45mm prigušivač\n• M203 bacač granata</text>
+	</string>
+	<string id="ars-m16a12">
+		<text>Modifikovani Colt M16A2</text>
+	</string>
+	<string id="enc_arsenal_m16a12">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Težina: 3.7kg\n• Kapacitet spremnika: 30 Komada\nModifikovana M16A2 puška koju koriste majstori Monolit frakcije te elitni pripadnici Plaćenika. Bazirano na izveštajima Naučnika, ove puške doleze iz dubine Zone, gde su nekako "promenjene" na isti način kao što se artefakti "kuvaju"i na taj način se prave poboljšanja. Tako primaju čudne 'osobine', i poseduju bržu rafalnu paljbu, bolju preciznost i veću zaustvnu moć. Mnogi stalkeri bi dali doslovno sve samo da se mogu dokopati jedne...</text>
+	</string>
+	<string id="ars-famas_p3">
+		<text>FAMAS Prototip</text>
+	</string>
+	<string id="enc_arsenal_famas_p3">
+		<text>• Municija: 5.56x45mm, SS109, 5.56x45mm AP\n• Težina: 3.5kg\n• Kapacitet: 30 Komada\n• Dužina: 757mm\n• Dužina cevi: 488mm\n• Brzina paljbe: 900 r/m\n• Domet: 300 metres\nPrototip nove i inovativne  FAMAS serije jurišnih pušaka. Jako retko oružje u Zoni. Daljna modifikacija standardnog magacina je 30 metaka. Veća brzina paljbe i "Bull-Pup" dizajn krase ovo sjajno malo oružje.</text>
+	</string>
+	<string id="ars-sg552">
+		<text>SIG SG-552 «Komandos»</text>
+	</string>
+	<string id="enc_arsenal_sg552">
+		<text>• Municija: 5.56x45mm, SS109, 5.56x45mm AP\n• Težina: 3.2kg\n• Kapacitet: 30 Komada\n• Dužina: 730mm\n• Dužina cevi: 226mm \n• Brzina paljbe: 780 r/m\nSIG SG-550 je vrlo zgodno oružje koji je svoj put u Zonu našlo prvenstveno zahvaljujući Naučnicima.\nDodaci: ACOG optika, 5.56x45mm prigušivač, M203 bacač granata</text>
+	</string>
+	<string id="ars-sg552-fss">
+		<text>SIG SG-552 «FSS Komandos»</text>
+	</string>
+	<string id="enc_arsenal_sg552_fss">
+		<text>• Municija: 5.56x45mm, SS109, 5.56x45mm AP\n• Težina: 3.2kg\n• Kapacitet: 30 Komada\n• Dužina: 730mm\n• Dužina cevi: 226mm \n• Brzina paljbe: 780 r/m\nSIG SG-550 je vrlo zgodno oružje koji je svoj put u Zonu našlo prvenstveno zahvaljujući Naučnicima.\nOvo specijalno izdanje je modifikovao 'Dellis' za FSS članove i nagrađen je za izdržljivost.\nDodaci: ACOG optika, 5.56x45mm prigušivač, M203 bacač granata</text>
+	</string>
+	<string id="ars-xm8_para">
+		<text>HK XM8 'Para'</text>
+	</string>
+	<string id="enc_arsenal_xm8_para">
+		<text>• Municija: 5.56x45mm, SS109, 5.56x45mm AP\n• Težina: 3.5kg\n• Kapacitet: 100 Komada\n• Dužina: 833 mm\n• Dužina cevi: 312mm\nXM8 automatska puška sa doboš magacinom, čija je namera bila popunjavanje praznine između lakog mitraljeza i jurišnih pušaka. Njegova teža cev čini ovo oružje izvanredno preciznim. Ugrađeni optički nišan omogućuje preciznu vatru na srednjim udaljenostima. Moguća je i instalacija 5.56x45mm prigušivača</text>
+	</string>
+	<string id="ars-hk417">
+		<text>Heckler-Koch 417 «Snajper»</text>
+	</string>
+	<string id="enc_arsenal_hk417">
+		<text>• Municija: 7.62x51mm, 7.62x51mm AP\n• Težina: 5kg\n• Kapacitet: 20 Komada\nHK 417 7.62mm NATO klasa automatskih pušaka izrađena na bazi puške Heckler-Koch HK 416 kalibra 5.56mm NATO. Izrada HK 417 je počela 2005 na bazi međunarodnog iskustva stečenog u Afganistanui Iraku, gde se po određenim uslovima, kalibar 5,56 pokazao nedostatak efektivnog dometa i nedostatak rasprskivanja i leta malokalibarskih metaka. Puške NC 417 serije su krenule u proizvodnju 2007 i 2008, i ponuđene su za opremanje Vojske i snaga policije. HK 417 puške imaju modularni dizajn, jako sličan dizajnu američke M16 puške, sa jednom velikom razlikom - njemačka puška HK 417 ima modifikovanu parnu automatizaciju, konvencionalni plinski klip sa kratkim udarom. Postoji velik broj razlika, ali sve osnovne kontrole i metode rastavljanja i sastavljanja oružja su prenešene sa M16/M4 platforme. Opremljna je sa optičkim podrškom od 6X uvećanjem</text>
+	</string>
+	<string id="ars-sr25_mk11_mod0">
+		<text>Vitez SR-25</text>
+	</string>
+	<string id="enc_arsenal_sr25_mk11_mod0">
+		<text>• Municija: 7.62x51mm, 7.62x51mm AP\n• Težina: 6.5kg\n• Kapacitet: 20 Komada\nSR-25 puška je izrađena kao poboljšani AR-10, a i sama je prethodnica AR15/M16 porodice. Korištenjem AR10 kao baze izmenjen je i refiniran da bude DMR i LEA snajpersko oružje koje koristi 7.62x51mm municiju. SR25 je oružje koje je sposobno za 1 MOA preciznost. Sa finim podešavanjem dolazi čak do 0.5 MOA stepena preciznosti. U Zoni je samo korisna samo ukoliko njen vlasnik stalno vrši održavanje.</text>
+	</string>
+	<!-- dkz-03 WEAPON ADDITIONS -->
+	<string id="ars-peceneg">
+		<text>PKP Pecheneg</text>
+	</string>
+	<string id="enc_arsenal_peceneg">
+		<text>• Municija: 7.62x54mmR (Belt, 'Isomorphic')\n• Težina: 8.7kg\nPecheneg je moderna verzija PK mitraljeza. Poseduje finu fiksiranu cev sa nosačem i polimerni kundak, prednji u zadnji rukohvat.  Težina je smanjena u poređenju sa PK, kao i u ostalih zapadnjačkih modela, ali opet sa punom 7.62x54mm vatrenom moć, uz 825m/sek. Nije za neprekidnu paljbu jer se cev ne može menjati u borbi. Njegova glavna prednost jeste redizajnirani skrivač plamena, koji eliminiše kod ranijih verzija, masivne eksplozije i pregrijavanje.</text>
+	</string>
+	<string id="ars-mod-ak_md">
+		<text>"Mini" Dragunov</text>
+	</string>
+	<string id="arsenal_mod-ak_md">
+		<text>• Municija: 7.62x39mm, 7.62x39mm AP\n• Kapacitet: 30 Komada • Težina: 4.1kg\n"Mini" Dragunov je snajperska puška napravljena u Rumuniji 1993 kao hibrid AK-47 i SVD puške. Poseduje pištoljski rukohvat, optički nišan, i kundak uzet direktno sa SVD Dragunova. Uopće nije loše oružje za gađanje višestrukih meta na kratkom odstojanju, kao i urbanim predjelima za pružanje podrške. Vrsta paljbe: pojedinačna i automatska. Podržava iGP-30 bacač granata, kao i 7.62 AR prigušivač.</text>
+	</string>
+	<string id="ars-stg44">
+		<text>STG-44</text>
+	</string>
+	<string id="arsenal_mod-stg44">
+		<text>• Municija: 7.92x33mm, 7.92x33mm AP\n• Kapacitet: 30 Komada • Optika: ZF-4\n• Težina: 4.1kg\nSTG-44 (Sturmgewehr 44 ili 'Storm Rifle 1944') legendarna jurišna puška proizvedena u nacističkoj Njemačkoj za vreme II Svetskog Rata, i bila je prva od svoje vrste u masovnoj proizvodnji. Generalno prihvaćena kao prva svetska jurišna puška, STG-44 utiče i na posleratni dizajn oružja širom sveta, što svedoči AK-47 od Mihajla Kalašnjikova i kasnije američke M16 verzije. Sovjetski Savez je brzo prihvatio koncept jurišnih pušaka. AK-47 koristi sličnu municiju srednje veličine, sličan dizajn ali je mehanički različit.</text>
+	</string>
+	<string id="ars-sig550">
+		<text>SG-550 "Necro"</text>
+	</string>
+	<string id="enc_arsenal_wpn-sig550">
+		<text>• Municija: 5.56x45mm, 5.56x45mm AP\n• Kapacitet: 40 Komada • Težina: 4.1kg\nSIG 550 je modifikovan od strane iskusnog oružara. Sanžer je od 40 komada a trzaj je smanjen zbog bolje preciznosti. Na njemu se preveliki nosači za bacač granata koji izgledaju dovoljno jako da nose moćne M406-HE granate. Na gornjem poklopcu je ugravirana reč "Necro", koja je izvedena i antičke grčke reči koja znači smrt. Izgleda da "Nindža Zone" koji je nosio ovo oružje na kraju ipak nije mogao zadržati.</text>
+	</string>
+	<string id="ars-mp40">
+		<text>MP-40</text>
+	</string>
+	<string id="enc_arsenal_mp40">
+		<text>• Municija: 9x19mm fmj, 9x19mm pbp\n• Kapacitet: 32 Komada \n• Težina: 3.1kg\n• Optika: ZF-4\nMP-40 ( Maschinenpistole) je puška automat proizvedena u nacističkoj Njemačkoj i intenzivno korištena od strane padobranaca, posada tenkova, komandira odreda i vodova, i drugih trupa tokom II Svjetskog Rata. MP-40 je često zvan i  "Šmajser" od strane Saveznika, po dizajneru oružja Hugi Šmajseru (Hugo Schmeisser), iako je zapravo on nije ni dizajnirao. Najveća slabost je spremnik od 32 metka. Pojedinačno povlačenje metaka prema gore izazivalo je veće trenje a s tim i sve češće zaglavljivanje i preskakanje prilikom pucanja. Drugi problem jeste što se spremnik koristio kao rukohvat. Ovo je prouzrokovalo kvarove zbog pritiska ruke na spremnik što je za uzrok imalo da se pomjeri vrh sanžera a time je prekinuto "hranjenje" oružje municijom. Njemački vojnici su bili obučeni da oružje hvataju za rukohvat iza spremnika, kako bi izbegli ove probleme...</text>
+	</string>
+	<string id="ars-mp41">
+		<text>MP-41</text>
+	</string>
+	<string id="enc_arsenal_mp41">
+		<text>• Municija: 9x19mm fmj, 9x19mm pbp\n• Kapacitet: 32 Komada • Težina: 3.5kg\n• Optika: ZF-4\nMP-41 automat proizveden od strane Huga Šmajsera (Hugo Schmeisser), sin Luisa Šmajsera (Louis Schmeisser) koji je izradio prvi praktični automat, MP-18. 1941, C.G.Haenel Company, gde je Šmajser bio glavni dizajner, izradila je MP-40 automat za Njemačku Vojsku. Moguće je da je Šmajser tada odlučio da izradi automat koji će bolje odgovarati pešadiji nego MP-40. Iz tih razloga je kombinirao zatvarač i spremnik MP-40 sa drvenim kundakom selektorom za paljbu od MP-28. Haenel company je tek proizvela nekoliko hiljada MP-41 automata, koje su koristili SS jedinice, koje su imale svoj vlastiti lanac nabave. Kako god, kasne 1941 Erma Company je podnela patentnu tužbu protiv Haenel, i kao rezultat tužbe, Haenel company je prisiljena zaustaviti produkciju MP-41. Samo 26,700 MP-41 je izrađeno tokom rata a većina je bila izdana SS, SD i Policijskim jedinicama...</text>
+	</string>
+	<string id="ars-akm">
+		<text>AKM KG-74</text>
+	</string>
+	<string id="enc_arsenal_akm_sk2">
+		<text>• Municija: 7.62x39mm, 7.62x39mm AP\n• Kapacitet: 45 Komada • Težina: 2.9kg\nAKM je redizajn AK47 i namenjen je masovnoj proizvodnji. Presovani čelični zatvarač i drugi jeftiniji materijali omogućili su niže troškove proizvodnje ovog oružja i to u broju od približno 60 miliona. Napravljen je materijala slabije kvalitete, sa kromiranom cevi ali sa povećanom pouzdanošću, a to zato jer je unutar mehanizma bilo puno više prostora za prljavštinu da se akumulira ali bez uticaja na funkcionalnost oružja. Ovu verziju je preradio "Lanki" po specijalnom zadatku od S.t.a.l.k.e.r. koji su urezali svoje ime na kundak: 'Boutch71'. Ima povećan magacin, verovatno od RPK, kao i šine za montažu "GP-30" bacača granata.</text>
+	</string>
+	<string id="ars-an94sk2">
+		<text>AN-94 SK2 'Gulag'</text>
+	</string>
+	<string id="enc_arsenal_an94_sk2">
+		<text>• Municija: 5.45x39mm fmj, 5.45x39mm AP\n• Brzina paljbe: 600 rpm • Efektivni domet: 650 metara\n• Kapacitet spremnika: 30 Komada\nAN-94 SK2 Gulag je retko unapređenje Abakana AN-92. Poseduje korisnu punu automatsku paljbu i fantastičnu trzajnu kontrolu. Izbalansiran, lagan i precizan "Gulag" je traženo oružje!</text>
+	</string>
+	<string id="wpn_imigalilar_5.56x45mm">
+		<text>IMI Galil ARM</text>
+	</string>
+	<string id="enc_arsenal_galil_arm">
+		<text>• Municija: 5.56x45mm ss190, 5.56x45mm AP\n• bacač granata: M203 (dodatak)\n• Kapacitet spremnika: 35 Komada\nGalil je porodica Izraelskog malog oružja dizajniranog od strane Yisrael Galili i Yaacov Liora kasne 1960, a proizveden od Izraelske Vojne Inndustrije iz Ramat HaSharon. Sistem oružja sastoji se od komora prilagođenim za srednji 5.56x45mm NATO kalibar, sa M193 ili SS109 čahurama i nekoliko modela dizajniranim za korištenje 7.62x51mm NATO municije. Dobio je ime po Galileji, velikoj oblasti na severu Izraela. Galil je dizajniran za operacije u sušnim predelima i baziran je na Finskom RK 62, koji je i sam baziran na Sovjetskom AK-47. Izabran je kao pobednik u natjecanju Izraelskog Ministarstva Odbrane između mnogo drugih učesnika (između ostalog, M16A1, Stoner 63, AK-47 i HK33) a formalno je prihvaćen u službu 1972, zamenjujući na prašinu previše osetljivi FN FAL</text>
+	</string>
+	<!-- 7.62x51mm NATO Assault Rifles -->
+	<string id="name_wpn_imigalilar_7.62x51mm">
+		<text>IMI Galil AR (7.62x51mm NATO)</text>
+	</string>
+	<string id="desc_wpn_imigalilar_7.62x51mm">
+		<text>%c[250,150,150,250]Tip: Jurišna puška.\n%c[250,125,100,0]Balistika: 5/10.\n%c[250,100,125,0]Preciznost: 6/10.\n%c[250,50,175,0]Rukovanje: 8/10.\n%c[250,150,75,0]Pouzdanost: 4/10.\n%c[250,150,150,250]Kapacitet spremnika: 25 komada.\nMetaka u minuti: 650RPM.\nVrsta paljbe: Poluautomatska, Automatska.\nMunicija kalibar: 7.62x51mm NATO.\nDodatak: 7.62x51mm Prigušivač, M203.\nIntergisan: x4.0 Optički nišan.\n%c[default]Galil je Izraelska jurišna puška dizajnirana od strane Yisrael Galili a proizvedena u Izraelskoj Vojnoj Industriji 1969. Baziran je na Finskom RK 62, koji je i sam baziran na Sovjetskom AK-47. Prihvaćen je od strane Izraelskih Vojnih Snaga 1972, potukavši druge modele pušaka i zamenjujući nepouzdani FN FAL. Galil je poznat po svojoj pouzdanosti u borbenim uvetima i lakom održavanju.</text>
+	</string>
+	<string id="name_wpn_imigalilarm_7.62x51mm">
+		<text>IMI Galil ARM (7.62x51mm NATO)</text>
+	</string>
+	<string id="desc_wpn_imigalilarm_7.62x51mm">
+		<text>%c[250,150,150,250]Tip: Laki mitraljez.\n%c[250,75,150,0]Balistika: 7/10.\n%c[250,100,125,0]Preciznost: 6/10.\n%c[250,150,75,0]Rukovanje: 4/10.\n%c[250,75,150,0]Pouzdanost: 7/10.\n%c[250,150,150,250]Kapacitet spremnika: 50 Komada.\nMetaka u minuti: 650RPM.\nVrsta paljbe: Poluautomatska, Automatska.\nMunicija kalibar: 7.62x51mm NATO.\nDodatak: 7.62x51mm Prigušivač, Trijicon ACOG, M203.\n%c[default]Galil je Izraelska jurišna puška dizajnirana od strane Yisrael Galili a proizvedena u Izraelskoj Vojnoj Industriji 1969. Baziran je na Finskom RK 62, koji je i sam baziran na Sovjetskom AK-47. Prihvaćen je od strane Izraelskih Vojnih Snaga 1972, potukavši druge modele pušaka i zamenjujući nepouzdani FN FAL. Galil je poznat po svojoj pouzdanosti u borbenim uvetima i lakom održavanju. ARM verzija Galila je laki mitraljez, sa većim rukohvatom i težom cevi. Opremljen je sa nožicama.</text>
+	</string>
+	<string id="ars-k98">
+		<text>Kar98k 'Sepp'</text>
+	</string>
+	<string id="enc_arsenal_k98">
+		<text>• Municija: 7.92x33mm fmj, 7.92x33mm AP\n• Optika: Zeiss ZF42 (dodatak)\n• Kapacitet spremnika: 5 Komada\nKarabin 98 K je puška koju je ekspertno prilagodio za 7.92x33mm municiju Sidorovičev tehničar. Poznata još kao i "Mauser", prihvaćena je kao službeno oružje 1935 od strane Njemačkog Wehrmachta. Predstavlja jedno od finalnih proizvoda u dugoj liniji Mauser vojnih pušaka. Iako opremljeni sa poluautomatskim i automatskim oružjem tokom II Svetskog Rata, ostaje u Njemačkoj službi do kraja rata 1945. Teško je potvrditi istinitost, ali na nosačima optike na natpis:: "Poklonjenu Josef 'Sepp' Allerbergeru za uzornu službu i izuzetnu preciznost... 20. April, 1945"</text>
+	</string>
+	<string id="ars_wpn_mossberg590_12ga">
+		<text>Mossberg 590A1 'Francis'</text>
+	</string>
+	<string id="desc_wpn_mossberg590_12ga">
+		<text>• Municija: 12x70 'Sačma'\n• Kapacitet: 8 Komada\nSidorovič mi je dao ovu pušku...sačmaricu. Prilično grubog oblika, ali dobro dođe u škripcu. Rekao mi je da je pripadala nekom tipu po imenu Francis, koji je prošao ovuda pre nekog vremena. Čudan neki tip... Sav prekriven tetovažama, kožom, lancima i ostalim sranjem. Kakvo je to ime "Francis" za takvog tipa?! Kako god .. Sid reče da je menjao pušku za celi sanduk votke, i da su ga tu zadnji put videli...jednostavno je ispario...nestao. Možda je umro u Zoni, ili je možda potplatio neke vojnike votkom da ga izvuku odavde. Ma koga briga..sada imam njegovu pušku. Oh, još nešto... Sid reče da je mumljao neke stvari sebi u bradu doj je predavao pušku... "pucaj im u glavu..." ili tako nešto... Čudan narod dolazi u Zonu.. Stvarno čudan... Dao mi je i neku municiju za pušku čudnog izgleda... Kaže da bi trebala "odraditi trik" ... E pa sačekaćemo i videti...</text>
+	</string>
+	<!-- ATTACHMENTS -->
+	<string id="ars-sil_556_ar">
+		<text>5.56x45mm prigušivač</text>
+	</string>
+	<string id="enc_arsenal_sil_556_ar">
+		<text>Omogućuje pouzdanu preciznost s minimalnim ponovljenim nultim pomakom. Izdržljivost je maksimizirana sa CNC automatskom fuzijom, zavarivanjem komponenata koje se koriste za njegovu konstrukciju - dajući time prigušivaču još veću dugovečnost. Niskotlačni dizajn daje korisniku ugođaj, smanjuje prljanje oružja i minimizuje kružni stepen trošenja. Izvanredno skrivanje plamena savršeno maskira lokaciju strelca.</text>
+	</string>
+	<string id="ars-sil_762_ar">
+		<text>7.62x51mm prigušivač</text>
+	</string>
+	<string id="enc_arsenal_sil_762_ar">
+		<text>Omogućuje pouzdanu preciznost s minimalnim ponovljenim nultim pomakom. Korisnik ima mogućnost da stavi ili skine prigušivač gotvo u sekundi u bilo kojem okruženju. Niskotlačni dizajn daje korisniku ugođaj, smanjuje prljanje oružja i minimizuje kružni stepen trošenja. Kao zadnji korak, EDM tehnologijom je poboljšana preciznost i maksimalne performance.</text>
+	</string>
+	<string id="ars-acog">
+		<text>ACOG Optika</text>
+	</string>
+	<string id="enc_arsenal_acog">
+		<text>Acog 4x32 optika omogućava opcije za prilagođavanje za kratki domet i preciznost za veći domet. Kućište je izgrađeno od čvrste legure alubinijuma. Kućište od 7075-T6 avionske legure aluminija pruža gotovo neuništiv optički nišan. Leće sa višeslojnim premazima omogućuju maksimalne performanse, a veliki očni okular omogućuje maksimalni očni opseg.</text>
+	</string>
+	<string id="ars-scope1">
+		<text>M16 Optika</text>
+	</string>
+	<string id="enc_arsenal_scope1">
+		<text>Jednodelni komad od avionskog aluminija, otperan na ogrebotine u adonizirajućem crnom mat izdanju. Odgovara svim A1 i A2 modelima. Mil-dot nišanski sistem, superiorni kvalitetni elementi leća, integrisani unutrašnji pokazvači, označeni od 100 do 500 metara. Precizni mehanizam za horizontalno i vertikalno podešavanje i tačno nuliranje.</text>
+	</string>
+	<!-- dkz-03 SCOPES -->
+	<string id="ars-zf4">
+		<text>ZF-4 Optika</text>
+	</string>
+	<string id="enc_arsenal_zf4">
+		<text>Optika namenjena za korištenje na oružjima koje je koristila nacistička Njemačka tokom II Svetskog Rata. Prilagođena je za korištenje naMP-40, MP-41 i STG-44. Leće su malo izgrebane i prljave, ali svejedno, odlično će odraditi svoj posao kada zatreba.</text>
+	</string>
+	<string id="ars-zf4_2">
+		<text>Zeiss ZF42 Optika</text>
+	</string>
+	<string id="enc_arsenal_zf4_2">
+		<text>Specijalna snajperska optika od Sidoroviča. Dizajnirana specijalno za Kar98k koji mi je dao. Očito je jednom pripadao "JS Allerberger" a priča se da je bio vraški dobar strelac!!!</text>
+	</string>
+	<!-- Municija -->
+	<string id="ars-7.62x51_fmj">
+		<text>7.62x51mm FMJ</text>
+	</string>
+	<string id="ars-7.62x51_fmj_s">
+		<text>7.62x51mm FMJ</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_fmj">
+		<text>Puščana municija izrađena 1950'ih godina za manja oružja NATO država (ne treba menjati sa sličnom 7.62x54mmR municijom). Sa municijom dizajniranom da se širi, rasipa ili rasprskuje u telu, ovakva municije je sposobna naneti smrtne ozlede. Zagovornici teorije hidrostatičnog šoka smatraju da povrede nastale hidrostatičnim tlakom na tkiva, uzrokuju remećenje stanične strukture - naročito organa poput jetre.</text>
+	</string>
+	<string id="ars-7.62x51_ap">
+		<text>7.62x51mm AP</text>
+	</string>
+	<string id="ars-7.62x51_ap_s">
+		<text>7.62x51mm AP</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_ap">
+		<text>7.62x51mm protupancirna municija sa čeličnom jezgrom i dodatnim punjenjem baruta za povećanje brzine. Može probiti većinu pancir odela niže klase od NIJ IV sa lakoćom, i naneti teške, ako ne i smrtonosne, rane.</text>
+	</string>
+	<!-- dkz-03 AMMO -->
+	<string id="ammo-7.92x33-fmj">
+		<text>7.92x33mm fmj</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.92x33-fmj">
+		<text>Puščana municija razvijena u nacističkoj Njemačkoj pre i za vreme Drugog Svetskog Rata. Municija također poznata kao i 7.92mm Kurz ("Kurz" na njemačkom znači "kratak"), ili 7.92mmK, a posbno namenjena razvoju jurišne puške. Municija je napravljena kao kompromis između duže 7.92x57mm Mauser i 9mm pištoljske municije, a poznata je kao srednja municija.</text>
+	</string>
+	<string id="ammo-7.92x33-ap">
+		<text>7.92x33mm AP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.92x33-ap">
+		<text>Protupancirna verzija 7.92x33mm municije razvijene u nacističkoj Njemačkoj pre i za vreme Drugog Svetskog Rata. Posebno namenjena razvoju jurišnih pušaka koje su bile u razvoju. Municija je napravljena kao kompromis između duže 7.92x57mm Mauser (8mm) i 9,19mm pištoljske municije (9mm).</text>
+	</string>
+	<string id="ars-balon">
+		<text>Kanister gasa</text>
+	</string>
+	<string id="ars-balon_s">
+		<text>Kanister</text>
+	</string>
+	<string id="enc_arsenal_ammo_balon">
+		<text>Kanister gasa koji sadrži brzo isparivu smesu gasova i metalnih sapuna koji se koriste za oružja iz porodica bacača plamena. Izuzetno opasan. Ovaj kanister nije u najboljem stanju. Pušenje strogo ZABRANJENO!!!</text>
+	</string>
+	<!-- Redirected missing text strings from "upgredes_arma.ltx, ammo_20x85.ltx" file aleks1970 -->
+	<string id="military_scope_pk">
+		<text>PK-01A optika</text>
+	</string>
+	<string id="military_scope_pk_s">
+		<text>PK-01A 'red-dot'</text>
+	</string>
+	<string id="enc_military_scope_pk_descr">
+		<text>Taktička vojna optika sa superoštrom 1 MOA red-dot mrežom i prilagodljivim nivoima osvetlenja... Sa punim višepremaznim, zapečaćenim nitrogenskim slojem leća. Izrađen od kompaktne i lake vojne legure, celo metalno telo je otporno na najteže uvete i udaarce. Široko 40° vodno polje, i mogućnost ciljanja sa oba oka, čine ovu optiku nezamenjivu za brzopokretne mete, kao i za mete koj se nakratko i brzo pojavljuju u gradskim borbenim situacijama sa različitim svetlosnim uvetima...</text>
+	</string>
+	<string id="GP_30_pk">
+		<text>GP-30 Grenade launcher</text>
+	</string>
+	<string id="GP_30_pk_s">
+		<text>GP-30</text>
+	</string>
+	<string id="enc_GP_30_pk_descr">
+		<text>Ruska Vojska je usvojila GP-30 1989... Zadržavajući iste borbene osobine kao prethodnik, GP-25, on je lakši, jednostavniji i jeftinije proizvodnje. Koristi iste 40mm VOG-25 i VOG-25P fragmentacione granate, koje se pune ispod cevi a prikačen je za cev pomoću opruge. Indirektna paljba je onemogućena, a nišan je pomeren na desnu stranu kako bi doprinelo lakšem i udobnijem nišanjenju. Svaki bacač granata dolazi sam gumenom trzajnom kaspulom, i posebnom povratnom oprugom koja se koristila u ranoj proizvodnji Kalašnjikov pušaka...</text>
+	</string>
+	<string id="sil_TGP_A_pk">
+		<text>TGP-A prigušivač</text>
+	</string>
+	<string id="sil_TGP_A_pk_s">
+		<text>TGP-A prigušivač</text>
+	</string>
+	<string id="enc_sil_TGP_A_pk_descr">
+		<text>Prigušivač dizajniran za upotrebu na AK puškama. Povećava nišansku preciznost, tako što gasne trake oko projektila zbija u jednu. Prigušivač smanjuje trzaj jer "zarobljava" gasove. Ovaj gasna masa je manja od jedne polovine projektilne mase, sa gasom koji izlazi iz cevi i dvostruko veće brzine od projektila...</text>
+	</string>
+	<string id="ammo_M406_pk">
+		<text>M406-HE granata</text>
+	</string>
+	<string id="ammo_M406_pk_s">
+		<text>M406-HE</text>
+	</string>
+	<string id="enc_ammo_M406_pk_descr">
+		<text>M406-HE granata sastoji se od aluminijskog tela sa rotirajućom trakom i sa pogonskim punjenjem i udarnim upaljačem. Ovalni čelični sklop sadrži visokoeksplozivno punjenje, koje se nalazi uzadnjem delu granate...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca -=- 12:39 22.02.2014 -->
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 25.03.2015 0:19 -sadd -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 added sarchaes tps -->
+	<string id="rad_antenna_location">
+		<text>Antena</text>
+	</string>
+	<string id="sarbunker_enter">
+		<text>u Sarkofag</text>
+	</string>
+	<string id="sarbunker_exit">
+		<text>u x10</text>
+	</string>
+	<string id="sarchaes2_enter">
+		<text>u Sarkofag</text>
+	</string>
+	<string id="sarchaes2_exit">
+		<text>u x10</text>
+	</string>
+	<string id="path_sarbunker">
+		<text>iz x10 u Sarkofag</text>
+	</string>
+	<string id="path_sarchaes2">
+		<text>iz Sarkofaga u x10</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:14 -sadd -->

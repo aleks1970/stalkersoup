@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="descr_yan_find_ghost_task">
+		<text>Vasiljev: "Ovo su  koordinate ulaza u Laboratoriju X16. Taj ulaz se nalazi u podrumu glavne zgrade, svrha te zgrade je nepoznata. Ja sumnjam, da se tamo nalazi podzemni Emiter. Prema dokumentaciji, svrha projekta je razvijanje psihološkog oružja sa potpunim delovanjem velikog radijusa ...\n \n... Svi nužni dokumenti su u našem posedu i znamo kako se Emiter isključuje. Mi idemo sa Duhom u laboratoriju. Zombiji upadaju sa svih strana ...\n \n... odjednom psi, Duh je potpuno poludeo i upao je u trans. Izgleda da je podlegao Emisijama. Sve sam napustio i počeo sam da se vraćam u tunel. ...\n \n... Ja sam u močvari, gde je bunker? Do đavola. Do đavola. Do đavola! Ne mogu to mesto nikako da pronađem! Sakarov, ta kukavica, se ne javlja! Šta se dešava? ... Zombiji su na sve strane i ponestaje mi municije ..."</text>
+	</string>
+	<string id="descr_yan_find_lab">
+		<text>Sakarov: "Moraš pronaći Vasilijevo telo, da bi saznao tačne informacije, gde se nalazi laboratorija. Idi tamo i pronađi Duha. Duh je znao kako se Emisije isključuju i kako se posle izađe."</text>
+	</string>
+	<string id="descr_yan_find_scientist">
+		<text>Sakarov: "Ako sa našim saradnikom sva merenja sprovedeš, daću ti jedan kalibrirani Prototip, s kojim ćeš moći ući u laboratoriju."</text>
+	</string>
+	<string id="descr_yan_find_scientist_semenov">
+		<text>Sakarov: "Ako sa našim saradnikom sva merenja sprovedeš, daću ti jedan kalibrirani Prototip, s kojim ćeš moći ući u laboratoriju."</text>
+	</string>
+	<string id="descr_yan_kill_brain">
+		<text>Sakarov: "Dobro urađeno, Označeni, uspeo si da uđeš u laboratoriju. Za nas je veoma važno, da proučiš taj mehanizam u laboratoriji. Pokušaj da ga deaktiviraš, da bi ga mogli bolje istražiti.\n \n... Slušaj, taj prototip te ne može zaštititi protiv jakog zračenja. Na to sam mislio, dakle, na opremi se nalazi jedan sat, koji ce početi da kuca, ako postaneš ižlozen jakim zračenjima. Ako vreme istekne, prototip te više ne štiti. Budi veoma oprezan i ne zaboravi na sat."</text>
+	</string>
+	<string id="descr_yan_kill_brain_2">
+		<text>Apart je isključen. Sad još nekako živ da se izađe.</text>
+	</string>
+	<string id="descr_yan_provodnik_task">
+		<text>Duh: "Upis Br.257\n>> Provodnik, šaljem ti nekoga. Imamo važne informacije za Doktora, molim te pomozi mu."\n \n>>Provodnik: "Dobro. Ali Duh, ne ponavljajmo poslednji put. Uradi putovanje sam, želio sam duže vreme s tobom da popričam. Čekam te onda na uobičajenom mestu, u logoru kod mosta. Nemoj da zalutaš i ne dopusti da te uhvati vojna patrola."</text>
+	</string>
+	<string id="descr_yan_scientist_return_task">
+		<text>Sakarov: "Šta se dogodilo? On je mrtav? Uzmi merenja i odmah se vraćaj!"</text>
+	</string>
+	<string id="journal_after_find_ghost">
+		<text>Ja sam šokiran! Duh je ona ista osoba, kao onaj čovek na fotografiji u aktima o eliminaciji Streloka. Zbunjen sam. Mora da je neka greška. Ali ko je napravio tu grešku? Još nemam odgovora na to. Iz Duhovog zapisa poznajem ime njihovog "zajedničkog poznanika", četvrti čovek iz Strelokove grupe: Doktor. On je već dugo kao glavni stožer delovao za grupu. Njega se može naći preko jednog određenog Stalkera, jednog vođe sa imenom Provodnik, koji je često u Kordonu. U redu Provodnik, sad nemoj još molim te da mi jednostavno umreš pre našeg susreta. Kod Duhovog leša pronašao sam dokumente o "PSI-MOZAK"-mehanizmu. Čitavo susedstvo je stajalo pod utecajem ove prljave stvari - svako je u dometu postao praktički zombi. Navodno ima još jedan takav mehanizam u laboratoriji X19, to je verovatno onaj Spaljivač Mozgova. Ovi mehanizmi ne rade stalno sa punom parom, nego se ponekad isključe, da bi se mašine ohladile.</text>
+	</string>
+	<string id="journal_after_find_ghost_name">
+		<text>Jedna sledeća slagalica</text>
+	</string>
+	<string id="journal_after_kill_brain">
+		<text>Nakon što sam isključio ove "Cevi Mozga", pao sam u nesvest. Taj pritisak poslednjih dana zahtevao je svoj Tribut. Dok sam bio u nesvesti, imao sam jedan san ... Jedna fotografija. Jedan sedokosi stari čovek drži je u njegovim rukama i jedan ogroman pas leži kraj njegovih nogu. Taj čovek gleda u daljinu, a svuda oko njega je samo močvara. Krajolik na fotografiji ne izgleda absolutno slično. U magli vidim nekoga kako odlazi. Taj čovek je vodio samostalni govor: "Ako je toliko važno, zašto mi onda nisi rekao, gde je ovo mesto i gde si napravio ovu fotografiju." Onda sa strane prepoznajem jednog veselog mladog čoveka, koji je stoji na pragu i radosno reče: "Kad bi samo znao, gde sam bio i šta sam video!" On izvuče jednu ruku, u kojoj drži jedan predivan Aparat, koji je osvetlio čitavu prostoriju. Pas počinje da reži i skupi se u ćosku prostorije i sedi čovek promrmlja: "Jednog dana bićeš u velikoj nevolji." ... Jedan bljesak ... Taj isti mladić zatetura se sa okrvavljenim licem u prostoriji i sruši se ... Jedna munja se proteže preko neba i kiša udara u pod ... Jedan bljesak ... Jedan krevet, u kome leži taj mladić, umotan u zavoje. On je u nesvesti. Sedi čovek promrmlja: "Izdrži, moj mladiću". Par ličnih stvari je nagomilano u jednom ćosku, također je tamo i ta čudna fotografija ... Jedan bljesak ... Tu sliku drži sedokosi čovek u rukama. Mladić, čije mu je lice prekriveno ožiljcima, je spreman da napusti. Sedi čovek ga pita: "Gde ideš sad?" Sumorno odgovori mladić: "Prema Severu." ... Jedan bljesak ... Onda sam se probudio.</text>
+	</string>
+	<string id="journal_after_kill_brain_name">
+		<text>Drugi san</text>
+	</string>
+	<string id="journal_before_vasilyev_pda">
+		<text>Sad sam dakle jedan korak bliže Strelokovim ljudima. Duh je otišao sa jednim naučnikom u podzemnu laboratoriju X16. U svakom slučaju postoji jedno veliko "Ali" - On najverovatnije nije više živ. Taj naučnik se vratio sam ali je ubijen kad se približavao logoru. Naučnici su me opremili sa jednim aparatom, koji treba da me zaštiti protiv tih čudnih Emisija. Nadam se da pomaže. Tamo trebam ići da isključim Emitera, onda mogu oni bolje da istraže ovo mesto. Bože pomozi.</text>
+	</string>
+	<string id="journal_before_vasilyev_pda_name">
+		<text>Tik do Duha</text>
+	</string>
+	<string id="storyline_ghost_info">
+		<text>Unos #257\n>> Provodnik, šaljem ti nekoga. Imamo važne informacije za Doktora, molim te, pomozi mu.\n>>> Dobro. Ali Duh, da ne ponovimo to kao prošli put. Putuj sam. Hteo sam već duže vreme s tobom da popričam. Čekam te na uobičajenom mestu, u logoru kod mosta. Nemoj da zalutaš i ne dozvoli da te uhvati vojna patrola.\n \nUnos #384\n...U poslednjem trenutku Vasilijev je iznenada dobio hladne noge, umesto odvajanja donje konzole, on je jednostavno pobegao kad su se vrata otvorila. Nisam trebao da se pouzdam u njega. Strelok je imao pravo, da se lažljivom keru ne može verovati. Moja jedina sansa se sastoji iz toga, da dođem do vrata pre kontrolera ...</text>
+	</string>
+	<string id="storyline_vasilyev_info">
+		<text>...Ovo su koordinate ulaza u laboratoriju X16. Taj ulaz se nalazi u podrumu srednje zgrade. Svrha te zgrade je nepoznata. Najverovatnije služi za tehničko održavanje podezmnih emitera: prema dokumentaciji od N***, namenska svrha ovog projekta je opsežno razvijanje psihološkog oružja, sa delovanjem velikih razmjera ...\n \n... Mi posedujemo sva potrebna informacije i znamo kako se Emiter isključuje. Mi idemo za Duhom dole u laboratoriju. Zombi dolaze sa svih strana ...\n \n... odjednom psi, Duh je izgubio razum i potpuno je poludeo. Verovatno je podlegao Emisijama. Sve sam ostavio i vraćam se kroz tunel ...\n \n... Ja sam u močvarama, gde je bunker? Do đavola. Do đavola. Do đavola!!! Ne mogu da odredim moju tačnu poziciju! Sakarov, ta kukavica ne odgovara, !!! Šta se ovde dešava??? ... Zombiji su svuda i polako mi nestaje municije ...</text>
+	</string>

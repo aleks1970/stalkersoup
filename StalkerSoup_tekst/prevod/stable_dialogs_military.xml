@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 controller vice comptroller, chgd mil_trader_dialog_2001, removed "string_table" - aleks1970 -->
+
+	<string id="mil_bodyguard_dialog_0">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="mil_bodyguard_dialog_1">
+		<text>Tražim vođu Fridoma. Imam vrlo važnu informaciju za njega.</text>
+	</string>
+	<string id="mil_bodyguard_dialog_2">
+		<text>Ma pazi molim te, a koliko baš važnu?</text>
+	</string>
+	<string id="mil_bodyguard_dialog_5">
+		<text>Naleteo sam na grupu Djutijevca nedaleko od vašeg logora.</text>
+	</string>
+	<string id="mil_bodyguard_dialog_6">
+		<text>Uh, mamu im... Izgleda da opet pokušavaju neko sranje... Dobro, možeš da uđeš ali skloni to oružje. I da ti nije palo na pamet da pokušavaš neke gluposti ovde, da te ne bi hladnog u horizontali izbacili.</text>
+	</string>
+	<string id="mil_bodyguard_dialog_7">
+		<text>Važi.</text>
+	</string>
+	<string id="mil_cook_common1_0">
+		<text>Dobar dan.</text>
+	</string>
+	<string id="mil_cook_common1_101">
+		<text>Aha!</text>
+	</string>
+	<string id="mil_cook_common1_102">
+		<text>Što to treba da znači?</text>
+	</string>
+	<string id="mil_cook_common1_103">
+		<text>Ma sigurno.</text>
+	</string>
+	<string id="mil_cook_common1_104">
+		<text>Šta je tol'ko smešno?</text>
+	</string>
+	<string id="mil_cook_common1_105">
+		<text>Ej, čoveče! Drago mi je da te vidim!</text>
+	</string>
+	<string id="mil_cook_common1_106">
+		<text>Zdravo.</text>
+	</string>
+	<string id="mil_cook_common1_107">
+		<text>Dugo se nismo videli!</text>
+	</string>
+	<string id="mil_cook_common1_108">
+		<text>A jel' se mi znamo od ranije?</text>
+	</string>
+	<string id="mil_cook_common1_109">
+		<text>Ammm.... Da! Hehe...</text>
+	</string>
+	<string id="mil_cook_common1_110">
+		<text>Iskreno da ti kažem, ne mogu da se setim uopće ko si ti.</text>
+	</string>
+	<string id="mil_cook_common1_111">
+		<text>Hmm... Dobro, uredu je, nema problema.</text>
+	</string>
+	<string id="mil_cook_common2_0">
+		<text>U svakom slučaju, kakvo je ovo mesto?</text>
+	</string>
+	<string id="mil_cook_common2_201">
+		<text>Ovo ovde... Ma ovde je mnogo lepo... To je mesto kao i svako drugo, znaš... Ljudi eto samo rade da prežive, hehe...</text>
+	</string>
+	<string id="mil_cook_common2_202">
+		<text>Pa šta?</text>
+	</string>
+	<string id="mil_cook_common2_203">
+		<text>Pff... Postavljaš neka teška pitanja, stranče!</text>
+	</string>
+	<string id="mil_cook_common2_204">
+		<text>Nego, ajde ti pređi na stvar?</text>
+	</string>
+	<string id="mil_cook_common2_205">
+		<text>Ej, opusti se! Čekaj pa... Dobro... Ovo ti je normalno mesto! Tiho je. Sve je super. Da...ajde sad se opusti? Nemoj da se nerviraš...</text>
+	</string>
+	<string id="mil_cook_common3_0">
+		<text>A ko si pa ti?</text>
+	</string>
+	<string id="mil_cook_common3_301">
+		<text>Ja?</text>
+	</string>
+	<string id="mil_cook_common3_302">
+		<text>Tako je. Ti. Ne ja.</text>
+	</string>
+	<string id="mil_cook_common3_303">
+		<text>Haha, dobra fora! Ja... Šta samnom? Ma ja sam dobro... Vidiš, ja... Ja spremam hranu...i tako. Ja sam kuvar! Majstor kulinarstva! Znaš - dodaci, začini, travke, i tako te gluposti... Hleba također... Jel' tako?</text>
+	</string>
+	<string id="mil_cook_common3_304">
+		<text>Razumeo sam.</text>
+	</string>
+	<string id="mil_cook_common3_305">
+		<text>Ima i konzervirane hrane... Mleka u prahu... Šunka u konzervi... Pečena junetina sa paradajz sosom... O daa...</text>
+	</string>
+	<string id="mil_cook_common3_306">
+		<text>Dobro, razumeo sam.</text>
+	</string>
+	<string id="mil_cook_common3_307">
+		<text>Francuski hleb... Kečap... Jaja... Braon hleb...sir, šta ti treba. Viršle također! I kobasice! Odvratne... Hladne, nema prženih.</text>
+	</string>
+	<string id="mil_cook_common3_308">
+		<text>Dobro čoveče, smaraš! Kaži bar kako se zoveš.</text>
+	</string>
+	<string id="mil_cook_common3_309">
+		<text>Huh?.. Oh! Slavik me zovu... Tako me etiketirali... Ne! to je salveta! Imam ovu belu salvetu... Ej, pazi... Sedi dole, ne izigravaj metu... Zato što, onaj snajperista... Skine te 'ladno! Oni su... Takvi...</text>
+	</string>
+	<string id="mil_cook_common4_0">
+		<text>Dobro, dobro. Nego da te pitam, zar nema neko selo u blizini?</text>
+	</string>
+	<string id="mil_cook_common4_401">
+		<text>Pa...</text>
+	</string>
+	<string id="mil_cook_common4_402">
+		<text>Šta, pa?</text>
+	</string>
+	<string id="mil_cook_common4_403">
+		<text>Šta, šta?</text>
+	</string>
+	<string id="mil_cook_common4_404">
+		<text>Selo.</text>
+	</string>
+	<string id="mil_cook_common4_405">
+		<text>Ahh... Ima nečeg tamo. Malo hrane... Možda mleka u prahu...</text>
+	</string>
+	<string id="mil_cook_common4_406">
+		<text>Kako da stignem tamo?</text>
+	</string>
+	<string id="mil_cook_common4_407">
+		<text>Šta? Čekaj. Daj da razmislim... Ne, gledaj, koj ti to kurac treba? Opusti se... Sedi... Ajde da zapalimo po jednu?</text>
+	</string>
+	<string id="mil_cook_common4_408">
+		<text>Moram da stignem do tog sela.</text>
+	</string>
+	<string id="mil_cook_common4_409">
+		<text>Dobro ajde... Sedimo malo, zapalimo po neku.. Onda idemo... Povešću te tamo. Nema problema.</text>
+	</string>
+	<string id="mil_cook_common4_410">
+		<text>Nemoj da se cimaš toliko. Reci mi samo kako da stignem tamo.</text>
+	</string>
+	<string id="mil_cook_common4_411">
+		<text>Važi... Ej, pa baš me izazivaš! Ići ćemo zajedno za koj minut. Sedni malo odmori, OK, pa onda...</text>
+	</string>
+	<string id="mil_cook_common5_0">
+		<text>Slušaj, jel' znaš gde bih mogao da nabavim neku opremu?</text>
+	</string>
+	<string id="mil_cook_common5_501">
+		<text>Oprema? Je li brate, jel' ti to neki šifrovan razgovor?!</text>
+	</string>
+	<string id="mil_cook_common5_502">
+		<text>Oprema. Oružje. Artefakti.</text>
+	</string>
+	<string id="mil_cook_common5_503">
+		<text>Oružje... Ne... Moj nož... Hoćeš moj nož? Ne? Da... Artefakti. Ma koj će ti? Polako. Ajde, sedi. Zapali jednu samnom. Da popričamo... O artefaktima...</text>
+	</string>
+	<string id="mil_cook_common5_504">
+		<text>Gde mogu da nađem artefakte u ovom regionu?</text>
+	</string>
+	<string id="mil_cook_common5_505">
+		<text>Ništa lakše! Artefakti... Ovde ih ima koliko hoćeš! Znaš za onu radioaktivnu močvaru? Ne? Nema veze. Eto tamo. Mislim, artefakti. Tamo su. Šta se samo koprcaš. Uspori malo. A? Artefakti... He-he-he... Artefakti-smartefakti...</text>
+	</string>
+	<string id="mil_cook_common6_0">
+		<text>Važi. Čuvaj se.</text>
+	</string>
+	<string id="mil_cook_common6_601">
+		<text>Ma ja hoću, nego sedi malo, kad si već tu.</text>
+	</string>
+	<string id="mil_cook_common6_602">
+		<text>Moram da idem.</text>
+	</string>
+	<string id="mil_cook_common6_603">
+		<text>A? Ma dobro... Opušteno... OK? Zatvori vrata kad iziđem, moram da idem... Ta-da-da-da...</text>
+	</string>
+	<string id="mil_cook_dialog_0">
+		<text>Hajde, sedi! Da se zezamo malo...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_0">
+		<text>Da popijemo po neku?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_1">
+		<text>Može bato, sipaj!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_2">
+		<text>Eh, pa... Živeli!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_3">
+		<text>Uffff, ta je bila dobra! Drži flašu... Ima još malo.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_4">
+		<text>Može po još jedna?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_5">
+		<text>Ahhhh... Ekstra! E jebiga, flaša je već prazna. Imaš još?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_6">
+		<text>Daj da pogledam.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_0">
+		<text>Da, evo. Nategni jako.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_1">
+		<text>He-he... To je bilo lepo! Vidi, vidi ima još. Odakle ih samo izvlačiš?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_2">
+		<text>Ti, umm... Samo napred. Nisam baš ispraksan u poslednje vreme.</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_3">
+		<text>Za našu pobedu! Yeaaahh... Ahhh, dobra stara vremena!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_4">
+		<text>Da... Za našu pobedu!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_5">
+		<text>Ajde, ajde, ajmo još... Jel' imaš... Još neku, huh?</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_6">
+		<text>Daj da vidim...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_0">
+		<text>OK... Još samo ova, uredu?... Dosta mi je za večeras...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_1">
+		<text>Daj to ovv-ammo!</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_2">
+		<text>Uh... Pogledaj se... Jel' si sve to sam popio?...</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_3">
+		<text>Hik! Tooo ti je, brate, samo... Dnno! Mmmm... Hhhhhm...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_0">
+		<text>Čuo sam da Fridom ima Buldog 6. Baš bih voleo da vidim kako to čudo izgleda.</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_1">
+		<text>Na šta ciljaš? Ti bi da ja... Da ti kažem... Ma zajebi čoveče?.. Za kakvu me ti budalu smatraš?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_2">
+		<text>Smiri se! Nisma znao da su stvari tako ozbiljne.</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_3">
+		<text>Da ti nije palo na pamet da se raspituješ za naša oružja, jasno? Ko si ti uopšte? Nisam te ranije viđao!</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_4">
+		<text>Ee, polako! Samo sam te pitao nešto...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_5">
+		<text>Pssst! Ali da budeš pažljiv, važi?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_6">
+		<text>Dogovoreno.</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_0">
+		<text>Ja, umm... Ahem... Sam čuo da imate Buldog 6... Zanima me samo kako to izgleda? Samo na trenutak... Šta kažeš? Nabrzaka...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_1">
+		<text>Štaa?... Ti, umm... Bih da... Uuu, jebem ti život... zaboravio sam! Šta si me ono pitao?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_2">
+		<text>Bac...coc...granat... Jebem ti! Ba-cač gran-ata... Hteo bih... Da pogledam!</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_3">
+		<text>Nee... To ne može... Može bilo šta, prijatelju, ali to ne... Nema šanse!</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_4">
+		<text>Umm, ok...ja, umm... Nisam mislio ništa loše! Samo pitam...</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_0">
+		<text>Hik! Buldog 6, a?</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_1">
+		<text>Št-šta?.. Oh! Pa, eno... Eno ga u selu! Pre smo imali...dva...ali one...r-retarde! Ga izgubile... Moroni!</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_2">
+		<text>Stv-stvarno? Hehe, koji...moroni...</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_100">
+		<text>Zdravo, brate. Ja sam Djutijevac, ovde smo po zadatku. Hoćeš da nam se pridružiš?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1001">
+		<text>Nisam zainteresovan.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1002">
+		<text>Onda nam se skloni sa puta.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_101">
+		<text>Pa mogao bih.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_102">
+		<text>Odlično. Eno su, tamo iza brda, tamo se kote ti pederi - oni "Slobodni" znaš - ja i moji ortaci smo mislili da navratimo do njih da napravimo pičvajz. Međutim imamo problem. Ta kasarna ima samo jedan ulaz, i to dobro čuvan. Pokušavali smo da probijemo ogradu, ali nas onaj snajperista u kuli sprečava. Ne bih želeo da neki moj ortak popije njegov metak... Međutim ti - pustiće te da mu priđeš, neće odmah zapucati. Ako ga smakneš, biću ti dužnik. Plus, ako uspemo da se probijemo do kraja, moći ćeš da pokupiš svu opremu iz logora, šta god ti treba.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_103">
+		<text>Nastavi.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_104">
+		<text>Pa malo pre sam ti rekao: sve što trebaš da uradiš je da smakneš onog snajperistu u kuli. Pa, šta kažeš?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1041">
+		<text>Ne, nisam još spreman.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1042">
+		<text>Onda se ne mešaj.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_105">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1051">
+		<text>Super! Čim ga smakneš, mi počinjemo sa vatrometom.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_106">
+		<text>Imamo problem. Pošto kasarna ima samo jedan ulaz, i to dobro čuvan, mislili smo da napravimo još jedan, ali...</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_107">
+		<text>Šta, ali?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_108">
+		<text>Poslao sam jednog borca da raznese ogradu. Ili je njihov snajperista mnogo dobar strelac ili nam nije baš dobar dan, pa je moj čovek poginuo. Sad nam je eksploziv na ogradi, ali ne možemo da ga aktiviramo.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_109">
+		<text>Zašto?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_110">
+		<text>Ne bih želeo da neki moj ortak popije njegov metak... Međutim, ti - pustiće te da mu priđeš, neće odmah zapucati. Šta kažeš?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_111">
+		<text>Koliko ću biti plaćen za ovo?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_112">
+		<text>Našli smo zajednički jezik. 2000 za snajperistu, plus svu onu opremu iz kasarne. Biće puno leševa, to ti obećavam. Pomoći ćeš i sebi i nama. Šta kažeš?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_120">
+		<text>Dogovoreno.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_121">
+		<text>Aj, pa nek ti bude sa srećom.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_130">
+		<text>Prvo hoću da izvidim situaciju, onda ću da vam javim.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_131">
+		<text>Čekaćemo. Ali ne dugo.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_200">
+		<text>Hvala na pomoći, Obeleženi. Izvoli nagradu.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_201">
+		<text>Hvala.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_300">
+		<text>Dogovorili smo se, zar ne?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_400">
+		<text>Smaknuo si im snajperistu. Izvoli nagradu.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_401">
+		<text>Razumem.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_402">
+		<text>E sad se skloni, molim lepo? Treba da se pripremimo...</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_403">
+		<text>OK.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_411">
+		<text>Drugi put.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_412">
+		<text>Kako hoćeš.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_413">
+		<text>Vidimo se.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_420">
+		<text>Da nastavimo?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_421">
+		<text>Šta tačno?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_450">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_451">
+		<text>Planirali smo da raznesemo ogradu i otpočnemo operaciju. Vidim da si dobar strelac - možda bih mogao da se postaraš za njihove snajperiste na tornjevima? Kad se otarasimo snajperista, biće nam lakše da priđemo onom pederu Lukašu.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_501">
+		<text>Jesi skinuo snajperistu?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_502">
+		<text>Da.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_503">
+		<text>Svaka čast! Olakšao si nam posao... Evo mala nagrada za troj trud.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_504">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_506">
+		<text>Šta trebam da uradim?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_507">
+		<text>Eliminiši one snajperiste na tornjevima dok mi likvidiramo pešadiju na zemlji. Vidim nisi loš sa oružjem.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5070">
+		<text>Drugi put.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5071">
+		<text>Pa, sam prosudi. Neću da te teram.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_508">
+		<text>Dogovoreno.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5080">
+		<text>Odlično, idemo.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_601">
+		<text>Ne mešaj se, Obeleženi.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_602">
+		<text>OK.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_701">
+		<text>Idi ti svojim putem.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_702">
+		<text>OK.</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_801">
+		<text>Šta sad?</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_802">
+		<text>Ništa.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_0">
+		<text>Tri budale manje, dva kila leba više! Stigao si u pravi trenutak: nisi nam odao poziciju i izišao si neozleđen. Nego slušaj, smatram da niko sem nas ne bi trebao da zna šta se dogodilo, važi?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_1">
+		<text>Slažem se.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_2">
+		<text>Odlično. Nego, je si voljan da zaradiš, stalkeru?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_20">
+		<text>Teško je reći.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_21">
+		<text>Šta, tebi se ne živi više?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_22">
+		<text>Ne.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_3">
+		<text>Tako nešto.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_30">
+		<text>Možda.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_4">
+		<text>Onda aj za nama, da popričaš sa našim komandirom.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_5">
+		<text>Komandir?</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_6">
+		<text>Naravno. Lobanja će ti sve sam objasniti.</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_7">
+		<text>OK.</text>
+	</string>
+	<string id="mil_freedom_commander_1001">
+		<text>Šta ima, stalkeru! Stigao si u pravi čas. Branimo se od Monolit manijaka, pristiže im sledeći napad! Da ne veruješ, malo pre nam smaknuli snajperistu! Hoćeš li nam pomoći? Platićemo ti posle sukoba - nećeš zažaliti!</text>
+	</string>
+	<string id="mil_freedom_commander_10011">
+		<text>Ne, ne mogu da vam pomognem.</text>
+	</string>
+	<string id="mil_freedom_commander_10012">
+		<text>Šteta. Vrati se ako se predomisliš.</text>
+	</string>
+	<string id="mil_freedom_commander_1002">
+		<text>Hoću.</text>
+	</string>
+	<string id="mil_freedom_commander_1003">
+		<text>Odlično! Idi do tornja, tamo je snajperska puška i municija. Poskidaj ih odatle i nemoj da silaziž, da te ne bi pogodio neki naš strelac. Da li ti je zadatak jasan?</text>
+	</string>
+	<string id="mil_freedom_commander_1004">
+		<text>Jasno kao dan.</text>
+	</string>
+	<string id="mil_freedom_commander_1005">
+		<text>Tako i treba. Pričaćemo ujutru. O, i nemoj da se udaljavaš... Da ne bi pomislio da si odlučio da bežiš. A to bi značilo znaš-šta, imaj to na umu! Sad, piči na poziciju.</text>
+	</string>
+	<string id="mil_freedom_commander_1007">
+		<text>Tako je. Dobro, ajmo na posao. Monolit jedinica će verovatno pokušati da se probije ovde. Znači, biće žestoko, vrlo uskoro.</text>
+	</string>
+	<string id="mil_freedom_commander_1008">
+		<text>Razumem.</text>
+	</string>
+	<string id="mil_freedom_commander_1009">
+		<text>U pravu si. Nadam se da ih neće biti previše...</text>
+	</string>
+	<string id="mil_freedom_commander_1010">
+		<text>Gde je moja pozicija?</text>
+	</string>
+	<string id="mil_freedom_commander_1011">
+		<text>Idi do tornja, tamo je snajper i municija. Moći ćeš da ih skidaš odatle, ali nemoj da silaziš - da te ne bi mi pogodili. Jel ti jasan zadatak?</text>
+	</string>
+	<string id="mil_freedom_commander_1012">
+		<text>Da.</text>
+	</string>
+	<string id="mil_freedom_commander_2001">
+		<text>Zauzmi svoju poziciju jer kasnije nećeš imati vremena!</text>
+	</string>
+	<string id="mil_freedom_commander_3001">
+		<text>Izgleda da smo ih sprečili da se probiju. Dosta za danas. Hvala na pomoći! Drži, evo to - malo novca da te razveseli.</text>
+	</string>
+	<string id="mil_freedom_commander_3002">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="mil_freedom_commander_3003">
+		<text>Sa srećom, Obeleženi!</text>
+	</string>
+	<string id="mil_freedom_commander_4001">
+		<text>Ej, Obeleženi! Jel' te Lukaš šalje?</text>
+	</string>
+	<string id="mil_freedom_commander_4002">
+		<text>Da. Zamolio me da vam pomognem.</text>
+	</string>
+	<string id="mil_freedom_commander_4003">
+		<text>Stigao si u pravi čas. Branimo se od Monolit manijaka, pristiže im sledeći napad! Da ne veruješ, malo pre nam smaknuli snajperistu! Hoćeš li nam pomoći? Platićemo ti posle sukoba - nećeš zažaliti!</text>
+	</string>
+	<string id="mil_freedom_commander_5001">
+		<text>Izgleda da smo ih sprečili da se probiju. Dosta za danas. Hvala na pomoći! Drzi, evo to - malo novca da te razveseli.</text>
+	</string>
+	<string id="mil_freedom_commander_5002">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="mil_freedom_commander_5003">
+		<text>Sa srećom, Obeleženi.</text>
+	</string>
+	<string id="mil_freedom_commander_common2_0">
+		<text>Kakvo je ovo mesto?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_1">
+		<text>Ovo ti je Barijera. To ti je u osnovi granica. Poslednja normalna predstraža sa ove strane centra. Ovo ti je na neki način uporište, znaš, između naroda i divljine.</text>
+	</string>
+	<string id="mil_freedom_commander_common2_2">
+		<text>Šta ima dalje iza Barijere?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_3">
+		<text>Samo smrt... Ili služba Monolitu. "Našem Monolitu! U tvoje ime mi..." Jebeš! Ukratko, niko ne bi trebao da ide tamo. Zato smo mi stacionirani ovde, pazimo da to ludilo ne preplavi Zonu. Kao džedaji, hehe. Tako je hapsimo budale - ili bar pokušavamo da ih sprečimo da se prošunjaju do Centra.</text>
+	</string>
+	<string id="mil_freedom_commander_common2_4">
+		<text>Pa zašto to radite?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_5">
+		<text>Pa ko drugi? Djuti? Oni su stručnjaci u istrebljivanju mutanata i likvidiranju nepoželjnih stalkera, ali probaj da ih nateraš da urade nešto korisno! Da li ih vidiš ovde? Ne? O tome ti pričam. Mi, sa druge strane, ne pokušavamo da istrebimo živi svet u zoni. Barijera, samo Barijera - i to je dosta. Samo da niko ne pređe preko granice...</text>
+	</string>
+	<string id="mil_freedom_commander_common2_6">
+		<text>A šta ako neko to uradi?</text>
+	</string>
+	<string id="mil_freedom_commander_common2_7">
+		<text>Svašta može da se desi. Svašta. Neću da pričam o tome...</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_1000">
+		<text>Stoj! Pristup oružarnici je dozvoljen samo pripadnicima Fridoma.</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2000">
+		<text>Izvoli, možeš da uđeš u oružarnicu. Samo što imamo mali problem...</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2001">
+		<text>Kakav sad problem!?</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2002">
+		<text>Opusti se, ništa strašno. Zaglavio se katanac, to je sve. Ako baš ne možeš da čekaš, razvali ga, zameniću ga kasnije.</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2003">
+		<text>Dobro.</text>
+	</string>
+	<string id="mil_hunter_dialog_1">
+		<text>Škrti me je poslao da istrebim krvopije.</text>
+	</string>
+	<string id="mil_hunter_dialog_101">
+		<text>Pa, stalkeru, šta te dovodi do ovog mračnog mesta? Moj savet ti je da begaš odavde dok još imaš glavu na ramenima!</text>
+	</string>
+	<string id="mil_hunter_dialog_2">
+		<text>Ahh, pa to je već druga priča... Đavo će ga znati šta se ovde zbiva! Par naših boraca je ušlo u selo i nismo ih videli od tad. Jebeš ti to, nama se ne umire još! Sedimo ovde, pokušavamo da odlučimo šta dalje.</text>
+	</string>
+	<string id="mil_hunter_dialog_201">
+		<text>Ej, brate, baš si se istripovao sinoć!</text>
+	</string>
+	<string id="mil_hunter_dialog_202">
+		<text>Šta to treba da znači?</text>
+	</string>
+	<string id="mil_hunter_dialog_203">
+		<text>Mi smo sedeli ovde kulirali, kad odjednom ti uleti pijan k'o letva! Ulaziš pravo u selo, pravo prema Krvopijama! Dobro je da smo te zaustavili, pustili smo te da odspavaš.</text>
+	</string>
+	<string id="mil_hunter_dialog_204">
+		<text>A šta vi radite ovde?</text>
+	</string>
+	<string id="mil_hunter_dialog_205">
+		<text>Đavo će ga znati šta se ovde zbiva! Par naših boraca je ušlo u selo i nismo ih videli od tad. Jebeš ti to, nama se ne umire još! Sedimo ovde, pokušavamo da odlučimo šta dalje.</text>
+	</string>
+	<string id="mil_hunter_dialog_3">
+		<text>Dali si video Krvopije?</text>
+	</string>
+	<string id="mil_hunter_dialog_301">
+		<text>Pa? Kako je bilo?</text>
+	</string>
+	<string id="mil_hunter_dialog_302">
+		<text>Istrebio sam ih.</text>
+	</string>
+	<string id="mil_hunter_dialog_303">
+		<text>Vidi ti to! Kakav čovek! Pazi sad, pošto si preživeo, ti častiš sledeću turu!</text>
+	</string>
+	<string id="mil_hunter_dialog_304">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="mil_hunter_dialog_4">
+		<text>Ne. Naši borci su trebali da odu do vodenog tornja, tamo su verovatno i poginuli. Pa, ako si se dogovorio sa Cicijom, idi tamo i izvidi situaciju... Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
+	</string>
+	<string id="mil_hunter_dialog_401">
+		<text>Šta lutaš okolo kao duh?</text>
+	</string>
+	<string id="mil_hunter_dialog_402">
+		<text>Samo razgledam.</text>
+	</string>
+	<string id="mil_hunter_dialog_5">
+		<text>Deluješ mi baš velikodušno... Dobro ići ću.</text>
+	</string>
+	<string id="mil_hunter_dialog_501">
+		<text>Šta te dovodi ovde?</text>
+	</string>
+	<string id="mil_hunter_dialog_502">
+		<text>Samo razgledam.</text>
+	</string>
+	<string id="mil_hunter_dialog_503">
+		<text>Pa zar nisi mogao da nađeš neko bolje mesto? Ovo ti je najusranije mesto u čitavoj Zoni...</text>
+	</string>
+	<string id="mil_hunter_dialog_504">
+		<text>Šta je to toliko loše ovde?</text>
+	</string>
+	<string id="mil_hunter_dialog_505">
+		<text>Đavo će ga znati! Čitavo selo ti je veliko leglo Krvopija. Par naših boraca je ušlo u selo i nismo ih videli od tad. Jebeš ti to, nama se ne umire još! Sedimo ovde, pokušavamo da odlučimo šta dalje.</text>
+	</string>
+	<string id="mil_hunter_dialog_506">
+		<text>Znači ni sami ne znate u čemu je stvar?</text>
+	</string>
+	<string id="mil_hunter_dialog_507">
+		<text>Baš tako! Ako nemaš pametnija i ako nisi baš pri čistoj svesti, možeš da prošetaš kroz selo. Ako pobiješ te stvorove, Škrti će ti sigurno dati nešto gratis sa police. Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
+	</string>
+	<string id="mil_hunter_dialog_508">
+		<text>OK, idem da izvidim selo.</text>
+	</string>
+	<string id="mil_hunter_dialog_601">
+		<text>Da nisi možda prošao kroz selo?</text>
+	</string>
+	<string id="mil_hunter_dialog_602">
+		<text>Jesam.</text>
+	</string>
+	<string id="mil_hunter_dialog_603">
+		<text>Par naših boraca je ušlo u selo i nismo ih videli od tad. Da ih nisi video možda?</text>
+	</string>
+	<string id="mil_hunter_dialog_604">
+		<text>Ne, nisam. Bilo je samo nekih leševa.</text>
+	</string>
+	<string id="mil_hunter_dialog_605">
+		<text>A Krvopije, si video njih?</text>
+	</string>
+	<string id="mil_hunter_dialog_606">
+		<text>Da. Eno idi pogledaj sam, bezbedno je - pobio sam ih.</text>
+	</string>
+	<string id="mil_hunter_dialog_607">
+		<text>Au! Dobar si borac! Znaš šta... Odi do Cicije, on ti je u kasarni. Platiće ti za ovo.</text>
+	</string>
+	<string id="mil_hunter_dialog_7">
+		<text>OK, idem da proverim.</text>
+	</string>
+	<string id="mil_hunter_dialog_701">
+		<text>Pa? Šta se desilo?</text>
+	</string>
+	<string id="mil_hunter_dialog_702">
+		<text>Pobio sam te zveri.</text>
+	</string>
+	<string id="mil_hunter_dialog_703">
+		<text>Au, dobro si se pokazao! Znaš šta... Odi do Cicije, on ti je u kasarni. Platiće ti za ovo.</text>
+	</string>
+	<string id="mil_hunter_dialog_704">
+		<text>Hoću.</text>
+	</string>
+	<string id="mil_hunter_dialog_80">
+		<text>OK, sat god...</text>
+	</string>
+	<string id="mil_hunter_dialog_801">
+		<text>Šta te dovodi ovde?</text>
+	</string>
+	<string id="mil_hunter_dialog_802">
+		<text>Došao sam samo da razgledam...</text>
+	</string>
+	<string id="mil_hunter_dialog_803">
+		<text>Pa zar nisi mogao da nađeš neko bolje mesto? Ovo ti je najusranije mesto u čitavoj Zoni...</text>
+	</string>
+	<string id="mil_hunter_dialog_804">
+		<text>Šta fali ovom mestu?</text>
+	</string>
+	<string id="mil_hunter_dialog_805">
+		<text>Đavo će ga znati! Čitavo selo ti je veliko leglo Krvopija. Par naših boraca je ušlo u selo i nismo ih videli od tad. Jebeš ti to, nama se ne umire još!</text>
+	</string>
+	<string id="mil_hunter_dialog_806">
+		<text>Znači ni sami ne znate u čemu je stvar?</text>
+	</string>
+	<string id="mil_hunter_dialog_807">
+		<text>Baš tako! Ako nemaš pametnija i ako nisi baš pri čistoj svesti, možeš da prošetaš kroz selo. Ako pobiješ te stvorove, Škrti će ti sigurno dati nešto gratis sa police. Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
+	</string>
+	<string id="mil_hunter_dialog_808">
+		<text>Dobro, idem da izvidim situaciju.</text>
+	</string>
+	<string id="mil_hunter_dialog_901">
+		<text>Pa? Kako je bilo?</text>
+	</string>
+	<string id="mil_hunter_dialog_902">
+		<text>Istrebio sam ih.</text>
+	</string>
+	<string id="mil_hunter_dialog_903">
+		<text>Čoveče, dobar si borac! Čestitam! A najbolja stvar u tome je, da si još živ...</text>
+	</string>
+	<string id="mil_hunter_dialog_904">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="mil_leader_start_dialog_10001">
+		<text>Pošto si pomogao našim momcima na Barijeri, možeš da očekuješ dobrodošlicu na našoj teritoriji, kao i našu pomoć. O da, i moju ličnu zahvalnost - u obliku finansijske pomoći - od sad pa nadalje, ti si član naše grupe.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1001">
+		<text>Zdravo, stalkeru. Šta ti treba?</text>
+	</string>
+	<string id="mil_leader_start_dialog_10011">
+		<text>Ama baš ništa.</text>
+	</string>
+	<string id="mil_leader_start_dialog_10012">
+		<text>Dobro, onda ajde razlaz, OK? Vreme je novac.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1100">
+		<text>Primetio sam odred Djuti boraca nedaleko odavde, odsedaju u štali. Osmorica otprilike, i to u punoj ratnoj opremi.</text>
+	</string>
+	<string id="mil_leader_start_dialog_11001">
+		<text>Što si pobegao sa Barijere? Skanjam mi se sa očiju neću da te vidim više ovde.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1101">
+		<text>Mamicu im njihovu, ti majmuni nikako da se smire! Dobro, "smiriću" ih ja. Nego, stalkeru, hoćeš li nam pomoći? Platiću ti. Popričaj sa Maksom, on je šef. Vas dvojica skupite ekipu i rešite ovaj problem.</text>
+	</string>
+	<string id="mil_leader_start_dialog_11011">
+		<text>OK.</text>
+	</string>
+	<string id="mil_leader_start_dialog_11012">
+		<text>Sa srećom, stalkeru.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1200">
+		<text>Već sam se postarao za njih.</text>
+	</string>
+	<string id="mil_leader_start_dialog_12001">
+		<text>Pa, znači ovako, nisi se rešio cinkaroša i nisi uspeo da odbraniš Barijeru? Nosi se odavde i da ti nije palo na pamet da dolaziš!</text>
+	</string>
+	<string id="mil_leader_start_dialog_1210">
+		<text>Stvarno? Koliko si rekao da ih ono bilo?</text>
+	</string>
+	<string id="mil_leader_start_dialog_1221">
+		<text>Osmorica.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1222">
+		<text>Brz si ti, stalkeru... OK, pa, onda ti nebi bio problem da nam pomogneš oko nečeg drugog? Sramota me je da priznam ali imamo izdajnika među nama. Zove se Pavlik. Odaje važne informacije i mora biti zaustavljen.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1223">
+		<text>Na koj način?</text>
+	</string>
+	<string id="mil_leader_start_dialog_1300">
+		<text>Moraš da ga odpratiš do farme i otkriješ kome cinkari. On ne zna za tebe, kao ni za ovaj razgovor, pa...</text>
+	</string>
+	<string id="mil_leader_start_dialog_13001">
+		<text>Misliš da imam posla za tebe?</text>
+	</string>
+	<string id="mil_leader_start_dialog_13002">
+		<text>Možda.</text>
+	</string>
+	<string id="mil_leader_start_dialog_13003">
+		<text>Imamo cinkaroša u našim redovima, zove se Pavlik. Odaje vrlo važne podatke. To znamo sigurno, ali nemamo dokaza. Zadatak ti je da ga pratiš i otkriješ kome se poveruje. Imaće večeras sastanak. Pažljivo ga prati. I pazi da te ne primeti - vrlo je obazriv. Kad saznaš za koga radi, smakni ih obojicu, za svaki slučaj.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1301">
+		<text>Učiniću to.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1302">
+		<text>Imamo cinkaroša u našim redovima, zove se Pavlik. Odaje vrlo važne podatke. To znamo sigurno, ali nemamo dokaza. Zadatak ti je da ga pratiš i otkriješ kome se poveruje. Imaće večeras sastanak. Pažljivo ga prati. I pazi da te ne primeti - vrlo je obazriv. Kad saznaš za koga radi, smakni ih obojicu, za svaki slučaj.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1391">
+		<text>Ne, ne mogu sad.</text>
+	</string>
+	<string id="mil_leader_start_dialog_14001">
+		<text>Ima nešto što sam hteo da te pitam.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1500">
+		<text>Malo pre je otišao, moraćeš da ga stigneš. Zapamti: možeš i moraš da ga smakneš, ali tek pošto se pojavi agent. Moraćeš i agenta da ubiješ.</text>
+	</string>
+	<string id="mil_leader_start_dialog_1501">
+		<text>Razumem.</text>
+	</string>
+	<string id="mil_leader_start_dialog_2001">
+		<text>Rekao sam ti već idi popričaj sa Maksom.</text>
+	</string>
+	<string id="mil_leader_start_dialog_3001">
+		<text>Zadatak je izvršen... Vrlo dobro. Imam još jednu za tebe!</text>
+	</string>
+	<string id="mil_leader_start_dialog_3002">
+		<text>Hmm... U čemu je problem?</text>
+	</string>
+	<string id="mil_leader_start_dialog_30021">
+		<text>Nažalost imamo izdajnika među nama. Zove se Pavlik. Odaje vrlo važne podatke i mora biti zaustavljen.</text>
+	</string>
+	<string id="mil_leader_start_dialog_3003">
+		<text>Tako je. Trebalo bi da ode na sastanak negde oko 22:00-23:00. Biće mračno, da ga niko ne bi video, a ni noćne zveri neće biti još aktivne. Idi sad, stalkeru. Kad izvršiš zadatak, postaćeš naš član. Ali zapamti, moras zateći izdajnika na delu! I moraš ga likvidirati tokom sastanka, u suprotnom se zadatak smatra neuspešnim.</text>
+	</string>
+	<string id="mil_leader_start_dialog_4001">
+		<text>Još uvek si ovde?</text>
+	</string>
+	<string id="mil_leader_start_dialog_5001">
+		<text>Vrlo dobro, Obeleženi! Evo, izvoli... Tvoja isplata. Uvek si dobrodošao na našoj teritoriji, i možeš očekivati našu pomoć. Nego što, ima još nešto što bih te zamolio da nam pomogneš. Ako nisi mnogo umoran?</text>
+	</string>
+	<string id="mil_leader_start_dialog_5002">
+		<text>Šta tačno trebam da uradim?</text>
+	</string>
+	<string id="mil_leader_start_dialog_5003">
+		<text>Ako smatraš da si sposoban odi do Barijere na granici sa Crvenom Šumom. Pristigli su nam izveštaji da ili mutanti ili Monolit borci planiraju proboj. U tom slučaju onim momcima će trebati pomoć.</text>
+	</string>
+	<string id="mil_leader_start_dialog_5004">
+		<text>Ako se osećaš jakim, pokušaj prokrijumčariti kutiju dinamita iz Kordona. Smislili smo jednu akciju: želimo urušiti(ili probiti???) tajni prolaz u Mračnoj Dolini... Pomozi nam i možeš ga koristiti... Onda?</text>
+	</string>
+	<string id="mil_leader_start_dialog_50042">
+		<text>Ne mogu, imam još nekog nedovršenog posla.</text>
+	</string>
+	<string id="mil_leader_start_dialog_50041">
+		<text>Interesantno, pokušaću doneti. Sačekajte.</text>
+	</string>
+	<string id="mil_leader_start_dialog_6001">
+		<text>Opusti se. Za sad nema posla</text>
+	</string>
+	<string id="mil_leader_start_dialog_7001">
+		<text>Da, zajeb'o si se na onom prošlom zadatku... Jebi ga. Nema veze, imaš još jednu priliku!</text>
+	</string>
+	<string id="mil_leader_start_dialog_7002">
+		<text>Kakvu priliku?</text>
+	</string>
+	<string id="mil_leader_start_dialog_7003">
+		<text>Neke stvari ukazuju da ce Monolit jedinice pokušati da upadnu na našu teritoriju iz Crvene Šume. Otići ćeš do Kepa - on je komandir na Barijeri - vidi da li mu treba pojačanje. Doduše, očigledno je da mu treba...</text>
+	</string>
+	<string id="mil_leader_start_dialog_7004">
+		<text>OK, učiniću to.</text>
+	</string>
+	<string id="mil_leader_start_dialog_7006">
+		<text>Ne, ne mogu baš sad.</text>
+	</string>
+	<string id="mil_leader_start_dialog_7007">
+		<text>Pomisli na one momke tamo, biće pobijeni! Vidiš, osim tebe ja nikog drugog ne mogu da pošaljem... Nikog.</text>
+	</string>
+	<string id="mil_leader_start_dialog_8001">
+		<text>Nisi izvrsio zadatak, tako da možemo da zaboravimo na dokumentaciju. Nemam koristi od takvih gubitnika kao ti.</text>
+	</string>
+	<string id="mil_leader_start_dialog_8004">
+		<text>Pa dobro, sjebo si se na zadatku... Jebi ga. Nema veze, ipak si pomogao našim momcima na Barijeri, Možeš se odmarati na našoj teritoriji. A ako ti nešto zatreba, pomoći ćemo ti.</text>
+	</string>
+	<string id="mil_leader_start_dialog_8005">
+		<text>Imaš li posla za mene?</text>
+	</string>
+	<string id="mil_leader_start_dialog_8006">
+		<text>Ne sad.</text>
+	</string>
+	<string id="mil_leader_start_dialog_9001">
+		<text>Rekao sam ti već - odi do Barijere.</text>
+	</string>
+	<string id="mil_max_dialog_10001">
+		<text>Pričaćemo kad pobijemo one Djuti džukele.</text>
+	</string>
+	<string id="mil_max_dialog_10002">
+		<text>OK.</text>
+	</string>
+	<string id="mil_max_dialog_1001">
+		<text>Lukaš kaže da ćeš nam pomoći. Gde si ih video... Kod štale?</text>
+	</string>
+	<string id="mil_max_dialog_1100">
+		<text>Ne.</text>
+	</string>
+	<string id="mil_max_dialog_1101">
+		<text>E jebi ga... Djutiju opet padaju gluposti na pamet! Pa dobro. Pođi sa nama, hoćeš li?</text>
+	</string>
+	<string id="mil_max_dialog_1102">
+		<text>OK.</text>
+	</string>
+	<string id="mil_max_dialog_1200">
+		<text>Da.</text>
+	</string>
+	<string id="mil_max_dialog_1201">
+		<text>Jel' ih ima mnogo?</text>
+	</string>
+	<string id="mil_max_dialog_1210">
+		<text>Ne znam zasigurno. Mislim da ih nema previše.</text>
+	</string>
+	<string id="mil_max_dialog_1220">
+		<text>Oko šest do osam boraca. Dobro opremljenih.</text>
+	</string>
+	<string id="mil_max_dialog_2001">
+		<text>Idi do Lukaša.</text>
+	</string>
+	<string id="mil_max_dialog_3001">
+		<text>Imaš li pitanja?</text>
+	</string>
+	<string id="mil_max_dialog_3002">
+		<text>Imam. Lukaš mi je naredio da presretnem Djuti kurira na putu od Crvene Šume do Mrtvog Grada. Gde bih bilo najbolje mesto da ga sačekam?</text>
+	</string>
+	<string id="mil_max_dialog_3003">
+		<text>Hmm. Najbolje je da ga uhvatiš pre nego stigne do farme blizu prolaza u Mrtvi grad. Pojačanje će ga sigurno tamo čekati, pa ćeš imati posla još i sa njima. Plus, taj put kroz selo je isto loša stvar. Bolje idi istočno od sela, al brzo.</text>
+	</string>
+	<string id="mil_max_dialog_3004">
+		<text>Šta ima tamo u selu?</text>
+	</string>
+	<string id="mil_max_dialog_3005">
+		<text>Veruj mi - ništa dobro. Čitav čopor čudovišta i anomalija. Pričaću ti posle.</text>
+	</string>
+	<string id="mil_max_dialog_4001">
+		<text>Da li treba da ti čestitam?</text>
+	</string>
+	<string id="mil_max_dialog_4002">
+		<text>Da.</text>
+	</string>
+	<string id="mil_max_dialog_4003">
+		<text>Vidim ja da si ti pravi tip za ovakve poslove! Ako bih mogao da odradiš još jedan poslić za mene? Ako ga odradiš daću ti moj pištolj. Odličan komad, a kako tek gruva!</text>
+	</string>
+	<string id="mil_max_dialog_4004">
+		<text>Ali šta ja trebam da radim?</text>
+	</string>
+	<string id="mil_max_dialog_4005">
+		<text>Ima jedan lik koji se krije u močvari. Videli su ga moji momci kako se mota tamo. Video je nešto i od tad nije baš normalan. Puca na sve sto vidi. Moraš da otkriješ šta je to on video, zato što se moji momci plaše da uđu u selo.</text>
+	</string>
+	<string id="mil_max_dialog_40051">
+		<text>Ne, ne ovaj put.</text>
+	</string>
+	<string id="mil_max_dialog_400511">
+		<text>Pa, kako hoćeš.</text>
+	</string>
+	<string id="mil_max_dialog_40052">
+		<text>Izvoli fleš memoriju od onog manijaka.</text>
+	</string>
+	<string id="mil_max_dialog_400521">
+		<text>E, hvala, stalkeru! Izvoli pištolj - zaslužio si ga.</text>
+	</string>
+	<string id="mil_max_dialog_400522">
+		<text>Imaš li municije za njega?</text>
+	</string>
+	<string id="mil_max_dialog_400523">
+		<text>To što ima u okviru. Žalim, imam samo to. Poseti Ciciju, možda ima on.</text>
+	</string>
+	<string id="mil_max_dialog_4006">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="mil_max_dialog_4007">
+		<text>Sa srećom, onda. Ne zaboravi - tamo ima i minsko polje, koristi šarafe da ih zaobiđeš.</text>
+	</string>
+	<string id="mil_max_dialog_5001">
+		<text>Pa, šta si otkrio? Šta se desilo sa onim luđakom?</text>
+	</string>
+	<string id="mil_max_dialog_5002">
+		<text>Evo ti fleš memorija - uzeo sam on tog luđaka.</text>
+	</string>
+	<string id="mil_max_dialog_6001">
+		<text>Šta, već?</text>
+	</string>
+	<string id="mil_max_dialog_7001">
+		<text>Šta želiš da znaš?</text>
+	</string>
+	<string id="mil_max_dialog_8001">
+		<text>Šta ima, stalkeru! Treba ti nešto?</text>
+	</string>
+	<string id="mil_max_dialog_8002">
+		<text>Ovde sam poslom. Kako da stignem do tvog šefa?</text>
+	</string>
+	<string id="mil_max_dialog_8003">
+		<text>Tražiš Lukaša - on je nas vođa. Idi do glavne zgrade.</text>
+	</string>
+	<string id="mil_max_dialog_9001">
+		<text>Ah vidim snašao si se. Daj dokumentaciju Lukašu.</text>
+	</string>
+	<string id="mil_max_dialog_9100">
+		<text>Idi do Lukaša na raport, pričaćemo posle, važi?</text>
+	</string>
+	<string id="mil_max_dialog_9101">
+		<text>OK.</text>
+	</string>
+	<string id="mil_patrol_dialog1_0">
+		<text>Čoveče, u Fridom logoru si! Opusti se, osećaj se kao kod kuće!</text>
+	</string>
+	<string id="mil_patrol_dialog1_1">
+		<text>Hoću hvala.</text>
+	</string>
+	<string id="mil_patrol_dialog1_2">
+		<text>Lepo se ponašaj, važi? Razumeš? Nemoj da se zajebavaš da ne bi zažalio. Bio nam ovde jednom jedan priglup malo, Toliko nas iznervirao da smo ga poslali golog u šetnju - kroz minsko polje. Da si samo čuo Ciciju kako psuje kad je ruka od te budale pala na njegovu glavu. Kakvo je to zezanje bilo... Nego... Jesi ukapirao šta hoću da ti kažem?</text>
+	</string>
+	<string id="mil_patrol_dialog1_3">
+		<text>Ma nema problema.</text>
+	</string>
+	<string id="mil_patrol_dialog1_4">
+		<text>Dobar čovek! A sad voljno.</text>
+	</string>
+	<string id="mil_patrol_dialog2_0">
+		<text>Ej, vidi gušter... Dođi ovamo na trenutak.</text>
+	</string>
+	<string id="mil_patrol_dialog2_1">
+		<text>Ne razumem.</text>
+	</string>
+	<string id="mil_patrol_dialog2_10">
+		<text>Pa gde si ti pošao? Stani malo! Lepo je ovde... Uskoro će večera.</text>
+	</string>
+	<string id="mil_patrol_dialog2_11">
+		<text>Neka hvala, nisam baš toliko ukusan.</text>
+	</string>
+	<string id="mil_patrol_dialog2_12">
+		<text>Šta?! Sranje, pa što mi to nisi rekao! Nego gubim vreme ovde. Gubi se, kretenu. Ovaj put se ne šalim...</text>
+	</string>
+	<string id="mil_patrol_dialog2_2">
+		<text>Šta ti nije jasno? Oh, nisi čuo priču o onim budalama, huh?</text>
+	</string>
+	<string id="mil_patrol_dialog2_3">
+		<text>Ne, nisam.</text>
+	</string>
+	<string id="mil_patrol_dialog2_4">
+		<text>Dobro, gledaj. Razmisli malo: ovo su teška vremena...</text>
+	</string>
+	<string id="mil_patrol_dialog2_5">
+		<text>Što treba da znači?</text>
+	</string>
+	<string id="mil_patrol_dialog2_6">
+		<text>Pa, prosto je, slušaj! Gladan vojnik je loš vojnik. A nas je mnogo...</text>
+	</string>
+	<string id="mil_patrol_dialog2_7">
+		<text>I šta onda?</text>
+	</string>
+	<string id="mil_patrol_dialog2_8">
+		<text>Pa gde da nađemo svo to meso? I vidi, evo tebe!</text>
+	</string>
+	<string id="mil_patrol_dialog2_9">
+		<text>Razumeo sam.</text>
+	</string>
+	<string id="mil_screw_dialog_1000">
+		<text>Imaš li nešto pokvareno?</text>
+	</string>
+	<string id="mil_screw_dialog_1001">
+		<text>Pokvareno?</text>
+	</string>
+	<string id="mil_screw_dialog_1002">
+		<text>Ahhh, pa nisi ovde jer ti treba nešto? Uf! Dojadilo mi je viće. Čim se nešto pokvari, svi se obraćaju meni, pa dokle više.</text>
+	</string>
+	<string id="mil_screw_dialog_1003">
+		<text>A ko si pa ti?</text>
+	</string>
+	<string id="mil_screw_dialog_1004">
+		<text>Ja sam mehaničar. Gosn majstor... Popravljam oružja i šta god mi doneseš. Sad trenutno, popravljam ova vozila.</text>
+	</string>
+	<string id="mil_screw_dialog_1005">
+		<text>Pa kako ide?</text>
+	</string>
+	<string id="mil_screw_dialog_1006">
+		<text>Pfft! Ništa sem olupina. A ja sam mrtav umoran. Slušaj, da nemaš možda malo votke? Ja, umm...el... Treba li ti dobra optika? Najbolja što postoji!</text>
+	</string>
+	<string id="mil_screw_dialog_1100">
+		<text>Ne.</text>
+	</string>
+	<string id="mil_screw_dialog_1101">
+		<text>Kako hoćeš. Ako imaš - svrati, ne izigravaj stranca.</text>
+	</string>
+	<string id="mil_screw_dialog_1102">
+		<text>OK.</text>
+	</string>
+	<string id="mil_screw_dialog_1200">
+		<text>Evo, izvoli.</text>
+	</string>
+	<string id="mil_screw_dialog_1201">
+		<text>E pa, hvala! Vrlo lepo od tebe. Moći ću kasnije da se opustim.</text>
+	</string>
+	<string id="mil_screw_dialog_1202">
+		<text>Sa srećom.</text>
+	</string>
+	<string id="mil_screw_dialog_2000">
+		<text>Ne ometaj me, razmišljam...</text>
+	</string>
+	<string id="mil_screw_dialog_4">
+		<text>Ne seri, stvarno si doneo votku?</text>
+	</string>
+	<string id="mil_trader_dialog_1001">
+		<text>U čemu je problem?</text>
+	</string>
+	<string id="mil_trader_dialog_1002">
+		<text>Evo jednog ne zgodnog pitanja - gde da idem za neki artefakt ili oružje?</text>
+	</string>
+	<string id="mil_trader_dialog_1003">
+		<text>Obratiš se meni, novcem. Ili odeš do sela tamo ima za džabe, ali je riskantno.</text>
+	</string>
+	<string id="mil_trader_dialog_1004">
+		<text>Kakvo selo?</text>
+	</string>
+	<string id="mil_trader_dialog_1005">
+		<text>Selo. Puno je anomalija - gušteri non-stop upadaju u njih. Naši borci su otisli tamo već, pridruži im se ako hoćeš.</text>
+	</string>
+	<string id="mil_trader_dialog_1006">
+		<text>Razumeo sam.</text>
+	</string>
+	<string id="mil_trader_dialog_2001">
+		<text>A šta mi to lepo doneo?</text>
+	</string>
+	<string id="mil_trader_dialog_3001">
+		<text>Kaži šta ti treba?</text>
+	</string>
+	<string id="mil_trader_dialog_3002">
+		<text>Ma ništa... Samo razgledam.</text>
+	</string>
+	<string id="mil_trader_dialog_3003">
+		<text>Pa kad nemaš pametnija posla imam jedan zadatak za tebe. To jest ako si zainteresovan... Hoćeš da zaradiš, huh?</text>
+	</string>
+	<string id="mil_trader_dialog_3004">
+		<text>Zainteresovan sam...</text>
+	</string>
+	<string id="mil_trader_dialog_3005">
+		<text>Daću ti Kristal ako mi učiniš nešto. Imamo nezgodnu situaciju... U poslednje vreme, niko nije doneo ni jedan artefakt iz onog sela - svi su uplašeni. Kažu da su se krvopije nastanile tamo. Ovih dana nikog ne smem da pošaljem tamo - još malo pa ćemo i Djuti da zovemo za pomoć!</text>
+	</string>
+	<string id="mil_trader_dialog_3006">
+		<text>Nastavi.</text>
+	</string>
+	<string id="mil_trader_dialog_3007">
+		<text>Par naših momaka je otišlo do sela i nisu se vratili, a ostala trojica sede na obodu sela. Ako pobiješ Krvopije, daću ti Kristal. Šta kažeš?</text>
+	</string>
+	<string id="mil_trader_dialog_30071">
+		<text>Ne sad.</text>
+	</string>
+	<string id="mil_trader_dialog_30072">
+		<text>Kako želiš... Pre ili kasnije neko će ih istrebiti. Dok je Kristal, redak i skup artefakt.</text>
+	</string>
+	<string id="mil_trader_dialog_3008">
+		<text>Učiniću to.</text>
+	</string>
+	<string id="mil_trader_dialog_3009">
+		<text>E, odlično. Ako nađeš još ovako nešto, donesi - lepo ću ti platiti.</text>
+	</string>
+	<string id="mil_trader_dialog_3101">
+		<text>I?</text>
+	</string>
+	<string id="mil_trader_dialog_3110">
+		<text>Sede tamo, tupe kurac...</text>
+	</string>
+	<string id="mil_trader_dialog_3111">
+		<text>Ako im pomogneš u lovu, daću ti artefakt Kristal. Pa, šta kažeš?</text>
+	</string>
+	<string id="mil_trader_dialog_3200">
+		<text>Porazgovarali smo i odlučili da krenemo u selo da potražimo mutante...</text>
+	</string>
+	<string id="mil_trader_dialog_3201">
+		<text>I? Pređi na stvar!</text>
+	</string>
+	<string id="mil_trader_dialog_3300">
+		<text>Ubili smo nekakvu zver, ali su momci izginuli. Čim smo stigli do tornja, zgrabili su se za glavu, a meni su oči počele da krvare,.. To čudo nam napalo mozak. Ubio sam ga, ali prekasno, momci su već bili pokojni.</text>
+	</string>
+	<string id="mil_trader_dialog_3301">
+		<text>Šteta. Murk je bio iskusan stalker. Stvarno sramota. U svakom slučaju, izvoli artefakt za tvoju pomoć.</text>
+	</string>
+	<string id="mil_trader_dialog_3310">
+		<text>Pa, momci su otišli u lov a ja sam se vratio...</text>
+	</string>
+	<string id="mil_trader_dialog_3311">
+		<text>Tako znači.</text>
+	</string>
+	<string id="mil_trader_dialog_3400">
+		<text>Mogu li da nabavim neku opremu ovde?</text>
+	</string>
+	<string id="mil_trader_dialog_3401">
+		<text>Za određenu cenu, sve je moguće.</text>
+	</string>
+	<string id="mil_trader_dialog_3500">
+		<text>Već sam se rešio tih zveri.</text>
+	</string>
+	<string id="mil_trader_dialog_3501">
+		<text>Au, stalkeru! Pa ti si neki zajeban tip! Dobro, dogovor je dogovor, izvoli Kristal.</text>
+	</string>
+	<string id="mil_trader_dialog_4001">
+		<text>Pa, kako je bilo u lovu?</text>
+	</string>
+	<string id="mil_trader_dialog_4002">
+		<text>Pobio sam zveri.</text>
+	</string>
+	<string id="mil_trader_dialog_4003">
+		<text>Jel' ti bilo teško?</text>
+	</string>
+	<string id="mil_trader_dialog_4004">
+		<text>Ne baš.</text>
+	</string>
+	<string id="mil_trader_dialog_4005">
+		<text>Hmm, interesantno... Svakave pošasti se šire iz centra Zone - ali odakle tačno dolaze?... Dobro, izvoli za troj trud.</text>
+	</string>
+	<string id="mil_trader_dialog_5001">
+		<text>Ali od tebe sam tražio da pobiješ te Krvopije u selu!</text>
+	</string>
+	<string id="mil_trader_dialog_5002">
+		<text>Predomislio sam se.</text>
+	</string>
+	<string id="mil_trader_dialog_5003">
+		<text>Nema problema. Naravno, u tom slučaju nema nagrade.</text>
+	</string>
+	<string id="mil_trader_dialog_5004">
+		<text>Ma u redu je.</text>
+	</string>
+	<string id="mil_trader_dialog_5010">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="mil_trader_dialog_6001">
+		<text>Uh-huh, pa, nisi rešio onaj mali problem... Zato, artefakt ostaje kod mene.</text>
+	</string>
+	<string id="mil_trader_dialog_6002">
+		<text>Nemam ništa protiv.</text>
+	</string>
+	<string id="mil_trader_dialog_7001">
+		<text>Ljudi pričaju da si istrebio Krvopije u selu. Da li je to tačno?</text>
+	</string>
+	<string id="mil_trader_dialog_7002">
+		<text>Tako je.</text>
+	</string>
+	<string id="mil_trader_dialog_7003">
+		<text>Kako je bilo? Teško?</text>
+	</string>
+	<string id="mil_trader_dialog_7004">
+		<text>Pa onako.</text>
+	</string>
+	<string id="mil_trader_dialog_7005">
+		<text>Hmm, interesantno... Svakave pošasti se šire iz centra Zone - ali odakle tačno dolaze?.. Dobro, izvoli za svoj trud.</text>
+	</string>
+	<string id="mil_trader_dialog_8001">
+		<text>Pa, šta si to doneo?</text>
+	</string>
+	<string id="mil_zoneguard_common1_0">
+		<text>Imate li kuvara ovde?</text>
+	</string>
+	<string id="mil_zoneguard_common1_1">
+		<text>Naravno, kako bi smo bez kuvara! Šta ti treba on, uopšte?</text>
+	</string>
+	<string id="mil_zoneguard_common1_2">
+		<text>Pa, treba mi malo hrane.</text>
+	</string>
+	<string id="mil_zoneguard_common1_3">
+		<text>Eno ga u kuhinji. Samo sedi tamo i brblja.</text>
+	</string>
+	<string id="mil_zoneguard_common1_4">
+		<text>Brblja?</text>
+	</string>
+	<string id="mil_zoneguard_common1_5">
+		<text>Pa šta si ti mislio? Pijan je ko letva. Da ne ume da kuva odavno bi smo ga isterali. Tamo je u kuhinji. Kazaću ti kako da dođeš tamo.</text>
+	</string>
+	<string id="mil_zoneguard_common1_6">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="mil_zoneguard_common1_7">
+		<text>Nema problema.</text>
+	</string>
+	<string id="mil_zoneguard_common2_0">
+		<text>Ko je šef ovde?</text>
+	</string>
+	<string id="mil_zoneguard_common2_1">
+		<text>A zbog čega tražiš šefa?</text>
+	</string>
+	<string id="mil_zoneguard_common2_2">
+		<text>Imam informacije za njega.</text>
+	</string>
+	<string id="mil_zoneguard_common2_3">
+		<text>Lukaš je nas vođa. Idi do glavne zgrade.</text>
+	</string>
+	<string id="mil_zoneguard_common2_4">
+		<text>Važi. Hvala.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10">
+		<text>I tebi također. Šta te dovodi?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_100">
+		<text>Ko je vođa ovde? Moram da razgovaram sa njim.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_1000">
+		<text>Lukaš nam je vođa, naći ćeš ga u glavnoj zgradi. Ali kad uđeš, skloni oružje u stranu - ako nećeš da te streljaju.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10000">
+		<text>Zbog čega?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_100000">
+		<text>Bilo je pokušaja ranije - jednom je atentator bio baš blizu da smakne Lukaša. Od tada više ne rizikujemo.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_1000000">
+		<text>Shvatam.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10000000">
+		<text>Dobro, možeš da prođeš.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_20">
+		<text>Šta sad. Skloni se, smetaš mi.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_3">
+		<text>Pozdrav.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_30">
+		<text>Stoj! Ko ide?!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_31">
+		<text>Južno-afrička lasta!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_32">
+		<text>Ha-ha! Tako je! Možeš proći.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_4">
+		<text>Kakva je ono močvara u blizini?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_41">
+		<text>To ti je jedna mnogo ozračena bara. Ne prilazi tamo, ako te ozrači svetlećeš ko Las Vegas. Ima neki lik tamo, ne dozvoljava da mu iko priđe. Znaš, razumem ga: ko to želi da se meša sa idiotima? 'Zato što normalan čovek definitivno ne želi da ide tamo.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_42">
+		<text>Ko je taj lik, uopšte?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_43">
+		<text>Đavo će ga znati. Kažu da je on jedan od boraca što su otišli do sela.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_44">
+		<text>Kog sela?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_45">
+		<text>Pa, ima jedno malo seoce u blizini. Prepuno mutanata i anomalija. Nisam još bio tamo - tek sam skoro stigao ovde. Pitaj Maksa - on ti je ovde sto godina.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_5">
+		<text>Nego, gde mogu da nabavim municiju? Rostok je daleko odavde, a meni se ne pešači.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_51">
+		<text>Idi do glavne zgrade videćeš u prizemlju.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6">
+		<text>Ša ima, brate? Ti bi malo da odmoriš kod nas, a?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_601">
+		<text>Tako nešto.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_602">
+		<text>Aj pridruži nam se, a?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_603">
+		<text>Ma neću. Ovde sam poslovno.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_604">
+		<text>Ma ajde, pridruži se. Ovde je zezanje.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_605">
+		<text>Ajde razmisliću.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_607">
+		<text>Konj koji priča?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_608">
+		<text>Promašio si.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_609">
+		<text>A-9?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_610">
+		<text>Potopio si mi brod. Sranje, prestani da varaš! Imaš nešto drugo?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_611">
+		<text>Daj jednu.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_612">
+		<text>Dvadeset-jedan. Jebem ti, ponovo si dobio! Ma provaliću te ja. Dobro, ti ne znaš lozinku, zar ne?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_613">
+		<text>Hoćeš li mi reći?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_614">
+		<text>Ma da, kako da ne.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_615">
+		<text>Ajdee, molim te pusti me. Ne mogu da provedem noć na otvorenom, daj 'leba ti?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_616">
+		<text>Što da ne - lepo je vreme, kao da je leto. Pa, dobro ajde, ako položiš test - pustiću te, ako ne - gubi se.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_617">
+		<text>Kakav sad test, ti to mene sad zajebavaš?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_618">
+		<text>Ma kakvi. Postaviću ti tri pitanja što svaki muškarac treba da zna.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_619">
+		<text>Baš da vidim. Ajde.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_620">
+		<text>Dobro, prvo najlakše. Spreman? Slušaj, koje je veličine grudnjak koji nosi Pamela Anderson?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6200">
+		<text>34 C.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6201">
+		<text>Ti si idiot. Ajde u šetnju!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6202">
+		<text>Sranje.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6203">
+		<text>35 D.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6204">
+		<text>Ti si idiot. Ajde u prošetaj!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6205">
+		<text>36 DD.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6206">
+		<text>Svaka čast! Vidi se da si muškarčina!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6207">
+		<text>Naravno, da jesam.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6208">
+		<text>Sad malo teže! OK... Koliko metaka stane u okvir ruskog automata Bizon?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6300">
+		<text>25.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6301">
+		<text>68.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6302">
+		<text>54.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6400">
+		<text>Bravo, sviđaš mi se sve više i više... Nemoj me shvatiti pogrešno, ne na taj način!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6401">
+		<text>Naravno.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6402">
+		<text>A sad treće! Koja je brzina leta Južno-afričke laste?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6403">
+		<text>Južno-afričke... Štaaa?!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6404">
+		<text>Laste!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6405">
+		<text>Odkud ja to trebam da znam?! Znaš li ti uopšte?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6406">
+		<text>Naravno da ne. U tome je stvar, ne mogu da rešim tu zagonetku... Pa, dobro, možeš da prođeš.</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6407">
+		<text>Au, čoveče!</text>
+	</string>
+	<string id="mil_zoneguard_dialog_81">
+		<text>Šta, hoćeš da probaš ponovo? Dobro. Pitanje: koje veličine grudnjaka nosi Doty Strangelove?</text>
+	</string>
+	<string id="mil_zoneguard_dialog_91">
+		<text>Baš si zapeo! Ponavljam: Koliko metaka stane u okvir ruskog automata Bizon?</text>
+	</string>
+	<string id="mil_max_dialog_story_0">
+		<text>Zdravo, kako si?</text>
+	</string>
+	<string id="mil_max_dialog_story_1">
+		<text>Onako, ide... Svašta mi se izdešavalo, želiš čuti?</text>
+	</string>
+	<string id="mil_max_dialog_story_2">
+		<text>Naravno.</text>
+	</string>
+	<string id="mil_max_dialog_story_3">
+		<text>Vraćao sam se jedan dan iz Jantara sa plenom. Noć je bila skroz mračna. Svuda oko mene je bila mukla tišina. Ne znam za ostale, ali kada je pretiho u Zoni, tek me tada postaje strah. Išao sam stazom uzbrdo do ceste. Bio sam tamo već nekoliko puta. Anomalija je tamo skroz malo, a još manje na cesti, i tu ne trebaju matice, šarafi i ostalo smeće što se baca pod noge. I tako idem dalje, kroz grmlje i retko drveće uz cestu. A onda sam čuo nešto iz daljine, ali ne baš ono skroz daleko zbog toga što je teren otvoren, ali čujem glas kako odjekuje iz daljine, pa mi je bilo jako teško odrediti odakle tačno. Ukratko, izvukao sam šaraf i počeo bacati ispred sebe. Izgledalo je sve čisto. gazio sam kroz grmlje nekih 400-500 metara, sve do jedne močvare, u kojoj sam video nekog stalker. Nešto mu je svetlucalo u ruci. Izgledalo je kao artefakt. Vikao je nešto, ali ne od radosti. U toj močvari još se nešto kretalo. Još neki lik. Pognut, sa rukama ispruženim napred prema stalkeru. A onda se još jedna se pojavila iz močvare.</text>
+	</string>
+	<string id="mil_max_dialog_story_4">
+		<text>Kao da nemamo dovoljno močvarnih čudovišta.</text>
+	</string>
+	<string id="mil_max_dialog_story_5">
+		<text>Stalker se otimao, izvlačio, pucao, ponovno punio...ali uspeo je da ispali samo nekoliko metaka. Ta stvorenja su samo dolazila i dolazila na njega, opkolila ga i ubrzo je nestao među njima. Moja ruka je sama od sebe podigla pušku, ali sam shvatio da se tu ništa više ne može uraditi. Suza mi se skotrljala niz lice i sve je opet prekrila mrkla tama. Sledeći dan sam saznao da je stalker Anton, sa nadimkom Talon, nestao. Otišao je u Jantar i nije se vratio. Kažu da je bio iskusan stalker. Šta pohlepa uradi od čoveka. Znao je da je ići tamo jako opasno.</text>
+	</string>
+	<string id="mil_max_dialog_story_6">
+		<text>Hmm... Hvala na priči. Sledeći put kad budem išao u Jantar biću još oprezniji.</text>
+	</string>
+	<string id="mil_trader_dialog_story_0">
+		<text>Imaš li neki savet za mene?</text>
+	</string>
+	<string id="mil_trader_dialog_story_1">
+		<text>Savet, kažeš? Pa, dobro. Mogu ti ispričati jednu poučnu priču. Zbog profita sam se uputio duboko u Zonu... I tako idem, onda skinem ranac, odmorim se pet minuta i tako dalje, čisto opuštanje. Kao da sam jedini čovek na svetu... Kao da nigde nema Kontrolera, koji može samo za sekundu CAP - i nema te... Čuo sam nekakav šum, kao blagi povetarac, i bio mi je jako sumnjib... Mislio sam da je možda neki zec protrčao, i onda se pomislih "Kakav zec ovde"... Ukratko, bio sam spreman koliko sam mogao biti. Kupio ručne bombe, municiju i sve to. Ali tu je bitna pamet i iskustvo. Šta misliš da sam odmah pucao na taj prvi zvuk, i da je bio Kontroler pa da sam ga promašio? Njemu je dovoljno samo malo vremena da se fokusira na tebe i gotov si. Ne pomažu tu ni preplaćena odela, ni fensi-šmensi puške...ništa. Mladi i neiskusni bi odmah pripucali, stariji bi malo sačekali i uzeli bombu u ruke! Tako sam i ja uradio...sa dve bombe se rešio Kontrolera. Da...Kontroler...strašan neprijatelj... Zato dobro pripazi kad si u Zoni. Pored oba otvorena oka, moraš slušati i na oba uha i to je jedini način da preživiš ovde...</text>
+	</string>
+	<string id="mil_trader_dialog_story_2">
+		<text>Hvala na savetu!</text>
+	</string>
+	<string id="mil_trader_dialog_story_3">
+		<text>Zahvali mi se flašom piva!</text>
+	</string>
+	<string id="mil_max_dialog_story2_0">
+		<text>Ima li šta novo?</text>
+	</string>
+	<string id="mil_max_dialog_story2_1">
+		<text>Oh, ništa nema novo. Evo sedimo malo kraj vatre i pričamo priče. Nedavno nam je došao jedan stalker i ispričao svoju priču. Išao je Zonom i istraživao neka nepoznata skrovišta za koje je dobio informacije. Video je neku vrstu pećine. Nešto ni bunker, ni tunel...u oronulom stanju. Ušao je unutra. bilo je mračno, ali se moglovideti nekoliko metara napred, iako mu je lampa bila uključena. Iznenada je u daljini primetio nešto - Kontrolera! Pa da se vrati već je bilo kasno jer ga je Kontroler primetio. Misli, konta šta da radi, noge mu se tresu... Ma goni ga, pomisli, nema mi druge - i punim trkom se zaleti prema Kontroleru sa svojim kalašnjkovim. Stisnu obarač, ništa, metak se zaglavio u cevi... Repetira u trku, opet ništa, opet repetira i opet ništa... Već je jasno video Kontrolera... I dalje trči prema njemu... Stiska obarač, repetira, sve bezuspešno... Tek tada mu se neka mala misao probila u mozak... Kontroler se celo vreme zafrkava s njim... Celo vreme je samo mislio da trči... Kada je kontola popustila i kada je sasvim došao sebi, video je Kontrolera ispred sebe. Opalio je metak, onako s boka i pogodio ga u glavu. Kada mu se približio, osetio je da jako bazdi na alkohol!! Da. Kontroler je bio pijan...svuda okolo su ležale flaše votke.</text>
+	</string>
+	<string id="mil_max_dialog_story2_2">
+		<text>Ma laže k'o pas, Kontroleri ne piju votku...</text>
+	</string>
+	<string id="mil_max_dialog_story2_3">
+		<text>Možda i nije istina... Ali dugo vremena smo od njega kupovali votku po jako dobroj ceni.</text>
+	</string>
+	<string id="mil_trader_dialog_story2_0">
+		<text>Zdravo!</text>
+	</string>
+	<string id="mil_trader_dialog_story2_1">
+		<text>Zdravo, novajlijo...</text>
+	</string>
+	<string id="mil_trader_dialog_story2_2">
+		<text>Kako to misliš, čoveče! Ja novajlija? Dugo sam ja ovde, Šta sam svašta video - ni u snu ne možeš da zamisliš!</text>
+	</string>
+	<string id="mil_trader_dialog_story2_3">
+		<text>Dugo si ovde, kažeš?  A šta kažeš na jedan test?</text>
+	</string>
+	<string id="mil_trader_dialog_story2_4">
+		<text>Test?</text>
+	</string>
+	<string id="mil_trader_dialog_story2_5">
+		<text>Nemoj se odmah vređati... Slušaj. Ima jedan test, više kao neki ritual zrelosti i iskustva, da se tako izrazim. Ako ga prođeš, automatski zadobijaš poštovanje od sviju.</text>
+	</string>
+	<string id="mil_trader_dialog_story2_6">
+		<text>A, jel'? Kakv test?</text>
+	</string>
+	<string id="mil_trader_dialog_story2_7">
+		<text>Dakle, test se obavezno radi noću... Uopšte nije lak, potrebna je puna koncentracija i pribranost, samo jedna mala greška - i gotovo. Znači, uvečer, bez ikakvog oružja, treba doći vrlo blizu gde spavaju veprovi. Onda naći vepra i raspaliti ga svopm snagom u guzice. Onda zatvoriti oči, brojati do deset i pobeći i trčati sve do baze. Pa, novajlijo, želiš li se malo začiniti pravim iskustvom?</text>
+	</string>
+	<string id="mil_trader_dialog_story2_8">
+		<text>Da, želim... Znači taj test definitivno trebam proći!</text>
+	</string>
+	<string id="mil_trader_dialog_story2_9">
+		<text>Naravno da trebaš... Moraš ga proći. Inače, niko od iskusnih drugova te neće shvatati ozbiljno, svi trgovci će ti podići cene. Bez njega si ništa. Takav je običaj.</text>
+	</string>
+	<string id="mil_trader_dialog_story2_10">
+		<text>U redu... Spreman sam.</text>
+	</string>
+	<string id="mil_trader_dialog_story2_11">
+		<text>Odlično! Onda, večeras? Video sam u blizini Barijere krdo divljih veprova. Vođa krda je pravo čudovište - zdrav, svirep, crvene oči, kljove od metra - nikako ga ne možeš promašiti. Mislim da je on odličan za test... Dakle, večeras bez oružja, dođeš do njega, raspališ ga što jače. Razumeš? Tamo nema zevanja... Pojedi nešto i ostavi oporuku za svaki slučaj.</text>
+	</string>
+	<string id="mil_trader_dialog_story2_12">
+		<text>Ne hvala, neću. Znači, kada krenem... Dakle, bez oružja, huh? Ajde videćemo večeras da li ću to uraditi ili ne. Dok...</text>
+	</string>
+	<string id="mil_trader_dialog_story2_13">
+		<text>Stani!</text>
+	</string>
+	<string id="mil_trader_dialog_story2_14">
+		<text>Šta je sad?</text>
+	</string>
+	<string id="mil_trader_dialog_story2_15">
+		<text>Čoveče, zar si mi stvarno poverovao?</text>
+	</string>
+	<string id="mil_trader_dialog_story2_16">
+		<text>Pa, jesam.</text>
+	</string>
+	<string id="mil_trader_dialog_story2_17">
+		<text>Da, hoću... Spreman sam... Oh, ne mogu! Ha-ha! Čoveče, samo sam se šalio, oh, Bože, haha... A ti si mi poverovao? Ha ha, a jesam te preveslao! Vepra u guzicu, haha... Oh, drži me, pašću od smeha! Kada im kažem uz logorsku vatru - neće mi verovati!</text>
+	</string>
+	<string id="mil_trader_dialog_story2_18">
+		<text>Baš smešno...</text>
+	</string>
+	<string id="mil_trader_dialog_story2_19">
+		<text>Ajde, ne ljuti se! Podvalio sam ti staru foru... Pa, vidimo se kasnije, "veteranu".</text>
+	</string>
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 29.04.2015 23:36 -sadd -->
+<!-- Preveo i prilagodio Flexerca -=- 14:35 30.04.2015 -->

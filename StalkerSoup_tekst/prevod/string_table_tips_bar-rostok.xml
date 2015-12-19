@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="bar_arena_actor_afraid">
+		<text>Borba je otkazana! Izazivač se uplašio i nije se uopšte pojavio u ringu.</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>Prošlo je 10 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>Prošlo je 20 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>Prošlo je 30 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>Prošlo je 40 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>Prošlo je 50 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>Prošla je minuta!</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>Prošla je minuta i 10 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>Prošla je minuta i 20 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>Prošla je minuta i 30 sekundi!</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>Borba je počela!</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>Pažnja! Pažnja! U Areni će uskoro da počne nova borba! U levom uglu - Zonina najgora noćna mora, večno žedan krvi - Krvopija! A u desnom uglu... Čovek? Da, to je čovek! Pljesak molim za Obeleženog!</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>Pažnja! Pažnja! U Areni će uskoro da počne nova borba! U levom uglu - onaj koji ume da savije kašiku, kung-fu majstor lično - Burer! A u desnom uglu - čovek čija potraga nema kraja! Njegovo ime je Obeleženi!</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>Opa! Protivnik je ubio izazivača. Evo dobre cifre!</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>Opa! Izazivač je ubio protivnika, ali ne u određenom vremenu pa zato gubi borbu!</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>Pažnja! Pažnja! U Areni će uskoro da počne nova borba. U levom uglu - on je beo, on je čupav i ljut je kao đavo... On je Pseudo pas! A u desnom uglu - došao je od nikud i to je tačno tamo gdje se uputio. Zovu ga Obeleženi!</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>Pažnja! Pažnja! U Areni će uskoro da počne nova borba. U levom uglu - znate ga, volite ga, a on vas mrzi! To je Zver! A u desnom uglu - živ i udara, barem na trenutak - Obeleženi!</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>Pažnja! Pažnja! U Areni će uskoro da počne nova borba! U levom uglu - majstor borilačkih veština i specijalista za zdravlje - Snork! A u desnom uglu - čovek bez prošlosti i budućnosti. Zovu ga Obeleženi!</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>Vreme je isteklo! Izazivač je izgubio, ali se još bori za svoj život!</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>Opa! Izazivač je ubio protivnika na vreme! On pobeđuje!</text>
+	</string>
+	<string id="bar_ecolog_attack">
+		<text>Kako želiš.</text>
+	</string>
+	<string id="bar_ecolog_crush_attract_actor">
+		<text>Stalkeru, prijatelju! Molim te, nemoj da ideš, pomozi nam! Anarhisti su nam oborili helikopter i sada će nas dokrajčiti. Imamo jednog ranjenog čoveka, tvoja pomoć nam je neophodna!</text>
+	</string>
+	<string id="bar_ecolog_crush_heli_down">
+		<text>He-he, jel' to sve! Nema više vašeg helikoptera! Sredite te vladine štakore!</text>
+	</string>
+	<string id="bar_ecolog_crush_start_heli">
+		<text>Stvarno si završio ovaj put, Vukodave. Vojni helikopter je na putu. Napraviće mleveno meso do tebe i tvojih pasa!</text>
+	</string>
+	<string id="bar_ecolog_escape">
+		<text>Profesor je pobegao! Smesta svi u poteru za Kruglovim! Nije mogao daleko odmaknuti.</text>
+	</string>
+	<string id="bar_ecolog_hit">
+		<text>Pomozi mi, Obeleženi!!! Pogođen sam!!!</text>
+	</string>
+	<string id="bar_ecolog_spam_1">
+		<text>Nastavi da sanjaš, psu! Prvo završi školu pre nego što počneš da daješ ultimatume.</text>
+	</string>
+	<string id="bar_ecolog_spam_2">
+		<text>Ukoliko me napadneš uništiću sve podatke. Onda ćeš dobiti onu stvar umesto podataka.</text>
+	</string>
+	<string id="bar_ecolog_spam_3">
+		<text>Ako ne želiš da uništim materijale svog istraživanja - drži se podalje!</text>
+	</string>
+	<string id="bar_ecolog_spam_4">
+		<text>Vukodave, povuci svoje pse dok su im repovi još čitavi!</text>
+	</string>
+	<string id="bar_freedom_attack">
+		<text>Sva priča je gotova. Počinje pucnjava.</text>
+	</string>
+	<string id="bar_freedom_attack_attract_actor">
+		<text>Ovo je posao. Zajedno možemo dokrajčiti ove vladine štakore.</text>
+	</string>
+	<string id="bar_freedom_attack_spy">
+		<text>Obeleženi! Platićeš za ovo.</text>
+	</string>
+	<string id="bar_freedom_chase">
+		<text>Prate li nas?! Obeleženi, moraš da ih zaustaviš!</text>
+	</string>
+	<string id="bar_freedom_spam_1">
+		<text>Ti si, ukratko, naučni mamlaz. Daj mi rezultate i podatke, ili ćeš ovo mesto napustiti u plastičnoj vreći.</text>
+	</string>
+	<string id="bar_freedom_spam_2">
+		<text>Kruglov, možda ne znam karate ali znam poludeti. Želiš me iz toga testirati? Ili ćeš mi dati informacije?</text>
+	</string>
+	<string id="bar_freedom_spam_3">
+		<text>Mudar ste čovek, profesore. Dajte mi informacije i slobodni ste.</text>
+	</string>
+	<string id="bar_freedom_spam_4">
+		<text>Jednostavno ne shvataš, zar ne Kruglove? Mi smo oborili vaš glupi helikopter i mi trebamo informacije koje nosite. Dajte nam informacije i pokupite svoje prijatelje gubite se odavde. Ovo ti je zadnja šansa. Predaj mi fleš drajv i goni se!</text>
+	</string>
+	<string id="bar_psih_come">
+		<text>Dolazi ovamo, brzo! Moji momci su uhvatili ludog stalkera kraj Crvene Šume. Ovog časa pokušavamo da dobijemo neke informacije od njega!</text>
+	</string>
+	<string id="bar_territory_dolg_1_hit">
+		<text>Obeleženi, jesi li lud?! Prestani više da pucaš! To je naredba!</text>
+	</string>
+	<string id="bar_territory_dolg_2_hit">
+		<text>Prestani da pucaš, Obeleženi! Uradi kako sam rekao ili si mrtav čovek!</text>
+	</string>
+	<string id="bar_territory_dolg_3_hit">
+		<text>Obeleženi. Zbog kršenje kodeksa "Djutija" proteran si iz frakcije. Od sada si naš neprijatelj.</text>
+	</string>
+	<string id="bar_territory_dolg_kill">
+		<text>Obeleženi, nisi poslušao direktnu naredbu. Djuti ne oprašta takve stvari. Mrtav si čovek!</text>
+	</string>
+	<string id="bar_territory_nodolg_1_hit">
+		<text>Prestanite paljbu! Nema pucanja na Djuti teritoriji! Oni koji prekrše pravila biće kažnjeni!</text>
+	</string>
+	<string id="bar_territory_nodolg_2_hit">
+		<text>Pažnja! Obeleženi je proglašen nepoželjnim zbog kršenja zakona i pucanja na teritoriji Djutija.</text>
+	</string>
+	<string id="bar_territory_nodolg_kill">
+		<text>Pažnja! Ubica je pronađen! Naređenje važi za celi terotorij Djutija! Smesta uništiti ubicu!</text>
+	</string>
+	<string id="rostok_kruglov_spam_1">
+		<text>Ti, stalkeru, pomozi nam! Napali su nas Plaćenici a i pola našeg tima je pobijeno. Pomozi nam i obećajemo ti da ćemo ti vratiti uslugu.</text>
+	</string>
+	<string id="rostok_kruglov_spam_2">
+		<text>Pomozi nam da se probijemo kroz zasedu u blizini fabrike. Prenosim ti koordinate. Samo budi pažljiv, Vukodav i njegovi koljači su u blizini helikoptera.</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 29.01.2015 - 15.06 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:18 -sadd -->

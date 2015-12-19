@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="bar_ecolog_research_corrupted">
+		<text>Ja, profesor Kruglov, brišem sve naučne rezultate. Ovo opasno znanje ne sme dospeti u ruke nepouzdanih ljudi koji bi ga mogli iskoristiti u svoje kriminalne ciljeve. Oni koji pročitaju ovu poruku trebaju znati da smo oboreni iznad Divlje Teritorije od strane Plaćenika, koju predvodi zloglasni koljač zvani Vukodav. U vreme dok čitate ovu poruku, mi smo najverovatnije mrtvi.</text>
+	</string>
+	<string id="bar_ecolog_research_normal">
+		<text>...kako se ispostavilo, zračenje primarno utiče na predele više kognitivne aktivnosti. Eksperimenti pokazuju da samo ljudi i životinje za višim kognitivnim procesima, kao što su psi i konji, su osetljivi na ova zračenja. Od navedenih, jedino ljudi ulaze u stanje transa - kod životinja efekti su ograničeni na jak osećaj straha. Sudeći po ovim dokazima, logično bi bilo zaključiti da je ovo zračenje specijalno usmereno na ljudski mozak. Produženi eksperimenti na dobrovoljcima pokazuju da subjekti mogu napustiti stanje transa ukoliko se primeni medicinski tretman. Također smo izradili eksperimentalne uređaje koji će zaštiti ljudski mozak od ovog kobnog zračenja. Prema našim izračunima, izvor ovog zračenja se nalazi u samom centru jezera Jantar. Sam izvor je najverovatnije umetne prirode, što znači da se može isključiti. Također postoji opasnost da nepouzdani elementi dobiju pristup nad ovim zračenjem te da steknu nad njim i kontrolu.</text>
+	</string>
+	<string id="journal_after_agroprom_documents_name">
+		<text>Vojni dokumenti</text>
+	</string>
+	<string id="journal_bar_darklab_documents_name">
+		<text>Laboratorij X18</text>
+	</string>
+	<string id="journal_bar_x16_documents_name">
+		<text>Znači Spaljivač Mozgova je ljudska tvorevina?</text>
+	</string>
+	<string id="journal_before_darklab_documents_name">
+		<text>Barmen</text>
+	</string>
+	<string id="journal_before_radar_task_name">
+		<text>Nakon susreta sa Psihom</text>
+	</string>
+	<string id="rostok_tunel_gordon_diary">
+		<text>12.01.2012\nProkleti šefovi...neće da puste starca na miru. Prvo "Black Messa", a onda neki čudni grad u Rusiji. I onda opet: " Ideš, matori, u beskrajne ukrajinske stepe. Uzmi svoj pajser i dobro se zabavi."\n \n20.03.2012\nPrišuljao sam se u Zonu. Jel' stvarno nemam medveda ovde? S kim ću se onda boriti? Ma naviknuću se nekako. Morao sam dati svoj pajser za konzervu mesa.\n \n26.04.2012\nEmisija je počela. Barmen mi je rekao da negde sakrijem svoje dupe i da ostanem sakriven dok ne prođe Emisija. Najurio sam nekoliko pacova iz jednog napuštenog tunela. Tu ću sačekati da prođe ovo loše vreme.</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 26.01.2015 - 14.06 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 20:58 -sadd -->

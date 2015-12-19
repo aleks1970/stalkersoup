@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 mblur added, more adv ctrls, 'collector freeplay', advanced controls -->
+
+	<string id="Clear">
+		<text>Izbriši</text>
+	</string>
+	<string id="Cloudy">
+		<text>Oblačno</text>
+	</string>
+	<string id="Default">
+		<text>Srednji</text>
+	</string>
+	<string id="Extreme">
+		<text>Maksimalni</text>
+	</string>
+	<string id="gd_master">
+		<text>Majstor</text>
+	</string>
+	<string id="gd_novice">
+		<text>Početnik</text>
+	</string>
+	<string id="gd_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="gd_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="High">
+		<text>Visoki</text>
+	</string>
+	<string id="Low">
+		<text>Niski</text>
+	</string>
+	<string id="Minimum">
+		<text>Minimimalni</text>
+	</string>
+	<string id="mm_mp_check_cdkey">
+		<text>Proveri CD-Ključ</text>
+	</string>
+	<string id="Nigth">
+		<text>Noć</text>
+	</string>
+	<string id="Rain">
+		<text>Kišovito</text>
+	</string>
+	<string id="renderer_r1">
+		<text>Statično osvetljenje</text>
+	</string>
+	<string id="renderer_r2">
+		<text>Puno dinamičko osvetljenje</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>Dinamičko osvetljenje</text>
+	</string>
+	<string id="st_artefacthunt">
+		<text>Lov na artefakt</text>
+	</string>
+	<string id="st_deathmatch">
+		<text>Svi protiv svih</text>
+	</string>
+	<string id="st_rank_experienced">
+		<text>Iskusan</text>
+	</string>
+	<string id="st_rank_legend">
+		<text>Stalker Legenda</text>
+	</string>
+	<string id="st_rank_novice">
+		<text>Početnik</text>
+	</string>
+	<string id="st_rank_professional">
+		<text>Profesionalac</text>
+	</string>
+	<string id="st_rank_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="st_team_deathmatch">
+		<text>Timska igra</text>
+	</string>
+	<string id="testers_mp_agroprom">
+		<text>"Agroprom" fabrika</text>
+	</string>
+	<string id="testers_mp_atp">
+		<text>Auto park</text>
+	</string>
+	<string id="testers_mp_darkvalley">
+		<text>Mračna Dolina</text>
+	</string>
+	<string id="testers_mp_factory">
+		<text>"Jantar" fabrika</text>
+	</string>
+	<string id="testers_mp_lost_village">
+		<text>Napušteno Selo</text> 
+	</string>
+	<string id="testers_mp_military_1">
+		<text>Vojna Skladišta</text>
+	</string>
+	<string id="testers_mp_pool">
+		<text>Bazen</text>
+	</string>
+	<string id="testers_mp_railroad">
+		<text>Železnička stanica</text>
+	</string>
+	<string id="testers_mp_rostok">
+		<text>"Rostok" fabrika</text>
+	</string>
+	<string id="testers_mp_workshop">
+		<text>Pusta fabrika</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>Frekvencija 60Hz</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>Akcija</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>Napredno</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>Anisotropic filtracija</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>Prihvati</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>Nazad</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>Krv</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>Oštrina</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>Odustani</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>Kontrast</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>Kontrole</text>
+	</string>
+	<string id="ui_mm_arcade">
+		<text>S.T.A.L.K.E.R.</text>
+	</string>
+	<string id="ui_mm_version">
+		<text>U.L.T.I.M.A.T.E.</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>Zasluge</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>Udaljenost nišana od cilja</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>Obriši</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>Težina igre</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>Prekini vezu</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>Jeste li sigurni da želite prekinuti vezu?</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>Dinamički nišan</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>Puni ekran</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>Igra</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Gama</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>Detalji objekata</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>Obrni miša</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>Taster</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>Podešavanje tastature</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>Poslednje spremljeno</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>Domet svetla</text>
+	</string>
+	<string id="ui_mm_motion_blur">
+		<text>Zamućenje kod kretanja(BLUR)</text> <!-- Motion BLUR -->
+	</string>
+	<string id="ui_mm_load">
+		<text>Učitaj</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>Učitaj igru</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>Obeleženi</text>
+	</string>
+	<string id="ui_mm_collector">	<!--!!!!TB3D-->
+		<text>Kolektor</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>SFX Jačina</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>Osetljivost miša</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>MREŽNA IGRA</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>Mrežna igra</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>Jačina muzike</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>Morate restartovati igru da bi promene u video postavkama bile primenjene.</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>Ulazite u ZONU</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>Početnik</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC baterijska lampa</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>OPCIJE</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>Opcije</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>Domet čestica</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>Podešavanje kvaliteta</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>Prekini igru</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>Jeste li sigurni da želite da prekinete igru?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>Jeste li sigurni da želite da izađete?</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>Izađi u Windows</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>Render</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>Rezolucija</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>Vrati se u ZONU</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>Spremi</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>Spremi igru</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>Prikaži nišan</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>Prikaži oružje</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>Osnovni</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>Zvuk</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>Kvalitet zvuka</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>Stalker</text> 
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>Kvalitet senki (automatske razine - !Auto Levels!)</text>
+	</string>
+	<string id="ui_mm_r2_sun_focus">
+		<text>Fokus Sunca</text>
+	</string>
+	<string id="ui_mm_r2_sun_near">
+		<text>Sunce u blizini senki</text>
+	</string>
+	<string id="ui_mm_r2_sun_near_border">
+		<text>Granica sunčevih senki</text>
+	</string>
+	<string id="ui_mm_r2_sun_tsm">
+		<text>TSM Sunca</text>
+	</string>
+	<string id="ui_mm_r2_sun_gi">
+		<text>Globalno osvetljenje</text>
+	</string>
+	<string id="ui_mm_r2_gi_clip">
+		<text>Udaljenost globalnog osvetljenja</text>
+	</string>
+	<string id="ui_mm_r2_gi_refl">
+		<text>Reflekcija globalnog osvetljenja</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>Antialiasing</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>NPC koriste baterijske lampe</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>Kvalitet tekstura</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC identifikacija</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>Video</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>Daljina vidljivosti</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>Vertikalna sinhronizacija</text>
+	</string>
+	<string id="ui_mm_r2_gloss_factor">
+		<text>Faktor sjaja</text>
+	</string>
+	<string id="ui_mm_r2_parallax_h">
+		<text>Paralaks visina (Dubina tekstura)</text>
+	</string>
+	<string id="ui_mm_r2_sun_lumscale">
+		<text>Intenzitet Sunca</text>
+	</string>
+	<string id="ui_mm_r2_sun_lumscale_amb">
+		<text>Minimum sunčane svetlosti u senkama</text>
+	</string>
+	<string id="ui_mm_r2_hdr">
+		<text>Omogući High Dynamic Range (HDR)</text>
+	</string>
+	<string id="ui_mm_r2_tonemap_middlegray">
+		<text>HDR srednje osvetljenje (tamnije prema svetlijem}</text>
+	</string>
+	<string id="ui_mm_r2_tonemap_lowlum">
+		<text>HDR nisko osvetljenje {svetlije prema tamnijem}</text>
+	</string>
+	<string id="ui_mm_r2_tonemap_amount">
+		<text>HDR osvetljenje</text> <!-- HDR Brightness -->
+	</string>
+	<string id="ui_mm_r2_tonemap_adaptation">
+		<text>HDR prilagodba za oči</text> <!-- HDR Eye Adaptation -->
+	</string>
+	<string id="ui_mm_r2_ls_bloom_fast">
+		<text>Brzi Bloom</text>
+	</string>
+	<string id="ui_mm_r2_ls_bloom_kernel_scale">
+		<text>Bloom intenzitet</text>
+	</string>
+	<string id="ui_mm_r2_ls_bloom_threshold">
+		<text>Bloom prag</text>
+	</string>
+	<string id="ui_mm_r2_ls_bloom_speed">
+		<text>Bloom brzina promene</text>
+	</string>
+	<string id="ui_mm_soft_particles">
+		<text>Meke čestice</text>
+	</string>
+	<string id="ui_mm_soft_water">
+		<text>Meka voda</text>
+	</string>
+	<string id="ui_mm_rs_stats">
+		<text>Prikaz statistike motora (engine)</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca -=- 18:57 03.04.2015 -->
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:50 -sadd -->

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8, line 290 Russian char., removed "string_table" - aleks1970 -->
+
+	<string id="agr_factory_krot_start_0">
+		<text>Hvala na pomoći stalkeru! Da se nisi pojavio, do sad bih bio mrtav.</text>
+	</string>
+	<string id="agr_factory_krot_start_10001">
+		<text>Tražim informacije o Streloku, pa možda ti znaš nešto?</text>
+	</string>
+	<string id="agr_factory_krot_start_10002">
+		<text>Kako da uđem u podrum?</text>
+	</string>
+	<string id="agr_factory_krot_start_15001">
+		<text>Strelokov tajni štek?</text>
+	</string>
+	<string id="agr_factory_krot_start_15002">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="agr_factory_krot_start_1501">
+		<text>Da, čuo sam za to. Čak je rekao da je "radio" u ovim krajevima i da je Strelokov štek u podrumu. Kruže glasine da je tu bila i baza njegove grupe.</text>
+	</string>
+	<string id="agr_factory_krot_start_1502">
+		<text>Ovo je jedan od mnogih izlaza koji će te odvesti u međusobno povezane podrume. Kada uđeš dole bićeš prepušten sam sebi jer nemam mapu, a mreža podruma je velika i zbunjujuća.</text>
+	</string>
+	<string id="agr_factory_krot_start_2">
+		<text>Tražim informacije o Streloku. Sivi mi je rekao da ti znaš nešto.</text>
+	</string>
+	<string id="agr_factory_krot_start_30001">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="agr_factory_krot_start_3001">
+		<text>Da, tražili smo ga i mi, ali ga nismo našli. Prebaciću ti neke podatke o tome. To je sve što znamo o šteku.</text>
+	</string>
+	<string id="agr_factory_stalker_about_0">
+		<text>Šta se ovde dešava?</text>
+	</string>
+	<string id="agr_factory_stalker_about_1">
+		<text>Borimo se, ili da budem precizan, sedimo k'o glinene patke. Razgovaraj sa Krticom ako želiš da znaš više, on je nas vođa.</text>
+	</string>
+	<string id="agr_factory_stalker_start_0">
+		<text>Čoveče, to je bio okršaj i po, nešto što ne bi poželeo ni najgorem neprijatelju. Oni vojničići su postali prilično uobraženi!</text>
+	</string>
+	<string id="agr_krot_about_agroprom_0">
+		<text>Gde se nalazi Istraživački Insitut Agroprom?</text>
+	</string>
+	<string id="agr_krot_about_agroprom_10">
+		<text>Nedaleko odavde. Idi putem ka zapadu i doći ćeš do kapije Instituta.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_100">
+		<text>Čuo sam da se Vojska smestila tamo, zar ne?</text>
+	</string>
+	<string id="agr_krot_about_agroprom_120">
+		<text>Hvala na podacima.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_20">
+		<text>Da, tamo se nalazi vojna baza. Nisam siguran koliko ih je tačno tamo, ali verujem da je bar jedna četa. Dobro su naoružani i nećeš imati šanse da se probiješ... koknuće te pre nego izgovoriš "zdravo drugovi". Najbolje je ući tokom noći, jer je preko dana baza dobro čuvana - imaju kontrolne punktove svuda i na svakom mestu. Ovo sam čuo od jednog vojnika što je dezertirao i sad se skriva u močvarama. Ukoliko ga pronađeš siguran sam da možeš izvući neke zanimljive informacije.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_0">
+		<text>Šta se dešava ovde?</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_100">
+		<text>Ja i momci smo našli lepu malu oblast prepunu artefektima, ali oni vojnički skotovi su nas zbog nečeg napali. Nemam pojma šta su hteli od nas...</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_200">
+		<text>Da, čuo sam za njega. Mislim da se "nastanio" u ovom području - u stvari, to je zaista pristojno mestašce. Otišao je davno, ne znam tačno kada i nemam predstavu kuda se uputio. To je sve što ti mogu reći.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2000">
+		<text>Nisi ovde čekao badava, zar ne? U suprotnom, zašto se Specnaz pojavio ovde?</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_250">
+		<text>U redu, znam ponešto o Streloku.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2500">
+		<text>Da, a? Stvarno je potrebno da znam to!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_3500">
+		<text>Ako si me slagao, naći ću te i završiću ono što vojnici nisu mogli!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_400">
+		<text>Ne lažem te. Znam da niko nikome ne veruje ovde pa imaš malo izbora.</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_100">
+		<text>Sivi? Dobro, onda slušaj. Kažu da se Strelok šunjao ovuda. Povrh toga, njegov štek se nalazi negde ovde u podzemlju. Čak sam čuo da njegova grupa ima bazu tu. Također smo tražili njegov štek al'smo našli kitu. Daću ti podatke o šteku, možda ti budeš srećniji. Ovo je sve što imamo o šteku.</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_2000">
+		<text>Šta još znaš?</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_250">
+		<text>Ništa više. Rekao sam ti sve što znam pa se sam snalazi za dalje. Nek' ti je sa srećom.</text>
+	</string>
+	<string id="agr_krot_help_0">
+		<text>Pomagaj stalkeru!!!</text>
+	</string>
+	<string id="agr_krot_help_10">
+		<text>Ok.</text>
+	</string>
+	<string id="agr_ratcatcher_start_0">
+		<text>Eej, ne pucaj čoveče!</text>
+	</string>
+	<string id="agr_stalker_esc_0">
+		<text>Šta radiš to?</text>
+	</string>
+	<string id="agr_stalker_esc_20">
+		<text>Vraćam se iz fabrike koja se nalazi malo dalje uz put. Ne znam kako, ali je Vojska saznala za našu grupu. Nisam uopste čekao da se pojave već sam zbrisao što sam brže mogao. Nadam se da su naši ljudi otišli odatle, inače neće da požive još dugo...i sam si video helikoptere.</text>
+	</string>
+	<string id="agr_stalker_esc_300">
+		<text>Shvatam, hvala.</text>
+	</string>
+	<string id="agr_stalker_esc_400">
+		<text>Shvatam, hvala.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_0">
+		<text>Imam nekoliko pitanja.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_10">
+		<text>Šta želiš da znaš?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_1000">
+		<text>Jel' se događa nešto zanimljivo okolo?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_120">
+		<text>Koliko ti treba?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_130">
+		<text>Evo, uzmi pare. Sad mi reci gde je.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_131">
+		<text>Odjebi!</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_140">
+		<text>Hvala.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_20">
+		<text>Da, ima nekoliko mesta, ali ćeš morati da podeliš malo svog bogastva, drugar.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_21">
+		<text>Bilo je prilično mirno, ali se odjednom Vojska uskomešala i počela je da kosi sve redom. Razbili su Bandite skoro, a kako sam čuo, neki su uspeli da zbrišu u katakombe.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_30">
+		<text>Trideset, dogovoreno?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_40">
+		<text>Izlaz iz železničkog tunela je tu blizu. Najbezbednije je u ćorskokaku. Bar niko nije pojeden dok je spavao...još uvek.  Također, severozapadno od fabrike, naići ćeš na močvaru sa vagonom unutar nje. Ipak budi oprezan, okolo se nalazi mnogo radijacije, pa je najbolje prići sa zapadne strane. A da, još jedna stvar: primećen je vojnik u tom delu. Najverovatnije dolazi iz Vojne baze u Institutu. Siroti skot je verovatno lud - tamo je već nekoliko dana i sumnjam da će poživeti još dugo.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_9999">
+		<text>Pozdrav!</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_0">
+		<text>Jel' se dešava nešto interesantno ovde?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1">
+		<text>Jesi li čuo za Pacolovca? Ta informacija košta tries' banki.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11">
+		<text>Važi.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111">
+		<text>Imamo lokalnog heroja ovde kog zovem Pacolovac. Živi u močvari. Lik je uzgojio toliko pacova u "sakupljačima" da će uskoro pojesti onu kopilad od Vojske.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1111">
+		<text>Sjajno. Hvala.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1112">
+		<text>Reci mi nešto o tim "sakupljačima".</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11121">
+		<text>"Sakupljači" su standardni smrdljivi kanalizacioni odvodi koji odnose otpad iz Instituta do najbližeg rezervoara vode.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111211">
+		<text>Sjajno. Vidimo se i čuvaj se.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_12">
+		<text>To već znam. Hvala.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_121">
+		<text>Nemam šta drugo da ti kažem.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_13">
+		<text>Nemam dovoljno novca.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_14">
+		<text>Nisam zainteresovan.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_3">
+		<text>Jel' se dešava nešto zanimljivo ovuda?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_31">
+		<text>Ništa. Baš ništa.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_311">
+		<text>Aha, važi, zdravo!</text>
+	</string>
+	<string id="agr_stalker_talk_level_0">
+		<text>Reci mi nešto o ovom mestu.</text>
+	</string>
+	<string id="agr_stalker_talk_level_1">
+		<text>Ovo je oblast oko Istraživačkog Instituta Agroprom. Sam Institut je jugozapadno. Fabrika, koja je služila kao proizvodno postrojenje Instituta, je na severu. Zgrade su napuštene odavno i nema šta da se nađe tamo, ali ih Vojska, u poslednje vreme, pretražuje aktivno.</text>
+	</string>
+	<string id="agr_stalker_talk_level_2">
+		<text>Pričaj mi o Institutu.</text>
+	</string>
+	<string id="agr_stalker_talk_level_21">
+		<text>Postoji gomila legendi o Institutu. Pre nesreće 1986, jedina stvar ovde je bio Institut za useve i genetiku. Oblast gde se sada nalazi fabrika, služila je kao eksperimentalno polje useva. Nakon nesreće, Institut je zatvoren, a polja spaljena. Onda su  prekrečili zgradu, stavili ogradu oko nje i napravili su nekoliko vojnih spavaona. Nemam pojma šta su radili na Institutu, ali znam da im nikada nije manjakalo sretstava.</text>
+	</string>
+	<string id="agr_stalker_talk_level_3">
+		<text>Reci mi nešto o fabrici.</text>
+	</string>
+	<string id="agr_stalker_talk_level_31">
+		<text>Fabrika je sagradena krajem 80-tih. Rekli su da će biti korišćena za izradu test mašina za obradu zemljišta pogođenog radijacijom. Koliko znam, niko nikada nije video da je ijedna mašina izašla iz postrojenja. Sada je potpuno prazna, što je čini omiljenim mestom stalkera. Čuo sam da je mesto prilično bezbedno, sve dok izbegavaš mračne uglove.</text>
+	</string>
+	<string id="agr_stalker_talk_level_4">
+		<text>Hvala.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_0">
+		<text>Šta radiš to?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_10">
+		<text>Krijem se jer ne želim nevolju.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_100">
+		<text>Od koga se kriješ?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_120">
+		<text>Katakombe?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_130">
+		<text>Jel' znaš gde čuvaju dokumenta na Institutu?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_140">
+		<text>Šta ćeš sad da radiš?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_141">
+		<text>Šta ćeš sad da radiš?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_20">
+		<text>Ja sam iz izviđačke jedinice. Poslali su nas u katakombe da vidimo šta se dešava ispod baze. Tamo je pravi pakao, kažem ti. Ja sam jedini uspeo da izađem odatle... svi ostali su verovatno mrtvi do sada. Ne želim da se vratim u bazu - ona kopilad nas uvek koristi da začepi sve rupe u prokletoj Zoni.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_30">
+		<text>Podzemni tuneli. Idu iz Instituta po okolini - pokazaću ti ulaze. Nemam mapu katakombi.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_40">
+		<text>U Glavnom štabu. Nalazi se na trećem spratu Instituta. Tamo čuvaju te proklete papire. Ali je zajebano dotle stići. Tokom dana područje vrvi od patrola koje noću nisu tako česte. Ovo ću ti reci za džabe: ako 'oćeš da uđeš unutra, moraćeš preko katakomba - nemaš nikakve šanse da uđeš preko kapije.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_50">
+		<text>Hmm. Ne znam. Po vojničkom kodu ja sam dezerter i moram nekako da odem iz Zone. Kad smo prvi put stigli ovde, zatekao sam Zaporozeta u garaži koji je skoro bio u ispravnom stanju. Za pola sata sam ga opravio, ali prokleti kapetan ga je uzeo za sebe tvrdeći da na to ima pravo po vojnim pravilima. Vozio ga je ovim putem i ostavio ga je na kiši izvan kapije. Da mogu samo da se dočepam tih kola - bežanje je mnogo sigurnije na točkovima!</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0">
+		<text>Zdravo.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01">
+		<text>Šta ima?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011">
+		<text>Reci mi nešto o "sakupljaču". Kako da uđem unutra? Gde su ulazi i izlazi?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111">
+		<text>Opasno je unutar "sakupljača". Ima šest ulaza od kojih su dva u području Instituta gde je Vojska uspostavila bazu. Tim područjem se patrolira i kapetan drži raspored istih u oružarnici.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01111">
+		<text>Kako znaš sve to?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011111">
+		<text>Rekli mi pacovi.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111111">
+		<text>Shvatam. Pozdrav i neka ti je sa srećom.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_012">
+		<text>Ništa. Vidimo se.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_013">
+		<text>Ko si ti?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0134">
+		<text>Živim ovde, ako ovo možeš nazvati životom. Uzgajam pacove u "sakupljaču" kako bih nervirao Vojsku u Institutu.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0135">
+		<text>Ja sam Pacolovac.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01351">
+		<text>Šta radiš u ovim baruštinama?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_123">
+		<text>Ou... Shvatam.... Pa, ja sam iz druge priče. Ha-ha-ha...</text>
+	</string>
+	<string id="agr_krot_story_0">
+		<text>Dali si čuo neke nove vesti ili priče?</text>
+	</string>
+	<string id="agr_krot_story_1">
+		<text>Naravno, ima jedna zanimljiva. Jednom sam hodao kroz Tamnu Dolinu, zapravo sam se vraćao u naš kamp. Do tog vremena je postalo skoro potpuno mračno, ništa se nije moglo videti. Onda, napokon, vatra se pojavila malo napred. Da, bilo je i vreme za glednog i umornog stalkera da se vidi sa svojim drugarima! Baš u trenutku kada sam hodao uporedo sa velikim žbunjem, koje raste pored puta, iznenada sam ugledao senku u ljudskom obliku kako se neznatno pomerila. Izgledalo kao da nas bandit špijunira ponovo. Kasnije će izvestiti svoje gazde da bih bio nagrađen sa dobrim oružjem ili novcem a stalkerski kamp će biti uništen. Dakle, onda sam odlučio da ga preplašim na smrt. Glupak će onda valjda naučiti lekciju! Znači, veoma tiho sam se šunjao prema banditu od pozadi, izvodeći čvrst napad i šapućući: 'Šta dođavola ti tražiš ovde, govnaru? 'Grrrahhhh...' je bio odgovor. Pa, to je bilo i za očekivati! Poznajući moj profesionalni zahvat, ako čak i uspeš da izgovoriš reč, onda si supermen, he... Međutim lik je smrdeo kao pedeset godina star zombi. Odvratno!  Verovatno se usro. Onda sam popustio stisak uz reči: 'Sledeći put ako te vidim majmune, ima da šutiram ostatke tvog mozga, ako uopšte nešto i ostane, jesi li razumeo?'.A iznenada smrdljivo stvorenje je promuklo odgovorilo: 'Hej, šta je s tobom, čoveče? Pusti me! Zar ne može nedužni Krvopija na miru ni da piša?!'</text>
+	</string>
+	<string id="agr_krot_story_2">
+		<text>Heh, ala ti je priča...</text>
+	</string>
+<!-- Preveo i prilagodio Coolkingeye -=- 13:54 20.04.2015 -->

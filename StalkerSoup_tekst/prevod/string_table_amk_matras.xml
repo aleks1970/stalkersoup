@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8  AMK1.4.1 MATRAS v.5.2721 build 492 release 73 -->
+<string id="amk_matras">
+<text>Vreća za spavanje</text>
+</string>
+<string id="amk_matras_s">
+<text>Vreća za spavanje</text>
+</string>
+<string id="enc_amk_matras">
+<text>Dobra vreća za spavanje. Verovatno najzgodniji način da se prenoći u Zoni. Neće te spasiti od radijacije i loših snova ali će te sigurno zagrejati.</text>
+</string>
+<string id="amk_ruksak">
+<text>Ranac</text>
+</string>
+<string id="amk_ruksak_s">
+<text>Ranac</text>
+</string>
+<string id="enc_amk_ruksak">
+<text>Ekspedicijski ranac. Sadrži gumu u materijalu, tako da je vodo-otporan. Možeš ostaviti nešto vredno u ovaj ranac i ostaviti ga na skrivenom mestu - to bi onda bio izvrstan štek ...</text>
+</string>
+	<!-- Modified by Coolkingeye -=- 15:13 24.06.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:05 -sadd -->

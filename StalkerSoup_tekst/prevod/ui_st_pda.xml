@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 localization, search_script text outside tags, cheat spawner captions -->
+
+	<string id="actor_btn_hint">
+		<text>Centar na igraču</text>
+	</string>
+	<string id="add_spot_btn_hint">
+		<text>Dodaj novi marker</text>
+	</string>
+	<string id="Contacts">
+		<text>Kontakti</text>
+	</string>
+	<string id="Encyclopedia">
+		<text>Enciklopedija</text>
+	</string>
+	<string id="global_map_btn_hint">
+		<text>Ka mapi Zone</text>
+	</string>
+	<string id="level_changer_invitation">
+		<text>Pređi na novu lokaciju?</text>
+	</string>
+	<string id="Name">
+		<text>Ime</text>
+	</string>
+	<string id="pda_btn_accomplished">
+		<text>Kompletirano</text>
+	</string>
+	<string id="pda_btn_accomplished_hint">
+		<text>Pokaži kompletirane zadatke</text>
+	</string>
+	<string id="pda_btn_active">
+		<text>Aktivno</text>
+	</string>
+	<string id="pda_btn_active_hint">
+		<text>Pokaži aktivne zadatke</text>
+	</string>
+	<string id="pda_btn_contacts">
+		<text>Kontakti</text>
+	</string>
+	<string id="pda_btn_contacts_hint">
+		<text>Pokaži listu kontakata</text>
+	</string>
+	<string id="pda_btn_diary">
+		<text>Dnevnik</text>
+	</string>
+	<string id="pda_btn_diary_hint">
+		<text>Pokaži dnevnik igrača</text>
+	</string>
+	<string id="pda_btn_encyclopedia">
+		<text>Enciklopedija</text>
+	</string>
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Pokaži Enciklopediju Zone</text>
+	</string>
+	<string id="pda_btn_failed">
+		<text>Nije uspelo</text>
+	</string>
+	<string id="pda_btn_failed_hint">
+		<text>Prikaži neobavljene zadatke</text>
+	</string>
+	<string id="pda_btn_info">
+		<text>Informacije</text>
+	</string>
+	<string id="pda_btn_journal">
+		<text>Pristupi</text>
+	</string>
+	<string id="pda_btn_journal_hint">
+		<text>Pristupi</text>
+	</string>
+	<string id="pda_btn_map">
+		<text>Mapa</text>
+	</string>
+	<string id="pda_btn_map_hint">
+		<text>Prikaži mapu Zone</text>
+	</string>
+	<string id="pda_btn_news">
+		<text>Istorija poruka</text>
+	</string>
+	<string id="pda_btn_news_hint">
+		<text>Prikaži istoriju poruka</text>
+	</string>
+	<string id="pda_btn_off_hint">
+		<text>Isključi</text>
+	</string>
+	<string id="pda_btn_own">
+		<text>Moje</text>
+	</string>
+	<string id="pda_btn_own_hint">
+		<text>Pokaži moje markere na mapi</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>Zadaci</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>Prikaži informacije o zadatku</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>Rangiranje</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>Prikaži najbolje rangirane stalkere</text> <!-- current ranking !?? -->
+	</string>
+	<string id="pda_btn_reputation">
+		<text>Reputacija</text>
+	</string>
+	<string id="pda_btn_statistics">
+		<text>Statistika</text>
+	</string>
+	<string id="pda_btn_statistics_hint">
+		<text>Trenutna statistika</text>
+	</string>
+	<string id="pda_edit_user_task_btn_hint">
+		<text>Izmeni opis</text>
+	</string>
+	<string id="pda_remove_btn_hint">
+		<text>Obriši marker</text>
+	</string>
+	<string id="pda_show_descr_btn_hint">
+		<text>Idi</text>
+	</string>
+	<string id="pda_show_location_btn_hint">
+		<text>Prikaži marker na mapi</text>
+	</string>
+	<string id="pda_show_pointer_btn_hint">
+		<text>Aktiviraj marker</text>
+	</string>
+	<string id="pda_switch_description_btn_hint">
+		<text>Razvuci mapu/tekst</text>
+	</string>
+	<string id="Rank">
+		<text>Rang</text>
+	</string>
+	<string id="remove_spot_btn_hint">
+		<text>Obriši marker</text>
+	</string>
+	<string id="st_detail_list_for_artefacts">
+		<text>Osvojio artefakte</text>
+	</string>
+	<string id="st_detail_list_for_community_relations">
+		<text>Odnosi sa grupacijom</text>
+	</string>
+	<string id="st_detail_list_for_monsterkills">
+		<text>Ubijeno mutanata</text>
+	</string>
+	<string id="st_detail_list_for_quests">
+		<text>Kompletirani zadaci</text>
+	</string>
+	<string id="st_detail_list_for_stalkerkills">
+		<text>Ubijeno stalkera</text>
+	</string>
+	<string id="st_map_actor">
+		<text>Ovo si ti</text>
+	</string>
+	<string id="st_news">
+		<text>Novosti</text>
+	</string>
+	<string id="st_pda_artefacts">
+		<text>Artefakti</text>
+	</string>
+	<string id="st_pda_detail_info">
+		<text>Detaljne informacije</text>
+	</string>
+	<string id="st_pda_monster_kills">
+		<text>Ubijeno mutanata</text>
+	</string>
+	<string id="st_pda_player_statistic">
+		<text>Statistika igrača</text>
+	</string>
+	<string id="st_pda_quest_complete">
+		<text>Kompletirani zadaci</text>
+	</string>
+	<string id="st_pda_stalker_kills">
+		<text>Ubijeno stalkera</text>
+	</string>
+	<string id="st_pda_statistic_reputation">
+		<text>Reputacija:</text>
+	</string>
+	<string id="st_pda_statistic_score">
+		<text>Statistika</text>
+	</string>
+	<string id="st_pda_task_detail_information">
+		<text>Detaljne informacije o zadacima</text>
+	</string>
+	<string id="st_pda_top20">
+		<text>Lista 20 najboljih stalkera</text><!-- S.T.A.L.K.E.R. files !?? -->
+	</string>
+	<string id="st_pda_total">
+		<text>Ukupno</text>
+	</string>
+	<string id="st_tip">
+		<text>Poruka</text>
+	</string>
+	<string id="Tasks">
+		<text>Zadaci</text>
+	</string>
+	<string id="Time">
+		<text>Vreme</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>Zoom in</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>zoom out</text>
+	</string>
+	<string id="st_detail_list_for_foo">
+		<text>Statistika</text>
+	</string>
+	<!-- New localization for in-game pda/notepad- cheat section text - aleks1970 -->
+	<string id="start_typing_script">
+		<text>Početi kucati</text>
+	</string>
+	<string id="save_script">
+		<text>Snimi</text>
+	</string>
+	<string id="erase_script">
+		<text>Obriši</text>
+	</string>
+	<string id="send_network_script">
+		<text>Pošalji u mrežu</text>
+	</string>
+	<string id="run_script">
+		<text>Pokreni</text>
+	</string>
+	<string id="mark_script">
+		<text>Označi</text>
+	</string>
+	<string id="zone_radio_script">
+		<text>Radijo iz ZONE</text>
+	</string>
+	<string id="Close_timer_script">
+		<text>Zatvori tajmer</text>
+	</string>
+	<string id="Close_Mapspot_sel_script">
+		<text>Zatvori selektor markera mape</text>
+	</string>
+	<!--<string id="m_games_script">
+		<text>Mini-igre</text>
+	</string-->
+	<string id="swag_script">
+		<text>- Plen</text>
+	</string>
+	<string id="camp_script">
+		<text>- kamp</text>
+	</string>
+	<string id="anomaly_script">
+		<text>- anomalija</text>
+	</string>
+	<string id="mutants_script">
+		<text>- mutanti</text>
+	</string>
+	<string id="plain_label_script">
+		<text>- glavna oznaka</text>
+	</string>
+	<string id="set_reminder_following_time_script">
+		<text>Postavi podstnik tajmera na sledeće vreme -</text>
+	</string>
+	<string id="Incor_time_format_script">
+		<text>Neispravan format vremena!</text>
+	</string>
+	<string id="enter_a_time_script">
+		<text>Tajmer,unesi vreme \"00:00\" -</text>
+	</string>
+	<string id="start_the_timer_script">
+		<text>Pokreni Tajmer</text>
+	</string>
+	<string id="blank_text_box_script">
+		<text>Prazan tekstni okvir!</text>
+	</string>
+	<string id="emission_radio_doesnt_work_script">
+		<text>Tokom emisije, radijo ne radi!</text>
+	</string>
+	<string id="install_need_gps_tracker_script">
+		<text>Da bi postavio oznake potreban GPS Tragač!</text>
+	</string>
+	<string id="unable_execute_command_script">
+		<text>Nemoguće izvršiti komandu!</text>
+	</string>
+	<string id="money_send_message_script">
+		<text>Nema dovoljno novca da se pošalje poruka!</text>
+	</string>
+	<string id="have_permission_send_messages_script">
+		<text>Treba ti odobrenje kako poslao poruku!</text>
+	</string>
+	<string id="during_release_network_not_working_script">
+		<text>Tokom emisije lokalna mrea ne funkcioniše!</text>
+	</string>
+	<string id="Have_placemark_map_with_icon_khabar_script">
+		<text>Označi na mapi sa ikonicom 'Khabar'</text>
+	</string>
+	<string id="Have_placemark_map_with_icon_camp_script">
+		<text>Označi na mapi sa ikonicom 'Kamp'</text>
+	</string>
+	<string id="Have_placemark_map_with_icon_anomaly_script">
+		<text>Označi na mapi sa ikonicom 'Anomalija'</text>
+	</string>
+	<string id="Have_placemark_map_with_icon_mutants_script">
+		<text>Označi na mapi sa ikonicom 'Mutanti'</text>
+	</string>
+	<string id="typical_label_the_map_script">
+		<text>Tipična oznaka na mapi</text>
+	</string>
+	<string id="russian_1_script">
+		<text>RUSKI</text>
+	</string>
+	<string id="english_1_script">
+		<text>ENGLESKI</text>
+	</string>
+	<string id="bullseye_script">
+		<text>U centar</text>
+	</string>
+	<!-- ui_cheat_spawner section start -->
+	<string id="section_desired_object_number_of_script">
+		<text>Sekcija željenih objekata, broj od</text>
+	</string>
+	<string id="section_desired_object_number_of_caption_1">
+		<text>-</text>
+	</string>
+	<string id="section_desired_object_number_of_caption_2">
+		<text>-</text>
+	</string>
+	<string id="spawn_script">
+		<text>Stvaranje!</text>
+	</string>
+	<string id="the_amount_in_inventory_script">
+		<text>Sekcija objekata, količina (u inventaru).</text>
+	</string>
+	<string id="the_amount_in_inventory_caption_1">
+		<text>-</text>
+	</string>
+	<string id="the_amount_in_inventory_caption_2">
+		<text>-</text>
+	</string>
+	<string id="spawn2inventory_script">
+		<text>Stvoriti u inventaru!</text>
+	</string>
+	<string id="sec_desired_npc_script">
+		<text>Sekcija željenih NPC</text>
+	</string>
+	<string id="sec_desired_npc_caption_1">
+		<text>-</text>
+	</string>
+	<string id="sec_desired_npc_caption_2">
+		<text>-</text>
+	</string>
+	<string id="set_friend_script">
+		<text>Postavi prijatelja!</text>
+	</string>
+	<string id="info_to_add_script">
+		<text>INFA za dodati</text>
+	</string>
+	<string id="writing_old_script">
+		<text>Prepiši staro!</text>
+	</string>
+	<string id="part_object_to_search_for_script">
+		<text>Deo imena objekata koji se traže</text>
+	</string>
+	<string id="part_object_to_search_for_caption_1">
+		<text>-</text>
+	</string>
+	<string id="part_object_to_search_for_caption_2">
+		<text>-</text>
+	</string>
+	<string id="search_script">
+		<text>Pretraga!</text>
+	</string>
+	<string id="section_script">
+		<text>Sekcija</text>
+	</string>
+	<string id="Cheat_spawner_script">
+		<text>Varanje: Stvaralac</text>
+	</string>
+	<string id="part_the_object_to_remove_script">
+		<text>Deo imena objekata za uklanjanje</text>
+	</string>
+	<string id="part_the_object_to_remove_warning_1">
+		<text>OPREZ! Jednostavna imena poput 'rat' će</text>	<!-- text>CAUTION! Simple names like 'rat' will</text -->
+	</string>
+	<string id="part_the_object_to_remove_warning_2">
+		<text>ukloniti bilo što sa 'rat' tekstom u igri.</text>	<!-- text>remove anything with 'rat' in it.</text -->
+	</string>
+	<string id="remove_script">
+		<text>UKLONI!</text>
+	</string>
+	<string id="there_is_no_script">
+		<text>Ne postoji!</text>
+	</string>
+	<string id="cheat_find_object_script">
+		<text>Varanje: Pronađi objekat</text>
+	</string>
+	<string id="not_found_script">
+		<text>Nije pronađeno!</text>
+	</string>
+	<string id="ch_set_goodwill_script">
+		<text>Varanje: postavi božiju volju</text>
+	</string>
+	<string id="ch_GetAllNpcNames_script">
+		<text>Varanje: Sva imena NPC</text>
+	</string>
+	<string id="ch_add_Info_script">
+		<text>Varanje: Dodati Info</text>
+	</string>
+	<string id="Deleted_1_script">
+		<text>Obrisano [</text>
+	</string>
+	<string id="objects_script">
+		<text>] Objekti.</text>
+	</string>
+	<string id="cheat_clear_script">
+		<text>Varanje: Čisto</text>
+	</string>
+	<string id="was_rel_script">
+		<text>, bilo šina:</text>
+	</string>
+	<string id="turnip_script">
+		<text>repa:</text>
+	</string>
+	<string id="cheat_SetNpcGoodwill_script">
+		<text>Varanje: Postavi NPC za prijatelja</text>
+	</string>
+	<string id="added_script">
+		<text>Dodato.</text>
+	</string>
+	<string id="community_script">
+		<text>ZAJEDNICA:</text>
+	</string>
+	<!-- hidden_slots section start-->
+	<string id="remove_bolts_from_slot_script">
+		<text>Ne možeš ukloniti šrafove iz slota!</text>
+	</string>
+	<string id="Up_script">
+		<text>Gore</text>
+	</string>
+	<string id="Down_script">
+		<text>Dole</text>
+	</string>
+	<string id="cannot_equip_helmet_with_suit_script">
+		<text>Ne možeš se opremiti kacigom sa ovim odelom!</text>
+	</string>
+	<string id="drop_all_script">
+		<text>Odbaci sve</text>
+	</string>
+	<!-- ui_weather section start -->
+	<string id="change_script">
+		<text>Promena</text>
+	</string>
+	<string id="no_during_blowout_sorry_script">
+		<text>Ne tokom emisije, žalim</text>
+	</string>
+	<string id="installed_weather_script">
+		<text>Instalirano vreme:</text>
+	</string>
+	<string id="no_such_section_script">
+		<text>Nema takve sekcije:</text>
+	</string>
+	<!-- ui_atlas2 start -->
+	<string id="Atlas_spawn_menu_1_script">
+		<text>STALKERSOUP: Atlas Meni Stvaranja</text>
+	</string>
+	<string id="Enter_number_then_select_weapon_script">
+		<text>Unesi broj oružja, zatim izaberi oružje.</text>
+	</string>
+	<string id="Wea_quik_spawn_menu_script">
+		<text>Meni za brzo stvaranje oružja</text>
+	</string>
+	<string id="Exit_11_script">
+		<text>Izlaz</text>
+	</string>
+	<!-- ui_atlas3 start -->
+	<string id="Atlas_spawn_menu_2_script">
+		<text>STALKERSOUP: Atlas Meni Stvaranja</text>
+	</string>
+	<string id="Enter_the_amount_then_select_ammo_script">
+		<text>Unesi količinu municije, zatim izaberi municiju.</text>
+	</string>
+	<string id="ammo_quick_spawn_menu_script">
+		<text>MUNICIJA Meni za brzo stvaranje</text>
+	</string>
+	<string id="Exit_12_script">
+		<text>Izlaz</text>
+	</string>
+	<!-- amk_transmutator start -->
+	<string id="Anomaly_transmutator_script">
+		<text>Anomalija:</text>
+	</string>
+	<string id="No_Com_Found_trans_script">
+		<text>Nema pronađenih komponenti:</text>
+	</string>
+	<string id="Recipe_Cooking_transmutator_script">
+		<text>Vreme pripreme recepta:</text>
+	</string>
+	<string id="Start_transmutator_script">
+		<text>Početak</text>
+	</string>
+	<string id="Output_transmutator_script">
+		<text>Izlaz</text>
+	</string>
+	<string id="Clear_item_section_transmutator_script">
+		<text>Ukloni izbor artefakta/predmeta</text>
+	</string>
+	<string id="Record_left_transmutator_script">
+		<text>Snimljeni recepti - levo</text>
+	</string>
+	<string id="Record_right_transmutator_script">
+		<text>Snimljeni recepti - desno</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca -=- 11:13 12.07.2014 -->
+<!-- Prevod na dodanome tekstu - Coolkingeye -=- 21:53  23.03.2015 -->
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:24 - sadd -->

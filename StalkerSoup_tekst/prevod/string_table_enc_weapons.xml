@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 DKZ fn2000 fix, added m4_taktik, no_ammo, ammo-9x18-pbp, PPSH-41, cyrillic fixes, enc_weapons1_wpn-vintorez -->
+<!-- PKM capacity: 100/250 rounds, restored ammunition for fn2000_old aleks1970, grenades shok and gravi, enc_wpn_SP_130_tmp, enc_wpn_M14_tmp_descr, TMP Silencer, minor edits -->
+<string_table>
+	<string id="Ammo">
+		<text>Municija</text>
+	</string>
+	<string id="no_ammo">
+		<text>Prazno</text>
+	</string>
+	<!-- .45ACP -->
+	<string id="ammo-11.43x23-fmj">
+		<text>.45 ACP municija</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45ACP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+		<text>Standardni metak za Kora-919 i SIP-t M200 pištolj. Ima standardno jezgro i punu metalnu košuljicu.</text>
+	</string>
+	<!-- 11.43x23-Hydro -->
+	<string id="ammo-11.43x23-hydro">
+		<text>.45ACP Hidro-Šok municija</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45Hidro</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+		<text>Ručno pravljena .45 ACP municija - bakrom obložena municija sa šupljim vrhom i čeličnim jezgrom. Ova kombinacija je neobična, ima prednosti i mane u odnosu na probojne i zaustavne tipove municije.</text>
+	</string>
+	<!-- 12x70-Buckshot -->
+	<string id="ammo-12x70-buck">
+		<text>12x70 sačma</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 sačma</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x70-buck">
+		<text>Standardna 12-milimetarska patrona punjena olovnom sačmom, 6mm kalibra. Vrlo velika zaustavna moć i šteta na kratkim daljinama. Samo za pumparice bez navoja. Dizajnirana je za BM 17, Gonič 13 i SPSA14 sačmarice. Najveći efekat ima na udljenostima do 30 metera.</text>
+	</string>
+	<!-- 12x76-Slug -->
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 slug municija</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 slug</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-dart">
+		<text>Dart metak. To može stabilizovati let zrna i povećati preciznost. Dizajniran je za TOZ 34, BM 17, Gonič 13 i SPSA14 sačmarice. Ima protupancirno dejstvo i povećan domet. Efikanost na udaljenostima do 150 metara.</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>12x76 dart municija</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+		<text>Patrona 12 milimetara sa jednim, ogromnim zrnom. Uglavnom se koristi za lov na krupnu divljač, ali se može koristiti i u druge svrhe. Zrno ne probija pancirnu zaštitu kao druga municija, već bukvalno silom prolazi kroz nju. Dizajnirano za TOZ 34, BM 17, Gonič 13 i SPSA14 sačmarice. Efikasnost na udaljenostima do 100 metara.</text>
+	</string>
+	<string id="ammo_zhekan_izomorf">
+		<text>12x76 "Izomorf"</text>
+	</string>
+	<string id="enc_weapons_ammo_zhekan_izomorf">
+		<text>Konvencionalni slug pojačan sa stranim česticama nepoznatog porekla. Iskra je proizvedena da spontano sagoreva tek nakon kontakta sa metom. Termin "Izomorf" znači "imaju isti oblik", a koristi se u mnogim granama nauke za identifikaciju fizičkih objekata koji imaju identične strukturne karakteristike... Niko ne zna kako je ova municije stigla u Zonu...</text>
+	</string>
+	<!-- 5.45x39mm -->
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39 mm municija</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+		<text>Protupancirna municija za Akm 74/2, Akm 74/2U i ON-94 jurišne puške. Ima poboljšan protupancirni efekata ali smanjenu zaustavnu moć.</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39 mm BP municija</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 BP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+		<text>Standardna municija za Akm 74/2, Akm 74/2U i Abakan jurišne puške. Ima standardno jezgro i punu metalnu košuljicu.</text>
+	</string>
+	<string id="ammo_5.45x39_izomorf">
+		<text>5.45x39mm "Izomorfna" municija</text>
+	</string>
+	<string id="ammo_5.45x39_izomorf_s">
+		<text>5.45x39 "Izomorf"</text>
+	</string>
+	<string id="enc_weapons_ammo_5.45x39_izomorf">
+		<text>Municija zasnovana na konvencionalnoj 5.45x39mm municiji, pojačana sa stranim česticama nepoznatog porekla. Iskra je proizvedena da spontano sagoreva tek nakon kontakta sa metom. Termin "Izomorf" znači "imaju isti oblik", a koristi se u mnogim granama nauke za identifikaciju fizičkih objekata koji imaju identične strukturne karakteristike... Niko ne zna kako je ova municije stigla u Zonu...</text>
+	</string>
+	<!-- 5.56x45mm -->
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45 mm SS109 municija</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56 SS</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+		<text>Municija sa protupancirnim zrnom za IL 86, TRs 301, SGI 5k, GP 37 i FT 200M jurišne puške.</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45 mm AP municija</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56 AP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+		<text>Standardna NATO municija poznata pod belgijskim indeksom SS109. Koriste ga IL 86, TRs 301, SGI 5k, GP 37 i FT 200M jurišne puške.</text>
+	</string>
+	<!-- 5.7x28mm -->
+	<string id="ammo-5.7x28_name">
+		<text>5.7x28mm SS190 municija</text>
+	</string>
+	<string id="ammo-5.7x28_s">
+		<text>5.7x28mm SS190</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.7x28">
+		<text>5.7x28mm municija je malog kalibra ali velike brzine, koju je napravila belgijska kompanija FN Herstal, u kombinaciji sa FN P90 (personal defense weapon PDW) i pištolja FN Five-seven (5,7). Razvijen kao odgovor na NATO-v zahtev za zamenu za 9x19mm Parabellum. 5.7x28mm je flašolika municija, dosta slična .22 Hornet ili .22 K-Hornet. SS190 FMJ, poboljšani SS90, predstavljen je 1993. Nudi superiorne performanse u odnosu na predstavljeni prototip, kao i nešto smanjenu dužinu.</text>
+	</string>
+	<!-- from the sak_strings file - aleks1970
+	<string id="ammo-5.7x28_name"> - Duplicated - aleks1970
+		<text>5.7x28mm FN SS190</text>
+	</string>
+	<string id="ammo-5.7x28_s">
+		<text>5.7x28mm FN SS190</text>
+	</string> -->
+<!--	<string id="enc_weapons1_ammo_ammo-5.7x28">
+		<text>The 5.7x28mm cartridge is a small caliber, high velocity cartridge created by FN Herstal in Belgium in conjunction with the FN P90 personal defense weapon (PDW) and FN Five-seven pistol. Developed in response to NATO requests for a replacement for 9x19mm Parabellum, the 5.7x28mm is a bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet.</text>
+	</string>
+	<string id="ammo-5.7x28_name">
+		<text>5.7x28mm SS190</text>
+	</string>
+	<string id="ammo-5.7x28_s"> - Duplicated - aleks1970
+		<text>5.7x28mm SS190</text>
+	</string> -->
+	<string id="ammo-5.7x28-ap">
+		<text>5.7x28mm AP municija</text>
+	</string>
+	<string id="ammo-5.7x28-ap_s">
+		<text>5.7x28mm AP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.7x28-ap">
+		<text>2005 godine, municija FN pet-sedam i 5.7x28mm je bila tema velikih kontroverzi u SAD-u, kada je, kako je tvrdila Brady kampanja, komercijalno dostupna SS192 municija, probila II-A Kevlar pancirku na testiranju. Nacionalno društvo oružara ubrzo je opovrglo te tvrdnje, navodeći da se možda nisu pridržavli doslovno svih procedura testiranja, ističući da FN protupancirnu municiju 5.7x28mm, nudi samo vojnim i policijskim snagama.</text>
+	</string>
+	<string id="ammo_5.7x28_fmj">
+		<text>5.7x28mm FMJ municija</text>
+	</string>
+	<string id="ammo_5.7x28_fmj_s">
+		<text>5.7x28 FMJ</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.7x28-fmj">
+		<text>Snajperska municija 5.7x28 FMJ. Smanjene težine za 6 grama, povećane glatkoće, ali u isto vreme povećano habanje cevi.</text>
+	</string>
+	<!-- 7.62x54mm -->
+	<string id="ammo-7.62x54r">
+		<text>7.62x54mm municija</text>
+	</string>
+	<string id="ammo-7.62x54r_s">
+		<text>7.62x54mm</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54r">
+		<text>7.62x54mm je ruska puščana municija koja datira još iz 1891. Početno namenjena za repetirajuću Mosin-Nagant pušku, koja je korištena od kasne Carske ere, kroz Sovjetsko doba pa do danas. Koristi se u mitraljezima i puškama kao što je SVT-40 i PKM. Ova municija je jedna od nekolicine standardni koja je i dalje u vojnoj upotrebi.</text>
+	</string>
+	<string id="ammo-7.62x54-7h1">
+		<text>7.62x54 mm 7N1 municija</text>
+	</string>
+	<string id="ammo-7.62x54-7h1_s">
+		<text>7,62 7N1</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+		<text>Jeftina modifikacija municije za SVDm 2, SVUmk2 snajperske puške.</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54R 7N14 municija</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62 7N14</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+		<text>7N14 je nova municija za SVD snajperske puške. Sastoji se od 9.7 grama teškog zrna, koje putuje 830 m/s, ali ima jezgro od olova pa bi trebalo biti preciznije od prethodnika. Također je nešto lakša u poređenju sa standardnom 7.62x54mm municijom.</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54 mm BP municija</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62 BP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+		<text>Protupancirna municija za Dragunov SVD i Dragunov SVU snajperske puške. Puno je skuplja od ostalih tipova municije istog kalibra, ali i puno moćnija. Može se naći i u 7.62x54mm 7N1 i 7.62x54mm 7N14 verzijama.</text>
+	</string>
+	<string id="ammo_7.62x54_izomorf">
+		<text>7.62x54mm "Izomorf" municija</text>
+	</string>
+	<string id="ammo_7.62x54_izomorf_s">
+		<text>7.62x54mm "Izomorf"</text>
+	</string>
+	<string id="enc_weapons_ammo_7.62x54_izomorf">
+		<text>Municija napravljena na bazi konvencionalne 7.62x54mm municije. Pojačana sa stranim česticama nepoznatog porekla. Iskra je proizvedena da spontano sagoreva tek nakon kontakta sa metom. Termin "Izomorf" znači "imaju isti oblik", a koristi se u mnogim granama nauke za identifikaciju fizičkih objekata koji imaju identične strukturne karakteristike... Niko ne zna kako je ova municije stigla u Zonu...</text>
+	</string>
+	<!-- 9x18mm -->
+	<string id="ammo-9x18-fmj">
+		<text>9x18 mm municija</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+		<text>9x18mm municija koju je dizajnirao Nikolai Makarov, i bila je namenjena kao najmoćnija municija koja se mogla sigurno koristiti u pištoljima sa povratnim udarom. Baziran je na 9mm Ultra municiji, koju je razvila Nemačka krajem II svetskog rata, kao snažnija alternativa 9x17mm, koju koristi Walther PP, koji također ima povratni udara (blowback). 9x18mm FMJ ima punu metalnu košuljicu koja je dizajnirana da probija pancir.</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>9x18 mm +P+ municija</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P+</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+		<text>Ovu protupancirnu municiju koriste samo specijalne snage. Sposobna je probiti bilo koji pancir koji postoji od početka 21 veka. Municija 7N25 tipa 9x18 sa protupancirnim zrnom koje teži samo 3.55 grama. Zrno probija Kevlarski pancir sa čeličnom pločom od 2.4 mm debljine ili čeličnu ploču debljine 5 mm, sa udaljenosti od 10 metara, ili ploču od titana debljine 1.25 mm, ili 30 slojeva Kevlar-a SVM (još jedna pancirka II stepena zaštite) sa udaljenosti od 30 metara. Koristi se u PM, PB, i Fort 12 pištoljima.</text>
+	</string>
+	<string id="ammo-9x18-pbp">
+		<text>9x18mm +P+ municija</text>
+	</string>
+	<string id="ammo-9x18-pbp_s">
+		<text>9x18mm +P+</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pbp">
+		<text>PBP municija prilikom ispaljivanja stvara dodatni pritisak. Zato ova municija može biti ispaljivana samo iz 9x18mm komora pištolja koja si dizajnirana upravo za ovu municiju. Koristi se u PM, PB, i Fort 12 pištoljima.</text>
+	</string>
+	<!-- 9x19mm -->
+	<string id="ammo-9x19-fmj">
+		<text>9x19mm FMJ Parabelum</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+		<text>Standardna municija za Walker P9m pištolj i Viper 5 automat. Ima zrno sa punom metanom košuljicom i slabiji protupancirni efekat.</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>9x19mm PB1s municija</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 PB1s</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+		<text>Poboljšana municija za Walker P9m i Viper 5 automat. Snažna municija sa udubljenim zrnom i protupancirnom jezgrom.</text>
+	</string>
+	<!-- 9x39mm -->
+	<string id="ammo-9x39-pab9">
+		<text>9x39 mm PAB-9 municija</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 PAB9</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-ap">
+		<text>Protupancirna municija za Tunder S14 i VAL jurišne puške i za Vintorez specialnu snajpersku pušku. To je podzvučni metak koji zbog svog dizajna može da probije i najbolje pacirno odelo na udaljenostima do 400 metara .</text>
+	</string>
+	<string id="ammo-9x39-sp5">
+		<text>9x39 mm SP-5 municija</text>
+	</string>
+	<string id="ammo-9x39-sp5_s">
+		<text>9x39 SP-5</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+		<text>Municija za S14 i VAL jurišne puške i za Vintorez specijalnu snajpersku pušku. Kasnija i jeftinija modifikacija protupancirne municije. Ima podzvučni metak koji zbog svog dizajna može da probije i najbolje pacirno odelo na udaljenostima do 300 metara.</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>9x39 mm SP-6 municija</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+		<text>Snajperska municija za S14, VAL jurišne puške i Vintorez specijalnu snajpersku pušku. Ima podzvučni metak koji zbog svog dizajna može da probije i najbolje pacirno odelo na udaljenostima do 400 metara.</text>
+	</string>
+	<string id="ammo_9x39_izomorf">
+		<text>9x39mm "Izomorf" municija</text>
+	</string>
+	<string id="ammo_9x39_izomorf_s">
+		<text>9x39 "Izomorf"</text>
+	</string>
+	<string id="enc_weapons_ammo_9x39_izomorf">
+		<text>Municija bazirana na konvencionalnoj 9x39mm municiji. Pojačana sa stranim česticama nepoznatog porekla. Iskra je proizvedena da spontano sagoreva tek nakon kontakta sa metom. Termin "Izomorf" znači "imaju isti oblik", a koristi se u mnogim granama nauke za identifikaciju fizičkih objekata koji imaju identične strukturne karakteristike... Niko ne zna kako je ova municije stigla u Zonu...</text>
+	</string>
+	<!-- Gauss -->
+	<string id="ammo-gauss">
+		<text>Gauss municija</text>
+	</string>
+	<string id="ammo-gauss_s">
+		<text>Gauss</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-gauss">
+		<text>Energetske ćelije napunjene sa smrtonosnim elementom u magacinu Gauss puške. Izvor energije je jedan zatvoreni komad artefakta Bljesak.</text>
+	</string>
+	<string id="super_gauss_s">
+		<text>'S-Gauss' municija</text>
+	</string>
+	<string id="super_gauss_ss">
+		<text>'S-Gauss'</text>
+	</string>
+	<string id="enc_weaponss_ammo_super_gauss">
+		<text>Izrazito smrtonosna energetska ćelija za eksperimentalni Gauss-pištolj. Sadrži fragment artefakta "Mesečina", koji je "kapsuliran" unutar energetske ćelije. Opasna i vrlo nestabilna municija.</text>
+	</string>
+	<!-- OG-7B -->
+	<string id="ammo-og-7b">
+		<text>OG-7V granate</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-og-7b">
+		<text>Visoko eksplozivne granate za  RPG-7u. Podjednako je efikasna protiv žive sile i lakih oklopnih vozila.</text>
+	</string>
+	<!-- VOG-25 -->
+	<string id="ammo-vog-25_1">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_1_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="enc_vog_25_1_descr">
+		<text>-</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>VOG-25 granate</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25">
+		<text>Granate za GP-25 Kostjer lanser granata, integrisani lanser granata za Tunder i Bulldog 6 revolver lanser granata.</text>
+	</string>
+	<string id="ammo-vog-25p">
+		<text>VOG-25R granate</text>
+	</string>
+	<string id="ammo-vog-25p_s">
+		<text>VOG-25R</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25p">
+		<text>Granate za  GP-25 Kostjer lanser granata, integrisani lanser granata za Tunder S14 i Bulldog 6 revolver lanser granata. Pri eksploziji, granata odskače oko jedan metar i time povećava ubojitost.</text>
+	</string>
+	<string id="ammo-m209">
+		<text>M209 granate</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-m209">
+		<text>Granate za M203 lanser granata (za TRs 301, GP 37, SGI 5k, IL 86 puške) i integrisani podcevni bacač granata kod FT 200M.</text>
+	</string>
+	<!-- 7.62x25mm -->
+	<string id="ammo-7.62x25-p">
+		<text>7.62x25mm P municija</text>
+	</string>
+	<string id="ammo-7.62x25-p_s">
+		<text>7.62x25mm P</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x25-p">
+		<text>7.62x25mm standardna pištoljska municija za TT-33 i za PCA-41 pištolje.</text>
+	</string>
+	<string id="ammo-7.62x25-ps">
+		<text>7.62x25mm PS municija</text>
+	</string>
+	<string id="ammo-7.62x25-ps_s">
+		<text>7.62x25mm PS</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x25-ps">
+		<text>Municija sa čeličnom jezgrom TT-33 i PCA-41 pištolje. Ima poboljšane protupancirne sposbobnosti.</text>
+	</string>
+	<!-- 7.62x39_FMJ -->
+	<string id="ammo-7.62x39-fmj">
+		<text>7.62x39mm FMJ municija</text>
+	</string>
+	<string id="ammo-7.62x39-fmj_s">
+		<text>7.62x39mm FMJ</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x39-fmj">
+		<text>Prvo oružje za ovu municiju je proizvedeno krajem 1944, a uključuje repetirajuće i poluautomatske karabine, lake mitraljeze i jurišne puške. 1947 metak je skraćen na 39mm, sa blago dužim uvodnikom, zrnom u obliku čamca sa čeličnom jezgrom, a u takvoj formi ga je prihvatila u Ruska Vojska. Iako ga je službeno zamenila 45x39 municija 1974 godine, nikada nije proglašena zastarelom. Puno 7.62x39 oružja je još u upotrebi u Ruskoj vojski i policijskim snagama. Ova municija je široko rasprostranjena za sva oružja čije su komore proizvedene i SSSR-u, njihovim bivšim saveznicima u Varšavskom paktu i Kini.</text>
+	</string>
+<!--	Duplicated string id from the "sak_strings.xml" file - aleks1970
+	<string id="ammo-7.62x39-fmj">
+		<text>7.62x39mm FMJ</text>
+	</string>
+	<string id="ammo-7.62x39-fmj_s">
+		<text>7.62x39mm FMJ</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x39-fmj">
+		<text>Standard cartridge for automatic AK-47, AKM, AK-103, and AK-104. The cartridge produces significant wounding (including remote wounding effects known as hydrostatic shock) in cases where the bullet tumbles and fragments in tissue, but produces relatively minor wounds in cases where the bullet exits before beginning to yaw.</text>
+	</string> -->
+	<string id="ammo-7.62x39-ap">
+		<text>7.62x39mm AP municija</text>
+	</string>
+	<string id="ammo-7.62x39-ap_s">
+		<text>7.62x39 AP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x39-ap">
+		<text>Proizvodnja ove protupancirne municije počela je krajem 1943, kada je Crvena Armija zahtevala razvoj novog oružja koje bi popunilo jaz između automata pištoljskog kalibra i jakih pušaka. Ovaj zahtev je došao proučavanjem dva nova sistema oružja - nemački MKb.42 jurišne puške i 7.92x33 municije, te američke M1 i njene .30 M1 municije. Prva municija je proizvedena 1944, kombinirajući flašoliku čahuru dugu 41mm, sa zašiljenim vrhom i ravnom osnovicom zrna, sa olovnom jezgrom.</text>
+	</string>
+<!--	Duplicated string id from the "sak_strings.xml" file - aleks1970
+	<string id="ammo-7.62x39-ap">
+		<text>7.62x39mm AP</text>
+	</string>
+	<string id="ammo-7.62x39-ap_s">
+		<text>7.62x39 PSU</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x39-ap">
+		<text>Armour-piercing ammunition for automatic AK-47, AKM, AK-103, and AK-104. Improved armor-piercing capabilities.From the Barnaul plant(headstamp 17), Ulanovsk plant (headstamp 3) and the Soviet State Factory at Lugansk, Ukraine (headstamp 270). This ammo is hardened AP not soft filler steel like some other steel core. This ammo is rare in itself ...</text>
+	</string> -->
+	<!-- 44 Magnum JSP -->
+	<string id="ammo-44mag-jsp">
+		<text>.44 Magnum JSP municija</text>
+	</string>
+	<string id="ammo-44mag-jsp_s">
+		<text>.44 Magnum JSP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-44mag-jsp">
+		<text>Municija kalibra .44 Magnum, koristi se za Desert Eagle Mark VII pištolje. Nastala je 1955. godine od strane poznatog američkog strelca i oružara Elmera Keitha, u saradnji sa firmom Remington/Smith-Wesson, a namenjen je prvenstveno za lov. Prilično visoka zaustavna moć.</text>
+	</string>
+	<string id="ammo-44mag-jhp">
+		<text>.44 Magnum JHP municija</text>
+	</string>
+	<string id="ammo-44mag-jhp_s">
+		<text>.44 Magnum JHP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-44mag-jhp">
+		<text>Nova generacija dobro poznatog Magnum .44 kalibra, koja se koristi za Desert Eagle Mark VII pištolje. Nastala je 1955. godine od strane poznatog američkog strelca i oružara Elmera Keitha, u saradnji sa firmom Remington/Smith-Wesson, a namenjen je prvenstveno za lov. Prilično visoka zaustavna moć.</text>
+	</string>
+	<string id="ammo-50ae-jhp">
+		<text>.50 AE-JHP municija</text>
+	</string>
+	<string id="ammo-50ae-jhp_s">
+		<text>.50 AE-JHP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-50ae-jhp">
+		<text>.50 Action Express municija. Posebno dizajnirana za Desert Eagle Mark XIX pištolje 1991 godine. Poseduje vrlo impresivnu zaustavnu moć protiv meta bližem dometu.</text>
+	</string>
+	<!-- THV ammo moved to DMX Mod XML -->
+	<!-- GRENADES -->
+	<string id="grenade-f1">
+		<text>F1 granata</text>
+	</string>
+	<string id="grenade-f1_s">
+		<text>F1 granata</text>
+	</string>
+	<string id="enc_weapons1_grenade-f1">
+		<text>Defanzivna ručna granata sa širokim radijusom rasprskavanja gelera. Preporučuje se da se baca samo kad ste iza zaklona.</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>GD-05 Dimna Granata</text>
+	</string>
+	<string id="enc_weapons1_grenade-gd05">
+		<text>Dimna granata. Namenjena je da pravi dimnu zavesu. Traje 10 sekundi.</text>
+	</string>
+	<string id="grenade-rgd5">
+		<text>RGD-5 granata</text>
+	</string>
+	<string id="enc_weapons1_grenade-rgd5">
+		<text>Ofanzivna ručna granata sa malim radijusom rasprkavanja gelera.</text>
+	</string>
+	<string id="grenade-rgd5_m">
+		<text>RGD-5M Grenade</text>
+	</string>
+	<string id="enc_weapons1_grenade-rgd5_m">
+		<text>Ofanzivnija i moćnija RGD-5M rčna granata, sa relativno povećanim radijusom eksplozije.</text>
+	</string>
+	<string id="wpn_grenade_gravi">
+		<text>Antigravitaciona granata</text>
+	</string>
+	<string id="enc_weapons1_grenade_gravi">
+		<text>Stvara antigravitacioni efekat uvlačeći sve oko sebe.</text>
+	</string>
+	<string id="wpn_grenade_shok">
+		<text>Elektrošok granate</text>
+	</string>
+	<string id="enc_weapons1_grenade_shok">
+		<text>Stvara elektrošok koji omamljuje sva živa bića.</text>
+	</string>
+	<!-- WEAPON ADDONS -->
+	<string id="wpn-addon-grenade-launcher">
+		<text>GP-25 Kostjer</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher">
+		<text>Lanser granata za 74/2 i 74/2U.\n Municija: VOG-25 granate,\n i VOG-25R granate.</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher-m203">
+		<text>M203</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
+		<text>Lanser granata za SGI 5k, TRs 301, GP 37 i IL 86.\n Municija: M209 granate.</text>
+	</string>
+	<string id="wpn-addon-scope">
+		<text>PSO-1 optika (4x)</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope">
+		<text>Sovjetski optički nišan u širokoj upotrebi. Optički nišan se montira sistemom "lastin rep", korištenim u zemljama Varšavskog Pakta.</text>
+	</string>
+	<string id="wpn-addon-scope8x">
+		<text>PSO-3 optika (8x)</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope8x">
+		<text>PSO optika je proizvedena u Rusiji od strane fabrike preciznih instrumenata Novosibirsk, i postala je svetski poznata zbog svoje kvalitete, a trenutno je u standarnoj opremi ruske vojske. Ovo je jedina optika sa 7.62x54R BDC elevacijom kupole koja je dostupna, sa višom razinom uvećanja (8x) za SVD snajpere, i za trupe opremljene AK puškama, za duži borbeni domet. Serija PSO-3 je prvi izbor ruske vojske sve akcijske operacije, kao i operacije podrške. Po mišljenju visokih vojnih stručnjaka, ova optika koja se montira sa strane puške, je jedan stepen iznad ostalih po kvalitetu od ostalih PSO optika, i puno preciznija za gađanje.</text>
+	</string>
+	<string id="wpn-addon-scope-susat">
+		<text>SUSAT optika</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-susat">
+		<text>Optički nišan x-4 proizveden u NATO državama. Može se postaviti na standardni NATO nosač poznatiji kao Pikantini šina.</text>
+	</string>
+	<string id="wpn-addon-silencer">
+		<text>PBS-1 prigušivač</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer">
+		<text>Efikasan prigušivač kreiran od strane oružara iz Zone. Komplet sadrži set pribora za adaptaciju na bilo koji kalibar.</text>
+	</string>
+	<string id="wpn_addon_silencer_pistol">
+		<text>Desert Eagle prigušivač</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer-big">
+		<text>Prigušivač napravljen za tihu i bezplamenu vatru, a posebno dizajniran za Desert Eagle pištolje.</text>
+	</string>
+	<string id="wpn-9mm_nato-silencer">
+		<text>'APB' prigušivač (9mm)</text>
+	</string>
+	<string id="enc_weapons1_wpn-9mm_nato-silencer">
+		<text>9mm prigušivač za "Stechkin" APB automatske pištolje. APB (Avtomaticheskij Pistolet Besshumnij) je daljnji razvoj Stechkin APS automatskog pištolja. APB je razvijen 1972 za sovjetske Specnac i KGB jedinice, te je bio u širokoj upotrebi u Afghanistanu i kasnijim sukobima. APB, sa postavljenim prigušivačem, je glasan kao i .22 kaliberski pištolj bez prigušivača, te je vrlo precizan i lake kontrole, posebno sa ugrađenim kundakom za rame.</text>
+	</string>
+	<string id="ars-sil_9_p">
+		<text>NATO prigušivač (9mm)</text>
+	</string>
+	<string id="enc_arsenal_sil_9_p">
+		<text>Tipični 9mm prigušivač koji je rađen po NATO specifikacijama. Prigušivač su koristili agenti Američkog ureda za Stratešku Službu tokom II svetskog rata. Sa nameštenim prigušivačem, gas pod pritiskom iza metka ima veći prostor za širenje, tako da sam pritisak vrućeg gasa značajno opada. Kada zrno konačno izađe iz cevi prigušivača, pritisak jako opadne i plinovi se "odčepe", na gotovo 60 psi. Zato je i pri pucanju zvuk puno mekši.</text>
+	</string>
+	<string id="wpn_addon_sil_45">
+		<text>Prigušivač 11.43x23mm</text>
+	</string>
+	<string id="enc_wpn_addon_sil_45">
+		<text>Tihi, besplameni uređaj za pucanje iz oružja kalibra 11.43x23mm (.45).</text>
+	</string>
+	<string id="wpn_addon_sil_762x39">
+		<text>Prigušivač 7.62x39mm</text>
+	</string>
+	<string id="enc_wpn_addon_sil_762x39">
+		<text>Prigušivač za automatske pištolje i puške kalibra 7.62x39mm.</text>
+	</string>
+	<string id="wpn_addon_sil_86x70">
+		<text>Prigušivač 8.6x70mm</text>
+	</string>
+	<string id="enc_wpn_addon_sil_86x70">
+		<text>Tihi, besplameni uređaj za pucanje iz oružja kalibra 8.6x70mm.</text>
+	</string>
+	<string id="wpn_addon_sil_9x39">
+		<text>Prigušivač 9x39mm</text>
+	</string>
+	<string id="enc_wpn_addon_sil_9x39">
+		<text>Tihi, besplameni uređaj za pucanje iz oružja kalibra 9x39mm.</text>
+	</string>
+	<!-- WEAPONS -->
+	<string id="Weapons1">
+		<text>Oružje</text>
+	</string>
+	<string id="wpn-abakan">
+		<text>Abakan</text>
+	</string>
+	<string id="wpn-abakan_m1">
+		<text>Snajperski Abakan</text>
+	</string>
+	<string id="wpn-abakan_m2">
+		<text>Jurišni Abakan</text>
+	</string>
+	<string id="wpn-ak74">
+		<text>Akm 74/2</text>
+	</string>
+	<string id="wpn-ak74_m1">
+		<text>AKS 'Strelok'</text>
+	</string>
+	<string id="wpn-ak74u">
+		<text>Akm 74/2U</text>
+	</string>
+	<string id="wpn-ak74u_m1">
+		<text>Akm 74/2U specijalna</text>
+	</string>
+	<string id="wpn-beretta">
+		<text>Marta</text>
+	</string>
+	<string id="wpn-bm16">
+		<text>Kratka dvocevke</text>
+	</string>
+	<string id="wpn-colt1911">
+		<text>Kora-919</text>
+	</string>
+	<string id="wpn-colt_m1">
+		<text>Bešumna Kora</text>
+	</string>
+	<string id="wp_desert_eagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="wpn-eagle_m1">
+		<text>Desert Eagle (Mark VII)</text>
+	</string>
+	<string id="wpn-fn2000">
+		<text>FN F2000</text>
+	</string>
+	<string id="wpn-fort">
+		<text>Fort-12</text>
+	</string>
+	<string id="wpn-fort_m">
+		<text>Fort-14 "Berkut"</text>
+	</string>
+	<string id="wpn-g36">
+		<text>HK G36</text>
+	</string>
+	<string id="wpn-gauss">
+		<text>VGI 'Gauss' M72-GR</text>
+	</string>
+	<string id="wpn-groza">
+		<text>OTS-14 'Grom'</text>
+	</string>
+	<string id="wpn-groza_m1">
+		<text>OTS-14 'Grom-M1'</text>
+	</string>
+	<string id="wpn_hpsa">
+		<text>FN Browning HP-SA</text>
+	</string>
+	<string id="wpn-l85">
+		<text>Enfield L85A1</text>
+	</string>
+	<string id="wpn-l85_m1">
+		<text>Enfield L85A1 'Balans'</text>
+	</string>
+	<string id="wpn-l85_m2">
+		<text>'Laki' Enfield L85A1</text>
+	</string>
+	<string id="wpn-lr300">
+		<text>LR-300ML</text>
+	</string>
+	<string id="wpn-lr300_m1">
+		<text>LR-300ML 'Snajper'</text>
+	</string>
+	<string id="wpn-mp5">
+		<text>Guja 5</text>
+	</string>
+	<string id="wpn-mp5_m1">
+		<text>Guja 5 9x18mm</text>
+	</string>
+	<string id="wpn-mp5_m2">
+		<text>Bešumna Guja</text>
+	</string>
+	<string id="wpn-pb">
+		<text>Bezšumni pištolj (PB1s)</text>
+	</string>
+	<string id="wpn-pm">
+		<text>Makarov PM</text>
+	</string>
+	<string id="wpn-rg-6">
+		<text>RG-6</text>
+	</string>
+	<string id="wpn-rg6_m1">
+		<text>RG-6 'Bulldog'</text>
+	</string>
+	<string id="wpn-rpg7">
+		<text>RPG-7</text>
+	</string>
+	<string id="wpn-sig220">
+		<text>SIG-Sauer P220</text>
+	</string>
+	<string id="wpn-sig550">
+		<text>SIG SG-550</text>
+	</string>
+	<string id="wpn-sig_m1">
+		<text>Jurišni SIG</text>
+	</string>
+	<string id="wpn-sig_m2">
+		<text>Snajperski SIG</text>
+	</string>
+	<string id="wpn-spas12">
+		<text>Francuski SPAS-12</text>
+	</string>
+	<string id="wpn-spas12_m1">
+		<text>Francuski SPAS-12 'Lovac'</text>
+	</string>
+	<string id="wpn-svd">
+		<text>Snajperska puška SVD</text>
+	</string>
+	<string id="wpn-svd_m1">
+		<text>"Dalekometni" 'Trucker'</text>
+	</string>
+	<string id="wpn-svu">
+		<text>SVU</text>
+	</string>
+	<string id="wpn-toz34">
+		<text>TOZ 34</text>
+	</string>
+	<string id="wpn_usp">
+		<text>UDP Kompakt</text>
+	</string>
+	<string id="wpn-val">
+		<text>VAL specijalna jurišna puška</text>
+	</string>
+	<string id="wpn-val_m1">
+		<text>Snajperski VAL</text>
+	</string>
+	<string id="wpn-vintorez">
+		<text>Vintorez BC</text>
+	</string>
+	<string id="wpn-vintorez_m1">
+		<text>Vintorez "ARIA" PSO-3</text>
+	</string>
+	<string id="wpn-walther">
+		<text>Walker P9m</text>
+	</string>
+	<string id="wpn-walther_m1">
+		<text>Walker 9x18</text>
+	</string>
+	<string id="wpn-wincheaster1300">
+		<text>Gonič 13</text>
+	</string>
+	<string id="wpn-winchester_m1">
+		<text>Winchester 1300 'Gonič'</text>
+	</string>
+	<string id="wpn_dark_gauss">
+		<text>VGI Gauss M72 'Duh'</text>
+	</string>
+	<string id="enc_weapons1_wpn_dark_gauss">
+		<text>• Municija: 2-mm Gauss Kapsule\n• Efektivni domet: 1000 metara\n• Kapacitet: 20 Metaka\n M72 Gauss puška koja je nekada pripadala Duhu. Ovo oružje je pronađeno kako leži u anomaliji Voćni Punč, što je u trajno izmenilo njene pucačke osobine. Sada poseduje neverovatnu brzinu pucanja u odnosu na druge Gauss puške. Jedinstveno i moćno oružje... Rukovati sa izuzetnim oprezom.</text>
+	</string>
+	<string id="wpn-fn2000_sniper">
+		<text>F2000 TR 'Egzekutor'</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000_sniper">
+		<text>• Municija: 7.62x54mm 7H1, 7.62x54mm 7H14, 7.62x54mm AP, 7.62x54mm IZOMORF, 7.62x54mm R • Optika: (1.8x)\n• Domet: 1000 metara • Brzina paljbe: 850 rpm\n• Kapacitet: 30 metaka\n\nJedinstveno oružje bazirano na belgijskom FN Herstal F2000 Taktikal TR-7. Prilagođen da služi kao taktički snajper, ovaj primerak koristi kompjuterizovani optički sistem, koji omogućava preciznije i brže nišanjenje, što nudi očigledne prednosti u odnosu na konkurenciju. Ima produženu 750mm cev i potpuno redizajniran mehanizam za pojedinačnu paljbu koji značajno povećava domet. Ova oba faktora služe povaćanju preciznosti oružja. Bez ikakve sumnje, ovo oružje je pripadalo nekome s kim se nije trebalo kačiti. Reč 'Egzekutor' je pažljivo urezana...</text>
+	</string>
+	<string id="wpn-fn2000_comp">
+		<text>FN-2000 'Kompakt'</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000_comp">
+		<text>• Municija: 7.62x39mm FMJ, 7.62x39mm AP • Optika: (1.6x)\n• Efektivni domet: 480 metara • Brzina paljbe: 850 kom/min\n• Kapacitet: 30 Metaka\nJedinstveni belgijski FN-2000 'Kompakt'.\nOvaj model poseduje drugu verziju kompjuterizovanog optičkog sistema, koji, pored ostalog, nudi i puno preciznije nišanjenje. Ima dužu cev i potpuno redizajniran mehanizam rafalne paljbe. Oba ova faktora vode povećanju preciznosti. Bez ikakve sumnje, ovo je jedan od najboljih snajpera koji se mogu naći u Zoni.</text>
+	</string>
+	<string id="wpn-fn2000_old">
+		<text>"Istrošeni" FN-2000</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000_old">
+		<text>• Municija: 5.45x39mm FMJ, 5.45x39mm AP • Optika: (1.6x)\n• Efektivni domet: 540 metara • Brzina paljbe: 850 kom/min\n• Kapacitet: 30 Metaka\nIstrošena i ratom rastrgana verzija belgijskog FN-2000. Ovaj model poseduje kompjuterizovani optički sistem, koji, pored ostalog, nudi i puno preciznije nišanjenje. Ima dužu cev i potpuno redizajniran mehanizam rafalne paljbe. Oba ova faktora vode povećanju preciznosti. Bez ikakve sumnje, ovo je jedan od najboljih snajpera koji se mogu naći u Zoni.</text>
+	</string>
+	<string id="wpn_mp7a3">
+		<text>HK MP7</text>
+	</string>
+	<string id="enc_weapons_wpn-mp7a3">
+		<text>• Municija: 9x19mm, 9x19mm PBP\nMP7 je nemački automatski pištolj, proizveden od strane Heckler i Koch firme. Dizajniran je u skladu sa NATO-vim zahtevima objavljenim 1989 za lično obrambeno oružje (personal defense weapon PDW), kao klasa oružja koja ima veću sposobnost probijanja pancira od trenutnog oružja iste klase, koja su ograničena korištenjem konvencionalne pištoljske municije. MP7 je krenuo u proizvodnju 2001 godine. Bio je direktni konkurent FN P90, koji je također razvijen kao odgovor na zahteve NATO-a. Oružje je osveženo od njenog uvođenja, te je trenutna proizvodna verzija MP7A3.</text>
+	</string>
+	<string id="wpn-bizon">
+		<text>PP-19 'Bizon'</text>
+	</string>
+	<string id="enc_weapons1_wpn-bizon">
+		<text>• Municija: 9x18mm, 9x18mm +P\nOvaj interesantan automat je izrađen u Iževsku, u poznatoj Ižmaš fabrici oružja, početkom 1990 godine, a prvi put se pojavio u javnosti 1993. Očigledno pod uticajem nešto neuspešnijih Kaliko automata, Bizon (Bison) kombinira "spiralni" sanžer velikog kapaciteta sa konvencionalnim izgledom. Bizon je zasnovan na AKS-74 jurišnoj puški, zapravo je napravljen na skraćenom telu AKS-74, sa AKS-74 pištoljskim držačem, obaračem i preklopnim kundakom. Kasniji modeli su imali bolje oblikovane držače, sa boljom ergonomijom. Spremnik visokog kapaciteta je smešten ispod cevi, i služi kao udobni rukohvat. Ovo oružje je ujedno udobno za nošenje i jednostavno za pucanje, a pruža i dosta dobru vatrenu moć.</text>
+	</string>
+	<string id="wpn-bizon1">
+		<text>PP-19 'Anomalni Bizon'</text>
+	</string>
+	<string id="enc_weapons1_wpn-bizon1">
+		<text>• Municija: 9x18mm, 9x18mm +P\nNekoliko sanduka 'Bizon' automata je ispalo iz srušenog helikoptera u anomaliju "Sneg", i tamo su ostali neko vreme i pod uticajem anomalije, poprimili su neke jedinstvene osobine: stepen trošenja i kvarenja je značajno smanjen, a ukupna zaustavna moć je poboljšana. Štoviše, preuzeo je i "providnost". Pokušaji da se postignu isti rezultati kroz eksperimente, koristeći slične uslove, nisu uspeli. Ovo je gotovo jedinstveno oružje. Vrlo retko.</text>
+	</string>
+	<string id="kriss_super">
+		<text>Kriss super V</text>
+	</string>
+	<string id="enc_weapons_kriss_super">
+		<text>• Municija: .45 ACP, .45 ACP Hidro-Šok\nKriss Super-V je izradila TDI firma. Trenutno je u eksperimentalnoj fazi. Glavna prednosti Kriss Super-V je njegova poboljšana kontrola, preciznost i bolja grupacija metaka, u poređenju sa običnim automatima. Također s njim se može pucati i sa jednom rukom sa adekvatnom preciznošću. Osa trzaja ovog automata je u liniji sa rukom kojom se puca. Ova osobina minimizira podizanje cevi na gore nakon svakog ispaljenog metka. Također, koristi pokretni teg koji je povezan sa kundakom, da preusmeri povratni trzaj na dno. Koristi i hidraulični međuspremnik da smanji brzinu rafalne paljbe. Koristi .45 ACP municiju. Ovaj automat ima 3 načina paljbe, pojedinačno, kratki rafal od 2 metka i puna rafalna paljba. Ručka za repeiranje se nalazi s leve strane. Ne pomera se prilikom pucanja. Ovaj automat je opremljen sa "Pikantini" šinama što mu omogućuje prostor za montiranje raznih dodataka, uključujući različite nišane i lampe.</text>
+	</string>
+	<string id="wpn_ak47">
+		<text>AK-47</text>
+	</string>
+	<string id="enc_weapons1_wpn_ak47">
+		<text>• Municija: 7.62x39mm, 7.62x39mm AP\n• Efektivni domet: 400 metara\n• Efektivni domet: 800 metara\n• Brzina paljbe: 660 kom/min\n• Kapacitet spremnika: 30 Metaka\nAK-47 je gasno-operativna jurišna puška, kalibra 7.62x39mm sa selektivnim načinom paljbe, razvijena u SSSR-u od strane Mihaila Kalašnjikova. Oznaka AK-47 označava Automat Kalašnjikov iz 1947, ili jednostavnije samo AK. U Ruskom žargonu naziva se još i Kalaš. Rad na dizajnu počinje u zadnjoj godini II svetskoga rata (1945). Nakon rata, 1946, AK-46 je predstavljena na zvaničnim vojnim suđenjima, a 1947, verzija sa fiksnim kundakom, je uvedena u službu kao oružje odabranih jedinica Crvene Armije. Rani razvoj u dizajnu je bio AKS-47 (S - Skladnoy ili "preklopni"), koji je bio opremljen preklopnim metalnim kundakom koji se preklapao ispod puške. 1949 AK-47 se službeno prihvaćen od Sovjetske vojske i korišten od većine članica Varšavskog Pakta.</text>
+	</string>
+	<string id="wpn-gungauss">
+		<text>Gauss-pištolj M72-GG</text>
+	</string>
+	<string id="enc_wpn-gungauss">	<!-- prije "enc_weapons1_wpn-gungauss" - sadd -->
+		<text>• Municija: 'S-Gauss' municija\n• Efektivni domet: 50 metara\n• Kapacitet spremnika: 5 punjenja\nPištolj napravljen na bazi eksperimentalne Gauss tehnologije. Jako magnetno polje ubrzava magnetni projektile, u suštini ga povlači iz cevi pištolja. Pažljivim tajmingom struje, koja se isključi na vreme, projektil izleće iz cevi. U nekim slučajevima korišteno je nekoliko zavojnica u redu, kako bi ubrzale projektil do vrlo velikih brzina. Nepostojanje konvencionalnog streljiva, neograničen izbora početne brzine i energetske municije, gotovo bez trzaja, čine ga zastrašujućim i vrednim oružjem.</text>
+	</string>
+<!--	Duplicated string id from the "sak_strings.xml" file - aleks1970
+	<string id="wpn-gungauss">
+		<text>M72-GG "Gauss-gun"</text>
+	</string>
+	<string id="enc_wpn-gungauss">
+		<text>Ammunition - \n: "SuperGauss" - basic \nM72-GG Gauss-gun, a weapon that brought together and advanced on the model of M72-M Gauss-rifle master loner who was last seen in the area East Pripyat. Despite huge power shots, accuracy and affects a very small range, but at close distances proved to be an indispensable weapon in the fight against the most tenacious monsters. Is there any other similar instance, unknown.</text>
+	</string> -->
+	<string id="wpn_p90_name">
+		<text>FN P90</text>
+	</string>
+	<string id="enc_weapons1_wpn_p90">
+		<text>• Municija: 5.7x28mm SS190\n• Efektivni domet: 25-100 metara\n• Efektivni domet: 200 metara\n• Brzina paljbe: 715 kom/min\n• Kapacitet spremnika: 50 Metaka\n• Collimator nišan\nFN P90 je lično obrambeno oružje (personal defense weapon PDW) dizajnirano i proizvedeno od belgijskog FN Herstala. Ime P90 je kratica od FN-ovog Projekta 9.0 - oružje je napravljeno kao odgovor na NATO-ove zahteve za 9x19mm parabellum oružje. Dizajnirano je kao kompaktno ali moćno oružje za vozače vozila, opslužioce većeg oružja, osoblje podrške, specijalne jedinice i protuterorističke odrede. P90 ima futurističan izgled. Ima kompaktni bullpup dizajn sa kontrolama na obe strane, a uključeno je i nekoliko inovacija kao što su nadcevni spremnik municije i FN-ova brza 5.7x28mm municija. P90 je razvijana između 1986 i 1990. P90 TR verzija je predstavljena 1999, koji dolazi sa trostrukim šinskim sistemom za montiranje različitih dodataka. Od 2005, P90 je u prodaji i za civilne strelce, kao PS90, poluautomatski sportski model sa produženom cevi. Od 2003, P90 je u upotrebi u vojnim i policijskim snagama, u preko 25 zemalja širom sveta. U SAD-u, P90 je trenutno u upotrebi u više od 200 agencija za provođenje zakona, uključujući i Tajnu Službu.</text>
+	</string>
+	<string id="wpn-pkm">
+		<text>PKM</text>
+	</string>
+	<string id="enc_weapons_wpn_pkm">
+		<text>• Municija: 7.62x53mmR • Efektivni domet: 800 metara\n• Efektivni domet: 1500 metara • Brzina paljbe: 650 kom/min\n• Kapacitet spremnika: 100/250 Metaka\nPKM je 7.62 mm mitraljez opšte namene dizajniran u SSSR-u a trenutno se proizvodi u Rusiji. PK mitraljez je predstavljen 1960-ih godina, i zamenio je SGM i RPD mitraljeze u sovjetskoj službi. Ostaje u upotrebi na prvim linijama pešadije i montiran na oklopnim vozilima ruske vojske, te se intenzivno izvozi. Originalni PK je izrađen po dizajnu Kalašnjikova AK jurišne puške, puca 7.62x54mmR standardnu municiju Istočnog Bloka, originalnoj municiji iz Mosin-Naganta. Opremljen je jednostavnim dvonožnim postoljem, osmišljenim za podršku pešadiji. Također je pogodan za montažu na vozila. PK mitraljez se može koristiti kao lako protuavionsko oružje. Većina koristi redenike od 25 metaka. Ti redenici se mogu povezati na bilo koju potrebnu dužinu. Tipični sovjetski mitraljez, standardni model uvlači municiju sa desne strane a izbaciva čaure sa leve strane, suprotno od mitraljeza Zapadnih sila, koji izbacivaju sa desne strane.</text>
+	</string>
+	<string id="wpn_saiga12c">
+		<text>Saiga-12K</text>
+	</string>
+	<string id="enc_weapons_saiga12c">
+		<text>• Municija: 12x70 sačma, 12x76 slug/dart\n• Težina: 3.5 kg\n• Kapacitet spremnika: 8 metaka\n• Brzina paljbe: 100 kom/min\nSaiga-12K je sačmarica napravljena po uzoru na Kalašnjikov. Sa 12 komada municije u sanžeru, ova sačmarica je dostupna u širokom opsegu različitih konfiguracija. Kao i sve verzije Kalašnjikova, Saiga je gasno-operativna i ima rotirajući zatvarač. Sve Saige-12K imaju prepoznatljive, po uzoru na Kalašnjikove, kontolor paljbe sa desne strane, i montažne šine za optiku sa leve strane. Pouzdanost AK dizajna rezultirao je visokom pouzdanošću i velikim prednostima poluautomatske sačmarice, za razliku od od prethodnih verzija oružja ove klase koje su bile nepouzdane. Saiga-12K se proizvodi u Ižmašu, u Rusiji. Prethodno je izvožena u SAD preko EAA (European American Armories), ali je taj ugovor istekao 2005. Sada Ižmaš izvozi preko R-AAC (Russian-American Armory Company).</text>
+	</string>
+	<string id="wpn-aps">
+		<text>Stečkin APS</text>
+	</string>
+	<string id="enc_weapons1_wpn-aps">
+		<text>• 9x18mm, 9x18mm MSDS \n• Efektivni domet: 100 meters \n• Kapacitet spremnika 20 metaka\n Stečkin APS (Automatski pištolj Stečkin) je ruski automatski pištolj sa selektivnim načinom paljbe. Ime nosi po svom dizajneru Igoru Stečkinu. Stečkin je zamišljen kao pomoćno oružje artiljeraca i tenkista. Kao pištolj, prilično je težak, pogotovo u kombinaciji sa ramenim kundakom (koji se jako retko koristi), je poprilično glomazan. APS su koristile i specijalne jedinie kao što je Specnac. Tokom sovjetskog rata u Afganistanu, sovjeti su napravili niz tajnih kampanja u neprijateljskom teritoriju, što je podiglo potražnju za kompaktnim, automatskim pištoljima.</text>
+	</string>
+	<string id="Taurus_Raging_Bull_1">
+		<text>Taurus Raging Bull (Brazil)</text>
+	</string>
+	<string id="Taurus_Raging_Bull">
+		<text>• Municija: .45 ACP, .45 Hidro-Šok\n• Okidač: Dvostruko delovanje\n• Težina: 1.58kg (1.67kg sa punim spremnikom)\n• Dužina: 362mm\n• Kapacitet: 6 metaka\nRaging Bull je pištolj proizveden od brazilske Taurus međunarodne kompanije vatrenog oružja. Proizveden je kao pomoćno lovačko oružje zbog svoje velike zaustavne moći. .454 Casull municija se koristi za lov na krupnu divljač kao što je bizon iili slon. Raging Bull ima za palac usječen zadnji deo i crvenu gumenu traku duž leđa rukohvata. Jako moćno oružje.</text>
+	</string>
+	<string id="wpn_uzi">
+		<text>IMI UZI</text>
+	</string>
+	<string id="uzi_desc">
+		<text>Municija: • 9x19mm FMJ, 9x19mm pbp\n• Efektivni domet: 200 metara\n• Brzina paljbe: 600 kom/min\n• Kapacitet spremnika: 32 Metaka\nUzi je u srodstvu sa gasno-operativnim automatskim pištoljima. Uzi je jedno od prvih oružja koje koristi teleskopski bolt dizajn, koji dopušta da se sanžer smesti u pištoljski rukohvat za kraća oružja, dizajn koji još nije viđen od japanskoga Type II automatskog pištolja. Prvi Uzi automat je dizajnirao Major Uziel Gal krajem 1940. Prototip je završen 1950; prvo predstavljanje specijalnim snagama 1954. Uzi se koristio kao lično oružje pozadinskih trupa, oficira, artiljeraca i tenkista, kao i pomoćno oružje elitnih pešadijskih snaga. Uzi se izvozio u preko 90 zemalja. Tokom svog radnog veka, proizvodili ga je Izraelska vojna industrija, FN Herstal i drugi proizvođači. Od 1960-ih pa kroz 1980-e, Uzi automat je prodan u više vojnih i policijskih tržišta, nego bilo koji drugi automat ikada napravljen.</text>
+	</string>
+	<string id="wpn-ppsh41">
+		<text>PPŠ-41</text>
+	</string>
+	<string id="enc_weapons1_wpn-ppsh41">
+		<text>• Municija: 7.62x25mm P, 7.62x39mm PS\n• Težina: 5.45 kg (sa punim spremnikom)\n• Dužina: 843mm\n• Dužina cevi: 269 mm\n• Brzina paljbe: 900 kom/min\n• Kapacitet spremnika: 71 metak\n• Efektivni domet: 200 metara\n PPŠ-41 automatska puška je jedna od najviše masovno proizvedenih pušaka u II svetskom ratu. Dizajnirao je Georgij Špagin jeftinu alternativu za PPD-40. PPŠ radi na jednostavnom gasno-operativnom sistemu, sa običnim ili bubanj sanžerom, a koristi 7.62x25mm pištoljsku municiju. Napravljen je od presovanog metala radi lakše proizvodnje, sa hromom obloženom komorom i otvorom, radi lakšeg održavanja u borbenim uslovima.</text>
+	</string>
+	<string id="wpn_m1891">
+		<text>Puška Mosin M1891</text>
+	</string>
+	<string id="enc_weapons_wpn_m1891">
+		<text>Municija: 7.62x54 (7H1, BP, 7H14)\n- Težina: 4.1 kg\n• Efektivni domet: 1000 m\n• Kapacitet: 5 Metaka\nLegendarna Mosin puška, verzije 1891/30 - odlično i pouzdano oružje. Vrlo precizna. Priča se da su velike zalihe ovih pušaka pronađene u Vojnim Skladištima.</text>
+	</string>
+	<string id="wpn_tavor">
+		<text>Tavor TAR-21</text>
+	</string>
+	<string id="enc_weapons_wpn_tavor">
+		<text>Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Težina: 3.2 kg\n• Kapacitet: 30 metaka\nTavor TAR-21 - kraća verzija Izraelske Vojne Industrije. TAR-21 koristi bullpup dizajn viđen na francuskom FAMAS-u, britanskom SA80, austrijskom Steyr AUG-u i kineskom QBZ-95. Tavor ima duljinu identičnu karabinu, dok mu je brzina identična onima iz automatske puške. Bullpup dizajn se koristi kako bi se smanjila silueta vojnika i kako bi se povećala učinkovitost tokom borbe na uglovima u urbanom ratovanju. Puška je dizajnerski oblikovana da se može rekonfigurirati kako bi je što lakše koristio ljevoruki ili desnoruki vojnik. Oružje je otporno na vodu i visoku temperaturu te je lagano. Ima ugrađen laser i "red dot" ciljnik, što je jedno od prednosti oružja budući da se ne mora dodatno montirati. Osim toga, na pušku je moguće postaviti dodatnu noćnu optiku i elektroničke uređaje.</text>
+	</string>
+	<string id="wpn-toz34_hunter">
+		<text>"Lovački" TOZ-34</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34_hunter">
+		<text>• Municija: 12x70 'sačma', 12x76 'dart'\nVrhunski izbalansiran i modifikovan TOZ-34, sa udobno urezanim kundakom. Pravo blago za sve profesionalne lovce. Opremljen je sa ugrađenim optičkim nišanom.</text>
+	</string>
+	<string id="wpn-g36_m1">
+		<text>G36 'Gravi'</text>
+	</string>
+	<string id="enc_weapons1_wpn-g36_m1">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\nModifikovano od strane člana neuhvatljive Monolit frakcije. Prahom dobijenim iz artefakta 'Gravi', natrljao je celu površinu oružja. Rezultat je bio značajno povećanje destruktivne snage. Heckler/Koch G36 je 5.56x45mm kaliberska jurišna puška, dizajnirana rane 1990 u Nemačkoj, kao zamena za 7.62mm G3 pušku. Prihvaćena u Nemačku službu 1997, zamenjujući G3. G36 je gas-operativna, sa spremnikom od 30 metaka ili od 100 komada C-Mag bubnjem.</text>
+	</string>
+	<string id="wpn-svu_m1">
+		<text>SVU 'Kid'</text>
+	</string>
+	<string id="enc_weapons1_wpn-svu_m1">
+		<text>• Municija: 7.62x54mm 7N1, 7.62x54 mm 7N14, 7.62x54mm AP\nPrilagođeni SVU sa ugraviranim "Kid" na kundaku. Značajno oplemenjen i opremljen sa "Ona" prigušivačem.</text>
+	</string>
+	<string id="wpn-groza_m2">
+		<text>Groza 'Grom'</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m2">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\nPredstavljena generalu Voronjinu od jednog od nekolicine majstora oružara u Zoni, u znak zahvalnosti za spašavanje života. Ovaj 'Grom' modifikovan pažljivo i vešto, mnoge se komponente u potpunosti zamenjene. OTs-14 Groza ('Grom') modulana jurišna puška, razvijena rane 1990, od V. Teleš and J. Lebedeva na TSKIB SOO (Centralni dizajnerski ured za sportsko i lovačko oružje, u gradu Tula). Namenjen specijalnim snagama ruske vojske i ruskoj policiji, kao oružje za borbu u urbanim terenima (CQB).</text>
+	</string>
+	<string id="wpn-ak47_m1">
+		<text>AKM-47 'Izviđač'</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak47_m1">
+		<text>• Municija: 7.62x39mm FMJ, 7.62x39mm AP\n• Efektivni domet: 400 metara\n• Brzina paljbe: 660 kom/min\n• Kapacitet spremnika: 30 Metaka\nAKM-47 'Izviđač' je jedna od standardnih pušaka koje su raspodeljene pripadnicima Djutija. Noćni optički nišan i integrisani prigušivač čine ovo oružje vrlo učinkovitim tokom noćnih akcija. AK-47 je gasno-operativna jurišna puška kalibra 7.62x39mm, sa selektivnim odabirom paljbe, proizvedena u SSSR od strane Mihaila Kalašnjikova.</text>
+	</string>
+	<string id="wpn-beretta_m1">
+		<text>Beretta M9A1</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta_m1">
+		<text>• Municija: 9x19mm IEC, 9x19mm PBP\nBeretta M9 je 9x19mm parabelum pištolj usvojen od Američke vojske 1985. To je u osnovi vojna specifikacija Berette 92F. Pobedio je u takmičenju 1980 za zamenu za M1911A1, kao primarno oružje Američke vojske, pobedivši mnoge druge kandidate. Zvanično je ušao u službu 1990.</text>
+	</string>
+	<!-- Iglomet and its patrons -->
+	<string id="wpn-wpn_igl">
+		<text>AWP 'Iglomet' samostrel</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp_big">
+		<text>• Municija: specijalne 'Iglomet' strele\nProizvedene od strane Accuracy International (L96 A1) / Arctic Warfare (Velika Britanija) specijalno za tiho gađanje. Impresivno i neprimetno oružje!!! Vešto modifikovane strele, sa specijalnim kapsulama na zadnjem delu, u kojima se nalazi mali deo jednog manje poznatog artefakta... Ovo poboljšanje daje strelama bržu i pravilniju putanju. Arctic Warfare puške i oružja, su generalno opremljena sa Schmidt + Bender PM II teleskopskim nišanima, što je retkost za proizvođače pušaka. Ipak, Nemačka i ruska vojska rađe preferiraju teleskopski nišan koji je proizvela kompanija Zeiss. Ovo prilagođeno snajperko oružje poseduje veoma veliku moć penetracije i izuzetno dug domet!!!</text>
+	</string>
+	<string id="ammo-igl">
+		<text>'Iglomet' strele</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-igl">
+		<text>Strele napravljene od nepoznate legure, od strane nekog veštog oružara iz frakcije Monolit. Poseduju izvanredne sposobnosti penetracije. Ovi opasni projektili u celosti prođu kroz žrtvu...efektivno ih "zakucavši" u zid, ili neku drugu površinu. Nekoliko kutija ovih retkih projektila, pronašla je prije godinu dana jedna grupa stalkera a potom prodala trgovcima kako bi na brzinu zaradili nešto novca</text>
+	</string>
+	<!-- Samopal Cartridges -->
+	<string id="wpn-samopal">
+		<text>Pištolj kućne izrade</text>
+	</string>
+	<string id="enc_weapons_wpn-samopal">
+		<text>Improvizirano vatreno oružje je najlakše pronaći tamo gde je legalna i komercijalna proizvodnja oružja zabranjena ili striktno kontrolisana. Ako je neka komercijalna municija dostupna, onda će se i improvizovano oružje raditi da odgovara toj municiji. Ukoliko nikakva municija nije dostupna, i dalje se mogu praviti cevi u koje se nabija crni barut. Većina zemalja ima kontrolu i reguliše proizvodnju, prodaju i posedovanje oružja i municije. Ovo znači da je improvizovano oružje ilegalno proizvedenod, što znači da je i njegovo posedovanje kriminalno delo. Improvizovano oružje obično koriste kriminalci i pobunjenici, i često je povezano sa takvim grupacijama.</text>
+	</string>
+	<string id="ammo-samopal">
+		<text>Papirna municija</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-samopal">
+		<text>Municija napravljena od gustog papira, koji zbijen drži zrno od 15.2mm i barut tečine cca 3.7 gr. Da bi se ispalilo, kroz vrh cevi prvo se mora ubaciti papirno punjenje, zatim zrno sa pamukom dobro nabiti, na isti način kao što se pune muškete. Vrlo sirov i nepouzdan način rada. Ali očajna vremena zahtevaju očajne mere.</text>
+	</string>
+	<!-- Crossbow and its ammo -->
+	<string id="wpn-arb">
+		<text>Samostrel</text>
+	</string>
+	<string id="enc_weapons_wpn-arb">
+		<text>• Brzina projektila: 95 m/s\n• Snaga povlačenja: 79.5 kg\n• Kinetička energija: 140 kj\n• Efektivni domet: 50-75 metara\nLagani lovački samostrel, opremljen sa visokofrekventnim noćnim optičkim nišanom. Smrtonosno i tiho oružje, koje poseduje izvanrednu preciznost u odnosu na sporu stopu paljbe. Ovo oružje u Zonu su doneli strani lovci. Najpogodnije oružje za noćne misije koje zahtevaju neprimećenost. Tokom dana, posebna noćna optika stvara zaslepljujući odjaj, tako da je po dnevnom svetlu gotovo neupotrebljiv.</text>
+	</string>
+	<string id="ammo-arbolt">
+		<text>Strelice</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-arbolt">
+		<text>Aluminijske strelice za samostrel, sa vrlo velikom izdržljivost pri upotrebi. Dužine 440mm, poseduju 5 krilaca što im osigurava duži i stabilniji let, i vrh sa tri oštrice, izrađen od izdržljivog visokougljičnog čelika. Poseduje visoku moć probijanja pancira.</text>
+	</string>
+	<!-- B-94 and its patrons -->
+	<string id="wpn_b94">
+		<text>V-94 snajperska puška</text>
+	</string>
+	<string id="enc_weapons1_wpn-b94">
+		<text>• Municija: 12.7x108mm\n• Težina: 12.9 kg\n• Dužina:  1746mm\n• Dužina (preklopljena): 1154mm\n• Dužina cevi: 1000mm\n• Brzina paljbe: 15-20 kom/min\n• Kapacitet spremnika: 5 metaka\n• Efektivni domet: 2000 metara\nB94 ili nekada V94, je verzija OSV-96. Prema nekim informacijama, korištena je u Čečeniji od federalnih snaga protiv separatista, za direktno udaranje kroz teške zaklone. Preklapanje ovo oružja je neophodno, jer je jako dugo oružje kada se sklopi, a namenjen ja za pucanje iz ležećeg položaja sa dvonožnog postolja, iz cevi dužine jednog metra. Kundak je napravljen od plastike, sa gumenim jastučićem za rame. Može se opremiti različitim optikama i noćnim nišanima</text>
+	</string>
+	<string id="ammo-12.7x108">
+		<text>12.7x108mm BS</text>
+	</string>
+	<string id="ammo-12.7x108_s">
+		<text>12.7x108mm</text>
+	</string>
+	<string id="enc_weapons1_ammo_12.7x108_desc">
+		<text>12.7x108mm je municija namenjena za teške mitraljeze koje je koristio SSSR i bivši Varšavski Pakt. Još je u upotrebi u sadašnjoj Rusiji ali i drugim zemljama. To je ruski ekvivalent NATO-voj .50 BMG (12.7x99mm NATO) municiji. Razlika u obliku metka, vrsti baruta, i sami metak 12.7x108mm je 9mm duži. Municija 12.7x108mm može se koristiti protiv različitih meta, uključujući i oklopna vozila, što je dokazano u oba Iračka rata. Keramičke jezgra osigurava probijanje svih pancira i oklopa debljine do 15 mm. Za snajpere ova je municija proizvedena s visokom preciznošću izrade, i pruža bolju preciznost</text>
+	</string>
+	<!-- Minigun M-134 + it's Cartridges -->
+	<string id="wpn-m_134">
+		<text>M-134 Minigun</text>
+	</string>
+	<string id="enc_weapons1_wpn-m_134">
+		<text>Modifikovana verzija šestocevnog M-134 Miniguna. Koristi 5.56x45mm municiju. Zajedno sa M72-M, nastao je kao deo eksperimentalnog projekta. Specijalni akumulatori se pune energijom koja se može samo pronaći u određenim anomalijama. Egzoskelet se mora nositi da bi se rukovalo sa ovim oružjem, i to zbog toga što oružje mora biti pričvršćeno na njega radi akumulatora koji uvjek moraju biti priključeni. M134 Minigun je oružje koje koristi elektromotore za svoj rad. Za ispucanih 3,000 komada u minuti (50 komada/sekunda) troši 24-28 V DC, 58 Amp (~1.5 KWT), sa povećanjem vatrene moći, povećava se i potrošnja energije. Mitraljez radi po Gatling principu, koji koristi 6 rotacionih cevi.</text>
+	</string>
+	<string id="ammo-minigun">
+		<text>FMJ M-134 Minigun municija [150x3]</text>
+	</string>
+	<string id="ammo-minigun_s">
+		<text>FMJ M-134 [150x3]</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-minigun">
+		<text>Kutija od 450 komada municije [5.56x45mm SS190] za M-134 Minigun. Ova municija je povezana radi "hranjenja" motora mitraljeza. Da bi se ispravno rukovalo sa ovim oružjem, opremljen je sa elektronskom kontrolnom kutijom, koja, u slučaju ručne instalacije, ima 'glavni prekidač' i selektor paljbe. Za napajanje koristi par običnih automobilskih akumulatora.</text>
+	</string>
+	<string id="wpn-m_134-no_exo_message">
+		<text>PAŽNJA: Neophodno se opremiti egzoskeletom da bi mogli namontirati i upotrebiti ovo oružje!</text>
+	</string>
+	<!-- MG-42 + its Cartridges -->
+	<string id="wpn-mg42">
+		<text>MG 42</text>
+	</string>
+	<string id="enc_weapons1_wpn-mg42">
+		<text>MG-42 (skraćeno od nemačkog: Maschinengewehr 42) je univerzalni mitraljez koji je izrađen u nacističkoj Nemačkoj, a u službu Wehrmachta je ušao 1942. Dopunjena verzija koja je zamenila MG-34 za opštu upotrebu u svim granama Nemačkih vojnih snaga, iako su se oba oružja proizvodila sve do kraja rata. MG 42 je potvrdio svoj rekordnu pouzdanost, izdržljivost, jednostavnost i lakoća u radu, ali najveća vrednost mu je zapanjujuće velika vatrena moć. MG-42 ima jednu od navećih prosečnih stopa vatrene moći od svih jednocevnih i prenosivih mitraljeza, između 1,200 i 1,500 metaka u minuti, što je rezultiralo prepoznatljivim njuškastim skrivačem plamena.</text>
+	</string>
+	<string id="ammo-7.62x51box">
+		<text>7.62x51mm municija</text>
+	</string>
+	<string id="ammo-7.62x51box_s">
+		<text>7.62x51mm</text>
+	</string>
+	<string id="enc_maschinengewehr_ammo">
+		<text>Nemački vojni redenik od 50 komada municije za MG42 teški mitraljez. Ovi čelični redenici se koriste u dobošima od 50 komada municije ili se povežu u redenike od 100 ili 150 ili čak 250 metaka. 7.62x51mm municiju koristi MG-3, također dolazi u protupancirnoj verziji. Do ove municije je jako teško doći, i postoji samo u retkim skrovištima. Jedini ljudi koji je prodaju u Zoni su Hermit i Barmen.</text>
+	</string>
+	<!-- FLAME THROWER -->
+	<string id="wpn-flame_name">
+		<text>Bacač plamena</text>
+	</string>
+	<string id="wpn-flame_name_s">
+		<text>Bacač plamena</text>
+	</string>
+	<string id="wpn-flame_readme">
+		<text>Ručno izrađeni bacač plamena koji je napravio Šraf. Koristi smesu koloidalnog gasa 'F' i mineralnih ulja. Smesa se spontano pali čim dođe u kontakt sa vazduhom. Sam dizajn je jako jednostavan. Međutim, zbog nestabilne hemijske reakcije mešanja ovih 2 komponenti, jako je osetljivo i izuzetno opasno oružje. Očigledno, jedina osoba koja zna kako tačno bezbedno napraviti smesu, jeste dizajner oružja... "Šraf".</text>
+	</string>
+	<string id="wpn-flame_name_modern">
+		<text>Bacač plamena M2</text>
+	</string>
+	<string id="wpn-flame_name_modern_s">
+		<text>Bacač plamena M2</text>
+	</string>
+	<string id="wpn-flame_readme_modern">
+		<text>Bacač plamena M2 - ovo retko oružje nikada nije našlo put izvan Zone.</text>
+	</string>
+	<string id="ammo_flame_name">
+		<text>Gasna smesa</text>
+	</string>
+	<string id="enc_ammo_flame_name_descr">
+		<text>Gasna smesa: punjenje za različite modele bacača plamena u Zoni...</text>
+	</string>
+	<!-- CAMERA GUN AND- FILM CARTRIDGES -->
+	<string id="enc_weapons1_wpn-svd-foto">
+		<text>Fotopištolj</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd-foto_s">
+		<text>Fotopištolj</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd-foto_descr">
+		<text>Kao baza je uzeta snajperska puška SVD. Spremnik je namenjen za samo jednu vrstu municije posebnog dizajna. Proces fotografisanja se puno razlikuje od običnih fotoaparata. Metak kada dođe do određene tačke, stvara poseban impuls koji hvata senzor u puški ili pištolju, gde se nakon odgovarajuće obrade, formira slika na unutrašnjoj matrici, print ili ispis, koji se prenosi na papir.</text>
+	</string>
+	<string id="ammo_foto">
+		<text>Analogni film</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo_foto">
+		<text>Analogni film ili jednokratna matrica. Sposobna da pokupi zamah ili momentum željenog objekta, i pretvori ga print ili ispis na papiru, koji je drugi sloj filma. Kako se vrši prepoznavanje željenog cilja - nije poznato.</text>
+	</string>
+	<string id="ammo_7.62x54_foto">
+		<text>Foto municija</text>
+	</string>
+	<string id="enc_ammo_7.62x54_foto">
+		<text>Specijalna film municija za fotopištolj.</text>
+	</string>
+	<string id="wpn_eagle_m2">
+		<text>Fotopištolj</text>
+	</string>
+	<string id="enc_wpn-eagle_m2_foto">
+		<text>Desert Eagle modifikovan u fotopištolj. Ima sposobnost hvatanja posebnih signala željenog objekta i njihovo pretvaranje u sliku na papiru. Prigušivač nije moguće staviti ali je i nepotreban - zvuk pucnja je pretvoren u zvuk zatvarača, čije prisustvo sprečava pregled okoline. Tihi rad ponekad poništava automtski blic pri svakom pucnju. ima jako malo habanja. Pri opremanju za običnu municiju klaibra 9x39, za optički nišan koristi optiku fotoaparata. Međutim, sudeći po prirodi poklopca mehanizma i specijalnim žlebovima u cevi - snaga ovih metaka je monstruozna.</text>
+	</string>
+	<string id="wpn_eagle_m3">
+		<text>Eagle fotopištolj</text>
+	</string>
+	<string id="enc_wpn_eagle_m3_descr">
+		<text>Desert Eagle modifikovan u fotopištolj. Ima sposobnost hvatanja posebnih signala željenog objekta i njihovo pretvaranje u sliku na papiru. Prigušivač nije moguće staviti ali je i nepotreban - zvuk pucnja je pretvoren u zvuk zatvarača, čije prisustvo sprečava pregled okoline. Tihi rad ponekad poništava automtski blic pri svakom pucnju. ima jako malo habanja. Pri opremanju za običnu municiju klaibra 9x39, za optički nišan koristi optiku fotoaparata. Međutim, sudeći po prirodi poklopca mehanizma i specijalnim žlebovima u cevi - snaga ovih metaka je monstruozna.</text>
+	</string>
+	<string id="wpn_m4super90">
+		<text>Benelli M4 s optikom</text>
+	</string>
+	<string id="enc_weapons_wpn_m4super90">
+		<text>• Municija: 12x70 'sačma'\n• 12x76 'slug/dart'\n• Težina: 3 kg\n• Kapacitet: 6 Metaka\nThe M4 Super 90/XM1014 Je polu-automatski, gasom pogonjen, cevasti okvir namenjen za taktičku sačmaricu. Mehanizam udarne igle je sličan kao i kod modela "Benelli Montefeltro", sa nosačem udarne igle i dva rotirajuća držača koji se zabravljuju u produžetku cevi. Sačmara funkcioniše pomoću sistema pozajmice gasova sa inkoporiranim novel dizajnom, nazvanim Auto-Regulišući Gasom pogonjeni, ili "ARGO," od strane proizvođača. ARGO sistem koristi dve gasne dizne i podižuću vrstu klipova koji se kreću kroz kratke cilindre ispod cevi oružja. Klipovi udaraju direktno u prednju površinu nosača udarne igle i repetira oružje svaki put kad se povuče obarač. Prema rečima prozvođača, sistem je potpuno otporan na zastoje, zahteva minimalno održavanje i funkcioniše pouzdano sa svim tipovima standardne municije za sačmarice, od sitne sačme do tri inča (76mm) magnum municije. Ova varijanta je opremljena sa ne-skidajućim prigušivačem zbog taktičke efikasnosti.</text>
+	</string>
+	<string id="wpn_m4taktik">
+		<text>M4A1-Taktika</text>
+	</string>
+	<string id="enc_weapons_wpn_m4_taktik">
+		<text>• Municija: 5.56x45mm, SS109, 5.56x45mm AP\n• Kapacitet: 30 Metaka\n• Težina: 2.7kg\n• Brzina paljbe: 800 kom/min\n• Domet: 300 metres\n• Optika: Susat (2x) • Prigušivač: NATO (montažni)\n M4A1 karabin je potpuno automatska varijanta osnovnog M4 karabina namenjena za upotrebu u specijalnim operacijama. M4A1 se koristi gotovo u svim U.S. specijalnim operativnim jedinicama. Posebno je omiljen kod Protiv-Terorističkih i Specijalnih snaga za blisku borbu zbog kompaktnosti karabina i vatrene moći. Ove osobine su naročito značajne za borbu u urbanim sredinama ... Ovaj određeni primerak tog oružja je video i bolje dane, čini se da je bio ostavljen u Zoni na nemilost njenim nemilosrdnim uslovima previše dugo. 'Gavran' mi je rekao da ga je dobio kao deo trgovine od neko čudnog Amerikanca po imenu Nathan Drake...</text>
+	</string>
+	<string id="wpn_protecta">
+		<text>Prototip "Protekta"</text>
+	</string>
+	<string id="enc_weapons_wpn_protecta">
+		<text>• Municija: 12x70 fraction, 12x76 slug / dart\n• Težina: 4.4 kg\n- Kapacitet: 12 Metaka\n Protekta - oružje južnoafričke proizvodnje od 12 ležišta (dužina ležišta 70 mm). Kapacitet okvira-doboša - 12 metaka. Protekta je opremljena sa preklapajućim kundakom. U sklopljenom obliku kundak je iznad cevi oružja. Obarač oružja je izuzetno jenostavan i strukturno povezan sa samo-zapinjućom polugom okidača. Ovo oružje je najidealnije za saoodbranu. "Protektor" iz Južne Afrike (protekt - Engleski "odbrana") kao i njegova "zla" pojava, a i više je nego adekvatan za samoodbranu kalibrom 12 od bilo koga ko pokušava da vam ugrozi život. Jednostavnost dizajna omogućuje odlično funkcionisanje ovog gromovitog oružja.</text>
+	</string>
+	<string id="wpn_m4">
+		<text>M4 Karabin -Modifikovan-</text>
+	</string>
+	<string id="enc_weapons_wpn_m4">
+		<text>• Municija: 5.56x45mm ss109, 5.56x45mm AP • Težina: 4.4 kg\n• Kapacitet spremnika: 100 Metaka • Domet: 900 metara\n\n Ovo je potpuno modifikovana verzija automatske puške M4 Karabin koja je opremljena sa specijalno dizajniranim dvostrukim dobošem visokog kapaciteta od 100 metaka .. to ga čini mnogo težim oružjem nego što je standardna verzija M4 Karabina. Opremljena je sa stalnim prigušivačem, čineći ga izvrsnim stelt oružjem. Ima i fiksirani holografski nišan koji omogućuje dobar periferni vid u borbenim situacijama. Podržava pojedinačnu i potpuno automatsku paljbu .. Do sada nije poznato ko vrši ovakve modifikacije ovde u Zoni, ili je moguće da ju je neko doneo odnekud iz spoljnjeg sveta. Bilo kako bilo, to je vrlo koristan alat koji ponekad treba imati u svom arsenalu.</text>
+	</string>
+	<string id="wpn_mp5_sd">
+		<text>HK MP5-SD</text>
+	</string>
+	<string id="enc_weapons1_wpn_mp5sd">
+		<text>• Municija: 9x19mm Parabellum, 9x19mm +P+\n• Težina: 3.48 kg\n- Kapacitet: 100 Metaka\n• Brzina paljbe: 800 kom/min\n• Dužina cevi: 225 mm\n• Efektivni domet: 400 m\n Modifikacija MP5 automata. Ovaj model je opremljen sa demontirajućim prigušivačem i dobošem sa 100 metaka. Takođe poseduje stalnu kolimacijsku optiku, koja omogućuje prilično preciznu paljbu na neprijatelja. Veoma retko oružje u Zoni.</text>
+	</string>
+	<string id="wpn_scorpion">
+		<text>Škorpion Vz.61</text>
+	</string>
+	<string id="enc_weapons_wpn_scorpion">
+		<text>• Municija: 9x18mm FMJ\n• Težina: 1.28 kg\n• Dužina (kundak zatvoren/otvoren): 270/517 mm\n• Dužina cevi: 115 mm\n• Brzina paljbe: 850 metaka u minuti\n• Kapacitet spremnika: 10 or 20 Metaka\n• Efektivni domet: 25 metara\nKada je Češka vojska prihvatila Sovjetski standard 9x18 PM za pištoljsku municiju u 1982. godini, Škorpion je redizajniran za ovu veću i pomalo moćniju municiju. Prvi prototipi novog oružja napravljeni su u 1959. godini, a oficielno su prihvaćeni 1961. godine, pod oznakom "Samopal Vzor 1961" (automatski pištolj model 1961), ili SA Vz.61 skraćeno. Ovo oružje je dodeljeno mnogim jedinicama Čehoslovačke vojske, a takođe ga je mnogo i izveženo. Licencna verzija Škorpiona je proizvođena i u Jugoslaviji, gde je uglavno korišćena kao pomoćno oružje vojnih oficira. Na kraju krajeva nekoliko Škorpiona je pronašlo put i do ruku raznih terorističkih grupa, on je među njima bio omiljen zbog svojih malih dimenzija i laganog utišavanja. Lako se može upotrebljavati iz jedne ruke, kao i većina pištolja.</text>
+	</string>
+	<string id="wpn_mp5k">
+		<text>HK MP5K-PDW</text>
+	</string>
+	<string id="enc_weapons1_wpn_mp5k">
+		<text>• Municija: 9x19mm Parabellum, 9x19mm +P+\n• Kapacitet spremnika: 30 Metaka\n• Težina: 2.66 kg\nMP5K Lično odbranbeno oružje (Personal Defense Weapon - PDW) je dizajnirano kao borbeno oružje za vozilo ili posadu aviona. Bez obzira da li je zamena za pomoćno oružje ili samo njen dodatak, MP5K-PDW obezbeđuje vrlo visok stepen vatrene moći u malom pakovanju i dovoljno je lagan da se može uvek nositi, čak i kad se rukuje sa kompleksnom opremom. Veličina i težina MP5K-PDW, kao i njegova taktička fleksibilnost, čini ovo oružje idealnim izborom tamo gde su puška ili puškomitraljez nezamislivi a pištolj je bedan kompromis.</text>
+	</string>
+	<string id="wpn_walther_wa2000">
+		<text>Anomalni Valter WA 2000</text>
+	</string>
+	<string id="enc_weapons_walther_wa2000">
+		<text>• Municija: 7.62x54mm (7H1, BP, 7H14)\n• Težina: 4.1 kg\n• Kapacitet: 10 Metaka\nAnomalna Černomorova snajperska puška bazirana na dizajnu Valtera WA 2000 .. Značajno redukovane težine, olakšano i je nošenje zbog promena koje su nastale na molekularnom nivou pod direktnim uticajem nepoznatog Izomorfnog elementa. Kompjuterizovana optika. Koristi ručno izrađen okvir za municiju visokog kapaciteta. Ali najvažnije je - oružje može ispaljivati abnormalnu municiju 7.62x54mm kalibra. Razvijen u nemačkoj kompaniji Carl Walther Waffenfabrik u ranim 1980-tim kao specijalizovano oružje za policiju i anti-terorističke jedinice. Za razliku od mnogih drugih pušaka iz tog vremena, Valter WA 2000 je prvobitno dizajniran kao specijalizovano oružje, sa mnogim zanimljivim funkcijama. Međutim, uprkos njegovim prednostima, ova puška ima jedan nedostatak - vrlo visoku cenu jer je pravljeno u vrlo ograničenom broju koji ne prelazi 180 primeraka.</text>
+	</string>
+	<string id="wpn_m79">
+		<text>M79 Bacač Granata</text>
+	</string>
+	<string id="enc_weapons_wpn_m79">
+		<text>• Municija: granata M209\n- Težina: 2.7 kg\n• Broj punjenja: 1\nM-79 je laki bacač sa pojedinačnim punjenjem i cevi poput puške. Kundak mu je od uvoznog drveta, montiran na pozadini platforme amortizera, absorber trzaja. Da bi napunio cev potrebno je preklopiti vrhom na dole i staviti granatu u cev, to takođe nateže udarnu iglu. Ova operacija zabravljuje cev slično kao kod lovačkih pušaka. M-79 je dizajniran za upotrebu protiv žive sile, transportnih i lako oklopljenih vozila, za neprijatelja na udaljenostima do 400m.</text>
+	</string>
+	<string id="wpn_groza_m3">
+		<text>OC-14 "Groza" LCC</text>
+	</string>
+	<string id="enc_weapons1_wpn_groza_m3">
+		<text>• Municija: 9x39mm PAB-9, SP-5, SP-6\n• LCC: Yes\n• Efektivni domet: 400 m\n• Efektivni domet: 600 m\n• Brzina paljbe: 700 kom/min\n• Kapacitet: 20 Metaka\n• Granate: VOG-25, VOG-25P\nOC-14 Groza sa laserskim nišanom, adaptirana u šupi nekog puškara. Zbog svoje ne savršenosti u implementaciji preciznost je i dalje dobra, ali tu ima nekoliko mana.\nAktivacija LCC:\nDa bi se aktivirao potrebno je opaliti jednom. Nišan se gasi automatski nakon 20-30 sekundi nakon poslednjeg hitca. Ako nišan neće da se uključi izmenjaj oružja, laser će raditi dodatnih 20 sekundi. Mđutim, ukoliko tokom paljbe stisneš punjenje, nišan se više neće isključivati, da bi ga uklonio u ovom slučaju, potrebno je opaliti iz "Storm-a" i čekati da se automatski isključi.</text>
+	</string>
+	<string id="wpn_crossbow_m1">
+		<text>Samostrel Norman</text>
+	</string>
+	<string id="enc_wpn_crossbow_m1">
+		<text>• Municija: Samosterlne strelice\n• Inicijalna brzina strelica: 130 m/s\n• Efektivni domet: 90 m\nModifikovani samostrel Norman. Instalirana mu je mnogo kvalitetnija optika. Modernizovan tenzioni mehanizam i ojačana tetiva, čine ga mnogo moćnijim, kao i povećana inicijalna brzina strelice i redukovana težina.</text>
+	</string>
+	<string id="wpn_aks74m">
+		<text>AKS-74 "Kobra"</text>
+	</string>
+	<string id="enc_wpnaks74m">
+		<text>• Municija: 5.45x39mm FMJ, 5.45x39mm AP\n• Težina: 3.5 kg\n• Kapacitet spremnika: 30 Metaka\nModifikovani AKS-74 specijalno dizajniran za padobranske jedinice. Napravljen sa olakšanim trouglastim metalnim kundakom, koji se preklapa u levo, čineći ga mnogo prikladnijim nego AKMS. Svi drveni delovi su zamenjeni sa specijalnim, olakšanim polimerom, što ka je učinilo mnogo zgodnim oružjem za taktičke namene. Po narudžbini mu je ugrađen "Kobra" kolimatorski polarizovani nišan koji je trajno zakačen za oružje, služi za precizno gađanje na srednjim i bliskim rastojanjima.</text>
+	</string>
+	<string id="wpn_gauss_krayzis">
+		<text>Gaus M72-G1</text>
+	</string>
+	<string id="enc_weapons_wpn_gauss_krayzis">
+		<text>• Municija: 2-mm kapsule\n- Težina: 4.5 kg\n- Kapacitet: 10 Metaka\nPrototip puške Gaus M72-GR. Teško da se može nazvati modifikovanom puške Gaus - zapravo, jer je pricip rada ostao ne promenjen. A svi ostali sklopovi i komponente su zamenjene i optimizovane. Ovaj prototip je proizveden u malim količinama po narudžbi klana "Poslednji Dan".</text>
+	</string>
+	<string id="wpn_gravigun">
+		<text>Gravitaciona puška</text>
+	</string>
+	<string id="wpn_gravigun_desc">
+		<text>Gravitaciona puška? Ovo je vrlo adaptirajuće, korisno i ponekad destruktivno oružje. Sudeći po nekim izveštajima razvijeno je u Istraživačkim Institutu za uništenje Zone. Gravitacijska puška manipuliše nultim energetskim poljem. U tajnim vojnim arhivama, uređaj se spominje sa kodnim imenom kao "uređaj sa kontra-rezonantnim singularitetom". Korišćenje gravitacijske puške može privući određene predmete a zatim ih odbaciti sa velikom silom. Mod hvatanja je aktivan držanjem levom rukom. Mod se deativira otpuštanjem leve ruke. Takođe, moguće je odbaciti objekte bez njihovog hvatanja. Ovaj mod se takođe aktivira levom rukom. Kao pogodnost, korišćenjem gravitacione puške, možete aktivirati artefakte, stvarajući odgovarajuću anomaliju. Morate uhvatiti artefakt i onda ga odbaciti. Pri sudaru artefakta ili odbijanjem od zemlju nakon bacanja, aktivira se anomalija. Ovo svojstvo gravitacionu pušku čini vrlo opasnim oružjem.</text>
+	</string>
+	<string id="ammo_gravi">
+		<text>Energetsko Punjenje</text>
+	</string>
+	<string id="ammo_gravi_desc">
+		<text>Energetsko Punjenje za Gravitacionu pušku.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Efektivni domet: 650 metara\n• Ciljajuci Domet: 1000 metara\n• Brzina paljbe: 1800/600 kom/min\n• Kapacitet spremnika: 30 Metaka\nAN-94 (ponekad nazivana i "Abakan") je napredna Ruska automatska puška. Inicijali predstavljaju "Avtomat Nikonova" (po glavnom dizajneru Genadiju Nikonovu) Model 1994. Ruska vlada je formalno objavila da je AN-94 naslednik i zamena legendarne serije pušaka Kalašnjikov prateći Projekat Abakan napredne automatske puške u testiranju u USSR tokom 1980-tih. Objavljeno je da je sistem Genadija Nikonova značajno nadmašio mnoge izuzetne rivale, pokazao se kao bolji od AEK-971 i AKB-1 (naslednik od AK-107). Nikonov AN-94 je bio glavna porudžbina za Sovjetske (sada Ruske) oružane snage, sa masovnom proizvodnjom naručenom iz tradicionalne kuće Kalašnjikove automatske puške, istorijske Izmaš državne fabrike.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m1">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Optički Nišan: PSO-1 (x4)\n• Efektivni domet: 650 metara\n• Ciljajuci Domet: 1000 metara\n• Brzina paljbe: 1800/600 kom/min\n• Kapacitet spremnika: 30 Metaka\nAN-94 'Abakan' Snajperska puška opremljena sa modifikovanim optičkim nišanom. Ima ograničenje u paljbenom mehanizmu - ili pojedinačna paljba, ili kratki rafal od dva metka. Ugrađena optika poseduje osveženje visoke frekvencije u odnosu na standardna nišane.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m2">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Optički Nišan: PSO-1 (x4)\n• Efektivni domet: 650 metara\n• Ciljajuci Domet: 1000 metara\n• Brzina paljbe: 1800/600 kom/min\n• Kapacitet spremnika: 30 Metaka\n• Prikačeni bacač granata: GP-25 (VOG-25 i VOG-25P)\nAN-94 'Abakan' jurišni model, opremljen sa integrisanim bacačem granata predstavlja vrlo efektivno oružje za borbu na srednjim i dalekim borbenim situacijama.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74">
+		<text>• Municija: 5.45x39mm FMJ, 5.45x39mm AP\n• Efektivni domet: 625 metara\n• Ciljajuci Domet: 800 metara\n• Brzina paljbe: 650 rpm\n• Kapacitet spremnika: 30 Metaka\nAK-74 je automatska puška koja je razvijana ranih 1970-tih u Sovjetskom Savezu. Razvijena je iz ranijih modela AKM (predstavlja u stvari poboljšanu verziju AK-47) i predstavljena je 1974. Puška je prvi put uvedena u službu prilikom Sovjetsko - Avganistanskog konflikta. Trenutno, ova puška se i dalje koristi u većini zemalja proisteklih u bivšeg SSSR.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m1">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Efektivni domet: 400 metara\n• Ciljajuci Domet: 550 metara\n• Brzina paljbe: 900 kom/min\n• Kapacitet spremnika: 45 Metaka\n• ne-skidajući prigušivač\nModifikovana AKS-74U za koju se priča da je pripadala legendarnom S.T.A.L.K.E.R.u 'Strelok-u'. Povećana brzina paljbe na 900 metaka u minuti. Opremljena je sa ne-skidajućim prigušivačem i koristi okvire od 45 metaka</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Efektivni domet: 200 metara\n• Ciljajuci Domet: 400 metara\n• Brzina paljbe: 650-735 kom/min\n• Kapacitet spremnika: 30 Metaka\n1979-te, u Sovjetskoj vojsci usvojena je skraćena verzija AKS-74: AKS-74U, koja je imala taktičku primenu, povezujući prazninu između puškomitraljeza i automatske puške. Namenjena je uglavnom za upotrebu u specijalnim jedinicama, padobranskim jedinicama, jedinicama za podršku i posadama oklopnih vozila.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u_m1">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Efektivni domet: 200 metara\n• Ciljajuci Domet: 400 metara\n• Brzina paljbe: 650-735 kom/min\n• Kapacitet spremnika: 45 Metaka\nAKS-74U 'Spec-Ops' je opremljena sa ne-skidajućim prigušivačem. AKS-74U skraćena automatska puška ("U" sufiks znači "Ukraćena" je razvijena kasnih 1970-tih iz modela AKS-74 automatske puške. Namenjena je kao lično odbranbeno oružje za posade tenka, topa, helikoptera i drugih vozila,a takođe i za jedinice za specijalne operacije, koje zahtevaju kompaktno i relativno moćno individualno automatsko oružje. AKS-74U ima veličinu i efektivni domet tipičnog automata, ali njena prednost uglavnom se ogleda što koristi municiju i okvire kao i automatska puška, a takođe većina delova se mogu razmenjivati sa automatskom puškom AK-74.</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta">
+		<text>• Municija: 9x19mm Parabellum\n• Efektivni domet: 50 metara\nOriginalno dizajniran za Italijansku vojsku i policiju, Model 92 pištolji su ih proslavili (i po dobru i po zlu) kao standardno pomoćno oružje američke vojske. Razvijan je između 1970-te i 1975-te kao moguća zamena za staru Beretu M951, a ušao je u proizvodnju u Italiji 1976. godine.</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16">
+		<text>• Municija: 12x70 sačma, 12x76 zrno/strelica\n• Težina: 3 kg\n• Kapacitet: 2 Metaka\nSkraćena sačmarica BM16 je moćna, lagana i vrlo pokretljiva u skučenim prostorima, ali ima vrlo lošu preciznost (zbog skraćene cevi i nedostatka bilo kakvog nišana), inače mali kapacitet od samo dva punjenja stvara glavobolju prilikom upotrebe, posebno u borbi protiv naoružanih neprijatelja. Može biti punjena sa sačmom, zrnom ili strelicom, ali slaba je korist u upotrebu zrna ili strelice zbog jako loše preciznosti oružja. U svim situacijam osim u vrlo bliskoj borbi, TOZ-34 je mnogo bolji izbor, mnogo je precizniji i moćniji.</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt1911">
+		<text>• Municija: .45 ACP, .45 Hidro-Šok\n• Efektivni domet: 62 metara\n• Kapacitet spremnika: 7 Metaka\nM1911 je potezno oružje, polu-automatsko, sa okvirom ,kompenzatorom trzaja i pištoljskim užljebljenjem .45 ACP municiju. Džon M. Brauning je dizajnirao vatreno oružje koje je bilo standardno pomoćno oružje američke oružane snage od 1911 do 1985. M1911 se još uvek koristi u nekim jedinicama američke vojske. Mnogo je korišćen tokom I svetskog rata, II svetskog rata, rata u Koreji i kasnije u Vijetnamu.</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_m1">
+		<text>• Municija: .45 ACP, .45 Hidro-Šok\n• Efektivni domet: 62 metara\n• Kapacitet spremnika: 7 Metaka\nKolt M1911 rađen po narudžbini sa prigušivačem. Izbor mnogih plaćenih ubica. Za ovaj konkretno se priča da je pripadao legendarnom S.T.A.L.K.E.R.u koji je delovao kao elitni plaćeni ubica širom Zone. Njgovo ime je 'Crni Ujed' ('BlackByte'), njega su svi poštovali a i bojali se pogotovo oni koji nisu imali sreće pa im se put ukrstio sa njegovim, ili još gore ... da završe na njegovom spisku ... Oružje je opremljeno sa ne skidajućim prigušivačem. Dizajnirano je tako da koristi povratni mehanizam koji koristi gasove direktno iz prigušivača koji je zakačen na direktno na navlaku zatvarača, sa specijalno ugrađenom komorom. Masa mehanizma potiskivača/klizača je projektovana tako da stvara dovoljno vreme zadrške u otvaranju komore, tako da metak dobija maksimalnu brzinu pre otvaranja komore i neizbešnog stvaranja buke.</text>
+	</string>
+	<string id="enc_weapons1_wpn-desert-eagle">
+		<text>• Municija: .45 ACP, .45 Hidro-Šok\n• Efektivni domet: 80 metara\n• Kapacitet spremnika: 7 Metaka\nČuveni 'Desert Eagle' je polu-automatski pištolj krupnog dizajna koji radi po principu pozajmice gasova projektovan od strane američke kompanije 'Magnum Research', a proizvođen je primarno od strane Izraelskog IMI-a (Israel Military Industries, sada već Israel Weapon Industries). Prozvodnja je preseljena u Saco Defense u američkoj državi Mejn od 1996 do 2000 godine kada je stavljena oznaka XIX, ali je vraćena opet u Izrael kada je Saco kompanije kupljena od strane General Dynamics. Desert Eagle je upotrebljavano oružje u preko 500 filmova i TV serija, što je značajno povećalo njegovu popularnost i masovniju prodaju.</text>
+	</string>
+	<string id="enc_weapons1_wpn-eagle_m1">
+		<text>• Municija: 9x39mm PAB9, SP-5, SP-6\n• Efektivni domet: 80 metara\n• Kapacitet spremnika: 10 Metaka\nModifikovani Desert Eagle koji koristi 9x39mm municiju i opremljen je sa specijalno dizajniranim optičkim nišanom. Stvarno strašan komad oružja sa neverovatnim destruktivnim potencijalom.</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm HP\n• Optički Nišan: (h1.6)\n• Efektivni domet: 400 metara\n• Ciljajući Domet: 540 metara\n• Brzina paljbe: 850 kom/min\n• Kapacitet spremnika: 30 Metaka\n• M209 Bacač granata\nF2000 puška sa gasnim cilindrom, rotirajućom udarnom iglom, selektivnom vrstom paljbe, izraženim polimerskim kundakom sa ležištem za okvir u njemu. Posedije gasni klip kratkog hoda i sedmostepenu rotirajuću udarnu iglu koja se zabravljuje na produžetak cevi. Jedinstvena operacija na F2000 pušci patentirana je kao patentni prednji sistem izbacivanja: prazne čaure, izbačene iz komore cevi, putuju iz zadnjeg dela oružja do izlaznog otvora blizu cevi pomoću specijalne cevi za izbacivanje i ispadaju iz oružja na bezbednom odstojanju od lica strelca. To je postignuto korišćenjem specijalne ljuljajuće vođice, koja ulazi u putanju zatvarača kada je opaljivanje izvršeno i usmerava čauru, koja se izvlači putem izvlakača, sve do cevi za izbacivanje, dok, istovremeno, zatvarač iz zadnjeg položaja zahvata novi metak iz okvira. Okidački sklop je montiran prilično napred na levoj strani, odmah iznad prednjeg rukohvata, tako da se može lako rukovati desnom rukom ukoliko levoruka osoba nosi oružje. Selektorska poluga je montirana odmah ispod zaštite okidača. Sve ove operacije su kombinovane kako bi F2000 puška bila laka za upotrebu i kod levorukih i kod desnorukih bez ikakvih prepravki na oružju. U svojoj standardnoj konfiguraciji, F2000 je savršeno balansirana u nivou zadnjeg rukohvata.</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort">
+		<text>• Municija: 9x18mm, 9x18mm MSDS\n• Efektivni domet: 25 metara\n• Kapacitet spremnika: 15 Metaka\nFort 14 pištolj je razvijen 2003.godine u državnoj FORT fabrici Ukrainskih bezbednosnih i policijskih snaga. U pokušaju da proizvedu moćnije oružje, nego stariji 9x18mm PM Fort 12 pištolj, Fort 14 je odmah prilagođen za snažniju 9x19mm PB municiju, a takoće ima i zabravljeni zatvarač i dužu cev. Kasnije, dizajneri su odlučili da se vrate ma manje moćnu 9x18mm PM/Makarov municiju, tako da je nov pištolj redizajniran sa običnim povratnim mehanizmom. Međutim, zadržao je sistem lake izmene cevi, obično sa zabravljenim zatvaračem, kao i kompenzatorom trzaja. U poređenju sa Fortom 12, Fort 14 ima značajno dužu cev i domet, obe stvari su rezultirale i poboljšanu preciznost, a i neznatno povećanje kapaciteta okvira.</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort_m1">
+		<text>• Municija: 9x18mm, 9x18mm MSDS\n• Efektivni domet: 25 metara\n• Kapacitet spremnika: 15 Metaka\nFort 14 pištolj je razvijen 2003.godine u državnoj FORT fabrici Ukrainskih bezbednosnih i policijskih snaga. U pokušaju da proizvedu moćnije oružje, nego stariji 9x18mm PM Fort 12 pištolj, Fort 14 je odmah prilagođen za snažniju 9x19mm PB municiju, a takoće ima i zabravljeni zatvarač i dužu cev. Kasnije, dizajneri su odlučili da se vrate ma manje moćnu 9x18mm PM/Makarov municiju, tako da je nov pištolj redizajniran sa običnim povratnim mehanizmom. Međutim, zadržao je sistem lake izmene cevi, obično sa zabravljenim zatvaračem, kao i kompenzatorom trzaja. U poređenju sa Fortom 12, Fort 14 ima značajno dužu cev i domet, obe stvari su rezultirale i poboljšanu preciznost, a i neznatno povećanje kapaciteta okvira.</text>
+	</string>
+	<string id="enc_weapons1_wpn-g36">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm HP\n• Optički Nišan: (h3.5)\n• Efektivni domet: 440 metara\n• Ciljajuci Domet: 800 metara\n• Brzina paljbe: 750 kom/min\n• Kapacitet spremnika: 30 Metaka\nG36 je automatska puška 5.56mm kalibra sa selektivnim izborom paljbe, ispaljuje metak uz pomoć zatvorenog rotirajućeg zatvarača. G36 ima konvencionalni izgled i modularni dizajn komponenti. Uobičajeno za sve varijante iz G36 porodice je da imaju: sklop primača i kundaka, zatvarač sa nosačem udarne igle i povretnim mehanizmom, kao i vođicu. Primač sadrži cev, ručku za nošenje i integrisani optički nišan, okidačka grupa sa rukohvatom, štitnik za ruku i ležište za okvir. G36 poseduje lebdeću cev (cev ne dodiruje rukohvat). Ona je pričvršćena za primač pomoću posebnog vijka, može se skinuti uz pomoć ključa. Cev je proizvedena uz pomoć procesa hladnog kovanja i poseduje hromirane žljebove sa 6 polja povijenih u desnu stranu i 1 u  178 mm (1:7 inča) stepen zakretanja. Sklop sevi sadrži i gasni blok, kružni deo sa ušicom bajoneta takođe se može koristiti za ispaljivanje granata i  fleš bombi.</text>
+	</string>
+	<string id="enc_weapons1_wpn-gauss">
+		<text>• Municija: (2) Milimetarske kapsule\n• Efektivni domet: 1000 metara\n• Kapacitet spremnika: 10 punjenja\nGravitaciona pulsna 'Gaus' Puška. Ultra-precizno oružje napravljeno u Zoni za Eksperimantalni projekat naoružanja 'Experimental Weapons Project' [EWP]. Virtualno utišanog rada, koristi stabilisanu jednosmernu struju inicijalizovanu iz tokova izdvojenih iz artefakata. Uprkos toma što ima mali kapacitet okvira, ovo oružje poseduje znatnu destruktivnu snagu. Ovo oružje praktično nema trzaja, što ga čini izuzetno preciznim. Velike je vrednosti, a i vrlo je traženo na tržištu.</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza">
+		<text>• Municija: 9x39mm PAB9, SP-5, SP-6\n• Efektivni domet: 400 metara\n• Ciljajuci Domet: 600 metara\n• Brzina paljbe: 700 kom/min\n• Kapacitet spremnika: 20 Metaka\n• Bacac Granata: [VOG-25 and VOG-25P]\nOTs-14 Groza ('Grom') modularna automatska puška koja je razvijana tokom ranih 1990.-tih od strane V. Teleša i Ju. Lebedeva u TSKIB SOO (Centralnom birou za dizajn sportskog i lovačkog naoružanja, lociranom u gradu Tula). Namenjena je za razne specijalne snage u ruskoj vojsci i Ministarstvu unutrašnjih poslova kao izbor za urbane borbe. Proizvođena je u kratkom roku i u malim količinama u  Tula fabrici oružja tokom sredine 1990'-tih. OTs-14 su bile u upotrebi tokom akcija u prvim anti-terorističkim kampanjama u Čečeniji 1999., ali ubrzo su ispale iz priče i nisu se više proizvodile.</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m1">
+		<text>• Municija: 5.45x39mm, 5.45x39mm AP\n• Efektivni domet: 410 metara\n• Ciljajuci Domet: 600 metara\n• Brzina paljbe: 700 kom/min\n• Kapacitet spremnika: 30 Metaka\n• Bacac Granata: [VOG-25 and VOG-25P]\nNadograđena OTs-14-2 'Groza-2' rekalibrisana za upotrebu sa 5.45x39mm municijom. Osnovne komponente ovog oružja su pozajmljene direktno od AKS-74U automatske puške i neznatno modifikovane, pojednostavljene u dizajnu u potpunosti što je ovo oružje načinilo znatno jeftinijim. Oružje je modularne izrade što omogućuje sklapanje četiri varijante oružja u zavisnosti ciljeva misije. Konfigurasan je u 'bullpup' izvedbi zbog povećane mobilnosti i dobrog balansa. Rukohvat je pomeren u napred, čineći ovu automatsku pušku kompaktnom, pogodnom i neupadljivom za nošenje, a takođe i vrlo doro izbalansiranom da se može vrlo lako rukovati i samo sa jednom rukom.</text>
+	</string>
+	<string id="enc_weapons1_wpn-hpsa">
+		<text>• Municija: 9x19mm Pm, 9x19mm P\n• Efektivni domet: 70 metara\n• Kapacitet spremnika: 13 Metaka\nHP-DA je poluautomatski pištolj zabravljenog zatvarača koji funkcioniše uz pomoć trzaja. Koristi Browning-ov mehanizam za uzubljenje i povlačenje cevi. Okidač ima dvostruko delovanje sa obaračem prilagođenim za obe ruke i sa sigurnosnom zaštitom od slučajnog opaljenja, a dvostruka funkcija je moguća samo uz sigurnosnu zaštitu. Dodatno osiguranje postoji kako bi sprečilo slučajno opaljenje ukoliko se zatvarač ne zabravi potpuno. Osnovni dizajn sadrži fiksirane nišane na navlaci zatvarača. Okvir je dvoredni i može primiti 13 metaka. Dugme za oslobađanje okvira nalazi se iza obarača sa obe strane rukohvata i može se aktivirati levom i desnom rukom.</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Optički Nišan: SUSAT (x4)\n• Efektivni domet: 500 metara\n• Ciljajuci Domet: 900 metara\n• Brzina paljbe: 610-775 kom/min\n• Kapacitet spremnika: 30 Metaka\nL85A2 is a 'Bull-pup' puška (što znači da je rukohvat isped okvira sa municijom). Nalazi se u standardnoj upotrebi u britanskoj vojsci i mnogo puta do sada je dokazala svoju vrednost. To je po svom dizajnu vrlo precizno oružje, a i zgodno  za rukovanje, takođe vrlo dobro amortizuje trzaj. Međutim, poseduje nekoliko mana: primetna je kompleksnog samog oružja, što dovodi do čestih zastoja. Takođe je vrlo teško oružje obzirom da je 'Bull-pup' puška. To je zbog protiv-tega u kundaku namenjenog dobrom balansu oružja. Puška takođe nije prilagođena za levoruke.</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m1">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Optički Nišan: SUSAT (x4)\n• Efektivni domet: 500 metara\n• Ciljajuci Domet: 900 metara\n• Brzina paljbe: 610-775 kom/min\n• Kapacitet spremnika: 30 Metaka\nNovo standardno oružje britanskih oružanih snaga, koje je zamenilo prethodno L85A1 (SA80). Novo oružje je prilično poboljšano u odnosu na prethodne varijante. Poseduje značajna poboljšanja kao što je poboljšana udarna igla, tako da je smanjen broj učestalih zastoja na oružju. Jedina loša stvar koja se da uočiti kod ovog novog modela je to da je još teži u odnosu na prethodni model.</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m2">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Optički Nišan: SUSAT (x4)\n• Efektivni domet: 500 metara\n• Ciljajuci Domet: 900 metara\n• Brzina paljbe: 610-775 kom/min\n• Kapacitet spremnika: 30 Metaka\nL85 puška u svojoj L85A2 poboljšanoj verziji je standardno individualno oružje britanskih oružanih snaga. Pri operacijama puška je često opremljena sa LLM01 modulom laserskog nišana. L85A2 može takođe imati montiran L17A2 UGL 40 mm podcevni bacač granata. Pored podcevnog bacača granata može imati i dodatnih 3.30 lb (1.49 kg) težina za L85A2. Od 2007 nadogradnja uključuje i dodatni SUSAT optički nišan, novi štitnik za šaku sa 'Picatinny' žljebom (sa opcionim bipod rukohvatom), a i novi skrivač plamena u vortex stilu koji je dodeljen samo određenim vojnim jedinicama.</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Efektivni domet: 300 metara\n• Brzina paljbe: 910 kom/min\n• Kapacitet spremnika: 30 Metaka\nLR 300 je automatska puška, a komplet za konverziju je proizveden od strane 'Z-M Weapons' kompanije. Puška je bazirana na AR-15 platformi i vrlo je slična američkoj službenoj vojnoj pušci M16. Oružje je promovisano kao 'izvrsan upadni oružni sistem' što je pretpostavljalo pogodnost za vojnu upotrebu u bliskoj borbi koja često uključuje agresivne i brze akcija na ulazima u zgrade, pa je važna kompaktnost i brz izbor načina dejstva. Kod puške je takođe primetna mogućnost korišćenja potpuno preklopivog kundaka koji se može i podešavati. Većina varijanti AR-15/M16 poseduju masivnu, cilindričnu amortizujuću cev, koju često nazivaju  produžetak primača, što ukazuje da je odprilike 20 cm tačno iza primača, pa oružje ne može funkcionisati bez njega. Tako da ovakav princip obično isključuje korišćenje svih osim teleskopskih ili fiksnih kundaka. LR 300 poseduje adaptiranu verziju  AR-15 standardnog gasnog sistema sa direktnim udarom što isključuje potrebu za produžetkom primača.</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300_m1">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Optički Nišan: SUSAT (x4)\n• PBiBS\n• Efektivni domet: 300 metara\n• Brzina paljbe: 910 kom/min\n• Kapacitet spremnika: 30 Metaka\nAn upgrade to the well known and popular LR 300 rifle.This variant is equipped with a (4x) SUSAT Scope, and has been modified for single-fire operation so that it may be used as a lightweight sniper rifle. Uses standard AR-15-typelower receivers; only the upper receivers are different and contain patented modified gas system. The key reason for the modification was to prowide AR-15-type weapon with capability to mount side-folding stock rather than partially collapsible M4 carbine-typestock. Z-M Weapons intended its rifles mostly for military and law enforcement personnel, by offering LR-300-ML weapons with short barrels and select-fire capability. Civilian (semi-automatic only) versions also were offered to general public, but at prices well above the average price of  AR-15-type rifle.</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5">
+		<text>• Municija: 9x19mm PM, 9x19mm P\n• Efektivni domet: 25-100 metara\n• Brzina paljbe: 800 kom/min\n• Kapacitet spremnika: 30 Metaka\nThe Heckler and Koch MP5 (From Maschinenpistole 5 - German: "machine pistol model 5") is a 9mm submachine gun of German design, developed in the 1960s by a team of engineers from the German small arms manufacturer Heckler and Koch GmbH (HK) of Oberndorf am Neckar. The MP5 is currently one of the most widely used submachine guns in the world, having been adopted by numerous law enforcement agencies and special forces groups. In the 1990's.</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m1">
+		<text>• Municija: 9x18mm, 9x18mm MSDS\n• Efektivni domet: 25-100 metara\n• Brzina paljbe: 800 kom/min\n• Kapacitet spremnika: 30 Metaka\nKnown the world over for its durability and reliability, the Heckler and Koch MP5 series of submachine guns are widely recognized as being the best guns of their kind on the market today. Units from the British S.A.S. and U.S. Navy SEALs to Germany's GSG-9 sear by their HKs, and law enforcement tactical teams throughout the free world depend upon this precision-engineered closed bolt SMG as its design affords a greater degree of accuracy than its open bolt counterparts (less vibration and muzzle rise in either firing mode). This becomes crucial in situations requiring a minimum of collateral damage: a simple flick of the selector switch and this SMG becomes an accurate, quick-firing carbine. This version, the MP5A3, has been rechambered to accept 9x18mm rounds. A true find for S.T.A.L.K.E.R.s throughout the Zone.</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m2">
+		<text>• Municija: 9x19mm PM, 9x19mm P\n• Efektivni domet: 25-70 metara\n• Brzina paljbe: 700 kom/min\n• Kapacitet spremnika: 30 Metaka\nUpgraded version of the Heckler and Koch MP5 equipped with a non-detachable Silencer. Heckler and Koch, encouraged by the success of the G3 automatic rifle, developed a family of small arms consisting of four types of firearms (all based on a common G3 design layout and operating principle), where the first type was chambered in 7.62x51mm NATO, the second - using the 7.62x39mm M43 round, third - the intermediate 5.56x45mm NATO caliber and the fourth type and chambering the 9x19mm Parabellum pistol cartridge. The MP5 was created within the fourth group of firearms and was initially known as the HK54.</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb">
+		<text>• Municija: 9x18mm, 9x18mm MSDS\n• Efektivni domet: 25 metara\n• Kapacitet spremnika: 8 Metaka\nThe PB (Pistolet Besshumnyj - Silenced Pistol), also known for Soviet/Russian army as 6P9, was developed in 1967 for Spetsnaz elements of the Soviet army, as well as for operatives of KGB. The pistol is based on significantly modified Makarov PM pistol, and features an unique integral two-part silencer. The rear part of the silencer is fixed around the barrel, which is drilled to decrease the muzzle velocity below the speed of sound. The front part of the silencer is quickly detachable, so pistol can be broken down into two parts for more convenient carry. Unlike many other integrally silenced pistols the PB can be safely fired with the front part of the silencer removed, but this will greatly increase the sound signature. Still, it is an useful emergency feature. Because the front part of the barrel is enclosed into the silencer, the slide is made very short and cannot contain the return spring. Instead, the return spring is located in the grip, under the right panel, and linked to the slide via the rocking lever. The double-action firing unit with external hammer and slide-mounted safety/decocker, as well as the magazine, are borrowed from Makarov PM pistol with no modification. PB has fixed sights. For carry, it is issued with a special holster, which has compartments for the gun and the detached front part of the silencer.</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm">
+		<text>• Municija: 9x18mm, 9x18mm MSDS\n• Efektivni domet: 25 metara\n• Kapacitet spremnika: 8 Metaka\nThe Red Army fought the Great Patriotic War of 1941-45 with both the semi-automatic Tokarev TT pistols and the obsolete Nagant M1895 revolvers. Despite the fact that more potent pistols were designed just before and during the war, the TT remained the mainstream weapon. Wartime experience, which included a close (and sometimes very personal) familiarity with German pistols, resulted in a major change of thinking about the role and necessary features of a military pistol for the Soviet army. Another factor that played a major role in the development of new requirements for the next military pistol, was the realistic prospect of a Third World War, with massive nuclear bombing and other such large-scale actions; as a result, pistols played a very minor role in both strategic and tactical doctrines of the Soviet Army. Furthermore, Tokarev pistols, despite being relatively simple and powerful, showed significant deficiencies, some of them quite serious, such as the lack of positive safety, so almost immediately after the war the GAU (Glavnoye Artillerijskoe Upravlenie and General Artillery Department of General Staff) issued a new set of requirements for a military and police pistol.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg-6">
+		<text>• Municija: VOG-25, VOG-25P Grenades\n• Maksimalan Domet: 380 metara\n• Kapacitet: 6 Grenades\nThe RG-6, or "Bulldog" as it has come to be known by S.T.A.L.K.E.R.s ... was developed between 1993 and 1994. The new stand-alone, rapid firing multi-shot launcher was required to increase the firepower of the infantry during the urban combat, specific for recent small-scale conflicts, such as Chechen wars. The RG-6 entered limited production by mid-1990 and is now in use by various elements of Russian Army and special forces, as well as by special forces in MVD (Internal Affairs Ministry). It is designed to fire all standard 40mm "caseless" grenades, available for general issue, underbarrel launchers. These rounds include VOG-25 fragmentation grenade, VOG-25P bouncing fragmentation grenade and "Gvozd" (Nail) less-lethal tear gas grenade for riot control. The design of the RG-6 is, apparently, heavily influenced by the South African Milkor MGL grenade launcher, with some differences. The key difference is that RG-6 uses "caseless" rounds,and thus its cylinder is loaded from the front. The "barrel" is, in fact, a smoothbore tube, which served only as a support for front grip and sights; each chamber in the cylinder is a separate muzzle-loading rifled barrel,similar in design to the GP-25 barrel. Thedouble-action only trigger unit is also modified from GP-25,with manual safety and several automatic safeties. Cylinder is rotated using clockwork-type spring, which is manually wound during reloading. For reloading,the front cylinder plate with the "barrel" tube are unlocked from the frame and then rotated sideways, to expose the front of the cylinder. The sights are folding for more convenient carry and storage, with ladder-type rear sight.The buttstock is telescoped into the frame, when not in use, and fitted with rubber recoil pad.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg6_m1">
+		<text>• Municija: M209 Grenades\n• Maksimalan Domet: 380 metara\n• Kapacitet: 6 Grenades\nDeveloped by Russia's KBP Instrument Design Bureau in Tula, the weapon has been modified to make use of the Western M209 fragmentation grenades. It is invaluable for short to medium-range rapid bombardment and flushing out troop concentrations. It's ability to launch 6 grenades in rapid succesion is an invaluable asset in the Zone.The cylinder is rotated using clockwork-type spring, which is manually wound during reloading. For reloading,the front cylinder plate with the "barrel" tube are unlocked from the frame and then rotated sideways, to expose the front of the cylinder. The sights are folding for more convenient carry and storage, with ladder-type rear sight. The buttstock is telescoped into the frame, when not in use, and fitted with rubber recoil pad.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpg7">
+		<text>• Municija: CG-7B Grenades\n• Optički Nišan: (h2.7)\n• Ciljajuci Domet: 330 metara\n• Maksimalan Domet: 500 metara\nThe RPG-7 is a widely-produced, portable, shoulder-launched, anti-tank rocket-propelled grenade weapon. Designed by the Soviet Union, and now manufactured by the Bazalt company. The weapon has the GRAU index 6G3. The ruggedness, simplicity, low cost, and effectiveness of the RPG-7 has made it the most widely used anti-tank weapon in the world. Currently around 40 countries use the weapon, and it is manufactured in a number of variants by nine countries. It is also popular with irregular and guerrilla forces. The RPG has been used in almost all conflicts across all continents since the mid-1960's from the Vietnam War to the war in Afghanistan.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig220">
+		<text>• Municija: .45 ACP, .45 Hidro-Šok\n• Efektivni domet: 60 metara\n• Kapacitet spremnika: 7 Metaka\nThe SIG-Sauer P220, often considered as the best weapon out of the box, .45 caliber double action pistol, started its life as the 9mm Pistol 75, the new double action sidearm for Swiss army. Developed during the early 1970's by the famous Swiss company Sweizerishe Industrie-Gesellschaft or SIG for short, this pistol was intended to replace the extremely accurate, but overly expensive SIG P210 pistol then in service with Swiss and some other armies. The pistol was indeed a very promising design, but strict Swiss laws severely limited the export of war materiel, so SIG decided to move the manufacture of its newest pistol abroad. For this reason SIG Holdings AG in 1976 acquired significant stocks of the J.P. Sauer and Son Company, which was located in Germany, and during the late 1970's started the manufacture of the SIG-Sauer P220 pistol in Germany.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig550">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Efektivni domet: 100-500 metara\n• Brzina paljbe: 700 kom/min\n• Kapacitet spremnika: 20 Metaka\nThe SIG-550 is often referred as the finest 5.56mm rifle ever made. It is also, not surprisingly,quite expensive. Recently, SIG Arms has introduced a civilian/law-enforcement offspring of the SG-550, known as SIG 556. This is asemi-automatic rifle, altered to accept M16-type magazines and fitted with "Americanized" furniture. Basically, the SIG-550 is a somewhat lightened and refined SIG SG-540/541 rifle. It is gas operated, with the gas piston removably attached to the bolt carrier, and with rotating bolt with two massive lugs. The recoil spring is located around the gas piston rod, above the barrel, and the bolt carrier attached to the gas piston rod by the mean of removable charging handle.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m1">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Efektivni domet: 100-500 metara\n• Brzina paljbe: 700 kom/min\n• Kapacitet spremnika: 20 Metaka\nThe SIG 550 will accept SIG's 40 mm GL 5040/5140 grenade launcher (Swiss military designation: 40 mm Gewehraufsatz 97), which is mounted under the barrel via an eccentric latch and replaces the lower handguard. The grenade launcher is a single-shot breech-loaded weapon that is supplied with a leaf sight that attaches to the rifle's rear sight base and enables accurate firing out to 200 meters. The lightweight aluminium launcher weighs 1.7 kg (3.7 lb) unloaded, and is operated independently of the rifle. It can use a wide array of 40x46mm grenades, including extended range high-pressure types and non-lethal baton or anti-riot projectiles.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m2">
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Optički Nišan: SUSAT (x4)\n• Efektivni domet: 100-500 metara\n• Brzina paljbe: 700 kom/min\n• Kapacitet spremnika: 20 Metaka\nFor designated marksman use, the SG 550 can be equipped with a SUSAT (4x) telescopic sight on a quick-detachable mount. The sight weighs 730 g (26 oz) and includes a variety of features, such as Bullet Drop Compensation (BDC) elevation adjustment knob for ranges from 100 to 600 meters, a tritium-illuminated reticle that enables target acquisition in low-light conditions and a diopter eyesight correction adjustment. Included with the sight is a lens hood for mounting on the ocular that reduces image quality-impairing stray light and a gray filter for glare reduction.</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12">
+		<text>• Municija: 12x70 sačma, 12x76 slug/dart\n• Efektivni domet: 85 metara\n• Kapacitet: 8 Metaka\nSPAS-14 je sačmarica glatke cevi, razvijena krajem 70-ih godina kao univerzalno bojevo naoružanje za policiju i ofanzivne vojne jedinice. Odlikuje ga visoka pouzdanost i fleksibilnost, s druge strane, prilično je masivno, teško i skupo, sa veoma složenim mehanizmom. Možda najbolje oružje za blisku borbu u Zoni.</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12_m1">
+		<text>• Municija: 12x76 slug/dart\n• Efektivni domet: 85 metara\n• Kapacitet: 8 Metaka\nUnikatni SPAS14 sa narezanom cevi, što smanjuje disperziju zrna i povećava preciznost. Nije pogodan za korištenje sačme, ali je idealan za slug i dart municiju.</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd">
+		<text>• Municija: 7.62x54mm (7N1, BP, 7N14)\n• Optički Nišan: PSO-1 (x4)\n• Efektivni domet: 800 metara\n• Kapacitet spremnika: 10 Metaka\nSnajperska puška. Naširoko je korištena u svim operacijama Sovjetske i Ruske vojske od 1960. Ona sama se pokazala izuzetno pouzdanom i lakom za rukovanje. U Zoni je posebno obožavaju iskusni pripadnici frakcije Djuti, zbog lova na mutante.</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd_m1">
+		<text>• Municija: 7.62x54mm (7N1, AP, 7N14)\n• Optički Nišan: PSO-3 (x8)\n• Efektivni domet: 1200 metara\n• Kapacitet spremnika: 10 Metaka\nAnother variant of the SVD is the 'Trucker' sniper rifle. While stylistically very similar to the SVD has some key differences. It has a unique pressed-metal receiver which is longer than that of the SVD, although the overall length of the rifle is similar to that of the SVD. It is fitted for and uses the Soviet-era PSO-3 Optical Sight. Further the barrel is pinned, rather than screwed, to the receiver, although it is of the same length as that of the SVD. The fore-end has four longitudinal slots on each side instead of six short slots. Another readily visible distinguishing feature of the 'Trucker' is that the magazine has an ornamental relief pattern showing a stylised palm tree. The balance of the weapon has also been improved, and the recoil when firing reduced.</text>
+	</string>
+	<string id="enc_weapons1_wpn-svu">
+		<text>• Municija: 7.62x54mm (7N1,AP,7N14)\n• Težina: 4.5 kg\n• Kapacitet spremnika: 10 Metaka\nNovija varijanta snajperske puške. Kompaktni "bullpup" model. Veoma je dobra za duga putovanja kroz Zonu.</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34">
+		<text>• Municija: 12x70 sačma, 12x76 slug/dart\n• Težina: 2 kg\n• Kapacitet: 2 Metaka\nLovačka puška "bokerica", široko je rasprostranjena u Zoni i ničim posebnim se ne ističe.</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp">
+		<text>• Municija: .45 ACP, .45 Hidro-Šok\n• Efektivni domet: 60 metara\n• Kapacitet spremnika: 8 Metaka\nPouzdan pištolj. Njemački kvalitet i pouzdanost, kompaktno oružje za blisku borbu. Veoma popularan među veteranima Zone.</text>
+	</string>
+	<string id="enc_weapons1_wpn-val">
+		<text>• Municija: 9x39mm PAB9, SP-5, SP-6\n• Efektivni domet: 250 metara\n• Kapacitet spremnika: 20 Metaka\nOva puška je bazirana na bešumnoj snajperskoj pušci Vintorez, od koje se razlikuje po preklopnom kundaku, mogućnosti rafalne paljbe i većim kapacitetom magacina. Prvobitno namenjena za specijalne jedinice za dejstva u uslovima koji zahtevaju bešumnu i besplamenu paljbu.</text>
+	</string>
+	<string id="enc_weapons1_wpn-val_m1">
+		<text>• Municija: 9x39mm PAB9, SP-5, SP-6\n• Efektivni domet: 400 metara\n• Kapacitet spremnika: 20 Metaka\nOd osnovnog modela se razlikuje mogućnošću dodavanja optičkog nišana PSO-1.</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez">
+		<text>• Municija: 9x39mm PAB9, SP-5, SP-6\n• Optički Nišan: PSO-1 (x4)\n• Efektivni domet: 400 metara\n• Kapacitet spremnika: 10 Metaka\nSnajperska puška specijalno dizajnirana za bešumno i besplameno snajpersko dejstvo, opremljena sa integrisanim prigušivačem. Na udaljenostima do 400 metara može da probije pancir bilo kog stepena zaštite. Ovo oružje je izuzetno cenjeno kod stalkera svih nivoa.</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez_m1">
+		<text>• Municija: 9x39mm PAB9, SP-5, SP-6\n• Optički Nišan: PSO-3 (x8)\n• Efektivni domet: 400 metara\n• Kapacitet spremnika: 20 Metaka\nJoš jedan specijalizovani vintorez "Aria", koji je obnovljen sa poklopcem o nehrđajućeg čelika i kovanom cevi. Kvaliteta izrade ove puške je zapanjujuća. Puška sa ugrađenim prigušivačem, ima bočni nosač optike koji je kompatibilan za PSO-3 optike (sa 8x uvećanjem). Koristi 9x39mm municiju. Također je kompatibilan sa NSPU-3 noćnim nišanom (sa 3.5x uvećanjem). Efektivni domet noću je ograničen na 300 metara. Puška dolazi sa integrisanim prigušivačem, koji se lako skida radi čuvanja ili održavanja. Cela puška se lako rastavi na 3 osnovna dela. Stalkeri su poduzimali duge pohode i akcije samo da se nekako dođu u posed oružja kao što je ovo.</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther">
+		<text>• Municija: 9x19mm PM, 9x19mm P\n• Efektivni domet: 50 metara\nOdličan pištolj njemačke proizvodnje. Odlikuje se visokom pouzdanošću, velikim kapacitetom magacina i visokom preciznošću vatre, naročito kod ovog modela, dizajniranog za municiju 9 mm Parabellum.</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther_m1">
+		<text>• Municija: 9x18mm, 9x18mm MSDS\n• Efektivni domet: 50 metara\n• Kapacitet spremnika: 16 Metaka\nModifikacija pištolja za mogućnost korištenje municije kalibra 9x18.</text>
+	</string>
+	<string id="enc_weapons1_wpn-wincheaster1300">
+		<text>• Municija: 12x70 sačma, 12x76 slug/dart\n• Efektivni domet: 80 metara\n• Kapacitet spremnika: 7 Metaka\nPumparica sa glatkom cevi, američke proizvodnje, namenjena za korištenje u najnepovoljnijim uslovima i veoma je pozdana. Svi delovi su prekriveni antikorozivnim premazom.</text>
+	</string>
+	<string id="enc_weapons1_wpn-winchester_m1">
+		<text>• Municija: 12x76 slug/dart\n• Efektivni domet: 80 metara\n• Kapacitet spremnika: 6 Metaka\nModifikovani Winchester 1300 koji koristi energiju iz malog komadića koji je uzet iz 'Gravi' artefakta. Ispaljuje municiju slug/dart tako da dobiju efekat "bumeranga", što izaziva puno veću štetu od konvencionalne municije. Vrlo opasno oružje.</text>
+	</string>
+<!--	Duplicated string id from the "string_table_enc_zone.xml" file - aleks1970
+	<string id="enc_weapons1_wpn-winchester_m1">
+		<text>Municija: 12x76 slug/dart\nEfektivni domet: 80 metara\nKapacitet magazina: 6 komada\n \nModifikovani Winchester 1300 koristi energiju iz malog komada Gravi artefakta. Njegovom ugradnjom ispaljeni slug/dart dobijaju efekt bumeranga, prouzrokujući tako veće oštećenje nego obična municija. Vrlo opasno i temperamentno oružje.</text>
+	</string> -->
+	<!-- Miscellaneous -->
+	<string id="fuelcan">
+		<text>Kanister goriva: Robusni spremnik za gorivo izrađene od presovanog čelika. Izvorno dizajniran u Nemačkoj 1930 godine, za vojnu upotrebu i sadrži 20 litara goriva. Izrada ovog kanistera za gorivo je bio veliki napredak u odnosu na na ranije dizajne, koji su tražili alate i levke.</text>
+	</string>
+	<string id="fuelcan_acitelen_item">
+		<text>Acetilen</text>
+	</string>
+	<string id="fuelcan_acitelen_item_s">
+		<text>Acetilen</text>
+	</string>
+	<string id="enc_fuelcan_acitelen_item_desc">
+		<text>Acetilen: Robusni spremnik izrađen od presovanog čelika. Sadrži 45 litara gasa. Izuzetno zapaljiv...</text>
+	</string>
+	<string id="bomba">
+		<text>Thermal Bomb</text>
+	</string>
+	<string id="enc_bomba_item">
+		<text>Thermal Bomb</text>
+	</string>
+	<string id="enc_bomba_item_descr">
+		<text>Very big thermal Bomb...</text>
+	</string>
+	<string id="bochka">
+		<text>Empty barrel</text>
+	</string>
+	<string id="bochka_s">
+		<text>Barrel 200L</text>
+	</string>
+	<string id="bochka2">
+		<text>Barrel 200L</text>
+	</string>
+	<string id="bochka2_s">
+		<text>Barrel 200L</text>
+	</string>
+	<string id="enc_bochka_barrel_descr">
+		<text>A 200-litre drum (known as a 55-gallon drum in the US and a 44-gallon drum in the United Kingdom) is a cylindrical container with a nominal capacity of 200 litres.\nHmm... this one seems almost empty now!?</text>
+	</string>
+	<string id="kanistra">
+		<text>Gasoline Canister</text>
+	</string>
+	<string id="kanistra_s">
+		<text>Canister</text>
+	</string>
+	<string id="enc_kanistra_can_descr">
+		<text>Gasoline Canister for 20 liters.</text>
+	</string>
+	<string id="dinamit_1">
+		<text>Dynamite</text>
+	</string>
+	<string id="dinamit_1_s">
+		<text>Dynamite</text>
+	</string>
+	<string id="enc_dinamit_1_descr">
+		<text>Dynamite</text>
+	</string>
+	<string id="dinamito">
+		<text>Dynamite</text>
+	</string>
+	<string id="mmbinokl">
+		<text>Binoculars</text>
+	</string>
+	<string id="desc_shmel">
+		<text>Calibre: 93mm\n• Length:Launcher: 920mm\n• Rocket: 700 mm\n• Težina: Single weapon: 11 kg\n• Sighting range: 600m\n• Domet: Minimum: 20m  Maximum: 1,000m\n• Initial velocity: 125 ±5 m/s\n• Warhead: RPO-A: 2.1 kg thermobaric, RPO-Z: 2.1 kg incendiary, RPO-D: 2.3 kg smoke\nThe RPO-A is a single-shot, self-contained tube shaped launcher. After launch, the tube is discarded.  This model has been modified to launch an OG-7B Grenade.</text>
+	</string>
+	<!-- WAWKA WEAPONS -->
+	<string id="wpn-pm_m1">
+		<text>Makarov 'Skorostrel'</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm_m1">
+		<text>• Municija: 9x19mm FMJ, 9x19mm PBP\nThe Pistol Makarova (PM) is a medium-size, straight blowback action, frame-fixed barrel handgun. In blowback designs, the only force holding the slide closed is that of the recoil spring; upon firing, the barrel and slide do not unlock, as do locked-breech design pistols. Blowback designs are simple and more accurate than designs using a recoiling, tilting, or articulated barrel, but they are limited practically by the weight of the slide. The PM is heavy for its size, a desirable attribute in a blowback pistol; the heavy slide provides greater inertia against recoil. This variant has been upgraded to accept 9x19mm cartridges.</text>
+	</string>
+	<!-- KNIVES and Hand weapons -->
+	<string id="st_knife">
+		<text>Nož</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife">
+		<text>The M9 Bayonet is a multi-purpose knife and bayonet officially adopted in 1984 by the United States. It has a 7-inch (18 cm) blade and is issued with a sheath designed to double as a wire cutter. It was designed and developed by Charles A. "Mickey" Finn at his R and D company, Qual-A-Tec.</text>
+	</string>
+	<string id="wpn_bat_a">
+		<text>Butterfly Knife</text>
+	</string>
+	<string id="enc_wpn_bat_a">
+		<text>There is conjecture attending to the Balisong knife being an ancient invention dating back to 800 AD, stating it to be an ancient weapon used in Filipino martial arts. They have also been used to fight duels over matters of honor, although such practices have long been discontinued. Balisong knives are also used as personal entertainment. Slash, spin and close! The butterfly knife is an interesting knife that you can spin and swirl in your hand, opening and closing the blade with each revolution. It was kind of fad amongst martial artists and teenagers during the 1980's. It has been legally banned in many countries due to it's concealability.</text>
+	</string>
+	<string id="wpn_bat_b">
+		<text>Bandit "Butterfly"</text>
+	</string>
+	<string id="enc_wpn_bat_b">
+		<text>• Defeat: 39% \n• Length of stroke: 1.5 \n• Težina: 200 grams/n Chisto gangster balisong. Differs from the usual custom black and hardened edge of the blade. Belonged to one of the criminal authorities. Quite a prestigious knife.</text>
+	</string>
+	<string id="wpn_knife_m">
+		<text>Marine Knife</text>
+	</string>
+	<string id="enc_knife_m">
+		<text>The KA-BAR was a fighting and utility knife issued to American armed forces including the Marines and Navy. KA-BAR is also the name of a related manufacturing company most known for the same 11 3/4-inch fighting and utility Bowie knife adopted by the United States Marine Corps and United States Navy as the USN Fighting Knife Mark II.</text>
+	</string>
+	<string id="wpn_crowbar">
+		<text>Crowbar</text>
+	</string>
+	<string id="weapons_crowbar">
+		<text>A crowbar, a wrecking bar, or pry bar is a tool consisting of a metal bar with a single curved end and flattened points, often with a small fissure on one or both ends for removing nails. Normally made of medium-carbon steel they can alternatively be made from titanium, which has the advantages of being lighter, and nonmagnetic.</text>
+	</string>
+	<string id="wpn_elf">
+		<text>Eskabar Blade</text>
+	</string>
+	<string id="elfa_desc">
+		<text>KA-BAR combined the best of two very popular designs, the Becker Necker and the ESEE Izulu, then let their customers name it. What did they come up with? The 'Eskabar'.</text>
+	</string>
+	<string id="wpn_fist">
+		<text>Utility Gloves</text>
+	</string>
+	<string id="weapons_hand">
+		<text>Basic fingerless gloves. When push comes to shove. These come in handy.</text>
+	</string>
+	<string id="wpn_fist_m">
+		<text>Fighting Gloves [plated]</text>
+	</string>
+	<string id="weapons_wpn-hand_m">
+		<text>Combat Gloves. Stitched with metal plates for increased force of impact, and protection. Extended 'cuffs' cover the wrists. Very useful in the Zone's harsh environment.</text>
+	</string>
+	<string id="wpn_knif2">
+		<text>Samurai Blade</text>
+	</string>
+	<string id="enc_weapons_tanto">
+		<text>A tanto "short sword" is a common Japanese single- or double-edged knife or dagger with a blade length between 15 and 30 cm (6-12 inches, in Japanese 1 shaku). The tanto was designed primarily as a stabbing weapon, but the edge can be used for slashing as well. Tanto appeared in the Heian period, but these blades lacked aesthetic quality and were used purely as weapons. In the early Kamakura period high-quality artistic tanto began to appear. Tanto production increased greatly around the Muromachi period and then declined.</text>
+	</string>
+	<string id="wpn_knif3">
+		<text>Aaz Knife</text>
+	</string>
+	<string id="weapons_aaz">
+		<text>Self-made Tanto style blade. It was made by Aaz, an obscure Master. It is made in the style of a Samurai's a short sword. An 'Americanized' "Tanto" with the form of blade with a sharp break of a line of a cutting edge to an edge. A good close combat weapon. Convenient handle.</text>
+	</string>
+	<string id="wpn_knifa">
+		<text>Hunting Knife</text>
+	</string>
+	<string id="weapons_knifa">
+		<text>A self-made hunting knife. Double-edged, and made of strengthened steel. Hunting knives are traditionally designed for cutting rather than stabbing, and have only one sharpened edge. The blade is slightly curved, and the blade has both a curved portion for skinning, and a straight portion for cutting slices of meat.</text>
+	</string>
+	<string id="wpn_knife_n">
+		<text>Surgeon's Knife</text>
+	</string>
+	<string id="weap_knife_n">
+		<text>the Knife of the military surgeon. 1933 SS Dagger with SS Special RZM Code Trademark and Hanger. Nickel-silver hilt fittings show surface wear/age patina/residue with reverse lower crossguard distribution center marked "II", in a horizontal position. Ebony grip shows light surface wear with several tiny nicks/depressions, but no hairline cracks. Complete with silver grip eagle and SS insignia.</text>
+	</string>
+	<string id="wpn_kolbasa">
+		<text>Stale Sausage</text>
+	</string>
+	<string id="kolbasa_desc">
+		<text>In the absence of any other usefuil weapon in the field, one must sometimes improvise, and use whatever is on hand as a weapon. It may not be the most effective choice, however; in a pinch this could be used to whack a dog or two on the snout!</text>
+	</string>
+	<string id="wpn_knife_new">
+		<text>Assassin's Blade</text>
+	</string>
+	<string id="weap1_knife_new">
+		<text>Assassin Knife. Standard blade with a reworked crank arm and the owner of a modified blade. Obviously, the owner does not cut the victim's throat and hit her thrusts - as evidenced by the shape and nature of the blade sharpening. The knife has considerable power when applied thrusts.</text>
+	</string>
+	<string id="wpn_axe">
+		<text>Axe</text>
+	</string>
+	<string id="desc_axe">
+		<text>Plain ordinary Axe. Great for chopping firewood to get warm by the fire, but also handy to ward off pesky animals too.</text>
+	</string>
+	<string id="wpn_sledgehammer">
+		<text>Sledgehammer</text>
+	</string>
+	<string id="desc_sledgehammer">
+		<text>Sledgehammer, weighing 7 lbs. Perfect for transforming heads of monsters and bandits into mush - a real pleasure to use.</text>
+	</string>
+	<!-- EXPLOSIVES DETONATORS AND - MINES -->
+	<string id="bomba_small">
+		<text>'Plastique'</text>
+	</string>
+	<string id="enc_bomba-small">
+		<text>Needed for an explosion detonator. Maybe sell it and activate it. When detonation enemy quickly dispatched to the light. %C[255,255,1,1]Attention! Use carefully! Plastique cannot explode in the open air, but could easily explode in your backpack!</text>
+	</string>
+	<string id="bomba_trotil">
+		<text>TNT</text>
+	</string>
+	<string id="enc_bomba-trotil">
+		<text>For an explosion of a TNT charge requires a detonator or intensified gunfire. The best weapons engineer, assassin or terrorist. Destroy all within a radius of two meters, and nothing more.</text>
+	</string>
+	<string id="bomba_big">
+		<text>Pipe Bomb</text>
+	</string>
+	<string id="enc_bomba-samodel">
+		<text>Pipe Bomb activated via detonator or by simple gunshot. Contains an unknown quantity of C-4.</text>
+	</string>
+	<string id="enc_bomba-timer-10">
+		<text>10 seconds after activating the explosives detonate suitcase. Well, that C-4, it gets extremely low quality and the explosion turns out not so strong.</text>
+	</string>
+	<!-- SUITCASE BOMB -->
+	<string id="bomba_timer_b_30_base">
+		<text>Suitcase Bomb</text>
+	</string>
+	<string id="enc_bomba-timer-30">
+		<text>Equipped with a delayed timer for 30 seconds of detonation. Well, that C-4, it gets extremely low quality and the explosion turns out not so strong.</text>
+	</string>
+	<string id="bomba_timer_b_30_activated">
+		<text>Armed Suitcase Bomb</text>
+	</string>
+	<string id="enc_bomba_timer_b_30_activated">
+		<text>Suitcase with armed explosives inside. Extremely volatile, and ready to detonate. You might want to put some distance between this, and yourself .. and, with due haste!</text>
+	</string>
+	<!-- TIMED EXPLOSIVES -->
+	<string id="bomba_timer_n_10_base">
+		<text>Time Bomb</text>
+	</string>
+	<string id="enc_timer-bomb10">
+		<text>Destroy all within a radius of two meters in 10 seconds after activation.</text>
+	</string>
+	<string id="bomba_timer_n_10_activated">
+		<text>Activated the explosives with a timer</text>
+	</string>
+	<string id="enc_bomba_timer_n_10_activated">
+		<text>Explosives activated. It is necessary to put it another 10 seconds would be a blast.</text>
+	</string>
+	<!-- MINES -->
+	<string id="bomba_mina_n">
+		<text>Anti-Personnel Mine</text>
+	</string>
+	<string id="enc_mina-n">
+		<text>Explodes at the approach of any living being closer than a meter. From the enemy or mutant little that remains.</text>
+	</string>
+	<string id="bomba_mina_b">
+		<text>'Enhanced' Anti-Personnel Mine</text>
+	</string>
+	<string id="enc_mina-b">
+		<text>Explodes at the approach of any living being closer than a meter. Explosion pretty strong.</text>
+	</string>
+	<!-- DETONATORS -->
+	<string id="detonator-1">
+		<text>NK-32 Detonator</text>
+	</string>
+	<string id="enc_detonator-1">
+		<text>Detonator for explosives. Russified some hackers. Allows you to detonate different brands and types within a radius of 50 meters. Trial, designed as a conventional flash, and retarding polycarbonit.</text>
+	</string>
+	<string id="detonator-2">
+		<text>NK-37 Detonator</text>
+	</string>
+	<string id="enc_detonator-2">
+		<text>Improved electronic detonator for explosives. Allows you to detonate different brands and types within a radius of 150 meters. Manufactured in Russia .. Increased speed and reliability.</text>
+	</string>
+	<!-- DKZ/CS added weapons start !!!!TB3D -->
+	<string id="wpn_ak47_sk1">
+		<text>KL-7.62 'Tactical'</text>
+	</string>
+	<string id="enc_weapons1_wpn_ak47_sk1">
+		<text>• Municija: 7.62x39mm, 7.62x39mm AP\n• Kapacitet spremnika: 30 rounds • Efektivni domet: 500 metara\n• Brzina paljbe: 750 m/sec • GP-30 Grenade Launcher\n• Optički Nišan: PSO-1 (4x) • Silencer: Model 7.62ar\nThe Iranian state arms conglomerate Defense Industries Organization (DIO) currently manufactures the 7.62x39mm Kalashnikov-type assault rifle for the Iranian Armed Forces, which is designated the KL-7.62 .. It is an unlicensed, reverse-engineered copy of the Type 56 assault rifle, which Iran purchased from the Chinese government in enormous numbers to equip its forces in the Iran-Iraq War. The original version of the KL-7.62 was indistinguishable from the Type 56, but in recent years DIO appears to have made some improvements to the Type 56 design...</text>
+	</string>
+	<string id="wpn-rk95">
+		<text>SAKO Rk.95Tp</text>
+	</string>
+	<string id="enc_weapons1_wpn-rk95">
+		<text>• Municija: 5.56x45mm ss190, 5.56x45mm AP\n• Kapacitet spremnika: 30 rounds • Efektivni domet: 370 metara\n• Brzina paljbe: 750 kom/min • GP-30 Grenade Launcher\n• Optički Nišan: PSO-3 (9x) • Silencer: PBiBS\nThe Rk.95Tp is a select-fire, gas-operated firearm using the Kalashnikov-pattern operating system with a long stroke gas piston rod coupled to the bolt carrier as in the AK rifle. The rotating bolt locks into battery via two locking lugs. It is the latest variation of the Finnish military rifle, featuring an old-style milled receiver, but new, and improved side-folding skeleton-type buttstock, muzzle flash guard, and handguards. The triggerguard is enlarged to enable shooting whilst wearing gloves during the cold Finnish winters .. The Rk.95TP was issued to the Finnish Army in very small quantities (only one batch having being manufactured) .. How this one managed to make it's way into the Zone is nothing short of a mystery .. it appears to have been modified to 5.56x45mm rounds .. it also uses a special, customized PS0-3 scope, as well as a GP30 series Grenade Launcher .. It bears the unique name of 'Ruoska' on the folding stock... </text>
+	</string>
+	<string id="wpn-addon-scope-sako">
+		<text>PS0-3 'SAKO'</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-sako">
+		<text>Expertly customized PSO-3 Optical Sight (9x magnification) for an unusual SAKO Rk.95Tp rifle that I found stashed away in the Agroprom Catacombs .. I don't think that I'll be getting rid of this little beauty any time soon!!!</text>
+	</string>
+	<string id="wpn_ognemet">
+		<text>The 'Poltergeist'</text>
+	</string>
+	<string id="enc_weapons1_ognemet">
+		<text>Looks like a modified FN2000 design bearing a maker's mark 'Dimak'. Shoots up to 20 feet of flame within a single burst. When the ignition valve is open, compressed flammable gas from specially mixed tanks flows through a short length of hose to the end of the gun. Here, it is mixed with the open air, and released through several small holes into the chamber in front of the nozzle. The gun also has two spark plugs strategically positioned in front of the nozzle, which are powered by a small, portable battery. It is fired by opening up the ignition valve and pressing a button that activates the spark plug. This creates a small flame in front of the nozzle, which ignites the flowing fuel, that is then propelled forth with a significant amount of pressure, practically 'peppering' targets with ignited fuel particles as they are engulfed in flames .. very nasty indeed!!</text>
+	</string>
+	<string id="ammo-12x70-kart">
+		<text>12x70 'Tungsten Buckshot'</text>
+	</string>
+	<string id="enc_weapons1_ammo-12x70-kart">
+		<text>Tungsten buckshot for smoothbore shotguns. Enhanced penetration and density compared to lead shot.</text>
+	</string>
+	<string id="Butterflyb_band">
+		<text>A Balisong, otherwise known as a butterfly knife or fan knife, is a folding pocket knife with two handles counter-rotating around the tang such that, when closed, the blade is concealed within grooves in the handles. It is sometimes called a Batangas knife. In the hands of a trained user, the knife blade can be brought to bear quickly using one hand. Manipulations, called "flipping" or "fanning", are performed for art or amusement. The Balisong is commonly used by Filipino people as a pocket utility knife. It is so popular in the Philippines that an urban legend exists about every 'Batangueno' carries it everywhere he or she goes. Hollowground balisongs were also used as straight razors before conventional razors were available.</text>
+	</string>
+	<string id="grenade-gd05">
+		<text>GD-05 Dimna granata</text>
+	</string>
+	<!-- BINOCULARS -->
+	<string id="field-glass">
+		<text>Binoculars</text>
+	</string>
+	<!-- DKZ added weapons end -->
+	<!-- Liquid Nitrogen storage... aleks1970 -->
+	<string id="enc_can_liquid_nitrogen_tmp">
+		<text>Liquid Nitrogen Storage Tank</text>
+	</string>
+	<string id="enc_can_liquid_nitrogen_tmp_s">
+		<text>Liquid Nitrogen</text>
+	</string>
+	<string id="enc_can_liquid_nitrogen_tmp_descr">
+		<text>10L Liquid Nitrogen static cryogenic container.</text>
+	</string>
+	<!-- Weapons text strings from .ltx files ... aleks1970 -->
+	<string id="enc_wpn_Og-7b_tmp">
+		<text>Og-7b</text>
+	</string>
+	<string id="ars_sil_tmp">
+		<text>TMP Silencer</text>
+	</string>
+	<string id="enc_arsenal_sil_tmp">
+		<text>Silencer for the Steyr TMP machine pistol</text>
+	</string>
+	<string id="enc_wpn_steyr_tmp">
+		<text>TMP</text>
+	</string>
+	<string id="enc_wpn_steyr_tmp_descr">
+		<text>TMP (English. Tactical Machine Pistol - Tactical automatic pistol) - automatic pistol chambered for 9x19mm Parabellum, manufactured by Austrian company - Steyr Mannlicher. A suppressor can also be fitted.</text>
+	</string>
+	<string id="enc_wpn_rpk_tmp">
+		<text>RPK-74</text>
+	</string>
+	<string id="enc_wpn_rpk_tmp_descr">
+		<text>5.45-mm machine gun Kalashnikov - hand gun, developed to replace the troops RPK chambered for 7.62x39 mm within the small arms under maloimpulsnogo cartridge 5.45x39 mm. Adopted in 1974, along with a gun AK74.</text>
+	</string>
+	<string id="enc_wpn_degtyarev_tmp">
+		<text>Degtyarev machine gun</text>
+	</string>
+	<string id="enc_wpn_degtyarev_tmp_s">
+		<text>RPD</text>
+	</string>
+	<string id="enc_wpn_degtyarev_tmp_descr">
+		<text>7.62-mm machine gun Degtyarev - Soviet machine gun, developed in 1944, chambered for 7.62x39 mm.</text>
+	</string>
+	<string id="enc_wpn_heckler_koch_MP5_tmp">
+		<text>Heckler and Koch MP5</text>
+	</string>
+	<string id="enc_wpn_heckler_koch_MP5_tmp_s">
+		<text>MP5 A3</text>
+	</string>
+	<string id="enc_wpn_heckler_koch_MP5_tmp_descr">
+		<text>The Heckler and Koch MP5 is a 9mm submachine gun of German design, developed in the 1960s by a team of engineers from the German small arms manufacturer Heckler and Koch.</text>
+	</string>
+	<string id="enc_wpn_mounted_weapon_tmp">
+		<text>Mounted Weapon</text>
+	</string>
+	<string id="enc_wpn_MAC10_tmp">
+		<text>MAC10</text>
+	</string>
+	<string id="enc_wpn_MAC10_tmp_descr">
+		<text>MAC10</text>
+	</string>
+	<string id="enc_wpn_M60_tmp">
+		<text>M60</text>
+	</string>
+	<string id="enc_wpn_M60_tmp_descr">
+		<text>M60 - American single machine gun, developed in the postwar years and adopted the Army and Marine Corps in 1957. For the shortcomings of the design and appearance earned him the nickname "Pig"</text>
+	</string>
+	<string id="enc_wpn_M240_tmp">
+		<text>M240</text>
+	</string>
+	<string id="enc_wpn_M240_tmp_descr">
+		<text>M240 - a single gun, modification of the Belgian FN MAG adopted by the army and the United States Marine Corps, is also used to equip the Chinese tank "Jaguar". Is an automatic weapon, built under the scheme with gas-driven automation and barrel locking.</text>
+	</string>
+	<string id="enc_wpn_M14_tmp">
+		<text>M-14 DMR</text>
+	</string>
+	<string id="enc_wpn_M14_tmp_descr">
+		<text>7.62x51mm caliber rifle for snipers level separating US Marine Corps M14 Designated Marksman Rifle (DMR).</text>
+	</string>
+	<string id="enc_wpn_Bison_2_01_tmp">
+		<text>Bison 2-01</text>
+	</string>
+	<string id="enc_wpn_Bison_2_01_tmp_descr">
+		<text>Modification with a submachine gun "Bizon PP-19" chambered for 9x19 mm. Parabellum. Equipped with a red-dot sight "Cobra EKP-1C-03"</text>
+	</string>
+	<string id="enc_wpn_AK_9_tmp">
+		<text>AK-9 (FSB)</text>
+	</string>
+	<string id="enc_wpn_AK_9_tmp_descr">
+		<text>The AK-9 is a Russian fully automatic assault rifle chambered for the 9x39mm subsonic cartridge. It is one of the latest models of the popular Kalashnikov rifle series. It is based on the '100' series Kalashnikov assault rifles. In 2006, Russian authorities wanted the Izhmash factory to design a rifle with Kalashnikov properties, but suitable to be used in special operations. Factory manager Vladimir Grodetsky stated that the rifle was specifically designed for Special Forces involved in anti-terrorist operations. Alexei Dragunov, one of the designers of AK-9, said: 'It shoots virtually without a sound, and it can go through a bullet-proof vest'...</text>
+	</string>
+	<string id="enc_wpn_AKS_74_tmp">
+		<text>AKS-74 'Assault'</text>
+	</string>
+	<string id="enc_wpn_AKS_74_tmp_descr">
+		<text>Kalashnikov variant of the AKS-74 with a folding stock, 45 round clip using 5.45x39 ammo, assault scope and flash reducer, very rare.</text>
+	</string>
+	<string id="enc_wpn_AKMS_tmp">
+		<text>AKMS</text>
+	</string>
+	<string id="enc_wpn_AKMS_tmp_descr">
+		<text>AKMS - AKM variant with folding stock. The fastening system has been changed with respect to the stock of game (folding down and forward, under the receiver). Modification is specially designed for paratroopers.</text>
+	</string>
+	<string id="enc_wpn_AEK_973_tmp">
+		<text>AEK-973</text>
+	</string>
+	<string id="enc_wpn_AEK_973_tmp_descr">
+		<text>AEK-973 - one AEK-971 under the Soviet/Russian cartridge 7.62x39 mm, uses store from AKM.</text>
+	</string>
+	<string id="enc_wpn_SP_130_tmp">
+		<text>12,7x54mm SP-130</text>
+	</string>
+	<string id="enc_wpn_SP_130_tmp_s">
+		<text>SP-130</text>
+	</string>
+	<string id="enc_wpn_SP_130_tmp_descr">
+		<text>Cartridge 12.7x54mm special SP-130.</text>
+	</string>
+	<string id="enc_wpn_5_56x45_tmp">
+		<text>Box 100 rounds of ammunition for the M249</text>
+	</string>
+	<string id="enc_wpn_5_56x45_tmp_s">
+		<text>M249 Municija</text>
+	</string>
+	<string id="enc_wpn_5_56x45_tmp_descr">
+		<text>Box with ribbon chambered 5.56x45 NATO.</text>
+	</string>
+	<string id="enc_wpn_Dimanit_tmp">
+		<text>Dynamite</text>
+	</string>
+	<string id="enc_wpn_Dimanit_tmp_s">
+		<text>Dynamite</text>
+	</string>
+	<string id="enc_wpn_M_209_tmp_s">
+		<text>M209</text>
+	</string>
+	<string id="enc_wpn_Exhaust_tmp">
+		<text>Exhaust - 'Anti-terror'</text>
+	</string>
+	<string id="enc_wpn_Exhaust_tmp_s">
+		<text>Exhaust</text>
+	</string>
+	<string id="enc_wpn_Exhaust_tmp_descr">
+		<text>"Exhaust" - (large-caliber Sniper rifle Special) - large-caliber sniper rifle silent, made from a bullpup layout. Designed for special order Special Operations Center of the Russian FSB, along with large-caliber machine DB-12 (complex reminded of AS "Val" rifle "ARIA Vintorez")</text>
+	</string>
+	<string id="enc_wpn_Kalashnikov_tmp">
+		<text>RPK-47B machine gun</text>
+	</string>
+	<string id="enc_wpn_Kalashnikov_tmp_s">
+		<text>RPK-47B</text>
+	</string>
+	<string id="enc_wpn_Kalashnikov_tmp_descr">
+		<text>Soviet machine gun RPK (Kalashnikov machine gun) is designed to defeat enemy personnel and unarmored and lightly armored vehicles. Development under the gun 7.62 mm intermediate cartridge model 1943 was launched in 1954 (there was another option from 1943, but it did not nothing to do with the PKK) and in 1955 there has been the first version of the machine gun. After further improvement of machine gun was adopted by the Soviet army in 1961 under the symbol 6P2, replacing troops RAP - 44. This option has lightened valve which increased the rate and disc store 75 rounds.</text>
+	</string>
+	<string id="enc_wpn_16_fold_tmp">
+		<text>Night sight 'acog'</text>
+	</string>
+	<string id="enc_wpn_16_fold_tmp_descr">
+		<text>Night sight 16-fold increase, relative to very expensive.</text>
+	</string>
+</string_table>
+	<!-- Tekst usklađen sa 109994 verzijom zakrpe - 17.08.2015 13:44 -sadd -->
+	<!-- Preveo i prilagodio Flexerca -=- 16:05 20.05.2015 -->

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 -->
+
+	<string id="speech_attack">
+		<text>Svi u napad!</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>Idem po artefakt! Pokrivaj me!</text>
+	</string>
+	<string id="speech_followme">
+		<text>Zamnom!</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>Osiguraj artefakt. Ne uzimaj ga još!</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>Ostajem na položaju.</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>Drži svoju poziciju!</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>Uzmi artefakt! Pokrivam te.</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>Trebam pomoć!</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>Nemam dovoljno novca, kupi mi malo opreme.</text>
+	</string>
+	<string id="speech_no">
+		<text>Ne.</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>Nema nikog u blizini.</text>
+	</string>
+	<string id="speech_report">
+		<text>Izvesti o situaciji!</text>
+	</string>
+	<string id="speech_retreat">
+		<text>Povlačenje!</text>
+	</string>
+	<string id="speech_roger">
+		<text>Razumem.</text>
+	</string>
+	<string id="speech_silence">
+		<text>Tišina!!!</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>Držite se zajedno.</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>Uzmi artefakt!</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 29.01.2015 -11.05 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 21:19 -sadd -->

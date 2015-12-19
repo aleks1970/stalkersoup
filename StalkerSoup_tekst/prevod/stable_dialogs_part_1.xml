@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes"?>
+<!-- TB3D 1.0.9.9.9.8, text from "stable_dialogs" + other files with dialogs - aleks1970 -->
+<string_table>
+#include "text\eng\stable_dialogs_yantar.xml"
+#include "text\eng\stable_dialogs_radar.xml"
+#include "text\eng\stable_dialogs_pripyat.xml"
+#include "text\eng\stable_dialogs_labx18.xml"
+#include "text\eng\stable_dialogs_garbage.xml"
+#include "text\eng\stable_dialogs_agroprom.xml"
+
+	<string id="actor_break_dialog_0">
+		<text>Vidimo se!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>Jesi li dobro?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>Povređen sam, do vraga, zar ne vidiš? Treba mi prva pomoć ili barem zavoj.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Evo, uzmi  prvu pomoć.</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Hvala brate! Neću ti ovo zaboraviti.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Evo, uzmi ovaj zavoj.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>Izvini, nemam ih više.</text>
+	</string>
+</string_table>
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:12 - sadd -->

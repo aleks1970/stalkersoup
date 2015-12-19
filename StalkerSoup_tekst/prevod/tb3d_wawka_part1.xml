@@ -1,0 +1,3294 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 Artyom, max_pomer2_dialog_3, Nano-outfits - aleks1970 -->
+<!-- WEAPONS BROUGHT TO RAVEN wawka part 1, repair_kit -->
+<string_table>
+	<string id="mosinka_0">
+		<text>Zdravo Gavran... Ajde da pričamo o poslu...</text>
+	</string>
+	<string id="mosinka_1">
+		<text>Zdravo Obeleženi. Čuo sam da su Banditi pronašli skrovište puno oružja u Mračnoj Dolini. Ono što je interesantno jeste da je to oružje iz kasnog 19og i ranog 20og veka. Možeš li verovati?! Vidiš, bili su zakopani još prije oba svetska rata. Pre nekoliko dana, par Djutijavaca je došlo do Artjoma na hranu i rekli mu za to!! Imam jednog klijenta... Čudnog lik izvan Perimetra, koji posećuje Zonu s vremena na vreme. Kolekcionar. Kada bi bar mogao doći do tih retkih lepotica! Zaradio bih bogatstvo! Ako pronađeš neko "interesantno", ili "jedinstveno" oružje sa svojih putovanja, dođi do mene pa ćemo poslovati. Isplatiće ti se, veruj mi!!</text>
+	</string>
+	<string id="mosinka_2">
+		<text>Retka HK-417 snajperska puška. Jesi zainteresiran?</text>
+	</string>
+	<string id="mosinka_3">
+		<text>Evo jedan interesantan primerak - sa optikom. Šta misliš?</text>
+	</string>
+	<string id="mosinka_4">
+		<text>Nadograđeni AK-74, koji je pripadao Streloku. Bila bi ga šteta prodati...</text>
+	</string>
+	<string id="mosinka_5">
+		<text>Zanima li te prilagođeni Abakan snajper?</text>
+	</string>
+	<string id="mosinka_6">
+		<text>Nov-novcati model pištolja Fort-14. Šta kažeš?</text>
+	</string>
+	<string id="mosinka_7">
+		<text>Šta kažeš na MP-5 prekalibrisan za 9x18mm municiju?</text>
+	</string>
+	<string id="mosinka_8">
+		<text>Mogu ti dati ovu 'Groza' jurišnu pušku...</text>
+	</string>
+	<string id="mosinka_9">
+		<text>Kako ti zvuči Spas-12?</text>
+	</string>
+	<string id="mosinka_10">
+		<text>Mogu se rastati s ovim Winchesterom...</text>
+	</string>
+	<string id="mosinka_11">
+		<text>Imam vrlo lep l85 Enfield, ako je želiš...</text>
+	</string>
+	<string id="mosinka_12">
+		<text>Šta kažeš na L300 'snajper'. Zaista vrlo redak!!</text>
+	</string>
+	<string id="mosinka_13">
+		<text>Dobio sam lep SVD 'Dragunov'...</text>
+	</string>
+	<string id="mosinka_14">
+		<text>Ova SIG550 jurišna puška. Moćno oružje!! Hoćeš nju?</text>
+	</string>
+	<string id="mosinka_15">
+		<text>Imam lep Desert Eagle Mark XIX za tebe...</text>
+	</string>
+	<string id="mosinka_16">
+		<text>Izbor pravog ubice. Colt1911 sa prigušivačem. Šta kažeš?...</text>
+	</string>
+	<string id="mosinka_17">
+		<text>Prelepi AS Val sa optikom. Tvoj je ako ga želiš...</text>
+	</string>
+	<string id="mosinka_18">
+		<text>Šta kažeš na MP-5 sa prigušivačem?</text>
+	</string>
+	<string id="mosinka_19">
+		<text>Dobio sam vrlo lep Abakan 'jurišni' model. Zainteresiran?</text>
+	</string>
+	<string id="mosinka_20">
+		<text>Šta kažeš na Enfield l85 jurišnu pušku sa smanjenom težinom?</text>
+	</string>
+	<string id="mosinka_21">
+		<text>Ovaj 'anomalni' AK-74 mogao bi te zanimati...</text>
+	</string>
+	<string id="mosinka_22">
+		<text>Kamuflažni SIG 'snajper'. Hoćeš?</text>
+	</string>
+	<string id="mosinka_23">
+		<text>Moćni i modifikovani G-36 'Kristal'... Zainteresiran?</text>
+	</string>
+	<string id="mosinka_24">
+		<text>Kako ti zvuči ovaj modifikovani SVU 'Kid'...</text>
+	</string>
+	<string id="mosinka_25">
+		<text>Kako ti zvuči ova Beretta M9A1?</text>
+	</string>
+	<string id="mosinka_26">
+		<text>Vidi ovaj jedinstveni VSS Vintorez. Tvoj je ako ga želiš...</text>
+	</string>
+	<string id="mosinka_27">
+		<text>Vrlo lepa, modifikovana OC-14 'Groza' prekalibrisana za NATO municiju. Hoćeš?</text>
+	</string>
+	<string id="mosinka_28">
+		<text>Imam lepi RG-6 koji koristi NATO municiju. Sviđa ti se?</text>
+	</string>
+	<string id="mosinka_29">
+		<text>Šta kažeš na Walther - modifikovan za 9x18mm municiju?</text>
+	</string>
+	<string id="mosinka_30">
+		<text>Dobi sam lepi modifikovani Makarov PM...</text>
+	</string>
+	<string id="mosinka_31">
+		<text>Interesuje li te RPG-7?</text>
+	</string>
+	<string id="mosinka_32">
+		<text>Dobio sam 'Knights' SR25 Mk.11 Mod.0 - vrlo teško za naći!!! Šta kažeš?</text>
+	</string>
+	<string id="mosinka_33">
+		<text>Nekako sam nabavio jedinstveni FAMAS. Šta kažeš?</text>
+	</string>
+	<string id="mosinka_34">
+		<text>Imam lep modifikovani Gauss. Hoćeš?</text>
+	</string>
+	<string id="mosinka_333">
+		<text>Šta kažeš na skraćenu sačmaricu?</text>
+	</string>
+	<string id="mosinka_335">
+		<text>Našao sam ovaj pištolj. Hoćeš?</text>
+	</string>
+	<string id="mosinka_337">
+		<text>Evo jednog Stechkina. Uzmi ga...</text>
+	</string>
+	<string id="mosinka_339">
+		<text>Nekako sam uspeo da se dočepam HK-XM8 'para'. Kao stvorena za tebe...</text>
+	</string>
+	<string id="mosinka_341">
+		<text>Šta kažeš na FN-2000 'Executioner'. Vrlo lepo oružje!</text>
+	</string>
+	<string id="mosinka_35">
+		<text>Naravno Obeleženi. Mušterija će biti jako zadovoljna. Izvoli svoju isplatu...</text>
+	</string>
+	<string id="mosinka_36">
+		<text>Dobro urađeno, Obeleženi! Fantastično. Hvala!!</text>
+	</string>
+	<string id="mosinka_37">
+		<text>Zvuči dobro. Uzeću...</text>
+	</string>
+	<string id="mosinka_38">
+		<text>Uzeću  Abakan...</text>
+	</string>
+	<string id="mosinka_39">
+		<text>Prilično dobar pištolj, uzeću ga...</text>
+	</string>
+	<string id="mosinka_40">
+		<text>Hvala Obeleženi!</text>
+	</string>
+	<string id="mosinka_41">
+		<text>Uvek mi je zadovoljstvo s tobom poslovati. Izvoli...</text>
+	</string>
+	<string id="mosinka_42">
+		<text>Ovo je zaista lep primerak!</text>
+	</string>
+	<string id="mosinka_43">
+		<text>Ovo je odlično. Uzimam!</text>
+	</string>
+	<string id="mosinka_44">
+		<text>Hvala ti. Lepo oružje.</text>
+	</string>
+	<string id="mosinka_45">
+		<text>Snajperske puške su moja najveća slabost! Hvala!</text>
+	</string>
+	<string id="mosinka_46">
+		<text>Dobar posao. Uzimam!!</text>
+	</string>
+	<string id="mosinka_47">
+		<text>Stvarno lep SIG. Hvala ti!</text>
+	</string>
+	<string id="mosinka_48">
+		<text>Lepo odrađen Desert Eagle - njega ću ti oduzeti...</text>
+	</string>
+	<string id="mosinka_49">
+		<text>Uvek sam zainteresiran za oružja sa prigušivčem...</text>
+	</string>
+	<string id="mosinka_50">
+		<text>Zaista prelep AS Val. Dogovoreno...</text>
+	</string>
+	<string id="mosinka_51">
+		<text>Lep primerak! Uzimam.</text>
+	</string>
+	<string id="mosinka_52">
+		<text>Kako da odolim tako lepom primerku?!</text>
+	</string>
+	<string id="mosinka_53">
+		<text>Lepo modifikovano oružje. Uzimam!</text>
+	</string>
+	<string id="mosinka_54">
+		<text>Iako se vidi da je nošeno, uzimam...</text>
+	</string>
+	<string id="mosinka_55">
+		<text>Kamuflažni, huh? Zvuči super...</text>
+	</string>
+	<string id="mosinka_56">
+		<text>Drago mi je uzeti ovaj G36 'Crystal' iz tvojih ruku...</text>
+	</string>
+	<string id="mosinka_57">
+		<text>Gde si pronašao ovako jedinstveno oružje?! Uzimam!</text>
+	</string>
+	<string id="mosinka_58">
+		<text>Lepa, moćna Beretta. Hvala...</text>
+	</string>
+	<string id="mosinka_59">
+		<text>Nikada ne odbijam VSS. Moja jedina istinska ljubav...</text>
+	</string>
+	<string id="mosinka_60">
+		<text>Lepo modifikovana 'Groza'. Daj je ovamo...</text>
+	</string>
+	<string id="mosinka_61">
+		<text>Kako da odbijem 'Bulldoga'?! Hvala ti...</text>
+	</string>
+	<string id="mosinka_62">
+		<text>Zaista vrlo retko!! Uzimam...</text>
+	</string>
+	<string id="mosinka_63">
+		<text>Klasičan primerak! Daj je ovamo...</text>
+	</string>
+	<string id="mosinka_64">
+		<text>To je odlično, Obeleženi. Cenim to!</text>
+	</string>
+	<string id="mosinka_65">
+		<text>Uzeću snapersku pušku...</text>
+	</string>
+	<string id="mosinka_66">
+		<text>Hvala Obeleženi!</text>
+	</string>
+	<string id="mosinka_67">
+		<text>Lep Gauss. Daj ga ovamo...</text>
+	</string>
+	<string id="mosinka_334">
+		<text>Super. Hvala ti puno!!!</text>
+	</string>
+	<string id="mosinka_336">
+		<text>Uopšte nije loše oružje!! Daj ovamo!!</text>
+	</string>
+	<string id="mosinka_338">
+		<text>Uvek me zanimaju Stechkin pištolji...</text>
+	</string>
+	<string id="mosinka_340">
+		<text>Zvuči dobro. Dogovoreno...</text>
+	</string>
+	<string id="mosinka_342">
+		<text>Uzimam...</text>
+	</string>
+	<string id="mosinka_68">
+		<text>Još ništa. Izvini.</text>
+	</string>
+	<!--= TRADING WITH RAVEN ==-->
+	<string id="trade_dialog_voron_0">
+		<text>Da li prodaješ oružje i municiju?</text>
+	</string>
+	<string id="trade_dialog_voron_1">
+		<text>Imam pristojan asortiman oružja i mali izbor municije...\nLjudi sa kojima poslujem striktno preferiraju zamenu za delove tela mutanata. Zato se bojim da ti ovde novac neće vredeti... Onda, Obeleženi, dosta priče. Hoćemo li poslovati ili ne?</text>
+	</string>
+	<string id="trade_dialog_voron_2">
+		<text>Kakvu vrstu municije imaš?...</text>
+	</string>
+	<string id="trade_dialog_voron_3">
+		<text>Ajde da pogledamo šta imaš od oružja...</text>
+	</string>
+	<string id="trade_dialog_voron_21">
+		<text>MOgu da ti ponudim sledeće:\n \n1. Municiju za sačmarice u zamenu za repove Pseudo Psa\n2. Municiju 9x39mm u zamenu za repove Slepog Psa</text>
+	</string>
+	<string id="trade_dialog_voron_22">
+		<text>Uzimam municiju za sačmarice...</text>
+	</string>
+	<string id="trade_dialog_voron_23">
+		<text>Uzimam municiju 9x39mm...</text>
+	</string>
+	<string id="trade_dialog_voron_41">
+		<text>Evo šta trenutno imam:\n \n1. Automate u zamenu za ruke Burera\n2. Sačmarice, Desert Eagle, ili M4A1 u zamenu za ruke Kontrolera</text>
+	</string>
+	<string id="trade_dialog_voron_42">
+		<text>Daj da vidim te automate...</text>
+	</string>
+	<string id="trade_dialog_voron_43">
+		<text>Pogledaću kod drugih...</text>
+	</string>
+	<string id="trade_dialog_voron_222">
+		<text>Za 5 repova Pseudo psa možeš dobiti:\n \n1. Tri pakovanja 12x70 'sačma'\n2. Dva pakovanja 12x70 'slug'\n3. Jedno pakovanje 12x70 'dart'...\n \nKoju želiš?</text>
+	</string>
+	<string id="trade_dialog_voron_221">
+		<text>Uzimam 12x70 'sačma'...</text>
+	</string>
+	<string id="trade_dialog_voron_2211">
+		<text>Daj mi 12x70 'slug' municiju...</text>
+	</string>
+	<string id="trade_dialog_voron_2212">
+		<text>Mislim da ću uzeti 12x70 'dart' municiju...</text>
+	</string>
+	<string id="trade_dialog_voron_232">
+		<text>Za 10 repova Slepog psa možeš dobiti:\n \n1. Četiri pakovanja 9x39mm 'PAB9' municije\n2. Tri pakovanja 9x39mm 'SP5' municije\n3. Dva pakovanja 9x39mm 'AP' municije...\n \nKoju želiš?...</text>
+	</string>
+	<string id="trade_dialog_voron_231">
+		<text>Uzimam 'PAB9' municiju...</text>
+	</string>
+	<string id="trade_dialog_voron_2311">
+		<text>Uzimam 'SP5' snajpersku municiju...</text>
+	</string>
+	<string id="trade_dialog_voron_2312">
+		<text>Uzimam 'AP' municiju...</text>
+	</string>
+	<string id="trade_dialog_voron_422">
+		<text>Za četiri ruke Burera, mogu ti ponuditi sledeće:\n \n1. Bizon\n2. Kriss Super-V\n3. MP-7a3\n \nŠta želiš?</text>
+	</string>
+	<string id="trade_dialog_voron_421">
+		<text>Uzimam 'Bizon'...</text>
+	</string>
+	<string id="trade_dialog_voron_4211">
+		<text>Možda ovaj 'Kriss Super-V'...</text>
+	</string>
+	<string id="trade_dialog_voron_4212">
+		<text>MP-7a3' zvuči interesantno...</text>
+	</string>
+	<string id="trade_dialog_voron_432">
+		<text>Za dve ruke Kontrolera mogu ti dati jedno od ovih:\n \n1. TOZ-34\n2. M4A1-Taktikal\n3. Saiga-12k\n4. Desert Eagle\n5. BM-16 'scattergun'\n \nTi izaberi...</text>
+	</string>
+	<string id="trade_dialog_voron_431">
+		<text>Daj mi TOZ-34...</text>
+	</string>
+	<string id="trade_dialog_voron_4311">
+		<text>Daj mi M4A1...</text>
+	</string>
+	<string id="trade_dialog_voron_4312">
+		<text>Već odavno tražim Saigu 12k...</text>
+	</string>
+	<string id="trade_dialog_voron_4313">
+		<text>Uzimam Desert Eagle...</text>
+	</string>
+	<string id="trade_dialog_voron_4314">
+		<text>Želim BM-16...</text>
+	</string>
+	<string id="trade_dialog_voron_88">
+		<text>Predomislio sam se...</text>
+	</string>
+	<string id="trade_dialog_voron_99">
+		<text>Trenutno ih nemam. Možda kasnije...</text>
+	</string>
+	<!--= TRADING WITH MAX ==-->
+	<string id="trade_dialog_maks_0">
+		<text>Tražim municiju... I možda neko bolje pancir odelo...</text>
+	</string>
+	<string id="trade_dialog_maks_1">
+		<text>Prodajem smesu za bacač plamena, pancir odela kao i municiju...\nŠta tačno tražiš?</text>
+	</string>
+	<string id="trade_dialog_maks_2">
+		<text>Treba mi smesa za bacač plamena...</text>
+	</string>
+	<string id="trade_dialog_maks_3">
+		<text>Da vidimo pancir odela i municiju...</text>
+	</string>
+	<string id="trade_dialog_maks_21">
+		<text>Mogu ti ponuditi sledeće:\n \n1. Smesu za bacač plamena za 12 flaša votke\n2. Pun kanister gasa ili kanister Koloidalnog gasa za 5 flaša votke...</text>
+	</string>
+	<string id="trade_dialog_maks_22">
+		<text>Uzmam smesu za bacač plamena...</text>
+	</string>
+	<string id="trade_dialog_maks_23">
+		<text>Daj da vidim daj kanister gasa...</text>
+	</string>
+	<string id="trade_dialog_maks_31">
+		<text>Za 10 flaša votke, mogu ti ponuditi:\n \n1. Razna pancir odela...\n2. Municiju za 'Groza' jurišnu pušku...</text>
+	</string>
+	<string id="trade_dialog_maks_32">
+		<text>Trebam bolje pancir odelo...</text>
+	</string>
+	<string id="trade_dialog_maks_33">
+		<text>Da vidimo municiju...</text>
+	</string>
+	<string id="trade_dialog_maks_222">
+		<text>Onda smo se dogovorili:\n \nZa 12 flaša votke daću ti smesu za bacač plamena...\nKako ti to zvuči?</text>
+	</string>
+	<string id="trade_dialog_maks_221">
+		<text>Ok, uzimam smesu za bacač plamena...</text>
+	</string>
+	<string id="trade_dialog_maks_232">
+		<text>Za 5 flaša votke, mogu ti ponuditi:\n \n1. kanister Koloidalnog gasa\n2. Pun kanister benzina\n \nIzaberi...</text>
+	</string>
+	<string id="trade_dialog_maks_231">
+		<text>Uzimam Koloidalni gas...</text>
+	</string>
+	<string id="trade_dialog_maks_2311">
+		<text>Daj mi kanister gasa...</text>
+	</string>
+	<string id="trade_dialog_maks_322">
+		<text>Za 10 flaša votke možeš dobiti:\n \n1. Odelo 'Zaštitnik Fridoma'\n2. Djutijev' PSZ-9MD pancir\n \nDo tebe je...</text>
+	</string>
+	<string id="trade_dialog_maks_321">
+		<text>Uzeću "Zaštitnik Fridoma"...</text>
+	</string>
+	<string id="trade_dialog_maks_3211">
+		<text>Daj mi Djutijev PSZ-9MD pancir...</text>
+	</string>
+	<string id="trade_dialog_maks_332">
+		<text>Za 10 flaša votke možeš dobiti:\n \n1. 3 pakovanja 9x39mm 'PAB9'\n2. 2 pakovanja 9x39mm 'AP'\n \nŠta ćeš izabrati?</text>
+	</string>
+	<string id="trade_dialog_maks_331">
+		<text>Daj mi 9x39mm 'AP' municiju...</text>
+	</string>
+	<string id="trade_dialog_maks_3311">
+		<text>Uzimam 9x39mm 'PAB9'...</text>
+	</string>
+	<string id="trade_dialog_maks_88">
+		<text>Predomislio sam se...</text>
+	</string>
+	<string id="trade_dialog_maks_99">
+		<text>Ništa sada, možda kasnije...</text>
+	</string>
+	<string id="krysyk_pomer_start_dialog_0">
+		<text>Zdravo, iz kojeg razloga si se vratio?</text>
+	</string>
+	<string id="krysyk_pomer_start_dialog_1">
+		<text>Onda stalkeru, jesi pronašao Pacova? Jesi doneo PDA?</text>
+	</string>
+	<string id="krysyk_pomer_start_dialog_2">
+		<text>Ukratko, tvoj Pacov je gotov... PDA nije bilo... To kopile izgleda da je na vreme diglo ručnu!</text>
+	</string>
+	<string id="krysyk_pomer_start_dialog_3">
+		<text>Majku mu... Okliznuli smo se kod Pacova, šteta što je i PDA nestao... Iako... Ne, čekaj! Prije nego što je pobegao, Pacov je sa Venom nešto mućkao, možda tu nešto saznamo?</text>
+	</string>
+	<string id="krysyk_pomer_start_dialog_4">
+		<text>O Veni govoriš? U redu, videću šta se može saznati...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_0">
+		<text>Zdravo Vena, uvek znaš najnovije vesti, jel tako? Tvoj prijatelj, Pacov - kud se preselio...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_1">
+		<text>Pacov? Da preselio se... Pod zemlju... Što je to tebe briga?</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_2">
+		<text>Pa poslovno... Što se tiče Pacova...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_3">
+		<text>Imaš li neko bolje objašnjenje?</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_4">
+		<text>Ukratko, Borov želi pronaći njegov PDA... Ali ga nigde nema... Možda ti znaš nešto? Gde da ga potražim?</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_5">
+		<text>Puno toga tražiš... Ukratko, znam nekoliko koordinata Borovih štekova, koje ću rado s tobom podeliti ako uradiš nešto za mene...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_41">
+		<text>A da ja tebi prvo zavrnem vrat - šta misliš hoće li to pomoći?</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_42">
+		<text>Misliš li ti?</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_51">
+		<text>Ajde beži, znaš da ti to neće pomoći. PDA Pacova je uštekan u tajnom skrovištu. Pa uveri se sam...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_52">
+		<text>Nešto mi moraš doneti...U Baru, Lovac ima jedinstveno oružje... Neophodno mi je!</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_621">
+		<text>U redu. Razgovaraću sa Lovcem, ali ništa ne obećavam...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_622">
+		<text>Ma goni se. Dosta mi je toga! Idi tamo, idi ovamo...</text>
+	</string>
+	<string id="krysyk_pomer_11_dialog_61">
+		<text>Ok, malo sam se našalio - ti se lepo nasmijao... </text>
+	</string>
+	<string id="krysyk_pomer_12_dialog_0">
+		<text>Razgovarao sam sa Lovcem. Složio se da će ti dati oružje ali samo ako mu nabaviš pivo.</text>
+	</string>
+	<string id="krysyk_pomer_12_dialog_1">
+		<text>Šta? Pivo? Hmm... Možda nešto i mogu naći. Koliko traži?</text>
+	</string>
+	<string id="krysyk_pomer_12_dialog_2">
+		<text>Dve kutije limenki...</text>
+	</string>
+	<string id="krysyk_pomer_12_dialog_3">
+		<text>Eh, ne budem nikome tražio pivo... Ali dobro, zapiši koordinate šteka u Kordonu. Za moj rođendan dečki su dovezli nešto iz Velikih zemalja, i to Sidoroviču ispred nosa... Da skratim, donesi mi to oružje a ja ću ti reći gde je PDA...</text>
+	</string>
+	<string id="krysyk_pomer_13_dialog_0">
+		<text>Zdravo Lovac! Imam jedan zahtev od jednog Bandita...</text>
+	</string>
+	<string id="krysyk_pomer_13_dialog_1">
+		<text>Otkud ti ovde? Većeg grubijanskog lica još ne vidjeh...</text>
+	</string>
+	<string id="krysyk_pomer_13_dialog_2">
+		<text>To ti je od alkohola... Da skratim, Vena želi da kupi jedno oružje od tebe. Hoćeš li mu prodat? Ako ga do sada nisi veće nekom prodao ili popio...</text>
+	</string>
+	<string id="krysyk_pomer_13_dialog_3">
+		<text>Želi on više nego što misli. Oružje, da, da... Ma do vraga s njim... Neka... E-e-e, hoću pivo... Dvadeset limenki... Ne, četrdeset! Donesi mi to pa ćemo pričati...</text>
+	</string>
+	<string id="krysyk_pomer_13_dialog_4">
+		<text>Pivo? Jesi li poludeo! Gde ćeš ovde naći pivo? Al' dobro, preneću poruku...</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_0">
+		<text>Zdravo izgubljena dušo!</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_1">
+		<text>Tiše, stalkeru, šta se dereš. Uglavi mi tutnji... Šta hoćeš?</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_2">
+		<text>Doneo sam pivo!</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_3">
+		<text>Šta? Pivo? Kakvo pivo? Ahaa, ma ja sam se ono samo šalio... Ali hajde, kada si ga već doneo daj ga ovamo...</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_42">
+		<text>Svih četrdeset limenki? A da sebi uzmem deset-dvadeset limenki?</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_41">
+		<text>Pa uzmi! Nesrećo alkoholičarska...</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_51">
+		<text>Uzmi svoj... Moj... Tvoj... Ma uzmi taj prokleti pištolj i idi, pametnjakoviću!</text>
+	</string>
+	<string id="krysyk_pomer_14_dialog_52">
+		<text>He-he, pa sigurno idem, i do đavola s tim tvojim banditom...</text>
+	</string>
+	<string id="krysyk_pomer_15_dialog_0">
+		<text>Evo, uzmi pištolj! Zadovoljan?</text>
+	</string>
+	<string id="krysyk_pomer_15_dialog_1">
+		<text>Pa daj ga, brate! Naravo da sam zadovoljan!</text>
+	</string>
+	<string id="krysyk_pomer_15_dialog_2">
+		<text>A šta je sam mojim delom?</text>
+	</string>
+	<string id="krysyk_pomer_15_dialog_3">
+		<text>Tvoj deo te čeka u Agropromu... Evo...\nIma recept kako dobiti Meduzu od različitih stvari... U Elektro moraš baciti glavu skočimiša, zavoj, kobasicu i konzervu...</text>
+	</string>
+	<string id="krysyk_pomer_15_dialog_4">
+		<text>U redu, proveriću... Ali ako me prevariš, rastrgaću te kao penzioner ček od struje...</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_0">
+		<text>Zdravo, Borov. Pronašao sam PDA...</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_1">
+		<text>Da i...??? Pa gde je? Daj ga ovamo!</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_2">
+		<text>A gde je moj deo?</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_3">
+		<text>Dobićeš svoj deo, daj ga već jednom...</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_4">
+		<text>U redu... Evo ti PDA...</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_51">
+		<text>Dobro, evo ti ključ od jednog dobrog podzemnog šteka. Istina, ljudi su sve pokupili, ostalo je smeće... Ali štek i plen u njemu bi trebali biti dobri... Severno od Vojnih Skladišta, u blizini palog helikoptera...\nPostoji recept kako dobiti artefakt Vijuga - moraš baciti zavoj, konzervu hrane, glavu skočimiša i kobasicu u Voćni Punč...</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_52">
+		<text>Dobro, evo ti ključ od jednog dobrog šteka. Istina, ljudi su sve pokupili, ostalo je smeće... Ali štek i plen u njemu bi trebali biti dobri... Severno od Vojnih Skladišta, u blizini palog helikoptera...\nPostoji recept kako dobiti artefakt Vijuga - moraš baciti zavoj, konzervu hrane, glavu skočimiša i kobasicu u Voćni Punč...</text>
+	</string>
+	<string id="krysyk_pomer_finish_dialog_6">
+		<text>Dobro. Pogledaću, držim te za reč... Videćemo se opet...</text>
+	</string>
+	<string id="chemodan_serega_dialog_0">
+		<text>Zdravo Serega! Šta radiš?</text>
+	</string>
+	<string id="chemodan_serega_dialog_1">
+		<text>Šta radim, pevam... Banditi navaljuju u čoporima a municije gotovo da i nema... Dvojicu sam poslao u Bar po municiju - već drugi dan nema ni glasa od njih, PDA isključen... Đavo zna šta se desilo...</text>
+	</string>
+	<string id="chemodan_serega_dialog_2">
+		<text>Pa možda ti ja mogu pomoći... Mogu ja doneti municiju. Šta kažeš?</text>
+	</string>
+	<string id="chemodan_serega_dialog_3">
+		<text>Pristajem... Koliko tražiš?</text>
+	</string>
+	<string id="chemodan_serega_dialog_4">
+		<text>Za kutiju municije - kutiju drage (a box darling)... Dakle?</text>
+	</string>
+	<string id="chemodan_serega_dialog_5">
+		<text>To je odlično, pristajem!</text>
+	</string>
+	<string id="chemodan_serega_dialog_6">
+		<text>Već sam čuo slično... Pa dobro, srećno!</text>
+	</string>
+	<string id="chemodan_voronin_dialog_0">
+		<text>Zdravo generale! Municija vam nije potrebna?</text>
+	</string>
+	<string id="chemodan_voronin_dialog_1">
+		<text>Zdravo! Municija nam je uvek potrebna...</text>
+	</string>
+	<string id="chemodan_voronin_dialog_2">
+		<text>Pa možda ti ja mogu pomoći... Mogu ja doneti municiju. Šta kažeš?</text>
+	</string>
+	<string id="chemodan_voronin_dialog_3">
+		<text>Pristajem... Koliko tražiš?</text>
+	</string>
+	<string id="chemodan_voronin_dialog_4">
+		<text>Za kutiju municije - 20 setova prve pomoći... Onda?</text>
+	</string>
+	<string id="chemodan_voronin_dialog_5">
+		<text>To je odlično, pristajem! ...</text>
+	</string>
+	<string id="chemodan_voronin_dialog_6">
+		<text>Već sam čuo slično... Pa dobro, srećno!</text>
+	</string>
+	<string id="chemodan_lukash_dialog_0">
+		<text>Zdravo, Lukaš! Treba li vam kutija municije?</text>
+	</string>
+	<string id="chemodan_lukash_dialog_1">
+		<text>Zdravo! Drago mi je da si je doneo nama. Municija nikada nije od viška!</text>
+	</string>
+	<string id="chemodan_lukash_dialog_2">
+		<text>Uf, preteško je nositi po celoj Zoni. Gotovo sam dobio hemoroide. Onda, jesmo se dogovorili?</text>
+	</string>
+	<string id="chemodan_lukash_dialog_3">
+		<text>Pa možda se i dogovorimo... Koliko tražiš?</text>
+	</string>
+	<string id="chemodan_lukash_dialog_4">
+		<text>Za kutiju municije  - 30 doza antirada... Onda?</text>
+	</string>
+	<string id="chemodan_lukash_dialog_5">
+		<text>To je odlično, uzimam!</text>
+	</string>
+	<string id="chemodan_lukash_dialog_6">
+		<text>Već sam čuo slično... Pa dobro, srećno!</text>
+	</string>
+	<string id="tolik1_pomer_dialog_0">
+		<text>Zdravo Vuče! Otkud ti ovde?</text>
+	</string>
+	<string id="tolik1_pomer_dialog_1">
+		<text>Zdravo, Obeleženi. Pa malo tražim lokalne poslove a i u slučaju da Barijera padne, treba nekako osigurati pomoć iz Bara... Znaš da samo vojni radio radi normalno u ovom anomalnom području... Reći ću ti i tajnu kako se eliminišu anomalije, ali prvo... Fanatik mi je obećao doneti ili poslati po nekom... Samo odavno se nisam čuo s njim, a ni traga od nekog drugog... A na to sve, nikakva komunikacija sa Kordonom ne radi! Pa? Hoćeš li potražiti Fanatika?</text>
+	</string>
+	<string id="tolik1_pomer_dialog_2">
+		<text>U redu, potražiću ga...</text>
+	</string>
+	<string id="tolik1_pomer_dialog_3">
+		<text>Neću, pošalji nekog drugog da ga traži...</text>
+	</string>
+	<string id="tolik2_pomer_dialog_0">
+		<text>Zdravo Vuče, pronašao sam Fanatika.</text>
+	</string>
+	<string id="tolik2_pomer_dialog_1">
+		<text>Šta se desilo s njim? Gde je radio?</text>
+	</string>
+	<string id="tolik2_pomer_dialog_2">
+		<text>Radio je tu, izvoli. A Fanatika su ranili Plaćenici tako da je poslao glasnike, koji su zaglavili u Baru pijani...</text>
+	</string>
+	<string id="tolik2_pomer_dialog_3">
+		<text>Maaa, uživaju tamo bez mene? Haj dobro - najvažnije je da je radio isporučen! Hvala ti, Obeleženi!\nŠto se tiče anomalija: znam samo kako "isključiti" Elektro - potrebno je ubaciti "Rubinsku Bateriju"...\nMožda je moguće i sa drugim anomalijama ali je potrebno dodatno istražiti...</text>
+	</string>
+	<string id="radiotolik_pomer_dialog_0">
+		<text>Zdravo, Fanatik! Zašto nisi poslao nekoga da odnese radio Vuku? On te čeka i nada ti se!</text>
+	</string>
+	<string id="radiotolik_pomer_dialog_1">
+		<text>Oprosti, Obeleženi, ali slao sam ljude. Samo što su ovde sve kukavice! Zadnji put kada sam poslao, vratili su se pijani kao guzice i ostavili ga negde... A ja sam ne mogu nositi jer su me ranili Plaćenici... A još sam sada i vođa kampa, razumeš...</text>
+	</string>
+	<string id="radiotolik_pomer_dialog_2">
+		<text>Nadam se da ćeš se oporaviti... Gde su ga ostavili?</text>
+	</string>
+	<string id="radiotolik_pomer_dialog_3">
+		<text>U Deponiji, iza hangara ima rov u kojem su velike cevi... Ti prokleti početnici, sigurno su ga ostavili kada su krenuli u Bar na pijančenje...</text>
+	</string>
+	<string id="max_pomer_dialog_0">
+		<text>Zdravo, Šraf! U vezi teleportera...</text>
+	</string>
+	<string id="max_pomer_dialog_1">
+		<text>Ooo, Obeleženi! Ja i Maks smo nekako skrpili teleporter za Jantaru.</text>
+	</string>
+	<string id="max_pomer_dialog_4">
+		<text>To je odlično! Što je potrebno za vas? Šta želite zauzvrat?</text>
+	</string>
+	<string id="max_pomer_dialog_5">
+		<text>Ma ne treba ništa, malo hrane, votke i svežeg vazduha... I žene, ali gde ih naći...\nIako... Odi do Saharova, obećao je nabaviti nekoliko novih plejboja, da malo nahranim oči najlepšim božijim kreacijama...</text>
+	</string>
+	<string id="max_pomer_dialog_2">
+		<text>Evo srećo prokleta...</text>
+	</string>
+	<string id="max_pomer_dialog_3">
+		<text>Pa daj...</text>
+	</string>
+	<string id="max_pomer2_dialog_0">
+		<text>Evo ti lepotice...</text>
+	</string>
+	<string id="max_pomer2_dialog_1">
+		<text>Hvala ti, Obeleženi. Već sam zaboravio šta je žena...</text>
+	</string>
+	<string id="max_pomer2_dialog_2">
+		<text>Evo ti pa se podseti malo...</text>
+	</string>
+	<string id="max_pomer2_dialog_3">
+		<text>Priđi, kada se želiš prebaciti u Jantar...</text>
+	</string>
+	<string id="max_pomer3_dialog_0">
+		<text>Zdravo profesore...</text>
+	</string>
+	<string id="max_pomer3_dialog_1">
+		<text>Zdravo Obeleženi, kako život...</text>
+	</string>
+	<string id="max_pomer3_dialog_2">
+		<text>Imaš li Plejboj magazina?</text>
+	</string>
+	<string id="max_pomer3_dialog_3">
+		<text>Izgleda da si jako usamljen, Obeleženi! Evo ti Plejboj iz 2006, uživaj...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_0">
+		<text>Zdravo Šraf, moram do Jantara...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_1">
+		<text>Ne možeš sediti na jednom mestu...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_2">
+		<text>Ne mogu biti na jednom mestu - prirodno...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_21">
+		<text>Eh, prirodno... Potreban je artefakt Liskun...\nJa ga nemam, a ti?</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_22">
+		<text>Imam, izvoli...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_23">
+		<text>Nisam mislio da će mi trebati - prodao sam ga...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_221">
+		<text>Nije tu i neće biti... Jednostavno je, za kompaniju samo jednom... Za intelektualni rad ću uzeti novac... Svaki posao treba nagraditi...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_222">
+		<text>A kakvu nagradu želite?</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_223">
+		<text>Pa ako želiš na neko sigurno mesto onda 9000...\nA ako se ne bojiš nekog opasnijeg mesta, onda 2500 će biti dosta.\nIzaberi...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_224">
+		<text>Daj neko sigurno mesto...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_225">
+		<text>Slušaj, evo 2500. Videćemo to mesto kakvo je...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_226">
+		<text>Zadržaću novac i sam ću otići tamo...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_25">
+		<text>Za dobru nagradu - dobar posao...\nIdi do teleportera. Nasuprot glavnog ulaza u bazu... Pređi preko puta pa ćeš videti...</text>
+	</string>
+	<string id="teleport_max_pomer_dialog_26">
+		<text>Idi ti i odradi to sam...\nSlobodno... Teleporter je nasuprot ulaza u bazu.</text>
+	</string>
+	<string id="yurik_pomer1_dialog_0">
+		<text>Zdravo, čemu takvo tužno lice?</text>
+	</string>
+	<string id="yurik_pomer1_dialog_1">
+		<text>Zdravo, Obeleženi... Nedostaju mi sitna zadovoljstva života koja je teško naći u Zoni... Na primer pivo... Da, da, upravo to... Želim pivo! U Mračnoj Dolini, tamo ima piva... Hoćeš li ići i naći mi malo? Donesi mi bar 10 limenki... Daću ti za njih nešto jako interesantno, recimo jedan recept za transformaciju artefakta. Neki novajlija mi je doneo PDA Jurika... Laka mu zemlja...</text>
+	</string>
+	<string id="yurik_pomer1_dialog_2">
+		<text>To uopšte nije loša ideja. Mislim da ću i za sebe nabaviti nešto malo. U Mračnoj Dolini kažeš? U redu...</text>
+	</string>
+	<string id="yurik_pomer1_dialog_3">
+		<text>Izvini, ali ne idem nigdje ni blizu bandita...</text>
+	</string>
+	<string id="yurik_pomer2_dialog_0">
+		<text>Zdravo, Den! Izvoli, doneo sam pivo...</text>
+	</string>
+	<string id="yurik_pomer2_dialog_1">
+		<text>Oh, Obeleženi, ulepšao si mi dan! Daj ih ovamo, hoćeš ti jednu popiti?</text>
+	</string>
+	<string id="yurik_pomer2_dialog_2">
+		<text>Ooo da, izvoli, pravo su osvežavajućeg okusa...</text>
+	</string>
+	<string id="yurik_pomer2_dialog_3">
+		<text>Odlično pivo - i sveže! Prebaciću ti recept na PDA...\nSlušaj, Obeleženi... Mogu li da te zamolim za još nešto?</text>
+	</string>
+	<string id="yurik_pomer21_dialog_0">
+		<text>Reci mi šta ti treba... Putujem mnogo pa ti možda i mogu pomoći...</text>
+	</string>
+	<string id="yurik_pomer21_dialog_1">
+		<text>Obeleženi... U Deponiji ima jedan čovek, Gavran ga zovu. Mislim da sam ti već govorio o njemu... Uglavnom, naručio sam od njega skraćenu sačmaricu 'BM-16'. Zauzvrat je tražio ovu torbu. Hoćeš li mu dostaviti torbu a pokupiti sačmaricu? Daću ti jedan artefakt koji sigurno nikada nisi video do sada!</text>
+	</string>
+	<string id="yurik_pomer21_dialog_2">
+		<text>Gavran? U redu, daj torbu ovamo da i to rešimo...</text>
+	</string>
+	<string id="yurik_pomer21_dialog_3">
+		<text>Žao mi je, ali stvarno imam puno obaveza... Pitaj nekog drugog...</text>
+	</string>
+	<string id="yurik_pomer22_dialog_0">
+		<text>Zdravo Den! Doneo sam oružje...</text>
+	</string>
+	<string id="yurik_pomer22_dialog_1">
+		<text>Odlično... Zar nije bio lak poslić?</text>
+	</string>
+	<string id="yurik_pomer22_dialog_2">
+		<text>Putovati sam po Zoni nikada nije lako... Evo ti oružje. Gde je artefakt?</text>
+	</string>
+	<string id="yurik_pomer22_dialog_3">
+		<text>Hvala, Obeleženi! Nego taj artefakt...nije kod mene. Ali znam tačno gde je. U Zaboravljenoj Šumi videćeš neka crvena burad, tamo ćeš pronaći "Smaragdnu Meduzu". Ipak, dobro se čuvaj Himera i drugih mutanata.</text>
+	</string>
+	<string id="yurik_pomer22_dialog_4">
+		<text>Ooo, Den... Toliko o tvom lakom posliću!</text>
+	</string>
+	<string id="yurik_pomer32_dialog_0">
+		<text>Zdravo Gavran... Doneo sam torbu od Dena... Ili da kažem "veselu torbu".</text>
+	</string>
+	<string id="yurik_pomer32_dialog_1">
+		<text>Dobro... Pretpostavljam da onda znaš za moje "planove" za večer...</text>
+	</string>
+	<string id="yurik_pomer32_dialog_2">
+		<text>Hehe, evo, hvataj...daj mi tu skraćenu sačmaricu, žuri mi se...</text>
+	</string>
+	<string id="bad_exo_dialog_0">
+		<text>Zdravo Lisac, doneo sam egzoskelet... Kako smo se dogovorili...</text>
+	</string>
+	<string id="bad_exo_dialog_1">
+		<text>Zdravo! Slušaj Obeleženi, dogovorili smo se da mi doneseš novo odelo! A šta si mi ti doneo? Ovakvo mi ničem ne koristi. Idi i popravi ga pa ćemo onda razgovarati!</text>
+	</string>
+	<string id="bad_exo_dialog_2">
+		<text>Eh, uvek idi tamo, idi ovamo. U redu, popraviću ga negde pa ću ti ga doneti...</text>
+	</string>
+	<string id="bad_strelok_dialog_0">
+		<text>Zdravo, Bes. Pronašao sam pancir odelo... Otporno na habanje... Teško je pronaći neko koje nije "izhabano"...</text>
+	</string>
+	<string id="bad_strelok_dialog_1">
+		<text>Stalkeru, za koga me držiš? To što si pronašao odelo i ojačao ga, hvala ti... Ali dok ga u celosti ne popraviš, razgovor je završen!</text>
+	</string>
+	<string id="bad_strelok_dialog_2">
+		<text>U redu, kada ga popravim doneću ti ga...</text>
+	</string>
+	<string id="bad_skat_dialog_0">
+		<text>Zdravo, Sjak, doneo sam ti SKAT... Odlična i vredna stvar...</text>
+	</string>
+	<string id="bad_skat_dialog_1">
+		<text>Aha, da... Šta si to uradio s njim? Obeleženi, prvo ga popravi pa ga onda donesi - ovo smeće mi ne treba!</text>
+	</string>
+	<string id="bad_skat_dialog_2">
+		<text>Dobro, smiri se, biće popravljeno...</text>
+	</string>
+	<string id="bad_gravi_dialog_0">
+		<text>Škrti, evo ti Kameni Oklop odelo...</text>
+	</string>
+	<string id="bad_gravi_dialog_1">
+		<text>Obeleženi, pa šta je ovo? Šta si mi ovo doneo? Kameno smeće, ne odelo! Šta si to radio s njim? Kao da ga je Pseudogigant dobro nogama istabanao! Ne mogu ga uzeti dok ne bude popravljen...</text>
+	</string>
+	<string id="bad_gravi_dialog_2">
+		<text>Ajde, rešiću i to. Šta si zakukao kao kakva žena...</text>
+	</string>
+	<string id="bad_toz_dialog_0">
+		<text>Zdravo, Petruha! Evo TOZ...</text>
+	</string>
+	<string id="bad_toz_dialog_1">
+		<text>Kako da koristim ovako pohabanu pušku protiv Bandita i mutanata? Molim te prvo je popravi pa mi je onda donesi!</text>
+	</string>
+	<string id="bad_toz_dialog_2">
+		<text>OK, ti nezahvalni stvore. Biće popravljena...</text>
+	</string>
+	<string id="bad_mp5_m1_dialog_0">
+		<text>Zdravo, Jurik! Izvoli!</text>
+	</string>
+	<string id="bad_mp5_m1_dialog_1">
+		<text>Obeleženi! Poštujem te jer si mi spasio život, ali to ne znači da mi možeš dati lošu robu... Molim te, popravi je nekako...</text>
+	</string>
+	<string id="bad_mp5_m1_dialog_2">
+		<text>Ok, Jurik. Popraviću je!</text>
+	</string>
+	<string id="bad_groza_dialog_0">
+		<text>Ej Vodiču, doneo sam ti Grozu, kao što smo se dogovorili...</text>
+	</string>
+	<string id="bad_groza_dialog_1">
+		<text>Obeleženi, na kojoj si hrpi smeća ovo pronašao? Donesi mi potpuno ispravno oružje!</text>
+	</string>
+	<string id="bad_groza_dialog_2">
+		<text>Zaboravio sam da si pohlepna hulja. Popraviću je i vratiti se...</text>
+	</string>
+	<string id="bad_eagle_m1_dialog_0">
+		<text>Zdravo Friman! Evo ti "Desert eagle"...</text>
+	</string>
+	<string id="bad_eagle_m1_dialog_1">
+		<text>Obeleženi, šta si, do đavola, uradio sa mojim pištoljem! Ovo moraš popraviti!</text>
+	</string>
+	<string id="bad_eagle_m1_dialog_2">
+		<text>Ok, popraviću ga!</text>
+	</string>
+	<string id="bad_rg66_dialog_0">
+		<text>Generale! Doneo sam 'Bulldoga'...</text>
+	</string>
+	<string id="bad_rg66_dialog_1">
+		<text>Stalkeru, hoćeš li izvući tu svoju glavu iz dupeta! Kakvo si mi ovo smeće doneo! Da si ga prvo popravio i tek onda se vrati ovamo!</text>
+	</string>
+	<string id="bad_rg66_dialog_2">
+		<text>Dobro, biće popravljen...</text>
+	</string>
+	<string id="bad_gungauss_dialog_0">
+		<text>Zdravo! Evo ti tvoj predivni pištolj!</text>
+	</string>
+	<string id="bad_gungauss_dialog_1">
+		<text>Zdravo, burazeru! Vidim da ga nisi mazio... Ajde, prvo ga popravi kako treba, pa onda dođi...</text>
+	</string>
+	<string id="bad_gungauss_dialog_2">
+		<text>Ma nije problem, popraviću ga...</text>
+	</string>
+	<string id="bad_rg6_dialog_0">
+		<text>Zdravo, Škrti! Evo 'Bulldog'...</text>
+	</string>
+	<string id="bad_rg6_dialog_1">
+		<text>Druže, ne treba mi ovakvo smeće - ajde prvo ga popravi kako treba pa ću ga onda uzeti...</text>
+	</string>
+	<string id="bad_rg6_dialog_2">
+		<text>OK, čim ga nekako zakrpam, doneću ti ga...</text>
+	</string>
+	<string id="bad_wpn_bm16_dialog_0">
+		<text>Zdravo Den! Bio sam kod Gavrana i doneo ti skraćenu sačmaricu...</text>
+	</string>
+	<string id="bad_wpn_bm16_dialog_1">
+		<text>Obeleženi! Budi pravi čovek i popravi je kako treba. U ovakvu stanju je ne mogu prihvatiti!</text>
+	</string>
+	<string id="bad_wpn_bm16_dialog_2">
+		<text>Izvini Den, vratiću se čim je popravim...</text>
+	</string>
+	<string id="bad_hunters_toz_dialog_0">
+		<text>Zdravo, Vena! Bio sam kod Lovca... Izvoli oružje!</text>
+	</string>
+	<string id="bad_hunters_toz_dialog_1">
+		<text>Brate, pa nemoj mi to raditi! Hoćeš neko smeće da mi uvališ? Prvo popravi kako treba, pa onda dođi!</text>
+	</string>
+	<string id="bad_hunters_toz_dialog_2">
+		<text>Dobro, sačekaj, brzo se vraćam!</text>
+	</string>
+	<string id="start_update_outfit_sidor_0">
+		<text>Hej Sidoroviču! Jesam li ti nedostajao?!</text>
+	</string>
+	<string id="start_update_outfit_sidor_1">
+		<text>Obeleženi.. Čuo sam da si nam dosta pomogao ovde... Zauzvrat želim ti ponuditi neke svoje usluge. Konkretno nadogradnju odela. Mogu ti instalirati uređaj za noćno osmatranje na određena odela... Nije najbolje kvalitete ali je najbolje što mogu dobiti ovde!!\n \nTakođer imam odela ojačana zaštitnim slojem, koji sadrži posebne čestice iz artefakta "Opna". To će ti pružiti bolju zaštitu od određenih elemenata. \nOh, evo ti i nekoliko Setova za popravljanje pancira. Da ga koristiš, jednostavno ga staviš ispred sebe, onda ga otvoriš i poprvka bi trebala biti primenjena na određeni komad opreme. U slučaju Seta za popravljanje oružja, popravljanje će biti primenjeno na oružje koje to najviše zahteva u slotu. Stvarno jednostavno...</text>
+	</string>
+	<string id="start_update_outfit_sidor_2">
+		<text>Hvala Sidoroviču, cenim to!</text>
+	</string>
+	<string id="update_outfit_sidor_0">
+		<text>Kakvu nadogradnju odela nudiš?</text>
+	</string>
+	<string id="update_outfit_sidor_1">
+		<text>"Noćno osmatranje". Ali imam samo jednu vrstu - standardo Zeleno. Može se instalirati na jakne i Kišne mantile, ali samo ako nisu previše oštećene. Također mogu ojačati jakne posebnom metodom koju su razvili jajoglavi, a kojim sam pomogao sa malo votke...\n \nNadogradnja košta:\nUređaj za noćno osmatranje = 10000 Ru\n \nOjačanje jakne:\n \nJakna = 5000 Ru\nModifikovana jakna = 10000 Ru\nObični kišni mantil = 15000 Ru\nModifikovani kišni mantil = 20000 Ru\n \nJavi mi ako si zainteresiran...</text>
+	</string>
+	<string id="update_outfit_sidor_1111">
+		<text>Zanima me uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_sidor_11111">
+		<text>Želiš li ga instalirati na običnu jaknu ili na ojačanu?</text>
+	</string>
+	<string id="update_outfit_sidor_111111">
+		<text>Instaliraj ga na Običnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_1111111">
+		<text>Na koju jaknu da instaliram uređaj za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_sidor_2">
+		<text>Instaliraj ga na Običnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_3">
+		<text>Instaliraj ga na Tamni Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_4">
+		<text>Instaliraj ga na Laki Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_5">
+		<text>Instaliraj ga na Smeđu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_6">
+		<text>Instaliraj ga na Kožnu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_7">
+		<text>Instaliraj ga na Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_8">
+		<text>Instaliraj ga na Crveno Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_9">
+		<text>Instaliraj ga na Crnu Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_10">
+		<text>Instaliraj ga na Plavo Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_11">
+		<text>Instaliraj ga na Tamni Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_12">
+		<text>Instaliraj ga na Smeđi Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_13">
+		<text>Instaliraj ga na Tamnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_14">
+		<text>Instaliraj ga na Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_15">
+		<text>Instaliraj ga na Zelenu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_16">
+		<text>Instaliraj ga na Tamnu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_17">
+		<text>Instaliraj ga na Lakšu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_18">
+		<text>Instaliraj ga na Smeđu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_19">
+		<text>Instaliraj ga na Jaknu sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_20">
+		<text>Instaliraj ga na Banditsko odelo sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_21">
+		<text>Instaliraj ga na ojačano Smeđi Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_22">
+		<text>Instaliraj ga na Ojačanu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_23">
+		<text>Instaliraj ga na Ojačano Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_24">
+		<text>Instaliraj ga na ojačano Tamni Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_25">
+		<text>Evo, uzmi Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_26">
+		<text>Evo, uzmi Laki Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_27">
+		<text>Evo, uzmi Tamni Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_28">
+		<text>Evo, uzmi Smeđu Kožnu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_29">
+		<text>Evo, uzmi Tamnu Kožnu jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_30">
+		<text>Evo, uzmi Tamno Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_31">
+		<text>Evo, uzmi Crveno Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_32">
+		<text>Evo, uzmi Crno Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_33">
+		<text>Evo, uzmi Tamno Plavu Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_34">
+		<text>Evo, uzmi Tamni Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_35">
+		<text>Evo, uzmi Smeđi Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_36">
+		<text>Evo, uzmi Tamnu Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_37">
+		<text>Evo, uzmi Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_38">
+		<text>Evo, uzmi Zelenu Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_39">
+		<text>Evo, uzmi Tamnu Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_40">
+		<text>Evo, uzmi Lakšu Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_41">
+		<text>Evo, uzmi Smeđu Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_42">
+		<text>Evo, uzmi Jaknu sa gas maskom. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_43">
+		<text>Evo, uzmi Banditsko odelo sa gas maskom. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_44">
+		<text>Evo, uzmi ojačano Smeđi Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_45">
+		<text>Evo, uzmi Ojačanu Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_46">
+		<text>Evo, uzmi Ojačano Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_47">
+		<text>Evo, uzmi ojačano Tamni Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_111112">
+		<text>Instaliraj ga na Ojačanu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_1111121">
+		<text>Na koju jaknu da instalujem uređaj za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_sidor_102">
+		<text>Instaliraj ga na Običnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_103">
+		<text>Instaliraj ga na Tamni Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_104">
+		<text>Instaliraj ga na Laki Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_105">
+		<text>Instaliraj ga na Smeđu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_106">
+		<text>Instaliraj ga na Kožnu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_107">
+		<text>Instaliraj ga na Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_108">
+		<text>Instaliraj ga na Crveno Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_109">
+		<text>Instaliraj ga na Crnu Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_110">
+		<text>Instaliraj ga na Plavo Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_111">
+		<text>Instaliraj ga na Tamni Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_112">
+		<text>Instaliraj ga na Smeđi Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_113">
+		<text>Instaliraj ga na Tamnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_114">
+		<text>Instaliraj ga na Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_115">
+		<text>Instaliraj ga na Zelenu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_116">
+		<text>Instaliraj ga na Tamnu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_117">
+		<text>Instaliraj ga na Lakšu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_118">
+		<text>Instaliraj ga na Smeđu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_119">
+		<text>Instaliraj ga na Običnu Jaknu sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_120">
+		<text>Instaliraj ga na Banditsko odelo sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_121">
+		<text>Instaliraj ga na ojačano Smeđi Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_122">
+		<text>Instaliraj ga na Ojačanu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_123">
+		<text>Instaliraj ga na Ojačano Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_124">
+		<text>Instaliraj ga na ojačano Tamni Banditski Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_125">
+		<text>Evo, uzmi Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_126">
+		<text>Evo, uzmi Laki Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_127">
+		<text>Evo, uzmi Tamni Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_128">
+		<text>Evo, uzmi Smeđu Kožnu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_129">
+		<text>Evo, uzmi Tamnu Kožnu jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_130">
+		<text>Evo, uzmi Tamno Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_131">
+		<text>Evo, uzmi Crveno Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_132">
+		<text>Evo, uzmi Crno Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_133">
+		<text>Evo, uzmi Tamno Plavu Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_134">
+		<text>Evo, uzmi Tamni Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_135">
+		<text>Evo, uzmi Smeđi Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_136">
+		<text>Evo, uzmi Tamnu Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_137">
+		<text>Evo, uzmi Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_138">
+		<text>Evo, uzmi Zelenu Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_139">
+		<text>Evo, uzmi Tamnu Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_140">
+		<text>Evo, uzmi Lakšu Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_141">
+		<text>Evo, uzmi Smeđu Maskirno Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_142">
+		<text>Evo, uzmi Jaknu sa gas maskom. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_143">
+		<text>Evo, uzmi Banditsko odelo sa gas maskom. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_144">
+		<text>Evo, uzmi ojačano Smeđi Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_145">
+		<text>Evo, uzmi Ojačanu Jaknu. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_146">
+		<text>Evo, uzmi Ojačano Banditsko odelo. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_147">
+		<text>Evo, uzmi ojačano Tamni Banditski Kišni Mantil. Sve je sređeno...</text>
+	</string>
+	<string id="update_outfit_sidor_2222">
+		<text>Jačanje odela je bolje...</text>
+	</string>
+	<string id="update_outfit_sidor_22222">
+		<text>Ojačati obično odelo ili sa instalovanim PNV?</text>
+	</string>
+	<string id="update_outfit_sidor_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_sidor_2222211">
+		<text>Koje odelo da ojačam?</text>
+	</string>
+	<string id="update_outfit_sidor_202">
+		<text>Običnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_203">
+		<text>Tamni Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_204">
+		<text>Laki Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_205">
+		<text>Smeđu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_206">
+		<text>Tamno smeđu Kožnu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_207">
+		<text>Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_208">
+		<text>Crveno Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_209">
+		<text>Crnu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_210">
+		<text>Tamno plavu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_211">
+		<text>Tamnu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_212">
+		<text>Smeđu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_213">
+		<text>Tamnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_214">
+		<text>Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_215">
+		<text>Zelenu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_216">
+		<text>Tamnu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_217">
+		<text>Lakšu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_218">
+		<text>Smeđu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_219">
+		<text>Jaknu sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_220">
+		<text>Banditsku jaknu sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_221">
+		<text>ojačani Banditski smeđi Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_222">
+		<text>Ojačanu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_223">
+		<text>Ojačano Banditsko odelo...</text>
+	</string>
+	<string id="update_outfit_sidor_224">
+		<text>ojačani Banditski Tamni Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_225">
+		<text>Evo, uzmi Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_226">
+		<text>Evo, uzmi Laki Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_227">
+		<text>Evo, uzmi Tamni Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_228">
+		<text>Evo, uzmi Smeđu Kožnu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_229">
+		<text>Evo, uzmi Tamno smeđu Kožnu jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_230">
+		<text>Evo, uzmi tamnu Banditsku jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_231">
+		<text>Evo, uzmi crveno Banditsku jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_232">
+		<text>Evo, uzmi crno Banditsku jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_233">
+		<text>Evo, uzmi tamno plavo Banditsku jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_234">
+		<text>Evo, uzmi tamni Banditski Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_235">
+		<text>Evo, uzmi smeđi Banditski Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_236">
+		<text>Evo, uzmi Tamnu Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_237">
+		<text>Evo, uzmi Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_238">
+		<text>Evo, uzmi Zelenu Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_239">
+		<text>Evo, uzmi Tamnu Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_240">
+		<text>Evo, uzmi Lakšu Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_241">
+		<text>Evo, uzmi Smeđu Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_242">
+		<text>Evo, uzmi Jaknu sa gas maskom! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_243">
+		<text>Evo, uzmi Banditsku jaknu sa gas maskom! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_244">
+		<text>Evo, uzmi ojačani Banditski smeđi Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_245">
+		<text>Evo, uzmi ojačanu jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_246">
+		<text>Evo, uzmi ojačanu Banditsko jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_247">
+		<text>Evo, uzmi ojačani Banditski Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_sidor_2222221">
+		<text>Koje odelo da ojačam?</text>
+	</string>
+	<string id="update_outfit_sidor_302">
+		<text>Običnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_303">
+		<text>The Tamni Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_304">
+		<text>The Laki Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_305">
+		<text>The Smeđu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_306">
+		<text>Tamno smeđu Kožnu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_307">
+		<text>Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_308">
+		<text>Crveno Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_309">
+		<text>Crnu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_310">
+		<text>Tamno plavu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_311">
+		<text>Tamno Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_312">
+		<text>Smeđu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_313">
+		<text>Tamnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_314">
+		<text>Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_315">
+		<text>Zelenu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_316">
+		<text>Tamnu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_317">
+		<text>Lakšu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_318">
+		<text>Smeđu Maskirnu Jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_319">
+		<text>Jakna sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_320">
+		<text>Banditska jakna sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sidor_321">
+		<text>ojačani Banditski smeđi Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_322">
+		<text>Ojačanu jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_323">
+		<text>Ojačanu Banditsko jaknu...</text>
+	</string>
+	<string id="update_outfit_sidor_324">
+		<text>ojačani Banditski Tamni Kišni Mantil...</text>
+	</string>
+	<string id="update_outfit_sidor_325">
+		<text>Evo, uzmi Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_326">
+		<text>Evo, uzmi Laki Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_327">
+		<text>Evo, uzmi Tamni Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_328">
+		<text>Evo, uzmi Smeđu Kožnu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_329">
+		<text>Evo, uzmi Tamno smeđu Kožnu jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_330">
+		<text>Evo, uzmi tamnu Banditsko jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_331">
+		<text>Evo, uzmi crveno Banditsko jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_332">
+		<text>Evo, uzmi crnu Banditsko jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_333">
+		<text>Evo, uzmi tamno plavo Banditsko jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_334">
+		<text>Evo, uzmi tamni Banditski Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_335">
+		<text>Evo, uzmi smeđi Banditski Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_336">
+		<text>Evo, uzmi Tamnu Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_337">
+		<text>Evo, uzmi Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_338">
+		<text>Evo, uzmi Zelenu Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_339">
+		<text>Evo, uzmi Tamnu Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_340">
+		<text>Evo, uzmi Lakšu Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_341">
+		<text>Evo, uzmi Smeđu Maskirno Jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_342">
+		<text>Evo, uzmi Jaknu sa gas maskom! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_343">
+		<text>Evo, uzmi Banditsku jaknu sa gas maskom! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_344">
+		<text>Evo, uzmi ojačani Banditski smeđi Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_345">
+		<text>Evo, uzmi ojačano jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_346">
+		<text>Evo, uzmi ojačanu Banditsku jaknu! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_347">
+		<text>Evo, uzmi ojačani Banditski tamni Kišni Mantil! Sve je spremno...</text>
+	</string>
+	<string id="update_outfit_sidor_999">
+		<text>Nema veze...</text>
+	</string>
+	<string id="start_update_outfit_sakharov_0">
+		<text>Ja sam se vratio, Profesore...</text>
+	</string>
+	<string id="start_update_outfit_sakharov_1">
+		<text>Marked One, you have made gaugings, Is well done glad to offer you the services in modernisation of some suits - a suit of the ecologist and a SSP-99 Ekološko zaštitno odelo. Također ti mogu ponuditi instalaciju različitih uređaja za noćno osmatranje i ojačanje datih odela.</text>
+	</string>
+	<string id="start_update_outfit_sakharov_2">
+		<text>Hvala Profesore, to mi je potrebno.</text>
+	</string>
+	<string id="update_outfit_sakharov_0">
+		<text>Šta možeš ponuditi za nadogradnju pancir odela?</text>
+	</string>
+	<string id="update_outfit_sakharov_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nSSP-99M Ekološko odelo;\nthe SSP-99 Ekološko zaštitno odelo;\nIsto tako postoji mogućnost jačanja datih odela, u svrhu unapređenja otpora uticaja spoljnih faktora - bolje reći, moguće je da se podigne izdržljivost... Šta ti treba?</text>
+	</string>
+	<string id="update_outfit_sakharov_1111">
+		<text>Ugraditi uređaj za noćni vid...</text>
+	</string>
+	<string id="update_outfit_sakharov_11111">
+		<text>No, kako čemo... Na koje odelo da ti ugradim uređaj za noćno osmatranje, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_sakharov_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_sakharov_1111111">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_2">
+		<text>SSP-99M Ekološko odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_3">
+		<text>SSP-99 Ekološko zaštitno odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_4">
+		<text>Nano-odelo 'prototip' V2</text>
+	</string>
+	<string id="update_outfit_sakharov_5">
+		<text>Nano-odelo 'anti-gravitaciono'</text>
+	</string>
+	<string id="update_outfit_sakharov_6">
+		<text>Nano-odelo 'Medicinsko'</text>
+	</string>
+	<string id="update_outfit_sakharov_02">
+		<text>Za SSP-99M Ekološko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03">
+		<text>Za SSP-99 Ekološko zaštitno odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_04">
+		<text>Za 'prototip' V2 Nano-odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_05">
+		<text>Za 'anti-gravitaciono' Nano-odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 roubles ;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_06">
+		<text>Za 'Medicinsko' Nano-odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0071">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0072">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0073">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0074">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0075">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0076">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0077">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0078">
+		<text>Uzmi SSP-99 Ekološko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0081">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0082">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0083">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0084">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0085">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0086">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0087">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0088">
+		<text>Uzmi SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0091">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0092">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0093">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0094">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0095">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0096">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0097">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0098">
+		<text>Uzmi 'prototip' V2 Nano-odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00101">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00102">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00103">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00104">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00105">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00106">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00107">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00108">
+		<text>Uzmi 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00111">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00112">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00113">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00114">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00115">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00116">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00117">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_00118">
+		<text>Uzmi 'Medicinsko' Nano-odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_sakharov_1111121">
+		<text>Odlično...Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_sakharov_102">
+		<text>SSP-99M Ekološko odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_103">
+		<text>SSP-99 Ekološko zaštitno odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_104">
+		<text>Nano-odelo 'prototip' V2</text>
+	</string>
+	<string id="update_outfit_sakharov_105">
+		<text>Nano-odelo 'anti-gravitaciono'</text>
+	</string>
+	<string id="update_outfit_sakharov_106">
+		<text>Nano-odelo 'Medicinsko'</text>
+	</string>
+	<string id="update_outfit_sakharov_1022">
+		<text>Za ojačano SSP-99M Ekološko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_1033">
+		<text>Za ojačano SSP-99M Ekološko zaštitno odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_1044">
+		<text>Za ojačano 'prototip' V2 Nano-odelo mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_1055">
+		<text>Za ojačano 'anti-gravitaciono' Nano-odelo mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_1066">
+		<text>Za ojačano 'Medicinsko' Nano-odelo mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 roubles .\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sakharov_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0171">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0172">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0173">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0174">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0175">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0176">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0177">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0178">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0181">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0182">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0183">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0184">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0185">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0186">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0187">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0188">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0191">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0192">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0193">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0194">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0195">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0196">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0197">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0198">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01101">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01102">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01103">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01104">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01105">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01106">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01107">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01108">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01111">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01112">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01113">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01114">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01115">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01116">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01117">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_01118">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_2222">
+		<text>Ojačanje Odela...</text>
+	</string>
+	<string id="update_outfit_sakharov_22222">
+		<text>No, kako čemo... Koje odelo želiš ojačati, obično ili sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_sakharov_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_sakharov_2222211">
+		<text>Odlično... Moje kvote:\n- SSP-99M Ekološko odelo - za artefakt 'Koža' i 25000 Ru;\n- SSP-99 Ekološko zaštitno odelo - za artefakt 'Krljušt' i 50000 Ru;\nIzaberi odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_202">
+		<text>SSP-99M Ekološko odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_203">
+		<text>SSP-99 Ekološko zaštitno odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_204">
+		<text>Nano-odelo 'prototip' V2</text>
+	</string>
+	<string id="update_outfit_sakharov_205">
+		<text>Nano-odelo 'anti-gravitaciono'</text>
+	</string>
+	<string id="update_outfit_sakharov_206">
+		<text>Nano-odelo 'Medicinsko'</text>
+	</string>
+	<string id="update_outfit_sakharov_207">
+		<text>Uzmi ojačano SSP-99 Ekološko odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_208">
+		<text>Uzmi ojačano SSP-99 Ekološko zaštitno odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_209">
+		<text>Uzmi ojačano 'prototip' V2 Nano-odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_210">
+		<text>Uzmi ojačano 'anti-gravitaciono' Nano-odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_211">
+		<text>Uzmi ojačano 'Medicinsko' Nano-odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_sakharov_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_sakharov_302">
+		<text>SSP-99M Ekološko odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_303">
+		<text>SSP-99 Ekološko zaštitno odelo...</text>
+	</string>
+	<string id="update_outfit_sakharov_3022">
+		<text>Cena ojačanja SSP-99 Ekološkog odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 25000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_3033">
+		<text>Cena ojačanja SSP-99 Ekološkog zaštitnog odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 50000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_3044">
+		<text>Cena ojačanja 'prototip' V2 Nano-odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 200000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_3055">
+		<text>Cena ojačanja 'anti-gravitacionog' Nano-odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 300000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_3066">
+		<text>Cena ojačanja 'Medicinskog' Nano-odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 300000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sakharov_0371">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Zeleni'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0372">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Digital'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0373">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Sepia'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0374">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Halogen'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0375">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Mačije oko'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0376">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'PSI efekt'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0377">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Mesečina'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0378">
+		<text>Evo, uzmi ojačano SSP-99M Ekološko odelo sa PNV 'Bela noć'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0381">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Zeleni'.</text>
+	</string>
+	<string id="update_outfit_sakharov_0382">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0383">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0384">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0385">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0386">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0387">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0388">
+		<text>Evo, uzmi ojačano SSP-99 Ekološko zaštitno odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0391">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0392">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0393">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0394">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0395">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0396">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0397">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_0398">
+		<text>Evo, uzmi ojačano 'prototip' V2 Nano-odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03101">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03102">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03103">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03104">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03105">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03106">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03107">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03108">
+		<text>Evo, uzmi ojačano 'anti-gravitaciono' Nano-odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03111">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03112">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03113">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03114">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03115">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03116">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03117">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sakharov_03118">
+		<text>Evo, uzmi ojačano 'Medicinsko' Nano-odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sakharov_999">
+		<text>Trenutno nije potrebno ništa...</text>
+	</string>
+	<string id="start_update_outfit_petrenko_0">
+		<text>Pozdrav...</text>
+	</string>
+	<string id="start_update_outfit_petrenko_1">
+		<text>Zdravo, Obeleženi! Drago mi je što si stigao do nas. Imam ti nešto za ponuditi... mislim da će te zainteresirati. U suštini, ako ti je potreban nadogradnja odela - samo se obrati. Ali znaj, nadograđujem samo Djuti odela.</text>
+	</string>
+	<string id="start_update_outfit_petrenko_2">
+		<text>Hvala, ja ću razmisliti o...</text>
+	</string>
+	<string id="update_outfit_petrenko_0">
+		<text>Šta možeš ponuditi za nadogradnju pancir odela?</text>
+	</string>
+	<string id="update_outfit_petrenko_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nDuty Suit;\nNaučničko odelo Djutija;\nEgzoskelet Djutija;\nOdelo Djutija sa gas maskom;\nJedinstveno odelo Lovca.\nTakođer, moguće je povećati otpornost na habanje. Što je potrebno za vas?</text>
+	</string>
+	<string id="update_outfit_petrenko_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_petrenko_11111">
+		<text>Na koje odelo želiš instalirati uređaj, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_petrenko_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_petrenko_1111111">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_petrenko_2">
+		<text>Djuti odelo...</text>
+	</string>
+	<string id="update_outfit_petrenko_3">
+		<text>Naučničko odelo Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_4">
+		<text>Egzoskelet Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_5">
+		<text>Odelo Djutija sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_petrenko_6">
+		<text>Jedinstveno odelo Lovca...</text>
+	</string>
+	<string id="update_outfit_petrenko_02">
+		<text>Za Djuti odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03">
+		<text>Za Naučničko odelo Djutija, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_04">
+		<text>Za Egzoskelet Djutija, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_05">
+		<text>Za odelo of Duty sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_06">
+		<text>Za Jedinstveno odelo Lovca, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0071">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0072">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0073">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0074">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0075">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0076">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0077">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0078">
+		<text>Uzmi Odelo Djuti. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0081">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0082">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0083">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0084">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0085">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0086">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0087">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0088">
+		<text>Uzmi Naučničko odelo Djutija. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0091">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0092">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0093">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0094">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0095">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0096">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0097">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0098">
+		<text>Uzmi Djuti Egzoskeleton. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00101">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00102">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00103">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00104">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00105">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00106">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00107">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00108">
+		<text>Uzmi Odelo Djuti sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00111">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00112">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00113">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00114">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00115">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00116">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00117">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_00118">
+		<text>Uzmi Jedinstveno odelo Lovca. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_petrenko_1111121">
+		<text>Odlično...Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_petrenko_11102">
+		<text>Djuti odelo...</text>
+	</string>
+	<string id="update_outfit_petrenko_11103">
+		<text>Naučničko odelo Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_11104">
+		<text>Egzoskelet Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_11105">
+		<text>Odelo Djutija sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_petrenko_11106">
+		<text>Jedinstveno odelo Djutia...</text>
+	</string>
+	<string id="update_outfit_petrenko_1022">
+		<text>Za ojačano Djuti Odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_1033">
+		<text>Za ojačano naučničko Djuti Odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_1044">
+		<text>Za ojačani Djuti Egzoskelet, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_1055">
+		<text>Za ojačano Djuti odelo sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_1066">
+		<text>Za ojačano Jedinstveno odelo Lovca, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_petrenko_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0171">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0172">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0173">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0174">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0175">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0176">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0177">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0178">
+		<text>Uzmi ojačano Djuti Odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0181">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0182">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0183">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0184">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0185">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0186">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0187">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0188">
+		<text>Uzmi ojačano Naučničko odelo Djutija. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0191">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0192">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0193">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0194">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0195">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0196">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0197">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0198">
+		<text>Uzmi ojačani Djuti Egzoskeleton. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01101">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01102">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01103">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01104">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01105">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01106">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01107">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01108">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01111">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01112">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01113">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01114">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01115">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01116">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01117">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_01118">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_2222">
+		<text>Ojačanje Odela...</text>
+	</string>
+	<string id="update_outfit_petrenko_22222">
+		<text>Koje odelo želiš ojačati, obično ili sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_petrenko_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_petrenko_2222211">
+		<text>Odlično... Moje kvote:\n- Duty Suit - za artefakt 'Koža' i 15000 Ru;\n- Naučničko odelo Djutija - za artefakt 'Krljušt' i 35000 Ru;\n- Egzoskelet Djutija - za artefakt 'Čeličn Krljušt' i 100000 Ru;\n- Odelo Djutija sa gas maskom - za artefakt 'Koža' i 20000 Ru;\n- Jedinstveno odelo Lovca - za artefakt 'Koža' i 20000 Ru.\nIzaberi odelo.</text>
+	</string>
+	<string id="update_outfit_petrenko_202">
+		<text>Djuti odelo...</text>
+	</string>
+	<string id="update_outfit_petrenko_203">
+		<text>Naučničko odelo Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_204">
+		<text>Egzoskelet Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_205">
+		<text>Odelo Djutija sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_petrenko_206">
+		<text>Jedinstveno odelo Lovca...</text>
+	</string>
+	<string id="update_outfit_petrenko_207">
+		<text>Uzmi ojačano Djuti Odelo.</text>
+	</string>
+	<string id="update_outfit_petrenko_208">
+		<text>Uzmi ojačano Naučničko odelo Djutija.</text>
+	</string>
+	<string id="update_outfit_petrenko_209">
+		<text>Uzmi ojačani Djuti Egzoskeleton.</text>
+	</string>
+	<string id="update_outfit_petrenko_210">
+		<text>Uzmi ojačano Djuti Odelo sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_petrenko_211">
+		<text>Uzmi ojačano Jedinstveno odelo Lovca.</text>
+	</string>
+	<string id="update_outfit_petrenko_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_petrenko_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_petrenko_302">
+		<text>Djuti odelo...</text>
+	</string>
+	<string id="update_outfit_petrenko_303">
+		<text>Naučničko odelo Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_304">
+		<text>Egzoskelet Djutija...</text>
+	</string>
+	<string id="update_outfit_petrenko_305">
+		<text>Odelo Djutija sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_petrenko_306">
+		<text>Jedinstveno odelo Lovca...</text>
+	</string>
+	<string id="update_outfit_petrenko_3022">
+		<text>Cena ojačanja za Djuti Odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_3033">
+		<text>Cena ojačanja za Naučničko odelo Djutija, sa instaliranim uređajem za noćno osmatranje (PNV) je 35000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_3044">
+		<text>Cena ojačanja za Djuti Egzoskeleton, sa instaliranim uređajem za noćno osmatranje (PNV) je 100000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_3055">
+		<text>Cena ojačanja za Djuti Odelo sa gas maskom, sa instaliranim uređajem za noćno osmatranje (PNV) je 20000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_3066">
+		<text>Cena ojačanja za Jedinstveno odelo Lovca, sa instaliranim uređajem za noćno osmatranje (PNV) je 20000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_petrenko_0371">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Zeleni'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0372">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Digital'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0373">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Sepia'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0374">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Halogen'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0375">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Mačije oko'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0376">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'PSI efekt'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0377">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Mesečina'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0378">
+		<text>Evo, uzmi ojačano Djuti Odelo sa PNV 'Bela noć'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0381">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Zeleni'.</text>
+	</string>
+	<string id="update_outfit_petrenko_0382">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0383">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0384">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0385">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0386">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0387">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0388">
+		<text>Evo, uzmi ojačano Naučničko Djuti odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0391">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0392">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0393">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0394">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0395">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0396">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0397">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_0398">
+		<text>Evo, uzmi ojačani Djuti Egzoskeleton sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03101">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03102">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03103">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03104">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03105">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03106">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03107">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03108">
+		<text>Evo, uzmi ojačano Djuti Odelo sa gas maskom sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03111">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03112">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03113">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03114">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03115">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03116">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03117">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_petrenko_03118">
+		<text>Evo, uzmi ojačano Jedinstveno odelo Lovca sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_petrenko_999">
+		<text>Trenutno nije potrebno ništa...</text>
+	</string>
+</string_table>
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:09 - sadd -->
+<!-- Preveo i prilagodio flexerca -=- 14:46 28.09.2015 -->

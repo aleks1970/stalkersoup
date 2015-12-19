@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="bar_bring_hunter_rifle">
+		<text>Vrati Lovcu porodičnu pušku</text>
+	</string>
+	<string id="bar_bring_PDA_lucky">
+		<text>Donesi ručni kompjuter Barmenu</text>
+	</string>
+	<string id="bar_crazy_veterans_quest">
+		<text>Pobij poludele veterane</text>
+	</string>
+	<string id="bar_dolg_base_rules">
+		<text>Prepoznat od šefa obezbeđenja Djutija</text>
+	</string>
+	<string id="bar_dolg_base_rules_fin">
+		<text>Vrati se kod Barmena</text>
+	</string>
+	<string id="bar_dolg_base_rules_talk">
+		<text>Pronađi vođu zaštite u bazi Djutija</text>
+	</string>
+	<string id="bar_dolg_bring_rg6">
+		<text>Izvuci RG-6 za generala Voronjina</text>
+	</string>
+	<string id="bar_dolg_community_quest">
+		<text>Pridruži se Djuti frakciji</text>
+	</string>
+	<string id="bar_dolg_community_quest_prisyaga">
+		<text>Daj zakletvu</text>
+	</string>
+	<string id="bar_dolg_community_quest_recomendation">
+		<text>Pribavi preporuke od kapetana Ivancova</text>
+	</string>
+	<string id="bar_dolg_community_quest_vernost">
+		<text>Dokazi svoju vernost Djutiju</text>
+	</string>
+	<string id="bar_dolg_find_cook">
+		<text>Pridobij poverenje kod kuvara Fridoma i saznaj gde drže Buldog 6</text>
+	</string>
+	<string id="bar_dolg_find_rg6">
+		<text>Ubaci se u Fridom bazu, pronađi i ukradi Buldog 6</text>
+	</string>
+	<string id="bar_dolg_info_gain">
+		<text>Pronađi presretnutu informaciju o laboratoriji X-18</text>
+	</string>
+	<string id="bar_dolg_kill_tiran">
+		<text>Ubij Tirana, vođu grupe</text>
+	</string>
+	<string id="bar_dolg_return_info">
+		<text>Vrati informaciju o Lab X18 generalu Voronjinu</text>
+	</string>
+	<string id="bar_dolg_return_rg6">
+		<text>Odnesi Buldog 6 generalu Voronjinu</text>
+	</string>
+	<string id="bar_dolg_rg6_quest">
+		<text>Zadatak za pristupanje Djutiju</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_quest">
+		<text>Eliminiši Plaćenike</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_return">
+		<text>Daj pruge generalu Voronjinu</text>
+	</string>
+	<string id="bar_dolg_tiran_PDA">
+		<text>Odnesi ručni kompjuter Tiranu</text>
+	</string>
+	<string id="bar_hunter_find_rifle">
+		<text>Pronađi porodičnu pušku</text>
+	</string>
+	<string id="bar_hunter_return_rifle">
+		<text>Vrati oružje lovcu</text>
+	</string>
+	<string id="bar_hunter_rifle">
+		<text>Pronađi porodičnu pušku</text>
+	</string>
+	<string id="bar_kill_crazy_veterans">
+		<text>Ubij lidera veterana</text>
+	</string>
+	<string id="bar_kill_crazy_veterans_PDA">
+		<text>Uzmi ručni kompjuter od njihovog vođe</text>
+	</string>
+	<string id="bar_kill_veterans">
+		<text>Uništi logor ludih veterana</text>
+	</string>
+	<string id="bar_radar_deactivate">
+		<text>Isključi Spaljivač Mozgova</text>
+	</string>
+	<string id="bar_resque_information">
+		<text>Susretni se sa Kruglovom</text>
+	</string>
+	<string id="bar_resque_information_2">
+		<text>Odvedi Kruglova do Jantara</text>
+	</string>
+	<string id="bar_resque_scientific_follow">
+		<text>Odvedi Kruglova do izlaza za Jantar</text>
+	</string>
+	<string id="bar_resque_scientific_information">
+		<text>Spasi naučne informacije</text>
+	</string>
+	<string id="bar_resque_scientific_information_bring">
+		<text>Razgovaraj sa Kruglovom</text>
+	</string>
+	<string id="bar_resque_scientific_information_get">
+		<text>Probij se do Kruglova</text>
+	</string>
+	<string id="bar_resque_scientific_information_get_2">
+		<text>Pričaj sa profesorom  Kruglovom</text>
+	</string>
+	<string id="bar_x16_documents">
+		<text>Pronađi dokumente u X16 laboratoriji</text>
+	</string>
+	<string id="bring_x16_documents">
+		<text>Odnesi dokumente Barmenu</text>
+	</string>
+	<string id="deactivate_radar_now">
+		<text>Isključi mašinu</text>
+	</string>
+	<string id="find_and_deactivate_radar">
+		<text>Pronađi ulaz u komandni bunker</text>
+	</string>
+	<string id="get_to_antennas">
+		<text>Dođi do antena</text>
+	</string>
+	<string id="Kruglov_research">
+		<text>Istraživanje Kruglova</text>
+	</string>
+	<string id="look_for_x16_lab">
+		<text>Pronađi X16 dokumente</text>
+	</string>
+<!--	Duplicated - aleks1970
+	<string id="wpn-winchester_m1">
+		<text>Borbeni SPAS</text>
+	</string> -->
+	<string id="x16_yantar">
+		<text>Razgovaraj sa naučnicima</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:30 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:28 -sadd -->

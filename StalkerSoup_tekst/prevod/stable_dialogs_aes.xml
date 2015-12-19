@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding = "windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8, removed "string_table" - aleks1970 -->
+
+	<string id="oso_chernobyl_crush_0">
+		<text>Da li je ekplozija '86 takoðer tvoj posao?</text>
+	</string>
+	<string id="oso_chernobyl_crush_1">
+		<text>Ne, nemamo nikakve veze sa tim. Veæina od nas su samo u poèetku tada radili u nauci. Èernobilska zona  nije upotrebljivana kao testirajuæe odredište za eksperimente do 1989.</text>
+	</string>
+	<string id="oso_death_truck_0">
+		<text>Šta su to "mrtvi kamioni"?</text>
+	</string>
+	<string id="oso_death_truck_1">
+		<text>To su vozila koja koristimo da pošaljemo naše oznaèene "agente" u Zonu. Oni se ušunjaju u stalker "zajednicu" i pobrinu se za naša nareðenja a da toga nisu svesni. Nažalost, više od pola stalkera umre tokom prevoza, Zona je vrlo nestabilna. Ti si jedan od naših agenata koji su poslati da ubiju Streloka i sad pokušavamo da otkrijemo kako smo naèinili tu grešku.</text>
+	</string>
+	<string id="oso_no_0">
+		<text>Ne želim da vam pomognem u toj prevari.</text>
+	</string>
+	<string id="oso_osoznanie_start_11">
+		<text>Zdravo, Strelok. Vidim da imaš dosta pitanja za mene. Dobro, pitaj onda pa æemo da odluèimo šta æemo sa tobom.</text>
+	</string>
+	<string id="oso_osoznanie_start_21">
+		<text>Izbor je na tebi, Strelok.</text>
+	</string>
+	<string id="oso_stalker_0">
+		<text>Šta tetovaža ,,S.T.A.L.K.E.R." znaèi?</text>
+	</string>
+	<string id="oso_stalker_1">
+		<text>S.T.A.L.K.E.R. je kodirana skraæenica, koju mi koristimo za obeležavanje agenata programiranih za pojedine misije. Tvoja misija, kao našeg agenta, je da ubiješ Streloka i njegovu grupu. Bili su toliko blizu da saznaju stvari koje ne bi smeli. Stvorili smo mrežu psiho-polja na putu ka centru Zone u nameri da regrutujemo agente. Ti znaš jedno od tih polja pod imenom Spaljivaè mozgova. Kad stalker pokuša da dospe do centra Zone u nameri da ispuni neku od svojih želja, mi pridobijemo kontrolu nad njegovom svešæu i programiramo ga za specifiènu misiju. Nastala je greška i tvoja misija je bila da ubiješ samog sebe.</text>
+	</string>
+	<string id="oso_what_about_me_0">
+		<text>Šta se desilo sa mnom?</text>
+	</string>
+	<string id="oso_what_about_me_1">
+		<text>Ti si šaraf koji je izleteo iz mašine. Nažalost, to nam dugo nije privlaèilo pažnju. Od trenutka kada je Zona stvorena, mnogo ljudi je pokušalo da se doèepa njenog centra ali nismo smeli to da dozvolimo. Èoveèanstvo nije spremno za istinu. To je razlog zašto smo regrutovali toliki broj stalkera obeæavajuæi im ispunjenje njihovih najveæih želja. Kada su regrutovani, tada bivaju poslati da brane tajnu Zone.</text>
+	</string>
+	<string id="oso_what_is_the_zone_0">
+		<text>Šta je Zona? Kako je to nastalo?</text>
+	</string>
+	<string id="oso_what_is_the_zone_1">
+		<text>Ovo sto vidiš je rezultat loše razmatrane intervencije u Zemljinoj Noo-sferi. Pokušaji da se utièe na noo-sferu donelo je lokalni prasak. Zona je jednostavna manifestacija ovog praska. Osnovni problem je daleko veæi nego što možeš da zamisliš.</text>
+	</string>
+	<string id="oso_what_next_0">
+		<text>Šta sad?</text>
+	</string>
+	<string id="oso_what_next_1">
+		<text>To zavisi od tebe. Zona raste. Mi pokušavamo da obuzdamo njeno širenje, ali èini se da je namera èoveèanstva da nas omete u tome. Naši resursi nisu neogranièeni i ljudi spojeni u C-Svest na kraju umru. Ako nam se pridružiš, možemo da ogranièimo rast Zone. Ako odluèiš drugaèije, ne možemo napraviti verodostojnu prognozu ishoda.</text>
+	</string>
+	<string id="oso_who_are_you_0">
+		<text>Ko ste vi?</text>
+	</string>
+	<string id="oso_who_are_you_1">
+		<text>Mi smo rezultat eksperimenta koji ima za cilj stvaranje supersvesti nazvane "C-Svest". Svesti sedam volontera su povezane tokom eksperimenta što dovodi do stvaranja supersvesti, što smo mi. Odmah smo podredili one koji obavljaju eksperiment i odredili im zadatke za koje trebaju da se pobrinu. Prema našim proraèunima, Zemlja je okružena specijalnim informacionim poljem, takozvanom noo-sferom. To polje ukljuèuje sve stanovnike planete sa umnim sposobnostima. Naš glavni cilj je da naèinimo mala korigovanja na noo-sferi, što bi nam omoguæilo uklanjanje stvari kao što su bes, okrutnost, pohlepa i druge negativne faktore sa planete. Pojedinci nisu u stanju da utièu na noo-sferu ali C-Svest jeste. Nažalost, napravili smo grešku i naše smetnje su izazvale Zonu, koju smo oduvek pokušavali da održimo.</text>
+	</string>
+	<string id="oso_why_chernobyl_0">
+		<text>Zašto se to desilo ovde?</text>
+	</string>
+	<string id="oso_why_chernobyl_1">
+		<text>To je bilo najbolje mseto. Posle eksplozije 1986. u okruženju je bilo svega nekoliko ljudi i mogli smo da radimo bez straha da budemo naðeni. Takoðer, tu su i mnoge snažne antene, koje su neophodne za naše umno optimizujuæe eksperimente.</text>
+	</string>
+	<string id="oso_yes_0">
+		<text>Slažem se da se pridružim C-Svest projektu.</text>
+	</string>

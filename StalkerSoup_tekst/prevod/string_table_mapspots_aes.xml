@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="aes_btr1">
+		<text>Oklopnik 1</text>
+	</string>
+	<string id="aes_btr2">
+		<text>Oklopnik 2</text>
+	</string>
+	<string id="aes_btr3">
+		<text>Oklopnik 3</text>
+	</string>
+	<string id="aes_grif">
+		<text>Grif</text>
+	</string>
+	<string id="aes_korshun">
+		<text>Koršun</text>
+	</string>
+	<string id="aes_kvartet">
+		<text>Kvartet</text>
+	</string>
+	<string id="aes_lun">
+		<text>Lun</text>
+	</string>
+	<string id="aes_pustelga">
+		<text>Pustelga</text>
+	</string>
+	<string id="aes_sapsan">
+		<text>Sapsan</text>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<text>Ulaz u Sarkofag</text>
+	</string>
+	<string id="aes_sokol">
+		<text>Soko</text>
+	</string>
+	<string id="aes_sova">
+		<text>Sova</text>
+	</string>
+	<string id="aes_yastreb">
+		<text>Jastreb</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:30 -sadd -->

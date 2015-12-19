@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.5e -->
+<string_table>
+	<string id="amk_sidr_guard_0">
+		<text>Pozdrav, Obeleženi ... Čujem da si stigao u jednom od Kamiona Smrti ... Pa u redu, meni ne izgledaš mrtav ... bar mislim.</text>
+	</string>
+	<string id="amk_sidr_guard_1">
+		<text>Odjebi!!!</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 18:42 18.10.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:26 -sadd -->

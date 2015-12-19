@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 text from the script files, added 326 to 334 line - aleks1970, pred messages, includes -->
+<string_table>
+#include "text\eng\amk_flame_dialogs.xml"
+#include "text\eng\amk_escape_dialogs.xml"
+#include "text\eng\string_table_timer.xml"
+#include "text\eng\stable_dialogs_amk.xml"
+#include "text\eng\meceniy_st_dialogs.xml"
+#include "text\eng\amk_reload_dialogs.xml"
+#include "text\eng\string_table_amk_metka.xml"
+#include "text\eng\string_table_amk_matras.xml"
+#include "text\eng\string_table_enc_sigaret.xml"
+#include "text\eng\stable_statistic_caption.xml"
+#include "text\eng\stable_miniquest_dialogs.xml"
+#include "text\eng\stable_dialog_manager_uni.xml"
+	<string id="car_use">
+		<text>Otvori vrata ($$ACTION_USE$$)</text>
+	</string>
+	<string id="arc_ui_container_1">
+		<text>Ovaj kontejner je dizajniran za manje radioaktivne artefakte. Ne može u potpunosti neutralisati negativne efekte radijacije. Stavite artefakt u drugi kontejner.</text>
+	</string>
+	<!-- escape_dialog.script - aleks1970 -->
+	<string id="Labeled_private_channel_0">
+		<text>Obeleženi: privatni kanal</text>
+	</string>
+	<string id="shadows_and_pavel_1">
+		<text>Došao sam do stana gde su Senka i Pavel bili, ali Kocke nema. Ali našao sam jednu interesantnu belešku o nesreći u laboratoriji... Ukratko, nakon svega što se desilo, naš prijatelj se vratio u laboratorij. Očito, od tamo se nije vratio...\nI ima još nešto, neki čudni zapis se stalno ponavlja. Neka vrsta vojnog razgovora...\nŠta ti misliš?</text>
+	</string>
+	<!-- Ovaj tekst za sada se ne prevodi:  'Cube for Sale, belonged to Shadows. The cordon around the Perimeter, in 8 hours. (Na prodaju Kocka koja je pripadala Senki. U Kordonu oko perimetra, u 8sati) -->
+	<string id="shadows_and_pavel_2">
+		<text>Mislim da je to... Beži odatle. U nevolji smo... Naš zadnji razgovor je prisluškivan. A možda još neko zna za Kocku... Možda onaj koji je dopustio da me savetuješ...\nUkratko, istočni deo Pripjata je okupiran od jednog odreda Plaćenika. Oni znaju šta tražiš u stanu...\nMoramo ih naterati da poveruju u nešto drugo. Izbegavaj ih! Pokušaj im podvaliti lažnu informaciju kroz stalkersku mrežu...\nPokušaj preko čata kroz PDA: 'Cube for Sale, belonged to Shadows. The cordon around the Perimeter, in 8 hours.\nNapiši tačno ovako kako sam ja tebi napisao, možda pomisle da si već pronašao Kocku... Pokušaj.</text>
+	</string>
+	<string id="Shadows_private_channel_0">
+		<text>Senka: privatni kanal</text>
+	</string>
+	<!-- inventory.script - aleks1970 -->
+	<string id="Blood_Stone_on_belt">
+		<text>Kamena Krv za pojasom</text>
+	</string>
+	<string id="Unnecessary_artifact_0">
+		<text>Nepotrebni artefakt:</text>
+	</string>
+	<string id="moved_from_belt_pack">
+		<text>premješten iz pojasa u ranac</text>
+	</string>
+	<!-- tb3d_net_manager.script - aleks1970 -->
+	<string id="Local_Net_0">
+		<text>Lokalna Mreža</text>
+	</string>
+	<string id="Network_mes_recieved_0">
+		<text>%c[255,0,255,0]Mrežna poruka primljena.%c[default]</text>
+	</string>
+	<string id="Network_packets_not_0">
+		<text>%c[255,0,255,0]Mrežni paket nije poslan - molimo proverite konekciju.%c[default]</text>
+	</string>
+	<!-- ui_cheat_spawner.script - aleks1970 -->
+	<string id="TB3D_Server_Master_0">
+		<text>TB3D Server Master</text>
+	</string>
+	<!-- zamok.script - aleks1970 -->
+	<string id="cache_has_been_locked">
+		<text>Štek je uspešno zaključan</text>
+	</string>
+	<!-- taynik_spawn.script - aleks1970 -->
+	<string id="taynik_find_0">
+		<text>Kostja:  %c[default]Obeleženi... Molim te da mi pomogneš da pronađem svoj PDA</text>
+	</string>
+	<string id="taynik_find_2">
+		<text>Skriveno je sa ostalim vrednostima koje možeš zadržati... Tamo je negde... Znam o čemu govorim... Veruj mi... Biću na Deponiji ako ga pronađeš...\n</text>
+	</string>
+	<!-- treasure_manager.script - aleks1970 -->
+	<string id="name_treasure_m_0">
+		<text>Ime: %c[default]</text>
+	</string>
+	<string id="money_treasure_m_1">
+		<text>Pronađeni novac: %c[default]</text>
+	</string>
+	<!-- ui_comm.script - aleks1970 -->
+	<string id="ui_have_entered_the">
+		<text>DOLAZNA:  %c[default]Ušli ste u:</text>
+	</string>
+	<string id="ui_no_such_group">
+		<text>DOLAZNA:  %c[default]Ne postoji takva grupa:</text>
+	</string>
+	<string id="ui_Select_Grouping">
+		<text>Izaberi grupu</text>
+	</string>
+	<string id="ui_To_Community">
+		<text>Zajednici</text>
+	</string>
+	<!-- meceniy_intellectual.script - aleks1970 -->
+	<string id="not_teleport_out_0">
+		<text>Saharov:\n%c[default]Ne možeš se teleportirati iz ovog područja... Idi u drugo područje... Traži područje iz kojeg se možeš teleportirati:</text>
+	</string>
+	<string id="not_quite_experienced_1">
+		<text>Saharov:\n%c[255,255,128,128]Još nisi dovoljno iskusan za ovo, pokušaj nakon nekoliko složenijih zadataka... Možda stekneš potrebno iskustvo... Heh.\n</text>
+	</string>
+	<!-- tb3d_stalker.script - aleks1970 -->
+	<string id="stalker_information_found_0">
+		<text>DOLAZNA:  %c[default]Informacija pronađena</text>
+	</string>
+	<!-- tb3d_services.script - aleks1970 -->
+	<string id="services_stalkersoup_level">
+		<text>STALKERSOUP:  %c[default]NIVO</text>
+	</string>
+	<string id="services_Achieved_level">
+		<text>Postignut!</text>
+	</string>
+	<string id="services_cave_already_done">
+		<text>TB3D:\n  %c[default]IZLAZ Teleporter oslobođen, pećina je već gotova.</text>
+	</string>
+	<string id="services_cave_skipped">
+		<text>TB3D:\n  %c[default]IZLAZ Teleporter oslobođen, pećina preskočena.</text>
+	</string>
+	<!-- braad_test.script - aleks1970 -->
+	<string id="braad_incoming_m_0">
+		<text>DOLAZNA:  %c[default]Braćo, slobodno je za sve... Plaćenici su preuzeli farmu...</text>
+	</string>
+	<string id="braad_incoming_m_1">
+		<text>DOLAZNA:  %c[default]Sviblov, imamo hitnog posla!!... Čekam te...</text>
+	</string>
+	<string id="braad_incoming_m_2">
+		<text>SIDOROVIČ:  %c[default]Ej, Obeleženi, ovde tvoj stari prijatelj Sidorovič... Neki čudan paket je stigao...</text>
+	</string>
+	<string id="braad_incoming_m_3">
+		<text>DOLAZNA:  %c[default]AAAAHHHHGGGGHHHHHH!!!!!...</text>
+	</string>
+	<!-- restriction_stock.script - aleks1970 -->
+	<string id="restriction_stock_msg1">
+		<text>Nije neophodno za uzeti...</text>
+	</string>
+	<string id="restriction_stock_msg2">
+		<text>Već imam nešto od ove opreme...</text>
+	</string>
+	<string id="restriction_stock_msg3">
+		<text>Moram ostaviti ovo... Inventar mi je pun...</text>
+	</string>
+	<string id="restriction_stock_msg4">
+		<text>Ovo mi ne koristi...</text>
+	</string>
+	<string id="restriction_stock_msg5">
+		<text>Preopterećen sam...</text>
+	</string>
+	<string id="restriction_stock_msg6">
+		<text>Ne mogu uzeti ovo...</text>
+	</string>
+	<string id="restriction_stock_msg7">
+		<text>Da uzmem ovo, moram baciti nešto drugo...</text>
+	</string>
+	<!-- repair_check.script - aleks1970 -->
+	<string id="repair_check_msg1">
+		<text>Što se tiče tvog pomoćnog oružja</text>
+	</string>
+	<string id="repair_check_msg2">
+		<text>\n   - Povećanje preciznosti</text>
+	</string>
+	<string id="repair_check_msg3">
+		<text>\n   - Smanjena težina</text>
+	</string>
+	<string id="repair_check_msg4">
+		<text>. Ne mogu popraviti...</text>
+	</string>
+	<string id="repair_check_msg5">
+		<text>. mogu ti ponuditi sledeću nadogradnju:</text>
+	</string>
+	<string id="repair_check_msg6">
+		<text>\n	...Košta: - %c[255,238,155,23]</text>
+	</string>
+	<string id="repair_check_msg7">
+		<text>\n	...Koštaće te: - %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg8">
+		<text>\n   - Promeni kalibar iz 5.45x39mm u 5.56x45mm</text>
+	</string>
+	<string id="repair_check_msg9">
+		<text>\n   - Promeni kalibar iz 5.56x45mm u 5.45x39mm</text>
+	</string>
+	<string id="repair_check_msg10">
+		<text>\n   - Promeni kalibar iz 9x18mm u 9x19mm</text>
+	</string>
+	<string id="repair_check_msg11">
+		<text>\n   - Promeni kalibar iz 9x19mm u 9x18mm</text>
+	</string>
+	<string id="repair_check_msg12">
+		<text>. Neznatno je oštećena\n - Nemam šta raditi. Prvo je popravi sam, a onda je ja mogu nadograditi.</text>
+	</string>
+	<string id="repair_check_msg13">
+		<text>Ah, što se tiče tvog glavnog oružja</text>
+	</string>
+	<string id="repair_check_msg14">
+		<text>Ru%c[default].</text>
+	</string>
+	<string id="repair_check_msg15">
+		<text>Ru%c[default], ali izgleda da nemaš novca..</text>
+	</string>
+	<string id="repair_check_msg16">
+		<text>. Ne mogu popraviti..</text>
+	</string>
+	<string id="repair_check_msg17">
+		<text>Stanje pancira:</text>
+	</string>
+	<string id="repair_check_msg18">
+		<text>Slažeš se?</text>
+	</string>
+	<string id="repair_check_msg19">
+		<text>Dođi kasnije... Kada budeš imao lovu...</text>
+	</string>
+	<string id="repair_check_msg20">
+		<text>Za popravke</text>
+	</string>
+	<string id="repair_check_msg21">
+		<text>Da, prilično je oštećena.</text>
+	</string>
+	<string id="repair_check_msg22">
+		<text>Za popravke</text>
+	</string>
+	<string id="repair_check_msg23">
+		<text>Gde si nabavio ovako čudno oružje? Je li ovo Lankijev rad!?\nNe želim ni pokušati nešto raditi na ovom oružju.\nAko ga želiš popraviti - odnesi ga nazad Lankiju u Bar.\n On će ti ga popraviti...</text>
+	</string>
+	<string id="repair_check_msg24">
+		<text>Moraš mi platiti %c[255,238,155,23]</text>
+	</string>
+	<string id="repair_check_msg25">
+		<text>Ru%c[default], ali\n nemaš slično oružje za razervne delove...</text>
+	</string>
+	<string id="repair_check_msg26">
+		<text>Ru%c[default] i\n slično oružje za rezervne delove, ali, izgleda da nemaš dovoljno novca...</text>
+	</string>
+	<string id="repair_check_msg27">
+		<text>Ru%c[default] kao i\n slično oružje za rezervne delove...</text>
+	</string>
+	<string id="repair_check_msg28">
+		<text>Jednostavno tako...\n Mogu ga popraviti. Koštaće te: %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg29">
+		<text>Jednostavno tako..\n Mogu ga popraviti. Popravka će te koštati: %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg30">
+		<text>Jednostavno tako..\n U redu, ovako stvari stoje..\n Daj mi %c[255,238,155,23]</text>
+	</string>
+	<string id="repair_check_msg31">
+		<text>Ovo oružje je oštećeno u procentu od</text>
+	</string>
+	<string id="repair_check_msg32">
+		<text>i\n Šta kažeš?!...</text>
+	</string>
+	<string id="repair_check_msg33">
+		<text>Ru%c[default] i\n i slično oružje za rezervne delove, ali, izgleda da nemaš novca..\n</text>
+	</string>
+	<string id="repair_check_msg34">
+		<text>Ru%c[default], ipak..\n nemaš slično oružje za rezervne delove..\n</text>
+	</string>
+	<string id="repair_check_msg35">
+		<text>Ru%c[default], ipka..\n nemaš ni sretstava ni slično oružje za rezervne delove...\n</text>
+	</string>
+	<string id="repair_check_msg36">
+		<text>Ru%c[default] unapred, i donesi mi slično oružje\nkoje mogu iskoristiti za rezervne delove. Ne donosi mi nikakvo unikatno oružje,\ili ga možda nikad nećeš opet videti... Zadržaću ga!!\n</text>
+	</string>
+	<string id="repair_check_msg37">
+		<text>Ne mogu ga popraviti, previše je oštećeno\n Ako želiš mogu ga uzeti od tebe kao staro željezo za..\n recimo... 5 procenata njegove vrednosti</text>
+	</string>
+	<string id="repair_check_msg38">
+		<text>Ru</text>
+	</string>
+	<string id="repair_check_msg39">
+		<text>Uzeću %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg40">
+		<text>Koštaće: %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg41">
+		<text>Koštaće te %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg42">
+		<text>Moraćeš platiti: %c[255,255,32,23]</text>
+	</string>
+	<string id="repair_check_msg43">
+		<text>Zdravo, ratniče. Ovo je</text>
+	</string>
+	<string id="repair_check_msg44">
+		<text>.\nNisi zaboravio ono smeće što si ostavio ovde? Evo, uzmi...</text>
+	</string>
+	<string id="repair_check_msg45">
+		<text>Tvoj kofer</text>
+	</string>
+	<string id="repair_check_msg46">
+		<text>. Preporučujem ti jedno brzo putovanje u mojem pravcu. Heh...</text>
+	</string>
+	<string id="repair_check_msg47">
+		<text>. Ne mogu nadograditi...</text>
+	</string>
+	<string id="repair_check_msg48">
+		<text>. Ne mogu nadograditi..</text>
+	</string>
+	<!-- ui_weapon_upgrade.script - aleks1970 -->
+	<string id="repair_check_txt1">
+		<text>izlaz</text>
+	</string>
+	<string id="repair_check_txt2">
+		<text>nazad</text>
+	</string>
+	<string id="repair_check_txt3">
+		<text>Oružje previše istrošeno, treba ga popraviti.</text>
+	</string>
+	<string id="repair_check_txt4">
+		<text>Za oružje u</text>
+	</string>
+	<string id="repair_check_txt5">
+		<text>slotu</text>
+	</string>
+	<string id="repair_check_txt6">
+		<text>za</text>
+	</string>
+	<string id="repair_check_txt7">
+		<text>Za ovu nadogradnju potrebno je još</text>
+	</string>
+	<string id="repair_check_txt8">
+		<text>OTKAŽI</text>
+	</string>
+	<string id="repair_check_txt9">
+		<text>OK</text>
+	</string>
+	<string id="repair_check_txt10">
+		<text>Kada nadogradnja bude gotova - poslaću ti SMS.\n Završiću sve za neka tri sata. Odi popij nešto - Barmen je danas nabavio jako dobro pivo.</text>
+	</string>
+	<string id="repair_check_txt11">
+		<text>smanjenje težine</text>
+	</string>
+	<string id="repair_check_txt12">
+		<text>promjena kalibra</text>
+	</string>
+	<string id="repair_check_txt13">
+		<text>smanjenje trzaja oružja</text>
+	</string>
+	<!--109998 New repair strings - aleks1970 -->
+	<string id="revamped_repair_kit">
+		<text>Set za popravljanje</text>
+	</string>
+	<!--string id="spare_parts_bag">
+		<text>Vreća sa rezervnim delovima</text>
+	</string>
+	<string id="spare_parts_small">
+		<text>Rezervni delovi</text>
+	</string-->
+	<string id="repair_str_spareparts">
+		<text>Rezervni delovi</text>
+	</string>
+	<string id="repair_str_repair">
+		<text>Popravi</text>
+	</string>
+	<string id="repair_str_salvage">
+		<text>Za delove</text>
+	</string>
+	<string id="repair_str_spareparts_s">
+		<text>Mali</text>
+	</string>
+	<string id="repair_str_spareparts_l">
+		<text>Veliki</text>
+	</string>
+	<string id="repair_str_spareparts_a">
+		<text>Pancir</text>
+	</string>
+	<string id="repair_str_use1">
+		<text>Koristi 1</text>
+	</string>
+	<string id="repair_str_use5">
+		<text>Koristi 5</text>
+	</string>
+	<string id="repair_str_usefull">
+		<text>Potpuna popravka</text>
+	</string>
+	<string id="repair_str_noparts">
+		<text>Nema rezervnih delova</text>
+	</string>
+	<string id="repair_str_nodamage">
+		<text>Bez oštećenja</text>
+	</string>
+	<string id="repair_str_fulldamage">
+		<text>~ Pokvaren ~</text>
+	</string>
+	<string id="repair_str_pistols">
+		<text>Pištolja u inventaru</text>
+	</string>
+	<string id="repair_str_rifles">
+		<text>Puška u inventaru</text>
+	</string>
+	<string id="repair_str_armor">
+		<text>Pancir odela u inventaru</text>
+	</string>
+	<string id="repair_str_salvage_choose">
+		<text>Izaberi sekciju za delove</text>
+	</string>
+	<string id="repair_str_salvage_click">
+		<text>Klikni na predmet za delove</text>
+	</string>
+	<string id="repair_str_button_choose">
+		<text>Klikni na predmet za popravku</text>
+	</string>
+	<string id="enc_equipment_repair_kit">
+		<text>Set za popravljanje. Težina: 2.5kg.\nMali set koji sadrži fini alat za popravljanje oružja i pancir odela. Dvostruki klik da bi otvorili meni Popravi/Za delove.</text>
+	</string>
+	<!--string id="enc_equipment_parts_bag">
+		<text>Vreća za rezervne delove. Težina: 0.14kg.\nVreća sadrži sve rezervne delove koji su dobijeni demontažom sa oružja i odela. Dvostruki klik da bi otvorili meni Popravi/Za delove.</text>
+	</string>
+	<string id="enc_equipment_parts_small">
+		<text>Rezervni delovi. Težina: 0.14kg.\nRezervni delovi koji su dobijeni demontažom sa oružja i odela...</text>
+	</string-->
+	<string id="repair_salv_error_1">
+		<text>Greška!!! ..</text>
+	</string>
+	<string id="repair_salv_error_2">
+		<text>\n .. Ukloni ne podržavajući objekat iz prvog slota za oružje...</text>
+	</string>
+	<string id="repair_salv_enemy_1">
+		<text>Opasnost u blizini!! ..</text>
+	</string>
+	<string id="repair_salv_enemy_2">
+		<text>\n  .. Neprijatelj je blizu! Ne možete koristiti kit za popravku!! ...</text>
+	</string>
+	<string id="revamped_cerror_window">
+		<text>Zatvori prozor</text>
+	</string>
+	<string id="repair_button_info">
+		<text>.. Odaberite oružje ili odjeću za popravak ..</text>
+	</string>
+	<string id="salvage_button_info">
+		<text>.. Odaberite oštećeno oružje ili odjeću za rastavljanje u dijelove za popravak ..</text>
+	</string>
+	<!-- 109998 pred text -->
+	<string id="teleport_art_not_found_title">
+		<text>Teleport Znanstvenika</text>
+	</string>
+	<string id="teleport_art_not_found">
+		<text>Potreban Artefakt nije pronađen..</text>
+	</string>
+	<string id="tb3d_pred1_message">
+		<text>Kontrolni punkt: Romeo prema bazi .. sve sigurno.</text>
+	</string>
+	<string id="tb3d_pred2_message">
+		<text>Zapovjednik .. baza je napadnuta, svi mrtvi .. počet ćemo potragu za pronalaženje napadača..</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca -=- 11:41 29.07.2015 -->
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:07 -sadd -->

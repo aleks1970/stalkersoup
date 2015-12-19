@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+<string id="amk_metka">
+<text>GPS Marker</text>
+</string>
+<string id="amk_metka_s">
+<text>GPS Marker</text>
+</string>
+<string id="enc_amk_metka">
+<text>GPS Marker. Ovaj ueđaj ti omogućuje da označiš važne ili korisne lokacije na tvojoj mapi, kojoj možeš pristupiti putem tvog PDA. Za aktivaciju potrebno je da ga ispustiš i ukucaš tekstualnu informaciju u prozoru PDA.</text>
+</string>
+<!-- 20:58 09.07.2007 -->
+<!-- Modified by Coolkingeye -=- 15:13 24.06.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:05 -sadd -->

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 new Collector, more dav updates, val_zapis_9, dav update 16Apr14, hunt_part2_message, 27_2, hunt_doc_jupu, minor edits, \n\n to \n.\n-->
+<string_table>
+#include "text\eng\stable_bio_name.xml"
+#include "text\eng\string_table_arts_desc.xml"
+
+<string id="val_zap">
+		<text>Kolektorov dnevnik</text>
+	</string>
+	<string id="val_zapis_1">
+		<text>Negdje u Kordonu, iznad tunela. Gdje nema tračnica..</text>
+	</string>
+	<string id="val_zapis_2">
+		<text>STALKER .. kada pročitaš ovo .. znači da sam već možda mrtav. Sve je ovo započelo kada sam bio na zadatku blizu Radara za Inicijativu. Htjeli su da nađem par 'rijetkih' artefakata, koji se mogu samo tamo naći. Našao sam se u poziciji da se sakrivam za živu glavu od onih Monolitskih frikova. Sagnuo sam se iza nekog grmlja, i našao sam se obavijen gustom maglom koja je naizgled nastala iz ničega. Obavijala me je par sekundi, moj Geigerov mjerač i detektor za anomalije su poludjeli, i osjećao sam se vrlo čudno ..\n a ostatak vremena .. mislim, Izgubio sam svijest... Probudio sam se osječajući se super, i nekako obnovljeno. Nakon nekog vremena, počeo sam primječivati nešto čudno .. Mogao sam osjetiti artefakte u blizini. I onda je sve počelo .. nalazio sam artefekte za sve naruđbe sa lakoćom. Uspjeo sam doći do Černobilske Nuklearne Elektrane ali nisam mogao naći Sarkofag. Uspio sam sakupiti brdo rijetkih i nepoznatih artefakata i neke čudne mutacije gljiva.\nGljive su jako interesantne zato što imaju viskou dozu Cezija-137, Stroncijuma-90, Braija-137, Joda-131, Telurijevog i Rubidijevog izotopa, Plutonija i ostalih teških elemenata - sve prirodno apsorbirano, karakteristika gljive.\n.\n Svaki put kada se vratim u Kordon, ostavim za sobom dobro sakrivene stvari u područjima kroz koje sam putovao kao i neke bilješke sa naputcima za druge lokacije skrivenih stvari. Sa mojim blijedim zdravljem i pamćenjem znao sam da će biti potrebno ostaviti kriptirane tragove. Sa svakim danom, kumulativni efekti CS-134 i drugih radioaktivnih izotopa me brzo dovode do mojih zdanjih izdisaja. Svaki put kada pogledam svoj odraz sam sve stariji i stariji. Samo par mjeseci nakon incidenta na Radaru, moj život je pri kraju.\nAli srećom za tebe .. našao si moju zadnju zabilješku. Sretno ti STALKERU, u potjeri za mojim blagom.  Pomakuo sam svoje skrivene stvari između 3 lokacije, tako da će blago biti u jednoj od njih...\n• Na Kordonu: \n U stablu južno od Vojne Postaje .. \n• Provjeri ispod vagona od vlaka .. \n• Među nekim kamenjem istočno od mjesta gdje je Vodič ..</text>
+	</string>
+	<string id="val_zapis_3">
+		<text>Na Deponiji\n• Između hrpe cijevi i tranzicije prema Agropromu\n• Tijelo na helikopteru ..\n• U cijevi na brdu 50m iza busa..</text>
+	</string>
+	<string id="val_zapis_4">
+		<text>Na Agropromu\n• Cijevi u močvari ..\n• APC oklopno vozilo ..\n• Blizu 4 velika kontenjera i zida..</text>
+	</string>
+	<string id="val_zapis_5">
+		<text>Na deponiji\n• Unutra: odmah pored stupa za Sjevernu stranu kod Hangara ..\n• Visoko iznad u urušenoj zgradi blizu Djutijeve kontrolne točke - teško za popesti ..\n• Na radioaktivnom brdu odmah pored Djutijeve kontrolne točke ..</text>
+	</string>
+	<string id="val_zapis_6">
+		<text>U Tamnoj Dolini\n• Na dvokatnoj Zgradi za Struju, izgrađenu od Crvene cigle..\n• Na visokom stablu pored X18 laboratorija..\n• Glavna Baza, visoko i blizu dizalice..</text>
+	</string>
+	<string id="val_zapis_7">
+		<text>U Baru\n• Krov, blizu Južne Djutijeve Straže - iza ograde ..\n• Na drugom katu...4 vodene kolektor hrpe( On the second level...4 water collector stacks ..)\n• Iza Željezne kapije... Divlji Teritorij tranzicija... Dio za rješavanje smeća</text>
+	</string>
+	<string id="val_zapis_8">
+		<text>Na Divljem Teritoriju\n• U nedovršenoj trokatnoj zgradi..\n• Soma kod tranzicije za Bar..\n• Ograda blizu snajperista - Ali kako doći do tamo? I kako izaći?..</text>
+	</string>
+	<string id="val_zapis_9">
+		<text>U Jantaru\n• Kod hangara gdje sunce prolazi kroz slomljeni dio krova..\n• 3 cijevi kod 4 mrtva tijela i ruksaka..\n• A=1..4,9,7,7,5,18..Z=26 ..</text>
+	</string>
+	<string id="val_zapis_10">
+		<text>U divljem teritoriju\n• Dvije kutije za popravak, blizu tračnica\n• Višlje nego 4 snajperista najbližih tranziciji prema Baru, pogled sa tornja..\n• Iza groba obilježenog sa križem..</text>
+	</string>
+	<string id="val_zapis_11">
+		<text>Kod Vojnih Skladišta\n•  blizu srušenog helikoptera - pod betonskim kanalima..\n• metalne cijvi u blizini betonskih ploča ..\n• među 3 kamenja, iza bodljikave žice/ograde blizu APC-a, neočit uspon..</text>
+	</string>
+	<string id="val_zapis_12">
+		<text>Na radaru\n• pored tornjeva spaljivača iznad x10 laboratorija. potraži ljestve..\n• tenk koji cilja prenisko?? ..\n• U kamenju, odmah iza ograde, iza Oklopnog Pješaćkog Vozila uz litice ..</text>
+	</string>
+	<string id="val_zapis_13">
+		<text>U Pripjatu\n• U devetokatnoj zgradi sa urušenim uglom..\n• slomljena Gondola ..\n• Kaciga kipa ..</text>
+	</string>
+	<string id="val_zapis_14">
+		<text>Kod Černobila\n• udaljeni Crveni kamion ..\n• Ispod srušenih stabala..\n• Pod željezničkim mostom ..</text>
+	</string>
+	<string id="val_zapis_15">
+		<text>U Radarskoj šumi\n• Blizu srušenog helikoptera, trčao sam prema liticama u totalnoj tami - ganjali su mu snorkovi i zombiji.\n Čudovište sa velikim kandžama se pojavilo ispred mene, mislio sam da sam gotov, ali čudovište je bilo drvo.\n Skakajući i penjući se na drvo našao sam si sigurno mjesto i tamo ostavio svoju torbu...</text>
+	</string>
+	<string id="val_zapis_16">
+		<text>U šumni Radara, susreo sam čopor Psi pseudo pasa, i još susreo grupu snorkova. Sve što sam mogao je popeti se na drvo, pucajuči, dok sam se penjao sa grane na granu.. i onda tam je bio.. teleport .. Probudio sam se na tlu na jednoj od manjih brda u šumi. Dok sam istraživao područje, otkrio sam da su brda konektirana istim izvorem. Lutajući ovim brdima, našao sam pravo bogatstvo artefakata, uključujući neke stvarno 'rijetke' i skupe arifekte. Ponesao sam što sam mogao, i ostavio ostatak u sakriveno skrovište odnosno torbu; svojstva nekih artefakata su vrlo specifična .. doista vrlo specifična!!!</text>
+	</string>
+	<string id="val_zapis_17">
+		<text>Stalkeru, dobro obavljeno - našao si moje glavno skrovište stvari. Ovi jedinstveni i rijetki artefakti će ti biti od velike korisiti.  Pazi na njihova negativna svojstva svakako!.\n.\n Živi mi dugo i sretno.\n.\nPS..........Proslijedio sam neke od mojih neobičnih pronalazaka dobrom prijatelju Cezaru (Caesier). On je vrlo pametan Znanstvenik koji misli da može razviti protuotrov kod CS-134 trovanja. Nađi ga ili njegove tragove i bit češ jako sretan.</text>
+	</string>
+	<string id="val_zapis_18">
+		<text>Nisam vidio Kolektora već neko vrijeme. Možda je napokon podlegao Zoni, neki kažu da je obasjan jakom svijetlošču i da je otišao u zrak.\nPrenio je na mene informacije o rijetkim artefaktima, kako modificirati oružje sa specijalnim artifaktom i kako razmnožiti jedinstvene flore i biljke, uključujući njegove omiljene Gljive.\nKao i Kolektor, ostavljao sam svoje skrivene torbe po Zoni - U Novim Teritorijima. Neke od tih skrovišta sadrže vrlo specijalna oružja ili artifakte. Bit će ih vrlo teško naći zato što su neke od tih stvari prenapredne i jake za neiskusne.  Želim ti sreću u pronalasku mojih skrovišta..\nKod Baze je slomljena okrugla cijev na vrhu betonskih ploča. Oprezan budi, Baza će biti dobro branjena\n.\nCezar</text>
+	</string>
+	<string id="val_zapis_19">
+		<text>Neotkrivena zemlja\n.\n• U bazenu pod jezerom...\n• Pod velikim kamenom u krateru, u Mr Bones NE pogledu...(in Mr Bones NE view)\n• Pod velikm kamenjem blizu staze za Vojno Skladište ..</text>
+	</string>
+	<string id="val_zapis_20">
+		<text>\nMočvara\n• Na krovu glavne baze Slobodnog Neba - možda se odnijelo sa vodom tijekom vremena..\n• Na vrhu visokog tornja za vodu..\n• Vlak za prijevoz u blizini Pećine (Cave) ...</text>
+	</string>
+	<string id="val_zapis_21">
+		<text>\nStaro Selo\n• Stari traktor urasao sa drvečem ..\n• U kući dimnjak...\n• Tavan od kuće na visokom (visoke kuće) ..</text>
+	</string>
+	<string id="val_zapis_22">
+		<text>\nBolnica\n• Ispod Zvijezde...\n• Kupola je holografska ..\n• Na stazi Kopača ..\n• Na vilici Kopača</text>
+	</string>
+	<string id="val_zapis_23">
+		<text>\nLimansk\n• Tactpohom (nejasna rijec) ..\n• Tunel ispod niza Anteni...\n  ..........Napravi skok vjere (Take a leap of faith)\n• Lansiran visoko...</text>
+	</string>
+	<string id="val_zapis_24">
+		<text>\nGeneratori\n• Epicentear...\n• Šiljasto stablo ispred kamiona..\n• Krov usamljene zgrade za električnu energiju</text>
+	</string>
+	<string id="val_zapis_25">
+		<text>\nRatni Laboratorij (Warlab)\n• dolje, R1, dolje, pod stepenicama ..\n• Kauč u sobi sa biljardom ..\n• Na vrhu na jednoj od šest spremnika..\n• Na vrhu elektroenergetskih kabineta, na prvom levelu..\n.\n.\nGrenerirano u ogledalu 65409152</text>
+	</string>
+	<string id="val_zapis_26">
+		<text>\n Crvena Šuma\n• Tri kamena, dolje uz rijeku\n• Ispod parketa preko rijeke ..\n• Kamion na rijeci ..\n• 1 od 3 cijevi blizu Kamiona..\n• Pogled preko Bojler anomalije..</text>
+	</string>
+	<string id="val_zapis_27">
+		<text>\nMrtvi Grad\n•  Srušeni helikopter..\n• Ispod tranzicijskog mosta ..\n• Ploča sa fotografijama..\n• Slijedi 2 strujne linije blizu antene...</text>
+	</string>
+	<string id="val_zapis_28">
+		<text>\nZaton\n• Pogled preko Električnog helikoptera (Overlooking the Electric Chopper) ..\n• Stijena s pogledom na dvije dizalice  ..\n• Stanica za obradu otpada - u 1 od 3 nadzemnih cijevi ..\n• Stanica za obradu otpada, vodeni rezervar..\n.\nNa kraju noža od helikopterove osi te čeka iznaneđenje.</text>
+	</string>
+	<string id="val_zapis_29">
+		<text>\nJupiter\n.\nNa kraju željezničkih tračnica ima soba sa vratim i prijelaz na Cezarovu izvidnicu\n.\n• Platforma sa stepenicama do koje ne možeš doći..\n• Krov tvornice, drvo..\n• Krov tvornice koja gleda preko helikoptera..\n• Gromobran iza Tvornice ..</text>
+	</string>
+	<string id="val_zapis_30">
+		<text>\nIstočni Pripjat\nKod luke na rijeci, je Teleportna Kučica koja vodi do mojeg sigurnog područja.\nNađi moju fotografski dokument i tvoja potraga za moju skrivenu torbu će ti biti olakšana. Traži X koji označava mjesto i riskiraj skokom ....</text>
+	</string>
+	<string id="val_zapis_31">
+		<text>\nKod luke na rijeci je tranzicija za Jupiter.  Pronađi lift u staroj tvornici u Jupiteru i odi prema podzemlju.\nJupiterovo podzemlje\n.\nPopni se kroz tunelove rešetke - teleport te čeka\nOdaberi sljedeći potez mudro - tvoj život ovisi o tome....</text>
+	</string>
+	<string id="val_zapis_32">
+		<text>\nCezarova zadnja tajna zabilješka</text>
+	</string>
+	<string id="tayniki_coll_0">
+		<text>Slušaj Sid ... Načuo sam glasine o nekim stvarno rijetkim artefaktima koje je teško naći. Kažu da ih je netko našao duboko u Zoni, i da su neke prodali tu u Kordonu, tebi...</text>
+	</string>
+	<string id="tayniki_coll_1">
+		<text>Tako znači, da .. to što si rekao je istina. Većina naruđbi koje sam dobio su za jedan vrlo osobit artefakt, ali ... Od tada sam imao nekoliko vanjskih naruđbi za taj artefakt u određenom broju - plaćeno će biti, kao što znaš .. prikladno poslu. Ugrubo govoreći .. bit če duplo plaćeno kad bi gledao na ukupnu cijenu i kada bi artefakt prodavao individualno...</text>
+	</string>
+	<string id="tayniki_coll_2">
+		<text>Zvuči dobro meni .. Idemo se baciti na posao, onda...</text>
+	</string>
+	<string id="tayniki_coll_3">
+		<text>To je sve zasada u ovom trenu .. Govori!! Na gubitku sam, što god da napravim. Stalker koji je uzeo ove naruđbe je nestao bez traga .. i sa njim .. misterij artefakta ostaje .. Usput ... je si li čuo za ovog "Kolektor" momka uopće?! ..  uglavnom, to je njegov nadimak u ovim krajevima, bilo kako...</text>
+	</string>
+	<string id="tayniki_coll_4">
+		<text>Ne, ovo je prvi put da čujem za njega.. nastavi...</text>
+	</string>
+	<string id="tayniki_coll_5">
+		<text>To je razumljivo. "Starejšine" koji su ga znali su ostajali samo dan dva u zoni i nisu voljeli pričati puno o njemu. Ono što o njemu znaju je da je "Kolektor" bio sezonski STALKER koji je uzimao naruđbe za rijetke artefakte, biljke i vegetaciju od nekih Frakcija i nekih Usamljenika.   Neke od ovih rijetkih aretfakta se mogu naći samo blizu Radara. Koncentracija anomlijske aktivnosti i teških metala i radioaktivne substance je idealna za stvaranje svih mogućih formi jedinstvenih stvari. Sjećam se jednog posla kojeg je Kolektor obavljao i nestao je otprilike na mjesec dana ili i više, mislio sam da ga je Zona uzela .. kao i mnoge druge prije. I onda iznenada se pojavio jednog dana.. i to sa naručenim artefaktima!!  Nitko od nas nikad nije vidio takve aritfekte.. pravo blago!! Ali, promjenio se jako puno od kad je otišao. Činio se starijim, nekako ..\n Tjedan kasnije vratio se ponovno - ovaj put sa dva vrlo rijetka artefakta - izgledao je strašno .. kao da je ostario pet godina ..\n Kasnije sam se raspitao o njemu kod Vuka, rekao je da neki stari covjek njegovog izgleda dolutao u selo, ali nije pričao sa nikim .. čak ni sa Vukom. Čak je ostao preko noći, spavao je pored vatre u centru sela, i onda je otišao rano ujutro. Od tada nitko nije ništa čuo o njemu ili ga vidio...</text>
+	</string>
+	<string id="tayniki_coll_6">
+		<text>Što predlažež onda? ...</text>
+	</string>
+	<string id="tayniki_coll_7">
+		<text>Ma, ništa stvarno ... nemoj se previše uzbuditi .. mogu biti samo hrpa tračeva i nesmislenih priča uz vatru...</text>
+	</string>
+	<string id="tayniki_coll_8">
+		<text>A, valjda je .. ali, možda nebi bilo loše pogledati da li u nekim ima istine...</text>
+	</string>
+	<string id="tayniki_coll_9">
+		<text>Slušaj, reći ći ti jednu stvar .. taj "Kolektor" momak nije bio tup. Kako je mogao provesti par dana tu u Kordonu i naći takve rijetke artefakte koji se mogu naći samo blizu centra Zone!? Moja pretpostavka je da ih je imao sakrivene negdje u tajnim dijelovima i skrovištima za koje je on samo znao. Možda još uvijek ima nekih od tih skrovišta u Zoni. Ako si znatiželjni tip a mislim da jesi, onda pogledaj jako dobro, ovdje blizu u Početničkom selu svaki kutak i mjesto. Ovo je ipak zadnje mjesto gdje je viđen, jel...</text>
+	</string>
+	<string id="tayniki_coll_10">
+		<text>Hrana za glavu ... Pogledati cu vezano za to. Čujemo se kasnije...</text>
+	</string>
+	<string id="wpn_hand_name_c1">
+		<text>Gumene Rukavice</text>
+	</string>
+	<string id="enc_weapons1_wpn-hand_c1">
+		<text>Sposobne su blokirati 30 posto štetnih efekata odabranog artifakta. U principu, običan par Borilačkih Rukavica koje su pojačane sa debelim gumenim materijalom...</text>
+	</string>
+	<string id="wpn_hand_name_c2">
+		<text>Pojačane Rukavice</text>
+	</string>
+	<string id="enc_weapons1_wpn-hand_c2">
+		<text>Sposobne su blokirati do 50 posto štetnih simptoma odabranog aritfekta. Ove rukavice su obrađene na način da su bačene u anomaliju Mreža. Abnormalni filamenti su se ugradili u vlakna same rukavice i s time, pojačali njihova zaštitnička svojstva...</text>
+	</string>
+	<string id="wpn_hand_name_c3">
+		<text>Unaprijeđene Rukavice</text>
+	</string>
+	<string id="enc_weapons1_wpn-hand_c3">
+		<text>Sposobne su blokirati do 70 posto štetnih simptoma odabranog artefakta. Napredni par rukavica su uzete sa Ekzoskeletona koji je nekako bio pojačan 'Podrig' artefaktom...</text>
+	</string>
+	<string id="wpn_hand_name_c4">
+		<text>'Unikatne' Rukavice</text>
+	</string>
+	<string id="enc_weapons1_wpn-hand_c4">
+		<text>Ove rukavice kompletno blokiraju 100 postotno štetne posljedice odabranog artefakta i pojačavaju korisnikovu snagu udarca, čineći ove rukavice dobrim borbenim rukavicama također. Uzete sa rijetkog Ekzoskeletona .. koji je prošao mnoge nesigurne eksperimente i testove .. kombinirajući artefakte - 'Podrig' i 'Igla', koji nekako kompletno negiraju štetne simptome artefakata bez ikakvog lošeg efekta na nositelja. 'Igla' je jako rijedak artefakt, tako da ove rukavice vrijede doslovice njihove težine u zlatu...</text>
+	</string>
+	<string id="collector_clue_1">
+		<text>… Negdje u blizini blokiranog tunela …</text>
+	</string>
+	<string id="collector_clue_2_1">
+		<text>.. Bio sam nafiksan od gljiva, južno od Vojne Postaje, provjeri drveće..</text>
+	</string>
+	<string id="collector_clue_2_2">
+		<text>.. Provjeri Vagone vlaka pažljivo ..</text>
+	</string>
+	<string id="collector_clue_2_3">
+		<text>.. Zakopano je među nekim stijenama Istočno od mjesta gdje je Vodić ..</text>
+	</string>
+	<string id="collector_clue_3_1">
+		<text>.. Između hrpe cijevi kod puta za Agroprom ..</text>
+	</string>
+	<string id="collector_clue_3_2">
+		<text>.. na brijegu između hangara i Djutijeve stražarske postaje, kutija koja se provodi cijevima ..</text>
+	</string>
+	<string id="collector_clue_3_3">
+		<text>.. na brdu između hangara i parkirališta, na strani najbiližoj centralnoj glavnoj cesti ..</text>
+	</string>
+	<string id="collector_clue_4_1">
+		<text>.. Cijev u Močvari  ..</text>
+	</string>
+	<string id="collector_clue_4_2">
+		<text>.. Oklopno pješačko vozilo(APC) ..</text>
+	</string>
+	<string id="collector_clue_4_3">
+		<text>.. U blizini 4 velika kontenjera ..</text>
+	</string>
+	<string id="collector_clue_5_1">
+		<text>.. Unutar Hangara... Sjeverni zid ..</text>
+	</string>
+	<string id="collector_clue_5_2">
+		<text>.. U ruševinama blizu Djutijeve kontrolne točke ..</text>
+	</string>
+	<string id="collector_clue_5_3">
+		<text>.. Na radioaktivnom brdu blizu Djutijeve kontrolne točke..</text>
+	</string>
+	<string id="collector_clue_6_1">
+		<text>.. Zgrada od crvene cigle sa skolpkom za struju ..</text>
+	</string>
+	<string id="collector_clue_6_2">
+		<text>.. Drvo blizu Laboratorija ..</text>
+	</string>
+	<string id="collector_clue_6_3">
+		<text>.. kanta 701 ..</text>
+	</string>
+	<string id="collector_clue_7_1">
+		<text>.. blizu Djutijeve stražarnice u blizini odlagališta za smeće ..</text>
+	</string>
+	<string id="collector_clue_7_2">
+		<text>.. na drugom katu/levelu ............ 4 kolektora za vodu ..</text>
+	</string>
+	<string id="collector_clue_7_3">
+		<text>.. željezna velika vrata .....Divlji Teritorij tranzicija..... kontenjer za otpad/đubre ..</text>
+	</string>
+	<string id="collector_clue_8_1">
+		<text>.. u nedovršenoj 3 katnoj zgradi ..</text>
+	</string>
+	<string id="collector_clue_8_2">
+		<text>.. kod tranzicije za Bar je soba za drugu dimenziju, nema vojnika, nema nikoga nigdje ..</text>
+	</string>
+	<string id="collector_clue_8_3">
+		<text>.. urušena platforma za vlak ..</text>
+	</string>
+	<string id="collector_clue_9_1">
+		<text>..  boljikava žica ..</text>
+	</string>
+	<string id="collector_clue_9_2">
+		<text>.. 3 cijevi blizu 4 leša i torbe ..</text>
+	</string>
+	<string id="collector_clue_9_3">
+		<text>.. 4, 9, 7, 7, 5, 18 ..</text>
+	</string>
+	<string id="collector_clue_10_1">
+		<text>.. 2 alatni ormarići blizu tračnica ..</text>
+	</string>
+	<string id="collector_clue_10_2">
+		<text>.. višlje od 4 snajperista koji se vide od tranzicije Bara ..</text>
+	</string>
+	<string id="collector_clue_10_3">
+		<text>.. sa strane groba označenog sa križem ..</text>
+	</string>
+	<string id="collector_clue_11_1">
+		<text>.. blizu srušenog helikoptera - ispod betonskih kanala ..</text>
+	</string>
+	<string id="collector_clue_11_2">
+		<text>.. metalne cijevi blizu betonskih ploča ..</text>
+	</string>
+	<string id="collector_clue_11_3">
+		<text>.. među 3 kamena, iza bodljikave žice blizu Plačenićke Stražarnice ..</text>
+	</string>
+	<string id="collector_clue_12_1">
+		<text>.. odmah do spaljivačkih tornjeva iznad x10 laboratorija..</text>
+	</string>
+	<string id="collector_clue_12_2">
+		<text>.. tenkova cijev pokazuje put - gore ..</text>
+	</string>
+	<string id="collector_clue_12_3">
+		<text>.. iznad nekih kamenja u blizini oklopnog pješačkog vozila ..</text>
+	</string>
+	<string id="collector_clue_13_1">
+		<text>.. u razrušenom uglu/rubu od devet katne zgrade .. </text>
+	</string>
+	<string id="collector_clue_13_2">
+		<text>.. razbijeni čamac..</text>
+	</string>
+	<string id="collector_clue_13_3">
+		<text>.. u vrtiću ..</text>
+	</string>
+	<string id="collector_clue_14_1">
+		<text>.. izvan ograde, odmah do lokomotive ..</text>
+	</string>
+	<string id="collector_clue_14_2">
+		<text>.. ispod palih drveča ..</text>
+	</string>
+	<string id="collector_clue_14_3">
+		<text>.. ispod željezničkog mosta ..</text>
+	</string>
+	<string id="collector_clue_15">
+		<text>.. tamo gdje ljepota je zagrljena sa čudovištem (there where the BEAUTY is embraced by the BEAST) ..</text>
+	</string>
+	<string id="collector_clue_16">
+		<text>.. u brdima koji okružuju Radar ..</text>
+	</string>
+	<string id="collector_clue_17">
+		<text>.. dAVROs ima skrivenu poruku ..</text>
+	</string>
+	<string id="collector_clue_18">
+		<text>.. ATP banditska baza  ..</text>
+	</string>
+	<string id="collector_clue_19_1">
+		<text>.. bazen ispod jezera (pool under lake)..</text>
+	</string>
+	<string id="collector_clue_19_2">
+		<text>.. krater kamen, u Mr Kosti sjeverno-istočni pogled?? (crater rock in Mr Bones NE view)  ..</text>
+	</string>
+	<string id="collector_clue_19_3">
+		<text>.. kamenja blizu tranzicije za Vojna Skladišta  ..</text>
+	</string>
+	<string id="collector_clue_20_1">
+		<text>..  Baza spremnika vode ..</text>
+	</string>
+	<string id="collector_clue_20_2">
+		<text>..na vrhu viskog voden tornja ..</text>
+	</string>
+	<string id="collector_clue_20_3">
+		<text>.. vagon vlaka blizu špilja ..</text>
+	</string>
+	<string id="collector_clue_21_1">
+		<text>.. stari traktor ..</text>
+	</string>
+	<string id="collector_clue_21_2">
+		<text>.. Dimnjak ..</text>
+	</string>
+	<string id="collector_clue_21_3">
+		<text>..potkrovlje  ..</text>
+	</string>
+	<string id="collector_clue_22_1">
+		<text>.. ispod zvijezde ..</text>
+	</string>
+	<string id="collector_clue_22_2">
+		<text>.. Holografska kupola ..</text>
+	</string>
+	<string id="collector_clue_22_3">
+		<text>.. Staza kopača ..</text>
+	</string>
+	<string id="collector_clue_22_4">
+		<text>.. Vilica od kopača..</text>
+	</string>
+	<string id="collector_clue_23_1">
+		<text>..Tactpohom(??) ..</text>
+	</string>
+	<string id="collector_clue_23_2">
+		<text>.. Tunel ispod Antena ..</text>
+	</string>
+	<string id="collector_clue_23_3">
+		<text>.. Dimnjak kod snajperskog tornja ..</text>
+	</string>
+	<string id="collector_clue_24_1">
+		<text>.. Epicentar  .. </text>
+	</string>
+	<string id="collector_clue_24_2">
+		<text>.. Špičasto drvo ispred kamiona ..</text>
+	</string>
+	<string id="collector_clue_24_3">
+		<text>.. dolje, R1, dolje ispod 4 stepenice ..</text>
+	</string>
+	<string id="collector_clue_25_1">
+		<text>.. Kauč, soba sa Biljardom ..</text>
+	</string>
+	<string id="collector_clue_25_2">
+		<text>.. na jednom od šest spremnika..</text>
+	</string>
+	<string id="collector_clue_25_3">
+		<text>.. na kabinetima za struju ..</text>
+	</string>
+	<string id="collector_clue_26_1">
+		<text>.. 3 kamena uz rijeku ..</text>
+	</string>
+	<string id="collector_clue_26_2">
+		<text>.. ispod podnih daski na drugoj strani (under the floorboards on the otherside) ..</text>
+	</string>
+	<string id="collector_clue_26_3">
+		<text>.. kamion u rijeci (river truck) ..</text>
+	</string>
+	<string id="collector_clue_26_4">
+		<text>.. jedna od tri cijevi blizu kamiona ..</text>
+	</string>
+	<string id="collector_clue_26_5">
+		<text>.. nadgleda bojler anomaliju (overlooking the boiler) ..</text>
+	</string>
+	<string id="collector_clue_27_1">
+		<text>.. Helikopter ..(Chopper)</text>
+	</string>
+	<string id="collector_clue_27_2">
+		<text>.. toliko šljunka (toliko ruševina??).. (so much rubble) ..</text>
+	</string>
+	<string id="collector_clue_28_1">
+		<text>.. nadgleda helikoper elektricne anomalije (over looking the electric chopper) ..</text>
+	</string>
+	<string id="collector_clue_28_2">
+		<text>.. stijena koja nadgleda 2 dizalice ..</text>
+	</string>
+	<string id="collector_clue_28_3">
+		<text>.. u jednoj od tri cijevi koje ti prolaze iznad glave ..</text>
+	</string>
+	<string id="collector_clue_28_4">
+		<text>.. blizu 3 cijevi, visoki stup/potporanj (near the 3 pipes high up pillar) ..</text>
+	</string>
+	<string id="collector_clue_29_1">
+		<text>.. Jupiter tvornica - nedostupne stepenice ..</text>
+	</string>
+	<string id="collector_clue_29_2">
+		<text>.. Jupiter tvornica - drvo na krovu? (roof tree) ..</text>
+	</string>
+	<string id="collector_clue_29_3">
+		<text>.. Jupiter tvornica - krov koji nadgleda helikopter ..</text>
+	</string>
+	<string id="collector_clue_29_4">
+		<text>.. Iza Jupiter tvornice, gromobran ..</text>
+	</string>
+	<string id="collector_clue_30_1">
+		<text>.. okolo i okolo istaknute figure ..</text>
+	</string>
+	<string id="collector_clue_30_2">
+		<text>.. istaknuta figura ..</text>
+	</string>
+	<string id="collector_clue_30_3">
+		<text>.. dobra recepcija ..</text>
+	</string>
+	<string id="collector_clue_30_4">
+		<text>.. krov ..</text>
+	</string>
+	<string id="collector_clue_31">
+		<text>.. Skrovište u tajni sobi ..</text>
+	</string>
+	<string id="hunt_part2_message">
+		<text>.. Obeleženi, načuo sam razgovor o Cezaru. Zadnje je vrijeme viđen na ATP-u, na samom sjeveroistoku..</text>
+	</string>
+<!--	Duplicated "hunt_part2_message" string - aleks1970
+	<string id="hunt_part2_message">
+		Obeleženi... Bio je jedan pijani vojnik ovde koji je tvrdio da je sreo Cezara u ATP-u, dok je bio tamo na stražarskoj dužnosti. Kaže da je otišao prema severozapadu regije. Možda želiš to otići proveriti. Mislim da će se i ostali odavde također zaputiti tamo..</text>
+	</string> -->
+	<string id="hunt_ldk_warning">
+		<text>UPOZORENJE: LDK je viđen kako infiltrira podzemne objekte na Sjeveru, koristite ekstremnu opreznost!</text>
+	</string>
+	<string id="hunt_bkwtr_warning">
+		<text>UPOZORENJE: Prijavljen sukob sa LDK u Zatonu, vojne jedinice će se povući sa tog područja odmah!</text>
+	</string>
+	<string id="hunt_doc_jupu">
+		<text>Ovo je moje zadnje skrovište.\nOstavio sam mala skrovišta sa oružjem diljem Zone za moju korist.\nTi im možeš slobodno pristupiti i koristiti pošto ih je više ne trebam, nadam se da ću uspijeti doći do Moskve kao slijepi putnik u LDK evakuaciji.\nMožeš pobjeći tako da skočiš na dasku ispod otvora i uskog prolaza kroz prozor.\nTakođer sam ostavio svoj ručni teleporter za Limansk koji će ti dobro doći u ovim vremenima!\nSretno i budi oprezan!</text>
+	</string>
+	<string id="hunt_doc_j">
+		<text>Za onoga koji nađe ovo</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Nailer -=- 14:33 28.07.2015 -->
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:21 - sadd -->

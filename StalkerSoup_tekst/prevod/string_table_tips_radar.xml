@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="rad_barman_spam">
+		<text>Obeleženi!? Pa ti si živ!? Sjajno! Uspeo si da ugasiš Spaljivač, jel'? Svi pokušavaju doći do centra Zone kroz Pripjat. Niko ne zna šta je tamo...možda je to riznica artefakata ili možda nešto što ispunjava sve želje.\nBaš u ovom momentu se grupa veterana sprema da krene tamo. Ako požuriš, možda ćeš stići da im se pridružiš. Javiću im za tvoj dolazak, pa će te pričekati.</text>
+	</string>
+	<string id="tips_bun_komand">
+		<text>Timovi jedan i dva - proverite prvi sprat, tim tri - glavna hala, četiri i pet - proverite drugi sprat</text>
+	</string>
+	<string id="tips_rad_sos_suicide">
+		<text>...pomozi mi brate, umirem...</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>Da bi isključili spravu, pritisnite ($$ACTION_USE$$)</text> <!-- text> ... Disconnect ...</text -->
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:19 -sadd -->

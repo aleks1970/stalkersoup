@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 added several from bind_det_arts for localization, removed "string_table" - aleks1970 -->
+
+	<!-- 10991.1 -->
+	<string id="nm_545x39_izomorf">
+		<text>"5.45x39-izomorf"</text>
+	</string>
+	<string id="nm_545x39_izomorf1">
+		<text>"5.45x39-izomorf-1"</text>
+	</string>
+	<string id="nm_osnova_fotik">
+		<text>"Izomorfna osnova za f.ap"</text>
+	</string>
+	<string id="nm_linza_fotik">
+		<text>"Izomorfno sočivo za f.ap"</text>
+	</string>
+	<string id="nm_pushka_fotik">
+		<text>"Izomorfna kapija f.ap"</text>
+	</string>
+	<string id="nm_rukzak_izomorf">
+		<text>"Izomorfni ranac"</text>
+	</string>
+	<string id="nm_izom_globus">
+		<text>"Izomorfni Globus"</text>
+	</string>
+	<string id="nm_izomorf_kristal">
+		<text>"Izomorfni kristal"</text>
+	</string>
+	<string id="nm_ammo_zhekan_izomorf">
+		<text>"Jeka-izomorf"</text>
+	</string>
+	<string id="nm_kaktus_izomorf">
+		<text>"Izomorfni kaktus"</text>
+	</string>
+	<string id="nm_izomorf_kompas">
+		<text>"Izomorfni kompas"</text>
+	</string>
+	<string id="nm_wa2000_izomorf">
+		<text>"Anomalni valter wa2000"</text>
+	</string>
+	<string id="nm_762x54_izomorf">
+		<text>"7.62x54-izomorf"</text>
+	</string>
+	<string id="nm_psevdokristall">
+		<text>"Izomorfni pseudokristal"</text>
+	</string>
+	<string id="nm_izomorf_plastilin">
+		<text>"Izomorfni plasticin"</text>
+	</string>
+	<!--  1099.1 end -->
+	<string id="af_buliz">
+		<text>Kaldrma</text>
+	</string>
+	<string id="af_buliz_s">
+		<text>Kaldrma</text>
+	</string>
+	<string id="enc_zone_artifact_buliz">
+		<text>Artefakt koji je nastao zbog gubitka energije, izgubio je sva svoja svojstva. Međutim, u odsustvu bilo kojeg "specijalnog" svojstva, "Kaldrma" je i dalje zanimljiva naučnim krugovima</text>
+	</string>
+	<string id="af_spirit_1">
+		<text>Kapi Duše</text>
+	</string>
+	<string id="af_spirit_1_s">
+		<text>Kapi Duše</text>
+	</string>
+	<string id="enc_zone_artifact_spirit_1">
+		<text>Ovaj modifikat artefakta poseduje izvanredna svojstva koja povećavaju zdravlje čoveka uopšte, a smanjuju radijaciju. Ali sa druge strane, on smanjuje izdržljivost nosioca.</text>
+	</string>
+	<string id="af_spirit_2">
+		<text>Vatrena Duša</text>
+	</string>
+	<string id="af_spirit_2_s">
+		<text>Duša</text>
+	</string>
+	<string id="enc_zone_artifact_spirit_2">
+		<text>Ovaj međumodifikat artefakta ima svojstva slična kao i Kapi Duše, ali još više umanjuje efekat delovanja radijacije. Kao i Kapi Duše, također ima i negativnih efekata u vidu smanjenja izdržljivosti nosioca.</text>
+	</string>
+	<string id="af_spirit_3">
+		<text>Kristalna Duša</text>
+	</string>
+	<string id="af_spirit_3_s">
+		<text>Duša</text>
+	</string>
+	<string id="enc_zone_artifact_spirit_3">
+		<text>Ovaj međumodifikat artefakta ima svojstva slična kao i Vatrena Duša, ali još više umanjuje efekat delovanja radijacije. Kao i Vatrena Duša, također ima i negativnih efekata u vidu smanjenja izdržljivosti nosioca.</text>
+	</string>
+	<string id="af_spirit_4">
+		<text>Žarki Kristal</text>
+	</string>
+	<string id="af_spirit_4_s">
+		<text>Kristal</text>
+	</string>
+	<string id="enc_zone_artifact_spirit_4">
+		<text>Ovaj hipermodifikat artefakta poseduje sve korisne osobine Kristalne Duše u vezi zdravlja i umanjenja radijacije, ali kao pogodnost ima, umesto da umanjuje izdržljivost nosioca, on je uvećava! Stvarno "vrhunski" artefakt.</text>
+	</string>
+	<string id="af_cry_1">
+		<text>Suze Elektre</text>
+	</string>
+	<string id="af_cry_1_s">
+		<text>Suze</text>
+	</string>
+	<string id="enc_zone_artifact_cry_1">
+		<text>Ovaj modifikat artefakta neznatno umanjuje efekat radijacije kod nosioca, ali također povećava izdržljivost.</text>
+	</string>
+	<string id="af_cry_2">
+		<text>Vatrene Suze</text>
+	</string>
+	<string id="af_cry_2_s">
+		<text>Suze</text>
+	</string>
+	<string id="enc_zone_artifact_cry_2">
+		<text>Ovaj međumodifikat artefakta nasleđuje samo svojstva u vezi radijacije od svog prethodnika Suza Elektre, ali tu zaštitu povećava trostruko.</text>
+	</string>
+	<string id="af_cry_3">
+		<text>Himerine Suze</text>
+	</string>
+	<string id="af_cry_3_s">
+		<text>Suze</text>
+	</string>
+	<string id="enc_zone_artifact_cry_3">
+		<text>Ovaj međumodifikat artefakta povećava već izvrsnu zaštitu od radijacije koju Vatrene Suze poseduju, ali također dodaje vrlo vrednu mogućnost blokiranja PSI-emisije. Dok sa druge strane, ima negativna svojstva tako što povećava krvarenje, također generalno ima štetan uticaj na ljudsko zdravlje.</text>
+	</string>
+	<string id="af_babka_1">
+		<text>Stare Perle</text>
+	</string>
+	<string id="af_babka_1_s">
+		<text>Perle</text>
+	</string>
+	<string id="enc_zone_artifact_babka_1">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+5\n%c[default]Ovaj međumodifikat artefakta uveliko povećava izdržljivost nosioca i generiše gravitaciono polje koje skreće putanju objekata velike brzine oko nosioca, što nosioca čini mnogo težom metom za vatreno oružje. Međutim, neznatno je radioaktivan i pojačava napon bilo kakve električne aktivnosti u okolini, čineći električne anomalije daleko opasnijim.</text>
+	</string>
+	<string id="af_babka_2">
+		<text>Drevne Perle</text>
+	</string>
+	<string id="af_babka_2_s">
+		<text>Perle</text>
+	</string>
+	<string id="enc_zone_artifact_babka_2">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+7\n%c[default]Ovaj međumodifikat artefakta neznatno je više radioaktivan nego Stare Perle, izgubio je svoju prethodnu mogućnost da pojačava izdržljivost, a njegovi gravitacioni efekti su također umanjeni, slabljenje je značajno pri delovanju vatre iz oružja. Međutim, generalno povećava zdravlje nosioca i smanjuje krvarenje.</text>
+	</string>
+	<string id="af_babka_3">
+		<text>Prastare Perle</text>
+	</string>
+	<string id="af_babka_3_s">
+		<text>Perle</text>
+	</string>
+	<string id="enc_zone_artifact_babka_3">
+		<text>Ovaj hipermodifikat artefakta nastaje transmutacijom Stare Perle u bilo šta vredno! Uveliko povećava gravitaciono delovanje na metke, čineći nosioca mnogo otpornijim na vatru iz oružja, kao i na dalje povećanje zdravstvenih svojstava i mogućnosti umanjenja krvarenja. Konačno, umesto da zrači radijaciju, on pomaže u umanjenju efekata radijacije.</text>
+	</string>
+	<string id="af_pudd_1">
+		<text>Vatrena Školjka</text>
+	</string>
+	<string id="af_pudd_1_s">
+		<text>Školjka</text>
+	</string>
+	<string id="enc_zone_artifact_pudd_1">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+2\n%c[default]Ovaj međumodifikat artefakta, kao i njegov prethodnik Beba Školjka, štiti od opekotina, ali također povećava izdržljivost. Dok sa druge strane, povećava oštećenje od električnog šoka svom nosiocu.</text>
+	</string>
+	<string id="af_pudd_2">
+		<text>Sjajeća Školjka</text>
+	</string>
+	<string id="af_pudd_2_s">
+		<text>Školjka</text>
+	</string>
+	<string id="enc_zone_artifact_pudd_2">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+3\n%c[default]Ovaj međumodifikat artefakta ima istu zaštitu od opekotina poput Vatrene Školjke, ali ima veći pozitivan učinak na izdržljivost. Dok sa druge strane, uvećava oštećenje od električnog šoka svom nosiocu.</text>
+	</string>
+	<string id="af_pudd_3">
+		<text>Mesečeva Školjka</text>
+	</string>
+	<string id="af_pudd_3_s">
+		<text>Školjka</text>
+	</string>
+	<string id="enc_zone_artifact_pudd_3">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+5\n%c[default]Ovaj međumodifikat artefakta nastavlja sa zaštitom od opekotina kao i Sjajeća Školjka, ali ima čak i veće pozitivne efekte na izdržljivost. To je izbalansirano pomoću povećane osetljivosti na električni šok kod nosioca.</text>
+	</string>
+	<string id="af_pudd_4">
+		<text>Puding</text>
+	</string>
+	<string id="af_pudd_4_s">
+		<text>Puding</text>
+	</string>
+	<string id="enc_zone_artifact_pudd_4">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+7\n%c[default]Ovaj hipermodifikat artefakta donosi povećanje otpornosti na opekotine u odnosu na svog prethodnika, Mesečevu Lutku, ali također umesto da stvara ranjivost na električni šok, omogućuje značajnu zaštitu od njega! A također obezbeđuje određenu izdržljivost, ali ni blizo kao ranije nažalost.</text>
+	</string>
+	<string id="af_dik_1">
+		<text>Dikobraz</text>
+	</string>
+	<string id="af_dik_1_s">
+		<text>Dikobraz</text>
+	</string>
+	<string id="enc_zone_artifact_dik_1">
+		<text>Ovaj međumodifikat artefakta, nasledio je crtu od svog prethodnika Morskog Ježa, značajno štiti od radijacije ali umanjuje izdržljivost.</text>
+	</string>
+	<string id="af_dik_2">
+		<text>Elektro Dikobraz</text>
+	</string>
+	<string id="af_dik_2_s">
+		<text>Dikobraz</text>
+	</string>
+	<string id="enc_zone_artifact_dik_2">
+		<text>Ovaj međumodifikat artefakta približno obezbeđuje zaštitu od radijacije kao i Dikobraz, ali umesto da smanjuje, on povećava izdržljivost. Međutim, također nosioca čini ranjivim na posledice električnog šoka.</text>
+	</string>
+	<string id="af_dik_3">
+		<text>Kiseli Dikobraz</text>
+	</string>
+	<string id="af_dik_3_s">
+		<text>Dikobraz</text>
+	</string>
+	<string id="enc_zone_artifact_dik_3">
+		<text>Ovaj međumodifikat artefakta je sličan Elekto Dikobrazu koji donekle štiti od radijacije, povećanje izdržljivosti, i slabosti nosioca prema oštećenjima od električnih šokova, ali korist je u tome što značajno umanjuje krvarenje.</text>
+	</string>
+	<string id="af_dik_4">
+		<text>Kameni Dikobraz</text>
+	</string>
+	<string id="af_dik_4_s">
+		<text>Dikobraz</text>
+	</string>
+	<string id="enc_zone_artifact_dik_4">
+		<text>Ovaj hipermodifikat artefakta poseduje sve pozitivne osobine prethodnika, ali umesto slabosti na elektrošokove, on stvara otpornost od njih kod svog nosioca.</text>
+	</string>
+	<string id="af_kol_1">
+		<text>Čelični Kolobok</text>
+	</string>
+	<string id="af_kol_1_s">
+		<text>Kolobok</text>
+	</string>
+	<string id="enc_zone_artifact_kol_1">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+5\n%c[default]Ovaj međumodifikat artefakta stvara gravitaciono polje, time na neki način smanjuje brzinu metka koji ulati u to polje, tako povećava zaštitu od vatre iz oružja. Također, pojačava kožu čoveka, čineći je više otpornom na ogrebotine. Na žalost - on je radioaktivan.</text>
+	</string>
+	<string id="af_kol_2">
+		<text>Titanski Kolobok</text>
+	</string>
+	<string id="af_kol_2_s">
+		<text>Kolobok</text>
+	</string>
+	<string id="enc_zone_artifact_kol_2">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+6\n%c[default]Ovaj međumodifikat artefakta stvara još moćnije gravitaciono polje od svog prethodnika, Čeličnog Koloboka, koji je još bolja zaštita od vatrenog oružja uperenog u nosioca. Također pomaže u sprečavanju deranja kože, a štiti i od opekotina. Na žalost - još više je radioaktivan.</text>
+	</string>
+	<string id="af_kol_3">
+		<text>Dijamantski Kolobok</text>
+	</string>
+	<string id="af_kol_3_s">
+		<text>Kolobok</text>
+	</string>
+	<string id="enc_zone_artifact_kol_3">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+4\n%c[default]Ovaj međumodifikat artefakta ima za nijansu slabije gravitaciono polje od Titanskog Koloboka, ali i dalje nudi zaštitu od projektila. Dodate su pozitivne osobine zaštite kože od deranja i od opekotina, također štiti i od hemijskih opekotina. Na žalost - i dalje je radioaktivan, ali ne toliko kao Titanski Kolobok.</text>
+	</string>
+	<string id="af_kol_4">
+		<text>Sfera</text>
+	</string>
+	<string id="af_kol_4_s">
+		<text>Sfera</text>
+	</string>
+	<string id="enc_zone_artifact_kol_4">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+9\n%c[default]Ovaj hipermodifikat artefakta nasleđuje većinu pozitivnih osobina svojih prethodnika u porodici Kolobok. Sprečava deranje kože, omogućuje vrlo dobru zaštitu od metaka putem gravitacionog polja koji je moćno kao i kod Titanskog Koloboka, a štiti i od opekotina. Neki ljudi govore i da smanjuje glad.</text>
+	</string>
+	<string id="af_armor_1">
+		<text>Koža</text>
+	</string>
+	<string id="af_armor_1_s">
+		<text>Koža</text>
+	</string>
+	<string id="enc_zone_artifact_armor_1">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+2\n%c[default]Ovaj modifikat artefakta reaguje sa ljudskom kožom, umanjuje osetljivost na projektile velike brzine, kao što su meci. Također štiti od raznih oblika hemijskih opekotina. Osrednje je radioaktivan.</text>
+	</string>
+	<string id="af_armor_2">
+		<text>Krljušt</text>
+	</string>
+	<string id="af_armor_2_s">
+		<text>Krljušt</text>
+	</string>
+	<string id="enc_zone_artifact_armor_2">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+4\n%c[default]Ovaj međumodifikat artefakta, poput svog prethodnika Kože, formira a barijeru na ljudskoj koži štiteći od metaka i hemijskih opekotina. Krljušt također generalno doprinosi ljudskom zdravlju, ali kao sporedni efekat se javlja pojačanje krvarenja. Donekle je radioaktivan.</text>
+	</string>
+	<string id="af_armor_3">
+		<text>Čelična Krljušt</text>
+	</string>
+	<string id="af_armor_3_s">
+		<text>Krljušt</text>
+	</string>
+	<string id="enc_zone_artifact_armor_3">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+3\n%c[default]Ovaj međumodifikat artefakta nasleđuje osobine svojih prethodnika, Kože i Krljušti, a najvažnije je što ima još pozitivnih efekata. Čak i bolje, umesto da pojačava krvarenje prilikom povrede, u stvari ga smanjuje. Ipak je donekle radioaktivan, ali znatno manje.</text>
+	</string>
+	<string id="af_armor_4">
+		<text>Skalp Kontrolera</text>
+	</string>
+	<string id="af_armor_4_s">
+		<text>Skalp</text>
+	</string>
+	<string id="enc_zone_artifact_armor_4">
+		<text>Ovaj hipermodifikat artefakta evoluira ovu familiju artefakata na čudnu stranu. Više nije radioaktivan, i dalje štiti od hemijskih opekotina i metaka, a i dalje doprinosi ljudskom zdravlju, međutim, njegova glavna korist leži u mogućnosti da pomaže nosiocu u otpornosti na mnoge oblike psi-emisije! Neki su također tvrdili da umanjuje apetit, bez negativnih efekata povezanih sa nedostatkom hrane.</text>
+	</string>
+	<string id="af_simbion">
+		<text>Simbion</text>
+	</string>
+	<string id="af_simbion_s">
+		<text>Simbion</text>
+	</string>
+	<string id="enc_zone_artifact_simbion">
+		<text>Ovaj hipermodifikat artefakta je jedinstveni hibridni modifikat, dobijen spajanjem četiri artefakta i njihovom transmutacijom. Pomaže tako što blokira psi-emisije, ali sa druge strane, povećava osetljivost kože na deranje, također produžava krvarenje. Povrh svega, ovaj artefakt utiče na izdržljivost nosioca. Koristiti ga posebno kada napadaju psi- sposobni neprijatelji.</text>
+	</string>
+	<!-- Modified by Coolkingeye -=- 15:13 24.06.2014 -->
+	<!-- Preveo i prilagodio Flexerca -=- 10:00 16.07.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:56 -sadd -->

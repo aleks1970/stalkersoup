@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 -->
+<string id="cit_doctor_meet_conclusion">
+<text>Susret sa Doktorom</text>
+</string>
+<string id="cit_doctor_meet_conclusion_txt">
+<text>Ne znam, šta da kažem. Trebam li biti sretan ili tužan? Utvrdio sam, da sam ja Strelok. Strelok, koji je u jednom poslednjem prolazu prema centru, izgubio svoju svest. Strelok, koji je izgubio sve prijatelje, osim doktora. Strelok, koji je nešto otkrio i zbog toga ga neko prati. Šta sam to otkrio? Sledeće pitanje. Doktor je sačuvao ključ i poziciju našeg tajnog skrovišta u Pripjatu. Ono je u jednoj prostoriji u jednom starom hotelu u Centru. On kaže, da tamo nešto postoji, to nešto može da baci svetlo na Ispunitelja Želja ili Monolita. On zna samo jedno: Da sam u jednoj pretposlednjoj ekspediciji, prema elektrani, uvek govorio, da je nešto na Monolitu lažno. Dakle, Monolitu, pokušaćemo da raskrstimo s tobom. Šta si i ko si ti?</text>
+</string>
+<string id="cit_doctor_task_0_art">
+<text>Doktor: Kod našeg zadnjeg susreta, dao si mi ključ od tajnog skrovišta u Pripjatu i jedan dijagram koji pokazuje kako ga pronaći... Uspio sam ga sačuvati... Plaćenici ga nisu pronašli... Izvoli... Možda ćeš tamo pronaći još nešto. I još si nešto mrmljao, da je nešto na Monolitu lažno... To je sigurno...</text>
+</string>
+<!-- Preveo i prilagodio Flexerca---26.01.2015 --15.05 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:52 -sadd -->

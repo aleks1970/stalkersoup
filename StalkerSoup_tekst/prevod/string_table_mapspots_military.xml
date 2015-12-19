@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8 minor edits, hunter name to skinflint -->
+	<string id="mil_cap_hint">
+		<text>Razgovaraj sa komandirom punkta "Barijera"</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>Prati cinkaroša</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>Sačekaj da cinkaroš pozove agenta</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>Ubij cinkaroša</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>Ubij doušnika</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>Uzmi od ludog stalkera njegov fleš drajv</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>Djuti farma</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>Ubij snajperistu</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>Razgovaraj sa Murkom</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>Vrati se kod Cicije</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>Uništi Djuti odred na farmi</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>Ubij Lukaša</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>Škrti</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>Izvesti Maksa</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>Izvesti Lukaša</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>Predaj Maksu fleš drajv</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>Pronađi Kuvara u Fridom bazi</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>Razgovaraj sa Kuvarom</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>Uzmi RG-6 iz sela</text>
+	</string>
+<!-- <string id="mil_blockpost_job"> - Duplicated - aleks1970 -->
+	<string id="mil_blockpost_job_hint">
+		<text>Zaštiti Barijeru</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>Vodotoranj</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 28.01.2015  - 12.16 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:36 -sadd -->
