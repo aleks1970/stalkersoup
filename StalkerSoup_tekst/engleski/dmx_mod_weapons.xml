@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1250"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <!-- TB3D 1.0.9.9.9.8 	fixed typos, \ n vice \n 57 places, one Cryllic character, rpk-47, corrected text, strings aleks1970
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;DMX 1.3.3 + weapons mod ;;;
@@ -1284,4 +1284,3 @@ The TOZ-194 is a conventional pump-action shotgun that feeds from a 7-rounds tub
 		<text>This is a rare ammunition in the Zone. Designed for the FSB and their VSSK 'Exhaust' silenced rifle, the 12.7x55mm round is a subsonic but very heavy projectile of precision turned bronze. Designated STs-130PT2 it has around triple the energy of the 9x39mm used in the Vintorez, Val, and AK9.</text>
 	</string>
 </string_table>
-	<!-- Tekst usklađen sa 109998 verzijom zakrpe - 26.10.2015 18:35 -sadd -->
