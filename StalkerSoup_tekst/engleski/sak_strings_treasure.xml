@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1250"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <!-- TB3D 1.0.9.9.9.8, changed Devil to Bes -->
 <string id="scaintist_docs_name">
 	<text>Dead Scientist's Documents</text>
@@ -977,7 +977,7 @@
 	<text>Why, Lukas recently asked to run on Barrier ... Said the trouble they have there is some ... Well, I took in these behold-from monkeys that sit at the fire, you see? Well, on the barrier ... And there is a massive zombie attack! Pieces 50, probably ... Lost only the sniper, though I thought all polyazhem. Well, zombies - tenacious bastards, so you want to kill, or not, you need ... I went up, then to one, and he mumbles some numbers, repeated several times. Well, I 'helped' the poor man. When I returned, it dawned on me that these numbers - coordinates! Only here, the coordinates of what? Here ...</text>
 </string>
 <string id="freedom_2_dialog_73">
-	<text>What is there we can proceed? Recently, a plan to bring - and-a-chumet! If you wish to purchase, please contact a Škrticu. He knows where to take it. And you still come and chat ...</text>
+	<text>What is there we can proceed? Recently, a plan to bring - and-a-chumet! If you wish to purchase, please contact a miser. He knows where to take it. And you still come and chat ...</text>
 </string>
 <string id="freedom_2_dialog_81">
 	<text>Yes, these zombies always something chanting. Pay no attention</text>
@@ -1165,4 +1165,3 @@
 <string id="freedom_7_dialog_82">
 	<text>Well, okay. More'll come.</text>
 </string>
-	<!-- Tekst usklađen sa 109998 verzijom zakrpe - 26.10.2015 18:35 -sadd -->

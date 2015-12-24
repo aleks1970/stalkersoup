@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 fixed kluk_chaes2_bazar, prizrak_chaes_say, Prapor, aleks edits, gen prizrak -->
+<!-- TB3D 1.0.9.9.9.9 fixed kluk_chaes2_bazar, prizrak_chaes_say, Prapor, aleks edits, gen prizrak, zemlyk_zadanie_00 -->
 <string_table>
-	<!-- ECOLOGISTS -->
+
+<!-- ECOLOGISTS -->
+
 	<string id="ekolog_lentyi_say_0">
 		<text>Is this your lab, is there a girl here??</text>
 	</string>
@@ -26,6 +27,9 @@
 	<string id="ekolog_lentyi_say_7">
 		<text>I will wait your return.</text>
 	</string>
+
+
+
 	<string id="pantera_fone_nayti_0">
 		<text>Oh, my, your a sight for sore eyes! I can feel my heart thumping! Its your lucky day sweet heart, Ive come to join your crew. My experience should be obvious.</text>
 	</string>
@@ -47,6 +51,8 @@
 	<string id="pantera_fone_nayti_6">
 		<text>A woman wants me to find her phone, this will be much easier than working for Chimera.</text>
 	</string>
+
+
 	<string id="pantera_fone_ok_0">
 		<text>My Lioness, here's your phone. Perhaps you should write down your number for me.</text>
 	</string>
@@ -59,6 +65,8 @@
 	<string id="pantera_fone_ok_3">
 		<text>That's not jealousy, you retrobate! They feel sorry for you. Here's a reward, go on, take a smoke break, a swig of vodka. By the way, one of my gaurds needs a favor from you. He is retiring from the Zone soon, give him the respect that a Master deserves. Talk with him.</text>
 	</string>
+
+
 	<string id="pantera_fone_proval_0">
 		<text>I couldn't find the phone in time. Now I am threatened with execution?</text>
 	</string>
@@ -71,6 +79,8 @@
 	<string id="pantera_fone_proval_3">
 		<text>There is always a chance. Are you four years old,or just very blissfull? zip up your pants already! Take a short break and speak with one of my gaurds. He is leaving the Zone soon and needs a favor.</text>
 	</string>
+
+
 	<string id="body_pantera_talk_0">
 		<text>Greetings Master, so soon you will fly out of here, eh?  I thought the only retirement here was a permanent one!</text>
 	</string>
@@ -92,6 +102,8 @@
 	<string id="body_pantera_talk_6">
 		<text>Thanks, for the advice. I will look in Lukash's HQ for a stuffed animal for you. Only problem is Freedom like to shoot Mercenaries.</text>
 	</string>
+
+
 	<string id="body_pantera_prines_0">
 		<text>I have brought your stuffed animal, this will be quite a conversation piece in Miami, got some fleas though.</text>
 	</string>
@@ -104,6 +116,9 @@
 	<string id="body_pantera_prines_3">
 		<text>The Chimera is a good choice, but would maybe scare the ladies too much, Hah.</text>
 	</string>
+
+
+
 	<string id="pantera_zadanie2_0">
 		<text>Im ready for the next task.</text>
 	</string>
@@ -128,6 +143,8 @@
 	<string id="pantera_zadanie2_7">
 		<text>I'm to take a disk from the enemy without killing? I can't do it, not my nature.</text>
 	</string>
+
+
 	<string id="pantera_zadanie2_ok_0">
 		<text>Greetings, my Princess. I Have brought the disk without killing the messenger.</text>
 	</string>
@@ -140,6 +157,8 @@
 	<string id="pantera_zadanie2_ok_3">
 		<text>Your about the three hundreth guy to hit on me in the Zone. For now have a rest, there will be one more task for you.</text>
 	</string>
+
+
 	<string id="pantera_zadanie2_proval_0">
 		<text>Greetings. I have brought the disk.</text>
 	</string>
@@ -152,6 +171,8 @@
 	<string id="pantera_zadanie2_proval_3">
 		<text>There will be another chance for you to change my mind.</text>
 	</string>
+
+
 	<string id="pantera_talk_ud_0">
 		<text>You have something else for me, my kitten?</text>
 	</string>
@@ -164,6 +185,8 @@
 	<string id="pantera_talk_ud_3">
 		<text>I will share information with you, just between us.</text>
 	</string>
+
+
 	<string id="pantera_talk_neud_0">
 		<text>You have something else for me, my kitten?</text>
 	</string>
@@ -176,6 +199,8 @@
 	<string id="pantera_talk_neud_3">
 		<text>I will share information with you, just between us.</text>
 	</string>
+
+
 	<string id="pantera_zadanie3_0">
 		<text>About what is it you wanted to ask?</text>
 	</string>
@@ -206,6 +231,9 @@
 	<string id="pantera_zadanie3_9">
 		<text>This is great news! I agree, together we will find the other two pieces. I will keep your true identity a secret. I would do anything for those Monolith pieces! He, he, within limits of course. Now, about your next task. The boss demands that you steal a backpack that is stored in the Freedom base armory. The task is simple, but will positively affect your reputation. Bring everything from the backpack. I will loan you an Invisible Exoskeleton to make things easier for you.</text>
 	</string>
+
+
+
 	<string id="pantera_zadanie3_ok_0">
 		<text>I brought everything from the backpack. I hope my trial period is now finished?</text>
 	</string>
@@ -218,6 +246,8 @@
 	<string id="pantera_zadanie3_ok_3">
 		<text>I promise it was not me, you know I need your help finding those pieces of the Monolith. Take my advice Strelok, leave now and quickly. Damn! I just got a message the boss has already arrived. Your going to have to speak with him. Keep your gun in readiness, I won't be able to help you. There he is, behind you, speak with him.</text>
 	</string>
+
+
 	<string id="boss_talk_0">
 		<text>You wanted to see me?</text>
 	</string>
@@ -236,6 +266,9 @@
 	<string id="boss_talk_5">
 		<text>You had a choice and you have made it. Farewell scum!.</text>
 	</string>
+
+
+
 	<string id="pantera_neutral_say_0">
 		<text>Why did you get involved, I thought you worked for them?</text>
 	</string>
@@ -248,6 +281,8 @@
 	<string id="pantera_neutral_say_3">
 		<text>Goodbye Strelok, Go, I don't love farewell scenes. And obviously someone close to you has sold you out! I wanted to give you a small farewell gift.</text>
 	</string>
+
+
 	<string id="body_pant_neutral_say_0">
 		<text>Thanks for the help.</text>
 	</string>
@@ -260,6 +295,9 @@
 	<string id="body_pant_neutral_say_3">
 		<text>The boss became chicken-shit, I've wanted to shoot him myself for a longtime. Farewell Strelok, we will not see each other again. Here's for the memories, it's quite good. Look after the Panther or we will return and find you! Ha! A Joke.</text>
 	</string>
+
+
+
 	<string id="klenov_gol_nayti_0">
 		<text>Hello.</text>
 	</string>
@@ -290,6 +328,8 @@
 	<string id="klenov_gol_nayti_9">
 		<text>Doctor, I'm not a truce envoy. To me it's unimportant to persuade Hologram.</text>
 	</string>
+
+
 	<string id="klenov_art_0">
 		<text>Here, I have brought your assistant. What is still required?</text>
 	</string>
@@ -302,6 +342,8 @@
 	<string id="klenov_art_3">
 		<text>Yes, don't forget about the Cobblestones. They are necessary for the work! To cheer you up, I will tell you something. All Laboratories of the Zone were once connected to each other by a network of tunnels. And so I will show you one more transition to this Lab. It begins behind a door at the bottom level of laboratory X-18, you have probably already visited there. On your map I have left a mark.</text>
 	</string>
+
+
 	<string id="klenov_vse_ok_0">
 		<text>I Have brought everything that you asked. Take the Cobblestones.</text>
 	</string>
@@ -317,6 +359,9 @@
 	<string id="klenov_vse_ok_4">
 		<text>While you work, I have other tasks that require my attention.</text>
 	</string>
+
+
+
 	<string id="gologr_tehnik_0">
 		<text>I See the treatment has done you good.</text>
 	</string>
@@ -341,6 +386,8 @@
 	<string id="gologr_tehnik_7">
 		<text>I just need escorting to the transition. From there I can get to the lab by myself, I know a shortcut.</text>
 	</string>
+
+
 	<string id="gologr_tehn_ok_0">
 		<text>We made it. Here's the path to the warehouses.</text>
 	</string>
@@ -353,6 +400,9 @@
 	<string id="gologr_tehn_ok_3">
 		<text>For a reward I want to share with you information. I don't know whether it is important to you or not, in this region is one more cave and the entrance there is closed by a teleport. I made a key for this teleport. One month ago I sold it to a stalker. I don't know his name, but I know that he is neutral. A second key to this teleport is impossible to make, only the original will work. The action of this key is delayed. It won't unlock immediately, it takes several hours. Here take this pair of stones I found on the path, for me they are useless, but I know that they will be useful to you.</text>
 	</string>
+
+
+
 	<string id="ziklop_escho_taynik_0">
 		<text>Greetings Cyclops. I see the medicine already operates.</text>
 	</string>
@@ -371,6 +421,9 @@
 	<string id="ziklop_escho_taynik_5">
 		<text>We will meet again, Marked One.</text>
 	</string>
+
+
+
 	<string id="bar_kluk_say_0">
 		<text>Greetings, do you have any new info?</text>
 	</string>
@@ -395,6 +448,9 @@
 	<string id="bar_kluk_say_7">
 		<text>He is in the Cordon. You will need to go and see him and deliver the copy of my map. We will stay here a little longer. But first, you need to return the Signet ring to Lukash, and collect your reward. We will scout for paths to new territories and two other things. We will try to find the location of the girl and also the identity of the person who informed the Merc boss about you. From me to you a small gift, a useful blade. It is of more use to you. I here have recently killed a Samurai, Ha! Joke, I will be in touch by PDA</text>
 	</string>
+
+
+
 	<string id="warlab_gologr_doshel_0">
 		<text>You made it.</text>
 	</string>
@@ -407,6 +463,8 @@
 	<string id="warlab_gologr_doshel_3">
 		<text>I Hope so, we will meet again.</text>
 	</string>
+
+
 	<string id="karta_zvez_say_0">
 		<text>Greetings, you looking for me?</text>
 	</string>
@@ -428,6 +486,9 @@
 	<string id="karta_zvez_say_6">
 		<text>Listen, I am not an asassin. It is possible to track down, but to kill? I will think about my decision. For now, I SHOULD VISIT Sidorovich -.</text>
 	</string>
+
+
+
 	<string id="kluk_na_limu_0">
 		<text>Fang, listen, have you already checked up on a path to Limansk? Zahara, by the way, sends you his greetings. I don't think he knows your here at the Bar.</text>
 	</string>
@@ -452,6 +513,8 @@
 	<string id="kluk_na_limu_7">
 		<text>There is information that a group of hunters has found some documents in the Red Wood. We need to get them. You after all have already had dealings with hunters. While you'r there reconniter the area. You will find the hunters easily, I will put a mark on your map. You can take care of your business in Limansk while you are there, up to you really. Communication will be as usual, through PDA. I will remain here in the Bar, the Pilgrim will go and reconnoiter a path into the Lost Village.</text>
 	</string>
+
+
 	<string id="escape_boloto_perehod_0">
 		<text>Well, how was it in captivity?</text>
 	</string>
@@ -464,6 +527,9 @@
 	<string id="escape_boloto_perehod_3">
 		<text>This is something really good. Near to the bunker of Sidorovich, there is a transition. It's a path to the Marsh. Nobody from the rookies knows about it, I have noted it on your map.</text>
 	</string>
+
+
+
 	<string id="escape_razvod_gg_0">
 		<text>Greetings, are you the guy doing busimess with Sidorovich?</text>
 	</string>
@@ -476,6 +542,9 @@
 	<string id="escape_razvod_gg_3">
 		<text>Oh thank you friend. I thought Sidorovich had forgotten about me! Well, now I can leave the Zone tonight.</text>
 	</string>
+
+
+
 	<string id="sidor_razvod_raschet_0">
 		<text>Sidorovich, I have satisfied your request. Give me my money and interest.</text>
 	</string>
@@ -494,6 +563,10 @@
 	<string id="sidor_razvod_raschet_5">
 		<text>Calm down, he is long ways away by now. Here, I will give this to you as indemnification. A pair of first-aid sets and an Artefact Detector. Now stop sniveling and go find some artefacts to replace your cash.</text>
 	</string>
+
+
+
+
 	<string id="derevny_plen_0">
 		<text>Greetings Pilgrim, I see you decided to grow back the beard. Whats going on here with that portal.</text>
 	</string>
@@ -518,6 +591,9 @@
 	<string id="derevny_plen_7">
 		<text>I did send a warning, I told Fang that I was in a trap. He has badly missunderstood what the situation really is.</text>
 	</string>
+
+
+
 	<string id="kolmogor_say_0">
 		<text>Are you Special Forces? Is this a trick?.</text>
 	</string>
@@ -536,6 +612,9 @@
 	<string id="kolmogor_say_5">
 		<text>Well then, let's not waste time. The shop is located at the edge of the village. When we get to the road go at once to the right.</text>
 	</string>
+
+
+
 	<string id="kolmogor_say1_0">
 		<text>I Sympathize with your loss. We were not in time. I hope you have other relatives?</text>
 	</string>
@@ -554,6 +633,8 @@
 	<string id="kolmogor_say1_5">
 		<text>She is in the Zone??? Are you sure you'r not mistaken? Please help me find her. And still I have another request: we need to eliminate the military staff that has set up a HQ in the central house on the hill. There should not be very many of them. They need to be taught a lesson, they just can't go around killing innocent people. I only have a few men so your help is required. After that we will have a conversation.</text>
 	</string>
+
+
 	<string id="kolmogor_obsledovanie_0">
 		<text>Looks like they were planing to stay awhile.</text>
 	</string>
@@ -563,6 +644,8 @@
 	<string id="kolmogor_obsledovanie_2">
 		<text>This should be interesting.</text>
 	</string>
+
+
 	<string id="kolmogor_obsledov_ok_0">
 		<text>Everythings clear in the village.</text>
 	</string>
@@ -575,6 +658,9 @@
 	<string id="kolmogor_obsledov_ok_3">
 		<text>Well, thanks for your help. Try to find my sister if you can. I hope these is not a big attack before you return. Leave the pilgrim, if you can, he will be useful. About your reward, it looks like you already have better weapons than what I could give you. Therefore I will give you information about transition coordinates from this village to Limansk.</text>
 	</string>
+
+
+
 	<string id="kolmogor_sestra_ok_0">
 		<text>Greetings, I have brought your sister.</text>
 	</string>
@@ -587,6 +673,9 @@
 	<string id="kolmogor_sestra_ok_3">
 		<text>You have arrived just in time. We have been monitoring their communications and they are on there way to attack the village with a formidable air assault force. We require your help if we are to stand a chance against these bastards. Please take Panther into the cellar, the entrance is in the middle of the courtyard in front of this building. She will be safe there from the fighting. After that, choose a position for defence.</text>
 	</string>
+
+
+
 	<string id="derevny_zashita_est_0">
 		<text>I don't think they will be returning here. They don't have anyone left.</text>
 	</string>
@@ -599,6 +688,9 @@
 	<string id="derevny_zashita_est_3">
 		<text>I will examine the information on the PDA and let you know if I find any further data. I wonder why they are so interested in my sister? And once again I thank you, here take these coordinates for a transition from the Village to the Hospital.</text>
 	</string>
+
+
+
 	<string id="marsh_pantera_say_0">
 		<text>This is quite a hiding place you found. By the way, do you have any brothers?</text>
 	</string>
@@ -614,6 +706,8 @@
 	<string id="marsh_pantera_say_4">
 		<text>SMS? Extremely strange. From the data I found on your younger brother, nobody could even know you were related. Though recently I have ceased to be surprised by the turn of events. Someone has extensive communication access throughout the Zone, and this someone is obviously an enemy. Alright, we will go to the village. Then I will untangle this ball of riddles. Better for you to wait there. I have been sent an approximate location of a transition from the Marshes directly to the Village. I hope it's not hard to find: you remain here, and I will reconnoiter ahead. If all is clear, I will send you a signal.</text>
 	</string>
+
+
 	<string id="boloto_provod_vstrecha_0">
 		<text>Hello swamp dweller, are we spawning monsters to create chaos? I search for a path towards the Lost Village. My comrade has given this area as an aproximate place to find the transition.</text>
 	</string>
@@ -635,6 +729,8 @@
 	<string id="boloto_provod_vstrecha_7">
 		<text>She waits, while I reconnoiter the path. Alright, I will go find the backpack on the farm.</text>
 	</string>
+
+
 	<string id="boloto_provodnik_say_0">
 		<text>I have taken out the controller and found the backpack, what's next?</text>
 	</string>
@@ -656,12 +752,16 @@
 	<string id="boloto_provodnik_say_7">
 		<text>Screw this, she can find her own way out.</text>
 	</string>
+
+
 	<string id="provodnik_v_put_0">
 		<text>We are ready, let's go. We are in a hurry.</text>
 	</string>
 	<string id="provodnik_v_put_1">
 		<text>You really do have a woman! HUBA, HUBA!, follow me.</text>
 	</string>
+
+
 	<string id="boloto_provodnik_say1_0">
 		<text>Are we here?</text>
 	</string>
@@ -671,6 +771,8 @@
 	<string id="boloto_provodnik_say1_2">
 		<text>Thanks, morons are not in short supply outside the perimeter that's for sure! Farewell swamp dweller.</text>
 	</string>
+
+
 	<string id="oxrana_pantera_say_0">
 		<text>That was quite a fight Pilgrim, you really can fight. You are to remain here and protect Panther. She is quite the fighter herself, but needs someone to watch her back while I'm gone.</text>
 	</string>
@@ -683,6 +785,9 @@
 	<string id="oxrana_pantera_say_3">
 		<text>Mmmm, Macaroni, why did you have to bring up food. I will watch the girl, now let's see what these peasents have to eat.</text>
 	</string>
+
+
+
 	<string id="klenov_antena_0">
 		<text>Hello, is the artefact ready? I would have gotten here earlier but I've been busy with a lot of problems.</text>
 	</string>
@@ -710,6 +815,8 @@
 	<string id="klenov_antena_8">
 		<text>I thought I had seen it all. But I have no idea what's waiting for me in the Cordon.</text>
 	</string>
+
+
 	<string id="klenov_antena_est_0">
 		<text>Heres your Aerial. I hope you will make a protective suit before you ask me to do something like that again. Theres enough mutant meat in the Cordon now to feed all the starving population of Africa!</text>
 	</string>
@@ -722,6 +829,9 @@
 	<string id="klenov_antena_est_3">
 		<text>Yes, yes. I was simply afraid that having learn't that I am interested in this aerial, the people from O-consciousness would take it away before you could get it. Unfortunately, it will take some time before we can finish the experiment. We will work as fast as possible.</text>
 	</string>
+
+
+
 	<string id="mobil_torgash_vstrecha_0">
 		<text>Flying dealers, such service as in America.</text>
 	</string>
@@ -746,6 +856,8 @@
 	<string id="mobil_torgash_vstrecha_7">
 		<text>Our meeting is a first trial variant. For acquaintance so to say. Possibilities I to you have told, and further, you to solve, whether it is necessary for us to meet.</text>
 	</string>
+
+
 	<string id="sey_after_pobeg_0">
 		<text>Pilgrim, how does a veteran of the Zone screw up a simple task?</text>
 	</string>
@@ -758,6 +870,9 @@
 	<string id="sey_after_pobeg_3">
 		<text>The Chief of the Zone? The Black doctor? This just keeps getting worse.</text>
 	</string>
+
+
+
 	<string id="gener_prizrak_nachalo_0">
 		<text>What has happened here?</text>
 	</string>
@@ -773,6 +888,9 @@
 	<string id="gener_prizrak_nachalo_4">
 		<text>Lead the way..</text>
 	</string>
+
+
+
 	<string id="gener_prizrak_prishli_0">
 		<text>Why stop here?</text>
 	</string>
@@ -785,8 +903,14 @@
 	<string id="gener_prizrak_prishli_3">
 		<text>I will go to the fires, if that, Whistle.</text>
 	</string>
+
+
+
 	<string id="zemlyk_zadanie_0">
-		<text>Greetings. I see, you're here for the Senior. What reason do you have for seeing the strange nonconformist in a helmet? In what warehouse of the Third Reich has it been dug out of? Is silent, instead of conversation SMS has sent. With a gun too by the way, German it is played. Well that's fine, I'm not about to ask. To me, the information you get you must hold. We with or friend should make way to the base which is here. There is datahere that hold's captive one good person.</text>
+		<text>Greetings. I see, you're here for the Senior. What reason do you have for seeing the strange nonconformist in a helmet? In what warehouse of the Third Reich has it been dug out of? Is silent, instead of conversation SMS has sent. With a gun too by the way, German it is played. Well that's fine, I'm not about to ask. To me, the information you get you must hold. We with or friend should make way to the base which is here. There is data here that hold's captive one good person.</text>
+	</string>
+	<string id="zemlyk_zadanie_00">
+		<text>I need to see the senior!</text>
 	</string>
 	<string id="zemlyk_zadanie_1">
 		<text>Greetings. All call it Frits. It mutated! It has made all transformations correctly, the person it protects, you, here, so himself and conducts. The muzhik it good, responsible, it is masterful owns PDA. And Impress at it, especialy, any stalker in the Zone will envy. A helmet, most abnormal. I do not know, where it has got to, but it gives almost 100% protection against wounds and damages against anomalies. But it's most important advantage, it forms a screen round the owner, if you have had time to notice, it is not designed for the living person but for devices and other technics. To define it, is possible only by Vizualko, by means of eyes. Now, for the account on the disk: there are more subcentral Zones, though it is more expensive. A joke. I will only tell of one, to pass to the base is impossible! The territory is that of the O-consciousness. They have included new installations and have created something of a type of protective barrier. More detailed information you should be able to earn.</text>
@@ -806,6 +930,9 @@
 	<string id="zemlyk_zadanie_6">
 		<text>It's fine, I will try to keep within range for eleven minutes. I already communicated with chopper, happened simultaneously.</text>
 	</string>
+
+
+
 	<string id="zemlyk_zadanie1_0">
 		<text>Greetings. I see, you're here for the Senior. To get hold of the information for me. We with our friend should make the way on base here. There is data that they hold captive one good person.</text>
 	</string>
@@ -827,6 +954,8 @@
 	<string id="zemlyk_zadanie1_6">
 		<text>Fine, I will try to keep within for eleven minutes. I already communicated with the chopper, happened simultaneously.</text>
 	</string>
+
+
 	<string id="zemlyk_zadanie1_ok_0">
 		<text>Everything, I have destroyed the helicopter. And in time!</text>
 	</string>
@@ -839,6 +968,9 @@
 	<string id="zemlyk_zadanie1_ok_3">
 		<text>Yes, here still: hold coordinates to Perehodik? in Hospital. Unequivocally, to you and your companion it WILL be useful.</text>
 	</string>
+
+
+
 	<string id="zemlyk_zadanie1_neud_0">
 		<text>I Was at war with choppers! Time was not sufficiant, was late. Exhausted a heap of Cartridges!</text>
 	</string>
@@ -851,6 +983,9 @@
 	<string id="zemlyk_zadanie1_neud_3">
 		<text>Huh? Who? Never mind. Here's the Information:  I will tell you, to disconnect anybody from strangers is impossible! Telling that a protective field is there, never! Yesterday on base were Zavarushku, someone from them has arrived by helicopter, disabling the protective field for some minutes. At this time one of the scientists managed to run away from base, is now with us. Look for Frits, the nonconformist local, it just protects him, he'll pass it to you. Pay attention, do not turn special, ther is a seperate theme. I will tell only the following: the Muzhik is good, responsible, masterful, owns PDA. A helmet, abnormal it is. I do not know, where he has gotten it, but it gives him almost 100% protection against wounds and damages from anomalies. But it's most important advantage, it forms a kind of screen round the owner, if you have had time to notice, it is not defined for a living person but for devices and other technics. To define it, is possible only by Vizualko, by means of the eyes. So here. from the runaway scientist you will also receive information.</text>
 	</string>
+
+
+
 	<string id="andersen_vstrecha_0">
 		<text>Greetings. Strange surname there, Hans Christian Andersen, a relative?</text>
 	</string>
@@ -872,6 +1007,8 @@
 	<string id="andersen_vstrecha_6">
 		<text>the Helicopter? Yes, I hear it. Geez, don't have to panic! I'll go see what's up. LOOK, you are important to me ALIVE, not cold meat. So calm down and just wait here without soiling yourself!</text>
 	</string>
+
+
 	<string id="black_dok_gener_say_0">
 		<text>Now that's something like it. Chief of Chukotka welcomes you. Moreover and not one.</text>
 	</string>
@@ -899,6 +1036,9 @@
 	<string id="black_dok_gener_say_8">
 		<text>Good, I will ask Ghost, maybe Navryat later. Yes, let's go, Frits will pass you.</text>
 	</string>
+
+
+
 	<string id="gener_prizr_udav_0">
 		<text>Well, getting accustomed? Who has arrived? Black Dock?</text>
 	</string>
@@ -920,6 +1060,9 @@
 	<string id="gener_prizr_udav_6">
 		<text>Appears so. You here info collect, have a rest, and I should be winded on a Marsh. Lines this Boatswain fought. I will go with Black Dock I will communicate - can on the chopper will throw. One shit while on base of Monolithians to us not to make the way.</text>
 	</string>
+
+
+
 	<string id="black_dok_gener_polet_0">
 		<text>Well, Doctor, have calmed the former employee?</text>
 	</string>
@@ -932,6 +1075,8 @@
 	<string id="black_dok_gener_polet_3">
 		<text>it is good, I will throw. But I will land outside of territory - to fly by the helicopter over bogs dangerously. So dress on a belt all that is from radiation - Fonit will be strong. Otherwise you will die. I ask, sit down in the helicopter and it is departed.</text>
 	</string>
+
+
 	<string id="udav_vstrecha_0">
 		<text>Faugh... Well and Bomzhatnik you here have arranged. Moreover also it is drunk as a cobbler. And Vidon at you corresponding - last shirt has sold - alas the controller. Apparently you also are the Boatswain. Business at me to you.</text>
 	</string>
@@ -953,6 +1098,8 @@
 	<string id="udav_vstrecha_6">
 		<text>It is a pity at me a mirror is not present, and I would show that, to whom you are similar. And fuck to you the weapon - a stench such that their gas masks will not help snorks, and Vidon at you such that controllers Porazbegutsya. I too on air - in yours Bomzhatnike such aroma, what even flies all have died. Channel 5, a pancake. Eh, and I thought that I know that such a stench. I will go SMS to the Black Doctor I will send - can chopper will send, and that not to drag to me you.</text>
 	</string>
+
+
 	<string id="udav_vstrecha_poshli_0">
 		<text>Everything, we are put forward. We go to area of a cemetery at church. Will arrive a chopper for us.</text>
 	</string>
@@ -965,6 +1112,8 @@
 	<string id="udav_vstrecha_poshli_3">
 		<text>it is good, only overland we will go - I am afraid some water, and very much do not hurry - from a hang-over heavy long to go.</text>
 	</string>
+
+
 	<string id="udav_na_generatorah_0">
 		<text>Glory to eggs, we have reached. The poor pilot - chopper became Grub on the floor, yes Fume there such that eyes cuts.</text>
 	</string>
@@ -977,6 +1126,9 @@
 	<string id="udav_na_generatorah_3">
 		<text>it is good, with your Ghost we Wait a on a small bottle and VMAVHEM!</text>
 	</string>
+
+
+
 	<string id="ander_joystik_say_0">
 		<text>Hello. I see after dialogue with the Black Doctor you has calmed down a little.</text>
 	</string>
@@ -998,6 +1150,9 @@
 	<string id="ander_joystik_say_6">
 		<text>So. All right. Itinerary at me in PDA. I will go I will look, as my friend, Ghost lives, I will wait darkness and I will go to search.</text>
 	</string>
+
+
+
 	<string id="ander_joystik_ok_0">
 		<text>Here your joystick. What further?</text>
 	</string>
@@ -1013,6 +1168,9 @@
 	<string id="ander_joystik_ok_4">
 		<text>I Will try, certainly... But - at me slightly other purpose for base capture. At least - I will do the utmost.</text>
 	</string>
+
+
+
 	<string id="prizrak_frits_talk_0">
 		<text>Hello. How affairs? Judging by SMS there are news?</text>
 	</string>
@@ -1034,6 +1192,9 @@
 	<string id="prizrak_frits_talk_6">
 		<text>Here it is news. It seems that a handwork of the Black Doctor. This local Old man-hottabych - still that bigwig. All right, I will leave for a short while, a thing it is necessary to find for one, and you while Bomzhika mine Vporyadok result - that it was sober as a cucumber - it will be extremely necessary to us - it appears, on this dealer psi-radiation does not operate - as I have understood, on it these psi-aerials and tested.</text>
 	</string>
+
+
+
 	<string id="udav_pabota_0">
 		<text>Greetings. I see Ghost has returned you interest not only to vodka, but also to life. Give, the uncle, it is necessary to work.</text>
 	</string>
@@ -1049,6 +1210,8 @@
 	<string id="udav_pabota_4">
 		<text>We go. But remember, if that - help I to you cannot... Be more careful. I will wait for you at border of a deadly zone.</text>
 	</string>
+
+
 	<string id="udav_pabota_ok_0">
 		<text>the Boatswain, you have perfectly worked. Go to a fire, have a rest, further - already our problems.</text>
 	</string>
@@ -1064,6 +1227,9 @@
 	<string id="udav_pabota_ok_4">
 		<text>Is not present, thanks. Have a rest. After if it is live I will remain - we will talk.</text>
 	</string>
+
+
+
 	<string id="prizrak_shturm_say_0">
 		<text>Well, our time, the brother has come. The question price - only one saved life, the information and the sea of the ruined lives... Can also ours with you. It of that costs? Or to spit and easy to collect Arty and to drink vodka, and then till the end of life to carry a stone on a Soul and to deny assistance to the one who needs it? It will be difficult. Quietly to make the way not Udast'sya, to wait for the help especially there is no place - anybody from sane will not get under helicopters.</text>
 	</string>
@@ -1088,12 +1254,16 @@
 	<string id="prizrak_shturm_say_7">
 		<text>Well... I Wait for a signal. You will approach, as all you will settle.</text>
 	</string>
+
+
 	<string id="priz_shturm_say1_0">
 		<text>Well... The Dock like will help, a question - when. Jerry has unexpectedly quickly agreed and has left to take of a position. We will go also on the sly, the psi-field like was already disconnected. Our purpose - to get on base through the main gate.</text>
 	</string>
 	<string id="priz_shturm_say1_1">
 		<text>Then - on Ryumahe for bravery and in a way.</text>
 	</string>
+
+
 	<string id="ch_dok_proval_0">
 		<text>your Base. What from me it is necessary to you?</text>
 	</string>
@@ -1112,6 +1282,8 @@
 	<string id="ch_dok_proval_5">
 		<text>Well... I will inform you on results. Yes, I have taken away the people from village - to Andersen now threatens nothing, it will return on base itself.</text>
 	</string>
+
+
 	<string id="priz_after_proval_0">
 		<text>Here it, bitter salt of life. All that, good that comes, and then here so disappears - leaves deep wounds which you will not take first-aid sets - they in a shower, and us will pursue all life...</text>
 	</string>
@@ -1130,6 +1302,8 @@
 	<string id="priz_after_proval_5">
 		<text>the Question of Philosophy. We will go to village, let the Black Doctor takes away a body. We will drink - I will tell you one thing, now yet time while. Yes, Fritsa should be thanked.</text>
 	</string>
+
+
 	<string id="botsman_say_0">
 		<text>Greetings, the seaman. Failure at us... We are live, and it is not present. And the originator is not punished. No, we were not afraid, though and not men of courage, we were not in time a little. Give, whether we will drink that... I after all your debtor.</text>
 	</string>
@@ -1151,6 +1325,9 @@
 	<string id="botsman_say_6">
 		<text>Ufff, the third Shkalik has gone... Well, something vodka here the jet... Or was tired... Ghost go more close, we will look that for video at the Boatswain remains... Yes same Shevchyuk sings... The Good muzhik... Well, stirs up something me...</text>
 	</string>
+
+
+
 	<string id="priz_after_video_0">
 		<text>Oh... The Head heavy, as well as video from the Boatswain... And by the way, where it?</text>
 	</string>
@@ -1178,6 +1355,8 @@
 	<string id="priz_after_video_8">
 		<text>Well you and Fox... All right, I will walk to base. And there - it will be visible.</text>
 	</string>
+
+
 	<string id="kluk_sekretka_pohod_0">
 		<text>Greetings. Well as, has had a rest in the Bar? Time to us business has come to be engaged in together. Here, esteem is a short file on the Astrologer. It is assured - far not full.</text>
 	</string>
@@ -1199,6 +1378,8 @@
 	<string id="kluk_sekretka_pohod_6">
 		<text>Yes, and we will make, there I only will get, and you on a chickie will remain. Everything, we stamp.</text>
 	</string>
+
+
 	<string id="muha_vstrecha_0">
 		<text>Greetings. My name is Streloks. Did not expect to see teenagers in the Zone. Kombeza the stalker to obviously you Velikovat. I so understand, you and are that girl what has pulled down a valuable artefact?</text>
 	</string>
@@ -1220,6 +1401,9 @@
 	<string id="muha_vstrecha_6">
 		<text>the Fuck-up. Kranty to you, Streloks. Now most that bananas into ears to insert, it is a pity that they in the Zone are not present... Sharap!!!! The girl, to you is only three requests: sit down, shut up and calm down. After you you will tell, whom you should return.</text>
 	</string>
+
+
+
 	<string id="aver_pantera_say_0">
 		<text>I look you with it of own will... And after all it did the order for you. As quickly all changes. Well... I have got used To setups and divorces, but from you did not expect. But you know, I am not sorry - I have gained invaluable experience of dialogue with women.</text>
 	</string>
@@ -1253,6 +1437,9 @@
 	<string id="aver_pantera_say_10">
 		<text>One more friend? You had no right to risk life of other people even for the sake of such good purpose. I hope, our ways more will not be crossed also you will find behind what you here have come. But already without me.</text>
 	</string>
+
+
+
 	<string id="kluk_after_razbor_0">
 		<text>Everything, have solved a problem peacefully. Let live.</text>
 	</string>
@@ -1265,6 +1452,9 @@
 	<string id="kluk_after_razbor_3">
 		<text>Apprx. I will go ahead - whether a little that, and you with the girl - go trace. We will go on location edge - so more safely.</text>
 	</string>
+
+
+
 	<string id="muha_kukla_0">
 		<text>Has calmed down? Here and perfectly. Tell to the uncle that it is necessary to you and as you here have appeared.</text>
 	</string>
@@ -1298,6 +1488,8 @@
 	<string id="muha_kukla_10">
 		<text>it is fine. I will return you a doll. I hope, I saw that doll. For now the kind uncle Fang with you here will stay - a little-whether that. I to IT NOW WILL tell.</text>
 	</string>
+
+
 	<string id="muha_kukla_vernul_0">
 		<text>Greetings. Here, look is your doll?</text>
 	</string>
@@ -1319,6 +1511,8 @@
 	<string id="muha_kukla_vernul_6">
 		<text>Yes, not densely. Here your doll. You while should remain in here - places here much, rather safely, and the uncle Fang while here. I see you have made friends. Now I will consult to it what to do further, and after I will try to forward you for perimetre.</text>
 	</string>
+
+
 	<string id="kluk_ohrana_0">
 		<text>the Plan such: I stamp on the Radar behind a doll... In vain you smile is it is necessary to make. To mine, I saw this damn a doll in one of houses when collected parts for Perfuzora the Shury-gynecologist. The astrologer, it is visible has picked up not that. On the way I will glance to Klyonovu. And you - you in nurses, at you turn out to find common language with teenagers. Yes, now still to Ghost Stukanov - let it will be tightened - with the girl should happen nothing.</text>
 	</string>
@@ -1334,6 +1528,10 @@
 	<string id="kluk_ohrana_4">
 		<text>Eh where we did not vanish - the main thing that the doll of that that is necessary has appeared.</text>
 	</string>
+
+
+
+
 	<string id="klenov_neydacha_0">
 		<text>Hello, Doctor. You have forgotten Something about me. How affairs with artefacts?</text>
 	</string>
@@ -1355,6 +1553,9 @@
 	<string id="klenov_neydacha_6">
 		<text>Yes... Rare freak. However, we will check up its properties. All right, Doctor, is time to me. To a meeting.</text>
 	</string>
+
+
+
 	<string id="kluk_sovet_0">
 		<text>Well, the brother, things look bad. Not to find to us that mysterious Art. There are some guesses, but a branch deadlock. Judging by the story of the Fly, chopper scientists of O-consciousness were grasped by special troops. Black Bronicas were only at chasteners, that we have put those in a Lost Village. In live remained, probably, only pilots by helicopters. Where now these helicopters - One man's guess is as good as another's.</text>
 	</string>
@@ -1370,6 +1571,9 @@
 	<string id="kluk_sovet_4">
 		<text>Fang, turnip for the present works for you excellent! You while should remain here - you will not throw after all the girl one in the Zone. Eh, has forgotten Chupa-Chups to bring... Ge-ge-ge. I go to Voroninu.</text>
 	</string>
+
+
+
 	<string id="voronin_samopisez_0">
 		<text>Greetings, General. Very long ago did not see. Business at me to you. There is no big secret - it is known that you hold communication with military men.</text>
 	</string>
@@ -1391,6 +1595,8 @@
 	<string id="voronin_samopisez_6">
 		<text>Stars on epaulets from heavens simply so do not fall. It is necessary to you to me to believe and risk to convince military men. I not the fool to speak, where the girl. In half an hour will fly there dragonflies - and write-read the erased letters on a sepulchral cross. You here that - settle a problem, and I to Barman will come - on Ryumashke we will pass... Power. Ge-ge-ge. Number Ineresuyuschego first of all boards - 124.</text>
 	</string>
+
+
 	<string id="vor_samopisez_ok_0">
 		<text>Here, General, your recorder, take away. I hope, the award will be?</text>
 	</string>
@@ -1406,6 +1612,9 @@
 	<string id="vor_samopisez_ok_4">
 		<text>Apprx. even we will meet. Thanks for the help.</text>
 	</string>
+
+
+
 	<string id="prizrak_chaes_say_0">
 		<text>Greetings, quickly you have reached. You look well. All at Art?? the abrupt. And Bronicas it is obvious from Yudashkin.</text>
 	</string>
@@ -1418,6 +1627,8 @@
 	<string id="prizrak_chaes_say_3">
 		<text>Well, the brother, the friendship is more than sympathies and to help the person it is necessary - to difficultly it in the Zone... For what we live - not only to eat yes to have a sleep. We go, show the way.</text>
 	</string>
+
+
 	<string id="prizrak_chaes_say1_0">
 		<text>Have come? Yes, I know this place, but did not think that behind collars - a track on Generators...</text>
 	</string>
@@ -1427,6 +1638,8 @@
 	<string id="prizrak_chaes_say1_2">
 		<text>Frets, through a fence so through a fence, we will remember youth.</text>
 	</string>
+
+
 	<string id="muha_vertuha_letit_0">
 		<text>Greetings, a dragonfly. I see, all at you is normal. Has come SMS from military men, for you the helicopter - and there - to the grandfather, on Continent now will arrive.</text>
 	</string>
@@ -1442,6 +1655,9 @@
 	<string id="muha_vertuha_letit_4">
 		<text>It is excellent. And, here and the chopper rustles - somewhere on approach already. We will plant you, and then at us still is full with Fang has put...</text>
 	</string>
+
+
+
 	<string id="kluk_vert_sbit_0">
 		<text>Fang, old pepper, heard? Prepare suitcases, you love and wait in Moscow. And than it you so to it have attracted???</text>
 	</string>
@@ -1457,6 +1673,9 @@
 	<string id="kluk_vert_sbit_4">
 		<text>Yes same...</text>
 	</string>
+
+
+
 	<string id="soldier_ranen_say_0">
 		<text>Well, how are you? That at you happens???</text>
 	</string>
@@ -1472,6 +1691,8 @@
 	<string id="soldier_ranen_say_4">
 		<text>Wait pilot. Can eat chance still... I - will verify co-ordinates with photos and ?????? - I will check up - swine should be punished.</text>
 	</string>
+
+
 	<string id="solvador_say_0">
 		<text>Privet Lomonosovym. It is glad that the scientific brotherhood has survived in this turmoil. I suspect that dressing gowns at you armour. It is entrusted to me to help to you to include the third generator.</text>
 	</string>
@@ -1481,6 +1702,8 @@
 	<string id="solvador_say_2">
 		<text>Well... The Purpose is, stimulus - too. Is necessary task to carry out as I am interested in it.</text>
 	</string>
+
+
 	<string id="solvador_say_ok_0">
 		<text>Work is made. However, likely, now I became as the generator of hindrances...</text>
 	</string>
@@ -1490,6 +1713,8 @@
 	<string id="solvador_say_ok_2">
 		<text>Here I understand it, here and it is not necessary to go far. Now I will contact Vitamin and I learn, whether probably such.</text>
 	</string>
+
+
 	<string id="solv_talk_varlab_0">
 		<text>Well here, uncles from different groupings have agreed. Bright at them it has turned out, truth they amicably and unanimously have found for me still work... Deputies from one fraction, blah... It is necessary to be winded on old fart to a barrier and to reconnoiter there conditions. And you while can already go in Varlab and prepare equipment.</text>
 	</string>
@@ -1499,6 +1724,8 @@
 	<string id="solv_talk_varlab_2">
 		<text>it is fine, I will inform, how I will finish investigation.</text>
 	</string>
+
+
 	<string id="solv_na_varlabe_say_0">
 		<text>Privet Kulibinym. All works?</text>
 	</string>
@@ -1508,6 +1735,9 @@
 	<string id="solv_na_varlabe_say_2">
 		<text>Well it is fine, though here all is good.</text>
 	</string>
+
+
+
 	<string id="gen_pant_say_0">
 		<text>?-?... The Lascivious daughter of the Zone. What good luck. To whom or to that it is obliged by such honour? And where your friend? Very much, whether know, hunting to talk to it.</text>
 	</string>
@@ -1529,6 +1759,9 @@
 	<string id="gen_pant_say_6">
 		<text>So means, Ghost scent into the account of Dock has not brought... Mine to you council - go to Ghost to village that nearby - I will inform it. Doctor to blackmail it is useless - at it abrupt protection and with it it is simple so will not consult. Yes it also is not necessary - it is possible to try will agree, as at it now the Fly - remember that girl from not Reconnoitered Earth - and so, its Astrologer, and Dock has killed - tries to recover... Go to Ghost, then I will find you. But at first - I will make that for a long time it was necessary to make.</text>
 	</string>
+
+
+
 	<string id="kluk_chaes2_bazar_0">
 		<text>Greetings. Whence the data, what this shithead on Chernobyl-2?</text>
 	</string>
@@ -1538,6 +1771,8 @@
 	<string id="kluk_chaes2_bazar_2">
 		<text>Has understood. I am put forward on a position. Hear - you more accurately, frets?. Yes, a panther at Ghost not Generators. Like as and this Kolmogora Microcephal used it in the purposes...</text>
 	</string>
+
+
 	<string id="gospit_oxran_say_0">
 		<text>Greetings. What you black... I should pass.</text>
 	</string>
@@ -1547,6 +1782,9 @@
 	<string id="gospit_oxran_say_2">
 		<text>Has understood. It is a pity. But - I can come and without the invitation if it is required. Good luck.</text>
 	</string>
+
+
+
 	<string id="real_chernuy_dok_say_0">
 		<text>So means here is how the real Black Doctor looks? I in another way represented you. Or it is the next duck?</text>
 	</string>
@@ -1568,6 +1806,9 @@
 	<string id="real_chernuy_dok_say_6">
 		<text>Well... In that case to you they should be brought - I warned you through SMS - we businessmen and we will speak about real things. Bring artefacts and we will continue dialogue.</text>
 	</string>
+
+
+
 	<string id="father_pant_say_0">
 		<text>you also are the father of the Panther? For what you it so is cruel... It after all really could be lost some times, the Zone has come to the Zone - not for women a place for you, and...</text>
 	</string>
@@ -1601,6 +1842,8 @@
 	<string id="father_pant_say_10">
 		<text>I have already noticed... Certainly, go - so much years did not see. Tell to it... No, speak nothing, I will tell.</text>
 	</string>
+
+
 	<string id="real_dok_say2_0">
 		<text>Yes, I have learnt truth. But only partially. Why you have not told to it what his daughter here? And about the astrologer it is not still known.</text>
 	</string>
@@ -1637,6 +1880,8 @@
 	<string id="real_dok_say2_11">
 		<text>Then to a meeting.</text>
 	</string>
+
+
 	<string id="say_dok_after_varka_0">
 		<text>Doctor, at me it has turned out!!! Look, here it!!! Its vital and energitic properties simply amaze!</text>
 	</string>
@@ -1679,6 +1924,9 @@
 	<string id="say_dok_after_varka_13">
 		<text>Then to a meeting.</text>
 	</string>
+
+
+
 	<string id="muha_hosp_say_0">
 		<text>Greetings. How are you? All is normal?</text>
 	</string>
@@ -1688,6 +1936,9 @@
 	<string id="muha_hosp_say_2">
 		<text>Fang... It. Well, Vobschem... It Is occupied a little now... You here that - go down downwards, there there is a transition - a path on other territory. Go and wait me there - it is necessary to send all the same you to the grandfather, I promised. Eh... And Fang promised... I while will talk over with the Panther - you know it already, and we will go on other location.</text>
 	</string>
+
+
+
 	<string id="hosp_pantera_ok_0">
 		<text>Well, Has how are you doing? calmed down and has learnt truth?</text>
 	</string>
@@ -1715,6 +1966,8 @@
 	<string id="hosp_pantera_ok_8">
 		<text>the Gay... I after all will remember that you here have promised to me, then not Helicopters. All right, I joke. I on Agroprom.</text>
 	</string>
+
+
 	<string id="hosp_pant_proval_0">
 		<text>Well, Has how are you doing? calmed down and has learnt truth?</text>
 	</string>
@@ -1730,6 +1983,10 @@
 	<string id="hosp_pant_proval_4">
 		<text>Chtozh... It is a pity...</text>
 	</string>
+
+
+
+
 	<string id="atp_mobil_say_0">
 		<text>Greetings mobile Waste. I see, you on the helicopter Ponakleil - the humanitarian help distribute crosses? Or you mark with asterisks quantity of the deceived investors?</text>
 	</string>
@@ -1757,6 +2014,7 @@
 	<string id="atp_mobil_say_8">
 		<text>Yes it is fine to you, take away. In vain Chtol dragged. Will not buy - itself notch, you know, what sausage in the Zone useful and tasty? And long loafs? Where you such behind perimeter still will buy? At the same time and hearing you will correct.</text>
 	</string>
+
 	<string id="dok_arh_say_00">
 		<text>Hello Strelok.</text>
 	</string>
@@ -1769,5 +2027,6 @@
 	<string id="dok_arh_say_2">
 		<text>Sounds good, let's go.</text>
 	</string>
+
+
 </string_table>
-	<!-- Tekst usklađen sa 109998 verzijom zakrpe - 19.10.2015 12:51 -sadd -->

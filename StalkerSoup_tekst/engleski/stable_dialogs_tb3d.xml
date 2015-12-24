@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="windows-1250"?>
 <!--TB3D 1.0.9.9.9.8 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1, zep_note_gen_grimwald -->
 <string_table>
 <!--  TB3D  FREE PLAY  COLLECTOR -->
 <string id="new_line">
-<text>\n</text>
+<text> \n</text>
 </string>
 <string id="collector_welcome_title">
 <text>SIDOROVICH</text>
@@ -395,7 +394,7 @@
 <text>Where is it..  what did you do with ZEP..  try and find ZEP..</text>
 </string>
 <string id="voronin_dialog_zep2_5">
-<text>Gone..   stranger came to take..     but can't find.\nMAD MAD MAD!..    that was him..   MAD MAD MAD!</text>
+<text>Gone..   stranger came to take..     but can't find.\n MAD MAD MAD!..    that was him..   MAD MAD MAD!</text>
 </string>
 <string id="voronin_dialog_zep2_6">
 <text>Ok..  Ok..    you take it easy..   later..</text>
@@ -1868,7 +1867,7 @@
 		<text>Dooont cruuush... sileeent...</text>
 	</string>
 
-	<!-- GPS and PDA text -->
+	<!-- GPS and PDA text ----------------------------->
 	<string id="beacon_location">
 		<text>At the beacon location: </text>
 	</string>
@@ -1926,6 +1925,7 @@
 	<string id="beacon_unknown">
 		<text>Unknown</text>
 	</string>
+
 	<string id="tb3d_x14_distress">
 		<text>Anyone..   I am trapped in a lab full of Monolith..  there is an entrance in the Northwest corner of NPP North\nI am hiding out behind a lab with a strange machine they seem to be protecting..  please help me</text>
 	</string>
@@ -2064,4 +2064,3 @@
 		<text>One or more of your script files has failed to verify!</text>
 	</string>
 </string_table>
-	<!-- Tekst usklađen sa 109998 verzijom zakrpe - 26.10.2015 18:38 -sadd -->

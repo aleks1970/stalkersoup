@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1250"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <!-- TB3D 1.0.9.9.9.8 commented out mutant parts, changed Devil to Bes, 880 max to prapor, 1137 Tolia to Tolik, minor edits,
 several edits, moved bar_dolg_ivancov_start_41 and bar_dolg_petrenko_start_5 to stable_dialogs_bar, YURICK to Yurek, The Doctor,
 life heart 41-11, artmod_873_dialog_0, removed some hard returns, artmod_821, 841, 851, 661, 511, enc_artmod_medusa_galant_text,
@@ -140,13 +140,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Can you fix something else for me?</text>
 	</string>
 	<string id="dolgovazyi_repair_11">
-		<text>Come on, do it.\n \nThe list of possible repairs:</text>
+		<text>Come on, do it. \n.\nThe list of possible repairs:</text>
 	</string>
 	<string id="dolgovazyi_name">
-		<text>Lanki</text>
+		<text>Lanky</text>
 	</string>
 	<string id="bar_docent_name">
-		<text>Asistent</text>
+		<text>Associate</text>
 	</string>
 	<string id="stranger">
 		<text>Loner</text>
@@ -178,7 +178,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 	</string> -->
 	<!-- moved string id: "enc_weapons1_ammo_ammo-5.7x28" in to the string_table_enc_weapons file -aleks1970 -->
 	<string id="sak_military_stalker">
-		<text>Grba Šerstjuk</text>
+		<text>Ensign Sherstuk</text>
 	</string>
 	<string id="repair_item_outfit_desc">
 		<text>Repair-kit for field repairs of body armour and other equipment.</text>
@@ -426,14 +426,14 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>\nWolf asked me to find a lost document for him in the passage-way under the railroad tracks. Promises an AK-74u for this job.</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Pomalo oštećen, ali osigurana aktovka otporna na vatru sadrži važna dokumenta...</text>
+		<text>Document case. It is made of a thick, refractory material.</text>
 	</string>
 <!--	Duplicated string id from "string_table_items.xml" file - aleks1970
 	<string id="item_quest_case_02_desc">
 		<text>Slightly damaged, but secure fire-proof briefcase containing Important Documents...</text>
 	</string> -->
 	<string id="item_quest_case_02_name">
-		<text>Vojni dokumenti XGF497ff2_339t7</text>
+		<text>Military Documents</text>
 	</string>
 <!--	Duplicated string id from "string_table_items.xml" file - aleks1970
 	<string id="item_quest_case_02_name">
@@ -467,7 +467,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Modern surveillance system manifests disturbances in the regular Army VHF radio. This design allows remote monitoring, and in some cases may provide a more precise tuning of the teleports that can be found throughout the Zone.</text>
 	</string>
 	<string id="item_case_esc_name">
-		<text>Dokumenti iz Vojnog punkta</text>
+		<text>Outpost Documents</text>
 	</string>
 <!--	Duplicated string id from the "string_table_items.xml" file - aleks1970
 	<string id="item_case_esc_name">
@@ -1162,7 +1162,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Yes, he has contacted by radio. Keep the box, look, do not fall, heh, heh, heh.</text>
 	</string>
 	<string id="tex_mil_Svoboda_trader_ammo">
-		<text>\nCartridges at the end of the block office near the Barrier. Sidorovich asked Škrticu to exchange a rare artifact for a box of cartridges.</text>
+		<text>\nCartridges at the end of the block office near the Barrier. Sidorovich asked Miser to exchange a rare artifact for a box of cartridges.</text>
 	</string>
 	<string id="artmod_411_dialog_0">
 		<text>You said, there are recipes?</text>
@@ -1426,7 +1426,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>There are interesting recipes?</text>
 	</string>
 	<string id="artmod_651_dialog_1">
-		<text>last known to me. Is there a way to convert Night Star into a Battery! Interested? The task is not difficult: I agreed with Škrticom on the radio, he has a new model of Armor, but, something does not work. I need it for research, can repair. Take money to Škrtici?</text>
+		<text>last known to me. Is there a way to convert Night Star into a Battery! Interested? The task is not difficult: I agreed with Miser on the radio, he has a new model of Armor, but, something does not work. I need it for research, can repair. Take money to Miser?</text>
 	</string>
 	<string id="artmod_651_dialog_2">
 		<text>new model, I'll take it.</text>
@@ -1447,7 +1447,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Yes. Well, infection. I'll see what happened to him. While getting the recipe.</text>
 	</string>
 	<string id="tex_sak_reward_outfit">
-		<text>\nSyak, a trader in the Radar, asked me to exchange money with Škrticom for a new model of armor.</text>
+		<text>\nSyak, a trader in the Radar, asked me to exchange money with Miser for a new model of armor.</text>
 	</string>
 	<string id="artmod_523_dialog_0">
 		<text>Hello Sydor, all sitting there reekin a booze, hard to notice, NOT!</text>
@@ -1705,7 +1705,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>I'm listening.</text>
 	</string>
 	<string id="artmod_511_dialog_1">
-		<text>alone will remain between us? Can you pass one thing to Škrtici?</text>
+		<text>alone will remain between us? Can you pass one thing to Miser?</text>
 	</string>
 	<string id="artmod_511_dialog_2">
 		<text>Sure, why not..</text>
@@ -1810,7 +1810,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Thank you, I hope, not the last time.</text>
 	</string>
 	<string id="tex_bar_ivancov_rg6">
-		<text>Ivantsov, behind the Command Duty, maintains contact with Freedom. Škrtica wants to sell a RG-6 Grenade launcher to the trader in Liberty. He promises to provide a Transmutation recipe.</text>
+		<text>Ivantsov, behind the Command Duty, maintains contact with Freedom. Miser wants to sell a RG-6 Grenade launcher to the trader in Liberty. He promises to provide a Transmutation recipe.</text>
 	</string>
 	<string id="enc_artmod">
 		<text>Artefact Modification</text>
@@ -2514,7 +2514,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Well, his wife teach soup cooking... Come when you want to hit the road Cordon...</text>
 	</string>
 	<string id="teleport_08_dialog_0">
-		<text>Hi Max, Škrti says you have fouled transitions do ?..</text>
+		<text>Hi Max, Miser says you have fouled transitions do ?..</text>
 	</string>
 	<string id="teleport_08_dialog_1">
 		<text>was the case, he did not expect such an effect from the banal side posts, just in my brain clicked something and began to know how to calculate the teleport to Yantar...</text>
@@ -2559,7 +2559,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Well, if Playboy are interested in, then health in order... Here you are, for 2006 only have...</text>
 	</string>
 	<string id="teleport_09_dialog_0">
-		<text>Hey Chef! You hear me? Škrti said do you know about the teleport...</text>
+		<text>Hey Chef! You hear me? Miser said do you know about the teleport...</text>
 	</string>
 	<string id="teleport_09_dialog_1">
 		<text>A? Che? Who are you? What teleport? Ah, but if I know, is...</text>
@@ -2592,7 +2592,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>After approaches, I have right now, not in the form....</text>
 	</string>
 	<string id="teleport_skraga_dialog_0">
-		<text>Come Škrti, do it, teleport need...</text>
+		<text>Come miser, do it, teleport need...</text>
 	</string>
 	<string id="teleport_skraga_dialog_1">
 		<text>And where are you skiing pricked?</text>
@@ -3003,7 +3003,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>First - "Golden Fish", on the other said nothing, only very brief phrase that one of those traders may know...</text>
 	</string>
 	<string id="about_life_heart_11_dialog_4">
-		<text>Traders? Who? Sidor? Sak? Can Škrti?</text>
+		<text>Traders? Who? Sidor? Sak? Can Miser?</text>
 	</string>
 	<string id="about_life_heart_11_dialog_5">
 		<text>Miser? No, it is unlikely... And he and Sak and Petrenko recently in jail... But Sidorovich and Bartender, yes, they know a lot... And Sakharovs not forget, though he learned, and information traded in a long time...</text>
@@ -3324,4 +3324,3 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Borov? I'll have a word with him .. when I see him.</text>
 	</string>
 </string_table>
-	<!-- Tekst usklađen sa 109998 verzijom zakrpe - 26.10.2015 18:35 -sadd -->

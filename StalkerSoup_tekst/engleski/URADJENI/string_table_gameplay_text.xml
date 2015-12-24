@@ -1,101 +1,101 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.7 Names and hints for map positions aleks1970, final bios -->
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.0.9.9.9.9 Names and hints for map positions aleks1970, final bios, volk, lehavre, canine to Fang, exp_stalker_known_bio -->
 <string_table>
 	<string id="Akim_name_gameplay">
 		<text>Akim</text>
 	</string>
 	<string id="Crest_name_gameplay">
-		<text>Krest</text>
+		<text>Crest</text>
 	</string>
 	<string id="Adrenalin_name_gameplay">
 		<text>Adrenalin</text>
 	</string>
 	<string id="Sakharov_name_gameplay">
-		<text>Saharov</text>
+		<text>Sakharov</text>
 	</string>
 	<string id="Voronin_name_gameplay">
-		<text>Voronjin</text>
+		<text>Voronin</text>
 	</string>
 	<string id="Screw_name_gameplay">
-		<text>Šraf</text>
+		<text>Screw</text>
 	</string>
 	<string id="Sentry_name_gameplay">
-		<text>Stražar</text>
+		<text>Sentry</text>
 	</string>
 	<string id="Lukas_name_gameplay">
-		<text>Lukaš</text>
+		<text>Lukas</text>
 	</string>
 	<string id="Swamp_Doctor_1_name_gameplay">
-		<text>Blatni Doktor 1</text>
+		<text>Swamp Doctor 1</text>
 	</string>
 	<string id="Swamp_Doctor_2_name_gameplay">
-		<text>Blatni Doktor 2</text>
+		<text>Swamp Doctor 2</text>
 	</string>
 	<string id="Swamp_Doctor_3_name_gameplay">
-		<text>Blatni Doktor 3</text>
+		<text>Swamp Doctor 3</text>
 	</string>
 	<string id="Cook_name_gameplay">
-		<text>Kuvar</text>
+		<text>Cook</text>
 	</string>
 	<string id="Miner_name_gameplay">
-		<text>Rudar</text>
+		<text>Miner</text>
 	</string>
 	<string id="Bald_name_gameplay">
-		<text>Ćelavi</text>
+		<text>Bald</text>
 	</string>
 	<string id="Petrenko_name_gameplay">
 		<text>Petrenko</text>
 	</string>
 	<string id="Lanky_name_gameplay">
-		<text>Lanki</text>
+		<text>Lanky</text>
 	</string>
 	<string id="Garik_name_gameplay">
 		<text>Garik</text>
 	</string>
 	<string id="Sidorovich_name_gameplay">
-		<text>Sidorovič</text>
+		<text>Sidorovich</text>
 	</string>
 	<string id="Kalinin_name_gameplay">
-		<text>Kalinjin</text>
+		<text>Kalinin</text>
 	</string>
 	<string id="Fima_Coal_name_gameplay">
-		<text>Fima Ugljeni</text>
+		<text>Fima Coal</text>
 	</string>
 	<string id="Hermit_name_gameplay">
 		<text>Hermit</text>
 	</string>
 	<string id="Gynecologist_name_gameplay">
-		<text>Ginekolog</text>
+		<text>Gynecologist</text>
 	</string>
 	<string id="Jora_Anomaly_name_gameplay">
-		<text>Džora-Anomalni</text>
+		<text>Jora-Anomaly</text>
 	</string>
 	<string id="Old_man_name_gameplay">
-		<text>Starac</text>
+		<text>Old man</text>
 	</string>
 	<string id="Pilgrim_name_gameplay">
 		<text>Pilgrim</text>
 	</string>
 	<string id="Victor_Hologram_name_gameplay">
-		<text>Viktor-Hologram</text>
+		<text>Victor-Hologram</text>
 	</string>
 	<string id="Schur_Gynecologist_name_gameplay">
-		<text>Đura Ginekolog</text>
+		<text>Schur Gynecologist</text>
 	</string>
 	<string id="Chimera_name_gameplay">
-		<text>Himera</text>
+		<text>Chimera</text>
 	</string>
 	<string id="Owl_name_gameplay">
-		<text>Sova</text>
+		<text>Owl</text>
 	</string>
 	<string id="Canin_name_gameplay">
-		<text>Kanin</text>
+		<text>Canin</text>
 	</string>
 	<string id="Vitamin_name_gameplay">
 		<text>Vitamin</text>
 	</string>
 	<string id="Panther_name_gameplay">
-		<text>Pantera</text>
+		<text>Panther</text>
 	</string>
 	<string id="Dembele_name_gameplay">
 		<text>Dembele</text>
@@ -104,79 +104,79 @@
 		<text>Hologram</text>
 	</string>
 	<string id="Maples_name_gameplay">
-		<text>Klenov</text>
+		<text>Maples</text>
 	</string>
 	<string id="Sanya_Rogue_name_gameplay">
-		<text>Sanja Odmetnik</text>
+		<text>Sanya Rogue</text>
 	</string>
 	<string id="Kolmogor_name_gameplay">
 		<text>Kolmogor</text>
 	</string>
 	<string id="Connoisseur_of_the_marshes_name_gameplay">
-		<text>Poznavalac Močvare</text>
+		<text>Connoisseur of the Marshes</text>
 	</string>
 	<string id="Countryman_name_gameplay">
-		<text>Seljak</text>
+		<text>Countryman</text>
 	</string>
 	<string id="Ghost_name_gameplay">
-		<text>Duh</text>
+		<text>Ghost</text>
 	</string>
 	<string id="Andersen_name_gameplay">
 		<text>Andersen</text>
 	</string>
 	<string id="Shooter_name_gameplay">
-		<text>Pucač</text>
+		<text>Shooter</text>
 	</string>
 	<string id="Fly_name_gameplay">
-		<text>Muva</text>
+		<text>Fly</text>
 	</string>
 	<string id="Maximilian_name_gameplay">
-		<text>Maksimilijan</text>
+		<text>Maximilian</text>
 	</string>
 	<string id="Kuznetsov_name_gameplay">
-		<text>Kuznjecov</text>
+		<text>Kuznetsov</text>
 	</string>
 	<string id="Hog_name_gameplay">
-		<text>Krmak</text>
+		<text>Hog</text>
 	</string>
 	<string id="Sanya_Tyumen_name_gameplay">
-		<text>Sanja Tjumen</text>
+		<text>Sanya Tyumen</text>
 	</string>
 	<string id="volk_name_gameplay">
-		<text>vuk</text>
+		<text>Volk</text>
 	</string>
 	<string id="Sherstyuk_name_gameplay">
-		<text>Šerstjuk</text>
+		<text>Sherstyuk</text>
 	</string>
 	<string id="Bartender_name_gameplay">
-		<text>Barmen</text>
+		<text>Bartender</text>
 	</string>
 	<string id="Artifact_Container_name_gameplay">
-		<text>Kontehner za Artefakte</text>
+		<text>Artifact Container</text>
 	</string>
 	<string id="Missing_Scientist_name_gameplay">
-		<text>Nestali Naučnik</text>
+		<text>Missing Scientist</text>
 	</string>
 	<string id="Estimated_location_name_gameplay">
-		<text>Procenjena Lokacija</text>
+		<text>Estimated location</text>
 	</string>
 	<string id="Prapor_name_gameplay">
 		<text>Prapor</text>
 	</string>
 	<string id="Miser_name_gameplay">
-		<text>Cicija</text>
+		<text>Miser</text>
 	</string>
 	<string id="Max_name_gameplay">
-		<text>Maks</text>
+		<text>Max</text>
 	</string>
 	<string id="Fan_name_gameplay">
 		<text>Fan</text>
 	</string>
 	<string id="Swamp_Doctor_name_gameplay">
-		<text>Blatni Doctor </text>
+		<text>Swamp Doctor</text>
 	</string>
 	<string id="Wolf_name_gameplay">
-		<text>Vuk</text>
+		<text>Wolf</text>
 	</string>
 	<string id="Tolik_name_gameplay">
 		<text>Tolik</text>
@@ -185,70 +185,70 @@
 		<text>Petruha</text>
 	</string>
 	<string id="Nimble_name_gameplay">
-		<text>Brzi</text>
+		<text>Nimble</text>
 	</string>
 	<string id="Kuznet_name_gameplay">
-		<text>Kuznjet</text>
+		<text>Kuznet</text>
 	</string>
 	<string id="Fox_name_gameplay">
-		<text>Lisac</text>
+		<text>Fox</text>
 	</string>
 	<string id="Yurek_name_gameplay">
-		<text>Jurik</text>
+		<text>Yurek</text>
 	</string>
 	<string id="Demon_name_gameplay">
 		<text>Demon</text>
 	</string>
 	<string id="Plichko_name_gameplay">
-		<text>Pličko</text>
+		<text>Plichko</text>
 	</string>
 	<string id="Mole_name_gameplay">
-		<text>Krtica</text>
+		<text>Mole</text>
 	</string>
 	<string id="Skinflint_name_gameplay">
-		<text>Cicija</text>
+		<text>Skinflint</text>
 	</string>
 	<string id="Deserter_name_gameplay">
-		<text>Dezerter</text>
+		<text>Deserter</text>
 	</string>
 	<string id="Syak_name_gameplay">
-		<text>Sjak</text>
+		<text>Syak</text>
 	</string>
 	<string id="Kruglov_name_gameplay">
 		<text>Kruglov</text>
 	</string>
 	<string id="Ivantsov_name_gameplay">
-		<text>Ivancov</text>
+		<text>Ivantsov</text>
 	</string>
 	<string id="Estimated_location_of_documents_name_gameplay">
-		<text>Procenjena lokacija dokumenata</text>
+		<text>Estimated location of documents</text>
 	</string>
 	<string id="Dynamite_was_in_newbies_camp_name_gameplay">
-		<text>Dinamit je u selu početnika</text>
+		<text>Dynamite was in newbies camp</text>
 	</string>
 	<string id="Kostya_name_gameplay">
-		<text>Kostja</text>
+		<text>Kostya</text>
 	</string>
 	<string id="Dan_name_gameplay">
-		<text>Den</text>
+		<text>Dan</text>
 	</string>
 	<string id="Informant_name_gameplay">
-		<text>Doušnik</text>
+		<text>Informant</text>
 	</string>
 	<string id="Bolt_name_gameplay">
 		<text>Bolt</text>
 	</string>
 	<string id="LeHavre_name_gameplay">
-		<text>Gavra</text>
+		<text>LeHavre</text>
 	</string>
 	<string id="Freeman_name_gameplay">
-		<text>Frimen</text>
+		<text>Freeman</text>
 	</string>
 	<string id="James_name_gameplay">
-		<text>Džejms</text>
+		<text>DeJames</text>
 	</string>
 	<string id="Monolith_name_gameplay">
-		<text>Monolit</text>
+		<text>Monolith</text>
 	</string>
 	<string id="Blend_name_gameplay">
 		<text>Blend</text>
@@ -257,490 +257,494 @@
 		<text>Arhara</text>
 	</string>
 	<string id="Ivashchenko_name_gameplay">
-		<text>Ivaščenko</text>
+		<text>Ivashchenko</text>
 	</string>
 	<string id="Notebook_name_gameplay">
 		<text>Notebook</text>
 	</string>
 	<string id="Arharas_laptop_name_gameplay">
-		<text>Arharin lap-top</text>
+		<text>Arhara's laptop</text>
 	</string>
 	<string id="Yakut_name_gameplay">
-		<text>Jakut</text>
+		<text>Yakut</text>
 	</string>
 	<string id="Ghosts_Diary_name_gameplay">
 		<text>Ghost's Diary</text>
 	</string>
 	<string id="Scientist_name_gameplay">
-		<text>Naučnik</text>
+		<text>Scientist</text>
 	</string>
 	<string id="Ghosts_Group_name_gameplay">
-		<text>Duhova Grupa</text>
+		<text>Ghost's Group</text>
 	</string>
 	<string id="Beast_last_spotted_name_gameplay">
-		<text>Zver poslednja uočena</text>
+		<text>Beast last spotted</text>
 	</string>
 	<string id="ZVER_name_gameplay">
 		<text>ZVER</text>
 	</string>
+<!--	Duplicated: "ZVER_name_gameplay" is the correct string id - aleks1970
+	<string id="Zver_name_gameplay">
+		<text>Zver</text>
+	</string> -->
 	<string id="Robbers_name_gameplay">
-		<text>Pljačkaši</text>
+		<text>Robbers</text>
 	</string>
 	<string id="Owls_Cache_name_gameplay">
-		<text>Sovin Štek</text>
+		<text>Owl's Cache</text>
 	</string>
 	<string id="The_leader_of_the_hunters_name_gameplay">
-		<text>Vođa Lovaca</text>
+		<text>The leader of the Hunters</text>
 	</string>
 	<string id="Zahar_name_gameplay">
 		<text>Zahar</text>
 	</string>
 	<string id="Merc_Camp_name_gameplay">
-		<text>Plaćenički Kamp</text>
+		<text>Merc Camp</text>
 	</string>
 	<string id="Bandit_name_gameplay">
 		<text>Bandit</text>
 	</string>
 	<string id="Ash_Gray_name_gameplay">
-		<text>Pepeljasto Sivi</text>
+		<text>Ash Gray</text>
 	</string>
 	<string id="A_group_of_scientists_name_gameplay">
-		<text>Grupa Naučnika</text>
+		<text>A group of scientists</text>
 	</string>
 	<string id="Tamaz_name_gameplay">
 		<text>Tamaz</text>
 	</string>
 	<string id="Diary_1_name_gameplay">
-		<text>Dnevnik 1</text>
+		<text>Diary 1</text>
 	</string>
 	<string id="Diary_2_name_gameplay">
-		<text>Dnevnik 2</text>
+		<text>Diary 2</text>
 	</string>
 	<string id="Diary_3_name_gameplay">
-		<text>Dnevnik 3</text>
+		<text>Diary 3</text>
 	</string>
 	<string id="Captive_scout_name_gameplay">
-		<text>Zarobljeni izviđač</text>
+		<text>Captive scout</text>
 	</string>
 	<string id="Sviblov_name_gameplay">
 		<text>Sviblov</text>
 	</string>
 	<string id="Cat_name_gameplay">
-		<text>Mačak</text>
+		<text>Cat</text>
 	</string>
 	<string id="Borman_name_gameplay">
 		<text>Borman</text>
 	</string>
 	<string id="Kalmyk_name_gameplay">
-		<text>Kalmik</text>
+		<text>Kalmyak</text>
 	</string>
 	<string id="Shadowman_name_gameplay">
-		<text>Senka</text>
+		<text>Shadowman</text>
 	</string>
 	<string id="Syslov_name_gameplay">
-		<text>Suslov</text>
+		<text>Syslov</text>
 	</string>
 	<string id="Sage_name_gameplay">
-		<text>Mudrac</text>
+		<text>Sage</text>
 	</string>
 	<string id="Shadows_name_gameplay">
-		<text>Mračni</text>
+		<text>Shadows</text>
 	</string>
 	<string id="Borov_name_gameplay">
 		<text>Borov</text>
 	</string>
 	<string id="Shurup_name_gameplay">
-		<text>Šurup</text>
+		<text>Shurup</text>
 	</string>
 	<string id="Fanat_name_gameplay">
-		<text>Fanatik</text>
+		<text>Fanat</text>
 	</string>
 	<string id="Serly_name_gameplay">
-		<text>Serli</text>
+		<text>Serly</text>
 	</string>
 	<string id="Lukash_name_gameplay">
-		<text>Lukaš</text>
+		<text>Lukash</text>
 	</string>
 	<string id="Den_name_gameplay">
 		<text>Den</text>
 	</string>
 	<string id="Mercenary_name_gameplay">
-		<text>Plaćenik</text>
+		<text>Mercenary</text>
 	</string>
 	<string id="Stranger_name_gameplay">
-		<text>Stranac</text>
+		<text>Stranger</text>
 	</string>
 	<string id="Habarych_name_gameplay">
-		<text>Habar</text>
+		<text>Habarych</text>
 	</string>
 	<string id="Vadya_Stakhanov_name_gameplay">
-		<text>Vadja Stakanov</text>
+		<text>Vadya Stakhanov</text>
 	</string>
 	<string id="Lenka_Einstein_name_gameplay">
-		<text>Lenka Ajnštajn</text>
+		<text>Lenka Einstein</text>
 	</string>
 	<string id="Korchagin_name_gameplay">
-		<text>Korčagin</text>
+		<text>Korchagin</text>
 	</string>
 	<string id="Captain_Hrenovodelov_name_gameplay">
-		<text>Kapetan Hrenovodelov</text>
+		<text>Captain Hrenovodelov</text>
 	</string>
 	<string id="Artem_the_Cook_name_gameplay">
-		<text>Artjom Kuvar</text>
+		<text>Artem the Cook</text>
 	</string>
 	<string id="Vitek_Voron_name_gameplay">
-		<text>Vitek Vrana</text>
+		<text>Vitek Voron</text>
 	</string>
 	<string id="Victor_Astronomer_name_gameplay">
-		<text>Viktor Astronom</text>
+		<text>Victor Astronomer</text>
 	</string>
 	<string id="Hump_name_gameplay">
-		<text>Grba</text>
+		<text>Hump</text>
 	</string>
 	<string id="Spirit_name_gameplay">
 		<text>Spirit</text>
 	</string>
 	<string id="Tauli_name_gameplay">
-		<text>Tuli</text>
+		<text>Tauli</text>
 	</string>
 	<string id="Finder_name_gameplay">
-		<text>Pronalazač</text>
+		<text>Finder</text>
 	</string>
 	<string id="Gerasim_name_gameplay">
 		<text>Gerasim</text>
 	</string>
 	<string id="Keith_name_gameplay">
-		<text>Kejt</text>
+		<text>Keith</text>
 	</string>
 	<string id="Messenger_name_gameplay">
-		<text>Kurir</text>
+		<text>Messenger</text>
 	</string>
 	<string id="Dock_name_gameplay">
-		<text>Dok</text>
+		<text>Dock</text>
 	</string>
 	<string id="Max_Gromov_name_gameplay">
-		<text>Maks Gromov</text>
+		<text>Max Gromov</text>
 	</string>
 	<string id="Shnyrov_name_gameplay">
-		<text>Šnirov</text>
+		<text>Shnyrov</text>
 	</string>
 	<string id="Stargazer_name_gameplay">
-		<text>Astrolog</text>
+		<text>Stargazer</text>
 	</string>
 	<string id="Proschaysolyankin_name_gameplay">
-		<text>Prošajsoljankin</text>
+		<text>Proschaysolyankin</text>
 	</string>
 	<string id="Shadow_of_Monolith_name_gameplay">
-		<text>Senka Monolita</text>
+		<text>Shadow of the Monolith</text>
 	</string>
 	<string id="All_name_gameplay">
-		<text>Svi</text>
+		<text>All</text>
 	</string>
 	<string id="Cyclops_name_gameplay">
-		<text>Kiklop</text>
+		<text>Cyclops</text>
 	</string>
 	<string id="Undead_name_gameplay">
-		<text>Živi Mrtvac</text>
+		<text>Undead</text>
 	</string>
 	<string id="Canine_name_gameplay">
-		<text>Kanin</text>
+		<text>Fang</text>
 	</string>
 	<string id="Bonecrusher_name_gameplay">
-		<text>Kostolomac</text>
+		<text>Bonecrusher</text>
 	</string>
 	<string id="Demobee_name_gameplay">
-		<text>Demobilisani</text>
+		<text>Demobee</text>
 	</string>
 	<string id="Monoroh_name_gameplay">
 		<text>Monoroh</text>
 	</string>
 	<string id="Bummer_name_gameplay">
-		<text>Bumbar</text>
+		<text>Bummer</text>
 	</string>
 	<string id="Spider_name_gameplay">
-		<text>Pauk</text>
+		<text>Spider</text>
 	</string>
 	<string id="Sergeant_Kostylnoga_name_gameplay">
-		<text>Narednik Kostonoga</text>
+		<text>Sergeant Kostylnoga</text>
 	</string>
 	<string id="Boss_name_gameplay">
-		<text>Gazda</text>
+		<text>Boss</text>
 	</string>
 	<string id="Ensign_Sidorenko_name_gameplay">
-		<text>Grba Sidorenko</text>
+		<text>Ensign Sidorenko</text>
 	</string>
 	<string id="Lieutenant_Vetroplyuev_name_gameplay">
-		<text>Poručnik Vetropirov</text>
+		<text>Lieutenant Vetroplyuev</text>
 	</string>
 	<string id="Sergeant_Marauders_name_gameplay">
-		<text>Narednik Maroder</text>
+		<text>Sergeant Marauder</text>
 	</string>
 	<string id="Lt_Beard_name_gameplay">
-		<text>Poručnik Bradonja</text>
+		<text>Lt. Beard</text>
 	</string>
 	<string id="Captain_Mosquito_name_gameplay">
-		<text>Kapetan Komarac</text>
+		<text>Captain Mosquito</text>
 	</string>
-	<string id="Connoisseur_of_Marshes_name_gameplay">
-		<text>Poznavalac Močvare</text>
-	</string>
+	<!--109999 string id="Connoisseur_of_Marshes_name_gameplay">
+		<text>Connoisseur of the Marshes</text>
+	</string-->
 	<string id="Hoary_name_gameplay">
-		<text>Snežni</text>
+		<text>Hoary</text>
 	</string>
 	<string id="Jerry_name_gameplay">
-		<text>Džeri</text>
+		<text>Jerry</text>
 	</string>
 	<string id="Solvador_name_gameplay">
-		<text>Salvador</text>
+		<text>Solvador</text>
 	</string>
 	<string id="Tutsan_name_gameplay">
-		<text>Tukan</text>
+		<text>Tutsan</text>
 	</string>
 	<string id="Smith_name_gameplay">
-		<text>Smit</text>
+		<text>Smith</text>
 	</string>
 	<string id="Kalter_name_gameplay">
 		<text>Kalter</text>
 	</string>
 	<string id="Black_Doctor_name_gameplay">
-		<text>Crni Doktor</text>
+		<text>Black Doctor</text>
 	</string>
 	<string id="Fyodor_Loviglyuk_name_gameplay">
-		<text>Fjodor Lovac</text>
+		<text>Fyodor Loviglyuk</text>
 	</string>
 	<string id="Boatswain_name_gameplay">
-		<text>Čamdžija</text>
+		<text>Boatswain</text>
 	</string>
 	<string id="Peregrine_name_gameplay">
-		<text>Peregrin</text>
+		<text>Peregrine</text>
 	</string>
 	<string id="Battalion_Commander_name_gameplay">
-		<text>Komandant Bataljona</text>
+		<text>Battalion Commander</text>
 	</string>
 	<string id="Poplar_name_gameplay">
-		<text>Topola</text>
+		<text>Poplar</text>
 	</string>
 	<string id="Mickey_name_gameplay">
-		<text>Miki</text>
+		<text>Mickey</text>
 	</string>
 	<string id="Hemul_name_gameplay">
 		<text>Hemul</text>
 	</string>
 	<string id="Chemist_name_gameplay">
-		<text>Hemičar</text>
+		<text>Chemist</text>
 	</string>
 	<string id="Handful_name_gameplay">
-		<text>Srećna Ruka</text>
+		<text>Handful</text>
 	</string>
 	<string id="Sniper_name_gameplay">
-		<text>Snajperist</text>
+		<text>Sniper</text>
 	</string>
 	<string id="Huron_name_gameplay">
-		<text>Indijanac</text>
+		<text>Huron</text>
 	</string>
 	<string id="Porutchik_Galitzine_name_gameplay">
-		<text>Poručni Galicin</text>
+		<text>Porutchik Galitzine</text>
 	</string>
 	<string id="Father_Panthers_name_gameplay">
-		<text>Panterin Otac</text>
+		<text>Father Panther</text>
 	</string>
 	<string id="Valerius_name_gameplay">
-		<text>Valerijus</text>
+		<text>Valerius</text>
 	</string>
 	<string id="Overlord_name_gameplay">
-		<text>Glavni Baja</text>
+		<text>Overlord</text>
 	</string>
 	<string id="Ruslan_Combat_name_gameplay">
-		<text>Ruslan Borac</text>
+		<text>Ruslan Combat</text>
 	</string>
 	<string id="ALEX_BOY_name_gameplay">
-		<text>ALEKS DEČKO</text>
+		<text>Alex Boy</text>
 	</string>
 	<string id="Sapsan_name_gameplay">
 		<text>Sapsan</text>
 	</string>
 	<string id="Stalker_Nest_name_gameplay">
-		<text>Stalkersko-Gnezdo</text>
+		<text>STALKER-Nest</text>
 	</string>
 	<string id="Corn_name_gameplay">
-		<text>Korn</text>
+		<text>Corn</text>
 	</string>
 	<string id="Sepator_name_gameplay">
-		<text>Separator</text>
+		<text>Sepator</text>
 	</string>
 	<string id="Major_Dad_name_gameplay">
-		<text>Major Dada</text>
+		<text>Major Dad</text>
 	</string>
 	<string id="Lightning_name_gameplay">
-		<text>Munja</text>
+		<text>Lightning</text>
 	</string>
 	<string id="Wanderer_name_gameplay">
-		<text>Lutalica</text>
+		<text>Wanderer</text>
 	</string>
 	<string id="Yuri_Semetsky_name_gameplay">
-		<text>Jurij Semetski</text>
+		<text>Yuri Semetsky</text>
 	</string>
 	<string id="Captured_by_goal_name_gameplay">
-		<text>Zarobljen s ciljem</text>
+		<text>Captured by the goal</text>
 	</string>
 	<string id="Forester_name_gameplay">
-		<text>Šumar</text>
+		<text>Forester</text>
 	</string>
 	<string id="Autofocus_Camera_ready_name_gameplay">
-		<text>Autofokus je konfigurisan. Kamera je spremna. Ukloni oružje iz FSM slota.</text>
+		<text>Autofocus is configured. Camera ready. Remove the weapon from the FSM slot.</text>
 	</string>
 	<string id="Black_Sea_name_gameplay">
-		<text>Crnomorski</text>
+		<text>Black Sea</text>
 	</string>
 	<string id="Captain_Sralamazalynsky_name_gameplay">
-		<text>Kapetan Šarlatanov</text>
+		<text>Captain Sralamazalynsky</text>
 	</string>
 	<string id="Nix_name_gameplay">
-		<text>Nik</text>
+		<text>Nix</text>
 	</string>
 	<string id="Sour_name_gameplay">
-		<text>Namćor</text>
+		<text>Sour</text>
 	</string>
 	<string id="Spiteful_name_gameplay">
-		<text>Pakosni</text>
+		<text>Spiteful</text>
 	</string>
 	<string id="Perfumer_name_gameplay">
-		<text>Parfemdžija</text>
+		<text>Perfumer</text>
 	</string>
 	<string id="Subject_Liquidator_name_gameplay">
-		<text>Likvidator</text>
+		<text>Subject Liquidator</text>
 	</string>
 	<string id="Hammer_name_gameplay">
-		<text>Hamer</text>
+		<text>Hammer</text>
 	</string>
 	<string id="Norman_name_gameplay">
 		<text>Norman</text>
 	</string>
 	<string id="Swoon_name_gameplay">
-		<text>Labud</text>
+		<text>Swoon</text>
 	</string>
 	<string id="Janis_name_gameplay">
-		<text>Dženis</text>
+		<text>Janis</text>
 	</string>
 	<string id="Head_of_area_name_gameplay">
-		<text>Glava Oblasti</text>
+		<text>Head of area</text>
 	</string>
 	<string id="Duda_name_gameplay">
 		<text>Duda</text>
 	</string>
 	<string id="Insane_Freedom_name_gameplay">
-		<text>Ludi Fridomovac S.T.A.L.K.E.R.</text>
+		<text>Insane Freedom STALKER</text>
 	</string>
 	<string id="Meccep_name_gameplay">
-		<text>Meser</text>
+		<text>Meccep</text>
 	</string>
 	<string id="Marsh_Doctor_name_gameplay">
-		<text>Blatni Doktor</text>
+		<text>Marsh Doctor</text>
 	</string>
 	<string id="The_Fly_name_gameplay">
-		<text>Muva</text>
+		<text>Fly</text>
 	</string>
 	<string id="Division_Captain_name_gameplay">
-		<text>'Agroprom' Kapetan Divizije</text> <!-- 'Agroprom' Division Captain -->
+		<text>'Agroprom' Division Captain</text>
 	</string>
 	<string id="Barkeep_name_gameplay">
-		<text>Barmen</text>
+		<text>Barkeep</text>
 	</string>
 	<string id="Cold_name_gameplay">
-		<text>Ledeni</text>
+		<text>Cold</text>
 	</string>
 	<string id="Kolmogorov_name_gameplay">
-		<text>Kolmogor</text>
+		<text>Kolmogorov</text>
 	</string>
 	<string id="Ara_name_gameplay">
 		<text>Ara</text>
 	</string>
 	<string id="Lech_Tambov_name_gameplay">
-		<text>Leh Tambov</text>
+		<text>Lech Tambov</text>
 	</string>
 	<string id="Osoznanie_name_gameplay">
-		<text>Spoznaja</text>
+		<text>Osoznanie</text>
 	</string>
 	<string id="Jack_name_gameplay">
-		<text>Džek</text>
+		<text>Jack</text>
 	</string>
 	<string id="Duty_Member_name_gameplay">
-		<text>Član Djutija</text>
+		<text>Duty Member</text>
 	</string>
 	<string id="Duty_Sniper_name_gameplay">
-		<text>Snajperista Djutija</text>
+		<text>Duty Sniper</text>
 	</string>
 	<string id="Duty_Veteran_name_gameplay">
-		<text>Veteran Dutija</text>
+		<text>Duty Veteran</text>
 	</string>
 	<string id="Duty_Master_name_gameplay">
-		<text>Majstor Djutija</text>
+		<text>Duty Master</text>
 	</string>
 	<string id="Skull_name_gameplay">
-		<text>Lobanja</text>
+		<text>Skull</text>
 	</string>
 	<string id="Pavlik_name_gameplay">
 		<text>Pavlik</text>
 	</string>
 	<string id="Scientific_Guard_name_gameplay">
-		<text>Čuvar Naučnika</text>
+		<text>Scientific Guard</text>
 	</string>
 	<string id="Mercenary_Leader_name_gameplay">
-		<text>Vođa Plaćenika</text>
+		<text>Mercenary Leader</text>
 	</string>
 	<string id="Mercenary_Sniper_name_gameplay">
-		<text>Snajper Plaćenika</text>
+		<text>Mercenary Sniper</text>
 	</string>
 	<string id="Elite_Mercenary_name_gameplay">
-		<text>Elitni Plaćenik</text>
+		<text>Elite Mercenary</text>
 	</string>
 	<string id="Mercenary_Master_name_gameplay">
-		<text>Majstor Plaćenika</text>
+		<text>Mercenary Master</text>
 	</string>
 	<string id="Monolith_Leader_name_gameplay">
-		<text>Vođa Monolita</text>
+		<text>Monolith Leader</text>
 	</string>
 	<string id="Monolith_Sniper_name_gameplay">
-		<text>Snajper Monolita</text>
+		<text>Monolith Sniper</text>
 	</string>
 	<string id="Monolith_Elite_name_gameplay">
-		<text>Elitni Monolit</text>
+		<text>Monolith Elite</text>
 	</string>
 	<string id="Monolith_Master_name_gameplay">
-		<text>Majstor Monolita</text>
+		<text>Monolith Master</text>
 	</string>
 	<string id="Monolith_Gauss_Sniper_name_gameplay">
-		<text>Gaus Snajper Monolita</text>
+		<text>Monolith Gauss Sniper</text>
 	</string>
 	<string id="Second_Command_name_gameplay">
-		<text>Drugi po komandi Monolita</text>
+		<text>Monolith Second-in-Command</text>
 	</string>
 	<string id="Third_Command_name_gameplay">
-		<text>Treći po komandi Monolita</text>
+		<text>Monolith Third-in-Command</text>
 	</string>
 	<string id="Commander_name_gameplay">
-		<text>Komandant</text>
+		<text>Commander</text>
 	</string>
 	<string id="Sniper_Soldier_name_gameplay">
-		<text>Vojni Snajperista</text>
+		<text>Sniper Soldier</text>
 	</string>
 	<string id="Spetsnaz_Soldier_name_gameplay">
-		<text>Specnaz Vojnik</text>
+		<text>Spetsnaz Soldier</text>
 	</string>
 	<string id="Elite_Soldier_name_gameplay">
-		<text>Elitni Vojnik</text>
+		<text>Elite Soldier</text>
 	</string>
 	<string id="S_Thug_name_gameplay">
-		<text>S.T.A.L.K.E.R. Davitelj</text>
+		<text>STALKER Thug</text>
 	</string>
 	<string id="Veteran_s_name_gameplay">
-		<text>S.T.A.L.K.E.R. Veteran</text>
+		<text>Veteran STALKER</text>
 	</string>
 	<string id="Master_s_name_gameplay">
-		<text>S.T.A.L.K.E.R. Majstor</text>
+		<text>Master STALKER</text>
 	</string>
 	<string id="Freedom_Member_name_gameplay">
-		<text>Član Fridoma</text>
+		<text>Freedom Member</text>
 	</string>
 	<string id="Kapets_name_gameplay">
 		<text>Kapets</text>
@@ -767,173 +771,170 @@
 		<text>Kep</text>
 	</string>
 	<string id="Zombified_s_name_gameplay">
-		<text>Zombified S.T.A.L.K.E.R.</text>
+		<text>Zombified STALKER</text>
 	</string>
 	<string id="The_undead_name_gameplay">
-		<text>Živi mrtvak</text> <!-- The undead -->
+		<text>The undead</text>
 	</string>
 	<string id="Patch_name_gameplay">
-		<text>Zakrpa</text>
+		<text>Patch</text>
 	</string>
 	<string id="Commander_Demogorgon_name_gameplay">
-		<text>Komandant Demogorgon</text>
+		<text>Commander Demogorgon</text>
 	</string>
 	<string id="Commander_Chernobog_name_gameplay">
-		<text>Komandant Černobog</text>
+		<text>Commander Chernobog</text>
 	</string>
 	<string id="Commander_Diabolos_name_gameplay">
-		<text>Komandant Dijabola</text>
+		<text>Commander Diabolos</text>
 	</string>
 	<string id="Commander_Sutekh_name_gameplay">
-		<text>Komandant Sutek</text>
+		<text>Commander Sutekh</text>
 	</string>
 	<string id="Commander_Crnobog_name_gameplay">
-		<text>Komandant Crnobog</text>
+		<text>Commander Crnobog</text>
 	</string>
 	<string id="Commander_Ahriman_name_gameplay">
-		<text>Komandant Ariman</text>
+		<text>Commander Ahriman</text>
 	</string>
 	<string id="John_name_gameplay">
-		<text>Džon</text>
+		<text>John</text>
 	</string>
 	<string id="Crocker_name_gameplay">
-		<text>Pokvarenjak</text>
+		<text>Crocker</text>
 	</string>
 	<string id="Nick_name_gameplay">
-		<text>Nik</text>
+		<text>Nick</text>
 	</string>
 	<string id="Haris_name_gameplay">
 		<text>Haris</text>
 	</string>
 	<string id="Morphine_name_gameplay">
-		<text>Morfin</text>
+		<text>Morphine</text>
 	</string>
 	<string id="Bland_name_gameplay">
-		<text>Blagi</text>
+		<text>Bland</text>
 	</string>
 	<string id="Oblique_name_gameplay">
-		<text>Lažov</text>
+		<text>Oblique</text>
 	</string>
 	<string id="Zondr_name_gameplay">
-		<text>Zondar</text>
+		<text>Zondr</text>
 	</string>
 	<string id="Sanya_Banderos_name_gameplay">
-		<text>Sanja Banderaš</text>
+		<text>Sanya Banderos</text>
 	</string>
 	<string id="Dimon_Bowl_Dimorin_name_gameplay">
-		<text>Dejmon Kugla Dimorin</text>
+		<text>Dimon Bowl Dimorin</text>
 	</string>
 	<string id="Eureka_moderator_n_name_gameplay">
-		<text>Eureka Moderator</text>
+		<text>Eureka moderator N</text>
 	</string>
 	<string id="Vova_Tirex_name_gameplay">
-		<text>Vova Tireks</text>
+		<text>Vova Tirex</text>
 	</string>
 	<string id="Zhenya_Snorkevich_name_gameplay">
-		<text>Ženja Snorkijevac</text>
+		<text>Zhenya Snorkevich</text>
 	</string>
 	<string id="Sanya_Vavka_name_gameplay">
-		<text>Sanja Vavika</text>
+		<text>Sanya Vavka</text>
 	</string>
 	<string id="Andrew_name_gameplay">
-		<text>Andrej</text>
+		<text>Andrew</text>
 	</string>
 	<string id="Erofeev_name_gameplay">
-		<text>Erotik</text>
+		<text>Erofeev</text>
 	</string>
 	<string id="Perun_name_gameplay">
 		<text>Perun</text>
 	</string>
 	<string id="Basil_name_gameplay">
-		<text>Bazil</text>
+		<text>Basil</text>
 	</string>
 	<string id="Lector_name_gameplay">
-		<text>Lektor</text>
+		<text>Lector</text>
 	</string>
 	<string id="Sahat_name_gameplay">
 		<text>Sahat</text>
 	</string>
 	<string id="Kashchei_name_gameplay">
-		<text>Kašai</text>
+		<text>Kashchei</text>
 	</string>
 	<string id="Experience_name_gameplay">
-		<text>Iskusni</text>
+		<text>Experience</text>
 	</string>
 	<string id="Brother_Louis_name_gameplay">
-		<text>Brat Luis</text>
+		<text>Brother Louis</text>
 	</string>
 	<string id="Frenchman_name_gameplay">
-		<text>Francuz</text>
+		<text>Frenchman</text>
 	</string>
 	<string id="Sanya_name_gameplay">
-		<text>Sanja</text>
+		<text>Sanya</text>
 	</string>
 	<string id="Freebie_name_gameplay">
-		<text>Slobodnjak</text>
+		<text>Freebie</text>
 	</string>
 	<string id="Chuck_name_gameplay">
-		<text>Čak</text>
+		<text>Chuck</text>
 	</string>
 	<string id="Huck_name_gameplay">
-		<text>Hak</text>
+		<text>Huck</text>
 	</string>
 	<string id="Joker_name_gameplay">
-		<text>Džoker</text>
+		<text>Joker</text>
 	</string>
 	<string id="Modest_name_gameplay">
-		<text>Skromni</text>
+		<text>Modest</text>
 	</string>
 	<string id="Rabinovich_name_gameplay">
-		<text>Rabinovič</text>
+		<text>Rabinovich</text>
 	</string>
 	<string id="Mitya_name_gameplay">
-		<text>Mitja</text>
+		<text>Mitya</text>
 	</string>
 	<string id="Denis_name_gameplay">
 		<text>Denis</text>
 	</string>
-	<string id="Zver_name_gameplay">
-		<text>Zver</text>
-	</string>
 	<string id="Gavr_name_gameplay">
-		<text>Gavra</text>
+		<text>Gavr</text>
 	</string>
 	<string id="Croker_name_gameplay">
-		<text>Pokvarenjak</text>
+		<text>Croker</text>
 	</string>
 	<string id="Harris_name_gameplay">
-		<text>Haris</text>
+		<text>Harris</text>
 	</string>
 	<string id="Ivaschenko_name_gameplay">
-		<text>Ivašenko</text>
+		<text>Ivaschenko</text>
 	</string>
 	<string id="Sysh_name_gameplay">
-		<text>Šiš</text>
+		<text>Sysh</text>
 	</string>
 	<string id="Banderos_name_gameplay">
-		<text>Banderaš</text>
+		<text>Banderos</text>
 	</string>
 	<string id="Dimorin_name_gameplay">
 		<text>Dimorin</text>
 	</string>
 	<string id="N_name_gameplay">
 		<!-- potrebno preveriti -->
-		<text>N</text>
+		<text>'N'</text>
 	</string>
 	<string id="Vergas_name_gameplay">
 		<text>Vergas</text>
 	</string>
 	<string id="Tirex_name_gameplay">
-		<text>Tireks</text>
+		<text>Tirex</text>
 	</string>
 	<string id="Wawka_name_gameplay">
-		<text>Vavika</text>
+		<text>Wawka</text>
 	</string>
 	<string id="Andrey_name_gameplay">
-		<text>Andrej</text>
+		<text>Andrey</text>
 	</string>
 	<string id="Gray_name_gameplay">
-		<text>Sivi</text>
+		<text>Gray</text>
 	</string>
 	<string id="Semenov_name_gameplay">
 		<text>Semenov</text>
@@ -942,40 +943,40 @@
 		<text>Kosoi</text>
 	</string>
 	<string id="Tweed_name_gameplay">
-		<text>Tvid</text>
+		<text>Tweed</text>
 	</string>
 	<string id="glavny_name_gameplay">
-		<text>Glavni</text> <!-- Glavny -->
+		<text>Glavny</text>
 	</string>
 	<string id="Karina_name_gameplay">
 		<text>Karina</text>
 	</string>
 	<string id="liza_name_gameplay">
-		<text>Liza</text> <!-- sadd? -->
+		<text>Liza</text>
 	</string>
 	<string id="afanasyev_name_gameplay">
-		<text>Afanasyev</text> <!-- sadd? -->
+		<text>Afanasyev</text>
 	</string>
 	<string id="obmorok_name_gameplay">
-		<text>Obmorok</text> <!-- sadd? -->
+		<text>Obmorok</text>
 	</string>
 	<string id="karatel_name_gameplay">
-		<text>Karatel</text> <!-- sadd? -->
+		<text>Karatel</text>
 	</string>
 	<string id="zika11_name_gameplay">
-		<text>Zika</text> <!-- sadd? -->
+		<text>Zika</text>
 	</string>
 	<string id="Leskinov_name_gameplay">
 		<text>Leskinov</text>
 	</string>
 	<string id="Formidable_name_gameplay">
-		<text>Grozni</text>
+		<text>Formidable</text>
 	</string>
 	<string id="Pavel_Sergeevich_name_gameplay">
-		<text>Pavel Sergejevič</text>
+		<text>Pavel Sergeevich</text>
 	</string>
 	<string id="Kombat_name_gameplay">
-		<text>Borac</text>
+		<text>Kombat</text>
 	</string>
 	<string id="N6260_name_gameplay">
 		<text>N6260</text>
@@ -984,63 +985,62 @@
 		<text>Eureka moderator N6260</text>
 	</string>
 	<string id="Unknown_Sniper_name_gameplay">
-		<text>Nepoznati Snajperista</text>
+		<text>Unknown Sniper</text>
 	</string>
 	<string id="Unknown_Rookie_name_gameplay">
-		<text>Nepoznati Početnik</text>
+		<text>Unknown Rookie</text>
 	</string>
 	<string id="Unknown_Soldier_name_gameplay">
-		<text>Nepoznati Vojnik</text>
+		<text>Unknown Soldier</text>
 	</string>
 	<string id="Unknown_Monolith_name_gameplay">
-		<text>Nepoznati Monolit</text>
+		<text>Unknown Monolith</text>
 	</string>
 	<string id="Unknown_Mercenary_name_gameplay">
-		<text>Nepoznati Plaćenik</text>
+		<text>Unknown Mercenary</text>
 	</string>
 	<string id="Unknown_Scientist_name_gameplay">
-		<text>Nepoznati Naučnik</text>
+		<text>Unknown Scientist</text>
 	</string>
 	<string id="Unknown_Corpse_name_gameplay">
-		<text>Nepoznati Leš</text>
+		<text>Unknown Corpse</text>
 	</string>
 	<string id="Unknown_Bandit_name_gameplay">
-		<text>Nepoznati Bandit</text>
+		<text>Unknown Bandit</text>
 	</string>
 	<!-- Encyclopedia infos aleks1970 -->
 	<string id="Groza_TTX_encyclopedia_gameplay">
-		<text>Groza\n\n TTX:\nDomet - 600M\nKapacitet okvira: 20 metaka</text>
+		<text>Groza\n\nTTX:\nRange - 600M\nMagazine capacity: 20 bullets</text>
 	</string>
 	<string id="SVU_Sniper_rifle_encyclopedia_gameplay">
-		<text>SVU: Snajperska puška\n\n TTX:\nDomet - 2000M\nKapacitet okvira: 10 metaka</text>
+		<text>SVU: Sniper rifle\n\nTTX:\nRange - 2000M\nMagazine capacity: 10 bullets</text>
 	</string>
 	<string id="PM_Pistolet_Makarova_encyclopedia_gameplay">
-		<text>PM: Pištolj Makarov\n\n TTX:\nRange - 100M\nKapacitet okvira: 7 metaka</text>
+		<text>PM: Pistolet Makarova\n\nTTX:\nRange - 100M\nMagazine capacity: 7 bullets</text>
 	</string>
 	<string id="Zombies_are_very_angry_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\ntheir Arms and Jaws are very powerful.</text>
 	</string>
 	<string id="Pseudo_dogs_is_evil_encyclopedia_gameplay">
-		<text>Pseudo psi su vrlo zli\npolu mrtvi psi sa ogromnim\nvilicam :)</text>
+		<text>Pseudo-dogs are very evil\nsemi-dead dogs with huge\nmouths :)</text>
 	</string>
 	<string id="manually_define_map_spots_encyclopedia_gameplay">
-		<text>Možeš ručno markirati tačke na mapi kako bi označio neko mesto</text>
+		<text>You can manually define map spots on your map to mark key places.</text>
 	</string>
 	<string id="Zombies_are_very_angry_2_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\nthey have a mean strike.</text>
 	</string>
 	<string id="Zombies_are_very_angry_3_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\nthey have a mean strike.</text>
 	</string>
 	<string id="Zombies_are_very_angry_4_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\nthey have a mean strike.</text>
 	</string>
-	<!-- sadd? --> <!-- Potrebna provjerba dolje -->
 	<string id="bartender_bio">
 		<text>A very successful trader and the proprietor of the 100*Rads bar in Rostok, the Barkeep enjoys respect and influence in the Zone. He cooperates with Sidorovich in a mutual bid to open the roads to the center of the Zone. According to him, he used to own a restaurant back in the Ukraine where he was constantly harassed by the mob for protection rackets back in 1994. He has a personal vendetta against the same mob who previously extorted him, since they now have an operation in the Zone selling Artefacts to the outside world, and is on a mission to wipe them out - they are residing at the Agroprom Research Institute.</text>
 	</string>
 	<string id="sakharov_bio">
-		<text>Sakharov has been studying the Zone ever since the first Research Laboratories were set up on its perimeter in 2007. He is a professor of genetics, but dabbles in pretty much every Scientific field his Zone research encompasses.</text>
+		<text>Sakharov has been studying the Zone ever since the first Research Laboratories were set up on it's perimeter in 2007. He is a professor of genetics, but dabbles in pretty much every Scientific field his Zone research encompasses.</text>
 	</string>
 	<string id="final_shaxter_bio">
 		<text>A reclusive STALKER from the Freedom Faction living in exile inside the Caves. Nobody knows why he has remained here in the dark so long, and he refuses to talk about it. A strange, helpful fellow that keeps to himself, and offers good advice when needed.</text>
@@ -1054,6 +1054,7 @@
 	<string id="final_unknown_bio">
 		<text>Skilled STALKER.. No further information available.</text>
 	</string>
+	<string id="exp_stalker_known_bio">
+		<text>Experienced stalker. Detailed information is available somewhere.</text>
+	</string>
 </string_table>
-<!-- Preveo i prilagodio Coolkingeye -=- 14:30 31.12.2014 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 17:17 -sadd -->

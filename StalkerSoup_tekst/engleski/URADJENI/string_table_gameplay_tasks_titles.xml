@@ -1,807 +1,822 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.7  StalkerSoup game tasks - titles aleks1970 -->
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.0.9.9.9.9  StalkerSoup game tasks - titles aleks1970, boatswain, minor spelling,
+ corrected "<string id=" section with "Artefact" back to the "artifact" - aleks1970, Get_Night, seal -->
 <string_table>
 	<string id="Find_Cache_gameplay_titles">
-		<text>Pronađi štek</text>
+		<text>Find Cache</text>
 	</string>
 	<string id="Find_cache_Garbage_gameplay_titles">
-		<text>Pronađi štek u Deponiji</text>
+		<text>Find the cache at the Garbage</text>
 	</string>
 	<string id="Find_cache_Agroprom_gameplay_titles">
-		<text>Pronađi štek u Agropromu</text>
+		<text>Find the cache in Agroprom</text>
 	</string>
 	<string id="Find_stash_Yantar_gameplay_titles">
-		<text>Pronađi štek u Jantaru</text>
+		<text>Find the stash in Yantar</text>
 	</string>
 	<string id="Find_cache_Warehouses_gameplay_titles">
-		<text>Pronađi štek u Vojnim Skladištima</text>
+		<text>Find the cache in the Army Warehouses</text>
 	</string>
 	<string id="Find_cache_Radar_gameplay_titles">
-		<text>Pronađi štek u Radaru</text>
+		<text>Find the cache in the Radar</text>
 	</string>
 	<string id="Find_stash_Pripyat_gameplay_titles">
-		<text>Pronađi štek u Pripjatu</text>
+		<text>Find the stash in Pripyat</text>
 	</string>
 	<string id="Talk_to_Kostya_gameplay_titles">
-		<text>Pričaj sa Kostjom</text>
+		<text>Talk to Kostya</text>
 	</string>
 	<string id="Deliver_ammunition_gameplay_titles">
-		<text>Isporuči municiju</text>
+		<text>Deliver the ammunition</text>
 	</string>
 	<string id="title_gameplay_titles">
-		<text>naslov</text>
+		<text>title</text>
 	</string>
 	<string id="ten_Zombie_Akim_gameplay_titles">
-		<text>Donesi deset ruku Zombija Akimu</text>
+		<text>Bring ten Zombie hands to Akim</text>
 	</string>
 	<string id="Old_documents_1_Akim_gameplay_titles">
-		<text>Donesi stare dokumente br. 1 za Akima</text>
+		<text>Bring the Old documents 1 for Akim</text>
 	</string>
 	<string id="Old_documents_2_Akim_gameplay_titles">
-		<text>Donesi stare dokumente br. 2 za Akima</text>
+		<text>Bring the Old documents 2 to Akim</text>
 	</string>
 	<string id="Old_documents_3_Akim_gameplay_titles">
-		<text>Donesi stare dokumente br. 3 za Akima</text>
+		<text>Bring the Old documents 3 to Akim</text>
 	</string>
 	<string id="Old_documents_PDA_Akim_gameplay_titles">
-		<text>Donesi stare dokumente br. 4, odela i PDA za Akima</text>
+		<text>Bring the Old documents 4 suits and PDA to Akim</text>
 	</string>
 	<string id="Every_creature_side_gameplay_titles">
-		<text>Svako stvorenje na strani</text>
+		<text>Every creature on the side</text>
 	</string>
 	<string id="Bring_fifteen_Crest_gameplay_titles">
-		<text>Donesi petnaest artefakata Krestu</text>
+		<text>Bring fifteen Artefacts to Crest</text>
 	</string>
 	<string id="Bring_Bison_Crest_gameplay_titles">
-		<text>Donesi šest anomaličnih automata Bison za Kresta</text>
+		<text>Bring six Bison anomalies to Crest</text>
 	</string>
 	<string id="Bring_URT_Crest_gameplay_titles">
-		<text>Donesi URT za Kresta</text>
+		<text>Bring URT to Crest</text>
 	</string>
 	<string id="Find_fix_Flamethrower_gameplay_titles">
-		<text>Pronađi predmete potrebne za popravku bacača plamena</text>
+		<text>Find items needed to fix the Flamethrower</text>
 	</string>
 	<string id="Find_Goldfish_gameplay_titles">
-		<text>Pronađi Zlatnu Ribu</text>
+		<text>Find the Goldfish</text>
 	</string>
 	<string id="Find_Artifact_gameplay_titles">
-		<text>Pronađi Artefakt</text>
+		<text>Find Artefact</text>
 	</string>
 	<string id="hiding_place_Lab_X_18_gameplay_titles">
-		<text>Pronađi mesto za skrivanje u laboratoriji X-18</text>
+		<text>Find a hiding place in the laboratory X-18</text>
 	</string>
 	<string id="hiding_place_Lab_X_10_gameplay_titles">
-		<text>Pronađi mesto za skrivanje u laboratoriji X-10</text>
+		<text>Find the hiding place in Lab X-10</text>
 	</string>
 	<string id="Talk_to_Sakharov_gameplay_titles">
-		<text>Razgovaraj sa Saharovom</text>
+		<text>Talk to Sakharov</text>
 	</string>
 	<string id="PDA_of_Vasiliev_gameplay_titles">
-		<text>Pronađi PDA od Vasilieva</text>
+		<text>Find the PDA of Vasiliev</text>
 	</string>
 	<string id="Find_Battery_artifact_gameplay_titles">
-		<text>Pronađi Artefakt Baterija</text>
+		<text>Find the Battery Artefact</text>
 	</string>
 	<string id="box_for_Bartender_gameplay_titles">
-		<text>Odnesi sanduk Barmenu</text>
+		<text>Transfer box for Bartender</text>
 	</string>
 	<string id="My_map_task_gameplay_titles">
-		<text>Mapa mojih zadataka</text>
+		<text>My map task</text>
 	</string>
 	<string id="Deliver_dynamite_to_Lukas_gameplay_titles">
-		<text>Isporuči dinamit Lukašu</text>
+		<text>Deliver dynamite to Lukas</text>
 	</string>
 	<string id="Find_Documents_for_Voronin_gameplay_titles">
-		<text>Pronađi dokumente za Voronjina</text>
+		<text>Find Documents for Voronin</text>
 	</string>
 	<string id="documents_in_Agroprom_Sakharov_gameplay_titles">
-		<text>Pronađi dokumene u Agropromu za Saharova</text>
+		<text>Find documents in Agroprom for Sakharov</text>
 	</string>
 	<string id="Glass_Beads_for_Sakharov_gameplay_titles">
-		<text>Pronađi Školjkaste Perle za Saharova</text>
+		<text>Find the Dummy Glass Beads for Sakharov</text>
 	</string>
 	<string id="Find_PlayBoy_gameplay_titles">
-		<text>Pronađi PlejBoj</text>
+		<text>Find PlayBoy</text>
 	</string>
 	<string id="Pass_the_grenade_gameplay_titles">
-		<text>Prosledi granatu!</text>
+		<text>Pass the grenade!</text>
 	</string>
 	<string id="Collect_scientific_records_gameplay_titles">
-		<text>Prikupi naučničke zapise</text>
+		<text>Collect scientific records</text>
 	</string>
 	<string id="Find_the_unique_artifact_gameplay_titles">
-		<text>Pronađi jedinstveni artefakt</text>
+		<text>Find the unique Artefact</text>
 	</string>
 	<string id="Pass_Sid_the_artifact_gameplay_titles">
-		<text>Prosledi Sidoroviču artefakt</text>
+		<text>Pass Sid the Artefact</text>
 	</string>
 	<string id="Return_lost_device_gameplay_titles">
-		<text>Vrati izgubljenu spravu</text>
+		<text>Return the lost device</text>
 	</string>
 	<string id="Pass_the_new_armor_gameplay_titles">
-		<text>Prosledi novo odelo</text>
+		<text>Pass the new Armor</text>
 	</string>
 	<string id="Drag_safe_gameplay_titles">
-		<text>Dovuci sef</text>
+		<text>Drag safe</text>
 	</string>
 	<string id="Bring_Goldfish_gameplay_titles">
-		<text>Donesi Zlatnu Ribu</text>
+		<text>Bring a Goldfish</text>
 	</string>
 	<string id="box_of_tools_for_Sidorovich_gameplay_titles">
-		<text>Donesi sanduk sa alatom za Sidoroviča</text>
+		<text>Bring the box of tools for Sidorovich</text>
 	</string>
 	<string id="Exchange_the_artifact_gameplay_titles">
-		<text>Razmeni artefakt</text>
+		<text>Exchange the Artefact</text>
 	</string>
 	<string id="Bring_Flash_artifact_gameplay_titles">
-		<text>Donesi artefakt Bljesak</text>
+		<text>Bring an Flash Artefact</text>
 	</string>
 	<string id="Return_Gauss_Pistol_prototype_gameplay_titles">
-		<text>Vrati prototip Gaus-Pištolja</text>
+		<text>Return Gauss-Pistol prototype</text>
 	</string>
 	<string id="Return_the_lost_PDA_gameplay_titles">
-		<text>Vrati izgubljen PDA</text> <!-- Return the lost PDA -->
+		<text>Return the lost PDA</text>
 	</string>
 	<string id="Get_the_unlawful_order_gameplay_titles">
-		<text>Primi nezakonito naređenje od Komande</text>
+		<text>Get the unlawful order by command</text>
 	</string>
 	<string id="Assemble_the_monster_parts_gameplay_titles">
-		<text>Prikupi delove čudovišta</text>
+		<text>Assemble the monster parts</text>
 	</string>
 	<string id="Deliver_munitions_gameplay_titles">
-		<text>Isporuči municiju</text>
+		<text>Deliver munitions</text>
 	</string>
 	<string id="Bring_bag_of_Plans_gameplay_titles">
-		<text>Donesi vreću sa korovom</text>
+		<text>Bring the bag of Plans</text>
 	</string>
 	<string id="Bring_container_from_Sidorovich_gameplay_titles">
-		<text>Donesi kontejner od Sidoroviča</text>
+		<text>Bring container from Sidorovich</text>
 	</string>
 	<string id="Find_unique_suits_gameplay_titles">
-		<text>Pronađi unikatna odela</text>
+		<text>Find unique suits</text>
 	</string>
 	<string id="Find_Moles_lost_PDA_gameplay_titles">
-		<text>Pronađi izgubljeni PDA za Krticu</text>
+		<text>Find Moles lost PDA</text>
 	</string>
 	<string id="the_unusual_artifact_to_Plichko_gameplay_titles">
-		<text>Donesi Pličku neobični artefakt</text>
+		<text>Bring the unusual Artefact to Plichko</text>
 	</string>
 	<string id="Bring_five_tails_Prapor_gameplay_titles">
-		<text>Donesi Praporu pet repova</text>
+		<text>Bring five tails to Prapor</text>
 	</string>
 	<string id="Bring_Bloodsucker_Tentacles_Prapor_gameplay_titles">
-		<text>Donesi Praporu pipke Krvopije</text>
+		<text>Bring Bloodsucker Tentacles to Prapor</text>
 	</string>
 	<string id="Bring_Prapor_four_Flesh_Eyes_gameplay_titles">
-		<text>Donesi Praporu četiri oka od Mesine</text>
+		<text>Bring Prapor four Flesh Eyes</text>
 	</string>
 	<string id="Find_Demons_vest_gameplay_titles">
-		<text>Pronađi Demonovo odelo</text>
+		<text>Find Demons vest</text>
 	</string>
 	<string id="Get_Yurek_a_Burer_Paw_gameplay_titles">
-		<text>Donesi Juriku Burerovu šaku</text>
+		<text>Get Yurek a Burer Paw</text>
 	</string>
 	<string id="Get_MP_5_for_Yurek_gameplay_titles">
-		<text>Donesi modifikovani MP-5 za Jurika</text>
+		<text>Get modified MP-5 for Yurek</text>
 	</string>
 	<string id="ten_kits_to_Fox_gameplay_titles">
-		<text>Donesi deset medkita za Lisca</text>
+		<text>Bring ten kits to Fox</text>
 	</string>
 	<string id="ten_bottles_of_vodka_to_Kuznet_gameplay_titles">
-		<text>Donesi deset flaša vodke za Kuznjecova</text>
+		<text>Bring ten bottles of vodka to Kuznet</text>
 	</string>
 	<string id="Find_an_Medusa_artifact_gameplay_titles">
-		<text>Pronađi artefakt Meduza</text>
+		<text>Find an Medusa Artefact</text>
 	</string>
 	<string id="Find_TOZ_for_Petruha_gameplay_titles">
-		<text>Pronađu sačmaru TOZ za Petruhu</text>
+		<text>Find TOZ for Petruha</text>
 	</string>
 	<string id="Find_five_tails_for_Tolik_gameplay_titles">
-		<text>Pronađi pet repova za Tolika</text>
+		<text>Find five tails for Tolik</text>
 	</string>
 	<string id="Bring_radio_station_gameplay_titles">
-		<text>Donesi radio stanicu</text>
+		<text>Bring radio station</text>
 	</string>
 	<string id="Find_the_lost_document_gameplay_titles">
-		<text>Pronađi izgubljeni dokument</text>
+		<text>Find the lost document</text>
 	</string>
 	<string id="Find_Explorers_weapons_gameplay_titles">
-		<text>Pronađi oružja Istraživača</text>
+		<text>Find Explorers weapons</text>
 	</string>
 	<string id="Find_Ruby_Film_artifact_gameplay_titles">
-		<text>Pronađi artefakt Rubinski Film</text>
+		<text>Find the Ruby Film Artefact</text>
 	</string>
 	<string id="Find_Ruby_Battery_artifact_gameplay_titles">
-		<text>Pronađi artefakt Rubinska Baterija</text>
+		<text>Find Ruby Battery Artefact</text>
 	</string>
 	<string id="Find_Ruby_Spring_artifact_gameplay_titles">
-		<text>Pronađi artefakt Rubinski Feder</text>
+		<text>Find Ruby Spring Artefact</text>
 	</string>
 	<string id="Find_computer_in_Pripyat_gameplay_titles">
-		<text>Pronađi kompjuter u Pripjatu</text>
+		<text>Find computer in Pripyat</text>
 	</string>
 	<string id="Find_Ambers_Laptop_gameplay_titles">
-		<text>Pronađi Ambersov Lap-top</text>
+		<text>Find Ambers Laptop</text>
 	</string>
 	<string id="Find_the_Laptop_gameplay_titles">
-		<text>Pronađi Lap-top</text>
+		<text>Find the Laptop</text>
 	</string>
 	<string id="Collect_ten_Tushkan_heads_gameplay_titles">
-		<text>Sakupi deset glava Skočimiša</text>
+		<text>Collect ten Tushkano heads</text>
 	</string>
 	<string id="bring_Playboy_gameplay_titles">
-		<text>Donesi PlejBoj</text>
+		<text>Bring PlayBoy</text>
 	</string>
 	<string id="Collect_seven_Chimera_Claws_gameplay_titles">
-		<text>Sakupi sedam kandži od Himere</text>
+		<text>Collect seven Chimera Claws</text>
 	</string>
 	<string id="Deliver_the_device_gameplay_titles">
-		<text>Isporuči uređaj</text>
+		<text>Deliver the device</text>
 	</string>
 	<string id="Find_Docs_dog_gameplay_titles">
-		<text>Pronađi doktorovog psa</text>
+		<text>Find Docs dog</text>
 	</string>
 	<string id="Find_Emerald_Medusa_gameplay_titles">
-		<text>Pronađi Emeraldnu Meduzu</text>
+		<text>Find Emerald Medusa</text>
 	</string>
 	<string id="Find_Arrows_PDA_gameplay_titles">
-		<text>Pronađi Strelokov PDA</text>
+		<text>Find Arrows PDA</text>
 	</string>
 	<string id="Find_the_scientist_stick_gameplay_titles">
-		<text>Pronađi stik od naučnika</text>
+		<text>Find the scientist stick</text>
 	</string>
 	<string id="Find_the_container_with_artifact_gameplay_titles">
-		<text>Pronađi kontejner sa artefaktom</text>
+		<text>Find the container with the Artefact</text>
 	</string>
 	<string id="Install_the_device_gameplay_titles">
-		<text>Instaliraj spravu</text>
+		<text>Install the device</text>
 	</string>
 	<string id="Determine_the_recipe_gameplay_titles">
-		<text>Rastumači recept</text>
+		<text>Determine the recipe</text>
 	</string>
 	<string id="Gather_Controllers_Hand_and_30_PDAs_gameplay_titles">
-		<text>Sakupi ruku Kontrolera i 30 vojnih PDA</text>
+		<text>Gather Controllers Hand and 30 MIL PDAs</text>
 	</string>
 	<string id="Gather_supplies_2_Pseudogiant_Hands_gameplay_titles">
-		<text>Sakupi namirnice i 2 ruke Pseudo Giganta</text>
+		<text>Gather supplies and 2 Pseudogiant Hands</text>
 	</string>
 	<string id="Gather_supplies_Bloodsucker_Tentacles_gameplay_titles">
-		<text>Sakupi namirnice i pipke Krvopije</text>
+		<text>Gather supplies and Bloodsucker Tentacles</text>
 	</string>
 	<string id="Take_away_Krysyuks_PDA_gameplay_titles">
-		<text>Uzmi PDA od Pacova</text>
+		<text>Take away the PDA of Krysyuk</text>
 	</string>
 	<string id="Bring_vodka_to_Sherstyuk_gameplay_titles">
-		<text>Donesi vodku za Šerstjuka</text>
+		<text>Bring vodka to Sherstyuk</text>
 	</string>
 	<string id="Check_the_helicopter_crash_gameplay_titles">
-		<text>Proveri mesto pada helikoptera</text>
+		<text>Check the helicopter crash</text>
 	</string>
 	<string id="Bring_Ghost_PDA_to_Sakharov_gameplay_titles">
-		<text>Donesi Duho PDA Saharovu</text>
+		<text>Bring Ghost PDA to Sakharov</text>
 	</string>
 	<string id="Find_Krysyukas_PDA_gameplay_titles">
-		<text>Pronađi PDA od Pacova</text>
+		<text>Find the PDA of Krysyuk</text>
 	</string>
 	<string id="Deliver_the_Playboy_magazines_gameplay_titles">
-		<text>Isporuči PlejBoj časopise</text>
+		<text>Deliver the Playboy magazines</text>
 	</string>
 	<string id="Deliver_the_Radio_gameplay_titles">
-		<text>Ispopruči radio</text>
+		<text>Deliver the Radio</text>
 	</string>
 	<string id="Find_Dan_10_cans_beer_gameplay_titles">
-		<text>Pronađi Denu 10 limenki piva</text>
+		<text>Find Dan 10 cans of beer</text>
 	</string>
 	<string id="Bring_Dan_BM_16_gameplay_titles">
-		<text>Donesi Denu BM-16</text>
+		<text>Bring Dan a BM-16</text>
 	</string>
 	<string id="Bring_minigun_for_Adrenalin_gameplay_titles">
-		<text>Donesi mitraljez za Adrenalina</text>
+		<text>Bring mini-gun for Adrenalin</text>
 	</string>
 	<string id="Find_the_military_subject_gameplay_titles">
-		<text>Pronađi vojni predmet</text>
+		<text>Find the military subject</text>
 	</string>
 	<string id="Find_the_Camouflage_Exoskeleton_gameplay_titles">
-		<text>Prinađi maskirni egzo-skeleton</text>
+		<text>Find the Camouflage Exoskeleton</text>
 	</string>
 	<string id="Find_vise_for_Screw_gameplay_titles">
-		<text>Pronađi mengele za Šrafa</text>
+		<text>Find Vise for Screw</text>
 	</string>
 	<string id="Antizombin_gameplay_titles">
 		<text>Antizombin</text>
 	</string>
 	<string id="Find_Controller_brain_Lukas_gameplay_titles">
-		<text>Pronađi mozak Kontrolera za Lukaša</text>
+		<text>Find Controller brain for Lukas</text>
 	</string>
 	<string id="Find_disk_for_Adrenalin_gameplay_titles">
-		<text>Pronađi disk za Adrenalina</text>
+		<text>Find disk for Adrenalin</text>
 	</string>
 	<string id="Locate_bag_south_of_Chernobyl_gameplay_titles">
-		<text>Lociraj vreću južno od Černobila</text>
+		<text>Locate bag in the south of Chernobyl</text>
 	</string>
 	<string id="Find_lost_Bolotny_locket_gameplay_titles">
-		<text>Pronađi doktorov izgubljeni medaljon</text>
+		<text>Find the lost Bolotany locket</text>
 	</string>
 	<string id="Find_crow_eggs_cook_gameplay_titles">
-		<text>Pronađi vranina jaja za kuvara</text>
+		<text>Find the crow eggs for cook</text>
 	</string>
 	<string id="Bring_medicine_Akim_gameplay_titles">
-		<text>Donesi medicinu za Akima</text>
+		<text>Bring medicine to Akim</text>
 	</string>
 	<string id="Find_flashlights_for_Miner_gameplay_titles">
-		<text>Pronađi dve baterijske lampe za Rudara</text>
+		<text>Find two flashlights for Miner</text>
 	</string>
 	<string id="Get_the_Rubik_cube_gameplay_titles">
-		<text>Pronađi Rubikovu kocku</text>
+		<text>Get the Rubik cube</text>
 	</string>
 	<string id="Find_book_for_Miner_gameplay_titles">
-		<text>Pronađi knjigu za Rudara</text>
+		<text>Find the book for Miner</text>
 	</string>
 	<string id="Find_Treasure_in_Cave_gameplay_titles">
-		<text>Pronađi blago u Pećini</text>
+		<text>Find the Treasure in the Cave</text>
 	</string>
 	<string id="Controller_Scalp_Artifact_for_Miner_gameplay_titles">
-		<text>Pronađi artefakt Skalp Kontrolera za Rudara</text>
+		<text>Get Controller Scalp Artefact for Miner</text>
 	</string>
 	<string id="Find_the_flask_for_Petrenko_gameplay_titles">
-		<text>Pronađi čuturicu za Petrenka</text>
+		<text>Find the flask for Petrenko</text>
 	</string>
 	<string id="Find_Products_artifacts_money_gameplay_titles">
-		<text>Pronađi proizvode, artefakte i novac</text>
+		<text>Find Products, Artefacts and money</text>
 	</string>
 	<string id="Get_thermoses_for_Voronin_gameplay_titles">
-		<text>Pronađi termose za Voronjina</text>
+		<text>Get Thermoses for Voronin</text>
 	</string>
 	<string id="Cigarettes_for_Garik_gameplay_titles">
-		<text>Cigarete za Garika</text>
+		<text>Cigarettes for Garik</text>
 	</string>
 	<string id="Get_Repair_Kits_gameplay_titles">
-		<text>Pronađi setove za popravku</text>
+		<text>Get Repair Kits</text>
 	</string>
 	<string id="Find_computer_videorecorder_gameplay_titles">
-		<text>Pronađi kompjuter i videorekorder</text>
+		<text>Find computer and video recorder</text>
 	</string>
 	<string id="Meet_environmentalists_up_phone_gameplay_titles">
-		<text>Susretni ekologe i pokupi telefon</text>
+		<text>Meet environmentalists and pick up the phone</text>
 	</string>
 	<string id="Get_Storm_to_Defend_Bar_gameplay_titles">
-		<text>Uzmi pušku Storm da bi odbranio Bar</text>
+		<text>Get a Storm to Defend the Bar</text>
 	</string>
 	<string id="Repel_attack_destroy_Humpback_gameplay_titles">
-		<text>Odbij napad i uništi Grbinu grupu</text>
+		<text>Repel the attack and destroy the Humpback</text>
 	</string>
 	<string id="Help_stalkers_kill_the_leader_bandits_gameplay_titles">
-		<text>Pomozi stalkerima da ubiju vođu bandita</text>
+		<text>Help stalkers kill the leader of the bandits</text>
 	</string>
 	<string id="Meet_the_courier_and_pick_information_gameplay_titles">
-		<text>Sretni se sa kurirom i pokupi informaciju</text>
+		<text>Meet the courier and pick up information</text>
 	</string>
 	<string id="Get_the_sniper_AWP_Iglomet_gameplay_titles">
-		<text>Nabavi snajper AWP Iglomet</text>
+		<text>Get the sniper an AWP Iglomet</text>
 	</string>
 	<string id="Destroy_Armored_Special_Forces_gameplay_titles">
-		<text>Uništi oklopnjake i Specijalne snage</text>
+		<text>Destroy the Armored and Special Forces</text>
 	</string>
 	<string id="Learn_the_code_to_castle_gameplay_titles">
-		<text>Saznaj kod za ulazak u dvorac</text>
+		<text>Learn the code to the castle</text>
 	</string>
 	<string id="Find_Fima_ordered_items_gameplay_titles">
-		<text>Pronađi predmete koje je Fima naručio</text>
+		<text>Find Fima the ordered items</text>
 	</string>
 	<string id="Find_box_and_safe_gameplay_titles">
-		<text>Pronađi kutiju i sef</text>
+		<text>Find box and safe</text>
 	</string>
 	<string id="Learn_the_code_gameplay_titles">
-		<text>Saznaj kod</text>
+		<text>Learn the code</text>
 	</string>
 	<string id="Learn_about_Amulet_gameplay_titles">
-		<text>Saznaj informacije o Amajliji</text>
+		<text>Learn about Amulet</text>
 	</string>
 	<string id="Learn_about_the_box_fallen_from_helicopter_gameplay_titles">
-		<text>Saznaj gde je sanduk koji je ispao iz helikoptera</text>
+		<text>Learn about the box that had fallen from the helicopter</text>
 	</string>
 	<string id="Learn_about_Medikam_gameplay_titles">
-		<text>Sazna za medikamente</text>
+		<text>Learn about Medimamentah</text>
 	</string>
 	<string id="Find_Zhorik_batteries_gameplay_titles">
-		<text>Pronađi Zorikove baterije</text>
+		<text>Find Zhorik batteries</text>
 	</string>
 	<string id="The_old_man_took_watch_gameplay_titles">
-		<text>Starac je izvadio svoj sat</text>
+		<text>The old man took out his watch</text>
 	</string>
 	<string id="Find_cache_for_Pilgrim_gameplay_titles">
-		<text>Pronađi štek za Pilgrima</text>
+		<text>Find cache for Pilgrim</text>
 	</string>
 	<string id="The_Ultra_Detector_Adrenalin_gameplay_titles">
-		<text>Ultra Detektor za Adrenalina</text>
+		<text>The Ultra Detector for Adrenalin</text>
 	</string>
 	<string id="Find_Elite_Detectors_gameplay_titles">
-		<text>Pronađi Elitne Detektore</text>
+		<text>Find the Elite Detectors</text>
 	</string>
 	<string id="Learn_about_drawings_gameplay_titles">
-		<text>Saznaj gde su nacrti</text>
+		<text>Learn about the drawings</text>
 	</string>
 	<string id="Find_the_key_gameplay_titles">
-		<text>Pronađi ključ</text>
+		<text>Find the key</text>
 	</string>
 	<string id="Cut_off_head_of_Sidorovich_gameplay_titles">
-		<text>Odseci glavu Sidoroviču</text>
+		<text>Cut off the head of Sidorovich</text>
 	</string>
 	<string id="Get_the_corpse_Controller_gameplay_titles">
-		<text>Donesi leš Kontrolera</text>
+		<text>Get the corpse of the Controller</text>
 	</string>
 	<string id="Get_flask_solution_gameplay_titles">
-		<text>Donesi flašicu sa rastvorom</text>
+		<text>Get the flask with solution</text>
 	</string>
 	<string id="Find_artifacts_Kalinin_gameplay_titles">
-		<text>Pronađi artefakte za Kalinjina</text>
+		<text>Find Artefacts for Kalinin</text>
 	</string>
 	<string id="Reconoiter_military_lab_gameplay_titles">
-		<text>Izvidi vojnu laboratoriju</text>
+		<text>Reconnoiter the military lab</text>
 	</string>
-	<string id="Return_eal_Lukas_gameplay_titles">
-		<text>Vrati pečat Lukašu</text>
+	<string id="Return_seal_Lukas_gameplay_titles">
+		<text>Return the seal to Lukas</text>
 	</string>
 	<string id="Raid_on_Varlab_gameplay_titles">
-		<text>Pohod na Varlab</text>
+		<text>Raid on Warlab</text>
 	</string>
 	<string id="Radio_gear_Panther_gameplay_titles">
-		<text>Radio oprema za Panteru</text>
+		<text>Radio gear for Panther</text>
 	</string>
 	<string id="Find_the_drive_Panther_gameplay_titles">
-		<text>Pronađi drajv za Panteru</text>
+		<text>Find the drive for Panther</text>
 	</string>
 	<string id="Get_Pseudodog_things_Dembele_gameplay_titles">
-		<text>Za Dembelea donesi delove Pseudo-psa</text>
+		<text>Get Pseudodog things for Dembele</text>
 	</string>
 	<string id="Find_backpack_Panther_gameplay_titles">
-		<text>Pronađi ranac za Panteru</text>
+		<text>Find backpack for Panther</text>
 	</string>
 	<string id="Activate_Hologram_Army Warehouses_gameplay_titles">
-		<text>Aktiviraj Hologram u Vojnim Skladištima</text>
+		<text>Activate the Hologram in Army Warehouses</text>
 	</string>
 	<string id="Bring_hologram_to_Klenow_gameplay_titles">
-		<text>Donesi hologram Klenovu</text>
+		<text>Bring the hologram to Klenow</text>
 	</string>
 	<string id="Make_Klenov_artifact_for_Maples_gameplay_titles">
-		<text>Napravi "Klenovov Artefakt" za Klenova</text>
+		<text>Make the Klenow Artefact for Maples</text>
 	</string>
 	<string id="Repay_the_debt_Sidorovich_gameplay_titles">
-		<text>Ispuni dug prema Sidoroviču</text>
+		<text>Repay the debt for Sidorovich</text>
 	</string>
 	<string id="Get_the_Interest_Sidorovich_gameplay_titles">
-		<text>Uzmi proviziju od Sidoroviča</text>
+		<text>Get the Interest of Sidorovich</text>
 	</string>
 	<string id="fight_off_brother_of_Kolmogor_gameplay_titles">
-		<text>Pomozi u borbi oko Kolmogorovog brata</text>
+		<text>Help fight off the brother of Kolmogor</text>
 	</string>
 	<string id="Whereabouts_of_Panther_gameplay_titles">
-		<text>Gde se nalazi Pantera</text>
+		<text>Whereabouts of Panther</text>
 	</string>
 	<string id="Help_capture_headquarters_gameplay_titles">
-		<text>Pomozi da se zuzme komandni štab</text>
+		<text>Help capture the headquarters</text>
 	</string>
 	<string id="Explore_the_village_gameplay_titles">
-		<text>Istraži selo</text>
+		<text>Explore the village</text>
 	</string>
 	<string id="Protect_the_countryside_gameplay_titles">
-		<text>Zaštiti selo</text>
+		<text>Protect the countryside</text>
 	</string>
 	<string id="Find_psy_antenna_Maples_gameplay_titles">
-		<text>Pronađi psi-antenu za Klenova</text>
+		<text>Find Psy-antenna for Maples</text>
 	</string>
 	<string id="Exploration_in_Farm_gameplay_titles">
-		<text>Istraživanje na Farmi</text>
+		<text>Exploration in the Farm</text>
 	</string>
 	<string id="Shoot_down_helicopter_gameplay_titles">
-		<text>Obori Helikopter</text>
+		<text>Shoot down the Helicopter</text>
 	</string>
 	<string id="Find_Boatswain_gameplay_titles">
-		<text>Pronađi Čamdžiju</text>
+		<text>Find Boatswain</text>
 	</string>
 	<string id="Lead_Boatswain_to_helicopter_gameplay_titles">
-		<text>Povedi Čamdžiju do helikoptera</text>
+		<text>Lead Boatswain to the Helicopter</text>
 	</string>
 	<string id="Bring_joystick_Andersen_gameplay_titles">
-		<text>Donesi džojstik za Andersona</text>
+		<text>Bring joystick to Andersen</text>
 	</string>
 	<string id="Turn_off_Psi_antenna_gameplay_titles">
-		<text>Isključi Psi-antenu</text>
+		<text>Turn off the Psi-antenna</text>
 	</string>
 	<string id="Save_Panther_gameplay_titles">
-		<text>Spasi Panteru</text>
+		<text>Save Panther</text>
 	</string>
 	<string id="Collect_information_gameplay_titles">
-		<text>Prikupi informaciju</text>
+		<text>Collect information</text>
 	</string>
 	<string id="Find_secret_cave_gameplay_titles">
-		<text>Pronađi tajnu pećinu</text>
+		<text>Find the secret cave</text>
 	</string>
 	<string id="Collect_artifacts_Maples_gameplay_titles">
-		<text>Prikupi artefakte za Klenova</text>
+		<text>Collect Artefacts from Maples</text>
 	</string>
 	<string id="Find_old_doll_Fly_gameplay_titles">
-		<text>Pronađi staru lutku za Muvu</text>
+		<text>Find old doll for Fly</text>
 	</string>
 	<string id="Find_Helicopter_flight_recorder_gameplay_titles">
-		<text>Pronađi snimač leta helikoptera</text>
+		<text>Find Helicopter flight data recorder</text>
 	</string>
 	<string id="Include_third_generator_gameplay_titles">
-		<text>Uključi treći generator</text>
+		<text>Include the third generator</text>
 	</string>
 	<string id="Disable_generator_noise_gameplay_titles">
-		<text>Onesposobi generator šuma</text>
+		<text>Disable the generator noise</text>
 	</string>
 	<string id="Take_up_position_gameplay_titles">
-		<text>Zauzmi poziciju</text>
+		<text>Take up position</text>
 	</string>
 	<string id="Help_Canin_gameplay_titles">
-		<text>Pomozi Fangu</text>
+		<text>Help Canin</text>
 	</string>
 	<string id="Find_the_Firebolt_gameplay_titles">
-		<text>Pronađi "Firebolt"</text>
+		<text>Find the Firebolt</text>
 	</string>
 	<string id="Find_stranger_Limansk_gameplay_titles">
-		<text>Pronađi stranca u Limansku</text>
+		<text>Find the stranger in Limansk</text>
 	</string>
 	<string id="Find_teleport_Sarcophagus_gameplay_titles">
-		<text>Pronađi teleport u Sarkofagu</text>
+		<text>Find the teleport in the Sarcophagus</text>
 	</string>
 	<string id="Take_photo_gameplay_titles">
-		<text>Snimi fotografiju</text>
+		<text>Take the photo</text>
 	</string>
 	<string id="Open_the_door_gameplay_titles">
-		<text>Otvori vrata</text>
+		<text>Open the door</text>
 	</string>
 	<string id="Protect_radio_operator_gameplay_titles">
-		<text>Zaštiti radio operatera</text>
+		<text>Protect the radio operator</text>
 	</string>
 	<string id="Find_Radio_man_Cache_gameplay_titles">
-		<text>Pronađi štek od adio operatera</text>
+		<text>Find the Radio Man cache</text>
 	</string>
 	<string id="Open_safe_get_radio_gameplay_titles">
-		<text>Otvori sef i uzmi radio</text>
+		<text>Open the safe and get the radio</text>
 	</string>
 	<string id="Detect_nuetralize_the_sniper_gameplay_titles">
-		<text>Pronađi i uništi snajper</text>
+		<text>Detect and neutralize the sniper</text>
 	</string>
 	<string id="Take_photo_for_Maples_gameplay_titles">
-		<text>Snimi fotografiju za Klenova</text>
+		<text>Take photo for Maples</text>
 	</string>
 	<string id="Get_case_documents_gameplay_titles">
-		<text>Donesi kofer sa dokumentima</text>
+		<text>Get the case of documents</text>
 	</string>
 	<string id="Withdraw_Chernomor_gameplay_titles">
-		<text>Povuci se sa Černomorom</text>
+		<text>Withdraw Chernomor</text>
 	</string>
 	<string id="Return_goods_and_chattels_gameplay_titles">
-		<text>Vrati robu i sitnice</text>
+		<text>Return the goods and chattels</text>
 	</string>
 	<string id="Find_the_killer_gameplay_titles">
-		<text>Pronađi ubicu</text>
+		<text>Find the killer</text>
 	</string>
 	<string id="Find_stranger_army_warehousess_gameplay_titles">
-		<text>Pronađi stranca u Vojnim Skladištima</text>
+		<text>Find the stranger in Army Warehouses</text>
 	</string>
 	<string id="Eavesdroping_gameplay_titles">
-		<text>Prisluškivanje</text>
+		<text>Eavesdropping</text>
 	</string>
 	<string id="Find_teleporter_and_use_it_gameplay_titles">
-		<text>Pronađi teleport i iskoristi ga</text>
+		<text>Find the Teleporter and use it</text>
 	</string>
 	<string id="Find_and_activate_portal_gameplay_titles">
-		<text>Pronađi i aktiviraj portal</text>
+		<text>Find and activate the portal</text>
 	</string>
 	<string id="Rob_the_Bandit_Camp_gameplay_titles">
-		<text>Orobi banditski kamp</text>
+		<text>Rob the Bandit Camp</text>
 	</string>
 	<string id="Protect_the_strange_Controller_gameplay_titles">
-		<text>Zaštiti neobičnog Kontrolera</text>
+		<text>Protect the strange Controller</text>
 	</string>
 	<string id="Get_out_of_the_dead_city_gameplay_titles">
-		<text>Izađi iz Mrtvog grada</text>
+		<text>Get out of the Dead City</text>
 	</string>
 	<string id="Free_the_hostages_gameplay_titles">
-		<text>Oslobodi taoce</text>
+		<text>Free the hostages</text>
 	</string>
 	<string id="Find_armor_Beryl5M_gameplay_titles">
-		<text>Pronađi odelo Beryl5M</text>
+		<text>Find Beryl5M Armor</text>
 	</string>
 	<string id="Find_Cube_Shadows_gameplay_titles">
-		<text>Pronađi kocku za Mračnog</text>
+		<text>Find Cube for Shadows</text>
 	</string>
 	<string id="Find_tools_East_Pripyat_gameplay_titles">
-		<text>Probađi alatke u Istočnom Pripjatu</text>
+		<text>Find the tools in East Pripyat</text>
 	</string>
 	<string id="information_on_the_laboratory_gameplay_titles">
-		<text>Pronađi informaciju o laboratoriji</text>
+		<text>Find information on the laboratory</text>
 	</string>
 	<string id="Get_the_necessary_gear_gameplay_titles">
-		<text>Uzmi potrebnu opremu</text>
+		<text>Get the necessary gear</text>
 	</string>
 	<string id="Help_Dennis_Red_Forest_gameplay_titles">
-		<text>Pomozi Denisu u Crvenoj Šumi</text>
+		<text>Help Dennis in Red Forest</text>
 	</string>
 	<string id="Talk_to_Sidorovich_gameplay_titles">
-		<text>Pričaj sa Sidorovičem</text>
+		<text>Talk to Sidorovich</text>
 	</string>
 	<string id="Find_documents_Red_Forest_for_Fang_gameplay_titles">
-		<text>Pronađi dokumente za Fanga u Crvenoj Šumi</text>
+		<text>Find documents in the Red Forest for Fang</text>
 	</string>
 	<string id="Help_stalkers_seize_bridge_Red_Forest_gameplay_titles">
-		<text>Pomozi stalkerima da zauzmu most u Crvenoj Šumi</text>
+		<text>Help stalkers to seize the bridge in Red Forest</text>
 	</string>
 	<string id="Help_stalkers_Red_Forest_gameplay_titles">
-		<text>Pomozi stalkerima u Crvenoj Šumi</text>
+		<text>Help stalkers in the Red Forest</text>
 	</string>
 	<string id="Classify_Case_courier_Sakharov_gameplay_titles">
-		<text>Poveri se za slučaj kurira Saharovu</text>
+		<text>Classify Case courier Sakharov</text>
 	</string>
 	<string id="Find_the_courier_radar_gameplay_titles">
-		<text>Pronađi kurira u Radaru</text>
+		<text>Find the courier in the Radar</text>
 	</string>
 	<string id="Meet_Sviblov_gameplay_titles">
-		<text>Sretni Sviblova</text>
+		<text>Meet Sviblov</text>
 	</string>
 	<string id="Find_Dealer_Rabinowitz_gameplay_titles">
-		<text>Pronađi trgovca Rabinoviča</text>
+		<text>Find Dealer Rabinowitz</text>
 	</string>
 	<string id="Find_Frenchman_army_warehouses_gameplay_titles">
-		<text>Pronađi Francuza u Voinim Skladištima</text>
+		<text>Find the Frenchman in Army Warehouses</text>
 	</string>
 	<string id="Find_Brother_Louis_swamp_gameplay_titles">
-		<text>Pronađi brata Luisau Močvarama</text>
+		<text>Find Brother Louis in the Swamp</text>
 	</string>
 	<string id="Get_info_from_Monolith_gameplay_titles">
-		<text>Uzmi informaciju od Monolita</text>
+		<text>Get info from the Monolith</text>
 	</string>
 	<string id="Recon_Freebie_Mercs_gameplay_titles">
-		<text>Izviđanje: Fribi i Plaćenici</text>
+		<text>Recon: Freebie and Mercs</text>
 	</string>
 	<string id="Get_Cold_Simbion_artifact_gameplay_titles">
-		<text>Donesi Ledenom artefakt Simbion</text>
+		<text>Get Cold an Simbion Artefact</text>
 	</string>
 	<string id="Get_some_medicine_Cat_gameplay_titles">
-		<text>Donesi Mačku nešto lekova</text>
+		<text>Get some medicine for Cat</text>
 	</string>
-	<string id="Get_Night Star_ten_Snork_feet_Kalmyak_gameplay_titles">
-		<text>Donesi Noćnu Zvezdu i deset Snorkovih stopala Kalmiku</text>
+	<string id="Get_Night">
+		<text>Get Items for Kalmyak</text>
+	</string>
+	<string id="Get_Night_Star_ten_Snork_feet_Kalmyak_gameplay_titles">
+		<text>Get a Night Star and ten Snork Snout for Kalmyak</text>
 	</string>
 	<string id="Help_Borman_with_silencer_gameplay_titles">
-		<text>Pomozi Bormanu oko prigušivača</text>
+		<text>Help Borman with the silencer</text>
 	</string>
 	<string id="Eliminate_the_Monolith_sniper_gameplay_titles">
-		<text>Eliminiši snajper Monolita</text>
+		<text>Eliminate the Monolith sniper</text>
 	</string>
 	<string id="Put_mark_on_Red_Pseudogiant_gameplay_titles">
-		<text>Označi Crvenog Pseudogiganta</text>
+		<text>Put a mark on the Red Pseudogiant</text>
 	</string>
 	<string id="Get_Chiston_TV_gameplay_titles">
-		<text>Donesi TV Čistonu</text>
+		<text>Get Chiston a TV</text>
 	</string>
 	<string id="Find_the_remaining_Monolith_gameplay_titles">
-		<text>Pronađi preostalog Monolita</text>
+		<text>Find the remaining Monolith</text>
 	</string>
 	<string id="Find_map_the_dead_Monolith_gameplay_titles">
-		<text>Pronađi mapu mrtvog Monolita</text>
+		<text>Find the map of the dead Monolith</text>
 	</string>
 	<string id="Sviblova_PKM_machine_guns_gameplay_titles">
-		<text>Donesi Sviblovu PKM mitraljez</text>
+		<text>Get Sviblova PKM machine gun</text>
 	</string>
 	<string id="Bring_Sviblov_brain_of_controller_gameplay_titles">
-		<text>Donesi Sviblovu mozak Kontrolera</text>
+		<text>Bring Sviblov the Brain of a Controller</text>
 	</string>
 	<string id="Get_Clerk_Soul_gameplay_titles">
-		<text>Donesi Knezu Dušu</text>
+		<text>Get Clerk a Soul</text>
 	</string>
 	<string id="Get_three_cans_Kalmyk_Ointment_gameplay_titles">
-		<text>Donesi Basilu tri kantice Kalmikove masti</text>
+		<text>Get Basil three cans of Kalmyk Ointment</text>
 	</string>
 	<string id="Procure_the_container_Kalmyk_gameplay_titles">
-		<text>Nabavi kontejner za Kalmika</text>
+		<text>Procure the container for Kalmyk</text>
 	</string>
 	<string id="Help_Clear_Sky_release_buddy_gameplay_titles">
-		<text>Pomozi Čistom Nebu da oslobode svog drugara</text>
+		<text>Help Clear Sky release their buddy</text>
 	</string>
 	<string id="NPP2_Monolith_diarys_for_Specter_gameplay_titles">
-		<text>Pronađu 3 dnevnika za Duha u Černobilu 2</text>
+		<text>Find 3 NPP2 Monolith diaries for Ghost</text>
 	</string>
 	<string id="Find_Golden_Hunk_artifacts_Ghost_gameplay_titles">
-		<text>Pronađi 10 artefakata Zlatni Komad za Duha</text>
+		<text>Find ten Golden Chunk Artefacts for Ghost</text>
 	</string>
 	<string id="Find_engineering_plan_Burner_gameplay_titles">
-		<text>pronađi inženjerski nacrt za Gorionik</text>
+		<text>Find the engineering plan for Burner</text>
 	</string>
 	<string id="Find_group_scientists_Lab_X10_gameplay_titles">
-		<text>Pronađi grupu naučnika u laboratoriji X10</text>
+		<text>Find the group of scientists in Lab X10</text>
 	</string>
 	<string id="Find_who_knows_of_missing_team_gameplay_titles">
-		<text>Pronađi nekoga ko zna za nestali tim</text>
+		<text>Find someone who knows of the missing team</text>
 	</string>
 	<string id="Fire_Tears_the_Bartender_gameplay_titles">
-		<text>Vatrene Suze za Barmena</text>
+		<text>Fire Tears for the Bartender</text>
 	</string>
 	<string id="Obtain_scientific_kits_Prapor_gameplay_titles">
-		<text>Nabavi deset naučničkih medkita za Prapora</text>
+		<text>Obtain ten scientific kits for Prapor</text>
 	</string>
 	<string id="Find_Military_PDA_gameplay_titles">
-		<text>Pronađi vojni PDA</text>
+		<text>Find the Military PDA</text>
 	</string>
 	<string id="Destroy_Mercenary_camp_Rostock_gameplay_titles">
-		<text>Uništi kamp Plaćenika u Rostoku</text>
+		<text>Destroy the Mercenary camp in Rostock</text>
 	</string>
 	<string id="Talk_with_Zahar_gameplay_titles">
-		<text>pričaj sa Zaharom</text>
+		<text>Talk with Zahar</text>
 	</string>
 	<string id="Protect_hunters_Cordon_gameplay_titles">
-		<text>Zaštiti Lovce u Kordonu</text>
+		<text>Protect hunters in Cordon</text>
 	</string>
 	<string id="Locate_Owls_hiding_place_Lab_X10_gameplay_titles">
-		<text>Lociraj Sovino mesto za skrivanje u laboratoriji X10</text>
+		<text>Locate Owls hiding place in the Lab X10</text>
 	</string>
 	<string id="Get_your_stuff_back_gameplay_titles">
-		<text>Vrati svoje stvari nazad</text>
+		<text>Get your stuff back</text>
 	</string>
 	<string id="Kill_Beast_Bring_documents_ghost_gameplay_titles">
-		<text>Ubij Zver i donesi dokumente Duhu</text>
+		<text>Kill Beast and Bring documents to Ghost</text>
 	</string>
 	<string id="Kill_Beast_take_his_stick_gameplay_titles">
-		<text>Ubij Zver i uzmi njegov stik</text>
+		<text>Kill Beast and take his stick</text>
 	</string>
 	<string id="Get_Laptop_for_scientist_gameplay_titles">
-		<text>Uzmi Laptop za nučnika</text>
+		<text>Get the Laptop for the scientist</text>
 	</string>
 	<string id="Get_Simbion_artifact_for_Bartender_gameplay_titles">
-		<text>Nabavi artefakt Simbion za Barmena</text>
+		<text>Get the Simbion Artefact for the Bartender</text>
 	</string>
 	<string id="Bring_Ghosts_diary_to_scientist_gameplay_titles">
-		<text>Donesi Duhov dnevnik naučniku</text>
+		<text>Bring Ghosts diary to the scientist</text>
 	</string>
 	<string id="scientist_stick_Lab_X_18_for_Dan_gameplay_titles">
-		<text>Donesi naučnikov stik iz laboratorije X-18 za Dena</text>
+		<text>Bring scientist stick from Lab X-18 for Dan</text>
 	</string>
 	<string id="Laptop_for_Yakut_gameplay_titles">
-		<text>Laptop za Jakuta</text>
+		<text>Laptop for Yakut</text>
 	</string>
 	<string id="Notebook_on_subway_gameplay_titles">
-		<text>Notbuk u metrou</text>
+		<text>Notebook on the subway</text>
 	</string>
 	<string id="Get_Parcel_From_Scientist_gameplay_titles">
-		<text>Uzmi poklon od naučnika</text>
+		<text>Get Parcel From the Scientist</text>
 	</string>
 	<string id="Find_forty_PDAs_for_Dan_gameplay_titles">
-		<text>Pronađi 40 PDA za Dena</text>
+		<text>Find forty PDAs for Dan</text>
 	</string>
 	<string id="Bring_Hoods_stick_Freeman_gameplay_titles">
-		<text>Donesi Hudov stik Frimenu</text>
+		<text>Bring Hoods stick to Freeman</text>
 	</string>
 	<string id="Bring_documents_from_lab_X_10_to_LeHavre_gameplay_titles">
-		<text>Donesi Gavri dokumente iz laboratorije X-10</text>
+		<text>Bring documents from lab X-10 to LeHavre</text>
 	</string>
 	<string id="Bring_case_to_Freeman_gameplay_titles">
-		<text>Donesi kofer Frimenu</text>
+		<text>Bring the case to Freeman</text>
 	</string>
 	<string id="Bring_Desert_Eagle_Freeman_gameplay_titles">
-		<text>Donesi pištolj Dezert Igl Frimenu</text>
+		<text>Bring the Desert Eagle to Freeman</text>
 	</string>
 	<string id="Kill_Bolt_bring_his_PDA_LeHavre_gameplay_titles">
-		<text>Ubij Bolta i donesi njegov PDA Gavri</text>
+		<text>Kill Bolt and bring his PDA to LeHavre</text>
 	</string>
 	<string id="Bring_Tirans_PDA_Informant_gameplay_titles">
-		<text>Donesi Tiranov PDA Doušniku</text>
+		<text>Bring Tirana's PDA to Informant</text>
 	</string>
 	<string id="Bring_Jaw_for_Prapor_gameplay_titles">
-		<text>Donesi čeljust za Prapora</text>
+		<text>Bring Jaw for Prapor</text>
 	</string>
 	<string id="Bring_parcel_to_Fox_gameplay_titles">
-		<text>Donesi poklon za Lisca</text>
+		<text>Bring the parcel to Fox</text>
 	</string>
 	<string id="Psychos_stick_to_Voronin_gameplay_titles">
-		<text>Donesi USB stik od Ludog Stalkera Voronjinu</text>
+		<text>Bring Psychos stick to Voronin</text>
 	</string>
 	<string id="Find_Ghost_gameplay_titles">
-		<text>Pronađi Duha</text>
+		<text>Find Ghost</text>
+	</string>
+<!-- text for the new tasks about mutant minimap detector - aleks1970 -->
+	<string id="Gather_3_Werewolf_Paws_and_20_PDAs_gameplay_titles">
+		<text>Gather supplies and the Werewolf paws.</text>
+	</string>
+	<string id="Gather_4_Chimera_Claw_and_40_PDAs_gameplay_titles">
+		<text>Gather supplies and four Chimera claws.</text>
+	</string>
+	<string id="Gather_Burer_4_Hand_and_15_PDAs_gameplay_titles">
+		<text>Gather Burers Hand and 15 MIL PDAs.</text>
+	</string>
+	<string id="Gather_1_Librarian_Hand_and_30_PDAs_gameplay_titles">
+		<text>Gather supplies and the Librarian hand.</text>
 	</string>
 </string_table>
-<!-- Preveo i prilagodio Coolkingeye -=- 0:34 31.12.2014 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 17:17 -sadd -->

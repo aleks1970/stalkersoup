@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.4 lis_doctor_dialog_3 patch to path, The Doctor, naemn_shturm_otbit, something  -->
+<!-- TB3D 1.0.9.9.9.8 lis_doctor_dialog_3 patch to path, The Doctor, naemn_shturm_otbit, something  -->
+
 <!-- GAME START -->
+
 <!-- ASTROLOGER -->
+
 <string_table>
 	<string id="zvezdochet_talk_0">
 		<text>My head hurts.    Where am I?    Who are you?!</text>
@@ -24,6 +26,8 @@
 	<string id="zvezdochet_talk_6">
 		<text>I'll try and make it to the Village. Thank you for all your help!!</text>
 	</string>
+
+
 	<string id="zvezdochet_talk1_0">
 		<text>I saw the Doctor, and gave him your message. You had mentioned something about repayment for the favor.</text>
 	</string>
@@ -33,7 +37,13 @@
 	<string id="zvezdochet_talk1_2">
 		<text>Thanks, Astrologer.</text>
 	</string>
-	<!-- SWAMP DOCTOR -->
+
+
+
+
+<!-- SWAMP DOCTOR -->
+
+
 	<string id="kordon_doctor_dialog_0">
 		<text>Hello there, Marked One, what do you need?</text>
 	</string>
@@ -61,47 +71,59 @@
 	<string id="lis_doctor_dialog_4">
 		<text>I need to find out the truth, but, in order to do that, I'm going to need some better Weapons, and Armour.</text>
 	</string>
-	<!-- BLAND FLASH-DRIVE -->
+
+
+
+<!-- BLAND FLASH-DRIVE -->
+
+
 	<string id="bland_say_norma_0">
-		<text>Most impressive S.T.A.L.K.E.R.!!!   You managed to take all of them out single-handedly, even though they were well armed, and equipped! Do not assume that they were my men though, because, they weren't!!! I suppose you are here for the Flash-Drive?, and who was it that snitched on me this time?</text>
-	</string>
-	<string id="bland_say_norma_1">
-		<text>Who's men were they then, if not yours?   And yes,   I am here for the Flash-Drive and I don't intend to leave until I have it!</text>
-	</string>
-	<string id="bland_say_norma_2">
-		<text>These guys were Mercs! My affiliation is, shall we say, complicated. You don't need to know about that just yet. Have you any idea what is on this Flash-Drive?!    No?    I was going to sell it for profit, because all it contains is useless garbage. In fact, this whole meeting was a sham!\nDon't bother asking questions, I can't answer them for you yet. So here's the deal...  I'll give you the USB-Stick for 50,000ru and we'll call it a day. Otherwise, you will have to kill me for it, but, it is not adviseable to do so, because in the future, perhaps, fate will bring us together again, and we both may gain from it.</text>
-	</string>
-	<string id="bland_say_norma_3">
-		<text>You speak in riddles, but, as I need the Flash-Drive, I'm willing to pay for it, here's your money.</text>
-	</string>
-	<string id="bland_say_norma_4">
-		<text>You made the right choice, and now, I must go, we will meet again.</text>
-	</string>
-	<string id="bland_say_norma_5">
-		<text>Can't wait! Be seing you.</text>
-	</string>
-	<string id="bland_say_norma_6">
-		<text>I think you mistook me for someone else, prepare to meet your maker, mothe...!!!</text>
-	</string>
-	<string id="bland_say_lapti_0">
-		<text>Who's men were they then, if not yours?   and yes,   I am here for the Flash-Drive and I don't intend to leave until I have it.</text>
-	</string>
-	<string id="bland_say_lapti_1">
-		<text>These guys were Mercs! My affiliation is, shall we say, complicated. You don't need to know about that just yet. Have you any idea what is on this Flash-Drive?!    No?   I was going to sell it for profit, because all it contains is useless garbage. In fact, this whole meeting was a sham!\nDon't bother asking questions, I can't answer them for you yet. So here's the deal...  I'll give you the USB-Stick for 50,000ru and we'll call it a day. Otherwise, you will have to kill me for it, but, it is not adviseable to do so, because in the future, perhaps, fate will bring us together again, and we both may gain from it.</text>
-	</string>
-	<string id="bland_say_lapti_2">
-		<text>You speak in riddles, but, as I need the Flash-Drive, I'm willing to pay for it, here's your money.</text>
-	</string>
-	<string id="bland_say_lapti_3">
-		<text>You made the right choice, and now, I must go, we will meet again.</text>
-	</string>
-	<string id="bland_say_lapti_4">
-		<text>Can't wait! Be seing you.</text>
-	</string>
-	<string id="bland_say_lapti_5">
-		<text>I think you mistook me for someone else, prepare to meet your maker, mothe...!!!</text>
-	</string>
-	<!-- SCREW MISSION START -->
+<text>Most impressive S.T.A.L.K.E.R.!!!   You managed to take all of them out single-handedly, even though they were well armed, and equipped! Do not assume that they were my men though, because, they weren't!!! I suppose you are here for the Flash-Drive?, and who was it that snitched on me this time?</text>
+</string>
+<string id="bland_say_norma_1">
+<text>Who's men were they then, if not yours?   And yes,   I am here for the Flash-Drive and I don't intend to leave until I have it!</text>
+</string>
+<string id="bland_say_norma_2">
+<text>These guys were Mercs! My affiliation is, shall we say, complicated. You don't need to know about that just yet. Have you any idea what is on this Flash-Drive?!    No?    I was going to sell it for profit, because all it contains is useless garbage. In fact, this whole meeting was a sham!\nDon't bother asking questions, I can't answer them for you yet. So here's the deal...  I'll give you the USB-Stick for 50,000ru and we'll call it a day. Otherwise, you will have to kill me for it, but, it is not adviseable to do so, because in the future, perhaps, fate will bring us together again, and we both may gain from it.</text>
+</string>
+<string id="bland_say_norma_3">
+<text>You speak in riddles, but, as I need the Flash-Drive, I'm willing to pay for it, here's your money.</text>
+</string>
+<string id="bland_say_norma_4">
+<text>You made the right choice, and now, I must go, we will meet again.</text>
+</string>
+<string id="bland_say_norma_5">
+<text>Can't wait! Be seing you.</text>
+</string>
+<string id="bland_say_norma_6">
+<text>I think you mistook me for someone else, prepare to meet your maker, mothe...!!!</text>
+</string>
+
+
+<string id="bland_say_lapti_0">
+<text>Who's men were they then, if not yours?   and yes,   I am here for the Flash-Drive and I don't intend to leave until I have it.</text>
+</string>
+<string id="bland_say_lapti_1">
+<text>These guys were Mercs! My affiliation is, shall we say, complicated. You don't need to know about that just yet. Have you any idea what is on this Flash-Drive?!    No?   I was going to sell it for profit, because all it contains is useless garbage. In fact, this whole meeting was a sham!\nDon't bother asking questions, I can't answer them for you yet. So here's the deal...  I'll give you the USB-Stick for 50,000ru and we'll call it a day. Otherwise, you will have to kill me for it, but, it is not adviseable to do so, because in the future, perhaps, fate will bring us together again, and we both may gain from it.</text>
+</string>
+<string id="bland_say_lapti_2">
+<text>You speak in riddles, but, as I need the Flash-Drive, I'm willing to pay for it, here's your money.</text>
+</string>
+<string id="bland_say_lapti_3">
+<text>You made the right choice, and now, I must go, we will meet again.</text>
+</string>
+<string id="bland_say_lapti_4">
+<text>Can't wait! Be seing you.</text>
+</string>
+<string id="bland_say_lapti_5">
+<text>I think you mistook me for someone else, prepare to meet your maker, mothe...!!!</text>
+</string>
+
+
+
+
+<!-- SCREW MISSION START -->
+
 	<string id="arhara_atp_0">
 		<text>Greetings, I'm told that you can offer more than just repairs. Rumor has it that you have some useful information to trade as well.</text>
 	</string>
@@ -126,7 +148,11 @@
 	<string id="arhara_atp_7">
 		<text>If you think that I'm going to lug a vice around in my backpack, then you must have a few screws loose!!</text>
 	</string>
-	<!-- SCREW MISSION COMPLETE -->
+
+
+
+<!-- SCREW MISSION COMPLETE -->
+
 	<string id="arhara_shurup_atp_propusk_0">
 		<text>Hello again Screw,    I've got some good news.</text>
 	</string>
@@ -139,7 +165,12 @@
 	<string id="arhara_shurup_atp_propusk_3">
 		<text>Here is the Controller's Brain you need for Lukash's request.   If you haven't found another one as of yet, you will have to travel to Chernobyl-2, maybe south, and there you will find one, now go.</text>
 	</string>
-	<!-- CHERNOBYL-2 TRANSITION MISSION -->
+
+
+
+<!-- CHERNOBYL-2 TRANSITION MISSION -->
+
+
 	<string id="ugrum_perexod_0">
 		<text>Greetings, I heard that you have been to Pripyat.</text>
 	</string>
@@ -164,6 +195,7 @@
 	<string id="ugrum_perexod_7">
 		<text>I'm afraid that I do not have the antidote, nor will I get it for you! Not even if you offered me a transition to the Moon!!</text>
 	</string>
+
 	<string id="ugrum_plaer_otdat_0">
 		<text>Here's your Antizombin,  Rare and precious stuff,  but,  I'm sure this transition will be worth it!</text>
 	</string>
@@ -176,7 +208,12 @@
 	<string id="ugrum_plaer_otdat_3">
 		<text>Through the sights of my Vintorez,    HaHa!!    I'm joking,    Here,  take the transition coordinates. But remember, due to the anomalous activity at Chernobyl-2, the transition marker tends to disappear from time to time, so I have uploaded a photograph of it into your PDA. This should help!!</text>
 	</string>
-	<!-- LUKASH MISSIONS -->
+
+
+
+<!-- LUKASH MISSIONS -->
+
+
 	<string id="lukash_mozg_0">
 		<text>Greetings, I hope we can cooperate. We can help each other maybe?</text>
 	</string>
@@ -201,6 +238,7 @@
 	<string id="lukash_mozg_7">
 		<text>It will be worth it! A big reward awaits you.</text>
 	</string>
+
 	<string id="lukash_mozg_otdat_0">
 		<text>Hello chief! I didn't find anything in the ATP. I had to search for them in Chernobyl-2. Heres your brains, ehhh!</text>
 	</string>
@@ -213,7 +251,12 @@
 	<string id="lukash_mozg_otdat_3">
 		<text>Thanks, I hope you didn't damage the goods. Let's see if you've eaten any,  no,  I don't see any bite marks. Now for your reward!!!!  Here, a rare artefact! AND, more importantly, a manual of teleports that belonged to the Monolitian leaders near to the Monolith in the Sarcophagus!\nAlso you will find a Camouflage Exoskeleton. I heard these items belonged to Strelok, one of the few to ever reach the Sarchopagus.   But this might only be a rumour.</text>
 	</string>
-	<!-- ATP TRANSITION INFO -->
+
+
+
+<!-- ATP TRANSITION INFO -->
+
+
 	<string id="tolik_info_0">
 		<text>Whats new in the Zone?</text>
 	</string>
@@ -235,6 +278,9 @@
 	<string id="tolik_info_6">
 		<text>Thanks for the warning.</text>
 	</string>
+
+
+
 	<string id="arh_disk_nayty_0">
 		<text>Listen, you can likely help me, I've heard there is a path to a new territory, the ATP I believe thier calling it. But I do not know where it begins. Do you?</text>
 	</string>
@@ -259,6 +305,7 @@
 	<string id="arh_disk_nayty_7">
 		<text>Well you know the road better than I do,   go yourself.</text>
 	</string>
+
 	<string id="arh_disk_otd_0">
 		<text>Greetings Adrenalin! I found your disk.</text>
 	</string>
@@ -271,80 +318,19 @@
 	<string id="arh_disk_otd_3">
 		<text>Well we can put these affairs to an end!   As a reward take a pair of my personal nodes and some information.  While you were gone I was able to find one more exit from ATP to the Army Warehouses. I sent the info to your PDA. And where the third path to Pripyat is, Sakharov knows.</text>
 	</string>
-	<!-- AKIM TRADE and OFFERS -->
-	<string id="akim_obmen_0">
-		<text>Do you sell Ammunition?</text>
-	</string>
-	<string id="akim_obmen_1">
-		<text>I only sell cartridges for the M-134 minigun, which are hard to find!!</text>
-	</string>
-	<string id="akim_obmen_2">
-		<text>How much do they cost?</text>
-	</string>
-	<string id="akim_obmen_3">
-		<text>2500ru per box and a Medusa artefact.</text>
-	</string>
-	<string id="akim_obmen_4">
-		<text>That's pretty expensive, don't you think!?</text>
-	</string>
-	<string id="akim_obmen_5">
-		<text>That's the price,   take it,   or,   leave it.</text>
-	</string>
-	<string id="akim_obmen_6">
-		<text>Fine! Here.</text>
-	</string>
-	<string id="akim_obmen_7">
-		<text>Forget it!!!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_0">
-		<text>Do you have any unique weapons?</text>
-	</string>
-	<string id="akim_obmen_fnsnip_1">
-		<text>I can provide you with a Sniper Rifle with a Computerized Scope,  but,  it's not cheap!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_2">
-		<text>How much?</text>
-	</string>
-	<string id="akim_obmen_fnsnip_3">
-		<text>120,000ru as well as a Pudding artefact.</text>
-	</string>
-	<string id="akim_obmen_fnsnip_4">
-		<text>Must be one hell of a Rifle!!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_5">
-		<text>Indeed it is, a very fine weapon!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_6">
-		<text>You've got yourself a deal.</text>
-	</string>
-	<string id="akim_obmen_fnsnip_7">
-		<text>I don't have that kind of money, maybe later.</text>
-	</string>
-	<string id="akim_zamok_0">
-		<text>Do you sell any unique items?</text>
-	</string>
-	<string id="akim_zamok_1">
-		<text>I can sell you a coded lock, great for keeping stashes safe!!</text>
-	</string>
-	<string id="akim_zamok_2">
-		<text>Is theft a big problem here in the Zone?</text>
-	</string>
-	<string id="akim_zamok_3">
-		<text>It is just as bad here as it is anywhere else,     ONLY WORSE!!</text>
-	</string>
-	<string id="akim_zamok_4">
-		<text>How much does this lock cost?</text>
-	</string>
-	<string id="akim_zamok_5">
-		<text>20,000ru plus a Quirk artefact for a single lock</text>
-	</string>
-	<string id="akim_zamok_6">
-		<text>Ok, I'll take one lock then.</text>
-	</string>
-	<string id="akim_zamok_7">
-		<text>Sorry, not interested.</text>
-	</string>
-	<!-- SAKHAROV MISSIONS -->
+
+
+
+
+<!-- AKIM TRADE and OFFERS -->
+<!-- removed duplicated string id's: "akim_obmen_0", "akim_obmen_1", "akim_obmen_2", "akim_obmen_3", "akim_obmen_4", "akim_obmen_5", "akim_obmen_6", "akim_obmen_7", "akim_obmen_fnsnip_0", "akim_obmen_fnsnip_1", "akim_obmen_fnsnip_2", "akim_obmen_fnsnip_3", "akim_obmen_fnsnip_4", "akim_obmen_fnsnip_5", "akim_obmen_fnsnip_6", "akim_obmen_fnsnip_7", "akim_zamok_0", "akim_zamok_1", "akim_zamok_2", "akim_zamok_3", "akim_zamok_4", "akim_zamok_5", "akim_zamok_6" and "akim_zamok_7" - it's also in the "tb3d_dialogs_arhara_trade.xml" file - aleks1970 -->
+
+
+
+<!-- SAKHAROV MISSIONS -->
+
+
+
 	<string id="sahar_sumka_dost_0">
 		<text>Prof, do the military visit here often?</text>
 	</string>
@@ -369,6 +355,7 @@
 	<string id="sahar_sumka_dost_7">
 		<text>You want me to face untold danger for an old bag in Chernobyl! Look for another sap!!!</text>
 	</string>
+
 	<string id="sahar_sumka_otd_0">
 		<text>Hello Professor! I made it back alive!</text>
 	</string>
@@ -381,7 +368,12 @@
 	<string id="sahar_sumka_otd_3">
 		<text>Well I've never found death so humorous! Thanks for the bag! It is very important to me. Here's your information on the transition from the ATP to Pripyat.</text>
 	</string>
-	<!-- DOCTOR MEDALLION MISSION -->
+
+
+
+<!-- DOCTOR MEDALLION MISSION -->
+
+
 	<string id="arhara_doctor_doct_0">
 		<text>Doc, have you heard about the abandoned mine and the Miner? He asked about you, I have left the Monolith splinter with him.</text>
 	</string>
@@ -406,6 +398,7 @@
 	<string id="arhara_doctor_doct_7">
 		<text>Doc, since childhood Ive been afraid of heights, and above 3 floors, FORGET IT!!! Forgive me, but let somebody else be engaged in your acrobatics!</text>
 	</string>
+
 	<string id="arhara_doctor_otd_0">
 		<text>Hi, Doc! Here, take your medallion.</text>
 	</string>
@@ -418,6 +411,7 @@
 	<string id="arhara_doctor_otd_3">
 		<text>Thanks your task was long, dangerous, but interesting. After all you are a stalker. And the Medallion, take it to the Miner. And give my regards to him. The Monolith Splinter you can keep for yourself. But remember its very radioactive!</text>
 	</string>
+
 	<string id="arhara_sahar_bezo_0">
 		<text>Prof, I have a question.</text>
 	</string>
@@ -442,6 +436,10 @@
 	<string id="arhara_sahar_bezo_7">
 		<text>Prof, this is hogwash!, No donation from me.</text>
 	</string>
+
+
+
+
 	<string id="arhara_omlet_0">
 		<text>With all the vodka you drink, how do you get any work done?</text>
 	</string>
@@ -466,6 +464,8 @@
 	<string id="arhara_omlet_7">
 		<text>Cook, you think a stalker-veteran is going to search the Zone for ten eggs? No way! You ARE plastered!!!</text>
 	</string>
+
+
 	<string id="arhara_omlet_otdat_0">
 		<text>Greetings, any vodka left?</text>
 	</string>
@@ -478,6 +478,8 @@
 	<string id="arhara_omlet_otdat_3">
 		<text>What?! Oh no!   You have broken one!!!      Here, take the weapon anyway, OAF!</text>
 	</string>
+
+
 	<string id="arhara_omlet_akim_0">
 		<text>Akim, greetings. Do you know where it is possible to get eggs?</text>
 	</string>
@@ -497,11 +499,12 @@
 		<text>The vials of this medicine are in a minefield near the military post, in south Cordon. To the left of the road when facing the checkpoint. It is necessary to bring me only three. You will find more but I just need three.</text>
 	</string>
 	<string id="arhara_omlet_akim_6">
-		<text>Thanks, a minefield next to a military checkpoint and I thought you were going to give me something difficult!\nCare to give me a mine detector before I go?</text>
+		<text>Thanks, a minefield next to a military checkpoint and I thought you were going to give me something difficult!\n    Care to give me a mine detector before I go?</text>
 	</string>
 	<string id="arhara_omlet_akim_7">
 		<text>Stroll into a minefield?    Not for lousy raven eggs!  You're NUTS???</text>
 	</string>
+
 	<string id="arhara_lekar_akim_0">
 		<text>Well Akim, I have brought the medicine. It stinks terribly!, the patient will die from the stench!!!</text>
 	</string>
@@ -514,6 +517,7 @@
 	<string id="arhara_lekar_akim_3">
 		<text>In the Forgotten Wood,    search the stumps of trees, or near them, and you should find eggs.</text>
 	</string>
+
 	<string id="arhara_shaxter_0">
 		<text>Hello, who are you?</text>
 	</string>
@@ -535,6 +539,7 @@
 	<string id="arhara_shaxter_6">
 		<text>Thanks, we will meet again,    if I survive!,    I Know that I should give you this piece of the Monolith, but,    who am I?,    and when will this all become clear?    When I find out,    I will return.</text>
 	</string>
+
 	<string id="shaxter_fonar_dost_0">
 		<text>Hello Miner, I Have returned!    I need that splinter of the Monolith that I left with you.</text>
 	</string>
@@ -559,6 +564,7 @@
 	<string id="shaxter_fonar_dost_7">
 		<text>I will not go anywhere, Its too dangerous!, use a match!!!</text>
 	</string>
+
 	<string id="shaxter_fonar_otdat_0">
 		<text>Here Miner, I got your lamps.</text>
 	</string>
@@ -571,6 +577,8 @@
 	<string id="shaxter_fonar_otdat_3">
 		<text>Thanks, I hope I am able to read the book of the father now,   Take your artefact,  but dont forget its EXTREMELY radiocative. Transfer my greetings to The Doctor, my brother.   I Hope this isnt our last meeting.</text>
 	</string>
+
+
 	<string id="akim_kubik_nayti_0">
 		<text>Akim, where can I find a couple of small lamps?</text>
 	</string>
@@ -595,6 +603,7 @@
 	<string id="akim_kubik_nayti_7">
 		<text>Go get your own Cube psycho!</text>
 	</string>
+
 	<string id="akim_kubik_prines_0">
 		<text>I've got the cube, give me the lamps.</text>
 	</string>
@@ -607,6 +616,8 @@
 	<string id="akim_kubik_prines_3">
 		<text>Calm down,   calm down,    I know where they should be.   In the Forgotten Wood, in the camp of Cross next to a helicopter.   Look on the ground.</text>
 	</string>
+
+
 	<string id="shax_kniga_naity_0">
 		<text>Hello, just recently I found the entrance to this Cave, Ive come for my artefact and some council.</text>
 	</string>
@@ -631,6 +642,7 @@
 	<string id="shax_kniga_naity_7">
 		<text>I haven't found the book yet, this cave is almost as bad as takin the subways used to be!</text>
 	</string>
+
 	<string id="shax_kniga_prines_0">
 		<text>Here, I have brought the book.</text>
 	</string>
@@ -643,6 +655,7 @@
 	<string id="shax_kniga_prines_3">
 		<text>Its not a simple book,   Yes, here, take your reward. Im very happy how this has turned out.</text>
 	</string>
+
 	<string id="lysyi_klad_nayti_0">
 		<text>Greetings. You look like a man who can be trusted, do you have any information I could use?</text>
 	</string>
@@ -667,6 +680,7 @@
 	<string id="lysyi_klad_nayti_7">
 		<text>Who needs money in the Zone? I have just reached the Bar. Im getting drunk, now piss off!</text>
 	</string>
+
 	<string id="lysyi_klad_prines_0">
 		<text>There I was in the cave and I found this treasure!</text>
 	</string>
@@ -679,6 +693,8 @@
 	<string id="lysyi_klad_prines_3">
 		<text>Heres your cash Marked One,   good or bad,    your making a name for yourself quick around here.</text>
 	</string>
+
+
 	<string id="pda_shaxt_strelok_naity_0">
 		<text>Hello Miner, I had absolutely forgotten that I left you my PDA. I remembered only at the Monolith, well I read the note I found there.</text>
 	</string>
@@ -703,6 +719,7 @@
 	<string id="pda_shaxt_strelok_naity_7">
 		<text>Its a rare artefact and I can't do without it, I can't help you.</text>
 	</string>
+
 	<string id="pda_shaxt_strelok_vzyt_0">
 		<text>Here's the scalp of the controller,  enjoy.</text>
 	</string>
@@ -715,6 +732,8 @@
 	<string id="pda_shaxt_strelok_vzyt_3">
 		<text>Ah yes,    it was stolen,   but the thief never left the cave. The mutants killed him, find his corpse and you'll find your PDA. I can help a little,  you already know where the transition to the Labyrinth is.   Look for it there.</text>
 	</string>
+
+
 	<string id="flyga_naity_0">
 		<text>Hello commander! you dont look very happy! What's up?</text>
 	</string>
@@ -739,6 +758,7 @@
 	<string id="flyga_naity_7">
 		<text>I don't have time for this, I have the Monolith to worry about.</text>
 	</string>
+
 	<string id="flyga_vzyt_0">
 		<text>Ufff, Lanky is a low-life and a jerk!, difficult to do business with!</text>
 	</string>
@@ -751,6 +771,8 @@
 	<string id="flyga_vzyt_3">
 		<text>Ah! Yes!  I need to fill it up. Your reward can be picked up from Sidorovich,  you will tell him I sent you.   For now here's some cash,  more than my fighters receive in TWO months!</text>
 	</string>
+
+
 	<string id="dolgovyzui_lentyi_0">
 		<text>Hello, I would like to ask you something.</text>
 	</string>
@@ -775,6 +797,7 @@
 	<string id="dolgovyzui_lentyi_7">
 		<text>Your greed is unmatched in the zone,     no way,     chow!</text>
 	</string>
+
 	<string id="dolgovyzui_urod_0">
 		<text>Here's all your loot, those micro-circuits smell like the place I found them in or,    come to think of it,   this place as well!  I'm gonna have to sanitize my backpack after this.</text>
 	</string>
@@ -787,6 +810,9 @@
 	<string id="dolgovyzui_urod_3">
 		<text>Dont get so angry.   The man who tried to sell me the flask was drunk.    When I wouldn't pay him what he wanted he left,     then came back and told me he threw it through the gate.       It's the gate on the right as you pass those Duty morons coming in from the dump.   There's a couple of places you can get over the fence there.  Aught to be a pretty sight in that suit!  The flask should still be behind that gate.</text>
 	</string>
+
+
+
 	<string id="voronin_termos_naity_0">
 		<text>Greetings!</text>
 	</string>
@@ -811,6 +837,7 @@
 	<string id="voronin_termos_naity_7">
 		<text>Sorry I can't help, I'm engaged in other matters at the moment, liquid matters that is!</text>
 	</string>
+
 	<string id="voronin_termos_otdat_0">
 		<text>Here, take this crap.</text>
 	</string>
@@ -823,6 +850,9 @@
 	<string id="voronin_termos_otdat_3">
 		<text>This is excellent! I Will give you the location of a cache. My men caught this military soldier with a backpack, somewhere in the Dark Valley, its been some time ago. Bandits have somewhat of a base there as you probably know by now. Anyway,   Checkout the observation towers, I hear there's quite a bit of loot in em.</text>
 	</string>
+
+
+
 	<string id="garik_vopros_0">
 		<text>Garik, I need to ask you something.</text>
 	</string>
@@ -847,6 +877,7 @@
 	<string id="garik_vopros_7">
 		<text>Garik, your nothing but a petty crook with a bad habit.     Stick that info up your a%%!</text>
 	</string>
+
 	<string id="garik_otvet_0">
 		<text>Here's your money and cigs,     use the first for kickin the second, loser.</text>
 	</string>
@@ -859,6 +890,8 @@
 	<string id="garik_otvet_3">
 		<text>OK, OK, don't be such a snorkass about it,   the thermoses are in a building in Pripyat.   Next to the bus station is a destroyed shop, look on the top floor.</text>
 	</string>
+
+
 	<string id="petr_sidor_vzyt_0">
 		<text>Hey there Sid,    how's it hangin?!</text>
 	</string>
@@ -883,6 +916,7 @@
 	<string id="petr_sidor_vzyt_7">
 		<text>Heh, wow, don't take it out on me, man, I'm not here for vacation either, damn!   Just do this job, and I will gladly turn over Petrenko's package and you can go about your bussiness of killing people OK MacBein?, Crap your a cold one!</text>
 	</string>
+
 	<string id="petr_sidor_zabrat_0">
 		<text>Man!! When you said hammers,  you could have told me that you meant frikn SLEDGE hammers!!   This crap is heavy!!   You should try and carry these things around for a while, maybe lose 100kg or so, lard butt!</text>
 	</string>
@@ -895,6 +929,10 @@
 	<string id="petr_sidor_zabrat_3">
 		<text>Well, as you can imagine, Petrenko doesn't seem to trust me with the case itself.   All he gave me are these coordinates leading to it's location. It is located somewhere in the Forgotten Forest. Just after the transition, you want to keep moving along the edge of the border, there you find some stones, one of which is flat,  that's where it is,    Good Luck!    You'll need it!,   tough guy!</text>
 	</string>
+
+
+
+
 	<string id="voronin_stol_dostat_0">
 		<text>General, I need your help.</text>
 	</string>
@@ -925,6 +963,7 @@
 	<string id="voronin_stol_dostat_9">
 		<text>You've rewarded me well so far,   so,    how can I refuse.</text>
 	</string>
+
 	<string id="voronin_stol_prines_0">
 		<text>Well is my uniform of the colonel ready, is it possible to try on?</text>
 	</string>
@@ -937,7 +976,9 @@
 	<string id="voronin_stol_prines_3">
 		<text>Look,  screw the uniform!   I've got something MUCH better!  Hope this makes your day!</text>
 	</string>
-	<!-- ESCORT THE SCIENTISTS -->
+
+
+<!-- ESCORT THE SCIENTISTS -->
 	<string id="sahar_info_0">
 		<text>Hey Professor</text>
 	</string>
@@ -962,6 +1003,7 @@
 	<string id="sahar_info_7">
 		<text>Well,  I do need some sleep!, can't help you out much today, sorry.</text>
 	</string>
+
 	<string id="sahar_info_prines_0">
 		<text>Here, take the phone.</text>
 	</string>
@@ -974,6 +1016,9 @@
 	<string id="sahar_info_prines_3">
 		<text>Well, sad, well anyway,  young man,  accept a modest gift from science!</text>
 	</string>
+
+
+
 	<string id="informator_buy_pda_0">
 		<text>Greetings, Mr. all-knowing.</text>
 	</string>
@@ -995,6 +1040,8 @@
 	<string id="informator_buy_pda_6">
 		<text>Sounds like a big production to me!   But, I will collect them, exchanging them makes more sense than trashing them, Eh.</text>
 	</string>
+
+
 	<string id="informator_beret_pda_0">
 		<text>Greetings</text>
 	</string>
@@ -1019,6 +1066,8 @@
 	<string id="informator_beret_pda_7">
 		<text>Well then, later dude.</text>
 	</string>
+
+
 	<string id="voronin_infa_gg_0">
 		<text>A real live general!  Why aren't you in Moscow living the good life?</text>
 	</string>
@@ -1037,6 +1086,8 @@
 	<string id="voronin_infa_gg_5">
 		<text>Its all about the Hardware!!!! Not Idle talk! I expect you to destroy Hump, there'll be no further dialogue otherwise. Your reward is what you find on Hump and his Mercenary mob. You will approach me later, I will give you a signal when they are about to attack. But before you can do this task you need to aquire a Thunder-Storm</text>
 	</string>
+
+
 	<string id="voronin_infa_gg_poluch_0">
 		<text>Hey General, Say Hello to My Little Friend! One kick-ass Thunder-storm. Im ready to rock-n-roll!</text>
 	</string>
@@ -1049,12 +1100,15 @@
 	<string id="voronin_infa_gg_poluch_3">
 		<text>Hold on, while I contact the post, here take these first-aid sets, might be useful!</text>
 	</string>
+
+
 	<string id="naemn_shturm_poluch_0">
 		<text>Well, any news?</text>
 	</string>
 	<string id="naemn_shturm_poluch_1">
 		<text>Yes, our forward reports that the Mercenaries are already on the way!!!!!</text>
 	</string>
+
 	<string id="naemn_shturm_otbit_0">
 		<text>Well General, you've been de-Humped! how's it feel?</text>
 	</string>
@@ -1077,5 +1131,5 @@
 	<string id="naemn_shturm_otbit_f3">
 		<text>Still a deals a deal and you get what you got off the trash we just took out. But at least you tried and we won't forget that.</text>
 	</string>
+
 </string_table>
-	<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 22:39 -sadd -->

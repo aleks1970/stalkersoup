@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 Artyom, max_pomer2_dialog_3 -->
-<!-- WEAPONS BROUGHT TO RAVEN wawka part 1 -->
+<!-- TB3D 1.0.9.9.9.8 Artyom, max_pomer2_dialog_3, Nano-outfits - aleks1970 -->
+<!-- WEAPONS BROUGHT TO RAVEN wawka part 1, repair_kit -->
 <string_table>
 	<string id="mosinka_0">
 		<text>Greetings Raven .. Let's talk Business...</text>
@@ -244,7 +243,7 @@
 		<text>Do you sell Weapons and Ammunition?</text>
 	</string>
 	<string id="trade_dialog_voron_1">
-		<text>I have a decent selection of weapons available, and a small selection of ammunition...\nThe people I work for prefer that I conduct my business strictly in exchange for Mutant body parts .. So, I'm afraid your cash is no good here... Now then .. Marked One, that's enough small talk .. shall we talk business, or what?</text>
+		<text>I have a decent selection of weapons available, and a small selection of ammunition...\n The people I work for prefer that I conduct my business strictly in exchange for Mutant body parts .. So, I'm afraid your cash is no good here... Now then .. Marked One, that's enough small talk .. shall we talk business, or what?</text>
 	</string>
 	<string id="trade_dialog_voron_2">
 		<text>What sort of ammunition do you have?...</text>
@@ -253,7 +252,7 @@
 		<text>Let's have a look at those weapons...</text>
 	</string>
 	<string id="trade_dialog_voron_21">
-		<text>I can offer you the following:\n \n1. Shotgun Shells in exchange for Pseudodog tails\n2. 9x39mm cartridges in exchange for Blind Dog's tails</text>
+		<text>I can offer you the following:\n\n1. Shotgun Shells in exchange for Pseudodog tails\n2. 9x39mm cartridges in exchange for Blind Dog's tails</text>
 	</string>
 	<string id="trade_dialog_voron_22">
 		<text>I'll take the Shotgun Shells...</text>
@@ -262,7 +261,7 @@
 		<text>I'll take the 9x39mm cartridges...</text>
 	</string>
 	<string id="trade_dialog_voron_41">
-		<text>Here's what I have available:\n \n1. Submachine guns in exchange for Burer's hands\n2. Shotguns, a Desert Eagle, or an M4A1 in exchange for Controller's hands</text>
+		<text>Here's what I have available:\n\n1. Submachine guns in exchange for Burer's hands\n2. Shotguns, a Desert Eagle, or an M4A1 in exchange for Controller's hands</text>
 	</string>
 	<string id="trade_dialog_voron_42">
 		<text>Let's see the Submachine guns...</text>
@@ -271,7 +270,7 @@
 		<text>I'll have a look at the others...</text>
 	</string>
 	<string id="trade_dialog_voron_222">
-		<text>5 Pseudodog tails will get you:\n \n1. Three packs of 12x70 'buck'\n2. Two packs of 12x70 'slug'\n3. One pack of 12x70 'dart'...\n \nWhich will it be?</text>
+		<text>5 Pseudodog tails will get you:\n\n1. Three packs of 12x70 'buck'\n2. Two packs of 12x70 'slug'\n3. One pack of 12x70 'dart'...\n\nWhich will it be?</text>
 	</string>
 	<string id="trade_dialog_voron_221">
 		<text>I'll take the 12x70 'buck'...</text>
@@ -283,7 +282,7 @@
 		<text>I think I'll take the 12x70 'dart' rounds...</text>
 	</string>
 	<string id="trade_dialog_voron_232">
-		<text>10 Blind Dog's tails will get you:\n \n1. Four packs of 9x39mm 'PAB9' cartridges\n2. Three packs of 9x39mm 'SP5' cartridges\n3. Two packs of 9x39mm 'AP' cartridges...\n \nWhich ones do you want?...</text>
+		<text>10 Blind Dog's tails will get you:\n\n1. Four packs of 9x39mm 'PAB9' cartridges\n2. Three packs of 9x39mm 'SP5' cartridges\n3. Two packs of 9x39mm 'AP' cartridges...\n\nWhich ones do you want?...</text>
 	</string>
 	<string id="trade_dialog_voron_231">
 		<text>I'll take the 'PAB9' cartridges...</text>
@@ -295,7 +294,7 @@
 		<text>I'll take the 'AP' rounds...</text>
 	</string>
 	<string id="trade_dialog_voron_422">
-		<text>For four Burer's hands, I can offer you one of these:\n \n1. Bizon\n2. Kriss Super-V\n3. MP-7a3\n \nWhat will it be?</text>
+		<text>For four Burer's hands, I can offer you one of these:\n\n1. Bizon \n2. Kriss Super-V\n3. MP-7a3\n\nWhat will it be?</text>
 	</string>
 	<string id="trade_dialog_voron_421">
 		<text>I'll take the 'Bizon' off your hands...</text>
@@ -307,7 +306,7 @@
 		<text>The 'MP-7a3' sounds interesting...</text>
 	</string>
 	<string id="trade_dialog_voron_432">
-		<text>Two Controller's hands will get you one of the following:\n \n1. TOZ-34\n2. M4A1-Taktikal\n3. Saiga-12k\n4. Desert Eagle\n5. BM-16 'scattergun'\n \nThe choice is yours...</text>
+		<text>Two Controller's hands will get you one of the following:\n\n1. TOZ-34\n2. M4A1-Taktikal\n3. Saiga-12k\n4. Desert Eagle\n5. BM-16 'Scattergun' \n\nThe choice is yours...</text>
 	</string>
 	<string id="trade_dialog_voron_431">
 		<text>Give me the TOZ-34...</text>
@@ -344,7 +343,7 @@
 		<text>Let's see the Armour, and Ammunition...</text>
 	</string>
 	<string id="trade_dialog_maks_21">
-		<text>I can offer you the following:\n \n1. Flamethrower mixture for 12 bottles of Vodka\n2. A full Gas Canister, or a Colloidal Gas Canister for 5 bottles of Vodka...</text>
+		<text>I can offer you the following:\n\n1. Flamethrower mixture for 12 bottles of Vodka\n2. A full Gas Canister, or a Colloidal Gas Canister for 5 bottles of Vodka...</text>
 	</string>
 	<string id="trade_dialog_maks_22">
 		<text>I'll take the Flamethrower mixture...</text>
@@ -353,7 +352,7 @@
 		<text>Let's see the Gas Canisters...</text>
 	</string>
 	<string id="trade_dialog_maks_31">
-		<text>For 10 bottles of Vodka, I can offer you:\n \n1. a choice of Armoured Suits...\n2. Ammunition for the 'Groza' assault rifle...</text>
+		<text>For 10 bottles of Vodka, I can offer you:\n\n1. a choice of Armoured Suits...\n2. Ammunition for the 'Groza' assault rifle...</text>
 	</string>
 	<string id="trade_dialog_maks_32">
 		<text>I need some better Armour...</text>
@@ -362,13 +361,13 @@
 		<text>Let's see the Ammunition...</text>
 	</string>
 	<string id="trade_dialog_maks_222">
-		<text>So, we are in agreement then:\n \nFor 12 bottles of Vodka I can give you the Flamethrower ammo...\nHow does that sound?</text>
+		<text>So, we are in agreement then:\n\nFor 12 bottles of Vodka I can give you the Flamethrower ammo...\nHow does that sound?</text>
 	</string>
 	<string id="trade_dialog_maks_221">
 		<text>Yes, I'll take the Flamethrower mixture...</text>
 	</string>
 	<string id="trade_dialog_maks_232">
-		<text>For 5 bottles of Vodka, I can offer you:\n \n1. a Colloidal Gas Canister\n2. a full Gasoline Canister\n \nTake your pick...</text>
+		<text>For 5 bottles of Vodka, I can offer you:\n\n1. a Colloidal Gas Canister\n2. a full Gasoline Canister\n\nTake your pick...</text>
 	</string>
 	<string id="trade_dialog_maks_231">
 		<text>I'll take the Colloidal Gas...</text>
@@ -377,7 +376,7 @@
 		<text>Give me the Gas Canister...</text>
 	</string>
 	<string id="trade_dialog_maks_322">
-		<text>10 bottles of Vodka will get you the following:\n \n1. 'Guardian of Freedom' Suit\n2. 'Duty' PSZ-9MD Armour\n \nWhat will it be?...</text>
+		<text>10 bottles of Vodka will get you the following:\n\n1. 'Guardian of Freedom' Suit\n2. 'Duty' PSZ-9MD Armour\n\nWhat will it be?...</text>
 	</string>
 	<string id="trade_dialog_maks_321">
 		<text>I'll take the 'Guardian of Freedom' Suit...</text>
@@ -386,7 +385,7 @@
 		<text>Give me the 'Duty' PSZ-9MD Armour...</text>
 	</string>
 	<string id="trade_dialog_maks_332">
-		<text>10 bottles of Vodka will get you the following:\n \n1. 3 packs of 9x39mm 'PAB9'\n2. 2 packs of 9x39mm 'AP'\n \nWhat will it be?...</text>
+		<text>10 bottles of Vodka will get you the following:\n\n1. 3 packs of 9x39mm 'PAB9'\n2. 2 packs of 9x39mm 'AP'\n\nWhat will it be?...</text>
 	</string>
 	<string id="trade_dialog_maks_331">
 		<text>Give me the 9x39mm 'AP' rounds...</text>
@@ -515,7 +514,7 @@
 		<text>And what about my share?</text>
 	</string>
 	<string id="krysyk_pomer_15_dialog_3">
-		<text>Your share waits for you on Agroprom ... Here ...\nStill there is a way of reception of the 'Medusa' from different stuff ... In Electra it is necessary to throw a head of a jerboa, bandage, sausage and canned ...</text>
+		<text>Your share waits for you on Agroprom ... Here ... \nStill there is a way of reception of the 'Medusa' from different stuff ... In Electra it is necessary to throw a head of a jerboa, bandage, sausage and canned ...</text>
 	</string>
 	<string id="krysyk_pomer_15_dialog_4">
 		<text>it is fine, I will check up... Look, you will deceive - I will tear, as Tuzik a hot-water bottle...</text>
@@ -536,10 +535,10 @@
 		<text>it is fine... Here PDA...</text>
 	</string>
 	<string id="krysyk_pomer_finish_dialog_51">
-		<text>Frets, here to you a key from an underground and laying on one cache good. Truth humanity one, from which info has removed, rubbish was, a scoop nasty ... But habarok should be good ... In the north of Army warehouses, near the fallen helicopter ...\nStill there is a way of reception of the Quirk - it is necessary bandage, canned food, a head of a jerboa and sausage in a Fruit Punch to throw ...</text>
+		<text>Frets, here to you a key from an underground and laying on one cache good. Truth humanity one, from which info has removed, rubbish was, a scoop nasty ... But habarok should be good ... In the north of Army warehouses, near the fallen helicopter ... \nStill there is a way of reception of the Quirk - it is necessary bandage, canned food, a head of a jerboa and sausage in a Fruit Punch to throw ...</text>
 	</string>
 	<string id="krysyk_pomer_finish_dialog_52">
-		<text>Frets, here to you laying on one cache good. Truth humanity one, from which info has removed, rubbish was, a scoop nasty ... But habarok should be good ... In the north of Army warehouses, near the fallen helicopter ...\nStill there is a way of reception of the Quirk - it is necessary bandage, canned food, a head of a jerboa and sausage in a Fruit Punch to throw ...</text>
+		<text>Frets, here to you laying on one cache good. Truth humanity one, from which info has removed, rubbish was, a scoop nasty ... But habarok should be good ... In the north of Army warehouses, near the fallen helicopter ... \nStill there is a way of reception of the Quirk - it is necessary bandage, canned food, a head of a jerboa and sausage in a Fruit Punch to throw ...</text>
 	</string>
 	<string id="krysyk_pomer_finish_dialog_6">
 		<text>Well it is fine. I look, you take a word... Still we will meet... While.</text>
@@ -629,7 +628,7 @@
 		<text>The Portable radio set here, hold... And the Fanatic was wounded by mercenaries so it has sent messengers, yes those in the Bar have hooted...</text>
 	</string>
 	<string id="tolik2_pomer_dialog_3">
-		<text>Mmat, have relaxed they there without me ... Well and it is fine - the main thing the portable radio set is delivered! Thanks you, Marked One!\nMeans - about anomalies: I only know, how Electra shlopnut - it is necessary to throw in it 'the Ruby battery' ...\nit is possible and with other anomalies it is possible so to arrive, it is necessary ways to search ...</text>
+		<text>Mmat, have relaxed they there without me ... Well and it is fine - the main thing the portable radio set is delivered! Thanks you, Marked One! \nMeans - about anomalies: I only know, how Electra shlopnut - it is necessary to throw in it 'the Ruby battery' ... \nit is possible and with other anomalies it is possible so to arrive, it is necessary ways to search ...</text>
 	</string>
 	<string id="radiotolik_pomer_dialog_0">
 		<text>Greetings, Fanatic! Why has not sent the person to carry a portable radio set to the Wolf? He waits, hopes for you!</text>
@@ -710,7 +709,7 @@
 		<text>And what compensation is necessary for you?</text>
 	</string>
 	<string id="teleport_max_pomer_dialog_223">
-		<text>If it is strong brain to creak, and is guaranteed to throw out you in a safe place that 9000 ...\nAnd if not so you are afraid - that 2500 will suffice.\nSolve ...</text>
+		<text>If it is strong brain to creak, and is guaranteed to throw out you in a safe place that 9000 ... \nAnd if not so you are afraid - that 2500 will suffice. \nSolve ...</text>
 	</string>
 	<string id="teleport_max_pomer_dialog_224">
 		<text>Give better in a good place try...</text>
@@ -908,7 +907,7 @@
 		<text>Hey there Sid .. did you miss me?!</text>
 	</string>
 	<string id="start_update_outfit_sidor_1">
-		<text>Marked One.. I heard you how you have helped around here...  In return, I'd like to offer you some of my Services .. namely upgrades: I can have 'Night Vision' installed for you on certain Jackets .. not the best quality available, but it's the best I can do with the supplies I get around here!!\n \nI can also have a Jacket strengthened by adding a protective layer containing certain particles from the 'Pellicle' artefact .. this will give you better protection against certain elements .. even though it may still feel the same as before. This treatment is not all that expensive either .. Well worth the money, I say!!...\nOh, and here are some Armour 'Field Repair Kits' to get you started .. To use them: Simply drop the case on the ground in front of you .. then open it up, and use the Kits inside .. the repairs will be applied to the currently equipped piece of equipment. In the case of Weapon 'Field Repair Kits' .. the repairs will be applied to the weapon that requires it most .. Quite simple, really...</text>
+		<text>Marked One.. I heard how you have helped around here...  In return, I'd like to offer you some of my Services .. namely upgrades: I can have 'Night Vision' installed for you on certain Armour .. not the best quality available, but it's the best I can do with the supplies I get around here!!\n\nI can also have Armour strengthened by adding a protective layer containing certain particles from the 'Pellicle' artefact .. this will give you better protection against certain elements .. even though it may still feel the same as before. This treatment is not all that expensive either .. Well worth the money, I say!!</text>
 	</string>
 	<string id="start_update_outfit_sidor_2">
 		<text>Thank you Sid, this is very much appreciated!!</text>
@@ -917,7 +916,7 @@
 		<text>What armour upgrades do you have available?</text>
 	</string>
 	<string id="update_outfit_sidor_1">
-		<text>'NIGHT VISION'.. but, only one kind - Standard Green : It can only be equipped on Jackets and Raincoats .. and not if they are too badly damaged .. I can also strengthen Jackets using a special method developed by some Eggheads I help out from time to time with Vodka, and other essentials...\n \nUpgrade Costs:\nPNV = 10000 rubles\n \nJacket Reinforcement:\n \nRegular Jackets = 5000 rubles\nModified Jackets = 10000 rubles\nRegular Raincoats = 15000 rubles\nModified Raincoats = 20000 rubles\n \nLet me know if you are interested...</text>
+		<text>'NIGHT VISION'.. but, only one kind - Standard Green : It can only be equipped on Jackets and Raincoats .. and not if they are too badly damaged .. I can also strengthen Jackets using a special method developed by some Eggheads I help out from time to time with Vodka, and other essentials...\n\nUpgrade Costs:\nPNV = 10000 rubles\n\nJacket Reinforcement:\n\nRegular Jackets = 5000 rubles\nModified Jackets = 10000 rubles\nRegular Raincoats = 15000 rubles\nModified Raincoats = 20000 rubles\n\nLet me know if you are interested...</text>
 	</string>
 	<string id="update_outfit_sidor_1111">
 		<text>I'm interested in purchasing some 'Night Vision'...</text>
@@ -1544,13 +1543,13 @@
 		<text>The Fighting suit of the ecologist...</text>
 	</string>
 	<string id="update_outfit_sakharov_4">
-		<text>Nanozashchitnyj a suit...</text>
+		<text>Nanosuit 'prototype' V2 ...</text>
 	</string>
 	<string id="update_outfit_sakharov_5">
-		<text>Nanozashchitnyj gravikostyum ...</text>
+		<text>Nanosuit 'Antigravity' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_6">
-		<text>Nanozashchitnyj a medical suit...</text>
+		<text>Nanosuit 'Medic' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_02">
 		<text>I can offer for a suit of the ecologist:\n- PNV "Green" - 10000 roubles;\n- PNV "Digital" - 25000 roubles;\n- PNV "Sepia" - 15000 roubles;\n- PNV "Halogen" - 20000 roubles;\n- PNV "Cat's Eye" - 30000 roubles;\n- PNV "Psi effect" - 25000 roubles;\n- PNV "Moonlight" - 25000 roubles;\n- PNV "White night" - 30000 roubles.\nto you what?</text>
@@ -1607,7 +1606,7 @@
 		<text>Give better device "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_04">
-		<text>I can offer for nanozaschitnogo a suit:\n-PNV 'Green' - 10,000 roubles;\n-PNV 'Digital' - 25,000 roubles;\n-PNV 'Sepia' - 15,000 roubles;\n-PNV 'Halogen' - 20000 roubles;\n-PNV 'Cat's Eye' - 30,000 roubles;\n-PNV 'Psi effect' - 25,000 roubles;\n-PNV 'Moonlight' - 25,000 roubles;\n-PNV 'White night' - 30,000 roubles.\nto you what?</text>
+		<text>I can offer for 'prototype' V2 Nanosuit: \n-PNV 'Green' - 10,000 roubles; \n-PNV 'Digital' - 25,000 roubles; \n-PNV 'Sepia' - 15,000 roubles; \n-PNV 'Halogen' - 20000 roubles; \n-PNV 'Cat's Eye' - 30,000 roubles; \n-PNV 'Psi effect' - 25,000 roubles; \n-PNV 'Moonlight' - 25,000 roubles; \n-PNV 'White night' - 30,000 roubles. \nto you what?</text>
 	</string>
 	<string id="update_outfit_sakharov_0041">
 		<text>Establish usual, green...</text>
@@ -1634,7 +1633,7 @@
 		<text>Give better device "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_05">
-		<text>I can offer for nanozaschitnogo gravikostyuma:\n-PNV 'Green' - 10,000 roubles;\n-PNV 'Digital' - 25,000 roubles;\n-PNV 'Sepia' - 15,000 roubles;\n-PNV 'Halogen' - 20,000 roubles ;\n-PNV 'Cat's Eye' - 30,000 roubles;\n-PNV 'Psi effect' - 25,000 roubles;\n-PNV 'Moonlight' - 25,000 roubles;\n-PNV 'White night' - 30,000 roubles.\nto you what?</text>
+		<text>I can offer for 'Antigravity' Nanosuit: \n-PNV 'Green' - 10,000 roubles; \n-PNV 'Digital' - 25,000 roubles; \n-PNV 'Sepia' - 15,000 roubles; \n-PNV 'Halogen' - 20,000 roubles ; \n-PNV 'Cat's Eye' - 30,000 roubles; \n-PNV 'Psi effect' - 25,000 roubles; \n-PNV 'Moonlight' - 25,000 roubles; \n-PNV 'White night' - 30,000 roubles. \nto you what?</text>
 	</string>
 	<string id="update_outfit_sakharov_0051">
 		<text>Establish usual, green...</text>
@@ -1661,7 +1660,7 @@
 		<text>Give better device "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_06">
-		<text>I can offer for nanozaschitnogo a medical suit:\n-PNV 'Green' - 10,000 roubles;\n-PNV 'Digital' - 25,000 roubles;\n-PNV 'Sepia' - 15,000 roubles;\n-PNV 'Halogen' - 20,000 roubles;\n-PNV 'Cat's Eye' - 30,000 roubles;\n-PNV 'Psi effect' - 25,000 roubles;\n-PNV 'Moonlight' - 25,000 roubles;\n-PNV 'White night' - 30,000 roubles.\nto you what?</text>
+		<text>I can offer for 'Medic' Nanosuit: \n-PNV 'Green' - 10,000 roubles; \n-PNV 'Digital' - 25,000 roubles; \n-PNV 'Sepia' - 15,000 roubles; \n-PNV 'Halogen' - 20,000 roubles; \n-PNV 'Cat's Eye' - 30,000 roubles; \n-PNV 'Psi effect' - 25,000 roubles; \n-PNV 'Moonlight' - 25,000 roubles; \n-PNV 'White night' - 30,000 roubles. \nto you what?</text>
 	</string>
 	<string id="update_outfit_sakharov_0061">
 		<text>Establish usual, green...</text>
@@ -1736,76 +1735,76 @@
 		<text>Hold the fighting suit of the ecologist. Has established PNV "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_0091">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Green' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0092">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Digital' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0093">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Sepia' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0094">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Halogen' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0095">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Cat's Eye' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0096">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Psi effect' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0097">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'Moonlight' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0098">
-		<text>Hold the nanozaschitny a suit. Has established PNV 'White night' ...</text>
+		<text>Hold the 'prototype' V2 Nanosuit. Has established PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00101">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Green' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00102">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Digital' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00103">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Sepia' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00104">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Halogen' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00105">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Cat's Eye' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00106">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Psi effect' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00107">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'Moonlight' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00108">
-		<text>Hold the nanozaschitny gravikostyum. Has established PNV 'White night' ...</text>
+		<text>Hold the 'Antigravity' Nanosuit. Has established PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00111">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Green' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00112">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Digital' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00113">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Sepia' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00114">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Halogen' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00115">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Cat's Eye' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00116">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Psi effect' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00117">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'Moonlight' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_00118">
-		<text>Hold the nanozaschitny a medical suit. Has established PNV 'White night' ...</text>
+		<text>Hold the 'Medic' Nanosuit. Has established PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_111112">
 		<text>On the strengthened...</text>
@@ -1820,13 +1819,13 @@
 		<text>The Fighting suit of the ecologist...</text>
 	</string>
 	<string id="update_outfit_sakharov_104">
-		<text>Nanozashchitnyj a suit...</text>
+		<text>Nanosuit 'prototype' V2 ...</text>
 	</string>
 	<string id="update_outfit_sakharov_105">
-		<text>Nanozashchitnyj gravikostyum ...</text>
+		<text>Nanosuit 'Antigravity' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_106">
-		<text>Nanozashchitnyj a medical suit...</text>
+		<text>Nanosuit 'Medic' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_1022">
 		<text>I can offer for the strengthened suit of the ecologist:\n- PNV "Green" - 10000 roubles;\n- PNV "Digital" - 25000 roubles;\n- PNV "Sepia" - 15000 roubles;\n- PNV "Halogen" - 20000 roubles;\n- PNV "Cat's Eye" - 30000 roubles;\n- PNV "Psi effect" - 25000 roubles;\n- PNV "Moonlight" - 25000 roubles;\n- PNV "White night" - 30000 roubles.\nto you what?</text>
@@ -1883,7 +1882,7 @@
 		<text>Give better device "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_1044">
-		<text>I can offer for strengthened nanozaschitnogo a suit:\n-PNV 'Green' - 10,000 roubles;\n-PNV 'Digital' - 25,000 roubles;\n-PNV 'Sepia' - 15,000 roubles;\n-PNV 'Halogen' - 20,000 roubles;\n-PNV 'Cat's Eye' - 30,000 roubles;\n-PNV 'Psi effect' - 25,000 roubles;\n-PNV 'Moonlight' - 25,000 roubles;\n-PNV 'White night' - 30,000 roubles.\nto you what?</text>
+		<text>I can offer for strengthened 'prototype' V2 Nanosuit: \n-PNV 'Green' - 10,000 roubles; \n-PNV 'Digital' - 25,000 roubles; \n-PNV 'Sepia' - 15,000 roubles; \n-PNV 'Halogen' - 20,000 roubles; \n-PNV 'Cat's Eye' - 30,000 roubles; \n-PNV 'Psi effect' - 25,000 roubles; \n-PNV 'Moonlight' - 25,000 roubles; \n-PNV 'White night' - 30,000 roubles. \nto you what?</text>
 	</string>
 	<string id="update_outfit_sakharov_0141">
 		<text>Establish usual, green...</text>
@@ -1910,7 +1909,7 @@
 		<text>Give better device "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_1055">
-		<text>I can offer for strengthened nanozaschitnogo gravikostyuma:\n-PNV 'Green' - 10,000 roubles;\n-PNV 'Digital' - 25,000 roubles;\n-PNV 'Sepia' - 15,000 roubles;\n-PNV 'Halogen' - 20000 roubles;\n-PNV 'Cat's Eye' - 30,000 roubles;\n-PNV 'Psi effect' - 25,000 roubles;\n-PNV 'Moonlight' - 25,000 roubles;\n-PNV 'White night' - 30,000 roubles.\nto you what?</text>
+		<text>I can offer for strengthened 'Antigravity' Nanosuit: \n-PNV 'Green' - 10,000 roubles; \n-PNV 'Digital' - 25,000 roubles; \n-PNV 'Sepia' - 15,000 roubles; \n-PNV 'Halogen' - 20000 roubles; \n-PNV 'Cat's Eye' - 30,000 roubles; \n-PNV 'Psi effect' - 25,000 roubles; \n-PNV 'Moonlight' - 25,000 roubles; \n-PNV 'White night' - 30,000 roubles. \nto you what?</text>
 	</string>
 	<string id="update_outfit_sakharov_0151">
 		<text>Establish usual, green...</text>
@@ -1937,7 +1936,7 @@
 		<text>Give better device "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_1066">
-		<text>I can offer for strengthened nanozaschitnogo a medical suit:\n-PNV 'Green' - 10,000 roubles;\n-PNV 'Digital' - 25,000 roubles;\n-PNV 'Sepia' - 15,000 roubles;\n-PNV 'Halogen' - 20000 roubles;\n-PNV 'Cat's Eye' - 30,000 roubles;\n-PNV 'Psi effect' - 25,000 roubles;\n-PNV 'Moonlight' - 25,000 roubles;\n-PNV 'White night' - 30,000 roubles .\nto you what?</text>
+		<text>I can offer for strengthened 'Medic' Nanosuit: \n-PNV 'Green' - 10,000 roubles; \n-PNV 'Digital' - 25,000 roubles; \n-PNV 'Sepia' - 15,000 roubles; \n-PNV 'Halogen' - 20000 roubles; \n-PNV 'Cat's Eye' - 30,000 roubles; \n-PNV 'Psi effect' - 25,000 roubles; \n-PNV 'Moonlight' - 25,000 roubles; \n-PNV 'White night' - 30,000 roubles . \nto you what?</text>
 	</string>
 	<string id="update_outfit_sakharov_0161">
 		<text>Establish usual, green...</text>
@@ -2012,76 +2011,76 @@
 		<text>Hold the strengthened fighting suit of the ecologist. Has established PNV "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_0191">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Green' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0192">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Digital' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0193">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Sepia' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0194">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Halogen' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0195">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Cat's Eye' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0196">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Psi effect' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0197">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'Moonlight' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0198">
-		<text>Hold strengthened nanozaschitny a suit. Has established PNV 'White night' ...</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2. Has established PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01101">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Green' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01102">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Digital' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01103">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Sepia' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01104">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Halogen' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01105">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Cat's Eye' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01106">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Psi effect' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01107">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'Moonlight' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01108">
-		<text>Hold strengthened nanozaschitny gravikostyum. Has established PNV 'White night' ...</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity' Has established PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01111">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Green' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01112">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Digital' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01113">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Sepia' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01114">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Halogen' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01115">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Cat's Eye' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01116">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Psi effect' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01117">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Moonlight' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_01118">
-		<text>Hold strengthened nanozaschitny a medical suit. Has established PNV 'Digital Th' ...</text>
+		<text>Hold the strengthened Nanosuit 'Medic' Has established PNV 'Digital Th' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_2222">
 		<text>Strengthen a suit...</text>
@@ -2102,13 +2101,13 @@
 		<text>The Fighting suit of the ecologist...</text>
 	</string>
 	<string id="update_outfit_sakharov_204">
-		<text>Nanozashchitnyj a suit...</text>
+		<text>Nanosuit 'prototype' V2 ...</text>
 	</string>
 	<string id="update_outfit_sakharov_205">
-		<text>Nanozashchitnyj gravikostyum ...</text>
+		<text>Nanosuit 'Antigravity' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_206">
-		<text>Nanozashchitnyj a medical suit...</text>
+		<text>Nanosuit 'Medic' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_207">
 		<text>Hold the strengthened suit of the ecologist.</text>
@@ -2117,13 +2116,13 @@
 		<text>Hold the strengthened fighting suit of the ecologist.</text>
 	</string>
 	<string id="update_outfit_sakharov_209">
-		<text>Hold strengthened nanozaschitny a suit.</text>
+		<text>Hold the strengthened Nanosuit 'prototype' V2.</text>
 	</string>
 	<string id="update_outfit_sakharov_210">
-		<text>Hold strengthened nanozaschitny gravikostyum.</text>
+		<text>Hold the strengthened Nanosuit 'Antigravity'</text>
 	</string>
 	<string id="update_outfit_sakharov_211">
-		<text>Hold strengthened nanozaschitny a medical suit.</text>
+		<text>Hold the strengthened Nanosuit 'Medic'</text>
 	</string>
 	<string id="update_outfit_sakharov_222222">
 		<text>With established PNV...</text>
@@ -2192,7 +2191,7 @@
 		<text>At me it is established PNV "White night"... Here, hold...</text>
 	</string>
 	<string id="update_outfit_sakharov_3044">
-		<text>strengthening Cost nanozaschitnogo a suit, with established PNV makes 200 thousand roubles and the artefact 'Steel Scale' is still necessary ...</text>
+		<text>Cost for strengthening 'prototype' V2 Nanosuit, with established PNV makes 200 thousand roubles and the artefact 'Steel Scale' is still necessary ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0341">
 		<text>At me it is established PNV "Green"... Here, hold...</text>
@@ -2219,7 +2218,7 @@
 		<text>At me it is established PNV "White night"... Here, hold...</text>
 	</string>
 	<string id="update_outfit_sakharov_3055">
-		<text>strengthening Cost nanozaschitnogo gravikostyuma, with established PNV makes 300 thousand roubles and the artefact 'Steel Scale' is still necessary ...</text>
+		<text>Cost for strengthening 'Antigravity' Nanosuit, with established PNV makes 300 thousand roubles and the artefact 'Steel Scale' is still necessary ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0351">
 		<text>At me it is established PNV "Green"... Here, hold...</text>
@@ -2246,7 +2245,7 @@
 		<text>At me it is established PNV "White night"... Here, hold...</text>
 	</string>
 	<string id="update_outfit_sakharov_3066">
-		<text>strengthening Cost nanozaschitnogo a medical suit, with established PNV makes 300 thousand roubles and the artefact 'Steel Scale' is still necessary ...</text>
+		<text>Cost for strengthening 'Medic' Nanosuit, with established PNV makes 300 thousand roubles and the artefact 'Steel Scale' is still necessary ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0361">
 		<text>At me it is established PNV "Green"... Here, hold...</text>
@@ -2321,76 +2320,76 @@
 		<text>Here, receive the strengthened fighting suit of the ecologist with PNV "White night"...</text>
 	</string>
 	<string id="update_outfit_sakharov_0391">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Green' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0392">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Digital' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0393">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Sepia' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0394">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Halogen' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0395">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Cat's Eye' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0396">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Psi effect' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0397">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'Moonlight' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_0398">
-		<text>Here, receive strengthened nanozaschitny a suit with PNV 'White night' ...</text>
+		<text>Here, receive strengthened 'prototype' V2 Nanosuit with PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03101">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Green' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03102">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Digital' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03103">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Sepia' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03104">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Halogen' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03105">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Cat's Eye' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03106">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Psi effect' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03107">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'Moonlight' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03108">
-		<text>Here, receive strengthened nanozaschitny gravikostyum with PNV 'White night' ...</text>
+		<text>Here, receive strengthened 'Antigravity' Nanosuit with PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03111">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Green' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Green' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03112">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Digital' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Digital' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03113">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Sepia' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Sepia' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03114">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Halogen' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Halogen' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03115">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Cat's Eye' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Cat's Eye' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03116">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Psi effect' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Psi effect' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03117">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'Moonlight' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'Moonlight' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_03118">
-		<text>Here, receive strengthened nanozaschitny a medical suit with PNV 'White night' ...</text>
+		<text>Here, receive strengthened 'Medic'  Nanosuit with PNV 'White night' ...</text>
 	</string>
 	<string id="update_outfit_sakharov_999">
 		<text>While it is necessary nothing...</text>

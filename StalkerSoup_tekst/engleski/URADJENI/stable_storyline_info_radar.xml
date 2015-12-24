@@ -1,25 +1,22 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-<string id="bun_code">
-<text>Prate me neki brojevi, kao da su dolaze iz prošlog života. Znao sam brojeve ali ne verujem da ih se... Sad sam se setio - 342089. To je šifra jednih vrata, ali ne sećam se koji je put do tih vrata..</text>
-</string>
-<string id="bun_monolith_pda">
-<text>PDA vojnika Monolita</text>
-</string>
-<string id="rad_code_door_info">
-<text>Mrtvi naučnik imao je jednu kartu sa sobom na kojoj su jedna vrata bila obeležena. Šifra 1287975</text>
-</string>
-<string id="rad_code_door_info_name">
-<text>Kodirana vrata</text>
-</string>
-<string id="rad_get_to_aes_desc">
-<text>Barmen: "Ovde su svi poludeli kada su saznali! Svaki pojedinac se uputio prema centru Zone: Samotnjaci, Fridom, Djuti, čak i Plaćenici. Ko prvi tamo stigne, dobija sve! Taj Ispunitelj Želja, mesto puno artefakta, i sam đavo zna šta ima još. Požuri se! Ako se taj Ispunitelj Želja stvarno nalazi ispod Sarkofaga, on će prvom ko ga nađeispuniti njegove želje. Trenutno se sada, ispred Pripjata, okuplja jedna jedinica veterana. Ako se požuriš, možeš sa njima krenuti."</text>
-</string>
-<string id="rad_sleep_info">
-<text>Isključio sam Spaljivača. Pritom sam iz nepoznatog razloga izgubio svest. Onda sam imao jedan san: video sam veliku nuklearnu elektranu u Černobilu i taj Sarkofag. Onda jak bljesak i video sam taj svetleći monolit ispod Sarkofaga. Verujem, da je to taj Ispunitelj želja. Jedan stalker, zadihan i u krpama umotan, posle toga, nemoćno ispruža svoju ruku... Dalje jedan jak bljesak i vidim prvi deo moga sna... Jedan čovek, stoji okrenut leđima prema meni i puca na sve strane. Neko viče "Strelok". Taj čovek zadrhta, ostade jedan momenat nepokretan i počne se lagano okretati... ali slike su izvrnute, kao kad bi neko pustio film unazad, i onda vidim, kako on sa svojim oružjem vraća pacove nazad u reaktor... Jednom sam već bio tamo. Ja moram ka Monolitu.</text>
-</string>
-<string id="rad_sleep_info1">
-<text>Spaljivač je gotov</text>
-</string>
-<!-- Preveo i prilagodio Flexerca---27.01.2015 --13.09 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:54 -sadd -->
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="bun_code">
+		<text>A number haunts me, as if it's chasing me from a previous life. I knew it then, when I didn't believe. I remember it now - 342089. It's the code to a door but I do not remember the way to the door.</text>
+	</string>
+	<string id="bun_monolith_pda">
+		<text>Monolith soldier's PDA</text>
+	</string>
+	<string id="rad_code_door_info">
+		<text>The dead scientist had a map with a door marked on it. Code 1287975</text>
+	</string>
+	<string id="rad_code_door_info_name">
+		<text>Code door</text>
+	</string>
+	<string id="rad_get_to_aes_desc">
+		<text>Barkeep:"Everyone here just went crazy when they found out! Everyone who could started pushing towards the center of the Zone: loners, Freedom, Duty, even mercs. The one who gets there first will get everything! Wish granter, the klondike of artifacts, and the devil knows what else. Hurry up, if the Granter is indeed in the sarcophagus of the station, then the one who gets there first will get his wishes granted. Right now there's a detachment of veterans gathering in front of Pripyat. If you hurry, you'll be able to go with them."</text>
+	</string>
+	<string id="rad_sleep_info">
+		<text>I turned off the Scorcher. For some reason, I lost conciousness just as I did it. Then, I had a dream: I saw again the massive Chernobyl power plant and the sarcophagus. Then a flash. The shining Monolith inside the sarcophagus. I understand that it is the Wish-Granting Machine. A stalker, exhausted and in rags, reaches feebly out to it...a bright flash and I see a fragment of the first dream... A man stands with his back to me and keeps shooting. Someone shouts, "Strelok!". The man shudders, freezes for a moment and then starts to turn slowly...but the pictures slide past, as if a film was played backwards, and I see how he uses his weapon to force the rats back into the station... I realize that I was there. I must go to the Monolith.</text>
+	</string>
+	<string id="rad_sleep_info1">
+		<text>The Scorcher is done with</text>
+	</string>
