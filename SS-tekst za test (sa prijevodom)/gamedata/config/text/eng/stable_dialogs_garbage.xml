@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.0, line 308 Russian char. aleks1970 -->
+<string_table>
+	<string id="gar_dolg_blokpost_11">
+		<text>Stani stalkeru. Ne možeš ići dalje!</text>
+	</string>
+	<string id="gar_dolg_blokpost_111">
+		<text>Zašto?</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111">
+		<text>Zato što je ovo naša teritorija - teritorija Djutija, veoma smo izbirljivi kada treba da propustimo nekog da prođe kroz našu bazu. Ako nemaš ništa bitno da razgovaraš sa našim vođama, nećeš proći ovde.</text>
+	</string>
+	<string id="gar_dolg_blokpost_11111">
+		<text>Razumem.</text>
+	</string>
+	<string id="gar_dolg_blokpost_111111">
+		<text>To su pravila.</text>
+	</string>
+	<string id="gar_dolg_blokpost_11112">
+		<text>Moram da prođem, imam neka posla sa Barmenom.</text>
+	</string>
+	<string id="gar_dolg_blokpost_111121">
+		<text>Da, Barmen nam je rekao za tebe. Možeš proći.</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111211">
+		<text>Radije ću platiti. Ovde.</text>
+	</string>
+	<string id="gar_dolg_blokpost_11112111">
+		<text>Dobro! Možeš ići, bolje da imaš neka važna posla sa Barmenom, jasno? I budi oprezan - ima puno anomalija napred.</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111212">
+		<text>Šta je usluga?</text>
+	</string>
+	<string id="gar_dolg_blokpost_11112121">
+		<text>Ne mnogo. Tamo je krdo divljih veprova koje treba ubiti. Skini ih i smatraj da si platio prolaz.</text>
+	</string>
+	<string id="gar_dolg_blokpost_111121211">
+		<text>Dogovoreno.</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111212111">
+		<text>Srećno stalkeru.</text>
+	</string>
+	<string id="gar_dolg_blokpost_111121212">
+		<text>Nemam novac.</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111212121">
+		<text>Onda, bolje počni da ga tražiš!</text>
+	</string>
+	<string id="gar_dolg_blokpost_111122">
+		<text>Nemam novac.</text>
+	</string>
+	<string id="gar_dolg_blokpost_111123">
+		<text>Onda, ne možeš proći do Bara.</text>
+	</string>
+	<string id="gar_dolg_blokpost_1231">
+		<text>Hvala što si pomogao u borbi protiv divljih veprova, uzmi ovu zasluženu nagradu.</text>
+	</string>
+	<string id="gar_dolg_blokpost_12311">
+		<text>Hvala!</text>
+	</string>
+	<string id="gar_dolg_blokpost_22">
+		<text>Dakle, da li si pobio one divlje veprove?</text>
+	</string>
+	<string id="gar_dolg_blokpost_221">
+		<text>Ne još.</text>
+	</string>
+	<string id="gar_dolg_blokpost_2211">
+		<text>Šteta. Kada počneš da ih komadaš, donesi meni jedan deo, hoćeš li?</text>
+	</string>
+	<string id="gar_dolg_blokpost_222">
+		<text>Da, sve sam ih pobio.</text>
+	</string>
+	<string id="gar_dolg_blokpost_2221">
+		<text>U redu, idi. I pozdravi Barmena za mene, važi?</text>
+	</string>
+	<string id="gar_dolg_blokpost_33">
+		<text>Pozdravi Barmena od mene kad ga vidiš. Ne zaboravi - puno je anomalija na putu pa budu oprezan.</text>
+	</string>
+	<string id="gar_dramm_novice_start_0">
+		<text>Hvala čoveče - stvarno si mi pomogao. Neću ti ovo zaboraviti.</text>
+	</string>
+	<string id="gar_dramm_novice_start_1">
+		<text>Šta se dešava ovde?</text>
+	</string>
+	<string id="gar_dramm_novice_start_11">
+		<text>OK.</text>
+	</string>
+	<string id="gar_dramm_novice_start_2">
+		<text>Pokušavamo da očistimo Deponiju od Bandita. Moj prijatelj je napravio sačekušu u blizini, za grupu Bandita. Ukoliko ih ne zaustavimo, preuzeće kontrolu nad Deponijom i niko neće moći da ide dublje u Zonu. Razgovaraj sa našim komandirom. On i njegovi ljudi su tu blizu, na otpadu mašina. Ja također idem tamo - možemo ići zajedno ukoliko želiš.</text>
+	</string>
+	<string id="gar_dramm_novice_start_21">
+		<text>Krenimo.</text>
+	</string>
+	<string id="gar_dramm_novice_start_3">
+		<text>Možeš li mi reći nešto o Deponiji?</text>
+	</string>
+	<string id="gar_dramm_novice_start_31">
+		<text>Nema šta da se kaže. Deponija je...đubrište. Borci Djutija čuvaju severni put ka Baru. Možda bi želeo da ih izbegneš - Djuti je pun gadnih tipova. Desno su putevi u Mračnu Dolinu, ali su tamo nivoi radijacije veoma veliki. U blizini je Grimpenov Glib - užasne močvare pune anomalija. Kažu da je tamo lako naći pristojan artefekat, ali je još lakše naći gomilu nevolja. Dobro, bar u Glibu nema Baskervilskog psa!</text>
+	</string>
+	<string id="gar_dramm_novice_start_311">
+		<text>Nastavi.</text>
+	</string>
+	<string id="gar_dramm_novice_start_3111">
+		<text>Na desno, pored močvara, nalazi se tajno skriveno mesto. Videćeš metalnu konstrukciju koja visi iznad bare. Moj štek je odma' ispod... Stavio sam ga tamo pre nekog vremena ali ti si mi spasio život i verovatno će tebi više trebati. Možeš ga slobodno uzeti.</text>
+	</string>
+	<string id="gar_dramm_novice_start_31111">
+		<text>Hvala čoveče, to je korisna informacija.</text>
+	</string>
+	<string id="gar_dramm_novice_start_312">
+		<text>To je interesantno, hvala.</text>
+	</string>
+	<string id="gar_hellcar_start_11">
+		<text>Hej stalkeru, stigao si na vreme! Stvarno bi nam dobrodošla tvoja pomoć. Ova Banditska kopilad pokušava da uspostavi kontrolu nad Deponijom. Pre pola sata smo imali razmenu vatre i uspeli smo da smaknemo tri džukele. Ostali su se povukli, ali sam mrtav siguran da ce se vratiti sa pojačanjem vrlo brzo. Nije nas puno ostalo i još jedan čovek bi nam dobro došao.</text>
+	</string>
+	<string id="gar_hellcar_start_111">
+		<text>Nastavi.</text>
+	</string>
+	<string id="gar_hellcar_start_1111">
+		<text>Ovde smo im pripremili zasedu. Doći će iz pravca zapada, iz Agropromovog Istraživačkog Instituta. Pomogni nam da uništimo njihovo pojačanje i nećeš zažaliti!</text>
+	</string>
+	<string id="gar_hellcar_start_11111">
+		<text>U redu, pomoći ću vam.</text>
+	</string>
+	<string id="gar_hellcar_start_111111">
+		<text>Sjajno.</text>
+	</string>
+	<string id="gar_hellcar_start_11112">
+		<text>To nije moja stvar i ne želim da se mešam.</text>
+	</string>
+	<string id="gar_hellcar_start_111121">
+		<text>Kako 'oćeš. Proklinjaćeš svoju glupost svaki put kada budeš morao da plaćaš tim glavonjama za prolazak u Zonu.</text>
+	</string>
+	<string id="gar_hellcar_start_11113">
+		<text>Sve sam ih pobio.</text>
+	</string>
+	<string id="gar_hellcar_start_111131">
+		<text>Ljudina si! Ali ja bih bio siguran, za svaki slučaj.</text>
+	</string>
+	<string id="gar_hellcar_start_21">
+		<text>Nemamo o čemu da razgovaramo.</text>
+	</string>
+	<string id="gar_hellcar_start_3111">
+		<text>Hvala čoveče, stvarno si nam pomogao tamo. Želiš li da prihvatiš nešto novca? Mali znak naše pažnje.</text>
+	</string>
+	<string id="gar_hellcar_start_31111">
+		<text>Svakako.</text>
+	</string>
+	<string id="gar_hellcar_start_311111">
+		<text>Evo, ovo bi trebalo da pokrije troškove lečenja.</text>
+	</string>
+	<string id="gar_hellcar_start_3111111">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="gar_hellcar_start_31113">
+		<text>Reci mi nešto o sebi.</text>
+	</string>
+	<string id="gar_hellcar_start_311131">
+		<text>Ime mi je Bes. U ove krajeve sam došao pre tri godine. Kao mnogi drugi momci u Zoni, ja sam begunac, tražen zbog dva ubistva i GBH. Pre nekoliko godina, jedan moj prijatelj je žestoko prebijen - u bolnici su morali bukvalno da ga krpe. Onda sam platio skotovima koji su obavili malu "posetu". Kada su se pojavili bakreni, jednog sam morao da upucam i da skočim sa prozora trećeg sprata - od tada sam ovde. Dobro sam se snašao ovde, ali je i lista mojih kriminalnih aktivnosti postala duža. Pokušavam i ovde da se borim protiv bezakonja, baš kao što sam to radio napolju. Treniram Početnike i učim ih da prežive u Zoni.</text>
+	</string>
+	<string id="gar_hellcar_start_3111311">
+		<text>Zašto se onda ne pridružiš Djutiju, ako se već tako osećaš?</text>
+	</string>
+	<string id="gar_hellcar_start_31113111">
+		<text>Djuti se bori protiv Zone, ja se borim za ljude. Osim toga, suviše su blisko povezani sa vladom i Vojskom. Ne želim da se jednog dana probudim u hladnoj ćeliji.</text>
+	</string>
+	<string id="gar_hellcar_start_311131111">
+		<text>Neka ti je sa srećom.</text>
+	</string>
+	<string id="gar_hellcar_start_31114">
+		<text>Kakvo je ovo mesto?</text>
+	</string>
+	<string id="gar_hellcar_start_311141">
+		<text>Deponija. Ovde smo kao kod kuće. Vidiš one gomile sranja? Ne želiš da ideš tamo, veruj mi. Prepuno je radioaktivnog otpada, Gajgerov brojač potpuno poludi tu. Ovo je jedini pristojan put i Banditi postaju sve više aktivni u poslednje vreme. Useru se od pomisli da idu dublje u Zonu, na teritoriju Djutija, poput iskusnih stalkera. Ali te hijene prosto obožavaju da pljačkaju Početnike ovde. Pa, ako nikog drugog nije briga, mi moramo da se zauzmemo i borimo za sebe.</text>
+	</string>
+	<string id="gar_hellcar_start_3111411">
+		<text>Nastavi.</text>
+	</string>
+	<string id="gar_hellcar_start_31114111">
+		<text>Svuda, a posebno ovde, moraš da se ponašaš kao ljudsko biće, ne kao životinja vođena pohlepom. To je moj pogled na svet.</text>
+	</string>
+	<string id="gar_hellcar_start_311141112">
+		<text>Da li postoje neke velike zgrade u Deponiji?</text>
+	</string>
+	<string id="gar_hellcar_start_31114111211">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="gar_hellcar_start_31115">
+		<text>Hvala, nije mi potrebno ništa od tebe.</text>
+	</string>
+	<string id="gar_hellcar_start_3112">
+		<text>Znam dosta toga, mogao bih nešto da podelim s tobom.</text>
+	</string>
+	<string id="gar_hellcar_start_41">
+		<text>Još uvek nije gotovo. Završimo posao pa ćemo pričati kasnije.</text>
+	</string>
+	<string id="gar_hellcar_start_51">
+		<text>Ej Obeleženi.</text>
+	</string>
+	<string id="gar_seriy_start_11">
+		<text>Do đavola, ovo nije vreme za priču! Za nekoliko sekundi samo će oružje pričati. Pomogni mi da ih odbijemo pa ćemo onda pričati.</text>
+	</string>
+	<string id="gar_seriy_start_22">
+		<text>Hvala za pomoć jer su stvari postale prilično čupave. Nego, šta radiš ti ovde?</text>
+	</string>
+	<string id="gar_seriy_start_221">
+		<text>Tražim informacije u vezi Streloka. Lisac mi je rekao za tebe pa sam došao da porazgovaramo.</text>
+	</string>
+	<string id="gar_seriy_start_2211">
+		<text>OK, pošto si mi pomogao za džabe, reći ću ti. Jedan od momaka, bivši "kopač" po imenu Krtica me čeka. Iskopao je Strelokov štek, ali ne znam da li je našao nešto tamo. Ovo su koordinate mesta susreta. Reci mu da te ja šaljem. Tražiće me sada pa ću nestati na neko vreme. Evo i nešto para za tvoju pomoć.</text>
+	</string>
+	<string id="gar_seriy_start_2212">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="gar_seriy_start_222">
+		<text>Potrebne su mi informacije o Streloku...možda ti znaš nešto?</text>
+	</string>
+	<string id="gar_seriy_start_2221">
+		<text>OK, pošto si mi pomogao za džabe, reći ću ti. Jedan od momaka, bivši "kopač" po imenu Krtica me čeka. Iskopao je Strelokov štek i našao je dokumenta koja objašnjavaju neke stvari. Neki Banditi su ga jurili pa je morao da ostavi dokumente, ali je zapamtio mesto. Tražiće me sada pa ću nestati na neko vreme. Evo ti koordinate mesta susreta sa Krticom. Reci mu da te ja šaljem. Ubacio sam ti neke informacije u PDA. Evo ti i nešto para zbog tvoje pomoći.</text>
+	</string>
+	<string id="gar_seriy_start_2222">
+		<text>Hvala za informaciju.</text>
+	</string>
+	<string id="gar_seriy_start_33">
+		<text>Ej čoveče! Moram da priznam da je maločas bilo prilično čupavo. Nego, šta ti radiš ovde?</text>
+	</string>
+	<string id="gar_seriy_start_44">
+		<text>Putuj bezbedno stalkeru. Siguran put je iza anomalija pravo do artefekata.</text>
+	</string>
+	<string id="gar_seriy_start_441">
+		<text>Šta se sve može pronaći u Deponiji?</text>
+	</string>
+	<string id="gar_seriy_start_4411">
+		<text>Možeš pronaći puno nevolja vrlo brzo, to je garant. Ipak, pošto si ti takav istraživač, reći ću ti šta znam. Na istoku je mala šuma. Tamo nema ničeg interesantnog sem gomile džukela, pa budi oprezan. Ova pruga će te odvesti do tunela. Tamo se nalazi puno anomalija, mada možda ima još nečeg, ali ne bih znao jer nisam preterano obraćao pažnju. Verovatno znaš za kontrolni punkt Djutija na severu. To je, u principu, sve što znam o ovom mestu.</text>
+	</string>
+	<string id="gar_seriy_start_44112">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="gar_seryi_about_garbage_0">
+		<text>Slušaj ljudino, šta mogu naći na Deponiji?</text>
+	</string>
+	<string id="gar_seryi_about_garbage_1">
+		<text>Možeš pronaći puno nevolja vrlo brzo, to je garant. Ipak, pošto si ti takav istraživač, reći ću ti šta znam. Na istoku je mala šuma. Tamo nema ničeg interesantnog sem gomile džukela, pa budi oprezan. Ova pruga će te odvesti do tunela. Tamo se nalazi puno anomalija, mada možda ima još nečeg, ali ne bih znao jer nisam preterano obraćao pažnju. Verovatno znaš za kontrolni punkt Djutija na severu. To je, u principu, sve što znam o ovom mestu.</text>
+	</string>
+	<string id="gar_seryi_about_garbage_11">
+		<text>Hvala za ukazano. Misliću o tome.</text>
+	</string>
+	<string id="gar_stalker_about_level_0">
+		<text>Možeš li mi reći nešto o ovom mestu?</text>
+	</string>
+	<string id="gar_stalker_about_level_1">
+		<text>Dobro, pazi! Gde god pogledaš videćeš smrdljiv otpad. Posle nesreće iz 1986. godine, ovde su doneli radioaktivni otpad, kranove i sve uništene mašine. U suštini, puno je bezvrednog sranja i pokoje anomalije. Čak možeš pronaći i neki artefekat, ali ne bog zna kakav, pa ćeš naletati uglavnom na Početnike. Mnogo početnika znači mnogo razbojnika i Bandita, pa je najbolje da se ne zadržavaš puno u blizini. Dalje na istok je gomila radioaktivnih "džepova" i tamo ne možeš ići bez zaštite. Odlazak na jug će te odvesti na granice Zone. Idi na sever i eventulno ćeš naići na fabriku Rostov i stalkerski bar. Na istoku je Mraćna dolina, sumorno i maglovito mesto. Na zapadu je Agroprom Istraživački Institut. Označiću ti bezbedne puteve i prolaze na mapi.</text>
+	</string>
+	<string id="gar_hellcar_start_3111411121">
+		<text>U centru se nalazi veliki hangar i uglavnom je prilično tiho. Ukoliko zagusti, možeš da provedeš noć tamo. Ukoliko kreneš na zapad, u pravcu Agroproma, naići ćeš na kamp Bandita, to je mesto odakle su došle one nakaze koje smo poubijali. Ipak, imam utisak da ih tamo ima još.</text>
+	</string>
+	<string id="gar_seriy_story_0">
+		<text>Da li znaš nešto interesatno?</text>
+	</string>
+	<string id="gar_seriy_story_1">
+		<text>Juče sam pronašao vrlo redak artefakt, slušaj, ovako je to bilo. Šetao oko Vojnih Skladišta, kroz selo. Bacajući šrafove kao i obično, gledao sam u detektor i pušio cigaretu. Odjednom sam uočio da šraf koji sam bacio malo pre toga nije pao na zemlju, samo je lebdeo u vazduhu. Bio sam bukvalno šokiran. Ja sa u Zoni već oko godinu dana i nakda do sada nisam video takvu stvar! Pretpostavljam da sam bio toliko šokiran da je moj mozak prestao da radi, jer sam položio svoju ruku na tu stvar...</text>
+	</string>
+	<string id="gar_seriy_story_2">
+		<text>Kako si se osećao?</text>
+	</string>
+	<string id="gar_seriy_story_3">
+		<text>Osećao sam se kao da sam svoju ruku stavio u neku lepljivu sluz... A čak nisam mogao ruku ni da podignem! Tako da sam tamo stajao sa ukočenom rukom, pomislio sam da izgledam kao neki prosijak.</text>
+	</string>
+	<string id="gar_seriy_story_4">
+		<text>Kako si uspeo da se izvučeš?</text>
+	</string>
+	<string id="gar_seriy_story_5">
+		<text>To ti je bila sva priča o tome! Primetio sam prilično čudnu stvar oko 30 centimetara od moje ruke. To je bila spirala sa plavim kapljicama po sebi. Ona je takođe bila vrlo sjajna... Kao da je emitovala nešto ... Tako da sam se prilično pomučio u pokušaju da dohvatim tu stvar... Nastavio sam da guram svoju ruku u napred oko pola sata vremena. </text>
+	</string>
+	<string id="gar_seriy_story_6">
+		<text>Krvopije su gledale u tebe verovatno kao neku vrstu predstave.</text>
+	</string>
+	<string id="gar_seriy_story_7">
+		<text>Možda. A Kontroler je prodavao karte... </text>
+	</string>
+	<string id="gar_seriy_story_8">
+		<text>Pa šta se dalje dogodilo?</text>
+	</string>
+	<string id="gar_seriy_story_9">
+		<text>Ništa naročito. Čim sam uspeo da dohvatim tu stvar sve je prestalo. Nema sluzi. Ali sada ja imam svoj sopstveni matrix.</text>
+	</string>
+	<string id="gar_seriy_story_10">
+		<text>Da, baš tako. A kako je taj artefakt nazvan?</text>
+	</string>
+	<string id="gar_seriy_story_11">
+		<text>Već sam pronašao neke informacije o njemu. Barmen mi je rekao. On nije znao ništa o anomaliji, ali je artefakt nosio ime 'Perle'.</text>
+	</string>
+	<string id="gar_seriy_story_12">
+		<text>Kul.</text>
+	</string>
+	<string id="gar_dolg_blokpost_story_0">
+		<text>Ima li šta novo ovde?</text>
+	</string>
+	<string id="gar_dolg_blokpost_story_1">
+		<text>Ništa naročito, zaista. Hej, Obeleženi, da li si do sada susretao nove specnaz vojnike?</text>
+	</string>
+	<string id="gar_dolg_blokpost_story_2">
+		<text>Ne,a jesi li ti?</text>
+	</string>
+	<string id="gar_dolg_blokpost_story_3">
+		<text>Da. Skoro sam čuo vrlo romantičnu i iznenađujuću priču. Dakle, krenuo sam u ekspediciju u sektor blizu podzemlja. Naučnici su tražili glavu psudo-psa. Dakle, stigao sam do podzemlja, sakrio sam se blizu auta, posmatrajući okolinu dvogledom. Onda sam iznenada začuo režanje iza sebe. Kosam mi se naježila, srce mi se zaustavilo. Okrenuo sam se i ugledao ogromnog pseudo-psa, gledao je pravo u mene! Pretpostavio sam, on je dokrajčio mnoge naše momke. Pomislio sam da je onda i na mene došao red. Ceo život mi je tada prošao kroz glavu, jel znaš, a onda - BANG! Njegova lobanja se lomi, njegov jebeni mozak na sve strane leti. Bio sam toliko šokiran, da sam samo stajao tamo i treptao očima. Ko je to bio moj spasioc? Ugledo sam nekoga kako izlazi iz kontejnera za otpad. To je bio vojnik! Sa nekim opako dobrim odelom! Egzoskeleton, držeći Dragunov. Dakle, došao je do mene i upitao 'Ko si ti?' sa kompjuterizovanim glasom. Znači, bio sam nervozan, pa sam mu sve ispričao na brzinu, da su me naučnici poslali na misiju i da moram pronaći mrtvog pseudo-psa.  Sladaćag momenta on je skinuo svoju kacigu ... ugledao sam da je to žena u stvari! Ona je takođe bila i vrlo lepa</text>
+	</string>
+	<string id="gar_dolg_blokpost_story_4">
+		<text>*Smeh* trebao si tražiti broj telefona...</text>
+	</string>
+	<string id="gar_hellcar_story_0">
+		<text>Ovde je vrlo dosadno...</text>
+	</string>
+	<string id="gar_hellcar_story_1">
+		<text>Dosadno, kažeš? Onda poslušaj ovo. Desila mi se vrlo čudna stvar. Jednom, šetao sam kroz napušteno selo. Tuda sam prošao mnogo puta ranije... Možda si i ti takođe, skoro svako prolazi tuda. Postalo je mračno. Iznenada sam ugledao svetlost koja se probijala kroz prozore jedne od kuća. Bio sam radoznao da vidim šta je to tamo, ali kuća nije izgledala napušteno uopštel. Pogledao sam kroz prozor ali nisam mogao nište da vidim, ali i dalje je bilo sve čudno. Dakle, odlučio sam da uđem unutra. Čim sam ušao bio sam šokiran. Sve je bilo tako čisto i uredno. Nov nameštaj svude, cveće na prozorima, čah itepisi na podovima. To je bilo zaista čudno, čak sam se zapitao da li su se to vlasnici vratili, znaš, to se ponekad dešava. Krenuo sam prema drugoj sobi i ugledao sto sa tanjirima i hranom na njemu, a i bokal sa nečim providnim u sebi. Dakle, pomislio sam da ljudi moraju biti negde u blizini. Pričekao sam neko vreme. Ali bio sam zaista gladan, a supa je mirisala tako dobro! </text>
+	</string>
+	<string id="gar_hellcar_story_2">
+		<text>'ajde ispričaj mi bar neku bajku u koju ću poverovati.</text>
+	</string>
+	<string id="gar_hellcar_story_3">
+		<text>... Nisam oseti da nešto miriše tako ukusno godinama! Rekao sam sam sebi, zašto je ovde hrana ako nikog nema da je jede? Želeo sam da jedem, pa sam pomislio, možda ljudi koji ovde žive neće biti mnogo uvređeni ako uzmem malo. A, za svaki slučaj, mogu im iplatiti za to. Seo sam za stolicu, bila je vrlo meka i udobna, odložio sam sačmaru u blizini i počeo da jedem. Hrana je bila odlična a votka u bokalu je bila vrlo dobra, ne kao smeće koje mi prodaju ovuda. Sećam se da mi se prispavalo. Kada sam se probudio već je bilo jutro. Pogledao sam okolo i ... Sranje! Shvatio sam da sedim u sred smrdljivog ćumeza na drvenom sanduku. Dograbio sam moj ranac - plen i moje oružje su bili na svom mestu. Bio sam stvarno iznenađen, čudio sam se kako sam tu dospeo. Izašao sam napolje i pogledao oko sebe. Kuća je izgledala slično ali bila je stara i trošna, kao i ostale kuće u selu. Samo sam stajao tamo, u čudu, pitajući se da nisam pušio nešto zabavno prethodnog dana. Onda nakon nekog vremena, nastavio sam svoj put. Šta ti misliš, zašto se takve stvari događaju?</text>
+	</string>
+	<string id="gar_hellcar_story_4">
+		<text>Mislima di si bio suviše oduševljen votkom toga dana.</text>
+	</string>
+	<string id="gar_hellcar_story_5">
+		<text>Ma šta to govoriš? Ja pijem samo pomalo, a ne konzumiram ni droge niti šta drugo ... Ja sam prilično zdrava osoba. Ali kako se to moglo dogoditi?</text>
+	</string>
+	<string id="gar_hellcar_story_6">
+		<text>Nisam siguran, burazeru. Mislim da Zona previše napreže naše mozgove. Ja još uvek imam čudne snove o Černobilskoj nuklearnoj elektrani, kao da sam bio tamo...</text>
+	</string>
+	<string id="gar_seriy_story2_0">
+		<text>Da li si nekada čuo za 'Ispunioca Želja'?</text>
+	</string>
+	<string id="gar_seriy_story2_1">
+		<text>Naravno! Barmen mi je pričao te priče? Čak sam ga jednom skoro i pronašao.</text>
+	</string>
+	<string id="gar_seriy_story2_2">
+		<text>Nema šanse!</text>
+	</string>
+	<string id="gar_seriy_story2_3">
+		<text>Ma neka me Krvopija odnese ako lažem. Iskreno! Slušaj, sva počinje ovde, u Deponiji. Skrivao sam se od Pere Mizera, znaš da je sa tim drkadžijom nemoguće raditi... Smučilo mi se njegovo brbljanje, "To je moje, prvi sam ga ugledao!", zatim počne pucati u svim pravcima ... Dakle. Dok sam se skrivao nalio sam lobanju sa votkom malo previše, znaš, morao sam da se zaštitim od radijacije i onda sam krenuo pogrešnim putem, završio sam u močvari ... Tamo bih se i udavio, ali Radiša Indijanac me je spasao i u povratku rekao mi je da je 'Kasapin' pronašao "Ispunica Želja"... I da on zna put za to mesto, ponudio mi je da krenem sa njim, zato što sam to nikad ne bi uspeo. A ovaj Stalker, "budala" zaboravio je da ga pita za put, onda su neki mutanti napali pre nego što smo stigli do punkta. Ja sam stigao do punkta, jer su moje stvari potonule u mečvari, ali Radiša se povukao ka močvari... Od tada ga više nisam video, a on nije imao vremena da mi kaže za put do 'Ispunioca Želja', kakva šteta ... Eto, to ti je priča.</text>
+	</string>
+	<string id="gar_seriy_story2_4">
+		<text>Sereš, to je najveća laž koju sam do sada čuo.</text>
+	</string>
+	<string id="gar_seriy_story2_5">
+		<text>Jebi se...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 15:09 21.04.2015 -->

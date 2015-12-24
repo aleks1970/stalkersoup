@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.2 redone -->
+<!-- Vergas ogg-player ============================ -->
+
+#include "text\eng\string_table_ogg_flash_1.xml"
+#include "text\eng\string_table_ogg_flash_2.xml"
+#include "text\eng\string_table_ogg_flash_3.xml"
+#include "text\eng\string_table_ogg_flash_4.xml"
+#include "text\eng\string_table_ogg_flash_5.xml"
+#include "text\eng\string_table_ogg_flash_6.xml"
+#include "text\eng\string_table_ogg_flash_7.xml"
+#include "text\eng\string_table_ogg_flash_8.xml"
+#include "text\eng\string_table_ogg_flash_9.xml"
+#include "text\eng\string_table_ogg_flash_10.xml"
+#include "text\eng\string_table_ogg_flash_11.xml"
+#include "text\eng\string_table_ogg_flash_12.xml"
+#include "text\eng\string_table_ogg_flash_13.xml"
+#include "text\eng\string_table_ogg_flash_14.xml"
+#include "text\eng\string_table_ogg_flash_15.xml"
+#include "text\eng\string_table_ogg_flash_16.xml"
+#include "text\eng\string_table_ogg_radio.xml"
+
+<string id="mp3_player">
+	<text>Otporan na šok i vlagu mp3-plejer sa ugrađenim FM Radijom. Cela gomila ovih kopija kineske proizvodnje je u skorije vreme stigla u Zonu uz pomoć Vojnog Poručnika, a uspešno su prodati mnogim Trgovcima i predstavnicima raznih Frakcija. Ako želiš da slušaš muziku, prvo moraš da kupiš specijalnu muzičku fleš-karticu od tih opakih 'trgovaca'...</text>
+</string>
+<string id="ogg_flash_short">
+	<text>MP3 Plejer</text>
+</string>
+<string id="mp3_stop">
+	<text>STOJ</text>
+</string>
+<string id="mp3_exit">
+	<text>IZLAZ</text>
+</string>
+<string id="mp3_music">
+	<text>MUZIKA</text>
+</string>
+<string id="mp3_radio">
+	<text>FM Radijo</text>
+</string>
+<string id="mp3_usb">
+	<text>USB</text>
+</string>
+<string id="mp3_files">
+	<text>Fajlovi</text>
+</string>
+<string id="mp3_reader">
+	<text>Čitač Kartice</text>
+</string>
+<string id="mp3_empty">
+	<text>Nije Učitano</text>
+</string>
+<string id="mp3_no_usb">
+	<text>Prazan hod...</text>
+</string>
+<!-- Preveo i prilagodio Coolkingeye -=- 14:33 31.12.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:39 -sadd -->

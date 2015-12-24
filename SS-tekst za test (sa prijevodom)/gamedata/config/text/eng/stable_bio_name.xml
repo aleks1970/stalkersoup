@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.4 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes  -->
+
+	<string id="bio_aes_ordinary_soldier">
+		<text>Obični vojnik. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="bio_aes_Monolit_master">
+		<text>Vođa unutar grupacije "Monolit". Najbolje je držati se podalje od njega. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="bio_aes_Monolit_sniper_gauss">
+		<text>Stalker iz grupacije "Monolit". Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="bio_Monolit_specnaz_rg6">
+		<text>Stalker iz grupacije "Monolit". Izuzetno dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="aes_Monolit_specnaz_bio">
+		<text>Ratoborni član grupacije "Monolit". Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="aes_Soldier_commander_bio">
+		<text>Komandant vojne racije.</text>
+	</string>
+	<string id="aes_Soldier_military_bio">
+		<text>Vojni Stalker. Dobro naoružan i veoma opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="aes_Soldier_sniper_bio">
+		<text>Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="aes_Soldier_specnaz_aes_bio">
+		<text>Vojni Specnaz. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="aes_Soldier_specnaz_aes_name">
+		<text>Vasil Baksuz</text>
+	</string>
+	<string id="aes_Soldier_specnaz_bio">
+		<text>Vojni Specnaz. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="agr_krot_bio">
+		<text>Bivši kopač. Sa grupom istomišljenika ulazi u napuštene laboratorije i bunkere do kojih mogu da dopru.</text>
+	</string>
+	<string id="agr_krot_name">
+		<text>Krtica</text>
+	</string>
+	<string id="bar_arena_stalker">
+		<text>Jedan od učesnika u smrtonosnim borbama u Areni. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="bar_arny_bio">
+		<text>Švercer sa iskustvom. Stekao slavu švercom nekoliko stotina prepariranih mutanata izvan Zone u veoma kratkom periodu.</text>
+	</string>
+	<string id="bar_arny_name">
+		<text>Arni</text>
+	</string>
+	<string id="bar_bar_guard_bio">
+		<text>Izbacivač u baru ili, ako hoćete, telohranitelj Barmena. Ništa se ne zna o njegovoj sadašnjošti ni prošlosti.</text>
+	</string>
+	<string id="bar_bar_guard_name">
+		<text>Garik</text>
+	</string>
+	<string id="bar_bar_guard2_bio">
+		<text>Garikov brat blizanac. Izbacivač na ulazu u Bar. Također tih, kao i njegov brat.</text>
+	</string>
+	<string id="bar_bar_guard2_name">
+		<text>Zorik</text>
+	</string>
+	<string id="bar_barmen_bio">
+		<text>Ni svetac, ni podlac. Barmen zna svoju vrednost i zbog toga ga cene svi Stalkeri. Priča se da je u Zonu pobegao od svoje mračne prošlosti. Posle "bliskog susreta" sa jednom anomalijom, poceo je hramati, pa je odlučio da promeni zanat. Otvorio je bar u blizini baze Djuti, koji je vremenom postao glavno mesto okupljanja veterana Zone. Barmen ima puno veza u Zoni i u spoljnom svetu.</text>
+	</string>
+	<string id="bar_barmen_name">
+		<text>Barmen</text>
+	</string>
+	<string id="bar_beast_name">
+		<text>Zver</text>
+	</string>
+	<string id="bar_drunk_bio">
+		<text>Član grupacije Djuti, zbog čestog pijanstva je više van nje nego u njoj. Djuti mu je dao poslednju šansu da se iskupi jednom misijom. Međutim, suviše je pijan da bi mogao se sabere i da je obavi.</text>
+	</string>
+	<string id="bar_drunk_name">
+		<text>Brom</text>
+	</string>
+	<string id="bar_hunter_bio">
+		<text>Dobrodušni veseljak, njegov jedini problem je što zna da puca jedino iz lovačke puške. Drugo oružje nije probao. Nedavno je upao u nevolje u Divljoj teritoriji i izgubio porodičnu pušku. Sada visi u baru, nadajući se da će mu neko doneti njegovu izgubljenu lovačku pušku.</text>
+	</string>
+	<string id="bar_hunter_name">
+		<text>Lovac</text>
+	</string>
+	<string id="bar_informer_bio">
+		<text>Tajanstvni stalker koji zna mnogo. Trguje informacijma u Baru.</text>
+	</string>
+	<string id="bar_informer_name">
+		<text>Doušnik</text>
+	</string>
+	<string id="bar_ivancov_bio">
+		<text>Komandant svih kaznenih ekspedicija i pohoda na horde mutanata.</text>
+	</string>
+	<string id="bar_ivancov_name">
+		<text>Kapetan Ivancov</text>
+	</string>
+	<string id="bar_kicenko_name">
+		<text>Narednik Kičenko</text>
+	</string>
+	<string id="bar_lelik_bio">
+		<text>Telohranitelj vlasnika Arene. Iz njegove prošlosti je poznato samo loše. On mrzi svoju braću. </text>
+	</string>
+	<string id="bar_lelik_name">
+		<text>Lelik</text>
+	</string>
+	<string id="bar_lisiy_name">
+		<text>Ćelavi</text>
+	</string>
+	<string id="bar_petrenko_bio">
+		<text>Jedan od osnivača Djuti frakcije i ujedno njen idejni vođa. Ogovoran je za sveta pravila frakcije, on je u osnovi regrutovao najvažnije članove Djuti frakcije.</text>
+	</string>
+	<string id="bar_petrenko_name">
+		<text>Pukovnik Petrenko</text>
+	</string>
+	<string id="bar_plichko_bio">
+		<text>Šef obezbeđenja na teritoriji Djutija</text>
+	</string>
+	<string id="bar_plichko_name">
+		<text>Narednik Pličko</text>
+	</string>
+	<string id="bar_ryaboy_bio">
+		<text>Stranac, stradao od Spaljivača Mozgova.</text>
+	</string>
+	<string id="bar_ryaboy_name">
+		<text>Pegavi</text>
+	</string>
+	<string id="bar_voronin_bio">
+		<text>Jedan od osnivača Djuti frakcije i ujedno njen idejni vođa. Ogovoran je za sveta pravila frakcije, on je u osnovi regrutovao najvažnije članove Djuti frakcije. </text>
+	</string>
+	<string id="bar_voronin_name">
+		<text>General Voronjin</text>
+	</string>
+	<string id="cit_bandit_drunk_bio">
+		<text>Alkos.</text>
+	</string>
+	<string id="cit_bandit_general_bio">
+		<text>Nepoznati stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_bandit_veteran_bio">
+		<text>Nepoznati stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_bandits_leader_bio">
+		<text>Jedan od vođa Bandita. Dobro naoružan i veoma opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_bandits_leader_name">
+		<text>Hitri</text>
+	</string>
+	<string id="cit_doctor_bio">
+		<text>Doktor</text>
+	</string>
+	<string id="cit_doctor_name">
+		<text>Doktor</text>
+	</string>
+	<string id="cit_killer_exo_bio">
+		<text>Nepoznati Plaćenik. Dobro naoružan i veoma opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_killer_general_bio">
+		<text>Nepoznat Plaćenik. Verovatno jako dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_killers_leader_bio">
+		<text>Vođa grupacije Plaćenika. Dobro naoružan i jako opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_killers_leader_name">
+		<text>Dušman</text>
+	</string>
+	<string id="cit_vp_bio">
+		<text>Iskusni stalker. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="cit_vp_name">
+		<text>Vasilij Petrovič</text>
+	</string>
+	<string id="dar_corpse_bio">
+		<text>Informacije nedostupne.</text>
+	</string>
+	<string id="dar_explorer_bio">
+		<text>Iskusan stalker. Uvek na oprezu.</text>
+	</string>
+	<string id="dar_explorer_name">
+		<text>Zeka Dvojnik</text>
+	</string>
+	<string id="dar_kalugin_name">
+		<text>Kalugin P.I.</text>
+	</string>
+	<string id="ds_sergant_regular_bio">
+		<text>Narednik regularne Vojske Ukrajine. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="ds_soldier_regular_bio">
+		<text>Vojnik regularne Vojske Ukraine. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_bandit_novice_bio">
+		<text>Nepoznati stalker, sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_captain_bio">
+		<text>Kapetan sa dugim stažom u Vojsci Ukrajine. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_fanat_bio">
+		<text>Postao je vođa kampa nakon odlaska Vuka. Svrsishodan, agresivan, uživa zaslužen autoritet kod početnika.</text>
+	</string>
+	<string id="esc_fanat_name">
+		<text>Fanatik</text>
+	</string>
+	<string id="esc_fox_bio">
+		<text>Stari usamljenik, prekaljen Zonom.</text>
+	</string>
+	<string id="esc_fox_name">
+		<text>Lisac</text>
+	</string>
+	<string id="esc_killer_specnaz_bio">
+		<text>Nepoznati Plaćenik. Verovatno dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_petruha_bio">
+		<text>Sposoban početnik. Uživa Vukovo poverenje, koji ga često šalje u važne misije.</text>
+	</string>
+	<string id="esc_petruha_name">
+		<text>Petruha</text>
+	</string>
+	<string id="esc_provodnik_bio">
+		<text>Živa legenda svoje vrste. Kažu da može da te odvede na bilo koje mesto u Zoni. Njegove usluge su skupe i nisu dostupne svima. Ako mu se ne dopadate, neće vas voditi ni za sve pare ovoga sveta. Veteran, poznaje Zonu uzduž i popreko.</text>
+	</string>
+	<string id="esc_provodnik_name">
+		<text>Vodič</text>
+	</string>
+	<string id="esc_sergant_regular_bio">
+		<text>Narednik regularne Vojske Ukrajine. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_shustryi_bio">
+		<text>Stalker, koji je svoj nadimak dobio zbog svoje okretnosti i sposobnosti da bude nevidljiv i neprimetan. Trgovac Sidorovič ga ponekad angažuje za akcije praćenja, špijuniranja i prisluškivanja.</text>
+	</string>
+	<string id="esc_shustryi_name">
+		<text>Brzi</text>
+	</string>
+	<string id="esc_soldier_commander_bio">
+		<text>Major, komandir vojne predstraže u blizini mosta. Sarađuje sa stalkerima, uzima mito za prelazak ispod mosta.</text>
+	</string>
+	<string id="esc_soldier_commander_name">
+		<text>Major Kuznjecov</text>
+	</string>
+	<string id="esc_soldier_regular_bio">
+		<text>Vojnik regularne Vojske Ukrajine. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_specnaz_bio">
+		<text>Specnaz. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_specnaz_killer_bio">
+		<text>Nepoznat Plaćenik. Dobro naoružan i veoma opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_stalker_novice_bio">
+		<text>Početnik. Nov u Zoni. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="esc_tolik_bio">
+		<text>Obični stalker.</text>
+	</string>
+	<string id="esc_tolik_name">
+		<text>Tolik</text>
+	</string>
+	<string id="esc_wolf_bio">
+		<text>Vođa Kampa Početnika. Stari stalker, planira da napusti sve.</text>
+	</string>
+	<string id="esc_wolf_name">
+		<text>Vuk</text>
+	</string>
+	<string id="escape_trader_bio">
+		<text>Bavio se trgovionom još od malena. U vrtiću je prodavao olovke. U osnovnoj školi trguje žvakama. U srednjoj školi diluje lakim drogama. Pojavom Zone, shvata da se tu može lepo zaraditi. Poznat je po tome što je sposoban da usopstvi dobre trgovačke odnose sa bilo kojom vrstom klijentele.</text>
+	</string>
+	<string id="escape_trader_name">
+		<text>Sidorovič</text>
+	</string>
+	<string id="gar_bandit_leader_bio">
+		<text>Uživa određeni autoritet među Banditima. Pomoćnik Borova.</text>
+	</string>
+	<string id="gar_bandit_leader_name">
+		<text>Vasja Vepar</text>
+	</string>
+	<string id="gar_dolg_blokpost_bio">
+		<text>Stalker iz Djuti frakcije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="gar_dolg_blokpost_leader_bio">
+		<text>Oficir u Djuti frakaciji. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="gar_dolg_blokpost_leader_name">
+		<text>Prapor</text>
+	</string>
+	<string id="gar_dram_novice_bio">
+		<text>Početnik. Pravi prve korake u Zoni.</text>
+	</string>
+	<string id="gar_dram_novice_name">
+		<text>Jurik</text>
+	</string>
+	<string id="gar_hellcar_bio">
+		<text>Krije se u Zoni od zakona. Trudi se da održi red u Zoni po njegovim uslovima. Bori se protiv Bandita. Okrutan ali pravedan.</text>
+	</string>
+	<string id="gar_hellcar_name">
+		<text>Bes</text>
+	</string>
+	<string id="gar_newbie_bio">
+		<text>Početnik. Tek stigao u Zonu. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="gar_seryi_bio">
+		<text>Stalker prljavog lica i ništa manje prljave savesti.</text>
+	</string>
+	<string id="gar_seryi_name">
+		<text>Sivi</text>
+	</string>
+	<string id="gar_stalker_regular_bio">
+		<text>Iskusan stalker. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Dolg_specnaz_bio">
+		<text>Borac iz grupacije Djuti. Obično dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Dolg_specnaz_cherep_bio">
+		<text>Komandant specijalnih snaga Djuti frakcije. Obično dobro opremljen.</text>
+	</string>
+	<string id="mil_Dolg_specnaz_cherep_name">
+		<text>Lobanja</text>
+	</string>
+	<string id="mil_Dolg_specnaz_silence_bio">
+		<text>Borac iz grupacije Djuti. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Killer_informator_bio">
+		<text>Poznat širom Zone kao doušnik i informator.</text>
+	</string>
+	<string id="mil_Killer_informator_name">
+		<text>Ara</text>
+	</string>
+	<string id="mil_killer_master_bio">
+		<text>Nepoznati Plaćenik. Dobro naoružan i jako opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_killer_sniper_bio">
+		<text>Nepoznati Plaćenik. Očigledno nov u Zoni. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Killer_specnaz_bio">
+		<text>Nepoznati Plaćenik. Verovatno dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Monolit_master_bio">
+		<text>Stražar u grupaciji Monolit. Najbolje se držati podalje od njega. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Monolit_regular_bio">
+		<text>Stalker iz grupacije Monolit. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Stalker_master_bio">
+		<text>Jedan od veterana Zone. Poznaje Zonu kao svoj dlan. Obično dobro opremljen i veoma opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Stalker_veteran_bio">
+		<text>Stalker veteran. Verovatno dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_blockpost_leader_bio">
+		<text>Stalker iz Fridom frakcije. Komandir Barijere. Čovek koji je okupio grupu ljudi, koji su spremni da žrtvuju svoje živote za zajednički cilj.</text>
+	</string>
+	<string id="mil_Svoboda_blockpost_leader_name">
+		<text>Kep</text>
+	</string>
+	<string id="mil_Svoboda_bodyguard_bio">
+		<text>Telohranitelj Lukaša, vođe Fridom frakcije.</text>
+	</string>
+	<string id="mil_Svoboda_cook_bio">
+		<text>Kuvar frakcije Fridom. Pijanac i svađalica, ali odličan kuvar.</text>
+	</string>
+	<string id="mil_Svoboda_cook_name">
+		<text>Kuvar</text>
+	</string>
+	<string id="mil_Svoboda_engineer_bio">
+		<text>Mehaničar, poznat širom Zone. Može od traktora da napravi tenk, tako bar pričaju za njega.</text>
+	</string>
+	<string id="mil_Svoboda_engineer_name">
+		<text>Šraf</text>
+	</string>
+	<string id="mil_Svoboda_leader_bio">
+		<text>Vođa Fridom frakcije.</text>
+	</string>
+	<string id="mil_Svoboda_leader_name">
+		<text>Lukaš</text>
+	</string>
+	<string id="mil_Svoboda_master_bio">
+		<text>Komandant frakcije Fridom. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_master_Max_bio">
+		<text>Stražar iz grupacije Fridom. Fanatik. Odlično opremljen i jako opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_master_Max_name">
+		<text>Maks</text>
+	</string>
+	<string id="mil_Svoboda_master_Ugrumiy_bio">
+		<text>Stražar iz grupacije Fridom. Fanatik. Odlično opremljen i jako opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_master_Ugrumiy_name">
+		<text>Murk</text>
+	</string>
+	<string id="mil_Svoboda_regular_bio">
+		<text>Stalker iz Fridom frakcije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_sniper_bio">
+		<text>Snajperista iz Fridom frakcije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_specnaz_bio">
+		<text>Borac iz frakcije Fridom. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_stukach_bio">
+		<text>Stalker iz Fridom frakcije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_stukach_name">
+		<text>Pavlik</text>
+	</string>
+	<string id="mil_Svoboda_trader_bio">
+		<text>Poznat po svojoj pohlepi i beskompromisnosti, ali kažu da kod njega možeš nabaviti šta god ti treba.</text>
+	</string>
+	<string id="mil_Svoboda_trader_name">
+		<text>Cicija</text>
+	</string>
+	<string id="mil_Svoboda_zombi_stalker_bio">
+		<text>Stalker iz grupacije Fridom. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="mil_Svoboda_zombi_stalker_name">
+		<text>Ludi stalker iz Fridom frakcije.</text>
+	</string>
+	<string id="mil_Svoboda_zoneguard_bio">
+		<text>Borac iz Fridom frakcije. Obično veoma dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_followers_bomber_name">
+		<text>Saša Beli</text>
+	</string>
+	<string id="pri_followers_common_bio">
+		<text>Veteran stalker. Verovatno dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_monolith_common_bio">
+		<text>Stalker iz grupacije Monolit. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_monolith_exo_bio">
+		<text>Elitni stalker iz Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_monolith_leader_bio">
+		<text>Vođa Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_monolith_leader_name">
+		<text>Haron</text>
+	</string>
+	<string id="pri_monolith_regular_bio">
+		<text>Obični stalker iz grupacije Monolit. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_monolith_specnaz_bio">
+		<text>Stalker iz specijalne jedinice grupacije Monolit. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_zombied_soldier_bio">
+		<text>Redovni vojnik. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="pri_zombied_soldier_name">
+		<text>Zombificirani vojnik</text>
+	</string>
+	<string id="pri_zombied_stalker_bio">
+		<text>Jedan od stalkera koji nije imao sreće.</text>
+	</string>
+	<string id="pri_zombied_stalker_name">
+		<text>Zombificirani stalker</text>
+	</string>
+	<string id="rad_dolg_master_bio">
+		<text>Komandir Djuti frakcije. Odlično opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_ecolog_bio">
+		<text>Naučnik. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_ecolog_guard_bio">
+		<text>Obezbeđenje naučnika. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_ecolog_guard_name">
+		<text>Pomoćnik naučnika</text>
+	</string>
+	<string id="rad_ecolog_name">
+		<text>Pomoćnik naučnika</text>
+	</string>
+	<string id="rad_monolith_general_bio">
+		<text>Stalker iz Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_monolith_specnaz_bio">
+		<text>Borac iz grupacije Monolit. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_specnaz_bio">
+		<text>Spetsnaz. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_stalker_master_bio">
+		<text>Jedan od veterana Zone. Poznaje Zonu kao dlan svoje ruke. Obično dobro opremljen i jako opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_stalker_veteran_bio">
+		<text>Veteran stalker. Verovatno dobro opremljen. Detaljne informacije nedostupne</text>
+	</string>
+	<string id="rad_svoboda_master_bio">
+		<text>Komandir frakcije Fridom. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="rad_zombied_general_bio">
+		<text>Jedan od stalkera kojeg je izdala sreća.</text>
+	</string>
+	<string id="ros_ecolog_guard_bio">
+		<text>Istraživač iz mobilne laboratorije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="ros_freeman_bio">
+		<text>Naučnik, stručnjak za paranormalne fenomene. Radio je u Americi na tajnim projektima. Od nedavno se vodi kao nestala osoba.</text>
+	</string>
+	<string id="ros_freeman_name">
+		<text>Frimen</text>
+	</string>
+	<string id="ros_happy_bio">
+		<text>Pljačkaš i ubica. Nekoliko puta je za njegovu glavu raspisana nagrada. Ranije u dobrim odnosima sa Djutijem, pomogao im je da odbrane njihovu teritoriju. Sada boravi u Divljoj Teritoriji i sa svojom bandom pljačka usamljene stalkere.</text>
+	</string>
+	<string id="ros_happy_name">
+		<text>Srećko</text>
+	</string>
+	<string id="ros_kruglov_bio">
+		<text>Doktor biologije. Pre dolaska u Zonu se bavio proučavanjem patogenih mutacija kod životinja. U Zonu je došao radi proučavanja mutacija Slepih pasa.</text>
+	</string>
+	<string id="ros_kruglov_name">
+		<text>Profesor Kruglov</text>
+	</string>
+	<string id="ros_tiran_bio">
+		<text>Jedan od "heroja" grupacije Plaćenika. Veteran sa metcima svih kalibara u svom telu. Redak psihopata i sadista.</text>
+	</string>
+	<string id="ros_tiran_name">
+		<text>Tiranin</text>
+	</string>
+	<string id="ros_volkodav_bio">
+		<text>Jedan od prvih komandanata Plaćenika. Lider grupe koja sebe naziva "Kerovi". Anarhista koji prezire sve zakone, osim zakona džungle.</text>
+	</string>
+	<string id="ros_volkodav_name">
+		<text>Vukodav</text>
+	</string>
+	<string id="sar_monolith_bio">
+		<text>Stalker iz grupacije Monolit. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sar_monolith_cristall_bio">
+		<text>Stalker iz specijalne jedinice Monolita "Kristal", odgovorne za bezbednost samoga Monolita.</text>
+	</string>
+	<string id="sar2_arena_manager_name">
+		<text>Arni</text>
+	</string>
+	<string id="sar2_arena_savage_name">
+		<text>Zver</text>
+	</string>
+	<string id="sar2_bandit_leader_name">
+		<text>Vasja "Vepar"</text>
+	</string>
+	<string id="sar2_bio">
+		<text>Psihomaterijalna slika stvorena od strane Monolita.</text>
+	</string>
+	<string id="sar2_borov_name">
+		<text>Borov</text>
+	</string>
+	<string id="sar2_crazy_svoboda_name">
+		<text>Ludi stalker.</text>
+	</string>
+	<string id="sar2_dolg_blokpost_leader_name">
+		<text>Prapor</text>
+	</string>
+	<string id="sar2_dolg_guard_commander_name">
+		<text>Šef bezbednosti</text>
+	</string>
+	<string id="sar2_dolg_skull_name">
+		<text>"Lobanja"</text>
+	</string>
+	<string id="sar2_dolg_zastava_commander_name">
+		<text>Komandir predstraže</text>
+	</string>
+	<string id="sar2_dram_novice_name">
+		<text>Jurik</text>
+	</string>
+	<string id="sar2_explorer_name">
+		<text>Zeka "Dvojnik"</text>
+	</string>
+	<string id="sar2_fanat_name">
+		<text>"Fanatik"</text>
+	</string>
+	<string id="sar2_fox_name">
+		<text>"Lisac"</text>
+	</string>
+	<string id="sar2_gordon_name">
+		<text>Gordon</text>
+	</string>
+	<string id="sar2_haron_name">
+		<text>Haron</text>
+	</string>
+	<string id="sar2_hellcar_name">
+		<text>Bes</text>
+	</string>
+	<string id="sar2_informator_name">
+		<text>Ara</text>
+	</string>
+	<string id="sar2_ivancov_name">
+		<text>Kapetan Ivancov</text>
+	</string>
+	<string id="sar2_krot_name">
+		<text>Stalker "Krtica"</text>
+	</string>
+	<string id="sar2_kruglov_name">
+		<text>Profesor Kruglov</text>
+	</string>
+	<string id="sar2_kuznetsov_name">
+		<text>Major Kuznjecov</text>
+	</string>
+	<string id="sar2_lucky_name">
+		<text>Srećko</text>
+	</string>
+	<string id="sar2_petrenko_name">
+		<text>Pukovnik Petrenko</text>
+	</string>
+	<string id="sar2_petruha_name">
+		<text>Zorik</text>
+	</string>
+	<string id="sar2_professor_name">
+		<text>Profesor Saharov</text>
+	</string>
+	<string id="sar2_ryaboy_name">
+		<text>Pegavi</text>
+	</string>
+	<string id="sar2_seryi_name">
+		<text>"Sivi"</text>
+	</string>
+	<string id="sar2_svoboda_blockpost_leader_name">
+		<text>"Kep"</text>
+	</string>
+	<string id="sar2_svoboda_bodyguard_name">
+		<text>"Kaput"</text>
+	</string>
+	<string id="sar2_svoboda_cook_name">
+		<text>"Kuvar"</text>
+	</string>
+	<string id="sar2_svoboda_engeneer_name">
+		<text>Šraf</text>
+	</string>
+	<string id="sar2_svoboda_leader_name">
+		<text>"Lukaš"</text>
+	</string>
+	<string id="sar2_svoboda_max_name">
+		<text>"Maks"</text>
+	</string>
+	<string id="sar2_svoboda_stukach_name">
+		<text>Pavlik</text>
+	</string>
+	<string id="sar2_svoboda_trader_name">
+		<text>"Cicija"</text>
+	</string>
+	<string id="sar2_svoboda_ugrumyi_name">
+		<text>"Murk"</text>
+	</string>
+	<string id="sar2_tiran_name">
+		<text>Tiranin</text>
+	</string>
+	<string id="sar2_tolik_name">
+		<text>Tolik</text>
+	</string>
+	<string id="sar2_volkodav_name">
+		<text>Vukodav</text>
+	</string>
+	<string id="sar2_voronin_name">
+		<text>General Voronjin</text>
+	</string>
+	<string id="sar2_wolf_name">
+		<text>"Vuk"</text>
+	</string>
+	<string id="sim_bandit_general_bio">
+		<text>Nepoznat stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_bandit_master_bio">
+		<text>Nepoznat stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_bandit_master_fraer_bio">
+		<text>Došao je u Zonu u potrazi za avanturom. Imitira junake stripova iz 60-ih. Koristi razna imena: Betmen, Mačo, Crni Ogrtač, Banderos. Iako je preživeo u Zoni pune dve godine, što govori samo za sebe, ipak ga niko ne shvata ozbiljno, što ga dovodi do ludila.</text>
+	</string>
+	<string id="sim_bandit_master_kocherga_bio">
+		<text>Svirep, zao, grub, sebičan, surov, hladan. Niko ne zna kad i kako je došao u Zonu. Svi ga se boje i nema prijatelje. Jednostavno, živi u Zoni, bez prošlosti i budućnosti. Nakon jednog od njegovih mnogobrojnih pohoda u Zonu, izgubio je pamćenje, zaboravio je gotovo sve. Ne seća se odakle je došao, kako mu je pravo ime, pati od čestih gubitaka pamćenja. Zna da potpuno zaboravi saborca kojeg je upoznao sat vremena ranije, uobrazi da mu je neprijatelj i ubije ga.</text>
+	</string>
+	<string id="sim_bandit_novice_bio">
+		<text>Nepoznat stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_bandit_veteran_bio">
+		<text>Nepoznat stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_dolg_master_bio">
+		<text>Stražar iz frakcije Djuti. Ako nisi njegov prijatelj, najbolje je da ga izbegavaš. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_dolg_regular_bio">
+		<text>Stalker iz grupacije Djuti. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_dolg_sniper_bio">
+		<text>Borac iz frakcije Djuti. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_dolg_veteran_barin_bio">
+		<text>Podlac, ulizica, licemer i kukavica. Barinov životni moto bi mogao biti: "Posle nas, Potop". Trudi se da iz svega izvuče korist. Izuzetno je ambiciozan i osetljiv. Došao je u Zonu, možda zvuči otrcano, zbog novca. I eto, već dve godine u Zoni se bavi prikupljanjem materijalnog bogatsva, svim mogućim sretsvima. </text>
+	</string>
+	<string id="sim_dolg_veteran_bio">
+		<text>Borac iz frakcije Djuti. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_dolg_veteran_prapor_bio">
+		<text>Zvanični vrbovalac Ukrajinske Službe Bezbednosti. Čest posetilac bara. Svi znaju ko je on, ali i to da kad vam prigusti, da treba njemu da se obratite. Međutim, kad jednom pređete tu liniju, put nazad ka časnom stalkeru, biće zatvoren zauvek.</text>
+	</string>
+	<string id="sim_ecolog_zob_bio">
+		<text>U svakodnevnom životu je flegmatik, drži svoje emocije za sebe i smiren je. Međutim, kad je pod stresom, postaje agresivan. Visoki intelektualac. Materijalista, užasno žali što je došao u Zonu. Posle završenog medicinskog fakulteta, biva poslat u Zonu, gde je kampu naučnika bio potreban asistent, hirurg. Preparira mozgove mutanata i izucava nihove psihokinetičke moći. Čeka odlazak u penziju i život u glavnom gradu, što dalje od ovog trulog i opasnog mesta.</text>
+	</string>
+	<string id="sim_fresh_Zombied_bio">
+		<text>Jedan od stalkera kojeg je napustila sreća.</text>
+	</string>
+	<string id="sim_killer_general_bio">
+		<text>Nepoznati Plaćenik. Verovatno dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_killer_master_bio">
+		<text>Nepoznati Plaćenik. Verovatno dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_killer_sniper_bio">
+		<text>Nepoznati Plaćenik. Verovatno dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_killer_veteran_bio">
+		<text>Nepoznati Plaćenik. Verovatno dobro naoružan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_monolith_master_bio">
+		<text>Stalker iz Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_monolith_regular_bio">
+		<text>Stalker iz Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_monolith_sniper_bio">
+		<text>Stalker iz Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_monolith_specnaz_bio">
+		<text>Stalker iz Monolit grupacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_soldier_commander_bio">
+		<text>Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_Soldier_master_bio">
+		<text>Vojni stalker. Dobro opremljen i veoma opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_soldier_regular_bio">
+		<text>Regularni vojnik. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_soldier_sniper_bio">
+		<text>Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_soldier_specnaz_bio">
+		<text>Spetsnaz. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_stalker_general_bio">
+		<text>Iskusni stalker. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_stalker_general_upir_bio">
+		<text>Stalker rođen pod srećnom zvezdom. Mnogo puta, ekipa sa kojom je išao, upadala je u nevolje a on jedini ostajao živ. Većina stalkera ga izbegava jer ga smatraju za "đavolju amajliju". Već duže vreme Zonom hoda sam. </text>
+	</string>
+	<string id="sim_stalker_master_bio">
+		<text>Jedan od veterana Zone. Poznaje Zonu kao svoj dlan. Obično je odlično opremljen i jako opasan. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_stalker_master_chuchelo_bio">
+		<text>Iskusan švercer. Dugo vremena je trgovao po Africi i Južnoj Americi. Vest o Černobilskoj katastrofi ga je dovela u Ukrajinu. Za kratko vreme je uspeo da prokrijumčari iz zabranjene zone na stotine prepariranih mutanata, zbog čega je dobio nadimak "Strašilo". Kad "ne radi" u Zoni, on je uspešan trgovac. Voli Armani odela i Versaće kravate, ali od oružja ipak više voli sovjetska.</text>
+	</string>
+	<string id="sim_stalker_master_diador_bio">
+		<text>Učestvovao u ratu u Afganistanu. Ranije ateista, ali nakon što je preživeo zasedu mudžahedina, postaje jako religiozan. Posle rata u Avganistanu, emigrira u Poljsku, gde se upisuje na bogosloviju. Nakon diplomiranja bogoslovije, jedno vreme propoveda u katoličkoj crkvi u Lavovu. Nakon eksplozije u Černobilu, javlja se kako dobrovoljac i pomaže unesrećenima. Poslednjih nekoliko godina propoveda u Zoni</text>
+	</string>
+	<string id="sim_stalker_master_master_bio">
+		<text>Bivši mehaničar u firmi "HolodMas". Nakon što ga je napustila žena, odlučuje da izvrši samoubistvo. Međutim, obzirom da je religiozan čovek, on je izabrao originalnu metodu samoubistva, Zonu. Suprotno njegovim očekivanjima, preživeo je. On je stekao dragoceno iskustvo i zadobio poštovanje kod ostalih stalkera, zahvaljujući svom profesionalnom iskustvu. Majstor, verovatno najkvalifikovaniji mehaničar u Zoni za poravku opreme i vozila. Instaliranje odbranbenih sistema u bunkerima grupacija je ono što najbolje zna. Gde god dođe, dobrodošao je. Jednostavan, ozbiljan čovek, snažan, ali dosta grub u razgovoru.</text>
+	</string>
+	<string id="sim_stalker_master_polkan_bio">
+		<text>Bivši vojni stalker, potpukovnik Ministarstva unutrašnjih poslova. Jedini preživeli vojnik iz katastrofalne misije u dubinu Zone, kasnije saznaje da su bili žrtvovani i poslati u klanicu. Tada je odlučio da se ne vrati nazad i priključuje se stalkerima. Tih i ciničan, predan svom cilju.</text>
+	</string>
+	<string id="sim_stalker_novice_bio">
+		<text>Početnik. Samo stigao u Zonu. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_stalker_novice_neumeha_bio">
+		<text>Trapavi ima 20 godina. Izgubio je sve i svakoga u Velikoj Zemlji, pre nego što je odlučio da dođe ovde. On jedva preživljava u Zoni, ali jednostavno nema gde da ode. Duguje pare mnogim stalkerima. Često ide po Zoni, ali nikada sam. Uvek se trudi da se priključi iskusnim stalkerima. Malo njih ga prihvataju u drustvo, jer je više teret nego što imaju koristi od njega. Teško zarađuje novac. Živi od milostinje drugih stalkera i svima je dužan.</text>
+	</string>
+	<string id="sim_stalker_sniper_bio">
+		<text>Stalker veteran. Verovatno dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_stalker_veteran_bio">
+		<text>Stalker veteran. Verovatno dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_stalker_veteran_gusarov_bio">
+		<text>Oleg "Demon" Gusarov. Bivši pripadnik "Crnih Beretki", sluzio je u Beločerkovskoji specnaz brigadi. Službovao u raznim jedinicama pre nego što je postao stariji narednik. Snajperista i stručnjak za bombe. U duši je "vuk samotnjak", nikad u pohode u Zonu ne ide u grupi, radije ide sam. Više puta su mu frakcije nudile članstvo, uvek ih je odbijao.</text>
+	</string>
+	<string id="sim_stalker_veteran_umnik_bio">
+		<text>Student fizike, napustio fakultet u petom semestru i otišao u Zonu, radi lake zarade. Voli da se razmeće svojm "naučnim" znanjem i da raspravlja o apstraktnim filozofkim temama. To je dovoljan razlog da se ostalim stalkerima ne dopada. Sve u svemu, ipak nije loš momak. Jedna vrsta idealiste.</text>
+	</string>
+	<string id="sim_stalker_veteran_vorobey_bio">
+		<text>Vrabac ima 27 godina, lukav i dalekovidan, ali i sklon grubim greškama. Ponekad zao. Prilično sumnjiva ličnost. Mršav i bled. Došao je u Zonu iz radoznalosti, obećavši sebi da će se vratiti kući nakon dva meseca. Nikad to nije uradio. Prilikom svog prvog izlaska u Zonu, krenuo je potpuno neopremljen i prošao kroz polja anomalija, ne znajući za njihovo postojanje. Kada su mu rekli kroz šta je prošao, dugo nije mogao da dođe sebi. Od tada slavi 9. oktobar, kao svoj drugi rođendan. </text>
+	</string>
+	<string id="sim_Svoboda_master_bio">
+		<text>Majstor stalker iz grupacije Fridom. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_Svoboda_regular_bio">
+		<text>Stalker iz Fridom frakcije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_Svoboda_sniper_bio">
+		<text>Stalker iz Fridom frakcije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_Svoboda_specnaz_bio">
+		<text>Borac iz Fridom frakcije. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="sim_Svoboda_specnaz_leshii_bio">
+		<text>Lešij, kako ga zove njegov brat, došao je u Zonu kao mladi idealista. No, nekoliko godina života na ivici smrti, napravilo ga je ciničnim realistom. Doživljava Zonu kao svoj dom, a one koji nisu položili test Zone, smatra nedostojnim života na Zemlji.</text>
+	</string>
+	<string id="sim_svoboda_specnaz_prut_bio">
+		<text>Pisac eseja i kratkih priča o Zoni pod pseudonimom Arkadij. Bivši novinar. Pedantan, oštar ali fer. Uživa poštovanje među stalkerima.</text>
+	</string>
+	<string id="sim_zombied_master_bio">
+		<text>Jedan od stalkera koji nije imao sreće.</text>
+	</string>
+	<string id="sim_zombied_novice_bio">
+		<text>Jedan od stalkera koji nije imao sreće.</text>
+	</string>
+	<string id="sim_zombied_veteran_bio">
+		<text>Jedan od stalkera koji nije imao sreće.</text>
+	</string>
+	<string id="val_bandit_bodyguard_bio">
+		<text>Banditski stražar. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_bandit_general_bio">
+		<text>Obični bandit. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_bandit_novice_bio">
+		<text>Bandit početnik. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_bandit_veteran_bio">
+		<text>Iskusan bandit. Sumnjiva reputacije. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_borov_bio">
+		<text>Vođa Bandita.</text>
+	</string>
+	<string id="val_borov_name">
+		<text>Borov</text>
+	</string>
+	<string id="val_dolg_common_bio">
+		<text>Stalker iz frakcije Djuti. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_monolith_common_bio">
+		<text>Stalker iz grupacije Monolit. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_prisoner_bio">
+		<text>Stalker iz frakcije Djuti. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_prisoner_name">
+		<text>Serega</text>
+	</string>
+	<string id="val_pulia_bio">
+		<text>Stalker iz frakcije Djuti. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_pulia_name">
+		<text>Metak</text>
+	</string>
+	<string id="val_soldier_regular_bio">
+		<text>Obični vojnik. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_soldier_specnaz_bio">
+		<text>Spetsnaz. Dobro opremljen. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_stalker_general_bio">
+		<text>Iskusan stalker. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="val_stalker_novice_bio">
+		<text>Početnik. Samo stigao u Zoni. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="yan_ghost_name">
+		<text>Duh</text>
+	</string>
+	<string id="yan_saharov_bio">
+		<text>Veteran među istraživačima Zone. Učestvovao u prvoj ekspediciji 2007.</text>
+	</string>
+	<string id="yan_saharov_name">
+		<text>Profesor Saharov</text>
+	</string>
+	<string id="yan_semenov_bio">
+		<text>Istraživački pomoćnik u mobilnoj laboratoriji. Detaljne informacije nedostupne.</text>
+	</string>
+	<string id="yan_semenov_name">
+		<text>Pomoćnik Semenov</text>
+	</string>
+	<string id="yan_vasilyev_name">
+		<text>Vasilijev</text>
+	</string>
+	<string id="zombie_name">
+		<text>Zombificirani stalker</text>
+	</string>
+	<string id="actor_name">
+		<text>Obeleženi</text>
+	</string>
+	<string id="sim_bandit_master_fraer_name">
+		<text>Friar</text>
+	</string>
+	<string id="sim_bandit_master_kocherga_name">
+		<text>Poker</text>
+	</string>
+	<string id="sim_dolg_veteran_barin_name">
+		<text>Barin</text>
+	</string>
+	<string id="sim_dolg_veteran_prapor_name">
+		<text>Prapor</text>
+	</string>
+	<string id="sim_ecolog_zob_name">
+		<text>Gusan</text>
+	</string>
+	<string id="sim_stalker_general_upir_name">
+		<text>Vampir</text>
+	</string>
+	<string id="sim_stalker_master_chuchelo_name">
+		<text>Strašilo</text>
+	</string>
+	<string id="sim_stalker_master_diador_name">
+		<text>Otac Diodor</text>
+	</string>
+	<string id="sim_stalker_master_master_name">
+		<text>Majstor</text>
+	</string>
+	<string id="sim_stalker_master_polkan_name">
+		<text>Polkan</text>
+	</string>
+	<string id="sim_stalker_novice_neumeha_name">
+		<text>Trapavi</text>
+	</string>
+	<string id="sim_stalker_veteran_gusarov_name">
+		<text>Oleg "Demon" Gusarov</text>
+	</string>
+	<string id="sim_stalker_veteran_umnik_name">
+		<text>Pametnjaković</text>
+	</string>
+	<string id="sim_stalker_veteran_vorobey_name">
+		<text>Vrabac</text>
+	</string>
+	<string id="sim_Svoboda_specnaz_leshii_name">
+		<text>Lešij</text>
+	</string>
+	<string id="sim_svoboda_specnaz_prut_name">
+		<text>Prut</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 06.02.2015 - 15.00 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 11.02.2015 20:22 -sadd -->

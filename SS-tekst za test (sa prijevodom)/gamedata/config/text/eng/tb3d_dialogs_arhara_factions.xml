@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.7 added bio text from char desc general -->
+<string_table>
+	<!-- ***************************************** -->
+	<!--  FACTION INTERACTION WITH SIDOROVICH -->
+	<!-- ***************************************** -->
+	<string id="list_factions_repair_0">
+		<text>Obnovi reputaciju sa Djuti:</text>
+	</string>
+	<string id="list_factions_repair_1">
+		<text>Pridružio bi se Djuti frakciji:</text>
+	</string>
+	<string id="list_factions_repair_2">
+		<text>Obnoviti reputaciju sa Fridom:</text>
+	</string>
+	<string id="list_factions_repair_3">
+		<text>Pridružiti se Fridom frakciji:</text>
+	</string>
+	<string id="list_factions_repair_4">
+		<text>Obnoviti odnose sa Neutralom Frakcijom:</text>
+	</string>
+	<string id="list_factions_repair_5">
+		<text>Prebaciti vjeru u Monolitsko uvjerenje:</text>
+	</string>
+	<string id="list_factions_repair_6">
+		<text>Pridružiti se redovima Vojske:</text>
+	</string>
+	<string id="list_factions_repair_7">
+		<text>Pridružiti se Banditima:</text>
+	</string>
+	<string id="list_factions_repair_8">
+		<text>Pridružiti se Plaćenicima:</text>
+	</string>
+	<string id="list_factions_repair_9">
+		<text>Prekinuti veze:</text>
+	</string>
+	<string id="list_factions_repair_10">
+		<text>Udružiti se sa Znanstevenicima:</text>
+	</string>
+	<string id="escape_trader_factions_0">
+		<text>Kako bi se mogao pridružiti jednoj od frakcija?</text>
+	</string>
+	<string id="escape_trader_factions_1">
+		<text>To nije jeftino! Ako stavim dobru riječ na tebe, koštat će te 250,000ru, ali, znajući tebe, mislim, nemoj samo ići uokolo i raspizdivati ljude, ili druge stvari, onda će te stajati još više da ih maknem sa tvojih leđa. Barem još dodatnih 100,000ru, otprilike.</text>
+	</string>
+	<string id="escape_trader_factions_2">
+		<text>Djuti je stavio cijenu na moju glavu, da li ih nekako možeš skinuti sa mojih leđa!?</text>
+	</string>
+	<string id="escape_trader_factions_3">
+		<text>Želim se pridružiti Djutiju.</text>
+	</string>
+	<string id="escape_trader_factions_4">
+		<text>Fridom me želi ubiti, da li mi možeš pomoći!?</text>
+	</string>
+	<string id="escape_trader_factions_5">
+		<text>Želim se pridružiti Fridomu.</text>
+	</string>
+	<string id="escape_trader_factions_6">
+		<text>Trebam vratiti dobru reputaciju sa Neutralnim stalkerima.</text>
+	</string>
+	<string id="escape_trader_factions_7">
+		<text>Ahh, sranje, ništa, zaboravi.</text>
+	</string>
+	<string id="escape_trader_factions_8">
+		<text>Ove usluge nije jeftine, znaš. Što više napraviš problem za frakciju ili unutar nje, više će te novaca koštati da obnoviš reputaciju sa njima.\nDaj mi minutu da provjerim to za tebe.\nEvo ga, sve je gotovo!\nJesi siguran da si htio ovo?</text>
+	</string>
+	<string id="escape_trader_factions_9">
+		<text>Rečeno mi je da si stvarno raspizdio ove ljude! Trebao bi stvarno paziti na ovakve stvari! Neču te uvijek moći izvući iz ovakvih stvari samo da znaš. Probaj se sjetiti ovog razgovora sljedeći put kada budeš išao "Jackie Chan" stilom po ljudima.</text>
+	</string>
+	<string id="escape_trader_factions_10">
+		<text>Da, želim obnoviti reputaciju sa Djuti.</text>
+	</string>
+	<string id="escape_trader_factions_11">
+		<text>Da pridruži me Djutiju!</text>
+	</string>
+	<string id="escape_trader_factions_12">
+		<text>Da želim obnoviti reputaciju sa Fridomom.</text>
+	</string>
+	<string id="escape_trader_factions_13">
+		<text>Da pridruži me Fridomu!</text>
+	</string>
+	<string id="escape_trader_factions_14">
+		<text>Da, vrati moju reputaciju sa Stalkerima.</text>
+	</string>
+	<string id="escape_trader_factions_15">
+		<text>Sve je dobro kad se dobro svrši, Hvala ti!</text>
+	</string>
+	<string id="escape_trader_factions_16">
+		<text>Želim se konvertirati u Monolitsko uvjerenje.</text>
+	</string>
+	<string id="escape_trader_factions_17">
+		<text>Da, želim da me staviš u dodir sa Monolitima.</text>
+	</string>
+	<string id="escape_trader_factions_18">
+		<text>Čuo sam da Vojska regrutira nove ljude.</text>
+	</string>
+	<string id="escape_trader_factions_19">
+		<text>Da, čuo si dobro, zašto, ti si se totalno pogubio!? Ček, ti nisi ozbiljan, valjda?!!</text>
+	</string>
+	<string id="escape_trader_factions_20">
+		<text>Želim da me staviš u dodir sa Banditima.</text>
+	</string>
+	<string id="escape_trader_factions_21">
+		<text>Da, da, razumio sam savršeno.</text>
+	</string>
+	<string id="escape_trader_factions_22">
+		<text>Želio bi postati Samotnjak ponovno.</text>
+	</string>
+	<string id="escape_trader_factions_23">
+		<text>Da, da, razumio sam savršeno.</text>
+	</string>
+	<string id="escape_trader_factions_24">
+		<text>Odlučio sam postati Plačenik!</text>
+	</string>
+	<string id="escape_trader_factions_25">
+		<text>Stavi me u dodir sa Plačenicima.</text>
+	</string>
+	<string id="escape_trader_factions_26">
+		<text>Možeš li me staviti u dodir sa Znanstevenicima?</text>
+	</string>
+	<string id="escape_trader_factions_27">
+		<text>Da želim pomoći Znanstevenicima, imam osjećaj da mi je to dužnost! Možda čak i edukaciju dobijem, ne samo posao, nego, možda i karijeru!</text>
+	</string>
+	<string id="mono_leader_bio">
+		<text>Vođa unutar Monolitske frakcije. Ekstremno opasan : Detaljne informacije nisu dostupne.</text>
+	</string>
+	<string id="sniper_soldier_bio">
+		<text>Vojni snajperist : Detaljne informacije nisu dostupne.</text>
+	</string>
+	<string id="sniper_mono_bio">
+		<text>sniper_mono_bio</text>
+	</string>
+	<string id="bandit_unk_bio">
+		<text>Bandit nepoznato od kud je došao : Neizvjesna reputacija : Detaljne informacije nisu dostupne.</text>
+	</string>
+	<string id="stalker_crazy_bio">
+		<text>Ovaj Stalker je vidio nešto Bloodsucker selu što ga je dovelo do ludila i postao je pranoidan. Nakon što je probjegao od sela, sakrio se u malu kabinu blizu kod močvare tik do Vojnih Skladišta i nastavio otvarati vatru na svakog tko je došao blizu.</text>
+	</string>
+	<string id="hunter_bar_bio">
+		<text>Dobrodušan momak sa jedinstvenim problemom... Nedavno je izgubio vrijedno obiteljsko naslijeđe - lovačku pušku. Negdje je u Divljem Teritoriju koje je vrlo opasno mjesto. Provodi većinu svoga vremena u 100*Rads Baru.. nadajući se da će naići na nekog naivca koji če riskirati život i pronaći mu pušku...</text>
+	</string>
+	<string id="duty_elite_bio">
+		<text>Elitni član Djuti frakcije : Detalne informacije su nedostupne</text>
+	</string>
+	<string id="duty_leader_bio">
+		<text>Vođa unutar Djuti frakcije : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="duty_killer_bio">
+		<text>Vođa nelegalne grupe teško naoružanih Djutijevaca koji nose Exoskeletonne i Tunder S14 Groza puške. On je na osobnoj misiji da ubije Lukaša, glavnog vođu Fridom frakcije..</text>
+	</string>
+	<string id="stalker_skilled_bio">
+		<text>Vješti i iskusan S.T.A.L.K.E.R. : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="oc_rep_bio">
+		<text>Predstavnik Projekta Ruzmijevanja</text>
+	</string>
+	<string id="grey_wolf_bio">
+		<text>Destruktivan, i opasan plačenik poznat kao Sivi Vuk</text>
+	</string>
+	<string id="sniper_merc_bio">
+		<text>Neidentificirani Snajperist Plačenika : nedavno stigao u Zonu : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="elite_merc_bio">
+		<text>Neidentificirani Plačenik spada pod Elitu : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="master_merc_bio">
+		<text>Neidentificirani Plačenik spada pod MAJSTOR elitu : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="stalker_freedom_bio">
+		<text>Stalker iz Fridom frakcije : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="informant_bio">
+		<text>Dobro poznati Informator sa teškom cijenom na njegovu glavu, od gotovo svake frakcije.</text>
+	</string>
+	<string id="specnaz_army_bio">
+		<text>Vojni Spetsnaz. Dobro opremljen : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="stalker_mil_bio">
+		<text>Vojni S.T.A.L.K.E.R. - Dobro naoružan, i vrlo opasan : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="simple_thug_bio">
+		<text>Običan ugnjevatač .. Beskorisno govno kao ljudsko biće .. Ali koristan u sjebanim situacijama..</text>
+	</string>
+	<string id="rookie_unk_bio">
+		<text>Neidentificirani Početnik : Nov u zoni : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="stalker_truevet_bio">
+		<text>Pravi Veteran Zone! Ovaj S.T.A.L.K.E.R. zna zonu kao vlastitu ruku : Dobro opremljen, i vrlo opasan. Detaljne informacije su nedostupne..</text>
+	</string>
+	<string id="stalker_vet_bio">
+		<text>Veteran S.T.A.L.K.E.R. : Dobro opremljen : Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="guard_lukash_bio">
+		<text>Osobni čuvar Lukaša, glavnog vođe Fridom frakcije.</text>
+	</string>
+	<string id="sniper_freedom_bio">
+		<text>Snajperista iz Fridom frakcije - Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="vet_freedom_bio">
+		<text>Veteran iz Fridom frakcije - Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="master_freedom_bio">
+		<text>Majstor Fridoma - Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="max_bio">
+		<text>Fanatični vjernik, Max je postigao ozbiljnu reputaciju i općenito mu se obračaju kao 'Zaštitnikom Fridoma' : Vrlo dobro opremljen, i ekstremno opasan - Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="ded_freedom_bio">
+		<text>Ekstremno zadrti član Fridom frakcije : Vrlo dobro opremljen, i ekstremno opasan - Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="cook_bio">
+		<text>Cuger i teška svađalica, ali odličan kuhar, stražar ispred Fridomove baze je rekao da nije tako dobar kuhar da bi ga odavno izbacili...</text>
+	</string>
+	<string id="greedy_bio">
+		<text>Znan svugdje u zoni po svojoj pohlepi, i tvrdoglavosti .. ali ako ga natrljaš na pravi način, poput da ga natrljaš sa par rubalja .. vrlo je moguće da možeš dobiti sve od njega...</text>
+	</string>
+	<string id="cmdr_freedom_bio">
+		<text>Fridom Komander kod barijere sa Radarom. Traži ljude koji su sposobni zajedno sa Fridomom držati i braniti granicu koja vodi prema Radaru, Crvenoj Šumi .. I to ljude koji su spremni dati život .. za Fridom...</text>
+	</string>
+	<string id="freedom_bio">
+		<text>Član Fridoma - Detaljne informacije su nedostupne</text>
+	</string>
+	<string id="zombie_bio">
+		<text>Zombiji su kreirani jakim "Psi Poljem" koje zrače Psi-Emiteri odnosno antene kao što su Spaljivač mozgova u Laboratoriju X-10 i Mašina Čudo, u laboratorjiu x-16; Kada su nezaštićeni Stalkeri ozračeni određenom dozom na odrešeno vrijeme, oni počinju "gubiti razum i glavu". Nepopravljiva šteta za više funkcije mozga rezultira Zombifikacijom...</text>
+	</string>
+	<string id="no_info_bio">
+		<text>detaljne informacije su nedostupne</text>
+	</string>
+	<string id="ldk_exp_bio">
+		<text>Iskusni ubojica frakcije Zadnji Dan. Isklesan u borbama, i vrlo dobro naoružan, i opasan. Detaljne informacije su nedostupne.</text>
+	</string>
+	<string id="ldk_cmdr_bio">
+		<text>Iskusni ubojica frakcije Zadnji Dan i Zapovijednik. Isklesan u borbama i vrlo vješt. Detaljne informacije su nedostupne.</text>
+	</string>
+	<string id="sim_ecolog_bio">
+		<text>Protekcija Znastvenog Mobilnog Kampa. Detaljne informacije su nedostupne.</text>
+	</string>
+	<string id="sim_sldr_bio">
+		<text>Obični vojnici. Detaljne informacije su nedostupne.</text>
+	</string>
+	<!--*****************************************-->
+</string_table>
+	<!-- Preveo i prilagodio Nailer -=- 17:00 10.05.2015 -->

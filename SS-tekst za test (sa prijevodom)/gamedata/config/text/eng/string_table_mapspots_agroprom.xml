@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+	<string id="agr_captains_chamber_hint">
+		<text>Kapetanova komora</text>
+	</string>
+	<string id="agr_collector_entrance_hint">
+		<text>Ulaz u katakombe</text>
+	</string>
+	<string id="agr_factory_hint">
+		<text>Fabrika</text>
+	</string>
+	<string id="agr_find_gunslinger_cache_hint">
+		<text>Pronađi Strelokov tajni štek u katakombama</text>
+	</string>
+	<string id="agr_give_case_to_barman_hint">
+		<text>Predaj dokumenta Barmenu</text>
+	</string>
+	<string id="agr_help_krot_hint">
+		<text>Spasi Krticu</text>
+	</string>
+	<string id="agr_help_stalkers_hint">
+		<text>Spasi Stalkere</text>
+	</string>
+	<string id="agr_meet_krot_hint">
+		<text>Sastani se s Krticom</text>
+	</string>
+	<string id="agr_nii_hint">
+		<text>Agroprom Istraživački Institut. Vojna Baza</text>
+	</string>
+	<string id="agr_swamp_hint">
+		<text>Sigurno mesto</text>
+	</string>
+	<string id="agr_take_case_hint">
+		<text>Ukradi dokumente</text>
+	</string>
+	<string id="agr_take_krots_info_hint">
+		<text>Saznaj informacije o šteku od Krtice.</text>
+	</string>
+	<string id="agr_zaz_hint">
+		<text>Zaporožac</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:14 -sadd -->

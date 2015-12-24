@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+<string_table>
+	<string id="dar_explorer_dialog_1">
+		<text>Ja sam na misiji.</text>
+	</string>
+	<string id="dar_explorer_dialog_11">
+		<text>Hmm. Koja vrsta misije? Tragaš za nečim? Ili si ga već našao? Čuo sam da ima ovde ima dosta dobara...</text>
+	</string>
+	<string id="dar_explorer_dialog_111">
+		<text>Izvini, ne mogu da ti kažem a i onako nemam vremena.</text>
+	</string>
+	<string id="dar_explorer_dialog_1111">
+		<text>Sačekaj, nemoj ići odmah. Imaćeš dosta prilike za to... Šta si pronašao? Moja malenkost, ne visi ovde za džabe, znaš.</text>
+	</string>
+	<string id="dar_explorer_dialog_11111">
+		<text>Šta sam našao to je moja stvar.</text>
+	</string>
+	<string id="dar_explorer_dialog_11112">
+		<text>Našao sam neka dokumenta u X18. Barmen mi je obećao dobru svotu novca za njih.</text>
+	</string>
+	<string id="dar_explorer_dialog_112">
+		<text>Ne, ništa nisam našao.</text>
+	</string>
+	<string id="dar_explorer_dialog_2">
+		<text>Ne znam ni kako sam se povredio ovde. Voleo bih da izađem što je pre moguće.</text>
+	</string>
+	<string id="dar_explorer_dialog_21">
+		<text>Nisi našao ništa vredno ovde, jesi li? Kažu da tu postoje neke informacije o naučnom eksperimentu. Vrede dobrih para...</text>
+	</string>
+	<string id="dar_explorer_dialog_211">
+		<text>Ne, nisam.</text>
+	</string>
+	<string id="dar_explorer_dialog_2111">
+		<text>Da?.. Zar stvarno tako misliš? Da li skrivaš nešto od mene?</text>
+	</string>
+	<string id="dar_explorer_dialog_21111">
+		<text>Neee.</text>
+	</string>
+	<string id="dar_explorer_dialog_21112">
+		<text>Kakva je to vrsta pitanja?</text>
+	</string>
+	<string id="dar_explorer_dialog_21113">
+		<text>Ti to meni pretiš?</text>
+	</string>
+	<string id="dar_explorer_dialog_212">
+		<text>Do đavola s tim svim informacijama. Jedva ostajem živ ovde.</text>
+	</string>
+	<string id="dar_explorer_dialog_2121">
+		<text>Uredu onda, slobodan si. Ako nađeš nešto - biću u blizini...</text>
+	</string>
+	<string id="dar_explorer_dialog_25">
+		<text>Slušaj, ortak, probio sam se kroz vatru, anomalije i čudovišta u ovoj smrdljivoj Zoni i kao što možeš da vidiš još uvek sam živ! Za to mi ti ne govori šta smem a šta ne smem da kažem . Došao sam ovde zbog dokumenata i ne idem bez njh. Ako su kod tebe, savetujem ti da mi ih predaš ili će da ti bude sahrana u ovoj rupi! Razumeš?</text>
+	</string>
+	<string id="dar_explorer_dialog_251">
+		<text>Razumem.</text>
+	</string>
+	<string id="dar_explorer_dialog_2511">
+		<text>Ako me lažeš, u debelim si govnima. Ako oćeš da me zajebes, u debelim si govnima, a ako pokušaš da mi pokažeš neko đubre, u debelim si govnima. Ustvari, u tako si velikim govnima da se moraš dobro potruditi da ne potoneš! Onda, pitam te još jednom: jesi li pronašao dokumente?</text>
+	</string>
+	<string id="dar_explorer_dialog_2521">
+		<text>Uredu, i sledećeg puta, pripazi na reči. Možeš da ideš sad. U slučaju da nađeš nešto, biću u blizini...</text>
+	</string>
+	<string id="dar_explorer_dialog_253">
+		<text>Ovaj razgovor je završen. Gubi mi se s puta.</text>
+	</string>
+	<string id="dar_explorer_dialog_26">
+		<text>Ja nemam ni kakva dokumenta.</text>
+	</string>
+	<string id="dar_explorer_dialog_271">
+		<text>To je mnogo bolje, druže. Sad mi daj sve informacije koje si saznao, svaku sitnicu sve do poslednje švrljotine. I ne razmišljaj o potezanju nečega smešnog zato što će ta šala biti tvoja poslednja...</text>
+	</string>
+	<string id="dar_explorer_dialog_51">
+		<text>Govorim ti, prestani! I lutam okolo ove pacovske pećine za džabe. Prestani da galopiraš okolo i reci mi šta ti našao. Mogli bi smo čak da podelimo to...</text>
+	</string>
+	<string id="dar_explorer_dialog_511">
+		<text>Ne delim ništa.</text>
+	</string>
+	<string id="dar_explorer_dialog_5111">
+		<text>Uh-huh, stani sad... imam još samo ovaj savet za tebe - pripazi na svaki korak , stalkeru, trebaće ti!</text>
+	</string>
+	<string id="dar_explorer_dialog_512">
+		<text>Da li mi preti?</text>
+	</string>
+	<string id="dar_explorer_dialog_5121">
+		<text>OK, OK, o'ladi malo... Čim postanem radoznao, ti vadiš pušku! Nemam više pitanja. Samo budi pažljiv, to je sve.</text>
+	</string>
+	<string id="dar_explorer_dialog_61">
+		<text>Dokumenit, huh... Samo ti znaš, to je baš ono zbog čega sam došao. A sad ćeš mi ti to predati i otići svojim putem. Jasno?</text>
+	</string>
+	<string id="dar_explorer_dialog_6111">
+		<text>Ponudiću ti nešto.</text>
+	</string>
+	<string id="dar_explorer_dialog_6121">
+		<text>Vidi, dečko, ne sprdaj se s mojim mozgom. Hajde da napravimo posao. Ja ću tebi da dam lepu svotu novca - nećeš zažaliti.</text>
+	</string>
+	<string id="dar_explorer_dialog_6131">
+		<text>Slušaj, moj život zavisi od tih dokumenata. Da vidimo šta ti imaš - mislim da možemo da se dogovorimo.</text>
+	</string>
+	<string id="dar_explorer_dialog_8011">
+		<text>Ovde je previše mračno, ne vidim ni jebenu stvar. Bureri su svuda... Zašto sam uopšte prihvatio ovo?! Šta je s tobom, kako si se našao ovde?</text>
+	</string>
+	<string id="dar_explorer_dialog_8021">
+		<text>Nastavi da hodaš, stalkeru.</text>
+	</string>
+	<string id="dar_explorer_dialog_8031">
+		<text>Mrzim kad me neko prekida u sred govora. Kako god, došao sam ovde zbog nekih lažnih dokumenata. Ako si pronašao nešto, podeli to samnom ili si u nevolji. Ako nisi našao ništa, gubi se i prestani da mi tratiš vreme.</text>
+	</string>
+	<string id="dar_explorer_dialog_8041">
+		<text>Mrzim kad me neko prekida u sred govora. Daj mi ta dokumenta ako ne želiš da se rastaneš sa životom.</text>
+	</string>
+	<string id="dar_explorer_dialog_9">
+		<text>Zapamtiću to.</text>
+	</string>
+</string_table>

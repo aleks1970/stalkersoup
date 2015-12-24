@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.5 startup prompts, moved _mm -->
+<string_table>
+	<string id="id_mp_money">
+		<text>Novac</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>PDA bonus</text>
+	</string>
+	<string id="st_drink">
+		<text>Popij</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Direktna IP</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>Zadano</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Gustina trave</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Senka sunca</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Senka trave</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>Render 2</text>
+	</string>
+	<string id="ui_pda_details">
+		<text># /detalji</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>Otkaži</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>Ne</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>Da</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Vaš računar ne podržava dinamički render osvetljenja (Render 2)</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Greška u konekciji: Pogrešan domaćin</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Greška u konekciji: Pogrešna lozinka</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Konekcija nije uspela: Vezu je prekinuo server</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Konekcija nije uspela: Server je pun</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Dani.</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Greška</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Fajl sa ovakvim imenom već postoji. Prepisati?</text> <!-- overwrite file? !?? -->
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Ime fajla je prazno</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Sati.</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Napusti</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>Minuta</text>
+	</string>
+	<string id="ui_st_months">
+		<text>Meseci</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parametri</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>sek.</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Izaberite barem jednu mapu</text> <!-- Please select at least one map !?? -->
+	</string>
+	<string id="ui_st_take_all">
+		<text>Uzmi sve</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Preostalo</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Trguj</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Glasanje je isključeno</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Da li stvarno želite da napustiti igru?</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>Tvoje stvari</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Pritisni ($$ACTION_JUMP$$) da bi izišao u meni</text>
+	</string>
+	<string id="st_level">
+		<text>Nivo</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>... Otvaranje toka ...</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>... Traženje neprijateljskih entiteta ...</text> <!-- ..... Searching for Enemy Entities .. !?? -->
+	</string>
+	<string id="st_prefetching_objects">
+		<text>... Skeniranje anomalnih aktivnosti ...</text> <!-- ..... Scanning Anomolous Activity .. !?? -->
+	</string>
+	<string id="st_creating_new_game">
+		<text>... Kreiranje nove igre ...</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>SERVER: Učitavanje alife simulatora</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>... SERVER: Konekcija ...</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>... Učitavanje igre ...</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Provera CD Ključa</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>... Učitavanje AI objekata ...</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>KLIJENT: Povezuje se sa</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>... Provera pancira ...</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>... Detekcija anomalija ...</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>... Ulazak u ZONU ...</text>
+	</string>
+	<string id="st_server_starting">
+		<text>... SERVER: Start ...</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>... Učitavanje PDA ...</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>... Skeniranje artefakata ...</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>... Opremanje gasmaskom ...</text>
+	</string>
+	<string id="st_loading_details">
+		<text>... Detekcija razine radijcije ...</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>... Učitavanje sektora i portala ...</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Konekcija nije uspela: Različita verzija.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Greška u konekciji: neispravan CD-ključ.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Greška u konekciji: Vaš CD-ključ je već u upotrebi.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Greška u konekciji: Vaš CD-ključ je blokiran. Molim vas kontaktirajte podršku.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Nova zakrpa je dostupna. \n Verzija:% s \n% s \n Da li želite preuzeti odmah?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Nema novih zakrpa</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Da li zaista želite obrisati ovaj fajl?</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Pauza</text>
+	</string>
+	<string id="st_bolt">
+		<text>Zavrtanj</text>
+	</string>
+	<string id="st_items">
+		<text>Predmeti</text>
+	</string>
+	<string id="st_video">
+		<text>Video</text>
+	</string>
+	<string id="st_audio">
+		<text>Zvuk</text>
+	</string>
+	<string id="st_game">
+		<text>Igra</text>
+	</string>
+	<string id="st_controll">
+		<text>Kontrole</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Konektovanje na glavni server</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Dozvoljen je samo jedan aktivan glas</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Zakrpa je uspešno preuzeta.Da li želite da je instalirate?</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Ne može se pruzeti zakrpa.</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>... Vraćate se u Zonu ...</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Verzija spremljene igre se ne podudara ili je spremljena igra oštećena</text>
+	</string>
+	<string id="switch_off">
+		<text>Isključi</text>
+	</string>
+	<string id="switch_on">
+		<text>Uključi</text>
+	</string>
+	<!-- Addon for "done" Word, aleks1970 -->
+	<string id="game_task_done">
+		<text>Dovršen</text>
+	</string>
+	<string id="ui_st_last_set">
+		<text>Poslednja podešavanja</text>
+	</string>
+	<string id="ui_st_preset1">
+		<text>Podešavanje 1</text>
+	</string>
+	<string id="ui_st_preset2">
+		<text>Podešavanje 2</text>
+	</string>
+	<string id="ui_st_preset3">
+		<text>Podešavanje 3</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>Reset</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>Prodaj sve</text>
+	</string>
+	<!-- string id="ui_mm_r2_tonemap_middlegray">
+		<text>Intenzitet HDR</text>
+	</string>
+	<string id="ui_mm_r2_sun_lumscale">
+		<text>Svetlost sunca</text>
+	</string>
+	<string id="ui_mm_r2_sun_lumscale_amb">
+		<text>Pozadinsko osvetljenje</text>
+	</string> -->
+</string_table>
+	<!-- Preveo i prilagodio Flexerca -=- 12:40 12.07.2014 -->
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 22:16 -sadd -->

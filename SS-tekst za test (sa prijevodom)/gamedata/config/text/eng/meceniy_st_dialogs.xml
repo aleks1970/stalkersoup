@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.5.0 The Doctor -->
+<string_table>
+	<string id="escape_meceniy_start_0">
+		<text>Pozdrav, ko si ti?</text>
+	</string>
+	<string id="escape_meceniy_start_1">
+		<text>Zdravo, ja sam bivši vojnik i tu se bavim trgovinom. Ali moja roba je posebna, prodajem retke kaspule za aktivaciju anomalija. Također prodajem i PSI serume, što je jako retko u Zoni!</text>
+	</string>
+	<string id="escape_meceniy_start_2">
+		<text>Pa video sam mnogo vojnika koji su postali trgovci. Nije lak život u Ukrajinskoj vojsci. Kako se zoveš? Mene zovu Obeleženi.</text>
+	</string>
+	<string id="escape_meceniy_start_3">
+		<text>Moje ime je Akim, drago mi je što smo se upoznali. Da, vojni život je težak život, ali penzija je još gora. Sada trgujem, prodajem, kupujem. Nema cenkanja kod mene zato nemoj s tim da me daviš. Došao sam u Zonu malo da se obogatim i onda pičim iz ove rupetine. Stalkeri mi donose kapsule, odnosno artefakte u "školjki" koji mogu aktivirati anomalije. Pogledaj u svoj PDA, tamo bi trebao naći informacije. Usput, imam kolegu u sevrnom delu kompleksa u Agropromu, koji prodaje slične stvari kao i ja. On ima dosta korisnih informacija. Ako tražiš neki posao, tu je kolega koji se nalazi kod helikoptera u Zaboravljenoj Šumi.</text>
+	</string>
+	<string id="arhara_halat_nayti_0">
+		<text>Slušaj, čuo sam nešto o nekoj čudnoj jakni. Kada je obučeš možeš se neopaženo prikrasti neprijatelju, jesi li čuo za takvu jaknu?</text>
+	</string>
+	<string id="arhara_halat_nayti_1">
+		<text>Jesam, čuo sam za nju. Samo što to nije jakna već egzoskelet. Znam samo da je nestao nakon poslednje naučničke ekspedicije u centar Zone. Nije teško zaključiti da je sada u posedu Bandita. Moji obaveštajci su mi rekli da je sada u ATP. Poslao sam jedan odred da ga vrati, ali već dugo vremena me nisu kontaktirali i mogu pretpostaviti samo najgore. Nemam više ljudstva da ponovo pošaljem ali znam približnu lokaciju, u potkrovlju jedne od zgrada. Kad bi ga ti barem mogao pronaći? Bio bih ti jako zahvalan!</text>
+	</string>
+	<string id="arhara_halat_nayti_2">
+		<text>Ne mogu ti ništa garantovati, ali ukoliko se nađem na toj teritoriji pogledaću. Ali i ako ga nađem, možda ga budem i sam malo koristio.</text>
+	</string>
+	<string id="arhara_halat_nayti_3">
+		<text>Ne sviđa mi se kako to zvuči. Pronađi ti nekog drugog, koža mi je skuplja od tog egzoskeleta.</text>
+	</string>
+	<string id="arhara_halat_otdat_0">
+		<text>Pozdrav, šefe. Pronašao sam egzoskelet. Zaista prvorazredna roba!</text>
+	</string>
+	<string id="arhara_halat_otdat_1">
+		<text>Stvarno!! Jesi li ga doneo?</text>
+	</string>
+	<string id="arhara_halat_otdat_2">
+		<text>Evo ga.</text>
+	</string>
+	<string id="arhara_halat_otdat_3">
+		<text>Odlično! Izvoli nagradu.</text>
+	</string>
+	<string id="escape_adrenalin_start_0">
+		<text>Zdravo, ko si ti?</text>
+	</string>
+	<string id="escape_adrenalin_start_1">
+		<text>Zdravo, ja sam lokalni trgovac. Specijalizirao sam samo unikatnu robu, kao što su kapsule koje se lako pretvore u anomalije. Također prodajem serume i protuotrov za PSI stanja.</text>
+	</string>
+	<string id="escape_adrenalin_start_2">
+		<text>Sada znam, razgovarao sam sa Akimom o tebi. U njega su prilično visoke cene, a kod tebe?</text>
+	</string>
+	<string id="escape_adrenalin_start_3">
+		<text>Znači Akim nije zaboravio svog radnog kolegu! A cene su pristojne, ali kod menen ćeš samo naći specifičnu i retku robu.</text>
+	</string>
+	<string id="atp_0">
+		<text>Živio, Adrenalin, pokušavam pronaći neko bolje oružje za svoj put prema centru Zone. Možeš li mi pomoći?</text>
+	</string>
+	<string id="atp_1">
+		<text>Pozdrav, ne mogu ti ponuditi puno vrsta oružja, ali ti mogu ponuditi dobar snajper.</text>
+	</string>
+	<string id="atp_2">
+		<text>Nekako mi i sam ton tvoga glasa zvuči jako skupo, a trenutno sam i bez novca i bez artefakata.</text>
+	</string>
+	<string id="atp_3">
+		<text>Za ovu snajpersku pušku novac i nije dovoljan! Ali ima način kako da je zaslužiš.</text>
+	</string>
+	<string id="atp_4">
+		<text>A kako to?</text>
+	</string>
+	<string id="atp_5">
+		<text>Moraš posetiti jednog naučnika u Jantaru. Saharov mu je ime. Razgovaraj s njim o jednom vojnom komandiru koji ponekad dolazi do njega zbog posla. Naručio sam minigun i ti ga trebaš pokupiti. I nije baš tako težak posao. Šta kažeš, hoćeš li?</text>
+	</string>
+	<string id="atp_6">
+		<text>Dobar snajper bi mi i više nego dobrodošao, a i sam posao ne zvuči opasno. Pristajem.</text>
+	</string>
+	<string id="atp_7">
+		<text>Da vučem teški minigun kroz celu Zonu, ne hvala!</text>
+	</string>
+	<string id="arhara_atp_propusk_0">
+		<text>Hej, Adrenalin!</text>
+	</string>
+	<string id="arhara_atp_propusk_1">
+		<text>Jesi li doneo oružje?</text>
+	</string>
+	<string id="arhara_atp_propusk_2">
+		<text>Evo ga, drago mi je da sam skinuo ovaj teret s leđa, i to doslovno.</text>
+	</string>
+	<string id="arhara_atp_propusk_3">
+		<text>Izvrsno Obeleženi! Evo ti snajper, i kao mali dodatak ovaj artefakt.</text>
+	</string>
+	<string id="trader_toha_0">
+		<text>Tražim neki posao, imaš li šta?</text>
+	</string>
+	<string id="trader_toha_1">
+		<text>Posao??? Ima ja posla i više nego treba, došao si na pravo mesto, stalkeru. Ali prvo da vidimo imaš li želudac za pravi posao. Donesi mi 10 ruku od zombija. Hoćeš??</text>
+	</string>
+	<string id="trader_toha_2">
+		<text>Huh, ruke zombija! Nisam očekivao nešto takvo.</text>
+	</string>
+	<string id="trader_toha_3">
+		<text>Čudan je ovo svet, stalkeru, a sudeći po tvojoj odeći rekao bih da si financijski jako slab.</text>
+	</string>
+	<string id="trader_toha_4">
+		<text>Stvarno je čudan, i još čudniji kada se ne možeš setiti ni ko si.</text>
+	</string>
+	<string id="trader_toha_5">
+		<text>Pa, stalkeru? Imam li novog zaposlenika? Mogu ti dati i savet o lovu na zombije, moraš mu pucati direktno u glavu!</text>
+	</string>
+	<string id="trader_toha_6">
+		<text>Pucati u glavu? Nešto mi kaže da sam to već ranije čuo! Dobro, uzeću posao.</text>
+	</string>
+	<string id="trader_toha_7">
+		<text>10 ruku od zombija!!! Ni lud!</text>
+	</string>
+	<string id="trader_toha1_0">
+		<text>Evo ti tvoje zombijeve ruke, čudno kako su nokti narasli gotovo 2 centimetra u rancu!</text>
+	</string>
+	<string id="trader_toha1_1">
+		<text>Moram im napraviti pedikuru, pre nego ih pošaljem! Ha, ha. Hvala, evo ti obećana nagrada. Sad trebam naoštriti makaze i skratiti ovu strahotu od nokata!</text>
+	</string>
+	<string id="trader_toha1_2">
+		<text>Dok ti skraćuješ nokte, ja ću oprati svoj ranac.</text>
+	</string>
+	<string id="trader_toha1_3">
+		<text>Stvarno bi trebao uzeti novi nož, izgleda kao da si im ižvakao zglobove!</text>
+	</string>
+	<string id="doc_qeast_0">
+		<text>Šta je sledeće Dr. Frankenštajn? Spreman sam za drugi posao.</text>
+	</string>
+	<string id="doc_qeast_1">
+		<text>Jesi ti to nabavio neki novi pancir ili si se samo okupao. Počinješ me podsećati na nekog modernog stalkera! Ima jedan poslić, Čuo sam da postoje neki dokumenti pomoću kojih mogu napraviti nešto meni jako važno.</text>
+	</string>
+	<string id="doc_qeast_2">
+		<text>E to već zvuči puno bolje, samo neka nema nikakvih delova tela! Šta treba da se radi?</text>
+	</string>
+	<string id="doc_qeast_3">
+		<text>Hehe, nema delova tela ovaj put, samo neki dokumenti.</text>
+	</string>
+	<string id="doc_qeast_4">
+		<text>A gde da tražim te dokumente?</text>
+	</string>
+	<string id="doc_qeast_5">
+		<text>Dokumenti se nalaze na jednom krovu u Deponiji. E sada to može biti zgrada, autobus ili neki kontejner. Nemoguće je pročitati taj deo poruke.</text>
+	</string>
+	<string id="doc_qeast_6">
+		<text>Na krovu? Pa isto mi je kao da si samo rekao u Deponiji. Haj dobro, bar nisu ruke zombija!</text>
+	</string>
+	<string id="doc_qeast_7">
+		<text>Šta ti misliš da sam ja neko policijsko pseto? Pronađi sam taj dokument.</text>
+	</string>
+	<string id="doc_qeast01_0">
+		<text>Reskirao sam svoju guzicu za ovaj komad papira. Evo ti tvoj dokument i nemoj zaboraviti moju isplatu!</text>
+	</string>
+	<string id="doc_qeast01_1">
+		<text>Ma šta si reskirao? Nisi se valjda ukenjao u gaće? Rekao sam ti lepo na krovu, a ne na običnoj hrpi smeća!</text>
+	</string>
+	<string id="doc_qeast01_2">
+		<text>Reskirao! A šta ti znaš o rekiranju?</text>
+	</string>
+	<string id="doc_qeast01_3">
+		<text>Smiri se, šalim se bre! Evo ti nagrada za posao.</text>
+	</string>
+	<string id="doc_qeast_p_0">
+		<text>Pozdrav, opet ja, treba mi neki posao. Prikupljam sretstva za dugo putovanje u Zonu a Barmen kaže da on ništa nema.</text>
+	</string>
+	<string id="doc_qeast_p_1">
+		<text>Ni ja ti ne mogu dati nikakav kredit. Ali tvoja pomoć mi je neophodna. Oni dokumenti što si mi doneo su samo prvi deo jednog većeg dokumenta. Što znači da postoji i drugi deo dokumenta.</text>
+	</string>
+	<string id="doc_qeast_p_2">
+		<text>Opet me šalješ po neke stare papire?.</text>
+	</string>
+	<string id="doc_qeast_p_3">
+		<text>Hehe, brzo kopčaš. Neverovatno, video sam kako ti se majmunske oči pretvaraju u ljudske!</text>
+	</string>
+	<string id="doc_qeast_p_4">
+		<text>Slušaj, Darvinov potomče, lako ću te transformirati u majmuna...samo ću nož koristiti! Onda, gde da tražim taj drugi deo dokumenta?</text>
+	</string>
+	<string id="doc_qeast_p_5">
+		<text>Smisao za humor ti je bezveze. Potraži u podzemlju Agroproma.</text>
+	</string>
+	<string id="doc_qeast_p_6">
+		<text>Pokušaću ih pronaći. Ali ovaj zadatak će biti malo skuplji.</text>
+	</string>
+	<string id="doc_qeast_p_7">
+		<text>Akim, pa i ti si bio borac, zato idi sam u to podzemlja Agroproma i nađi šta ti treba.</text>
+	</string>
+	<string id="doc_qeast_p1_0">
+		<text>Evo ti dokumenti, i mogao bi biti malo precizniji sa svojim informacijama. Nisam ti ja nikakav telepata, niti sam Šerlok Holms.</text>
+	</string>
+	<string id="doc_qeast_p1_1">
+		<text>Odlično, vidim da si se specijalizirao za pronalaske izgubljene dokumentacije. Samo drugi put ih fino smotaj i stavi u ranac umesto da i gužvaš po džepovima! Šalim se prijatelju, odlično si to odradio, izvoli nagradu.</text>
+	</string>
+	<string id="doc_qeast_p1_2">
+		<text>Hvala, imam ti ja dosta mozga u glavi. Čak možda malo i previše...izgleda da bi i tebi dobro došlo malo!</text>
+	</string>
+	<string id="doc_qeast_p1_3">
+		<text>Imam ja dosta, stalkeru.</text>
+	</string>
+	<string id="doc_qeast_s_0">
+		<text>Zdravo Akim. kako ide trgovina? baš i ne vidim neku navalu kod tebe.</text>
+	</string>
+	<string id="doc_qeast_s_1">
+		<text>Zdravo, Obeleženi. Važan je kvalitet prodaje, a ne kvantitet. Još jedno mi treba tvoj talent. Trebao bih da neko ode u X-18. Ali ne mogu nikog naći voljnog da ode tamo. A da reskiram svoju glavu, ne pada mi na pamet.</text>
+	</string>
+	<string id="doc_qeast_s_2">
+		<text>Akim, ma o čemu ti pričaš? Kakav X-18?!!! Pa tamo ti je živi solarij! Hajmo svi tamo da odmaramo i živimo na visokoj nozi, haha! Ići ću, ali za ovo "sunčanje" moraćeš dobro platiti!</text>
+	</string>
+	<string id="doc_qeast_s_3">
+		<text>Neka je novac blagoslovljen, Obeleženi. Ti bi me dokumenti mogli brzo odvesti na tu rajsku plažu koja me čaka još kako sam došao u Zonu!</text>
+	</string>
+	<string id="doc_qeast_s_4">
+		<text>Aha, pa tako mi reci, sada razumem tvoje blebetanje. Dobro, daj mi detalje.</text>
+	</string>
+	<string id="doc_qeast_s_5">
+		<text>Pa, detaljno proučavanje drugog dela dokumenta dovelo me do trećeg dela. Saznao sam da je neko pod imenom Korčagin imao taj dokument, i da ga je podelio na četiri dela. U Laboratoriju X-18 se nalaze tri dela dokumenta. Negde izvan laboratorije je četvrti deo. Pronađi ih sve za mene. Moja zahvalnost neće imati granica!</text>
+	</string>
+	<string id="doc_qeast_s_6">
+		<text>Ajde onda da testiramo "granice" te tvoje zahvalnosti.</text>
+	</string>
+	<string id="doc_qeast_s_7">
+		<text>Dosta mi je tih podzemnih laboratorija, idi ti sam!</text>
+	</string>
+	<string id="doc_qeast_s1_0">
+		<text>Vratio sam se sa dokumentima. Nije bio lak zadatak ali sam pronašao dosta zanimljivog plena.</text>
+	</string>
+	<string id="doc_qeast_s1_1">
+		<text>Pa to je odlično. Sada imam dovoljno informacija.</text>
+	</string>
+	<string id="doc_qeast_s1_2">
+		<text>Akim, prestani sliniti po tim dokumentima i daj mi moju nagradu!!!!</text>
+	</string>
+	<string id="doc_qeast_s1_3">
+		<text>Dobro, dobro. Evo, uzmi, zaslužio si!</text>
+	</string>
+	<string id="doc_qeast_q_0">
+		<text>Zdravo, vidim da si magistrirao abecedu čitajući sve te tajne dokumente.</text>
+	</string>
+	<string id="doc_qeast_q_1">
+		<text>Zdravo, nakon X-18 sve me preporodilo, hehe! Ali opet si mi potreban. Trebaš da odeš u Laboratorij X-16 i pronađeš još jedan dokument. I još treba da mi doneseš PDA iz Borove baze u Mračnoj Dolini.</text>
+	</string>
+	<string id="doc_qeast_q_2">
+		<text>Akim, daj mi objasni čemu svi ti papiri? Ti si kao neki kockar koji tera svoju sretnu ruku.</text>
+	</string>
+	<string id="doc_qeast_q_3">
+		<text>Šta je moja motivacija i šta hoću da postignem, to nije tvoja stvar i ne treba da te je briga.</text>
+	</string>
+	<string id="doc_qeast_q_4">
+		<text>Pa svašta mi prolazi kroz glavu a i pametniji sam nego što misliš. Ali dobro, daj mi detalje zadatka.</text>
+	</string>
+	<string id="doc_qeast_q_5">
+		<text>Pogrešio sam, mislio sam da nakon X-18 nisi u prijateljskim odnosima sa svojim mozgom. Ali sada vidim da su to posledice iz detinjstva. Ajmo na posao, Zadnji deo iz dokumenata koje si iz X-18 ispostavilo se da ipak nije zadnji deo ove slagalice. Al ije bacio svetlo na novi dokument i PDA u kojem su neki bitni podaci. Pronađi ih. Znam približnu lokaciju PDA. Traži u blizini krana ispred baze Borova. A dokument bi trebao biti u kontrolnoj sobi u Laboratoriju X-16. A potrebno je i još nešto, po jedan komad od ovih pancira:\n Vojni SKAT-10, Stalkerski Egzoskelet, Banditski Egzoskelet i Djutijevo Naučničko odelo.</text>
+	</string>
+	<string id="doc_qeast_q_6">
+		<text>Vidim ja da ti na moj račun povećavaš svoj asortiman! Prihvatam, ali će možda potrajati dok prikupim svu potrebnu opremu.</text>
+	</string>
+	<string id="doc_qeast_q_7">
+		<text>Ovaj put tražiš malo previše, hvala, ali ne hvala.</text>
+	</string>
+	<string id="doc_qeast_q1_0">
+		<text>Trebam li ti i koji kamion istovariti? Jesi siguran da ne želiš na listu staviti i Pepeljuginu cipelu? Evo ti sva tvoja oprema!!!</text>
+	</string>
+	<string id="doc_qeast_q1_1">
+		<text>Nisam očekivao da ćeš baš sve pronaći! Vreme je da čuješ šta sam saznao, ove informacije i uputstva koja imam su dovoljna za jedan novi Egzoskelet. U Zoni postoji jedan testni model. Daću ti sve detaljne instrukcije, ali pazi da ne izgubiš sve poverljive podatke. Ako ih izgubiš nećeš moći razumeti ostalo! Srećno.</text>
+	</string>
+	<string id="doc_qeast_q1_2">
+		<text>Ovo je super! Svaka čast na instrukcijama, izgledaju jako korisne.</text>
+	</string>
+	<string id="doc_qeast_q1_3">
+		<text>Gde si ih pronašao, reci mi kako radi.</text>
+	</string>
+	<string id="doc_tvar_0">
+		<text>Pozdrav tebi, knezu trgovine! Neka nam dugo živi poštena prevara stalkera!!!</text>
+	</string>
+	<string id="doc_tvar_1">
+		<text>Mislim da si stvarno imao puno problema u svom detinjstvu. Zadatak ti je da nabaviš delove mutanata, od svakog mutanta po jedan deo, osim zombijevih ruku. Ovo i nije neki težak zadatak za tebe.</text>
+	</string>
+	<string id="doc_tvar_2">
+		<text>Šta će ti ta tolika kolekcija? Planiraš neki noćni klub?</text>
+	</string>
+	<string id="doc_tvar_3">
+		<text>Slušaj, kada odeš jednom iz Zone predlažem ti da se zaposliš u nekoj pošti. Bez oružja u ruci, lizanje poštanskih markica je jedino veština koju poseduješ! Čekam te sve delove.</text>
+	</string>
+	<string id="doc_tvar_4">
+		<text>Jedina markica koju ću zalepiti biće ona na tvom čelu. Hej, pa to i nije tako loša ideja!</text>
+	</string>
+	<string id="doc_tvar_5">
+		<text>Slušaj, već je davno bilo vreme da posetiš nekog doktora. Neka te dobro klistira jer ti je sav mozak otišao u guzicu. Hoćeš li sakupiti sve delove mutanata ili ne?</text>
+	</string>
+	<string id="doc_tvar_6">
+		<text>Ma daću ja tebi klistir sa bacačem plamena! Odoh po te mutantske delove, bolesniče jedan.</text>
+	</string>
+	<string id="doc_tvar_7">
+		<text>Ne Akim, vreme je da sam odradiš svoj posao.</text>
+	</string>
+	<string id="doc_tvar1_0">
+		<text>Vozdra, Sakupljaču. Doneo sam ti čitavo pakovanje. Pripremi viljušku i nož.</text>
+	</string>
+	<string id="doc_tvar1_1">
+		<text>Rekao sam ti da doneseš samo delove. Ti smotani koljaču, pa doneo si mi čaki i rame umesto obične ruke, šta da radim sa ovom celom mačkom!</text>
+	</string>
+	<string id="doc_tvar1_2">
+		<text>Ovde ti je ruka, ovde stopalo, tamo je rep. Da ne fali šta? Od ostalog možeš napraviti sebi dobar žele!</text>
+	</string>
+	<string id="doc_tvar1_3">
+		<text>Ooo Božee, neću ništa reći na ovo! Evo ti novac i razguli.</text>
+	</string>
+	<string id="qeast_q_0">
+		<text>Šta, do vraga, radiš ovde? Da nisi došao sakupljati pečurke?? Haha.</text>
+	</string>
+	<string id="qeast_q_1">
+		<text>Pozdrav stalkeru, ja sam Cross(???). A što se tiče pečuraka one ne rastu ovde. Došao sam na ovo mesto zbog artefakata. Ovde i h ima puno, ali nažalost ne onih koje ja tražim. Hoćeš mi pomoći da ih nađem? Treba mi 15 artefakata, svakog po 5 od ovih artefakata: Meduza, Kameni Cvet i Vatrena Lopta.</text>
+	</string>
+	<string id="qeast_q_2">
+		<text>15 artefakata? To je velik zadatak za bilo kog stalkera. Reci mi zašto se ja sada ne bih okrenuo i otišao i zaboravio da sam te ikada video?</text>
+	</string>
+	<string id="qeast_q_3">
+		<text>Pa posao jeste velik, ali i velika je i nagrada za njega!</text>
+	</string>
+	<string id="qeast_q_4">
+		<text>Ne znam, to je puno radijacije da se nosi uokolo u jednom rancu, a uostalom imam ja i drugog posla.</text>
+	</string>
+	<string id="qeast_q_5">
+		<text>Pa dobro stalkeru, pogledaj uokolo. Možeš videti da sam došao dobro opremljen. Ja sam neko kome možeš verovati a to baš i nije uobičajena stvar ovde u Zoni. Sklopi pravo prijateljstvo jer niakda ne znaš kako korisno to može biti u budućnosti.</text>
+	</string>
+	<string id="qeast_q_6">
+		<text>Da, ovde je puno prevare i izdaje, nadam se da govoriš iskreno! Dobro, doneću ti 15 artefakata i očekujem dobru isplatu.</text>
+	</string>
+	<string id="qeast_q_7">
+		<text>Cross(???), sakupi ih sam, previše je to radijacije da se nosa po Zoni.</text>
+	</string>
+	<string id="qeast_q1_0">
+		<text>Živio Cross. Evo uzmi svoje artefakte, sva ta radijacija uopće nije zdrava. Ne želim da postanem impotentan!</text>
+	</string>
+	<string id="qeast_q1_1">
+		<text>Odličan posao, Obeleženi! Hvala. Sudeći po toj hrpi artefakata koju imaš za pojasom, već si pokupio dosta radijacije! Zato se ne boj radijacije, jer si možda već impotentan. Evo ti nagrada.</text>
+	</string>
+	<string id="qeast_q1_2">
+		<text>Ma kog vraga ti znaš o impotenciji!</text>
+	</string>
+	<string id="qeast_q1_3">
+		<text>Smiri se, šta se ljutiš. To je nešto o čemu moraš razmišljati ako misliš duže ostati u Zoni. Lako završiš kao zombi koji samo kopa nos po celi dan.</text>
+	</string>
+	<string id="m_qeast_0">
+		<text>Zdravo.</text>
+	</string>
+	<string id="m_qeast_1">
+		<text>Oho, junak Zone došao u posetu. Imam jedan poslić za tebe! Jučer me posetila vojna racija i oduzela mi sve artefakte! Pa, sve ono što nisam skrio po štekovima! A i popili su mi svu votku! To mora da se kazni.</text>
+	</string>
+	<string id="m_qeast_2">
+		<text>Kazniti Vojsku?! Da, baš treba! Popili svu votku, kopilad! Nisi ništa razmišljao o posledicama tog poduhvata? A i nisam ti ja nikakav plaćeni ubojica.</text>
+	</string>
+	<string id="m_qeast_3">
+		<text>Ne tražim od tebe da ubiješ nekoga! Trebao bi mi nabaviti samo to njihovo abnormalno oružje? Treba mi 6 Bizona, onda bi mogao unajmiti nekoliko ljudi da im daju materijala za razmišljanje sledeći put kada dođu u raciju.</text>
+	</string>
+	<string id="m_qeast_4">
+		<text>Oh, misliš da im samo priđem i kažem: Hej, vojnici! Dajte mi 6 Bizona! A oni, uz čisto zadovoljstvo i smešak na licu, daju koliko god mi treba!</text>
+	</string>
+	<string id="m_qeast_5">
+		<text>40,000 Ru. i još neka dodatna nagrada - to je moja ponuda. Kako ćeš doći do oružja to je tvoja stvar. Ako pristaneš, željno ću ih očekivati kao neki napaljeni dečak što čeka devojku.</text>
+	</string>
+	<string id="m_qeast_6">
+		<text>OK, pristajem. To je puno novca, a i već sam bio pokupio nekoliko komada Bizona na svojim putovanjima i sigurno će mi naići još neki pod ruku!</text>
+	</string>
+	<string id="m_qeast_7">
+		<text>Ne, ne želim tražiti sebi posla sa Vojskom. Ti ljudi bi odmah poslali nekoliko helikoptera i razneli me u komade, postao bi hrana za pseudo pse!</text>
+	</string>
+	<string id="m_qeast1_0">
+		<text>Evo, doneo sam ti Bizone, ali nisam devojku!</text>
+	</string>
+	<string id="m_qeast1_1">
+		<text>Odlično, Obeleženii! Izvoli nagradu.</text>
+	</string>
+	<string id="m_qeast1_2">
+		<text>Ovo je strašno oružje! Trebao sam prije skontati jer sam im već nekoliko puta bio na nišanu!</text>
+	</string>
+	<string id="m_qeast1_3">
+		<text>Nadam se da ti nije bilo preteško? Iako sumnjam da nije.</text>
+	</string>
+	<string id="s_qeast_0">
+		<text>Jesi li ti lokalni Tarzan, ili si tu da trguješ sa himerama?</text>
+	</string>
+	<string id="s_qeast_1">
+		<text>Pravi si šaljivdžija, Obeleženi, drago mi je da ti Zona nije oduzela smisao za homor. A imam i jedan poslić za tebe. Oho! Kako ti oči odmah bljesnuše!</text>
+	</string>
+	<string id="s_qeast_2">
+		<text>Bljeskaju pri samoj pomisli da dobijem jedan elitni artefakt! Koji je zadatak?</text>
+	</string>
+	<string id="s_qeast_3">
+		<text>Jedno vojno lice je nestalo u ovoj šumi. Sa sobom je nosio jedan teleporter kojeg bih volio malo proučiti. Pošto sam pratio njegove komunikacije, znam da je prenoćio u ovoj šumi jer mu je teleporter bio u kvaru. Opisao je svoj položaj kao negde u blizini nekog velikog kamenja i nedavno napuštenog auta. Jučer sam sreo stalkera koji mi je rekao da mu se auto pokvario u severnim delovima šume, znači nije daleko odavde. Pronađi tog vojnika i donesi mi teleporter i dobro ću te nagraditi.</text>
+	</string>
+	<string id="s_qeast_4">
+		<text>Nešto mi tu smrdi! U kakvo sranje me šalješ?</text>
+	</string>
+	<string id="s_qeast_5">
+		<text>Taj teleporter mi je jako važan, to je opravdani rizik.</text>
+	</string>
+	<string id="s_qeast_6">
+		<text>Misliš opravdan rizik koji ja trebam da podnesem? OK, potražiću tog vojnika i tu spravu.</text>
+	</string>
+	<string id="s_qeast_7">
+		<text>Cross(???), ajde muzi Veprove! Nemoj se igrati samnom, razumeš.</text>
+	</string>
+	<string id="s_qeast1_0">
+		<text>Pronašao sam ti teleporter, i ne radi, ali to već znaš. Izvoli.</text>
+	</string>
+	<string id="s_qeast1_1">
+		<text>Znao sam da ćeš ga pokušati koristiti. Rekao sam ti da ne radi. Popraviću ga. A šta je sa vojnim licem?</text>
+	</string>
+	<string id="s_qeast1_2">
+		<text>Izgleda da su ga mutanti nedavno ubili.</text>
+	</string>
+	<string id="s_qeast1_3">
+		<text>Hvala, Obeleženi, evo ti nagrada. Aha, još nešto, ispod poklopca uređaja napisano je 'Prototip 2'. Znači da je prvi prototip još tu u Zoni. Ako ga nađeš, tvoj je. Sudeći po nekim oznakama, oba uređaja su napravljena u ATP, tamo bih ja počeo tražiti. Ima još jedan konkretniji dokaz, slušajući radio komunikacije lokalnih bandita, u očekivanju su vojne racije pa su sakrili nešto svog plena. Bilo bi dobro pogledati kontejnere smeća u ATP, siguran sam da ćeš naći nešto tamo.</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca - 05.02.2015 -13.45 -->
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:37 -sadd -->

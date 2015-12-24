@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.2e -->
+	<string id="agr_find_ghost">
+		<text>Saznaj šta se desilo sa Duhom</text>
+	</string>
+	<string id="agr_gunslinger_cache">
+		<text>Strelokovo skrovište</text>
+	</string>
+	<string id="agr_help_krot">
+		<text>Spasi Krticu</text>
+	</string>
+	<string id="agr_help_krot_0">
+		<text>Pomozi Krtici u borbi sa vojnicima</text>
+	</string>
+	<string id="agr_help_krot_1">
+		<text>Pobij vojnike</text>
+	</string>
+	<string id="agr_help_krot_2">
+		<text>Spasi Krticu</text>
+	</string>
+	<string id="agr_help_stalkers">
+		<text>Pomozi Stalkerima</text>
+	</string>
+	<string id="agr_help_stalkers_0">
+		<text>Pomozi Stalkerima u borbi sa vojnicima</text>
+	</string>
+	<string id="agr_help_stalkers_1">
+		<text>Zaustavi vojnu ofanzivu</text>
+	</string>
+	<string id="agr_help_stalkers_2">
+		<text>Pomozi stalkerima u borbi sa vojnicima</text>
+	</string>
+	<string id="agr_krot">
+		<text>Susretni se sa stalkerima</text>
+	</string>
+	<string id="agr_meet_krot_band">
+		<text>Pribavi informacije o Streloku</text>
+	</string>
+	<string id="agr_meet_krot_band_0">
+		<text>Uzmi informaciju od Krtice</text>
+	</string>
+	<string id="agr_meet_krot_band_1">
+		<text>Sretni se sa Krticom i njegovom grupom</text>
+	</string>
+	<string id="agr_meet_krot_band_2">
+		<text>Uzmi informaciju od Krtice</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache">
+		<text>Pronađi skrovište Strelokove grupe</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_0">
+		<text>Pronađi skrovište Strelokove grupe</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_1">
+		<text>Pronađi skrovište</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_2">
+		<text>Pronađi iformacije o Streloku u skrovištu</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_3">
+		<text>Pronađi izlaz iz podzemlja</text>
+	</string>
+	<string id="agroprom_find_stalker_phantom">
+		<text>Pronađi Duha</text>
+	</string>
+	<string id="agroprom_find_stalker_phantom_0">
+		<text>Duh zna gde je Strelok.</text>
+	</string>
+	<string id="agroprom_get_military_documents">
+		<text>Pronađi vojne dokumente</text>
+	</string>
+	<string id="agroprom_get_military_documents_0">
+		<text>Istrživački Institut Agroprom</text>
+	</string>
+	<string id="agroprom_get_military_documents_1">
+		<text>Ukradi vojne dokumente</text>
+	</string>
+	<string id="agroprom_get_military_documents_2">
+		<text>Odnesi dokumente Barmenu</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:21 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:30 -sadd -->

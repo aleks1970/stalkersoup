@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+	<string id="mil_actor_blockpost">
+		<text>Prilaziš Barijeri!. I ne pomišljaj da napraviš neku glupost. Ipak bi nas svaka pomoć jako usrećila.</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>Obeleženi, dođi ovamo po svoj dio i dalja uputstva</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>Obeleženi, vrati se na svoj položaj</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>Ako provedeš celu noć na Tornju u selu, nešto će se SIGURNO desiti...</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>Ne zaboravi na mine! Jedan pogrešan korak i spržen si.</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>Budi oprezan, Obeleženi. Navodno se u selu pojavila nova anomalija. Kopile je brzo i nevidljivo.</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>Pažnja svi vi koji hoćete da sebi rastočite mozak: Cestu prema Crvenoj Šumi štiti jedinica Monolita i kao što već verovatno znate, ti momci prvo pucaju pa onda postavljaju pitanja. Sretno.</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>Pali! Uništimo kopilad!</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>Naš posao ovdje je završen. Povlačimo se na farmu. Tamo ćemo podeliti lovu.</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>Napred momci! Put je čist!</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>Obeleženi, skini ove snajperiste!</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>Budi oprezan Obeleženi, ili ćeš natrčati na metak...</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:19 -sadd -->

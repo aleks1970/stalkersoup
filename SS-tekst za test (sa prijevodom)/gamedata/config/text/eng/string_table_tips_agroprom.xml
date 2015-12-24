@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.31e -->
+	<string id="tips_agr_krot_sos">
+		<text>Pomoć molim!!! ... bilo ko ako nas čuje .... zarobljeni smo kod Fabrike ... Vojska nas je opkolila ... brojčano smo slabiji, i sa oružjem smo slabi .... potrebna nam je pomoć .... ODMAH!!!</text>
+	</string>
+	<string id="tips_agr_krot_sos1">
+		<text>Zarobljen sam u dvorištu!!! .... Braćo upomoć!!! ... molim ...</text>
+	</string>
+	<string id="tips_agr_krot_sos2">
+		<text>Već sam dao sve što mogu ...</text>
+	</string>
+	<string id="tips_agr_stalker_help_1">
+		<text>... </text>
+	</string>
+	<string id="tips_agr_stalker_help_2">
+		<text>...</text>
+	</string>
+	<string id="tips_agr_trader_documents">
+		<text>Obeleženi ... vojska ima kontrolu ovde, a neće da nam dozvole da odemo. Javio sam Barmenu da zna da si dolazio ovde ...\nOni dolaze sa pojačanjem ... sa helikopterom. Zgrada je kompletno opkoljena. Moraš izaći odavde što pre!!! Srećno. Odlazi odmah!!!!</text>
+	</string>
+	<string id="tips_captain_name">
+		<text>Kapetan Maksimenko</text>
+	</string>
+	<string id="ghost_tips">
+		<text>Strelok, imam tužne vesti. Fang je umro. Nije te mogao susresti. Loše je što si otišao u Centar Zone sam. Ali ipak, bio je to tvoj izbor. Znam gde ću te potražiti i koga upitati za tebe. Duh.</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 14:04 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:23 -sadd -->

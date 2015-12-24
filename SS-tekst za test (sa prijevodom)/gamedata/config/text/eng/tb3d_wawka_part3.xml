@@ -1,0 +1,2411 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--======= TB3D 1.0.9.8 new 04/12/2012 from old stable_dialogs_wawka 3=============================================-->
+<string_table>
+	<string id="start_update_outfit_barman_0">
+		<text>I šta kažeš...</text>
+	</string>
+	<string id="start_update_outfit_barman_1">
+		<text>Evo šta, Obeleženi... Lepo si me iznenadio sa dokumentima iz Agroproma... Ako ti treba nadograditi odelo, samo se obrati! Mogu ti instalirati razne uređaje za noćno osmatranje, ojačati odela što podiže njihovu otpornost na habanje prilikom nošenja.</text>
+	</string>
+	<string id="start_update_outfit_barman_2">
+		<text>Hvala Barmenu, to je upravo ono što mi treba...</text>
+	</string>
+	<string id="update_outfit_barman_0">
+		<text>Šta mi možeš ponuditi za nadogradnju odela?</text>
+	</string>
+	<string id="update_outfit_barman_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nLako stalkersko odelo;\nStalkersko odelo;\nStalkersko odelo 'Veteran-1';\nStalkersko odelo 'Veteran-2';\nStalkersko odelo 'Veteran-3';\nNaučničko stalkersko odelo;\nPoboljšano stalkersko odelo 'Veteran-1' sa gas maskom;\nPoboljšano stalkersko odelo 'Veteran-2' sa gas maskom;\nPoboljšano stalkersko odelo 'Veteran-3' sa gas maskom;\nPoboljšano stalkersko odelo 'CSu-1' sa gas maskom;\nPoboljšano stalkersko odelo 'CSu-2k' sa gas maskom;\nDuhovo odelo;\nOdelo Turiste;\nStrelokovo odelo.\nTakođer, moguće je povećati otpornost na habanje. Što ti je potrebno?</text>
+	</string>
+	<string id="update_outfit_barman_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_barman_11111">
+		<text>Na koje odelo želiš instalirati uređaj, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_barman_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_barman_1111111">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_barman_2">
+		<text>Lako stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_3">
+		<text>Stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_4">
+		<text>Stalkersko odelo 'Veteran-1'...</text>
+	</string>
+	<string id="update_outfit_barman_5">
+		<text>Stalkersko odelo 'Veteran-2'...</text>
+	</string>
+	<string id="update_outfit_barman_6">
+		<text>Stalkersko odelo 'Veteran-3'...</text>
+	</string>
+	<string id="update_outfit_barman_7">
+		<text>Naučničko stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_8">
+		<text>Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_9">
+		<text>Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_10">
+		<text>Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_11">
+		<text>Poboljšano stalkersko odelo 'CSu-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_12">
+		<text>Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_13">
+		<text>Duhovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_14">
+		<text>Odelo Turiste...</text>
+	</string>
+	<string id="update_outfit_barman_15">
+		<text>Strelokovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_02">
+		<text>Za olakšano Stalkersko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_03">
+		<text>Za Stalkersko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_04">
+		<text>Za Stalkersko odelo 'Veteran-1', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_05">
+		<text>Za Stalkersko odelo 'Veteran-2', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_06">
+		<text>Za Stalkersko odelo 'Veteran-3', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_07">
+		<text>Za Naučničko stalkersko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0071">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0072">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0073">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0074">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0075">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0076">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0077">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0078">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_08">
+		<text>Za Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0081">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0082">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0083">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0084">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0085">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0086">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0087">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0088">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_09">
+		<text>Za Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0091">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0092">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0093">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0094">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0095">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0096">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0097">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0098">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_010">
+		<text>Za Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_00101">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_00102">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_00103">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_00104">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_00105">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_00106">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_00107">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_00108">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_011">
+		<text>Za Poboljšano stalkersko odelo 'CSu-1' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_00111">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_00112">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_00113">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_00114">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_00115">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_00116">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_00117">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_00118">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_012">
+		<text>Za Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_00121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_00122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_00123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_00124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_00125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_00126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_00127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_00128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_013">
+		<text>Za Duhovo odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_00131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_00132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_00133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_00134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_00135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_00136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_00137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_00138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_014">
+		<text>Za odelo turiste, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_00141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_00142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_00143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_00144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_00145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_00146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_00147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_00148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_015">
+		<text>Za Strelok odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_00151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_00152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_00153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_00154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_00155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_00156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_00157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_00158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_2100">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_2200">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_2300">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_2400">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_2500">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_2600">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_2700">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_2800">
+		<text>Uzmi Lako stalkersko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3100">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3200">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3300">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3400">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3500">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3600">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3700">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3800">
+		<text>Uzmi stalkersko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_4100">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_4200">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_4300">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_4400">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_4500">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_4600">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_4700">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_4800">
+		<text>Uzmi stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_5100">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_5200">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_5300">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_5400">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_5500">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_5600">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_5700">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_5800">
+		<text>Uzmi stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_6100">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_6200">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_6300">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_6400">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_6500">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_6600">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_6700">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_6800">
+		<text>Uzmi stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_7100">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_7200">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_7300">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_7400">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_7500">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_7600">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_7700">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_7800">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_8100">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_8200">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_8300">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_8400">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_8500">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_8600">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_8700">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_8800">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_9100">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_9200">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_9300">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_9400">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_9500">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_9600">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_9700">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_9800">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10100">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_10200">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_10300">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_10400">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_10500">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_10600">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_10700">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_10800">
+		<text>Uzmi Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11100">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11200">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11300">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11400">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11500">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11600">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11700">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11800">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_12100">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_12200">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_12300">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_12400">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_12500">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_12600">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_12700">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_12800">
+		<text>Uzmi Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_13100">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_13200">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_13300">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_13400">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_13500">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_13600">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_13700">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_13800">
+		<text>Uzmi Duhovo odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_14100">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_14200">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_14300">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_14400">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_14500">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_14600">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_14700">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_14800">
+		<text>Uzmi Odelo Turiste. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_15100">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_15200">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_15300">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_15400">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_15500">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_15600">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_15700">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_15800">
+		<text>Uzmi Strelokovo odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_barman_1111121">
+		<text>Odlično...Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_barman_102">
+		<text>Lako stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_103">
+		<text>Stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_104">
+		<text>Stalkersko odelo 'Veteran-1'...</text>
+	</string>
+	<string id="update_outfit_barman_105">
+		<text>Stalkersko odelo 'Veteran-2'...</text>
+	</string>
+	<string id="update_outfit_barman_106">
+		<text>Stalkersko odelo 'Veteran-3'...</text>
+	</string>
+	<string id="update_outfit_barman_107">
+		<text>Naučničko stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_108">
+		<text>Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_109">
+		<text>Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_110">
+		<text>Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_111">
+		<text>Poboljšano stalkersko odelo 'CSu-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_112">
+		<text>Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_113">
+		<text>Duhovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_114">
+		<text>Odelo Turiste...</text>
+	</string>
+	<string id="update_outfit_barman_115">
+		<text>Strelokovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_1022">
+		<text>Za ojačano Lako stalkersko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1033">
+		<text>Za ojačano stalkersko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1044">
+		<text>Za ojačano stalkersko odelo 'Veteran-1', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1055">
+		<text>Za ojačano stalkersko odelo 'Veteran-2', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1066">
+		<text>Za ojačano stalkersko odelo 'Veteran-3', mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1077">
+		<text>Za ojačano naučničko stalkersko odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0171">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0172">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0173">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0174">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0175">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0176">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0177">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0178">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1088">
+		<text>Za ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0181">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0182">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0183">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0184">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0185">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0186">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0187">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0188">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1099">
+		<text>Za ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_0191">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_0192">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_0193">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_0194">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_0195">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_0196">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_0197">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_0198">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10110">
+		<text>Za ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_01101">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_01102">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_01103">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_01104">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_01105">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_01106">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_01107">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_01108">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10111">
+		<text>Za ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_01111">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_01112">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_01113">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_01114">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_01115">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_01116">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_01117">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_01118">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10112">
+		<text>Za ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20,000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Belu noć' - 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_01121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_01122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_01123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_01124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_01125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_01126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_01127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_01128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10113">
+		<text>Za ojačano Duhovo odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_01131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_01132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_01133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_01134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_01135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_01136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_01137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_01138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10114">
+		<text>Za ojačano poboljšano Odelo Turiste, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_01141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_01142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_01143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_01144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_01145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_01146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_01147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_01148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_10115">
+		<text>Za ojačano poboljšano Strelok Odelo, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_barman_01151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_01152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_01153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_01154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_01155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_01156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_01157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_01158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1210">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1220">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1230">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1240">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1250">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1260">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1270">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1280">
+		<text>Uzmi ojačano Lako stalkersko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1310">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1320">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1330">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1340">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1350">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1360">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1370">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1380">
+		<text>Uzmi ojačano stalkersko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1410">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1420">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1430">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1440">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1450">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1460">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1470">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1480">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1510">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1520">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1530">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1540">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1550">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1560">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1570">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1580">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1610">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1620">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1630">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1640">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1650">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1660">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1670">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1680">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1710">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1720">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1730">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1740">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1750">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1760">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1770">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1780">
+		<text>Uzmi ojačano Naučničko stalkersko odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1810">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1820">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1830">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1840">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1850">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1860">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1870">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1880">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_1910">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_1920">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_1930">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_1940">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_1950">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_1960">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_1970">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_1980">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11010">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11020">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11030">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11040">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11050">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11060">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11070">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11080">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11110">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11120">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11130">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11140">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11150">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11160">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11170">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11180">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11210">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11220">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11230">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11240">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11250">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11260">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11270">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11280">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11310">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11320">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11330">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11340">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11350">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11360">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11370">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11380">
+		<text>Uzmi ojačano Duhovo odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11410">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11420">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11430">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11440">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11450">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11460">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11470">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11480">
+		<text>Uzmi ojačano Odelo Turiste. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_11510">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_11520">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_11530">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_11540">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_11550">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_11560">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_11570">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_11580">
+		<text>Uzmi ojačano Strelokovo odelo. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_2222">
+		<text>Ojačanje Odela...</text>
+	</string>
+	<string id="update_outfit_barman_22222">
+		<text>Koje odelo želiš ojačati, obično ili sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_barman_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_barman_2222211">
+		<text>To je odlično... Moje kvote:\n-Lako stalkersko odelo - za artefakt 'Koža' i 10,000 Ru;\n-Stalkersko odelo - za artefakt 'Koža' i 15,000 Ru;\n-Stalkersko odelo 'Veteran-1' - za artefakt 'Koža' i 15,000 Ru;\n-Stalkersko odelo 'Veteran-2' - za artefakt 'Koža' i 15,000 Ru;\n-Stalkersko odelo 'Veteran-3' - za artefakt 'Koža' i 15,000 Ru;\n-Naučničko stalkersko odelo - za artefakt 'Krljušt' i 30,000 Ru;\n-Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom - za artefakt 'Koža' i 25,000 Ru;\n-Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom - za artefakt 'Koža' i 25,000 Ru;\n- Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom - za artefakt 'Koža' i 25,000 Ru;\n-Poboljšano stalkersko odelo 'CSu-1' - za artefakt 'Koža' i 20000 Ru;\n-Poboljšano stalkersko odelo 'CSu-2k' - za artefakt 'Koža' i 25,000 Ru;\n-Duhovo odelo - za artefakt 'Koža' i 15,000 Ru;\n-Odelo Turiste - za artefakt 'Koža' i 20,000 Ru;\n-Strelokovo odelo - za artefakt 'Koža' i 20,000 Ru.\nIzaberi odelo.</text>
+	</string>
+	<string id="update_outfit_barman_202">
+		<text>Lako stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_203">
+		<text>Stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_204">
+		<text>Stalkersko odelo 'Veteran-1'...</text>
+	</string>
+	<string id="update_outfit_barman_205">
+		<text>Stalkersko odelo 'Veteran-2'...</text>
+	</string>
+	<string id="update_outfit_barman_206">
+		<text>Stalkersko odelo 'Veteran-3'...</text>
+	</string>
+	<string id="update_outfit_barman_207">
+		<text>Naučničko stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_208">
+		<text>Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_209">
+		<text>Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_210">
+		<text>Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_211">
+		<text>Poboljšano stalkersko odelo 'CSu-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_212">
+		<text>Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_213">
+		<text>Duhovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_214">
+		<text>Odelo Turiste...</text>
+	</string>
+	<string id="update_outfit_barman_215">
+		<text>Strelokovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_216">
+		<text>Uzmi ojačano Lako stalkersko odelo.</text>
+	</string>
+	<string id="update_outfit_barman_217">
+		<text>Uzmi ojačano stalkersko odelo.</text>
+	</string>
+	<string id="update_outfit_barman_218">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-1'.</text>
+	</string>
+	<string id="update_outfit_barman_219">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-2'.</text>
+	</string>
+	<string id="update_outfit_barman_220">
+		<text>Uzmi ojačano stalkersko odelo 'Veteran-3'.</text>
+	</string>
+	<string id="update_outfit_barman_221">
+		<text>Uzmi ojačano Naučničko stalkersko odelo.</text>
+	</string>
+	<string id="update_outfit_barman_222">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_barman_223">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_barman_224">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_barman_225">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_barman_226">
+		<text>Uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_barman_227">
+		<text>Uzmi ojačano Duhovo odelo.</text>
+	</string>
+	<string id="update_outfit_barman_228">
+		<text>Uzmi ojačano Odelo Turiste.</text>
+	</string>
+	<string id="update_outfit_barman_229">
+		<text>Uzmi ojačano Strelokovo odelo.</text>
+	</string>
+	<string id="update_outfit_barman_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_barman_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_barman_302">
+		<text>Lako stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_303">
+		<text>Stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_304">
+		<text>Stalkersko odelo 'Veteran-1'...</text>
+	</string>
+	<string id="update_outfit_barman_305">
+		<text>Stalkersko odelo 'Veteran-2'...</text>
+	</string>
+	<string id="update_outfit_barman_306">
+		<text>Stalkersko odelo 'Veteran-3'...</text>
+	</string>
+	<string id="update_outfit_barman_307">
+		<text>Naučničko stalkersko odelo...</text>
+	</string>
+	<string id="update_outfit_barman_308">
+		<text>Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_309">
+		<text>Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_310">
+		<text>Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_311">
+		<text>Poboljšano stalkersko odelo 'CSu-1' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_312">
+		<text>Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_barman_313">
+		<text>Duhovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_314">
+		<text>Odelo Turiste...</text>
+	</string>
+	<string id="update_outfit_barman_315">
+		<text>Strelokovo odelo...</text>
+	</string>
+	<string id="update_outfit_barman_3022">
+		<text>Cena ojačanja za Lako stalkersko odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3033">
+		<text>Cena ojačanja za stalkersko odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3044">
+		<text>Cena ojačanja za stalkersko odelo 'Veteran-1', sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3055">
+		<text>Cena ojačanja za stalkersko odelo 'Veteran-2', sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3066">
+		<text>Cena ojačanja za stalkersko odelo 'Veteran-3', sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3077">
+		<text>Cena ojačanja za Naučničko stalkersko odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 30000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_barman_0371">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0372">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0373">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0374">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0375">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0376">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0377">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0378">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3088">
+		<text>Cena ojačanja za Poboljšano stalkersko odelo 'Veteran-1', sa instaliranim uređajem za noćno osmatranje (PNV) je 25000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0381">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0382">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0383">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0384">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0385">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0386">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0387">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0388">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3099">
+		<text>Cena ojačanja za Poboljšano stalkersko odelo 'Veteran-2', sa instaliranim uređajem za noćno osmatranje (PNV) je 25000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_0391">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0392">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0393">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0394">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0395">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0396">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0397">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_0398">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_30110">
+		<text>Cena ojačanja za Poboljšano stalkersko odelo 'Veteran-3', sa instaliranim uređajem za noćno osmatranje (PNV) je 25000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_03101">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03102">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03103">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03104">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03105">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03106">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03107">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03108">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_30111">
+		<text>Cena ojačanja Poboljšano stalkersko odelo 'CSu-1', sa instaliranim uređajem za noćno osmatranje (PNV) je 20000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_03111">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03112">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03113">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03114">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03115">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03116">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03117">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03118">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_30112">
+		<text>Cena ojačanja za Poboljšano stalkersko odelo 'CSu-2k', sa instaliranim uređajem za noćno osmatranje (PNV) je 25,000 roubles and the artefact 'Koža'is still necessary...</text>
+	</string>
+	<string id="update_outfit_barman_03121">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03122">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03123">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03124">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03125">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03126">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03127">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03128">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_30113">
+		<text>Cena ojačanja za Duhovo odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_03131">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03132">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03133">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03134">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03135">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03136">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03137">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03138">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_30114">
+		<text>Cena ojačanja za Odelo Turiste, sa instaliranim uređajem za noćno osmatranje (PNV) je 20000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_03141">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03142">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03143">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03144">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03145">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03146">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03147">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03148">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_30115">
+		<text>Cena ojačanja za Strelokovo odelo, sa instaliranim uređajem za noćno osmatranje (PNV) je 20000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_barman_03151">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03152">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03153">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03154">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03155">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03156">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03157">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_03158">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_barman_3210">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3220">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3230">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3240">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3250">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3260">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3270">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3280">
+		<text>Evo, uzmi ojačano Lako stalkersko odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3310">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3320">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3330">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3340">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3350">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3360">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3370">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3380">
+		<text>Evo, Uzmi ojačano stalkersko odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3410">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3420">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3430">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3440">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3450">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3460">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3470">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3480">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-1' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3510">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3520">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3530">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3540">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3550">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3560">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3570">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3580">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-2' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3610">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3620">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3630">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3640">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3650">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3660">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3670">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3680">
+		<text>Evo, Uzmi ojačano stalkersko odelo 'Veteran-3' sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3710">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3720">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3730">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3740">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3750">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3760">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3770">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3780">
+		<text>Evo, uzmi ojačano Naučničko stalkersko odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3810">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3820">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3830">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3840">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3850">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3860">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3870">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3880">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-1' sa gas maskom sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_3910">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_3920">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_3930">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_3940">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_3950">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_3960">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_3970">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_3980">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-2' sa gas maskom sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_31010">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_31020">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_31030">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_31040">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_31050">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_31060">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_31070">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_31080">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'Veteran-3' sa gas maskom sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_31110">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_31120">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_31130">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_31140">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_31150">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_31160">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_31170">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_31180">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-1' sa gas maskom sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_31210">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_31220">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_31230">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_31240">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_31250">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_31260">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_31270">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_31280">
+		<text>Evo, uzmi ojačano poboljšano stalkersko odelo 'CSu-2k' sa gas maskom sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_31310">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_31320">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_31330">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_31340">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_31350">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_31360">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_31370">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_31380">
+		<text>Evo, uzmi ojačano Duhovo odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_31410">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_31420">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_31430">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_31440">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_31450">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_31460">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_31470">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_31480">
+		<text>Evo, uzmi ojačano Odelo Turiste sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_31510">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_barman_31520">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_barman_31530">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_barman_31540">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_barman_31550">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_barman_31560">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_barman_31570">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_barman_31580">
+		<text>Evo, uzmi ojačano Strelokovo odelo sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_barman_999">
+		<text>Trenutno nije potrebno ništa...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio flexerca -=- 13:26 14.09.2015 -->

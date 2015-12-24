@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes"?>
+<!-- TB3D 1.0.1e, text from "stable_dialogs" + other files with dialogs - aleks1970 -->
+<string_table>
+#include "text\eng\stable_dialogs_aes.xml"
+#include "text\eng\stable_dialogs_military.xml"
+#include "text\eng\stable_dialogs_deadcity.xml"
+#include "text\eng\stable_dialogs_darkvalley.xml"
+	<string id="actor_help_wounded_131">
+		<text>Pa kako ideš Zonom onda? Šta ako si inficiran ili nešto drugo? Nebi bio u mogućnosti ni da se izlečiš!</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Izvini čoveče. Ali ako ti dam ovaj, meni neće ostati nijedan više.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>To je tvoj problem, ali ne čini ti ništa dobro.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>'Ej!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>Pomozi mi, hoćeš li?</text>
+	</string>
+</string_table>

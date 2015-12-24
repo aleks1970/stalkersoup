@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.2 bar chgd to rostok, new levels, f1-->
+<string_table>
+	<string id="informer_recipt1">
+		<text>A čoveče! Da nisi možda zabunom dodao ovolike nule na ovu cenu?! ...Bolje za tebe da vredi ovih para... Evo, uzmi novce...</text>
+	</string>
+	<string id="informer_recipt2">
+		<text>Smatraj da ti je danas sretan dan... Predaj to ovamo...</text>
+	</string>
+	<string id="alenka_info">
+		<text>Molim te, nemoj me ubiti! Imam ženu i decu kod kuće, čekaju me... Molim te!! Čekaj... Slušaj.. Imam nešto za tebe. Vidiš, tamo u bazi bio sam obično piskaralo - celo vreme za nekim starim računarom, bakljajući se sa izveštajim i dokumentima i ostalom papirologijom. I onda sam naleteo na ovaj dokument... Pa, dugo sam se mučio sa šifrom ali na kraju sam je uspeo probiti... Nisam smeo napraviti kopiju ali sam ga dobro zapamtio - bio je to izveštaj od onih Naučnika, o artefaktima i anomalijama!! Kaže da uzmeš mezo... me .. um ... mezo-nešto ili nešto tako... zvano 'Ancient Grandma's Beads( Stare Prabakine Perle)', ili nešto slično tom besmislenom imenu. Ne pitaj me šta znači jer nemam blage veze - i onda to nešto uzmeš i baciš u drugo nešto što se zove 'Whirligig'( Ringišpil), i onda nakon 10 minuta dobiješ skroz drugi artefakt. U suštini dobiješ isti ali sa drugačijim osobinama. Emituje neku vrstu energetskog polja koje na nekakav način usporava vreme. Navodno zaustavlja i krvarenje, i poboljšava zdravlje. Nažalost i radioaktivan je, što može prouzrokovati i velike posledice nakon nekog vremena. Nadam se da ti ova informacija više koristi nego meni...i da ti vredi dovoljno da mi poštediš život... Molim te!! .... Preklinjem te...</text>
+	</string>
+	<string id="new_prizrak_document1_name">
+		<text>Knjiga iz Sarkofaga No1.</text>
+	</string>
+	<string id="new_prizrak_document1_desc">
+		<text>Knjiga iz Sarkofaga No1. Beleške Monolićana - Knjiga I</text>
+	</string>
+	<string id="new_prizrak_document2_name">
+		<text>Knjiga iz Sarkofaga No2.</text>
+	</string>
+	<string id="new_prizrak_document2_desc">
+		<text>Knjiga iz Sarkofaga No2. Beleške Monolićana - Knjiga II</text>
+	</string>
+	<string id="new_prizrak_document3_name">
+		<text>Knjiga iz Sarkofaga No3.</text>
+	</string>
+	<string id="new_prizrak_document3_desc">
+		<text>Knjiga iz Sarkofaga No3. Beleške Monolićana - Knjiga III</text>
+	</string>
+	<string id="plan_document_name">
+		<text>Detaljni plan bunkera u Radaru</text>
+	</string>
+	<string id="plan_document_desc">
+		<text>Detaljni plan bunkera u Radaru. Na njemu je označen stari prolaz u Sarkofag...</text>
+	</string>
+	<string id="gold_art_name">
+		<text>Zlatni Komad</text>
+	</string>
+	<string id="gold_art_name_s">
+		<text>Zlatni Komad</text>
+	</string>
+	<string id="gold_art_desc">
+		<text>Specijalna verzija artefakta "Komad Mesa". Jedino mesto gde je moguće pronaći ovo retko blago jeste u blizini NE Černobil. Sadrži velik broj pozitivnih osobina zajedno sa onima koje poseduje i Komad Mesa. Također pruže i zaštitu od hemijskih opeklina, i pruža zaštitu od PSI-emisija...</text>
+	</string>
+	<string id="voen_pda_name">
+		<text>Andrejev PDA [Spetsnaz]</text>
+	</string>
+	<string id="voen_pda_desc">
+		<text>Andrejev PDA [Spetsnaz] - jako oštećen, treba ozbiljnu popravku...</text>
+	</string>
+	<string id="siv_pda_name">
+		<text>PDA Sivog [Plaćenik]</text>
+	</string>
+	<string id="siv_pda_desc">
+		<text>PDA Sivog (sadrži lične zabeleške)</text>
+	</string>
+	<string id="ara_flash_name">
+		<text>Arijev USB-Stik [Plaćenik]</text>
+	</string>
+	<string id="ara_flash_desc">
+		<text>Arijev PDA (sadrži lične zabeleške)</text>
+	</string>
+	<string id="fraer_pda_name">
+		<text>Fraerov PDA</text>
+	</string>
+	<string id="fraer_pda_desc">
+		<text>Fraerov PDA (sadrži lične zabeleške)</text>
+	</string>
+	<string id="bandranen_pda_name">
+		<text>PDA povređenog Bandita</text>
+	</string>
+	<string id="bandranen_pda_desc">
+		<text>PDA koji je pripadao povređenom Banditu u Deponiji</text>
+	</string>
+	<string id="voen_document_name">
+		<text>Vojnikove beleške</text>
+	</string>
+	<string id="voen_document_desc">
+		<text>Vojnikove beleške ...prekrivene krvlju na nekim mestima, tinta počela da bledi...</text>
+	</string>
+	<string id="sysh_document_name">
+		<text>Sovine beleške</text>
+	</string>
+	<string id="sysh_document_desc">
+		<text>Beleške od Sove adresirane za Duha</text>
+	</string>
+	<string id="sysh_flash_name">
+		<text>Sovin USB-Stik</text>
+	</string>
+	<string id="sysh_flash_desc">
+		<text>Sovin USB-Stik (sadrži informacije o šteku u Laboratoriji X-10)</text>
+	</string>
+	<string id="inventory_new_box_name">
+		<text>Metalna kutija (zaključana)</text>
+	</string>
+	<string id="inventory_new_box_desc">
+		<text>Metalna kutija sa kodiranom bravom</text>
+	</string>
+	<string id="item_sniper_flash_name">
+		<text>Životinjin USB-Stik</text>
+	</string>
+	<string id="item_sniper_flash_desc">
+		<text>Životinjin USB-Stik. Sadrži popis ljudi izabranih za ubistvo. Prvo ime na popisu: Strelok</text>
+	</string>
+	<string id="new_document_sniper_name">
+		<text>Životinjini dokumenti</text>
+	</string>
+	<string id="new_document_sniper_desc">
+		<text>Sadrži popis ljudi sa kojima je Životinja komunicirao. Međutim, šifrirani su. Potrebno ih je odneti Duhu. Uz malo sreće, on može probiti šifru...</text>
+	</string>
+	<string id="item_computer_new_name">
+		<text>Kompjuter iz Laboratorije X-18</text>
+	</string>
+	<string id="item_computer_new_desc">
+		<text>Kompjuter iz Laboratorije X-18 ... star ali još uvek radi... Može poslužiti čak i za posao.</text>
+	</string>
+	<string id="item_nauch_flash_name">
+		<text>Naučnikov USB-Stik</text>
+	</string>
+	<string id="item_nauch_flash_desc">
+		<text>Naučnikov USB-Stik.. sadrži rasporede, figure i složene dijagrame. Nijedan od njih ne mogu razumeti...</text>
+	</string>
+	<string id="item_notebook_new_name">
+		<text>Arharin laptop</text>
+	</string>
+	<string id="item_notebook_new_desc">
+		<text>Arharin laptop. U relativno dobrom stanju. Ulaz upropašten...</text>
+	</string>
+	<string id="pda_priz_name">
+		<text>Duhov PDA</text>
+	</string>
+	<string id="pda_priz_desc">
+		<text>Sadrži razne podatke o artefaktimai mestima gde se pojavljuju. Spominje se uništenje klana Poslednj Dan i posle ubistvo njihovog vođe. Tu su i neke informacije o Fangu i Streloku, ali su ti podaci pametno šifrirani...</text>
+	</string>
+	<string id="new_book_prizrak_name">
+		<text>Duhov dnevnik</text>
+	</string>
+	<string id="new_book_prizrak_desc">
+		<text>Duhov dnevnik. Napisan nekom teškom rukom. Tinta se već počela mrljati od vlage u Zoni.</text>
+	</string>
+	<string id="new_book_name">
+		<text>Arharina beležnica</text>
+	</string>
+	<string id="new_book_desc">
+		<text>Arharina beležnica. Puna kompleksnih izračuna i nerazrješivih formula... Ništa od njih ne mogu razumeti.</text>
+	</string>
+	<string id="item_pda_tiran_name">
+		<text>Tiraninov PDA</text>
+	</string>
+	<string id="item_pda_tiran_desc">
+		<text>Tiraninov PDA. Sadrži razne sume, račune i evidencije. Spominju se i neka imena...nadimci.</text>
+	</string>
+	<string id="item_pda_lucky_name">
+		<text>Srećkov PDA</text>
+	</string>
+	<string id="item_pda_lucky_desc">
+		<text>Sadrži Srećkina dopisivanja sa svojima saučesnicima...</text>
+	</string>
+	<string id="item_case_freeman_name">
+		<text>Frimenov slučaj</text>
+	</string>
+	<string id="item_case_freeman_desc">
+		<text>Dokumenti koji pripadaju Gordonu Frimenu. Sadrži neke fotografije i druge lične stvari.</text>
+	</string>
+	<string id="item_lab_x10_documents_name">
+		<text>Dokumenti iz Laboratorije X-10</text>
+	</string>
+	<string id="item_lab_x10_documents_desc">
+		<text>Dokumenti iz Laboratorije X-10. Razni podaci o Monolit frakciji, i još važnije, mapa koja pokazuje kako doći do samog Monolita. Druge važne informacije vezane su za razinu radijacije unutar Sarkofaga, moguće prepreke, kada patrole Monolita imaju smenu, itd ... Jako korisne informacijen.</text>
+	</string>
+	<string id="item_bland_flash_name">
+		<text>Blandov USB-Stik</text>
+	</string>
+	<string id="item_bland_flash_desc">
+		<text>Sadrži pažnjivo pripremljen plan za preuzimanje Černobila i Monolita</text>
+	</string>
+	<string id="enc_recipts">
+		<text>Recepti</text>
+	</string>
+	<string id="esc_dan_name">
+		<text>Dan</text>
+	</string>
+	<string id="actor">
+		<text>Obeleženi</text>
+	</string>
+	<string id="actor_dolg">
+		<text>Djuti</text>
+	</string>
+	<string id="actor_freedom">
+		<text>Fridom</text>
+	</string>
+	<string id="arena_enemy">
+		<text>Plaćenik</text>
+	</string>
+	<string id="lastday">
+		<text>Poslednji Dan</text>
+	</string>
+	<string id="fotoman">
+		<text>Matrica je aktivirana</text>
+	</string>
+	<string id="bad">
+		<text>Loše</text>
+	</string>
+	<string id="sniper">
+		<text>Osvetnik</text>
+	</string>
+	<string id="green">
+		<text>Lovac</text>
+	</string>
+	<string id="bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="dolg">
+		<text>Djuti</text>
+	</string>
+	<string id="ecolog">
+		<text>Naučnik</text>
+	</string>
+	<string id="enemy">
+		<text>Neprijatelj</text>
+	</string>
+	<string id="excellent">
+		<text>Odlično</text>
+	</string>
+	<string id="exo_outfit_name_m1">
+		<text>Egzoskelet PNB-4UZ</text>
+	</string>
+	<string id="experienced">
+		<text>Iskusan</text>
+	</string>
+	<string id="Found_PDA">
+		<text>Pronađen PDA</text>
+	</string>
+	<string id="freedom">
+		<text>Fridom</text>
+	</string>
+	<string id="friendly">
+		<text>Prijatelj</text>
+	</string>
+	<string id="good">
+		<text>Dobar</text>
+	</string>
+	<string id="indifferent">
+		<text>Neutralan</text>
+	</string>
+	<string id="killer">
+		<text>Plaćenik</text>
+	</string>
+	<string id="l01_escape">
+		<text>Kordon</text>
+	</string>
+	<string id="l02_garbage">
+		<text>Deponija</text>
+	</string>
+	<string id="l03_agroprom">
+		<text>Agroprom Istraživački Institut</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>Mračna Dolina</text>
+	</string>
+	<string id="l05_bar">
+		<text>Rostok</text>
+	</string>
+	<string id="l06_rostok">
+		<text>Divlja Teritorija</text>
+	</string>
+	<string id="l07_military">
+		<text>Vojna Skladišta</text>
+	</string>
+	<string id="l08_yantar">
+		<text>Jantar</text>
+	</string>
+	<string id="l10_radar">
+		<text>Crvena Šuma</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>Pripjat</text>
+	</string>
+	<string id="east_pripyat">
+		<text>Istočni Pripjat</text>
+	</string>
+	<string id="l12_stancia">
+		<text>NEP Černobil</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>NEP Černobil</text>
+	</string>
+	<string id="labx8">
+		<text>Laboratorij X8</text>
+	</string>
+	<string id="cs_agroprom_underground">
+		<text>Agroprom podzemlje - Stari Tuneli (Old Tunnels)</text>
+	</string>
+	<string id="predbannik">
+		<text>Čekaonica</text>
+	</string>
+	<string id="hiding_road">
+		<text>Skriveni Put</text>
+	</string>
+	<string id="l05_vokzal">
+		<text>Zadnja Stanica (End Station)</text>
+	</string>
+	<string id="k01_darkscape">
+		<text>Mračni Izlaz</text>
+	</string>
+	<string id="dark_forest">
+		<text>Crna Šuma</text>
+	</string>
+	<string id="level_f-1">
+		<text>Postrojenje F1</text>
+	</string>
+	<string id="l03_rinok">
+		<text>Crno Tržište</text>
+	</string>
+	<string id="l04_pogost">
+		<text>Groblje</text>
+	</string>
+	<string id="promzone">
+		<text>Industrijska Zona(Tehnike)</text>
+	</string>
+	<string id="lab_x14">
+		<text>Tajni Laboratorij</text>
+	</string>
+	<string id="l01_krasivay">
+		<text>Distributivni Centar</text>
+	</string>
+	<string id="l02_dd">
+		<text>Dvorišta</text>
+	</string>
+	<string id="l01_poligon">
+		<text>Poligon</text>
+	</string>
+	<string id="digger_stash">
+		<text>Rupa u zemlji</text>
+	</string>
+	<string id="master">
+		<text>Majstor</text>
+	</string>
+	<string id="military">
+		<text>Vojnik</text>
+	</string>
+	<string id="monolith">
+		<text>Monolit</text>
+	</string>
+	<string id="neutral">
+		<text>Neutralan</text>
+	</string>
+	<string id="novice">
+		<text>Početnik</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Nema aktivnog zadatka</text>
+	</string>
+	<string id="st_time_till_surge">
+		<text>Nešto se dešava... Nešto ...</text>
+	</string>
+	<string id="st_time_kvest_proval">
+		<text>Vreme do neuspeha zadatka</text>
+	</string>
+	<string id="st_time_smert">
+		<text>Vreme do uništenja</text>
+	</string>
+	<string id="st_time_kvest_done">
+		<text>Tajmer je zaustavljen. Prenosni radio prijemnik pronađen.</text>
+	</string>
+	<string id="stalker">
+		<text>Samotnjak</text>
+	</string>
+	<string id="terrible">
+		<text>Strašan</text>
+	</string>
+	<string id="trader">
+		<text>Trgovac</text>
+	</string>
+	<string id="ui_st_community">
+		<text>Grupa</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Cena</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>Rang</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>Odnos</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>Reputacija</text>
+	</string>
+	<string id="very_bad">
+		<text>Veoma loše</text>
+	</string>
+	<string id="very_good">
+		<text>Vrlo dobro</text>
+	</string>
+	<string id="veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="zombied">
+		<text>Zombificiran</text>
+	</string>
+	<string id="Btn_Cancel">
+		<text>Odustani</text>
+	</string>
+	<string id="Btn_No">
+		<text>Ne</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Da</text>
+	</string>
+	<string id="global_map">
+		<text>Mapa Zone</text>
+	</string>
+	<string id="st_autosave">
+		<text>Autospremanje</text>
+	</string>
+	<string id="st_game_over">
+		<text>Igra je završena.</text>
+	</string>
+	<string id="st_item_used">
+		<text>Upotrebljeno</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Nemate dovoljno novca</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>NPC nema dovoljno novca</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Ranac</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Pretraži skrovište ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Pokupi predmet ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Nadogradnja igre</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Alternativa</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Zdravlje</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radijacija</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Glad</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Izdržljivost</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Krvarenje</text>
+	</string>
+	<string id="st_mp_say_to_all">
+		<text>Za sve</text>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>Komande</text>
+	</string>
+	<string id="st_knife">
+		<text>Nož</text>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>Glasanje nije moguće na ovom serveru.</text>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>Nije aktivno glasanje.</text>
+	</string>
+	<string id="st_mp_ready">
+		<text>Spreman</text>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>Glasanje uspešno!</text>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>Glasanje nije uspelo!</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Agroprom Podzemlje</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>Laboratorij X-18</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Laboratorij X-16</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>Laboratorij X-10</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>Sarkofag</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Monolit Kontrola</text>
+	</string>
+	<string id="enc_saharov_about_klik_text">
+		<text>Saharov zna za smrt Fanga i predlaže mi da razgovaram sa Voronjinom</text>
+	</string>
+	<string id="saharov_begin">
+		<text>Saharov. Istraga počinje...</text>
+	</string>
+	<string id="poisk">
+		<text>Istraga</text>
+	</string>
+	<string id="enc_voronin_about_klik_text">
+		<text>Prema Voronjinu, Fanga su nekako prešli Plaćenici. Savetuje mi da odem do Informanta. On bi trebao imati neke veze sa Plaćenicima. Verovatno mogu puno više saznati od njega...</text>
+	</string>
+	<string id="voronin_begin">
+		<text>Voronjin. Istraga se nastavlja...</text>
+	</string>
+	<string id="sms_new_dan2">
+		<text>Tekst Poruke</text>
+	</string>
+	<string id="enc_sms1">
+		<text>Tekst Poruke</text>
+	</string>
+	<string id="anomaly_zone">
+		<text>Anomalne zone</text>
+	</string>
+	<string id="no hint">
+		<text>Novi Put</text>
+	</string>
+</string_table>
+	<!-- Preveo i prilagodio Flexerca -=- 12:13 17.07.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 21:21 -sadd -->

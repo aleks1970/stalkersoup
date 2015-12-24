@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.2, corrected duplicate "id="enc_zone_mushy_bigA" to "id="mushy_bigA" aleks1970, mushy_bigH, af-dummy-mushroom -->
+<string_table>
+	<string id="af_kristal_zp">
+		<text>Poklon</text>
+	</string>
+	<string id="af_kristal_zp_s">
+		<text>Poklon</text>
+	</string>
+	<string id="enc_zone_artifact_kristal_zp">
+		<text>Ovaj legendarni artefakt je pronađen samo jednom u Zoni i bio je prodat naučnicima za neverovatnu sumu. On nudi izuzetnu zaštitu od radijacije ali na štetu drugih zaštita. Ukoliko koristiš ovaj artefakt, budi siguran da ćeš imati nekoliko drugih neželjenih reakcija.</text>
+	</string>
+	<string id="af_kristal_blue">
+		<text>Akvamarin</text>
+	</string>
+	<string id="af_kristal_blue_s">
+		<text>Akvamarin</text>
+	</string>
+	<string id="enc_zone_artifact_kristal_blue">
+		<text>%c[1,1,1,1]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +250\n%c[default]Ovo je izuzetno retka mutacija artefakta Kristal i vrlo je radioaktivan. Za njegovo jezgro se priča da je od platine najveće čistoće. Kako ova struktura funkcioniše još uvek nije jasno, ali koga je briga kada imaš dva kilograma skupocene platine! \nPoznat po imenu "Borac" jer stvara odličnu zaštitu u borbenim situacijama, međutim otpornost na opekotine i električne šokove je značajno umanjena.  Ako koristiš ovaj artefakt postaraj se da imaš i odgovarajuće artefakte koji poništavaju radioaktivne efekte. A ako ne - umrećeš strašnom smrću.</text>
+	</string>
+	<string id="af_repei">
+		<text>Podrig</text>
+	</string>
+	<string id="af_repei_s">
+		<text>Podrig</text>
+	</string>
+	<string id="enc_zone_artifact_repei">
+		<text>Ovaj artefakt je rezultat genetičkog eksperimenta sa mutiranim semenom 'Hvataljke' biljke sa 'Gorućim Semenom'. Stvrdnjava kožu i omogućuje zaštitu od posekotina i električne energije. Ne vredi mnogo ali je vrlo koristan.</text>
+	</string>
+	<string id="af_dummy_indilian">
+		<text>Indilijan</text>
+	</string>
+	<string id="af_dummy_indilian_s">
+		<text>Indilijan</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_indilian">
+		<text>Ovaj ekstremno redak artefakt je također nazvan i "Ubica Snova" jer značajno usporava Alfa i Beta moždane talase kod nosioca čima umanjuje efekte PSI napada. Daje dodatnu zaštitu od napada mnogih stvorenja iz Zone. Njegovi negativni efekti su smanjena brzina oporavka zdravlja:  Koristiti isključivo sa artefaktima koji regenerišu zdravlje.</text>
+	</string>
+	<string id="af_dummy_mushroom">
+		<text>Pečurka</text>
+	</string>
+	<string id="af_dummy_mushroom_s">
+		<text>Pečurka</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_mushroom">
+		<text>Ovaj artefakt je transmutovana pečurka formirana u anomaliji Trampolina. Ekstemno je redak. Formira se unutar radijusa od 0.3 metra lokalizovanog polja sile koje poboljšava otpornost na ranjavanje metkom. Artefakt također ima dosta negativnih efekata kao što su: osetljivost kože na opekotine, električne šokove i hemikalije. Stalkeri kada pronađu ovaj artefakt odmah ga bacaju zbog njegovih negativnih svojstava.</text>
+	</string>
+	<string id="af_dummy_star_monolith">
+		<text>Zvezda Monolita</text>
+	</string>
+	<string id="af_dummy_star_monolith_s">
+		<text>Zvezda Monolita</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_star_monolith">
+		<text>Misteriozni artefakt. Samo dva puta je zabeleženo da se pojavio u Zoni.......\n* Pojavio se, prema glasinama, kada su stalkeri iz klana 'Monolit' ušli u centar Zone. Ispred oltara su se molili, tražeći od Monolita da im pokaže znak svog postojanja. Jedne noći artefakt je pao sa neba na zemlju i fanatici su to odmah protumačili kao znak od Monolita. \n* Sudeći prema tvrdnjama naučnika, on je formiran spajanjem više vazdušnih anomalija na velikoj visini.\nVrlo retka stvar formirana isključivo u prostoru koji okružuje nuklearnu elektranu Černobil.</text>
+	</string>
+	<string id="af_dummy_seashell">
+		<text>Beba Školjka</text>
+	</string>
+	<string id="af_dummy_seashell_s">
+		<text>Beba Školjka</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_seashell">
+		<text>Naučnici su objavili postojanje ovog novog i retkog artefakta kojeg je pronašao pijani Stalker u blizini Bara. Artefakt pruža malo poboljšanje u zdravlju i zaštitu od hemikalija ali smanjuje otpornost na metke.</text>
+	</string>
+	<string id="af_dummy_djoker">
+		<text>Džoker</text>
+	</string>
+	<string id="af_dummy_djoker_s">
+		<text>Džoker</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_djoker">
+		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +15\n%c[default] Poreklo ovog artefakta nije poznato i samo nekoliko puta je viđen u Zoni. Artefakt pruža dobru zaštitu od udara, ali smanjuje izdržljivost. Radioaktivan.</text>
+	</string>
+	<string id="af_dummy_dumbbell">
+		<text>Kladivo</text>
+	</string>
+	<string id="af_dummy_dumbbell_s">
+		<text>Kladivo</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_dumbbell">
+		<text>Ovaj artefakt je mali i izgleda kao par loptica - ali zato ima neverovatnu težinu - 18Kg!. Izuzetno čvrst i sabijen - ne može se preseći, istopiti ili presovati. Nepoznatog porekla. Poboljšava zdravlje i smanjuje radijaciju. Nema negativnih osobina - uprkos svojoj velikoj masi.</text>
+	</string>
+	<string id="af_dummy_vertyshka">
+		<text>Vetrenjača</text>
+	</string>
+	<string id="af_dummy_vertyshka_s">
+		<text>Vetrenjača</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_vertyshka">
+		<text>Tačno poreklo ovog artefakta je nepoznato. Naučnici tvrde da je ovaj artefakt formiran uticajem dve anomalije - "Trampoline" i "Elektro" anomalija. Postoje teorije o tome kako je ovaj redak artefakt lociran u središtu anomalija koje su povezane mođusobno pomoću slabog električnog ujedinjenja. Aktivno polje tera ga da rotira. Štiti od električnog šoka ali tu je i smanjenje otpornosti na metke, kao i smanjenje otpornosti na radijaciju...</text>
+	</string>
+	<string id="af_dummy_coal">
+		<text>Ugalj</text>
+	</string>
+	<string id="af_dummy_coal_s">
+		<text>Ugalj</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_coal">
+		<text>Artefakt koji se u Zoni pojavio u skorije vreme. Naučnici veruju da je formiran pomoću nukleosinteze između Barijonske tamne materije i artefakta "Kameni Cvet". Izgleda kao grumen uglja. Artefakt nudi dobru zaštitu od PSI talasa i povećava otpornost na kontaminaciju radijacijom, ali uveliko povećava zamor. Pobrini se da imaš artefakte koji poništavaju njegove negativne efekte.</text>
+	</string>
+	<string id="af_dummy_quill">
+		<text>Igla</text>
+	</string>
+	<string id="af_dummy_quill_s">
+		<text>Igla</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_quill">
+		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +5\n%c[default] Artefakt generisan iz radiogene nukleide artefakta "xZs2x4". Štiti kožu od opekotina i pogodaka od strane raznih predmeta. Pomalo radioaktivan.</text>
+	</string>
+	<string id="af_dummy_wool">
+		<text>Vatrena Vuna</text>
+	</string>
+	<string id="af_dummy_wool_s">
+		<text>Vatrena Vuna</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_wool">
+		<text>Retko pronalažen u Zoni i bez saznanja kako je nastao. Omogućuje vrlo dobru zaštitu od izvora toplote i napada mutanata Zone. Smanjena je otpornost na eksploziju i udar. Tražen od strane naučnika.</text>
+	</string>
+	<string id="af_dummy_bonanza">
+		<text>Oktopod</text>
+	</string>
+	<string id="af_dummy_bonanza_s">
+		<text>Oktopod</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_bonanza">
+		<text>Supstanca formirana zajedničkom koegzistencijom anomalija "Fontana" i "Voćni Punč" i Lantanoidnih metala. Ima brojne pozitivne atribute, ali i neke negativne. Pronađen je skorije od strane stalkera po imenu Gedžet. Pokupio ga je bez zaštitnih rukavica, samo što je uspeo da ga ubaci u svoj ranac i njegova ruka se istopila. Od prodaje tog artefakta uspeo je sebi da obezbedi mehaničku protezu ruke.</text>
+	</string>
+	<string id="af_dummy_mercury_ball">
+		<text>Živina Kugla</text>
+	</string>
+	<string id="af_dummy_mercury_ball_s">
+		<text>Živina Kugla</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_mercury_ball">
+		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Bacpack Radijacija %c[255,255,1,1] +20\n%c[default] Artefak je moguće često pronaći u radioaktivnim područjima. Povećava izdržljivost ali ima negativna radioativna svojstva. Glavno jezgro u centru je okruženo malim kuglicama žive koje se okreću. Preporučuju se specijalne rukavice za rukovanje s njim zbog visoke radijacijske termalne energije. Naučnici su otkrili da neki od artefakata sadrže izotop žive Hg-194, pa može biti upotrebljen u svrhu proizvodnje lekova i vakcina širokih namena za opasne bolesti iz Zone.</text>
+	</string>
+	<string id="af_dummy_bezi">
+		<text>Goruće Lišće</text>
+	</string>
+	<string id="af_dummy_bezi_s">
+		<text>Goruće Lišće</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_bezi">
+		<text>Naučnici su u uverenju da ova nova mutacija pripada rodu iz porodice kopriva. Prvobitno pronađen od strane nepoznatog stalkera na izviđačkoj ekspediciji duboko u Zoni. Sintetički hibridi su u fokusu eksperimenata u laboratorijama X-18 i X-16. U stanju je da odbija hemijske komponente i umanjuje krvarenje tako što ubrzava zgrušnjavanje krvi.</text>
+	</string>
+	<string id="af_dummy_glow">
+		<text>Žar</text>
+	</string>
+	<string id="af_dummy_glow_s">
+		<text>Žar</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_glow">
+		<text>Artefakt formiran u anomaliji "Elektra" od raznih metalnih objekata i legura. Visoka energetska stanja u spoljnjem elektronskom omotaču stvara blago svetlucanje. Posle detaljnog proučavanja, istraživači su saznali da artefakt u stvari proizvodi elektricitet u malim količinama. Korišćenjem ovog artefakta koža postaje mekša - povećava se rizik od krvarenja prilikom posekotina. Otpornost na radioaktivnu kontaminaciju je smanjena ali povećana je otpornost na opekotine.</text>
+	</string>
+	<string id="af_dummy_node">
+		<text>Čvor</text>
+	</string>
+	<string id="af_dummy_node_s">
+		<text>Čvor</text>
+	</string>
+	<string id="enc_zone_artifact_af_dummy_node">
+		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +7\n%c[default]Naučnici pokušavaju da razreše misteriju ovog artefakta. Jači od titanijuma i tvrđi od dijamanta ali lakši od kilograma. Stvara zaštitno polje, iskrivljujući putanju metka. Negativni efekti - radioaktivan i smanjuje otpornost na udarne povrede.</text>
+	</string>
+	<string id="af_kosi">
+		<text>Veštičiji Ispljuvak</text>
+	</string>
+	<string id="af_kosi_s">
+		<text>Veštičiji Ispljuvak</text>
+	</string>
+	<string id="enc_zone_artifact_af_kosi">
+		<text>Artefakt formiran kombinacijom od tri anomalije - 'Fontana', 'Gorionik' i 'Voćni Punč'. Jako redak artefakt. Naučnici i istraživači još u potpunosti ne shvataju ovaj artefakt, ali očito je da pri nastanku ovog artefakta fuzijom 3 anomalije mora biti otpuštena enormna količina energije. Korištenjem ovog artefakta ubrzava se metabolizam, dajući telu veću izdržljivost i brže zgrušavanje krvi. Brži metabolizam prouzrokuje veću telesnu temperaturu što kožu čini osetljivijom na povrede.</text>
+	</string>
+	<string id="af_kournikova">
+		<text>Kurnikova</text>
+	</string>
+	<string id="af_kournikova_s">
+		<text>Kurnikova</text>
+	</string>
+	<string id="enc_zone_artifact_af_kournikova">
+		<text>%c[1,1,1,1 ]___%c[1,1,1,255] Čežnja za pravom Ženom iz Zone.....100%\n%c[default]Artefakt jedinstvene lepote. Mnogi stalkeri su prečešljali celu Zonu tražeći ovaj retki artefakt - ali postoji samo jedan. Prisustvo ovog artefakata podiže krvni tlak što značajno pospješuje sposobnost izbacivanja hemijskih i radioaktivnih supstanci. Mana mu je što se korisnik brzo umara. Neznatno radioaktivan i vruć na dodir.</text>
+	</string>
+	<string id="af_gold">
+		<text>Zlato</text>
+	</string>
+	<string id="af_gold_s">
+		<text>Zlato</text>
+	</string>
+	<string id="enc_zone_artifact_gold">
+		<text>Jako vredan u Zoni. Zlato može uglačati toliko da bude providno. Takvi poluprovidni listovi reflektiraju infracrveno svetlo, što ih čini korisnim kao infracrveni štit (od radijacijske topline) u vizirima toplotno-otpornih odela.</text>
+	</string>
+	<string id="af_xzs2x4">
+		<text>xZs-2x4</text>
+	</string>
+	<string id="af_xzs2x4_s">
+		<text>xZs-2x4</text>
+	</string>
+	<string id="enc_zone_artifact_af_xzs2x4">
+		<text>Otkriven od strane jednog Naučnika pre godinu dana. Bio je toliko uzbuđen da nije mogao smisliti odgovarajuće ime tako da mu je po navici samo stavio službenu naučnu oznaku. Ovaj jako redak artefakat pruža zaštitu od napada raznih stvorenja u Zoni. Njegov glavni nedostatak je manja zaštita od metaka.</text>
+	</string>
+	<string id="af_hawking">
+		<text>Sokol K2</text>
+	</string>
+	<string id="af_hawking_s">
+		<text>Sokol K2</text>
+	</string>
+	<string id="enc_zone_artifact_hawking">
+		<text>Teoretski fizičari smatraju da je ovaj artefakt rezultat mikro crne rupe koju je zarobila gravitacija Černobilske eksplozije sa mešavinom zalutalih teških elemenata pod neobičnim čestičnim uslovima. Neverovatno redak i ekstremno zbijen. Ima lokalizovani efekat da zakrivljuje putanju brzih projektila - uključujući metke i radijaciju...</text>
+	</string>
+	<string id="af_zhadum">
+		<text>Z'ha'dum</text>
+	</string>
+	<string id="af_zhadum_s">
+		<text>Z'ha'dum</text>
+	</string>
+	<string id="enc_zone_artifact_af_zhadum">
+		<text>Jako čudan artefakt koji će ti uništiti dušu ako ga zloupotrebiš. Priča se da je to deo meteorita iz vanjskog ruba koji je došao do Zemlje i posejao mikroorganizme u artefakt u blizini Černobila. Daje izuzetnu telepatsku otpornost ali brzo isisava životnu silu iz vlasnika.</text>
+	</string>
+	<string id="af_konishi">
+		<text>Koniši artefakat</text>
+	</string>
+	<string id="af_konishi_s">
+		<text>Koniši artefakat</text>
+	</string>
+	<string id="enc_zone_artifact_konishi">
+		<text>Jako, jako redak. Priča se da ovaj artefakat upija i uništava štetnu energiju te da direktnu utiče na očuvanje energije. Nažalost, upija i energiju osobe koja ga nosi stvarajući nezasitan apetit.</text>
+	</string>
+	<string id="af_element_zero">
+		<text>Element Nula</text>
+	</string>
+	<string id="af_element_zero_s">
+		<text>Element Nula</text>
+	</string>
+	<string id="enc_zone_artifact_element_zero">
+		<text>Element Nula je redak materijal, koji izložen električnoj struji, oslobađa tamnu energiju koja može manipulisati gravitaciono polje, povećavajući ili smanjujući masu svih objekata koja se nalaze u tom polju. Pozitivne struje povećavaju masu, a negativne struje smanjuju masu. Naučnici se nadaju da će moći kontrolisati gravitacijsko polje u ovom artefaktu. Blago radioaktivan.</text>
+	</string>
+	<string id="af_star_paradox">
+		<text>Zvezdani Paradoks</text>
+	</string>
+	<string id="af_star_paradox_s">
+		<text>Zvezdani Paradoks</text>
+	</string>
+	<string id="enc_zone_artifact_star_paradox">
+		<text>Prava enigma za fizičare. Iako zbunjuje Naučnike ovaj artefakt nema negativnih svojstava i mnoge pozitivne.</text>
+	</string>
+	<string id="mushy_bigA">
+		<text>UV Pečurka</text>
+	</string>
+	<string id="mushy_bigA_s">
+		<text>UV Pečurka</text>
+	</string>
+	<string id="enc_zone_mushy_bigA">
+		<text>Neobično obojena pečurka sa neobičnom teksturom. U Zoni se priča da je neobična boja zbog jakog fokusa ultravioletnog zračenja Zone. Neki vrlo retki artefakti mogu se uočiti ako imaju žarišnu duljinu od oko 5 do 10 m. Trgovac u Vojnim Skladištima može biti zainteresiran za kupnju ovih gljiva.</text>
+	</string>
+	<string id="mushy_bigB">
+		<text>Radioaktivna Pečurka</text>
+	</string>
+	<string id="mushy_bigB_s">
+		<text>Radioaktivna Pečurka</text>
+	</string>
+	<string id="enc_zone_mushy_bigB">
+		<text>Iz nekog razloga Pečurke imaju veliku razinu radijacije. Sposobnost gljiva da apsorbuju teške metale iz okoline, ukuljučujući i one radioaktivne, verovatno su uzrok radioaktivnosti. Ne treba ih nositi dugo zbog radioaktivnosti! Naučnici su zainteresirani za ovu zanimljivost iz Zone.</text>
+	</string>
+	<string id="mushy_bigC">
+		<text>Pečurka Muhara</text>
+	</string>
+	<string id="mushy_bigC_s">
+		<text>Pečurka Muhara</text>
+	</string>
+	<string id="enc_zone_mushy_bigC">
+		<text>Vrsta Amanita muscaria obično poznata kao Muhara. Otrovna i psihoaktivna - neki stari stalker je koristio za kuvanje i jelo u pokušaju da se reši negativnih uticaja artefaka. Sid možda bude zainteresiran za kupnju.</text>
+	</string>
+	<string id="mushy_bigD">
+		<text>Plava Pečurka</text>
+	</string>
+	<string id="mushy_bigD_s">
+		<text>Plava Pečurka</text>
+	</string>
+	<string id="enc_zone_mushy_bigD">
+		<text>Retke hromofore daju ovoj pečurki upečatljivu plavu boju - verovatno uzrokovanu apsorpcijom teških metala kao što je Niobium. Plava Pečurka je omiljena boja jednom liku koga zovu "Kolektor". Ova boja je jako tražena od trgovaca Čistog Neba i koristi se u proizvodnji njihovih odela - gde je i postala boja te frakcije.</text>
+	</string>
+	<string id="mushy_bigE">
+		<text>Flouro Pečurka</text>
+	</string>
+	<string id="mushy_bigE_s">
+		<text>Flouro Pečurka</text>
+	</string>
+	<string id="enc_zone_mushy_bigE">
+		<text>Ozračena mutacija pečurke Russula fragilis. Opasni teški metali pojačavaju upečatljivu boju ove gljive. Ovi teški elementi su pronađeni samo u ljudskom izmetu akumuliranim u telu od putovanja duboko u Zonu. Jel' neko ostavio nešto drugo ovde?.</text>
+	</string>
+	<string id="mushy_bigF">
+		<text>Klobuk Smrti</text>
+	</string>
+	<string id="mushy_bigF_s">
+		<text>Klobuk Smrti</text>
+	</string>
+	<string id="enc_zone_mushy_bigF">
+		<text>Mutirana Amanita phalloides je smrtno otrovna pečurka. Idealna za hranjenje neprijatelja. Pronalazi se dublje u Zoni. Verovatno izrasla iz spora koje su prenesene na đonovima čizama.</text>
+	</string>
+	<string id="mushy_bigG">
+		<text>Russula Sanguinaria</text>
+	</string>
+	<string id="mushy_bigG_s">
+		<text>Russula Sanguinaria</text>
+	</string>
+	<string id="enc_zone_mushy_bigG">
+		<text>Poznata kao krvava golubača, izuzetno upadljivo obojena pečurka. Otrovna ako je jede sirova. Iako tražena, ova pečurka nije samo retka već sadrži i retke teške elemente, koji se mogu naći jedino u malim područjima Zone. Samo jedan "tajni" Trgovac u Zoni će ih kupiti...ali ga prvo treba pronaći...ili nju</text>
+	</string>
+	<string id="mushy_bigH">
+		<text>Kraljevska Pečurka</text>
+	</string>
+	<string id="mushy_bigH_s">
+		<text>Kraljevska Pečurka</text>
+	</string>
+	<string id="enc_zone_mushy_bigH">
+		<text>Kraljevska Pečurka je dobro poznata Kolektoru. Neki kažu da je Kolektor prenio svoje tajne Zone pre nego je nestao, i da bi Kraljevska Pečurka mogla biti nosilac njegovih tajni. Samo postojanje ove jedinstvene pečurke podržava ovu teoriju jer je Kolektor bio stručnjak u ovom polju. Znajući da je Kolektor ostavio šifrirane tragove po celoj Zoni, možda je i sa Kraljevskom Pečurkom uradio isto?.......\nKraljevska Pečurka ima veoma tvrdu stabljiku koju samo najoštriji nož može izrezati. Dobro se pobrinite da je ne izgubite - kasnije može dobro doći.</text>
+	</string>
+	<string id="mushy_small">
+		<text>Crni Vitez</text>
+	</string>
+	<string id="mushy_small_s">
+		<text>Crni Vitez</text>
+	</string>
+	<string id="enc_zone_mushy_small">
+		<text>Crni Vitez je omiljena Kolektorova pečurka. Ako je ostavite samo da leži, nikada nećete znati šta ste mogli pronaći u blizini.</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 14:31 31.05.2014 -->
+<!-- Preveo i prilagodio Flexerca -=- 12:41 17.07.2014 -->
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 24.03.2015 23:22 -sadd -->

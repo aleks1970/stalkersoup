@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+	<string id="esc_bandits_on_factory">
+		<text>Pobij Bandite u fabrici</text>
+	</string>
+	<string id="esc_bandits_on_factory_0">
+		<text>Pobij Bandite utvrđene u fabrici.</text>
+	</string>
+	<string id="esc_bandits_on_factory_1">
+		<text>Pobij sve Bandite u fabrici</text>
+	</string>
+	<string id="esc_bandits_on_factory_2">
+		<text>Razgovaraj sa trgovcem</text>
+	</string>
+	<string id="esc_bandits_on_factory_3">
+		<text>Razgovaraj s Vukom </text>
+	</string>
+	<string id="esc_blockpost_case_to_trader">
+		<text>Ukradi kofer iz Vojnog punkta</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_0">
+		<text>Ukrasti kofer s važnim dokumentima iz Vojnog punkta.</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_1">
+		<text>Ukradi kofer iz Vojnog punkta</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_2">
+		<text>Odnesi kofer trgovcu</text>
+	</string>
+	<string id="esc_defend_lager">
+		<text>Zaštiti Kamp Početnika od Plaćenika</text>
+	</string>
+	<string id="esc_defend_lager_from_killers">
+		<text>Protect camp of beginners from mercenaries</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_0">
+		<text>Zaštiti Kamp Početnika od Plaćenika.</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_1">
+		<text>Uništi grupu plaćenika</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_2">
+		<text>Razgovaraj s komandirom početnika</text>
+	</string>
+	<string id="esc_dinamit_to_volk">
+		<text>Uništi bandite u Autoparku</text>
+	</string>
+	<string id="esc_dinamit_to_volk_0">
+		<text>Uništi bandite i izvesti Vuka</text>
+	</string>
+	<string id="esc_dinamit_to_volk_1">
+		<text>Sastani se s Vukovim ljudima</text>
+	</string>
+	<string id="esc_dinamit_to_volk_2">
+		<text>Pobij sve Bandite</text>
+	</string>
+	<string id="esc_dinamit_to_volk_3">
+		<text>Razgovaraj s Vukom </text>
+	</string>
+	<string id="esc_help_wounded_from_raid">
+		<text>Saznaj nešto o Streloku od Lisca</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_0">
+		<text>Pomozi ranjenom stalkeru</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_1">
+		<text>Pomozi Liscu</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_2">
+		<text>Pribavi informacije o Streloku</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift">
+		<text>Dostavi kofer trgovcu.</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift_0">
+		<text>Isporuči paket trgovcu</text>
+	</string>
+	<string id="garbage_meet_stalker">
+		<text>Sretni se sa Serlijem</text>
+	</string>
+	<string id="garbage_meet_stalker_0">
+		<text>Sretni Serlija u Deponiji</text>
+	</string>
+	<string id="meet_with_doctor">
+		<text>Susretni se s Doktorom.</text>
+	</string>
+	<string id="meet_with_doctor_1">
+		<text>Susretni se s Doktorom.</text>
+	</string>
+	<string id="meet_with_doctor_2">
+		<text>Susretni se s Doktorom u Strelokovom skrovištu</text>
+	</string>
+	<string id="storyline_escape_eliminate_gunslinger">
+		<text>Ubij Streloka</text>
+	</string>
+	<string id="storyline_escape_find_gunslinger">
+		<text>Pronađi Streloka</text>
+	</string>
+	<string id="tutorial_find_artefact">
+		<text>Pronađi artefakt</text>
+	</string>
+	<string id="tutorial_find_artefact_0">
+		<text>Pronađi svoj prvi artefakt.</text>
+	</string>
+	<string id="tutorial_find_artefact_1">
+		<text>Pronađi artefakt</text>
+	</string>
+	<string id="tutorial_find_artefact_2">
+		<text>Odnesi artefakt trgovcu.</text>
+	</string>
+	<string id="tutorial_help_wounded">
+		<text>Pokupi informacije od izviđača</text>
+	</string>
+	<string id="tutorial_help_wounded_0">
+		<text>Odnesi informacije trgovcu</text>
+	</string>
+	<string id="tutorial_help_wounded_1">
+		<text>Razgovaraj s Vukom</text>
+	</string>
+	<string id="tutorial_help_wounded_2">
+		<text>Uzmi fleš-drajv od Nimbla</text>
+	</string>
+	<string id="tutorial_help_wounded_3">
+		<text>Odnesi fleš disk trgovcu</text>
+	</string>
+	<string id="esc_trader_job">
+		<text>Rad za trgovca</text>
+	</string>
+	<string id="esc_trader_job_text">
+		<text>Uzmi specijalan zadatak od trgovca</text>
+	</string>
+	<string id="bar_barman_job">
+		<text>Rad za Barmena</text>
+	</string>
+	<string id="bar_barman_job_text">
+		<text>Pitaj Barmena za posao</text>
+	</string>
+	<string id="yan_scientist_job">
+		<text>Pomozi naučnicima</text>
+	</string>
+	<string id="yan_scientist_job_text">
+		<text>Ponudi pomoć naučnicima</text>
+	</string>
+	<string id="find_railroad_passage">
+		<text>Doći do železničkog nasipa</text>
+	</string>
+	<string id="find_railroad_passage_1">
+		<text>Susretni se s vodičem</text>
+	</string>
+	<string id="find_railroad_passage_2">
+		<text>Pređi železnički nasip</text>
+	</string>
+	<string id="find_railroad_passage_text">
+		<text>Da bi ušli dublje u Zonu, potrebno je prvo da pređete stari železnički nasip. Jedini siguran prolaz čuva Vojska. Međutim, postoji mali tunel na levoj strani, početnici obično ide kroz njega. Tu će te čekati jedan od mojih dužnika.</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:35 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:28 -sadd -->

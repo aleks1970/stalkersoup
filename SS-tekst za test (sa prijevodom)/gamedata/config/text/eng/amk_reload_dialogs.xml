@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+<string_table>
+	<string id="flame_reload_1">
+		<text>Ti si kazao da možeš dopuniti ovaj bacač plamena, zar ne? Mislim da bi trebalo.</text>
+	</string>
+	<string id="flame_reload_2">
+		<text>Da, nema problema, jel' imaš bilo kakvog goriva? Dovraga, nemoj mi reći da ću morati sam da ga potražim! Slušaj, to nije neki problem za mene, stvarno, ali će koštati 30000. I to samo nakon pića. A mislim na PRAVO piće, shvataš?</text>
+	</string>
+	<string id="flame_reload_3">
+		<text>Još vodke? Popićeš toliko da će Zona presušiti, potraži bez mene. I samo da znaš 30000 nije vredno za bacač plamena, dođavola s tim.</text>
+	</string>
+	<string id="flame_reload_4">
+		<text>Ta Vodka će te ubiti. Evo goriva,a i flaša najbolje u Zoni. Samo požuri s tim.</text>
+	</string>
+	<string id="flame_reload_5">
+		<text>Ej, ja nisam mašina!! ... daj mi jedno pola sata.</text>
+	</string>
+	<string id="flame_reload_6">
+		<text>U redu, samo zapamti - treba mi što je brže moguće.</text>
+	</string>
+	<string id="flame_reload_7">
+		<text>Nemam nikakvog goriva. Evo ti 30000 i nešto Vodke. Ali moraš prvo raditi, a piti kasnije ... shvataš!?</text>
+	</string>
+	<string id="flame_reload_8">
+		<text>Pa... Hvala. Ne brini se, jedan dan će biti dovoljan za ovaj posao.</text>
+	</string>
+	<string id="flame_reload_9">
+		<text>Šta!? Ceo dan? To sebe nazivaš specijalistom? MOžda specijalista za piće ... Vidimo se!!!</text>
+	</string>
+	<string id="flame_reload_10">
+		<text>Kako teče proces dopunjavanja?</text>
+	</string>
+	<string id="flame_reload_11">
+		<text>Izvrsno! Kao i ostali delovi mog života... Evo ti.</text>
+	</string>
+	<string id="flame_reload_12">
+		<text>U redu, hvala ti! Dobar si čovek.</text>
+	</string>
+	<string id="flame_reload_13">
+		<text>EJ, nemoj tako da žuriš ... To nije tako jednostavno. Dođi ponovo drugi put!</text>
+	</string>
+	<string id="flame_reload_14">
+		<text>U redu, ali požuri čoveče!</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 18:41 18.41.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:26 -sadd -->

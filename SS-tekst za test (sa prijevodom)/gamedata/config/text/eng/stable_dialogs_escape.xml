@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.0 esc_bridge_soldiers_start_13, line 128, 995 bad char. aleks1970 -->
+<string_table>
+	<string id="esc_bridge_soldiers_start_11">
+		<text>Ovo je ograničeno područje... Šta želiš?!</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_12">
+		<text>Ali moram da prođem.</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_13">
+		<text>Loše si sreće. Jedino ako STVARNO moraš proći, onda je cena jedna flaša votke... Razumeš?!\nAli odmah da te upozorim, možeš proći samo po danu kada moji stražari dođu na odmaranje a oni nisu upućeni u naš dogovor.</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_14">
+		<text>Evo, uzmi votku...</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_15">
+		<text>Sad me dobro slušaj. Za trenutak ćemo se pretvarati da ovde nema ništa osim komaraca i leptira. Šta će se desiti iza ove tačke je tvoja stvar. Jasno?!</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_21">
+		<text>U redu, sada razguli!! Miči dupe odavde dok se nismo predomislili...</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_24">
+		<text>Bojim se da trenutno ništa nemam...</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_25">
+		<text>Onda idi tamo odakle si došao i donesi. I da ti nije palo na pamet da se prošunjaš pored nas, si čuo? Veruj kad ti kažem, za to ne vredi poginuti.</text>
+	</string>
+	<string id="esc_lager_no_talk_11">
+		<text>Ajde beži odavde, Obeleženi. Odšetaj ili odpuzi, na tebi je.</text>
+	</string>
+	<string id="esc_lager_no_talk_111">
+		<text>Šta je sa tobom?</text>
+	</string>
+	<string id="esc_lager_no_talk_21">
+		<text>Zdravo. Šta ti treba?</text>
+	</string>
+	<string id="esc_lager_no_talk_31">
+		<text>Naš šef želi da te vidi. Ali to ne znači da si dobrodošao. Ajde vuci se.</text>
+	</string>
+	<string id="esc_provodnik_start_11">
+		<text>Zdravo, brate.</text>
+	</string>
+	<string id="esc_provodnik_start_12">
+		<text>Moram da vidim Doktora... Znaš li gde bi ga mogao pronaći?</text>
+	</string>
+	<string id="esc_provodnik_start_22">
+		<text>Obeleženi... Jesi doneo?!</text>
+	</string>
+	<string id="esc_provodnik_start_52">
+		<text>Obeleženi... Jesi doneo?!</text>
+	</string>
+	<string id="esc_provodnik_start_23">
+		<text>Jesam, Groza... Evo, uzmi... Dobro, o čemu si hteo da razgovaramo?</text>
+	</string>
+	<string id="esc_provodnik_start_25">
+		<text>Ne, nisam je još našao...</text>
+	</string>
+	<string id="esc_provodnik_start_24">
+		<text>Aha, ali mislim nećeš odustati... Nemoj da pomislim da sam pogrešio...</text>
+	</string>
+	<string id="esc_provodnik_start_26">
+		<text>Upravo ono šta mi treba... Odlično oružje.. Hvala!! Slušaj sada...\nDoktor iz Strelokove grupe te čeka. Ako si onaj što kažeš da jesi, onda već znaš gde je...\nPostoji direktniji put do Agroproma odavde... Idi preko ceste, pokraj farme, prođi pokraj železničkog tunela, videćeš dve velike stene - upravo iza njih je put direktno za Agroprom. Odvešće te do ulaza na samom jugu Instituta... Nedaleko od Katakombi... Srećno!!!</text>
+	</string>
+	<string id="esc_provodnik_start_27">
+		<text>Onda... Idi do Doktora...</text>
+	</string>
+	<string id="esc_provodnik_start_28">
+		<text>Prvo ga pronađi... Onda ćemo pričati...</text>
+	</string>
+	<string id="esc_provodnik_start_29">
+		<text>Ti pohlepno kopile... Dobićeš ti svoje... Samo čekaj, videćeš!!</text>
+	</string>
+	<string id="esc_provodnik_start_30">
+		<text>Svako treba nešto ovde u Zoni... Moje oružje je oštećeno i beskorisno... Donesi mi Grozu, jurišnu pušku, pa ćemo onda pričati... Imam neke informacije koje bi ti bile korisne...</text>
+	</string>
+	<string id="esc_provodnik_start_31">
+		<text>Znači Groza... Razumem... Videću šta mogu uraditi..</text>
+	</string>
+	<string id="esc_provodnik_start_32">
+		<text>Sada sam zauzet... Dođi kasnije...</text>
+	</string>
+	<string id="esc_provodnik_start_13">
+		<text>Vidi ti to. A odkud ti znaš Doktora?</text>
+	</string>
+	<string id="esc_provodnik_start_14">
+		<text>Duh me šalje. Kaži mi kako da stupim u kontakt sa njim. Hitno je.</text>
+	</string>
+	<string id="esc_provodnik_start_15">
+		<text>Pa, što ne pričaš! Doktor je u Strelokovom skrovištu. Ako si ono što tvrdiš da jesi, znaćeš gde je to.</text>
+	</string>
+	<string id="esc_provodnik_start_16">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="esc_provodnik_start_21">
+		<text>Zdravo brate, živ bio.</text>
+	</string>
+	<string id="esc_provodnik_start_33">
+		<text>Aah, ti si... Mi o vuku, a vuk na vrata!!!</text>
+	</string>
+	<string id="esc_provodnik_start_34">
+		<text>Maa idi nekamo...</text>
+	</string>
+	<string id="esc_provodnik_groza_0">
+		<text>Jesam, Groza... Evo, uzmi... Dobro, o čemo si hteo da razgovaramo?</text>
+	</string>
+	<string id="esc_provodnik_groza_1">
+		<text>Upravo ono šta mi treba... Odlično oružje.. Hvala!! Slušaj sada...\nDoktor iz Strelokove grupe te čeka. Ako si onaj što kažeš da jesi, onda već znaš gde je...\nPostoji direktniji put do Agroproma odavde... Idi preko ceste, pokraj farme, prođi pokraj železničkog tunela, videćeš dve velike stene - upravo iza njih je put direktno za Agroprom. Odvešće te do ulaza na samom jugu Instituta... Nedaleko od Katakombi... Srećno!!!</text>
+	</string>
+	<string id="esc_provodnik_groza_2">
+		<text>Puno hvala...</text>
+	</string>
+	<string id="esc_stalker_talk_level_0">
+		<text>Šta mi možeš reći o ovom mestu?</text>
+	</string>
+	<string id="esc_stalker_talk_level_1">
+		<text>Ovo ti je put do Zone. Da sam na tvom mestu, ne bih se približavao vojnoj predstraži na jugu niti bih upadao vojnicima u oči - imaju naređenja da pucaju na licu mesta. Severno odavde imaš porušen most, ali su i tamo postavili stražu. Otvorena prostranstva vrve od divljih kučića, tako da nije bezbedno za Početnike. A da, i povremeno se pojavljuju čopori mutanata.</text>
+	</string>
+	<string id="esc_stalker_talk_level_10">
+		<text>A šta sa vojnicima na mostu? Moram nekako da se provučem pored njih.</text>
+	</string>
+	<string id="esc_stalker_talk_level_11">
+		<text>Pa ovako, imaš dve opcije. Ako je Kuznjecov na dužnosti, imaj na umu da on voli Vodku. Za mito bi trebalo da te pusti. E sad ako nemaš Vodku ili je neko drugi u smeni, imaš i ovu foru. Idi levo od mosta, prati prugu. Samo gledaj da te ne opaze! I stići ćeš do tunela koji vodi kroz brdo. Samo da znaš: može da se desi da naletiš na kog zombija tamo.</text>
+	</string>
+	<string id="esc_stalker_talk_level_2">
+		<text>Šta ima dalje iznad severne predstraže?</text>
+	</string>
+	<string id="esc_stalker_talk_level_21">
+		<text>Deponija, eto šta. E to ti je tmurno mesto. Tamo je sve toliko ozračeno da je plivanje lakše nego pešačenje.</text>
+	</string>
+	<string id="escape_factory_assault_start_31">
+		<text>Zdravo. Vuk je javio da dolaziš. Imaš li pitanja?</text>
+	</string>
+	<string id="escape_factory_assault_start_311">
+		<text>Imam. Koliko je Bandita u logoru?</text>
+	</string>
+	<string id="escape_factory_assault_start_3111">
+		<text>Sedam ili osam. Dvojica kod kapije, još dvojica u zgradi sa desne strane kod logorske vatre, i još par komada u zgradi levo - tamo drže Brzog. Obično se neko mota i po dvorištu. To ti je to. Da se pomolimo i krenemo?</text>
+	</string>
+	<string id="escape_factory_assault_start_31111">
+		<text>Krećemo. Okupi tvoju ekipu.</text>
+	</string>
+	<string id="escape_factory_assault_start_31112">
+		<text>Ne. Mnogo nas je, primetiće nas. Idem ja sam.</text>
+	</string>
+	<string id="escape_factory_assault_start_311121">
+		<text>Dobro, kako hoćeš. Viči ako nešto iskrsne... Nisi ti baš normalan, izigravaš Ramba!</text>
+	</string>
+	<string id="escape_factory_assault_start_41">
+		<text>Dobar je bio prepad, lepo smo ih iznenadili. Mislim da će Vuk biti zadovoljan.</text>
+	</string>
+	<string id="escape_factory_assault_start_51">
+		<text>Još ih ima! Nađite ih, i sve ih poubijajte!</text>
+	</string>
+	<string id="escape_factory_assault_start_61">
+		<text>Uh, čoveče! Ovo je bilo neviđeno! Sam si ih sve poskidao. Da nisam video svojim očima ne bih poverovao! Svaka ti čast, burazeru...</text>
+	</string>
+	<string id="escape_factory_assault_start_81">
+		<text>Pozdrav, Obeleženi...</text>
+	</string>
+	<string id="escape_factory_assault_start_71">
+		<text>Pa, gde su sve te gomile mrtvih neprijatelja što si obećao? Ti samo laješ i ništa više. Ajde beži!</text>
+	</string>
+	<string id="escape_fox_hello_dialog_2">
+		<text>Izvini, brate, kad bi mogao da me ostaviš na miru? Imam sastanak sa nekim ovde...</text>
+	</string>
+	<string id="escape_fox_hello_dialog_21">
+		<text>Imam par pitanja za tebe.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_211">
+		<text>OK, samo napred.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_2111">
+		<text>Šta mi možeš reći o Zoni?</text>
+	</string>
+	<string id="escape_fox_hello_dialog_21111">
+		<text>To je sve što te zanima? Uzmi nedelju dana slobodnog vremena pa dođi da ti ispričam. Slušaj, nemam mnogo vremena a imam mnogo posla. Ispričaću ti osnovne stvari što trebaš da znaš, posle se sam snalazi. Oko tri kilometara severno odavde ti je Deponija. Tamo su nekad bacali sav radioaktivan otpad iz stanice. Visok nivo zračenja, anomalije na sve strane, zato ima artefakata koliko hoćeš... Ali nisu baš vredni. Čuvaj se Bandita i nemoj da se zameraš Djuti patrolama. Zapadno od Deponije ti je stari Agroprom Institut. Nemaš tamo baš nešto mnogo artefakata pa možeš i da zaobiđeš to mesto. Na istok ti je Mračna Dolina. Sad šta znam... Čudno je to mesto nekako. Tiho je, pored toga što je prepuno gangstera. Ali mi se čini da to mesto krije nešto. A da, i dalje severno ti je Rostok fabrika. To ti je stalkerska teritorija. Ima tamo raznog naroda, reći će ti šta želiš da znaš.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_2113">
+		<text>Predomislio sam se. Hvala u svakom slučaju.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_3">
+		<text>Hvala ti. U redu, pažljivo te slušam.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_31">
+		<text>Trgovac kaže da bi ti trebao da znaš nešto o Streloku.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_311">
+		<text>Što su svi toliko zainteresovani za njega u poslednje vreme? Dobro, ne mogu da kažem da ga znam lično. Imali smo "razgovor" sa njim jedanput: to jest moji ortaci su pucali na njega. Niko nije bio povređen - ukapirali smo da je njegova ekipa očekivala da neko drugi naiđe, pa smo se razišli. Psovali smo jedni druge iz daleka, pa smo otišli svako na svoju stranu. Sivi, moj burazer, je u hangaru na Deponiji - Daću ti njegove koordinate pa se vas dvojica ispričajte. Zna on više o Streloku. Pazi na izlazu, jedna banda se stacionirala tamo. Još nešto, neke zveri su me jurile i izgleda da još nisu odustale. Ako ti nije problem da mi pomogneš? Nije ništa teško.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_3111">
+		<text>Hvala ti na informacija.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_5">
+		<text>Prva pomoć! Daj mi prvu pomoć!</text>
+	</string>
+	<string id="escape_fox_hello_dialog_55">
+		<text>Izvoli.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_56">
+		<text>Nemam više. Žao mi je.</text>
+	</string>
+	<string id="escape_fox_hello_dialog_61">
+		<text>Uf, čoveče, dvaput si me spasao, ovo ti neću zaboraviti. Drži ovo... Nema više, jebiga!</text>
+	</string>
+	<string id="escape_fox_hello_dialog_611">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_121">
+		<text>Naš šef hoće da te vidi. To ne znači da si poželjan ovde. Ajde šetaj.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_2">
+		<text>Čekaj, Obeleženi! Niko u logoru neće da razgovara sa tobom.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_21">
+		<text>Zašto?</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_212">
+		<text>Koja će budala da razgovara sa bivšim putnikom "Kamiona Smrti"? Prvo, moraš da se dokažeš da mogu da ti veruju.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_2121">
+		<text>Kakav "Kamion Smrti?" O čemu ti pričaš?</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_21211">
+		<text>Ah, đavo će ga znati šta je to u stvari. Šta god da je, loše je, da gore ne može da bude...  Što ti se ja sad ovako obraćam? Možda sam sujeveran, ali bi ti, Obeleženi, trebao da odeš odavde pre nego što se nešto desi.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_2122">
+		<text>Šta trebam da uradim da mi ljudi poveruju?</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_21221">
+		<text>Položi Sidorovičev test. Ako sve bude u redu - i ako nisi lak na okidaču i znaš da koristis glavu - sporazumećemo se. Ne brini.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_22">
+		<text>Pa dobro, neka bude.</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_3">
+		<text>Zdravo, Obeleženi. Šta ti treba?</text>
+	</string>
+	<string id="escape_lager_leader_hello_11">
+		<text>Slušaj, Obeleženi, trebaš mi! Trebaće nam tvoja pomoć.</text>
+	</string>
+	<string id="escape_lager_leader_hello_111">
+		<text>Nastavi.</text>
+	</string>
+	<string id="escape_lager_leader_hello_1111">
+		<text>Ja sam Fanat, Vuk me je postavio za vođu dok je on odsutan. Par Plaćenika nas je posetilo sinoć... Neki zajebani likovi, da ti kažem. Postavili su nam ultimatum - "Imate jedan dan da svi napustite ovaj logor, ovo će nam biti nov operativni centar." Večeras se vraćaju, i kao što možeš da zamisliš, neće biti raspoloženi za razgovor.</text>
+	</string>
+	<string id="escape_lager_leader_hello_11111">
+		<text>Pa, šta ćete da radite?</text>
+	</string>
+	<string id="escape_lager_leader_hello_111111">
+		<text>Postavićemo im zasedu jer bi direktan napad za nas bio samoubistvo. Imaju kompletnu borbenu opremu, plus i taktičku obuku da ne poveruješ. A ovde su samo klinci. Pa smo odlučili da se sakrijemo po ovim kućama da izgleda kao da smo otišli. Kad bude bio pravi trenutak, pripucaćemo. Treba nam jedan borac kao ti. Dobićeš nagradu kad završimo sa Plaćenicima. Hajde pomozi nam! Šta kažeš?</text>
+	</string>
+	<string id="escape_lager_leader_hello_1111111">
+		<text>Dobro pomoći ću vam.</text>
+	</string>
+	<string id="escape_lager_leader_hello_11111111">
+		<text>Imamo malo vremena, samo što nisu stigli. Slušaj plan: smestićemo one najneiskusnije borce u podrum - u suprotnom bi mogli da pogode slučajno nas. Ja ti i još par dobrih strelaca zauzećemo pozicije koje nadgledaju logorsku vatru. Čim se približe vatri, pucaćemo sa svih strana! Dolaze iz pravca mosta...i mislim da su uskoro stigli. Zato, nađi poziciju sa dobrim pogledom, i čekaj moju komandu. Pregledaj malo teren, ali upamti nisu ti iste šanse na otvorenom kao u zaklonu. Kako hoćeš.</text>
+	</string>
+	<string id="escape_lager_leader_hello_111111111">
+		<text>Dobro.</text>
+	</string>
+	<string id="escape_lager_leader_hello_1111112">
+		<text>Ne, još nisam spreman.</text>
+	</string>
+	<string id="escape_lager_leader_hello_11111121">
+		<text>Šteta. Treba nam dobar strelac. Izgleda da moramo sami da se snađemo. Ma neka dođu...</text>
+	</string>
+	<string id="escape_lager_leader_hello_21">
+		<text>Čekamo one kretene, mamicu im plaćeničku. Imam osećaj da su blizu.</text>
+	</string>
+	<string id="escape_lager_leader_hello_31">
+		<text>Kakav šou, Obeleženi! Ne bih želeo da ti budem na nišanu, Obeleženi. Nikad!</text>
+	</string>
+	<string id="escape_lager_leader_hello_311">
+		<text>Pa, eto vidiš.</text>
+	</string>
+	<string id="escape_lager_leader_hello_3111">
+		<text>Evo, uzmi ovo kao nagradu\nJedan je vojnik samnom podelio ovaj recept za modifikaciju artefakta Bakine Perle... I još nešto.. Lično ti dajem jednu informaciju:\n - nedaleko od Sidorevičevog bunkera, nalazi se prelaz za Močvare, samo pažljivo potraži i naći ćeš ga... Prebaciću ti informacije u tvoj PDA... Oh, ima još nešto...\nZnaš li za teleportere?! Znam ih podesiti... Odvešće te tačno tamo gde želiš ići!!!</text>
+	</string>
+	<string id="escape_lager_leader_hello_41">
+		<text>Ej, Obeleženi, drago mi je da te vidim!</text>
+	</string>
+	<string id="escape_lager_leader_hello_411">
+		<text>Zdravo i tebi.</text>
+	</string>
+	<string id="escape_lager_leader_hello_412">
+		<text>Nego da te pitam, gde je Vuk?</text>
+	</string>
+	<string id="escape_lager_leader_hello_4121">
+		<text>Dobio je poruku od nekog stalkera u prolazu. Spakovao stvari, zgrabio kutiju dinamita i krenuo dublje u Zonu. Ja se još oporavljam od rana koje sam dobio na Kordonu pa me je zamolio da pripazim na klince.</text>
+	</string>
+	<string id="escape_lager_volk_info_0">
+		<text>Imam pitanja za tebe.</text>
+	</string>
+	<string id="escape_lager_volk_info_1">
+		<text>Ajde pitaj, odgovoriću koliko mogu.</text>
+	</string>
+	<string id="escape_lager_volk_info_10">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="escape_lager_volk_info_2">
+		<text>Šta znaš o Zoni?</text>
+	</string>
+	<string id="escape_lager_volk_info_21">
+		<text>Znam ti ja dosta toga. Šta te tačno zanima.</text>
+	</string>
+	<string id="escape_lager_volk_info_211">
+		<text>Šta se nalazi u centru Zone?</text>
+	</string>
+	<string id="escape_lager_volk_info_2111">
+		<text>E vidiš, to je pravo pitanje... A odgovor tražim već jedno dve godine! Još nisam uspeo da otkrijem put do središta, to jest, nisam našao put u dva smera. Ja i moji ortaci smo pokušavali par puta da se probijemo. Ja sam se jedva živ vratio, a moji ortaci - pa, neki jesu, neki nisu...  E sad ti pitaš što smo uopšte pokušavali. Jurili smo svoje snove, želeli smo da ih ostvarimo.</text>
+	</string>
+	<string id="escape_lager_volk_info_21111">
+		<text>Mogu li snovi ikad postati stvarnost?</text>
+	</string>
+	<string id="escape_lager_volk_info_211111">
+		<text>Postoji jedna divna bajka o Ispunitelju Želja. Kažu da postoji mesto u samom centru Zone gde se čovekove najdublje želje ostvaruju, bez obzira koliko bizarne. Ali znaš šta? Ja znam za milion i jedan način da bačiš kašiku u centru Zone, a i prestao sam da verujem u tog Ispunitelja Želja. Nemoj da rizikuješ. Ja sigurno ne bih.</text>
+	</string>
+	<string id="escape_lager_volk_info_212">
+		<text>Kako je nastala Zona?</text>
+	</string>
+	<string id="escape_lager_volk_info_2121">
+		<text>Desila se još jedna eksplozija 2006. godine. Iz nje se rodila Zona. Znam da to nije prava istina. Malo njih zna šta se stvarno to desilo, ako iko uopšte zna.</text>
+	</string>
+	<string id="escape_lager_volk_info_213">
+		<text>Šta te je dovelo u Zonu?</text>
+	</string>
+	<string id="escape_lager_volk_info_2131">
+		<text>Nekad sam radio u rudniku, dok ga nisu zatvorili. Nisam imao novca niti ikakve nade za normalan posao. E onda sam čuo priče o famoznim bogatstvima Zone. Imao sam dosta iskustva, pa reko "Ma šta ga jebem?". Ne mogu reći da sam se nešto obogatio, ali zaradio sam neki novčić tu i tamo, to je tačno. To ti je tipična priča, većina starijih ovde će ti slično nešto ispričati.</text>
+	</string>
+	<string id="escape_lager_volk_info_214">
+		<text>Koja je najopasnija pojava u Zoni?</text>
+	</string>
+	<string id="escape_lager_volk_info_2141">
+		<text>Teško je reći. Toliko je opasnosti i iznenađenja, da ne možeš sve da ih doživiš. Ima ih više nego dovoljno za jednu osobu to je sigurno. Jedan prst na nozi mi je odgrižen, a i kosa mi je otpala od radijacije, i pola noge mi je povređeno u vatrenoj anomaliji... E to ti je zajebana stvar. Čak sam i jedanput upao prsa u prsa sa Krvopijom - To ti je bio nezaboravan sex. Gledaj, možemo da debatujemo koliko oćeš, ali dok sam to ne doživiš džabe ti tvoje teorije. Jedini pravi savet koji mogu da ti dam je čuvaj se - na svakom mestu u svakom trenutku.</text>
+	</string>
+	<string id="escape_lager_volk_info_3">
+		<text>Dali si ikad čuo za Streloka?</text>
+	</string>
+	<string id="escape_lager_volk_info_31">
+		<text>Čuo sam neke priče da je on neki zajeban tip. Nisam ga nikad uživo upoznao. Vidiš, nisam se približavao Centru već neko vreme a ovde se samo pojavljuju Početnici. Probaj da nađeš nekog ko se mota po unutrašnjosti Zone, pa popričaj sa njim.</text>
+	</string>
+	<string id="escape_lager_volk_info_4">
+		<text>Šta znaš o "Kamionima smrti?"</text>
+	</string>
+	<string id="escape_lager_volk_info_41">
+		<text>Znam za tvoju situaciju. Doktor mi je rekao dok si spavao... Previše je tu misticizma za mene... Još nikada nisam čuo da je neko pronađen živ u tim stvarima... Smatraj se srećnim što ti već niko nije sprašio metak u čelenku do sada... Za svaki slučaj da se pretvoriš u...u one zombi nakaze koje gledamo kako teturaju sa severozapada... Područje Jantara je puno tih bezumnih stalkera... I samo dolaze i dolaze...</text>
+	</string>
+	<string id="escape_lager_volk_talk_11">
+		<text>Zdravo. Šta radiš ovde?</text>
+	</string>
+	<string id="escape_lager_volk_talk_111">
+		<text>Zdravo i tebi. Tražim Brzog. Znaš li gde bih mogao da ga nađem?</text>
+	</string>
+	<string id="escape_lager_volk_talk_1111">
+		<text>Brzi je usro motku. Njegovu grupu su napali Banditi nedaleko odavde. Mogao je samo da mi pošalje SOS poruku. Izgleda da je njegova ekipa pobijena. Moji momci mi javili da su te pičke sad u starom autoparku, odmah tu prekoputa.</text>
+	</string>
+	<string id="escape_lager_volk_talk_11111">
+		<text>O nosi informacije koje su jako važne mom trenutnom poslodavcu, i stvarno bih trebao doći do njih... Možda bi mogao pomoći tvojim ljudima, da ga zajedno izvučemo iz te nevolje u koju je upao...</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111">
+		<text>Pa, i ja mislim da bi to moglo upaliti... Samo da se čujem s njima..</text>
+	</string>
+	<string id="escape_lager_volk_talk_1111111">
+		<text>Gde trebam ići?</text>
+	</string>
+	<string id="escape_lager_volk_talk_11111111">
+		<text>Idi do Petruhe... On je jedan od mojih izviđača... On i još dvojica ne nalaze nedaleko od podvožnjaka, severoistočno odavde.. Na brdu... Čuo sam se s njima preko radija, tako da znaju da dolaziš da im pomogneš...</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111111">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="escape_lager_volk_talk_1111111111">
+		<text>Svaka čast burazeru! Dobro, evo su ti njihove koordinate. Javiću im da dolaziš.</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111112">
+		<text>Imam ja muda, nego ne želim da to radim.</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111121">
+		<text>Ma da, kako da ne. Ajde, goni se!</text>
+	</string>
+	<string id="escape_lager_volk_talk_21">
+		<text>Pa, kako ide?</text>
+	</string>
+	<string id="escape_lager_volk_talk_211">
+		<text>Uspeo sam osloboditi Brzog...</text>
+	</string>
+	<string id="escape_lager_volk_talk_2111">
+		<text>Čuo sam! Ti nisi obični početnik, kao što sam prvo pomislio... Evo, uzmi ovo u znak moje zahvalnosti za dobro obavljen posao!!</text>
+	</string>
+	<string id="escape_lager_volk_talk_212">
+		<text>Očistili smo ceo autopark. Sad je bezbedan.</text>
+	</string>
+	<string id="escape_lager_volk_talk_2121">
+		<text>Au! Momci mi kažu da si ih sam sve porokao! Izvoli, uzmi ovaj novac... Čisto u znak zahvalnosti, a i jesmo ti zahvalni. Plus, jedan mali bonus za tebe...</text>
+	</string>
+	<string id="escape_lager_volk_talk_21211">
+		<text>Gde si.</text>
+	</string>
+	<string id="escape_lager_volk_talk_213">
+		<text>Još radim na tome.</text>
+	</string>
+	<string id="escape_lager_volk_talk_2131">
+		<text>Redovno me obaveštavaj, važi?</text>
+	</string>
+	<string id="escape_lager_volk_talk_31">
+		<text>Nemam vreme da stojim tu i brbljam sa tobom. Ajde šetaj.</text>
+	</string>
+	<string id="escape_lager_volk_talk_311">
+		<text>Dobro ukapirao sam, nisam glup.</text>
+	</string>
+	<string id="escape_lager_volk_talk_41">
+		<text>Zdravo, Obeleženi. Čemu ovo zadovoljstvo?</text>
+	</string>
+	<string id="escape_lager_volk_talk_51">
+		<text>Šta ima novo, stalkeru.</text>
+	</string>
+	<string id="escape_lager_volk_talk_511">
+		<text>Pa prilično jednostavno... Ti Banditi i nisu neki istrenirani borci, jel' tako?!</text>
+	</string>
+	<string id="escape_lager_volk_talk_5111">
+		<text>Haha!! Pa, ti sigurno znaš jednostavno srediti stvari... Evo, uzmi nagradu...</text>
+	</string>
+	<string id="escape_shustryi_start_11">
+		<text>Hvala ti, brate! Baš si nam učinio uslugu! Ne znam kako da ti se odužim...</text>
+	</string>
+	<string id="escape_shustryi_start_111">
+		<text>Slušaj, treba mi ona fleš memorija što si nosio Sidoroviču. Je li kod tebe?</text>
+	</string>
+	<string id="escape_shustryi_start_1111">
+		<text>Da, kod mene je... Ovi moroni nemaju pojma kako da pretresu čoveka. Ma, da ga jebem, drži! Ipak, si me spasio. Dobro sam je sakrio, a one voline su glupe ko kurac.</text>
+	</string>
+	<string id="escape_shustryi_start_11111">
+		<text>Hvala ti. Čisto da te pitam, gde si je sakrio? Ko će ga znati, možda mi i zatreba.</text>
+	</string>
+	<string id="escape_shustryi_start_111111">
+		<text>Nisam je nabio TAMO, ne brini. Dugo već radim za Sidoroviča pa sam naučio kako da bezbedno skrivam informacije! E da, još nešto, ispričao sam ovim majmunima jednu bajku o skladištu punom artefakata, pa su oni poslali jednog čoveka da proveri. To skrovište postoji ali ima samo jedan artefakt. Daću to koordinate ako hoćeš.</text>
+	</string>
+	<string id="escape_shustryi_start_21">
+		<text>Srećan put, stalkeru!</text>
+	</string>
+	<string id="escape_shustryi_start_311">
+		<text>Važi, hvala.</text>
+	</string>
+	<string id="escape_shustryi_start_3111">
+		<text>Samo da znaš: ima dosta divljih zveri tamo. Također, onaj gangster što su ga poslali je dobro naoružan, budi pažljiv. I hvala još jednom.</text>
+	</string>
+	<string id="escape_shustryi_start_31111">
+		<text>Hvala i tebi, također.</text>
+	</string>
+	<string id="escape_shustryi_start_311111">
+		<text>Važi, nema problema. Srećno!</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_0">
+		<text>Zadatak izvršen. Izvoli kutiju iz Vojnog punkta.</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_2">
+		<text>Nikada ne prestaješ da me zadivljuješ, Obeleženi!! Hmmm, ne mogu pročitati ovaj šifrirani nered... Odnesi kutiju do Barmena u Rostok, on ima neke ljude koji su specijalizirani za ovakvu vrstu stvari... Štreberski odred, kako ih ja zovem, haha!! Očigledno da su tu neke vrlo vredne informacije, zato je važno da ih doneseš do njega u jednom komadu!! Jesi spreman za to?!</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_3">
+		<text>Naravno.</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_4">
+		<text>Ne hvala... Nisam zainteresiran.</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_5">
+		<text>Pa dobro, pronaći ću onda nekog drugog... Nekog ko se želi obogatiti...</text>
+	</string>
+	<string id="escape_trader_jobs_0">
+		<text>Imaš li neki specijalan zadatak za mene?</text>
+	</string>
+	<string id="escape_trader_jobs_1">
+		<text>Ne, nemam više zadataka za tebe.</text>
+	</string>
+	<string id="escape_trader_jobs_12">
+		<text>Kakav sad specijalan zadatak? Nisi završio ni predhodni!</text>
+	</string>
+	<string id="escape_trader_jobs_5">
+		<text>Evo u čemu je stvar... Kutija sa izveštajima o ekspedicijama koje su izvršene duboko unutar Zone je odnesena na Kordon. Preko dana, je čuvaju kao da je ne znam ni ja šta, ali iz nekog razloga uveče postave samo dva stražara.</text>
+	</string>
+	<string id="escape_trader_jobs_51">
+		<text>Nastavi.</text>
+	</string>
+	<string id="escape_trader_jobs_511">
+		<text>Tiho se ubaci u njihove prostorije i "preuzmi" kutiju. Učini mi to i platiću ti...nekom razumnom svotom. Šta kažeš?</text>
+	</string>
+	<string id="escape_trader_jobs_5111">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="escape_trader_jobs_51111">
+		<text>Spremiću novac - do sada me nisi razočarao. I još nešto... Gledaj da te ne spaze. Ako Vojska popizdi, svi smo ga najebali.</text>
+	</string>
+	<!-- !!!!TB3D new 134  -->
+	<string id="escape_trader_jobs_outfit_yes">
+		<text>Da, imam tako nešto.</text>
+	</string>
+	<string id="escape_trader_jobs_outfit_not">
+		<text>Do vraga, ne... zašto bih imao nešto takvo?</text>
+	</string>
+	<string id="escape_trader_jobs_outfit_yes_1">
+		<text>Vrlo dobro. Jedan vojnik će te čekati u blizini farme, južno od porušenog mosta... Sada idi i donesi kutiju.</text>
+	</string>
+	<string id="escape_trader_jobs_outfit_yes_2">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="escape_trader_jobs_outfit_not_1">
+		<text>Onda pronađi za njega Savršeni Beril-5M.</text>
+	</string>
+	<string id="escape_trader_jobs_outfit_not_2">
+		<text>Ok, pokušaću pronaći odelo.</text>
+	</string> <!-- kraj prevoda sadd -->
+	<!--====================-->
+	<string id="escape_trader_jobs_52">
+		<text>Ne, ne mogu sad.</text>
+	</string>
+	<string id="escape_trader_jobs_521">
+		<text>Ajde čoveče, nije to baš toliko teško. Šaka jada guštera sa samo jednim starešinom... Pa dobro, ajde, ali baš sam računao na tebe, Obeleženi...</text>
+	</string>
+	<string id="escape_trader_jobs_6">
+		<text>Slušaj, Obeleženi... Razmišljao sam nešto, imam nešto da ti ponudim... Uopšte govoreći, ono što stvarno želiš je da nađeš tog Streloka. Jel' tako?</text>
+	</string>
+	<string id="escape_trader_jobs_61">
+		<text>Recimo da želim.</text>
+	</string>
+	<string id="escape_trader_jobs_611">
+		<text>U svakom slučaju, evo u čemu je stvar sa tim Strelokom. Postoji jedan stalker sa tim imenom. Kažu da je pronašao put do severnih krajeva Zone. Tamo ti je "devičanski" teren, pravi rudnik artefakata...nego... Bez obzira, mogu ti pomoći da ga nađeš... Međutim... Kao što možeš da pretpostaviš: ni kod babe nema za džabe, a kamoli kod mene. Moraćeš da zaradiš... Ali na kraju krajeva, zaradićemo obojica: ti ćeš se rešiti tog Streloka, i saznaćeš šta ti se dogodilo... A ja ću...pa, ono... Ja ću dobiti moj deo naše zarade, he-he... Šta kažeš? Može?</text>
+	</string>
+	<string id="escape_trader_jobs_6111">
+		<text>Nastavi.</text>
+	</string>
+	<string id="escape_trader_jobs_61111">
+		<text>Dobro, slušaj... Deluješ kao ozbiljan čovek, vidim... A ja... Hoću da kažem, trebaju nam ljudi kao što si ti. Vršim neku istragu sa raznim drugim trgovcima po Zoni. Želimo da otvorimo put ka severnim krajevima, ka centru Zone. A blizu centra neko, ili nešto nas ometa u našim pokušajima... Kako je, do đavola, taj Strelok uspeo da se probije, ja ne znam... Vidiš, ima jedno mesto gde ti mozak počinje da gori. Jezivo mesto... Nego, da skratim priču - par momaka je držalo Vojsku na oku, nedaleko odavde. koliko vidim, oni u Agropromu su otkrili nešto. Nešto veliko. Siguran sam da to ima neke veze sa centrom Zone. Nego, šta god da su otkrili, čuvaju to na trećem spratu zgrade. A nama baš trebaju ti podaci. Shvataš?</text>
+	</string>
+	<string id="escape_trader_jobs_611111">
+		<text>Mislim da shvatam.</text>
+	</string>
+	<string id="escape_trader_jobs_6111111">
+		<text>Kad nabaviš aktovku, nemoj ovde da je donosiš. Odnesi je Barmenu. On ti drži jednu stalkersku kafanu, 100 Rendgena. Poslaću ti koordinate i sve podatke na tvoj PDA. Jasno?</text>
+	</string>
+	<string id="escape_trader_jobs_61111111">
+		<text>Razumem.</text>
+	</string>
+	<string id="escape_trader_jobs_611111111">
+		<text>Moraćeš na sever do Deponije, i onda zapadno. Par kilometara i stižeš do Agroproma. I budi pažljiv, nivo zračenja u Deponiji je baš visok. Pa ti predlažem da poneseš neki Anti-rad ili bar votku. Pa, sa srećom.</text>
+	</string>
+	<string id="escape_trader_start_dialog_111">
+		<text>Imam posao za tebe, Obeleženi... Hoću da pronađeš stalkera koga zovu Brzi, kod njega su vrlo važni podaci. Nestao je u blizini mosta. Nađi ga, živ ili mrtav - sve mi jedno, meni samo treba fleš-memorija što je kod njega. Idi do Vuka gore u selu, pitaj njega. Zna on 100% gde je Brzi.</text>
+	</string>
+	<string id="escape_trader_start_dialog_1111">
+		<text>To je sve?</text>
+	</string>
+	<string id="escape_trader_start_dialog_171">
+		<text>Ej Obeleženi, šta ima?</text>
+	</string>
+	<string id="escape_trader_start_dialog_181">
+		<text>Obeleženi, šta tražiš ovde? Rekao sam ti da nađeš Brzog!</text>
+	</string>
+	<string id="escape_trader_start_dialog_191">
+		<text>Znači, posetio si x18? Je li kod tebe dokumentacija?</text>
+	</string>
+	<string id="escape_trader_start_dialog_1911">
+		<text>Da. Izvoli.</text>
+	</string>
+	<string id="escape_trader_start_dialog_19111">
+		<text>Vidi, vidi... Znači tako... To je zanimljivo, vrlo zanimljivo! Da nekom kažem nebi mi verovao! Hmm... Da... Uf! Vidi ti to! Ovo nisam očekivao... Ovo ne valja, znaš... Pa, ništa, drži, nosi ovo Barmenu. E da, dugujem ti za ovo.</text>
+	</string>
+	<string id="escape_trader_start_dialog_199">
+		<text>Čekaj. Evo, uzmi ovaj pištolj i nešto municije. Bez oružja ne bi dugo opstao u Zoni! E da, kad su te doveli ovde, imao si nož. Uzeo sam ti ga za slučaj da nisi kako treba. Ali deluješ OK, zato evo ti.</text>
+	</string>
+	<string id="escape_trader_start_dialog_1999">
+		<text>Hvala ti.</text>
+	</string>
+	<string id="escape_trader_start_dialog_200">
+		<text>Pa Obeleženi, kako napreduje nas zajednički biznis?</text>
+	</string>
+	<string id="escape_trader_start_dialog_3">
+		<text>Izaberi. Ili da ti očitam predavanje kao da si početnik ili da te tretiram kao pravog stalkera i odmah pošaljem na zadatak.</text>
+	</string>
+	<string id="escape_trader_start_dialog_300">
+		<!-- text>I've got a little job for you .. Marked One ...</text    109960 TODO: investigate this-->
+		<text>Pa.. Šta danas mogu učiniti za tebe, Obeleženi?</text>
+	</string>
+	<string id="escape_trader_start_dialog_31">
+		<text>Onda kao početnika, nemam blage veze gde se nalazim.</text>
+	</string>
+	<string id="escape_trader_start_dialog_32">
+		<text>Skrati priču, daj mi zadatak.</text>
+	</string>
+	<string id="escape_trader_start_dialog_321">
+		<text>Imam posao za tebe, Obeleženi... Hoću da pronađeš stalkera koga zovu Brzi, kod njega su vrlo važni podaci. Nestao je u blizini mosta. Nađi ga, živog ili mrtvog - svejedno mi, meni samo treba fleš-memorija što je kod njega. Idi do Vuka, on ti je starešina u selu, pitaj njega. On sigurno zna gde je Brzi.</text>
+	</string>
+	<string id="escape_trader_start_dialog_3211">
+		<text>Nastavi.</text>
+	</string>
+	<string id="escape_trader_start_dialog_32111">
+		<text>To je sve za sad. Donesi mi fleš i smatraću da si mi delimično platio što sam te spasio.</text>
+	</string>
+	<string id="escape_trader_start_dialog_321111">
+		<text>OK, pokušaću.</text>
+	</string>
+	<string id="escape_trader_start_dialog_33">
+		<text>Ako želiš nešto zaraditi novca... Možda ti ja tu mogu pomoći...</text>
+	</string>
+	<string id="escape_trader_start_dialog_331">
+		<text>A kako bi to mogao?</text>
+	</string>
+	<string id="escape_trader_start_dialog_3311">
+		<text>Treba mi pomoć da pronađem određeni artefakt. Dobro ću ti platiti...</text>
+	</string>
+	<string id="escape_trader_start_dialog_33111">
+		<text>A gde da potražim takav artefakt?</text>
+	</string>
+	<string id="escape_trader_start_dialog_33112">
+		<text>Neću da se smaram tražeći artefakte...</text>
+	</string>
+	<string id="escape_trader_start_dialog_331111">
+		<text>Imam jednu mušteriju sa Juga, koja traži artefakt Noćna Zvezda... Ako mi ga doneseš, daću ti pošten iznos za njega...</text>
+	</string>
+	<string id="escape_trader_start_dialog_3311111">
+		<text>Noćna Zvezda, huh? Videću šta mogu da uradim...</text>
+	</string>
+	<string id="escape_trader_start_dialog_34">
+		<text>Jesi imao sreće u potrazi za onim artefaktom?!</text>
+	</string>
+	<string id="escape_trader_start_dialog_341">
+		<text>Evo ga.. Vrlo čudna stvar...</text>
+	</string>
+	<string id="escape_trader_start_dialog_342">
+		<text>Nisam još... Izvini...</text>
+	</string>
+	<string id="escape_trader_start_dialog_3411">
+		<text>Odlično!! Izvoli nagradu...</text>
+	</string>
+	<string id="escape_trader_start_dialog_34111">
+		<text>Hvala puno!!</text>
+	</string>
+	<string id="escape_trader_start_dialog_4">
+		<text>Ej, Obeleženi. Drago mi je da još dišeš.</text>
+	</string>
+	<string id="escape_trader_start_dialog_5">
+		<text>Pozdrav, Obeleženi! Jesi uspeo?</text>
+	</string>
+	<string id="escape_trader_start_dialog_51">
+		<text>Zadatak izvršen. Izvoli artefakt.</text>
+	</string>
+	<string id="escape_trader_start_dialog_511">
+		<text>Bravo, Obeleženi. Još jedan mali poslić i završio si.</text>
+	</string>
+	<string id="escape_trader_start_dialog_5111">
+		<text>Kakav sad poslić?</text>
+	</string>
+	<string id="escape_trader_start_dialog_52">
+		<text>Situacija je sad malo jasnija.</text>
+	</string>
+	<string id="escape_trader_start_dialog_52111">
+		<text>Gde je fleš sa informacijama?</text>
+	</string>
+	<string id="escape_trader_start_dialog_521111">
+		<text>Evo drži.</text>
+	</string>
+	<string id="escape_trader_start_dialog_5211111">
+		<text>Odlično.</text>
+	</string>
+	<string id="escape_trader_start_dialog_521112">
+		<text>Nije kod mene.</text>
+	</string>
+	<string id="escape_trader_start_dialog_5211121">
+		<text>Šteta, Obeleženi, stvarno šteta. Nemamo o čemu da poslujemo dok ga ne doneseš...</text>
+	</string>
+	<string id="escape_trader_start_dialog_521211">
+		<text>Evo, uzmi.</text>
+	</string>
+	<string id="escape_trader_start_dialog_5212111">
+		<text>Dobro... Smatraćemo da si položio moj mali test. Predlažem ti da se ne motaš po selu.</text>
+	</string>
+	<string id="escape_trader_start_dialog_56">
+		<text>Još uvek ništa.</text>
+	</string>
+	<string id="escape_trader_start_dialog_571">
+		<text>Pa, jesi doneo artefakt?</text>
+	</string>
+	<string id="escape_trader_start_dialog_5711">
+		<text>Nisam još.</text>
+	</string>
+	<string id="escape_trader_start_dialog_57111">
+		<text>Pa, dok ga ne nabaviš nemamo o čemu da pričamo. Jel' ti jasno?</text>
+	</string>
+	<string id="escape_trader_start_dialog_6">
+		<text>Obeleženi, sve sam ti već objasnio. Ajde briši!</text>
+	</string>
+	<string id="escape_trader_start_dialog_661">
+		<text>Pa Obeleženi, šta ima novo?</text>
+	</string>
+	<string id="escape_trader_talk_info_0">
+		<text>Hoću da znam nešto.</text>
+	</string>
+	<string id="escape_trader_talk_info_1">
+		<text>Izvoli i pitaj, ali ne znam ti ja sve. Ja svoje vreme provodim ovde dok život teče dalje u Zoni. Mogu da ti objasnim nešto generalno o Zoni, i o obližnjim mestima koje sam posetio.</text>
+	</string>
+	<string id="escape_trader_talk_info_100">
+		<text>Šta znaš uopšte o Zoni.</text>
+	</string>
+	<string id="escape_trader_talk_info_101">
+		<text>Pitaj.</text>
+	</string>
+	<string id="escape_trader_talk_info_2">
+		<text>Šta Vojska traži po Zoni?</text>
+	</string>
+	<string id="escape_trader_talk_info_21">
+		<text>Oni čuvaju i štite, šta drugo? Niko ne zna da li oni čuvaju Zonu od sveta ili svet od Zone. Ponekad pošalju ekspedicije ovamo radi istraživanja... Ali da ti kažem: oni Zonu ne poštuju, a ne voli ni ona njih, zato se i vraćaju kući u plastičnim kesama. Šta bi drugo moglo da bude? Oni, na sve nas gledaju sa visine i ponašaju se kao bogovi. Nemaju nikakvo poštovanje prema stalkerskom zakonu života i pustili bi te da iskrvariš na njihove oči. Doduše rado bi ti skratili muke metkom među oči, možda ih čak i nagrade za to... Imam neke veze među njima...znaš, narodu uvek treba votka i...umm, časopisi, jel' tako? Trudi se da ih izbegavaš - smaknuće te čisto iz zezanja.</text>
+	</string>
+	<string id="escape_trader_talk_info_3">
+		<text>Pričaj mi o Zoni.</text>
+	</string>
+	<string id="escape_trader_talk_info_31">
+		<text>Zona, znaš, nije samo krug par kilometara u prečniku sa nuklearnom centralom u sredini. Ona je nešto čudno. Stvarno čudno. Sumnjam da bi ti iko na svetu dao pravi odgovor. Osećam da Zona nije ni deo ovog sveta. To je drugi, odvojen svet, čudan i opasan...i privlačan, također. A znaš li zašto? Zato što uz malo sreće svako može biti milioner. A što si blizi centru Zone, više se penješ ka vrhu piramide zarade.</text>
+	</string>
+	<string id="escape_trader_talk_info_311">
+		<text>Šta je to toliko opasno u ovom "drugačijem svetu"?</text>
+	</string>
+	<string id="escape_trader_talk_info_3111">
+		<text>Hrm... Pa ništa posebno, osim što možeš da rikneš svakog trenutka a da ne znaš šta te snašlo. Metak nekog vojnog idiota ti je poslednja briga, doduše prekomandovali su dosta Vojske ovde u poslednje vreme. Streljanje ti je najlakša smrt ovde u Zoni. Anomalije, su već nešto drugo... Smrt u anomaliji je nešto veoma užasno. Čak ih i mutanti izbegavaju. Kad smo već kod toga, mutanti, ta "deca Zone", su sasvim druga priča, zato ne idi nigde nenaoružan. U svakom slučaju, da saznaš nešto više o drugim opasnostima, samo pitaj druge stalkere.</text>
+	</string>
+	<string id="escape_trader_talk_info_312">
+		<text>Kako da se čovek obogati ovde?</text>
+	</string>
+	<string id="escape_trader_talk_info_3121">
+		<text>Uf, pa šta ti misliš? Zar se ne sećaš?! Artefakti brate, u tome je stvar. Te igračkice Zone su vredne čitavo bogatstvo u belom svetu. Artefakti su vredniji od zlata, dragulja pa čak i čistog plutoniuma. A zašto? Zato što ni jedan nakit na svetu ti ne daje sposobnosti što emituju ti artefakti. Zamisli samo: možeš da zakačiš malu napravu za kaiš i metci će samo proletati pored tebe a da te nijedan ne zakači! Šta drugo? Pa, možeš poneki komad i ovde da nađeš. Ali za one vrednije primerke, moraćeš da priđeš bliže centru.</text>
+	</string>
+	<string id="escape_trader_talk_info_313">
+		<text>Zna li neko šta se dešava u centru Zone?</text>
+	</string>
+	<string id="escape_trader_talk_info_3131">
+		<text>Svaki put kad čujem, druga priča. Sve su to bajke... Samo što ja ne verujem u sve te vanzemaljske gluposti. Ali ono u šta verujem je da je centar Zone prepun dragocenih artefakata. Samo sto ja ne znam nikog ko se odatle vratio živ.</text>
+	</string>
+	<string id="escape_trader_talk_info_4">
+		<text>Znaš li šta mi se desilo?</text>
+	</string>
+	<string id="escape_trader_talk_info_41">
+		<text>Kakvo je sad pa to pitanje? Vidiš, to su ti neki mračni poslovi... Pronašli su te u "Kamionu Smrti", to ti je... Nešto kao transporter leševa, vidiš? Ovi kamioni se pojavljuju iz Centra sa vremena na vreme, prepunjeni telima. Niko ne zna gde se oni to zapute. Pa, jedan od njih je doživeo nesreću pa su te pronašli kod olupine. Eto vidiš to je ono neobično. I ranije smo pronalazili oštećene kamione, ali nikad nismo izvukli nekog živog iz njih. Izvini, brate, to je sve što znam. Ostalo ćeš morati sam da otkriješ.</text>
+	</string>
+	<string id="escape_trader_talk_info_5">
+		<text>Ko je Strelok?</text>
+	</string>
+	<string id="escape_trader_talk_info_51">
+		<text>Da, čuo sam za jednog stalkera sa tim imenom. Priča se da je on jedan od retkih što se vratio iz centra Zone. Međutim, imamo tih priča o stalkerskim junacima koliko hoćeš, tako da ti ništa ne garantujem da je istina. U svakom slučaju, nikad sa njim lično nisam imao posla. Izgleda da on ima svoje švercere van Zone. Kako god, pitaj narod po Zoni, sigurno ćeš saznati ponešto.</text>
+	</string>
+	<string id="escape_trader_talk_info_6">
+		<text>Ko je taj Duh?</text>
+	</string>
+	<string id="escape_trader_talk_info_61">
+		<text>E, to ti je sasvim druga legenda. Dugo već nemamo vesti o njemu. Pretpostavljam da je poginuo negde duboko u Zoni.</text>
+	</string>
+	<string id="escape_trader_talk_info_99">
+		<text>Šta ima po komšiluku?</text>
+	</string>
+	<string id="escape_trader_talk_info_999">
+		<text>Molim! Ovo ti je ulaz u Zonu, neka vrsta pretkomore. Ima jedan Vojni kordon ovde. Ovde ti je tiho uglavnom, izuzev par vojnika što vole da se zajebavaju, prave racije. Iskusni stalkeri se retko kad pojavljuju, tako da su uglavnom Početnici. Neki se ovde smeste za stalno... Ovde u blizini ti je Kamp Početnika. Pazi se samo, ne boje se da zapucaju kad moraju. Šta još? Nećeš ovde nešto posebno da zaradiš, to ti je sigurno. Ima napuštena fabrika preko puta. Severnije od mosta, su ti ruševine stare farme. A južno ti je Vojna predstraža. Čuvaj se: Vojska je minirala područje. Također, nekad je u centru bio jedan most, ali je sad porušen. To ti je to.</text>
+	</string>
+	<string id="escape_trader_talk_info_9991">
+		<text>Šta znaš o predstraži južno.</text>
+	</string>
+	<string id="escape_trader_talk_info_99911">
+		<text>Vojska što je stacionirana tamo ima naređenje da puca na licu mesta, zato gledaj da je zaobilaziš i potrudi se da te ne primete. Ako ih baš iznerviraš, možda pozovu Specnaz jedinice iz daljeg kordona. Ti momci mogu da naprave takvo sranje da ne bih imao mušteriju mesec dana... Znam se sa njihovim komandirom: voli on pare ko i svi mi. Opstajem ovde zahvaljujući njemu.</text>
+	</string>
+	<string id="escape_trader_talk_info_9992">
+		<text>Šta znaš o onom porušenom mostu.</text>
+	</string>
+	<string id="escape_trader_talk_info_99922">
+		<text>On ti je dva minuta severno odavde, vidi se na kilometar. To ti je bio železnički most, ali se porušio tokom Emisije. Vojska je postavila stražu tamo i ne puštaju nikog... Ali ako ih "podmažeš" proći ćeš bez problema. Nemoj da se mnogo motaš tamo, osim ako nisi teško ranjen ili pretovaren.</text>
+	</string>
+	<string id="escape_trader_talk_info_9993">
+		<text>Pričaj mi o fabrici?</text>
+	</string>
+	<string id="escape_trader_talk_info_99933">
+		<text>Preko puta primetićeš zgrade od cigle - i to je sve. Sve što vredi je već ukradeno odatle, samo je jedna kutija ostala. Banditi mnogo vole da se motaju tamo. Ne znam dal` su sad tamo, ali pripazi za svaki slučaj. Nemaš ništa vredno što bi ti uzeli, ali zar stvarno želiš da prolaziš kroz sve to?</text>
+	</string>
+	<string id="escape_trader_talk_info_9994">
+		<text>Šta znaš o farmi.</text>
+	</string>
+	<string id="escape_trader_talk_info_99944">
+		<text>Već si počeo da mi dosađujes, jel' znaš? Farma kao i svaka druga. Tamo je posao cvetao dok se nije pojavila demokratija.</text>
+	</string>
+	<string id="escape_trader_talk_info_9995">
+		<text>Hvala, to je sve.</text>
+	</string>
+	<string id="escape_trader_talk_info_9996">
+		<text>Zanima me još nešto.</text>
+	</string>
+	<string id="escape_trader_talk_level_0">
+		<text>Pričaj mi o ovom mestu.</text>
+	</string>
+	<string id="escape_trader_talk_level_1">
+		<text>Molim! Ovo ti je ulaz u Zonu, neka vrsta pretkomore. Ima jedan Vojni kordon ovde. Ovde ti je tiho uglavnom, izuzev par vojnika što vole da se zajebavaju, prave racije. Iskusni stalkeri se retko kad pojavljuju, tako da su uglavnom Početnici. Neki se ovde smeste za stalno... Ovde u blizini ti je Kamp Početnika. Pazi se samo, ne boje se da zapucaju kad moraju. Šta još? Nećeš ovde nešto posebno da zaradiš, to ti je sigurno. Ima napuštena fabrika prekoputa. Severnije od mosta, su ti ruševine stare farme. A južno ti je vojna pretstraža. Čuvaj se: Vojska je minirala područje. Također, nekad je u centru bio jedan most, ali je sad porušen. To ti je to.</text>
+	</string>
+	<string id="escape_trader_talk_level_10">
+		<text>OK, hvala.</text>
+	</string>
+	<string id="escape_trader_talk_level_2">
+		<text>Šta znaš o Kordonu.</text>
+	</string>
+	<string id="escape_trader_talk_level_21">
+		<text>Vojska što je stacionirana tamo ima naređenje da puca na licu mesta, zato gledaj da je zaobilaziš i potrudi se da te ne primete. Ako ih baš iznerviraš, možda pozovu Specnaz jedinice iz daljeg kordona. Ti momci mogu da naprave takvo sranje da ne bih imao mušteriju mesec dana... Znam se sa njihovim komandirom: voli on pare ko i svi mi. Opstajem ovde zahvaljujući njemu.</text>
+	</string>
+	<string id="escape_trader_talk_level_3">
+		<text>Zanima me onaj porušeni most.</text>
+	</string>
+	<string id="escape_trader_talk_level_31">
+		<text>On ti je dva minuta severno odavde, vidi se na kilometar. To ti je bio železnički most, ali se porušio tokom Emisije. Vojska je postavija stražu tamo i ne puštaju nikog... Ali ako ih "podmažeš" proći ćeš bez problema. Nemoj da se mnogo motaš tamo, osim ako nisi teško ranjen ili pretovaren.</text>
+	</string>
+	<string id="escape_trader_talk_level_4">
+		<text>Šta znaš o fabrici?</text>
+	</string>
+	<string id="escape_trader_talk_level_41">
+		<text>Preko puta primetićeš zgrade od cigle - i to je sve. Sve što vredi je već ukradeno odatle, samo je jedna kutija ostala. Banditi mnogo vole da se motaju tamo. Ne znam dal su sad tamo, ali pripazi za svaki slučaj. Nemaš ništa vredno što bi ti uzeli, ali zar stvarno želiš da prolaziš kroz sve to?</text>
+	</string>
+	<string id="escape_trader_talk_level_5">
+		<text>Pričaj mi o farmi.</text>
+	</string>
+	<string id="escape_trader_talk_level_51">
+		<text>Već si počeo da me smaraš, jel' znaš? Farma kao i svaka druga. Tamo je posao cvetao dok se nije pojavila demokratija.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_1">
+		<text>Dobro sam... Krvarim na sve strane. Daj prvu pomoć, boga ti?</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_121">
+		<text>Hvala, brate!</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_2">
+		<text>Drži.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_21">
+		<text>Hvala, prijatelju. Još malo i krepao bi... Dužan sam ti.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_211">
+		<text>Šta se desilo?</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_2111">
+		<text>Vraćali smo se iz izvidnice... Naleteli na bandite. Jednog našeg su odmah skenjali. Oteli su Brzog, izmislio je neku priču o skrovištu sa artefaktima. Ja sam se pravio mrtav pa se izvukao.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_21111">
+		<text>Idem da nađem Brzog... Treba mi. Hoćeš samnom?</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_211111">
+		<text>E, čoveče... Sad nisam ni za one stvari. Moram u logor da povratim malo snage. Reći ću svojima da si mi pomogao! Hvala ti još jednom.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_2111111">
+		<text>OK, kako ti kažeš. Ajde pa se oporavi.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_3">
+		<text>Žalim, brate. Nemam prvu pomoć.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_31">
+		<text>Pretraži tela... Ovi naši su sigurno poneli neki... Sigurno je tu negde.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_5111">
+		<text>Ne baš najbolje, al preživeću. Ko me jebe, kad nisam sačuvao lovu za pancir. Samo budala ide duboko u Zonu bez pancira.</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_6">
+		<text>Uuu, čoveče, mnogo boli... Umirem...</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_61">
+		<text>Jesi živ?</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_7">
+		<text>Ughh...</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_8">
+		<text>Jesi dobro?</text>
+	</string>
+	<string id="escape_tutorial_wounded_story_0">
+		<text>U čemu je problem?! Izgledaš nekako preplašeno...</text>
+	</string>
+	<string id="escape_tutorial_wounded_story_1">
+		<text>Još ne mogu zaboraviti šta se nedavno desilo. Samo slušaj ovo. Idem ti ja prema Deponiji a već se smračilo. A da budem iskren, poprilično pijan. Odlučio sam da ne šetam Zonom po noći, jer bi mogao uleteti u neku anomaliju ili bi me mogao nanjušiti neki pas. Znao sam da moram potražiti neko sigurno mesto da prespavam noć. Ugledao sam neku staru, napuštenu kuću, sve je bilo prilično mirno i tiho... Upalio sam šibicu i ušao unutra. Video sam stepenice i odlučio se popeti uz njih. Sećam se da je bila velika rupa u krovu, kroz koju sam mogao videti puni mesec i noćno nebo. Soba je bila puna krpa, smeća, stare odeće, pravi haos. Ali se činila sigurnom, seo sam pod krov...mesečina me smirila i utonuo sam u san. Lakog sa sna... Odjednom sam se trgnuo, bio je mrkli mrak usobi, osim one rupe u krovu kroz koju je mesec sijao. Jednostavno sam osetio da nešto nije u redu, kad odjednom čujem slabo grgljanje, režanje... Polako sam pogledao preko ramena, i tu sam ga ugledao... Krvopija, spava... Bio je na drugoj strani sobe, leđima okrenut prema meni. Srce mi je nenormalno lupalo, nisam znao šta da radim, sigurno bi čuo škripu koraka i probudio se... Zato sam legao nazad, bojeći se pomaknuti prstom.</text>
+	</string>
+	<string id="escape_tutorial_wounded_story_2">
+		<text>Šta se onda dogodilo?</text>
+	</string>
+	<string id="escape_tutorial_wounded_story_3">
+		<text>Ležao sam još neko vreme pokušavajući srediti misli, ali to nije lako kada nešto poput Krvopije spava pored tebe! Pitao sam se zašto me nije napao, možda me nije video, ne znam. Morao sam nekako izaći iz kuće. Imao sam pištolj u rancu, ali bi morao puzati do njega, a iskreno, nisam ga želeo probuditi. Ležao sam i pokušao skupiti hrabrosti. Nisam imao izbora, morao sam nešto uraditi. Ustao sam polako, uzeo ranac ali sam stao na neke labave daske... Tada se Krvopija trgnula, probudila se, znao sam jer je prestala disati, osluškivao je, znao je da nije sam. Brzo sam dohvatio ranac. Kada je zver čula buku, skočila je. Uspeo sam nekako da izvučem pištolj i upucao ga u prsa, i zapitao se jesam li ga ubio. Ubrzo sam dobio odgovor. Zver je skočila iz mraka na mene. Nisam siguran kako se sve desilo, ali mu se ružna glava nekako zaglavila u tregere ranca. Nekako sam skinuo ranac sa sebe i opalio nekoliko hitaca u njegove noge, i popeo kroz rupu na krovu. Pokušao me pratiti ali mu je još moj ranac bio na glavi, a sve je okolo bilo puno smeća, pa se izgleda nekako zaglavio, urlao je i mlatarao rukama, pokušavajući da se oslobodi. Imao sam prilično dobrih stvari u tom rancu...</text>
+	</string>
+	<string id="escape_tutorial_wounded_story_4">
+		<text>Srećan si što si se ikako živ izvukao odatle...</text>
+	</string>
+	<string id="escape_tutorial_wounded_story_5">
+		<text>Znam, ali je šteta što sam ostao bez ranca!!</text>
+	</string>
+	<string id="escape_shustryi_story_0">
+		<text>Kako ide?</text>
+	</string>
+	<string id="escape_shustryi_story_1">
+		<text>Ma ide dobro, ako je to ikako moguće u Zoni... Skoro sam čuo priču o jednoj šumi koja okružuje PSI-odašiljač, kažu da u njoj živi najmoćniji ali prijateljski nastrojen Kontroler u Zoni. Nikada nije ubio nikoga, osim u sspašavanju vlastitog života. Obično se krije od svakoga, tako da malo ko i zna za njega. Ljudi pričaju da živi od pasa mutanata. Uglavnom, kažu da je Vojska išla u čišćenje područja, u pokušaju da se reši svih tih pasa, ubijajući sve od štenaca do svega što ima se našlo na putu. Nakon čišćenja, navodno, je ostalo jedno malo slepo ružno štene. Možda ih je još nekoliko uspelo preživeti, ne važno. To štene je našao Kontroler u šumi i uzeo ga sa sobom. Od tada, to štene je uvek sa Kontrolerom... Odgojio ga je, delio hranu s njim, postavši štenetu roditelj. Možeš li to ikako zamisliti? Dobroćudni Kontroler?</text>
+	</string>
+	<string id="escape_shustryi_story_2">
+		<text>I, šta se onda dogodilo?</text>
+	</string>
+	<string id="escape_shustryi_story_3">
+		<text>Nijh dvojica su postali najbolji prijatelji, bili su nerazdvojni! Ako je Kontroler išao nekuda, pas bi uvek bio pored njega. Lutali su tom šumom. Ni Kontroler ni pas nisu nikoga napadali, niti je neko njih uznemiravao. Ipak, pri jednoj patroli kroz šumu, neki su Plaćenici prometili Kontrolera kako se odmara pored drvaeta, i otvorili su vatru na njega. Kažu da je Kontroler naterao sve vojnike da padnu na zemlju tačno onoliko koliko je bilo potrebno da štene pobegne na sigurno. Ali među Plaćenicima bilo je vrlo preciznih vojnika, i metci su pronašli svoju metu. Kontroler je pao na zemlju i sve je utihlo...</text>
+	</string>
+	<string id="escape_shustryi_story_4">
+		<text>Baš tužno, šta se onda desilo?</text>
+	</string>
+	<string id="escape_shustryi_story_5">
+		<text>Kontroler je ležao na zemlji, tlo je bilo natopljeno njegovom krvlju, ubrzo je umro... Nakon što su se stvari smirile, pas se vratio do svog najboljeg prijatelja koji je ležao mrtav na šumskom tlu. Vreme je prolazilo ali pas je i dalje ostao, tužno zavijajući za svojim prijateljem, čak ni kiša nije mogla utišati njegov plač. Prolazile su sedmice i sedmice, a pas je i dalje zavijao, da bi se na kraju sve utišalo. Neki ljudi koji su se odvažili proći kroz šumu, tvrde da su pronašli kostur Kontrolera i šteneta. Umrli su zajedno, nerazdvojni do kraja.</text>
+	</string>
+	<string id="escape_shustryi_story_6">
+		<text>To je jedna od najčudnijih priča koje sam ikada čuo...</text>
+	</string>
+	<string id="escape_fox_story_0">
+		<text>Hej Lisac, ispričaj mi kakvu priču...</text>
+	</string>
+	<string id="escape_fox_story_1">
+		<text>Ok, imao sam ti ja dosta avantura... Bilo je to pre večere, i samo sam bio prošao Vojni punkt. Znaš, stvarno su postali bezobrazni ovih dana. Puste nas da prođemo ali za to uzimaju velike pare. Imao sam nešto plena sa sobom i nisam želeo nikakvu svađu, pa sam im platio. Ali sam ogladnio, i to toliko ogladnio da nisam mogao ni dočekati da dođem do Kampa Početnika, pa sa seo ispod jednog drveta i počeo vaditi hranu iz ranca. Neću lagati, bilo je tu i neke votke... I tako, stavljam sve te stvari na komad novina, razgledam okolo - ptice lete, sunce sija, divota... Čim sam otvorio konzervu sa mesom, primetio sam neke Početnike na oko 300 metara dalje. Ostavio sam konzervu, zgrabio sačmaricu i odlučio da im se malo približim. Činilo se kao da dolaze iz Deponije. A to su mogli samo ako su pronašli rupu u ogradi... Izvadio sam dvogled, jer sam pomislio da bi to mogao biti jedan od naših momaka. Ali ne, to bili oni prokleti lešinari, Banditi. A onda sam pomislio: Prokletstvo! Oni idu prema selu! A još se brzo smračivalo... Shvatio sam da su hteli da dođu neprimećeni. A sve što sam ja imao je sačmarica. Nisam mogao stići do sela nikako pre njih. Pomislio sam: Došao je moj red da umrem. Ali bar će ovo biti prava stalkerska smrt.</text>
+	</string>
+	<string id="escape_fox_story_2">
+		<text>Šta se onda desilo?</text>
+	</string>
+	<string id="escape_fox_story_3">
+		<text>Pa, setio sam se da imam bombu u rancu! Iako ne volim te stvari - izvadio sam je i shvatio da može malo poboljšati izglede u moju korist. Stajao sam tu sa ničim drugim i svesnošći ozbiljnosti situacije... I tako, izvadio sam bombu, ranac bacio na travu, i počeo polako trčati prema Banditima. Bili su mi okrenuti leđima a ja sam nosio neke stare, pohabane tenisice, tako da me nisu čuli. Krijući se iza drveća i grmlja, približio sam im se na gotovo desetak metara. Čuo sam ih kako razgovaraju. Bili su jako glupi, krećući se u velikoj grupi... Pa, pomislih, nećete dugo živeti. Bacio sam bombu tačno u sredinu grupe! Verovao ili ne, sredio sam petoricu njih sa bombom, samo su dvojica još ostala. Jedan je pucao na mene sa svojom sačmaricom, ali je bio dezorijentisan i pogodio svog prijatelja umesto mene. Nisam mu dao da se samo tako izvuče. Dok je ponovo punio svoju sačmaricu, sredio sam ga nožem. Nisam indijanac ali znam baciti nož sa dva metra... Ne veruješ mi, zar ne? Ako želiš da se uveriš, pođi samnom. Ako pogodim ono drvo tamo - dođeš mi flašu votke. Da, moj druže, taktika je velika stvar. Zamisli mene kako jurišam na njih samo sa sačmaricom i bombom.</text>
+	</string>
+	<string id="escape_fox_story_4">
+		<text>Da, bombe su jako korisne stvarčice.</text>
+	</string>
+	<string id="escape_lager_volk_story_0">
+		<text>Stvarno je dosadno ovde u Kordonu, imaš li neku dobru priču za ispričati?</text>
+	</string>
+	<string id="escape_lager_volk_story_1">
+		<text>Znam nekoliko dobrih priča... Jednom sam bio kod Sidoroviča, i on mi je rekao da neki strani turist dolazi da vidi i fotografiše Zonu... Kaže da bih ja trebao organizovati njegov izlet u Zonu, pokazati mu neke anomalije, znaš, sve te atrakcije. Tada mi je novac stvarno trebao, ostao sam bez municije za svoj AK, sačmarica se gotovo raspala, jedino sam imao pištolj sa par ćoraka u sanžeru... Pa sam pristao da ga odvedem u tu šetnju. Ne nigde daleko, naravno, samo oko sela. I tako, tip se pojavio, sa sunčanim naočalama i kamerom. Špreha engleski i smeje se ko neko kopile. Došao na prokleti safari. Mahnuo sam mu da me prati. Nismo išli daleko - naši momci su samo očistili područje do mlina.</text>
+	</string>
+	<string id="escape_lager_volk_story_2">
+		<text>Da, šta se onda desilo?</text>
+	</string>
+	<string id="escape_lager_volk_story_3">
+		<text>Pa, došli smo do malog hangara, znaš, tamo gde je poginuo Feđa Konstruktor? Budi tih, rekao sam tom momku, idemo da vidimo neke zombije. video sam da se u trenutku promenio, oči izbekačio i izvukao veliki magnum iz ranca. Oh, sranje, pomislih. Ma skloni taj pištolj, rekoh mu, i samo me prati. Bilo je mračno, gotovo ništa se nije videlo... Voda je negde kapala u daljini tako da stvarala još neki jeziviji zvuk, nisam se ničeg bojao, kao što ćeš videti na kraju. Turista je drhtao, gotovo se usrao od straha. Iznenada, zombi se pojavi iz mraka i počeo hodati prema nama. Stranac je strugnuo i pre nego što sam mu reako da trči. I ja i zombi nismo mogli se suzdržati od smeha! Petrovič, to jest zombi, na smrt je preplašio mladog turistu... Trebalo je da još malo idemo napred pa da mu viknem "pazi" i da onda opalim par ćoraka u zombija radi realizma... Ali nismo bili dovoljno brzi, jer je turista doslovno odleteo! Izgleda čim je čuo reč "zombi" da se usrao a još kada je čuo mumljanje Petroviča, to mu je bilo previše. Bilo ga je presmešno gledati kako trči od nas i mahnito vrišti mašući rukama... Eee, tada smo poprilično zaradili, hehe.</text>
+	</string>
+	<string id="escape_lager_volk_story_4">
+		<text>Haha, baš ste ludi!</text>
+	</string>
+	<string id="escape_lager_fanat_story_0">
+		<text>Hej, da se nije šta interesantno desilo nedavno?</text>
+	</string>
+	<string id="escape_lager_fanat_story_1">
+		<text>Slušaj ovo: idem ti ja kroz Deponiju, sve je mirno i tiho, kad primetih neku čudnu udubinu u tlu, ličila je na Trampolinu. Bacio sam jedan šaraf unutra i ostao šokiran! Prošao je kroz nju bez ikakvih problema! Pomislio sam da se mozak igra samnom, da sam previše popio.</text>
+	</string>
+	<string id="escape_lager_fanat_story_2">
+		<text>Pa da, sigurno popio previše...</text>
+	</string>
+	<string id="escape_lager_fanat_story_3">
+		<text>Ma nisam, ne pričaj gluposti! Izgledalo je baš kao ona, trebao bi znati o čemu pričam, izgledala je kao Trampolina! Zemljište je bilo lakše, malo više stisnuto na vrhu i još neki kame gurnut u njega. I vetar je puhao prema njoj.</text>
+	</string>
+	<string id="escape_lager_fanat_story_4">
+		<text>Pa možda je i bilo nešto skakutavo...</text>
+	</string>
+	<string id="escape_lager_fanat_story_5">
+		<text>Dakle, seo sam, uzeo neki kamenčić i bacio pravo na tu Trampolinu.</text>
+	</string>
+	<string id="escape_lager_fanat_story_6">
+		<text>I ona ga je pretvorila u prah?</text>
+	</string>
+	<string id="escape_lager_fanat_story_7">
+		<text>To sam se i nadao da ću videti. Ali ne, kamenčić je samo pao na tlo kao da tu nema nikakvih anomalija. Pao i to je to. To me još više kopkalo da sam se počeo znojiti. I šaraf i kamnčić su trebali biti uništeni! Uglavnom, tiho i čučeći sam došao blizu ruba Trampoline, polako bacajući kamenčiće u nju da vidim hoće li se šta desiti.</text>
+	</string>
+	<string id="escape_lager_fanat_story_8">
+		<text>Hajde čoveče, pređi na stvar već jednom!</text>
+	</string>
+	<string id="escape_lager_fanat_story_9">
+		<text>Dakle, došao sam do nje. Oznojio sam se kao miš u kombinezonu, misleći da će me povući za noge i na smrt zdrobiti... Ali kamenje koje sam bacao je i dalje bilou sredini te Trampoline. A glas u glavi mi je urlao da se što pre gonim odatle! Ali opet nisam... Morao sam saznati šta se dešava.</text>
+	</string>
+	<string id="escape_lager_fanat_story_10">
+		<text>Daj se uozbilji... Pa da si prišao bliže, sada ne bi ovde stajao.</text>
+	</string>
+	<string id="escape_lager_fanat_story_11">
+		<text>Ali jesam. Uglavnom, stavio sam pištolj u krilo i dohvatio jedan od kamenčića u toj Trampolini! Izvadio sam ga i pogledao. Bio je kao obični kamenčić.</text>
+	</string>
+	<string id="escape_lager_fanat_story_12">
+		<text>Ne verujem ti. Reci mi šta se zaista dogodilo.</text>
+	</string>
+	<string id="escape_lager_fanat_story_13">
+		<text>Pa na moje iznenađenje, bačen sam oko 5 metara od Trampoline. Nisam trebao dirati to kamenje. Prokleta Trampolina se aktivirala. Dok sam leteo vazduhom video sam, da se sve ono kamenje pretvorilo u prah. Kada sam pao na zemlju izgubio sam svest.</text>
+	</string>
+	<string id="escape_lager_fanat_story_14">
+		<text>Ma daj! To si ti previše popio.</text>
+	</string>
+	<string id="escape_lager_fanat_story_15">
+		<text>Ma nisam, kad ti kažem! Evo pogledaj ovaj kamen, vidiš!</text>
+	</string>
+	<string id="escape_lager_fanat_story_16">
+		<text>Baš čudno, za nepoverovati... Kažem ti, tvoja radoznalost će ti jednom doći glave.</text>
+	</string>
+	<string id="escape_lager_fanat_story2_0">
+		<text>Šta misliš o Zoni?</text>
+	</string>
+	<string id="escape_lager_fanat_story2_1">
+		<text>Imam jednu teoriju... Nije baš teorija, više ideja... Šta ako je sve ovo - sve u Zoni, samo neki čudni eksperiment na ljudima? Možda su neki sivi sišli sa svojim NLO i stvorili je... Šta je? Ova teorija nije ništa gora od ostalih... Interesantno je: ako ovo i jeste eksperiment, na čemu eksperimentiraju? Možda , na primer, koji nam se više artefakti sviđaju? Možda su svi ti artefakti bombe ili jaja vanzemaljaca. A mi ih širimo po celom svetu, po svim tim laboratorijama, bogatim ljudima koji ih kupuju... Razmisli o tome... Sviđa mi se ta ideja! Zamisli kažu: Hej kupio sam neku kul stvar iz mesta kojeg zovu Zona, platio sam hrpu para za tu stvar. Misle da su veće face od svih ostalih! A onda im jednog dana samo eksplodira u lice! Ha-ha... Ali da se uozbiljimo, vrag zna šta su stvarno ti artefakti... Samo oni koji su prošli Radar, mogu znati nešto. Možda i znaju ali nisu tako pričljivi, jel' tako? Samo mumljaju i stenju. Možda je to zato... Uh, nevažno... To uopšte nije smešno...</text>
+	</string>
+	<string id="escape_lager_fanat_story2_2">
+		<text>Da, to je baš tužno. Ajde, burazeru, da mi koju popijemo.</text>
+	</string>
+	<string id="escape_lager_fanat_story2_3">
+		<text>Super ideja... Inače mi se puno ovih čudnih misli mota po glavi...</text>
+	</string>
+	<string id="escape_trader_story_0">
+		<text>Zašto nema stranaca u Zoni?</text>
+	</string>
+	<string id="escape_trader_story_1">
+		<text>Ok, odgovoriću na tvoje pitanje. Prvo, zašto bi oni sami dolazili ovamo, kada za potporu koju daju našim naučnicima, sve rezultate dobiju na ruke u sigurnosti svojih kuća? Drugo, jedno vreme ovde je bilo puno stranaca. Samo u zadnje dve godine, nešto se boje dolaziti ovamo... Ovde su doživeli velike neuspehe. Sada sve što rade jeste da kupuju informacije i materijale. Plaćaju pristojne sume novca, pa tako mnogo stalkera radi za njih...pa i oni prokleti Banditi... Stvarno nisi čuo za tu priču?</text>
+	</string>
+	<string id="escape_trader_story_2">
+		<text>Koju priču?</text>
+	</string>
+	<string id="escape_trader_story_3">
+		<text>Stvarno si neverovatan, Obeleženi! Cela Zona zna tu priču na pamet... Ti kao da si ispuzao ispod nekoga kamena... Oh, zaboravio sam, tvoja amnezija, oprosti. Sve u svemu bio je to veliki aranžman. Samih naučnika je bilo preko 30, iz celog sveta, najbolji od najboljih... Svi su prošli kroz ozbiljne pripreme: imali su hrpu opreme i plaćali sve kao da sutra ne postoji. Uzeli su čitav odred Vojske za zaštitu i tri naša vodiča, sve to strpali u oklopljeni BTR i krenuli. Sedmicu dana kasnije, pronašli smo dvanaestak ljudi u potpuno razbijenom BTR-u. Pojavili su se kod ograde oko Crvene Šume i upali tačno u naručje odbora za dobrodošlicu - Bandita. Te ljude boli guzica kroz šta ljudi prolaze... Gotovo sve su pobili. Samo trojica su uspela da se nekako probiju iz okruženja, dvojica naših i jedan jajoglavi. Tom jajoglavom su popustali šarafi u glavi, pa su ga odmah stavili na lečnički tretman. Sada piše knjigu o Zoni. Naši dečki su prošli bolje, iskustvo se ipak isplatilo. Iako su podelili danak: jedan je otišao opet prema Radaru i više nikada nije viđen, a drugi se preselio u Velike zemlje. Ostale je progutala Zona.</text>
+	</string>
+	<string id="escape_trader_story_4">
+		<text>To je bila ekspedicija...</text>
+	</string>
+	<string id="escape_trader_story_5">
+		<text>Da, bio je to potpuni fijasko. Jesi čuo za Mrtvi Grad? E tu su svi nestali. U početku je sve bilo u redu, radili su neka istraživanja tamo, ispitivali anomalije i tako te stvari. Ali nešto se počelo čudno dešavati, ljudi su počeli polako luditi. Jedan naš momak, koji je bio na odmaranju mi je svašta ispričao... Neki od tih ljudi su počeli da grebu svoje vratove vlastitim noktima, drugi su razbijali glave od zidove, neki su izabrali lakši put i stavili cev u usta, i kao da sve to nije bilo dovoljno - počeli su ih mutanti napadati. Neki od njih su bili još prisebni pa su se zaključali po sobama. Možeš li zamisliti? Vani mrkli mrak i sva ta stvorenja jure uokolo sa ljudima koji su poludeli. Ujutro, oni koji nisu skroz poludeli su se nekako počeli probijati. Put nazad je bio pretežak, čak nisu ni cestu pratili, uletili su u nekoliko anomalija i izbili u Crvenu Šumu. Oni koji su tamo ostali nikada nisu pronađeni. Neki pričaju da se broj kontrolera povećao u tom području. Od tada niko ne ide u Grad-32. Ako se zadesiš u Jantaru, pitaj Saharova o tome, on je bio blisko povezan sa tom ekspedicijom.</text>
+	</string>
+	<string id="escape_fox_story2_0">
+		<text>Šta ti se desilo? Kakva su ovo stvorenja što si poubijao?</text>
+	</string>
+	<string id="escape_fox_story2_1">
+		<text>Mutanti... Slepi psi, samo one bele beštije... Čudne zveri, pucam u njih a oni kao da ih to nije ni briga... Izgleda da ne osećaju bol. Išao sam iz Deponije, nakon razgovora sa svojim bratom Sivim, kada su me počeli pratiti od šume. Hodao sam šumom po mrklom mraku, nisam mogao videti ništa od drveća. Odjednom nešto belo iskoči iz grma i ugrize me za stomak... Nisam čak ni osetio bol, pa sam ga upucao u glavu, a ostale sam nekako navukao u Trampolinu, trčao sam ovamo, upucao ih još nekoliko... Onda sam video veliku lokvu krvi na zemlji... kada sam se sagnuo, komad pancira je otpao i rana je počela krvariti... Imaju predobre zube... Čuo sam da himera ima oštre, ali njihovi zubi su još oštriji i još skaču ko ludi... Ne mogu ti dovoljno zahvaliti što si mi pomogao, bez tebe bih bio mrtav, stvarno ti dugujem!</text>
+	</string>
+	<string id="escape_fox_story2_2">
+		<text>Ma nema problema, Lisac, drago mi je da sam mogao pomoći...</text>
+	</string>
+	<string id="escape_lager_volk_story2_0">
+		<text>Šta je sa ovim mutantima ovde?</text>
+	</string>
+	<string id="escape_lager_volk_story2_1">
+		<text>Tu su uglavnom psi, ali u blizini ima i divljih veprova, zato budi oprezan. Ako vidiš samo jednog, ne boj se, samo malo se pomakni u stranu dok puniš, uopšte nije teško, onda se okreni i upucaj ga. Jedan vepar manje na svetu. Ali ako ih je više, ova taktika možda i ne upali. Eto, upozorio sam te...</text>
+	</string>
+	<string id="escape_lager_volk_story2_2">
+		<text>Hvala na savetu.</text>
+	</string>
+	<string id="escape_shustryi_story2_0">
+		<text>Šta ti se desilo jakni?</text>
+	</string>
+	<string id="escape_shustryi_story2_1">
+		<text>Želiš znati šta se desilo? Nakon što sam kupio jaknu, shvatio sam da sam ostao bez para, i odlučio da idem da pronađem nešto plena. Ima dosta mesta da zaradiš nešto para u Deponiji. Bez posebne zaštite brzo ćeš biti mrtav, a ja nikada nisam imao takvu zaštitu, pa je moj mali izlet skroz podbacio. Imao sam samo običnu jaknu, a i ona je bila puna rupa. Gde bi neko obično početnik mogao nabaviti neku dobru zaštitu? Punjava u Deponiji se još čula, vodio se neki žestoki obračun. Stalkeri su branili svoj kamp od Bandita. Tako da sam se našao imeđu dve vatre: radijacije i Bandita. Zato sam izabrao manje od ta dva zla. Očigledno, izabrao sam Bandite, teško naoružane, krvožedne i lakome za svakim plenom. Imao sam priliku da ih zaobiđem, ali samo kroz radijaciju, protiv koje nisam imao šanse. Trebao si videti gde sam bio! Krio sam se iza jednog drveta a jedan skupi artefakt bio je samo na dva koraka od mene, ali da sam samo koracio jedan korak do njega, bio bih mrtav na licu mesta, garantujem ti! I tako sam samo sedeo pod tim drvetom, slušajući pucnjavu i zvukove Zone. Morao sam nekako smisliti kako da se izvučem odavde živ i relativno neozleđen. Moj ranac je bio mršav i prazan kao krvopijina žrtva. Samo pola flaše votke i dve štruce hleba. Nisam imao ni municije pa sam u besu bacio pištolj u anomaliju. Ispario je za manje od sekunde. Nakon toga sam dugo sedeo i razmišljao. Više od jednog sata. Banditi me nisu mogli videti dok sam tiho sedeo i razmišljao. Onda sam uzeo flašu votke i komad hleba. Dok sa popio gutljaj, osetio sam jaku gorčinu u ustima, pa sam uzeo veliki zalagaj hleba. Tako sam satrao celu flašu. Odjednom sam osetio jaku glavobolju i pred očima mi se zamaglilo. Ustao sam i počeo trčati po sredini ceste kao neka budala, mašući rukama i teturajući.</text>
+	</string>
+	<string id="escape_shustryi_story2_2">
+		<text>Pa jesi li normalan!? Ili se samo želiš ubiti!?</text>
+	</string>
+	<string id="escape_shustryi_story2_3">
+		<text>Bilo je tako čudno... Nikako se nisam mogao kontrolisati. Iznenada me nešto nateralo da trčim prema vratima koja su vodila u štalu, gde su se borili Banditi i Stalkeri. Trčao sam i nešto vikao, nikako se ne mogu setiti šta. U isto vreme sam cupkao, kao neko malo dete. Pet Bandita sa sačmaricama su stali i samo buljili u mene. I ja sam stao, čak ih nisam sviju ni primetio, onda sam svakog od njih pogledao sa rukama podignutim u vazduh. Sa pet pušaka uperenih u mene brzo sam došao sebi. Kada se nisam usrao. Onda me neko s leđa udario sa sačmaricom, pa sam pao na zemlju, još pri svesti. Onda sam dobio još jedan udarac. Bio sam jako iznenađen kada sam se živ probudio u blizini kampa. Ali ta kopilad su uzela moju jaknu a zauzvrat dali jaki glavobolju. Ali bio sam živ! Bio sam jako srećan zbog toga. Bez razmišljanja sam krenuo prema kampu. Ljudi su se šokirali kada su me videli - bio sam živi i gotovo nepovređen od Bandita. Od tada ne idem u duge i opasne ekspedicije, samo hodam oko kampa, ubijam pse tako da zarađujem nešto novca. Kažem ti, ne idi u Deponiju samo ako ne moraš, to je vrlo opasno i smrtonosno mesto. Žao mi je što sam ostao bez jakne, bila je nova...</text>
+	</string>
+	<string id="escape_shustryi_story2_4">
+		<text>Brzi, to će te naučiti da ne piješ puno votke... Zapamti šta ti kažem, jednog dana će ti doneti smrt a i Banditi možda neće biti tako milostivi sledeći put.</text>
+	</string>
+	<string id="escape_shustryi_story2_5">
+		<text>Da, da... Sada zvučiš kao moja bivša žena!!!</text>
+	</string>
+	<string id="escape_kostya_taynik1_0">
+		<text>Ne sećam se da sam te ranije video ovde...</text>
+	</string>
+	<string id="escape_kostya_taynik1_1">
+		<text>Moje ime je Kostja... A ko si ti?!</text>
+	</string>
+	<string id="escape_kostya_taynik1_2">
+		<text>Mene zovu Obeleženi, na račun ove tetovaže na ruci... Ustvari, još ne znam ko sam zapravo... Pronađen sam... Bila je jedna... Mm... Nesreća... Još pokušavam da sve sastavim...</text>
+	</string>
+	<string id="escape_kostya_taynik1_3">
+		<text>Dobro onda... Obeleženi... Kakav je život u Zoni?</text>
+	</string>
+	<string id="escape_kostya_taynik1_4">
+		<text>Nije baš dobar, da budem iskren...</text>
+	</string>
+	<string id="escape_kostya_taynik1_5">
+		<text>Zašto nije?!</text>
+	</string>
+	<string id="escape_kostya_taynik1_6">
+		<text>Počeo sam raditi za Sidoroviča... Nije da sam imao puno izbora... Šalje me na neke samoubilačke misije samo sa Makarovim u ruci... Stvar jedva hoće da opali!!!</text>
+	</string>
+	<string id="escape_kostya_taynik1_7">
+		<text>To i zvuči kao Sidorovič... On voli da iskoristi priliku kada god može... Pa, šta se desilo?!</text>
+	</string>
+	<string id="escape_kostya_taynik1_8">
+		<text>Uspeo sam srediti jednu grupu Bandita kod stare fabrike... Stvarno na sreću... Stvarno treba da se nekako dočepam bolje opreme... I to ubrzo!!!</text>
+	</string>
+	<string id="escape_kostya_taynik1_9">
+		<text>Nemoj dopustiti da te Sid pravi budalom... Nije on jedini ovde koji daje posao ljudima poput tebe!! Ja imam neke informacije o skrivenom šteku Bandita. Ako se slažeš da ga pronađeš za mene, ubaciću te u podelu tog plena!! Samo ga prvo donesi do mene, i onda ćemo ga podeliti... Kako ti to zvuči!?</text>
+	</string>
+	<string id="escape_kostya_taynik1_10">
+		<text>Zvuči dobro, gde da ga potražim?!</text>
+	</string>
+	<string id="escape_kostya_taynik1_11">
+		<text>Poslaću ti tekstualnu poruku preko tvog PDA... Moram se naći sa nekim ljudima u Deponiji. Ako me budeš trebao, tamo ću biti neko vreme...</text>
+	</string>
+	<string id="escape_kostya_taynik1_12">
+		<text>U redu... Hvala!!</text>
+	</string>
+	<string id="escape_trader_sidor_0">
+		<text>Hoćeš da ti otkinema glavu sada ili da sačekam malo!?</text>
+	</string>
+	<string id="escape_trader_sidor_1">
+		<text>Ma šta pričaš to, do đavola? Šta se desilo!?</text>
+	</string>
+	<string id="escape_trader_sidor_2">
+		<text>Poslao si me da nađem Brzog samo sa rasturenim Makarovim!!</text>
+	</string>
+	<string id="escape_trader_sidor_3">
+		<text>Slušaj, Obeleženi... Slušaj me dobro!! Ovde nema lakih poslova!! Ovde si došao samo sa nekom krpom preko leđa, a ja sam ti ponudio plaćen posao... To je više nego što sam uopšte trebao uraditi... Možda bi se hteo vratiti u Kamione Smrti gde te Astrologi pronašao?! To lako možemo srediti, znaš... Zato se ne zajebavaj samnom... U redu?!</text>
+	</string>
+	<string id="escape_trader_sidor_4">
+		<text>Cenim šta si uradio... Ali, možeš li mi bar dati PRAVI pištolj?!</text>
+	</string>
+	<string id="escape_trader_sidor_5">
+		<text>Šta fali Makarovu?! To je lepo oružje... Da naučiš pucati pravo, stvari bi ti bile puno lakše... Haha!! Onda, želiš li ga ili ne!</text>
+	</string>
+	<string id="escape_trader_sidor_6">
+		<text>Na smeću mogu naći bolje oružje nego ovo što si mi dao!!</text>
+	</string>
+	<string id="escape_trader_sidor_7">
+		<text>Takav stav će te ubiti, Obeleženi!! Drži municiju i gubi se odavde!!</text>
+	</string>
+	<string id="escape_trader_sidor_8">
+		<text>Ma poljubi me u guzicu Sidoroviču... Bilo mi je zadovoljstvo poslovati s tobom!!</text>
+	</string>
+	<string id="kostya_taynik_0">
+		<text>Pronašao sam tvoj štek...</text>
+	</string>
+	<string id="kostya_taynik_1">
+		<text>Odličan posao... Jesi našao nešto interesantno u njemu?!</text>
+	</string>
+	<string id="kostya_taynik_2">
+		<text>Neku pristojnu opremu... I jedan pohaban PDA. Nisam mogao ništa pročitati iz njega, traži lozinku... Uzmi ga, meni ne koristi...</text>
+	</string>
+	<string id="kostya_taynik_3">
+		<text>Daj ga ovamo... On je deo šteka koji sam tražio!!!</text>
+	</string>
+	<string id="kostya_taynik_4">
+		<text>Hvala ti na savetu za štek...</text>
+	</string>
+	<string id="kostya_taynik_5">
+		<text>Ma nema problema... Drago mi je što si ga uspeo pronaći!!</text>
+	</string>
+	<string id="kostya_taynik_6">
+		<text>I meni... Pristojan plen!!</text>
+	</string>
+	<string id="kostya_taynik_7">
+		<text>Imam još jedan posao ako si zainteresiran... Trebaš pronaći posebni artefakt Zlatna Riba.</text>
+	</string>
+	<string id="kostya_taynik_8">
+		<text>Naravno da sam zainteresiran... Ali nemam pojma odakle da ga počnem tražiti...</text>
+	</string>
+	<string id="kostya_taynik_9">
+		<text>On je u Kordonu, u napuštenoj fabrici. Trenutno nemam vremena da odem po njega... Možeš li mi ga ti doneti?!</text>
+	</string>
+	<string id="kostya_taynik_10">
+		<text>Naravno, Kostja...</text>
+	</string>
+	<string id="kostya_taynik_11">
+		<text>Evo Zlatna Riba koju si tražio...</text>
+	</string>
+	<string id="kostya_taynik_12">
+		<text>Odlično. Hvala ti!!</text>
+	</string>
+	<string id="kostya_svalka_taynik_0">
+		<text>Onda, jesi li uspeo dekodirati onaj PDA!?</text>
+	</string>
+	<string id="kostya_svalka_taynik_1">
+		<text>Nisam još. Moram otići do bara 100 Rendgena... Možda tamo nađem nekog da mi pomogne... Imam još jedan poslić, ako ga želiš...</text>
+	</string>
+	<string id="kostya_svalka_taynik_2">
+		<text>Apslolutno...</text>
+	</string>
+	<string id="kostya_svalka_taynik_3">
+		<text>Kažu da ima jedan štek negde u Deponiji... Ne smeta ti valjda malo radijacije?!</text>
+	</string>
+	<string id="kostya_svalka_taynik_4">
+		<text>Malo radijacije me ne plaši...</text>
+	</string>
+	<string id="kostya_svalka_taynik_5">
+		<text>Poslaću ti podatke na tvoj PDA... Kada budeš imao vremena pogledaj...</text>
+	</string>
+	<string id="kostya_svalka_taynik_6">
+		<text>Doneću sve što pronađem...</text>
+	</string>
+	<string id="kostya_svalka_taynik_7">
+		<text>Zato te i plaćam...</text>
+	</string>
+	<string id="kostya_svalka_taynik_8">
+		<text>Vidimo se...</text>
+	</string>
+	<string id="kostya_svalka_taynik_9">
+		<text>Zdravo Kostja!!</text>
+	</string>
+	<string id="kostya_svalka_taynik_10">
+		<text>Zdavo, Obeleženi! Jesi uspeo pronaći štek u Deponiji!?</text>
+	</string>
+	<string id="kostya_svalka_taynik_11">
+		<text>Pronašao sam vrlo interesantan ranac... Vidi ovo!!</text>
+	</string>
+	<string id="kostya_svalka_taynik_12">
+		<text>Ovo je interesantno, još jedan kodiran PDA... Malo ću eksperimentisati s njim i videti šta mogu pronaći... Navrati uskoro!!</text>
+	</string>
+	<string id="kostya_svalka_taynik_13">
+		<text>Vidimo se onda uskoro... Doviđenja...</text>
+	</string>
+	<string id="kostya_barmen_0">
+		<text>Jel' me neko tražio?!</text>
+	</string>
+	<string id="kostya_barmen_1">
+		<text>Kostja te tražio... Kaže da mora razgovarati s tobom...</text>
+	</string>
+	<string id="kostya_barmen_2">
+		<text>Hvala, potražiću ga...</text>
+	</string>
+	<string id="kostya_bar_taynik_0">
+		<text>Barmen mi reče da me tražiš...</text>
+	</string>
+	<string id="kostya_bar_taynik_1">
+		<text>Trebalo mi je vremena, ali uspeo sam dekodirati ona dva PDA.</text>
+	</string>
+	<string id="kostya_bar_taynik_2">
+		<text>Šta si saznao?!</text>
+	</string>
+	<string id="kostya_bar_taynik_3">
+		<text>Prvi PDA, onaj koji je pripadao Banditima, nije imao ništa interesantno. Samo neke informacije o šteku u deponiji... Onom koji si već pronašao... Drugi PDA je puno interesantniji. Sadrži informacije o grupi naučnika koji su izradili i testirali novi uređaj. Taj, uređaj, sudeći po opisu, je neverovatni proboj u transportnoj tehnologiji. Očigledno, ovaj uređaj omogućuje korisniku teleportaciju do bilo koje tačke u Zoni. Po informacijama iz ovog PDA, prototip ovog uređaja se nalazi u laboratoriju koji je smešten negde u blizini Radara. Ali doći do njega nije lak zadatak!! Prvo, tu je Spaljivač Mozgova. Drugo: šifra kojom su zaključana vrata iza kojih je uređaj, je podeljena na nekoliko odvojenih delova, koji su rabacani po različitim mestima. Kako bi dobili šifru, odnosno kod, potrebno je pronaći sve njene komponente. Piše da je ukupno pet komponenti koje se nalaze na pet različitih lokacija u Zoni... Jesi li uopšte zainteresoran da mi pomogneš da pronađemo sve ove štekove?!</text>
+	</string>
+	<string id="kostya_bar_taynik_4">
+		<text>Naravno da jesam!! Ako takav uređaj uopšte postoji, mora doći u naše ruke!!</text>
+	</string>
+	<string id="kostya_bar_taynik_5">
+		<text>Onda slušaj, kao što sam ti već rekao, postoji pet različitih mesta gde su skriveni. U svakoj lokaciji nalazi se deo "koda". Vrlo je važno da pronađeš svih pet delova "koda"!! Tačne koordinate nisu dostupne, ali ti mogu dati približnu lokaciju gde da tražiš. Prva lokacija: Mračna Dolina... U laboratoriju X-18. Tamo potraži!! Kada ga pronađeš, vrati se do mene što je pre moguće!!</text>
+	</string>
+	<string id="kostya_bar_taynik_6">
+		<text>Ovo uopšte neće biti lako, čak ne znam ni odakle da počnem tražiti u laboratoriju...</text>
+	</string>
+	<string id="kostya_bar_taynik_7">
+		<text>Uređaj je neprocenjiv... Jednostavno ga moramo pronaći!!</text>
+	</string>
+	<string id="kostya_bar_taynik_8">
+		<text>Pronašao sam prvi štek... Evo PDA...</text>
+	</string>
+	<string id="kostya_bar_taynik_9">
+		<text>Ma odlično!! Sledeći štek je negde u Agropromu... Idi tamo... Pažljivo traži!!</text>
+	</string>
+	<string id="kostya_bar_taynik_10">
+		<text>Daću sve od sebe!!</text>
+	</string>
+	<string id="kostya_agroprom_taynik_0">
+		<text>Pronašao sam štek u Agropromu... Nije bilo lako!!!</text>
+	</string>
+	<string id="kostya_agroprom_taynik_1">
+		<text>Vjerujem. Znaš kako kažu: sve što vredi, ne dolazi lako!!</text>
+	</string>
+	<string id="kostya_agroprom_taynik_2">
+		<text>Gde da potražim sledeći deo "koda"?</text>
+	</string>
+	<string id="kostya_agroprom_taynik_3">
+		<text>Sledeći štek je u Jantaru. Navodno se nalazi negde u fabrici...</text>
+	</string>
+	<string id="kostya_agroprom_taynik_4">
+		<text>Da li kaže gde u fabrici!?</text>
+	</string>
+	<string id="kostya_agroprom_taynik_5">
+		<text>Žao mi je, ali ne kaže!!</text>
+	</string>
+	<string id="kostya_agroprom_taynik_6">
+		<text>Videću šta mogu da uradim... Evo ti PDA iz Agroproma...</text>
+	</string>
+	<string id="kostya_yantar_taynik_0">
+		<text>Pronašao sam ga!!</text>
+	</string>
+	<string id="kostya_yantar_taynik_1">
+		<text>Postao si prilično vešt lovac na blago, Obeleženi!!</text>
+	</string>
+	<string id="kostya_yantar_taynik_2">
+		<text>Sledeća stanica... Hram Prokletih!! Haha!</text>
+	</string>
+	<string id="kostya_yantar_taynik_3">
+		<text>Pa, sve je moguće. Sledeći deo slagalice se nalazi u Vojnim Skladištima..</text>
+	</string>
+	<string id="kostya_yantar_taynik_4">
+		<text>Ovo ne postaje ništa lakše, jel' tako?! Evo, uzmi PDA iz Jantara.</text>
+	</string>
+	<string id="kostya_as_taynik_0">
+		<text>Pronašao sam deo "koda" u Vojnim Skladištima!</text>
+	</string>
+	<string id="kostya_as_taynik_1">
+		<text>Još samo malo i gotovo!! Jednom kada nađemo zadnji štek, imaćemo sve komponente "koda"... Zadnji deo se nalazi u samom Radaru!!</text>
+	</string>
+	<string id="kostya_as_taynik_2">
+		<text>U usranom Radru?! Molim te, reci mi da se šališ!!</text>
+	</string>
+	<string id="kostya_as_taynik_3">
+		<text>Smiri se burazeru! Ovo je posledni deo "koda"... Nemoj sada da mi odustaneš!!</text>
+	</string>
+	<string id="kostya_as_taynik_4">
+		<text>Ne odustajem, samo mi već piči po živcima stalno jurcanje tamo-vamo... Evo ti PDA iz Skladišta...</text>
+	</string>
+	<string id="kostya_radar_taynik_0">
+		<text>Izvoli, Kostja. Poslednji deo slagalice je pronađen!!!</text>
+	</string>
+	<string id="kostya_radar_taynik_1">
+		<text>Odličan posao! Sada imamo sve komponente koji čine "kod"... Ali...</text>
+	</string>
+	<string id="kostya_radar_taynik_2">
+		<text>Šta misliš s tim "Ali"!?...</text>
+	</string>
+	<string id="kostya_radar_taynik_3">
+		<text>Ovo su delovi koda, ali uopšte nemam ideju koji je pravo kod... Nadao sam se da će biti u zadnjem PDA, ali nije... Samo ukazuje da odgovor može biti pronađen unutar laboratorije. Zato tamo moraš ići... Evo ti brojevi koje sam dešifrirao iz svih PDA-ova koje si mi doneo: 9, 7, 2, 54, 61.. Usput, pošto je sada isključen Spaljivač Mozgova, rečeno mi je da krvopije besne po celom Radaru... Zato budi posebno oprezan. Verujem da dolaze iz samog laboratorija!! Zato pre nego se tamo zaputiš, obnovi zalihe bombi i municije...</text>
+	</string>
+	<string id="kostya_radar_taynik_4">
+		<text>Hvala na upozorenju... Pretpostavljam da se moram pripremiti na najgore!!</text>
+	</string>
+	<string id="kostya_radar_taynik_5">
+		<text>Srećno, moj dragi prijatelju!!</text>
+	</string>
+	<string id="kostya_x10_taynik_0">
+		<text>Uspeo sam sastaviti "kod" i otvoriti vrata!!</text>
+	</string>
+	<string id="kostya_x10_taynik_1">
+		<text>Znao sam da si pravi čovek za ovaj posao!! Jesi li pronašao šta!!? Ajde čoveče... Ispljuni već jednom!!</text>
+	</string>
+	<string id="kostya_x10_taynik_2">
+		<text>Naravno da jesam!! Informacija je bila tačna!! To je prototip ručnog teleportera i lepo radi, i sve je ok osim... Osim jednog malog, ali ipak značajnog detalja... Nemaš pojma gde ćeš završiti kada ga upotrebiš!!!</text>
+	</string>
+	<string id="kostya_x10_taynik_3">
+		<text>Pa, ipak je to još prototip, sigurno ga treba malo podesiti...</text>
+	</string>
+	<string id="kostya_x10_taynik_4">
+		<text>Odneću ga Saharovu, možda on može pomoći...</text>
+	</string>
+	<string id="kostya_x10_taynik_5">
+		<text>Dobra ideja!! On bi mogao to odraditi!! Imam još jedan zahtev za tebe...</text>
+	</string>
+	<string id="kostya_x10_taynik_6">
+		<text>Da, koji?</text>
+	</string>
+	<string id="kostya_x10_taynik_7">
+		<text> Pa... Već dogo vremena tražim jedan određeni artefakt. Kažu kada ga nosiš za pojasom da budeš gotovo nepobediv... Saznao sam da se više informacije o njemu može naći u Pripjatu. Postoje tri tajna šteka, a u jednom od njih je PDA sa informacijama koje mi trebaju. U druga dva, trebao bi pronaći neku vrednu opremu. Opremu zadrži za sebe, a meni donesi PDA. Hoćeš li uraditi ovo za mene, Obeleženi!?</text>
+	</string>
+	<string id="kostya_x10_taynik_8">
+		<text>Nisamo došao ovako daleko da ti sada kežem NE... Daj mi koordinate...</text>
+	</string>
+	<string id="kostya_x10_taynik_9">
+		<text>Mogu ti dati samo približnu lokaciju...</text>
+	</string>
+	<string id="kostya_x10_taynik_10">
+		<text>Ma nemoj mi reći... A ja mislio da ćeš mi dati adresu sa kućnim brojem...</text>
+	</string>
+	<string id="kostya_pripyat_taynik_0">
+		<text>Evo ga Kostja... PDA koji tako željno iščekuješ!!</text>
+	</string>
+	<string id="kostya_pripyat_taynik_1">
+		<text>Hvala ti, burazeru!!!</text>
+	</string>
+	<string id="kostya_pripyat_taynik_2">
+		<text>Ma nema na čemu... Cenim to što si mene izabrao za ovaj posao...</text>
+	</string>
+	<string id="kostya_pripyat_taynik_3">
+		<text>Dođi da popričamo... Kakve god informacije pronađem, rado ću ih podeliti s tobom!!</text>
+	</string>
+	<string id="kostya_pripyat_taynik_4">
+		<text>Zvuči dobro, burazeru... Bićemo u kontaktu!!</text>
+	</string>
+	<string id="kostya_sacharov_0">
+		<text>Dobar dan, profesore... Doneo sam vam nešto jako interesantno!!</text>
+	</string>
+	<string id="kostya_sacharov_1">
+		<text>Slušam, mladiću... Nastavi...</text>
+	</string>
+	<string id="kostya_sacharov_2">
+		<text>Pronašao sam prototip ručnog teleportera... Ne pitajte gde i odakle... To nije važno... Vidite, stvar je tome da ga treba podesiti... U ovom ovakvom stanju kakav je sada, prilikom upotrebe, teleportiraće te, ali uopšte ne znamo gde, nemamo kontrolu nad tačnim odredištem. Ako možete da ga podesite...kalibrirate...uradite sve što je potrebno da radi kako treba... Možete li to odraditi? Možete li ga podesiti da radi?! Imam i neku dokumentaciju koju sam našao s njim... Ako vam to može pomoći...</text>
+	</string>
+	<string id="kostya_sacharov_3">
+		<text>Pa, Obeleženi, ovo je stvarno interesantno. Daj mi da pogledam tu dokumentaciju. Moram pažljivo proučiti materiju pre nego što mogu da ti kažem da li ga mogu ili ne mogu podesiti, a samim tim bi trebo raditi kako treba, naravno ako ga mognem podesiti...</text>
+	</string>
+	<string id="kostya_sacharov_4">
+		<text>Hvala vam, profesore... Evo ga... I njegovi dokumenti...</text>
+	</string>
+	<string id="kostya_sacharov_5">
+		<text>Dobro, Obeleženi, dok ja proučavam dokumentaciju, da li bi mogao učiniti nešto za mene?!</text>
+	</string>
+	<string id="kostya_sacharov_6">
+		<text>Šta vam treba, profesore?</text>
+	</string>
+	<string id="kostya_sacharov_7">
+		<text>Za jedno moje istraživanje potrebni su mi podaci koji se nalaze u Vasilijevom PDA... On se nije vratio iz Laboratorija X-16 gde je otišao sa Duhom... Znači da bi njegov PDA još trebao biti tamo... Trebaju mi podaci iz tog PDA... Hoćeš li ga pokušati pronaći za mene? Donesi mi Vasilijev PDA dok ja proučavam ovu dokumentaciju... Biću ti jako zahvalan!!</text>
+	</string>
+	<string id="kostya_sacharov_8">
+		<text>Ok, pokušaću pronaći PDA dok vi proučavate dokumentaciju...</text>
+	</string>
+	<string id="kostya_sacharov_9">
+		<text>Hvala ti, Obeleženi!!</text>
+	</string>
+	<string id="kostya_sacharov_pda_0">
+		<text>Pa, profesore, jeste imali uspeha?</text>
+	</string>
+	<string id="kostya_sacharov_pda_1">
+		<text>Ovo je jednostavno izvanredan uređaj. Pogledao sam princip funkcionisanja ovog teleportera, i ne mogu ga trenutno savršeno podesiti, ali sa pravim delovima, siguran sam da bi mogao... Nego... Jesi li pronašao PDA?!</text>
+	</string>
+	<string id="kostya_sacharov_pda_2">
+		<text>Jesam, evo ga... A kakvi vam delovi trebaju?!</text>
+	</string>
+	<string id="kostya_sacharov_pda_3">
+		<text>Odlično, hvala ti!! Nadam se da mogu izvući potrebne informacije iz njega...\nA sada u vezi teleportera... Treba mi artefakt Baterija da bi ga ispravno prilagodio... Donesi mi jedan, a ja ću napraviti potrebna podešavanja. Potrebni su i još neki materijali... Već ih imam ovde u laboratoriju, ali ćeš mi ih morati platiti. Mislim da će 100,000 rublja biti dosta da pokrije sve troškove... Slažeš li?</text>
+	</string>
+	<string id="kostya_sacharov_pda_4">
+		<text>U redu, profesore, doneću vam Bateriju i novac...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_0">
+		<text>Doneo sam vam Bateriju i 100,000 rublja...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_1">
+		<text>Sada ću odraditi potrebna podešavanja na uređaju... Gde bi se želeo teleportirati?..</text>
+	</string>
+	<string id="kostya_sacharov_teleport_2">
+		<text>U Bar...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_3">
+		<text>U Kordon...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_4">
+		<text>U Jantar...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_5">
+		<text>Evo, uzmi uređaj, podešen je prema tvojim specifikacijama. Ali moram te podsetiti da je potreban artefakt Mesečina da bi se aktivirao... Odredišta će varirati... Teleportiraće te na željenu lokaciju, ali ne baš na tačno odredište. Zato ga korisit u skladu s tim, i samo u ekstremnim slučajevima. Nažalost, ono što hoću da kažem da je za samo za jednokratnu upotrebu...kada se jednom upotrebi, postaje neupotrebljiv...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_6">
+		<text>Puno vam hvala!! Iskoristiću ga u dobre svrhe... Još jedno pitanje: može li se ponovo re-aktivirati?!</text>
+	</string>
+	<string id="kostya_sacharov_teleport_7">
+		<text>Naravno da može... Donesi mi Bateriju i još 100,000 rublja, podesi ću ga opet za tebe... Napraviću još jedan prototip po istom dizajnu, pa ako si zainteresiran...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_8">
+		<text>Ovo je izvanredno. Šta vam je potrebno?!</text>
+	</string>
+	<string id="kostya_sacharov_teleport_9">
+		<text>Isto što i ranije. Artefakt Baterija i 100,000 rublja... Nauka je poprilično skupa, znaš...</text>
+	</string>
+	<string id="kostya_sacharov_teleport_10">
+		<text>Primetio sam... Hvala na pomoći!!</text>
+	</string>
+	<string id="kostya_teleport_0">
+		<text>Treba mi joj jedan teleporter. Možeš li napraviti jedan za mene?</text>
+	</string>
+	<string id="kostya_teleport_1">
+		<text>Naravno, koje je odredište?</text>
+	</string>
+	<string id="kostya_teleport_2">
+		<text>Bar..</text>
+	</string>
+	<string id="kostya_teleport_3">
+		<text>Kordon..</text>
+	</string>
+	<string id="kostya_teleport_4">
+		<text>Jantar..</text>
+	</string>
+	<string id="kostya_teleport_5">
+		<text>Napravite svoju čaroliju, profesore!!</text>
+	</string>
+	<string id="kostya_teleport_6">
+		<text>Sve je spremno... Izvoli...</text>
+	</string>
+	<string id="svalka_yurik_0">
+		<text>Svi su mrtvi...</text>
+	</string>
+	<string id="svalka_yurik_1">
+		<text>Hvala ti! Da te nije bilo, loše bi završilo za mene...</text>
+	</string>
+	<string id="svalka_yurik_2">
+		<text>Uvek mi je drago pomoći kolegi stalkeru. Možeš li mi reći gde bi mogao potražiti neke artefakte?</text>
+	</string>
+	<string id="svalka_yurik_3">
+		<text>Čuo sam jednog od njih da kaže da je sakrio jedan artefakat u blizini Kampa Početnika... Negde gde ima puno anomalija... Nije najpreciznija informacija, ali to je sve što imam... Hvala ti još jednom, prijatelju.</text>
+	</string>
+	<string id="svalka_yurik_4">
+		<text>Hvala na savetu, razgledaću okolo...</text>
+	</string>
+</string_table>
+
+<!-- Preveo i prilagodio Flexerca -=- 09:21 23.04.2015 -->

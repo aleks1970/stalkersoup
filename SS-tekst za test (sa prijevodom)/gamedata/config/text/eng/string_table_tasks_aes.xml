@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+	<string id="aes_military_task_1">
+		<text>Hvataj se za kapiju</text>
+	</string>
+	<string id="aes_military_task_10">
+		<text>Grupa "Soko"</text>
+	</string>
+	<string id="aes_military_task_11">
+		<text>Grupa "Grifon"</text>
+	</string>
+	<string id="aes_military_task_12">
+		<text>Grupa "Sova"</text>
+	</string>
+	<string id="aes_military_task_13">
+		<text>Grupa "Lovački Pas"</text>
+	</string>
+	<string id="aes_military_task_2">
+		<text>Uporište</text>
+	</string>
+	<string id="aes_military_task_3">
+		<text>Probij se do sarkofaga</text>
+	</string>
+	<string id="aes_military_task_4">
+		<text>Uništi odbranu "Monolita 1"</text>
+	</string>
+	<string id="aes_military_task_5">
+		<text>Uništi odbranu "Monolita 2"</text>
+	</string>
+	<string id="aes_military_task_6">
+		<text>Grupa "Jastreb"</text>
+	</string>
+	<string id="aes_military_task_7">
+		<text>Grupa "Zmaj"</text>
+	</string>
+	<string id="aes_military_task_8">
+		<text>Grupa "Jato"</text>
+	</string>
+	<string id="aes_military_task_9">
+		<text>Grupa "Kliktavac"</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:20 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:30 -sadd -->

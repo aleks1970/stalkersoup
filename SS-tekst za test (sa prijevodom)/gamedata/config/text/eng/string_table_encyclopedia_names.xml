@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.0   StalkerSoup new pda_name section aleks1970, line: 456, 459 -->
+<string_table>
+	<!-- ********** new pda game descriptions ********** -->
+	<string id="Bring_parcel_to_Fox_pda_name">
+		<text>Donesi paket Liscu</text>
+	</string>
+	<string id="Help_the_Hunters_pda_name">
+		<text>Pomozi lovcima</text>
+	</string>
+	<string id="Release_Clear_fighter_captivity_pda_name">
+		<text>Oslobodi borca Čistog Neba iz zarobljeništva</text>
+	</string>
+	<string id="Procedure_Kalmyk_container_pda_name">
+		<text>Postupak za Kalmikov kontejner</text>
+	</string>
+	<string id="Get_cans_ointmenl_Basil_pda_name">
+		<text>Donesi Basilu tri kantice Kalmikove masti</text>
+	</string>
+	<string id="Soul_artefact_for_clerk_pda_name">
+		<text>Nabavi artefakt Duša za Kneza</text>
+	</string>
+	<string id="Bring_Controller_brain_pda_name">
+		<text>Donesi mozak Kontrolera</text>
+	</string>
+	<string id="Get_Sviblov_PKM_pda_name">
+		<text>Donesi Sviblovu PKM mitraljez</text>
+	</string>
+	<string id="get_their_personal_notebooks_pda_name">
+		<text>Pronađi Monolićane i donesi njihove beležnice</text>
+	</string>
+	<string id="TV_for_Chiston_pda_name">
+		<text>Pronađi TV za Čistona</text>
+	</string>
+	<string id="Pseudogiant_put_label_pda_name">
+		<text>Pronađi Crvenog Pseudogiganta i označi ga</text>
+	</string>
+	<string id="Eliminate_the_Monolith_sniper_pda_name">
+		<text>Eliminiši Monolitovskog snajperistu</text>
+	</string>
+	<string id="Help_Bormann_Silencer_pda_name">
+		<text>Pomozi Bormanu sa prigušivačem</text>
+	</string>
+	<string id="recon_meeting_Freebie_Mercenaries_pda_name">
+		<text>Izvidi sastanak između Slobodnjaka i Plaćenika</text>
+	</string>
+	<string id="Get_information_Cat_pda_name">
+		<text>Nabavi informacije za Mačka</text>
+	</string>
+	<string id="Find_Brother_Louis_swamp_pda_name">
+		<text>Pronađi Brata Luisa u močvari</text>
+	</string>
+	<string id="Find_Frenchman_Warehouses_pda_name">
+		<text>Pronađi Francuza u Skladištima</text>
+	</string>
+	<string id="Find_dealer_Rabinowitz_pda_name">
+		<text>Pronađi trgovca Rabinoviča</text>
+	</string>
+	<string id="Find_courier_in_radar_pda_name">
+		<text>Pronađi kurira u Radaru</text>
+	</string>
+	<string id="Basil_offer_pda_name">
+		<text>Bazilova ponuda</text>
+	</string>
+	<string id="Help_stalkers_fight_off_monsters_pda_name">
+		<text>Pomozi stalkerima u borbi protiv čudovišta</text>
+	</string>
+	<string id="Help_stalkers_bridge_Red_Forest_pda_name">
+		<text>Pomozi stalkerima da zauzmu most u Crvenoj Šumi</text>
+	</string>
+	<string id="Cold_Alters_Mushrooms_pda_name">
+		<text>Ledeni menja pečurke</text>
+	</string>
+	<string id="Bring_documents_from_forests_Fang_pda_name">
+		<text>Donesi dokumenta iz Crvene Šume Fangu</text>
+	</string>
+	<string id="Denis_Red_Forest_save_him_pda_name">
+		<text>Pronađi Denisa u Crvenoj Šumi i spasi ga</text>
+	</string>
+	<string id="Get_necessary_gear_pda_name">
+		<text>Nabavi neophodnu opremu</text>
+	</string>
+	<string id="Find_information_on_laboratory_pda_name">
+		<text>Pronađi informaciju u laboratoriju</text>
+	</string>
+	<string id="Find_tools_East_Pripyat_pda_name">
+		<text>Pronađi alat u Istočnom Pripjatu</text>
+	</string>
+	<string id="Find_Cube_for_Shadows_pda_name">
+		<text>Pronađi Kocku za Mračnog</text>
+	</string>
+	<string id="Find_Beryl_5M_pda_name">
+		<text>Pronađi pancir Beril-5M</text>
+	</string>
+	<string id="Gunslinger_Flash_pda_name">
+		<text>Strelokov fleš</text>
+	</string>
+	<string id="From_psycho_Stone_porcupine_pda_name">
+		<text>Kameni Dikobraz iz Psihovog PDA</text>
+	</string>
+	<string id="Entries_PDA_psycho_pda_name">
+		<text>Unosi za Psihov PDA</text>
+	</string>
+	<string id="Hunter_wino_steel_balls_pda_name">
+		<text>Lovac pijanica podaci za Čelični Kolobok</text>
+	</string>
+	<string id="From_mercenary_titanium_balls_pda_name">
+		<text>Podaci iz PDA plaćenika za Titanski Kolobok</text>
+	</string>
+	<string id="Data_Kruglov_Diamond_balls_pda_name">
+		<text>Kruglovi podaci za Dijamantni Kolobok</text>
+	</string>
+	<string id="PDA_Monolith_scalp_Controller_pda_name">
+		<text>Podaci iz Monolitovskog PDA za Skalp Kontrolera</text>
+	</string>
+	<string id="Cook_Soul_artefact_pda_name">
+		<text>Skuhaj artefakt Duša</text>
+	</string>
+	<string id="Sakharov_tears_Electra_pda_name">
+		<text>Saharov za Suze Elektre</text>
+	</string>
+	<string id="Sakharov_Tears_Fire_pda_name">
+		<text>Saharov za Vatrene Suze</text>
+	</string>
+	<string id="Sakharov_tears_Chimera_pda_name">
+		<text>Saharov za Himerine Suze</text>
+	</string>
+	<string id="Dolgovtsy_Babkins_beads_pda_name">
+		<text>Lanki za Bakine Perle</text>
+	</string>
+	<string id="Sidorovich_Beads_great_grandmother_pda_name">
+		<text>Sidorovič za Stare Perle</text>
+	</string>
+	<string id="Deserter_beads_grandmother_Burer_pda_name">
+		<text>Dezerter za Drevne Perle</text>
+	</string>
+	<string id="Data_informant_Porcupine_pda_name">
+		<text>Doušnikove informacije za Dikobraz artefakt</text>
+	</string>
+	<string id="Data_Electric_Porcupine_pda_name">
+		<text>Podaci za Elektro Dikobraz</text>
+	</string>
+	<string id="Wounded_snotty_about_porcupine_pda_name">
+		<text>Povređeni o Dikobrazu</text>
+	</string>
+	<string id="Data_younger_brother_Giant_pda_name">
+		<text>Podaci mlađeg divovog brata</text>
+	</string>
+	<string id="Paper_with_roadblock_Skin_pda_name">
+		<text>Dokument o blokadi puta kod Skina</text>
+	</string>
+	<string id="Voronin_on_Scales_pda_name">
+		<text>Voronjin za Krljušt</text>
+	</string>
+	<string id="Data_from_Amber_shell_pda_name">
+		<text>Podaci iz Jantara za Školjku</text>
+	</string>
+	<string id="Record_x18_Simbion_pda_name">
+		<text>Podaci iz x18 o Simbionu</text>
+	</string>
+	<string id="Record_X16_Pudding_pda_name">
+		<text>Podaci iz x18 X16 za Puding</text>
+	</string>
+	<string id="Informant_about_sunshine_pda_name">
+		<text>Doušnik o artefaktu "Sunčani kamen"</text>
+	</string>
+	<string id="Military_Main_Task_pda_name">
+		<text>Glavni vojni zadatak</text>
+	</string>
+	<string id="Crazy_USB_Stick_pda_name">
+		<text>USB-Stik ludog stalkera</text>
+	</string>
+	<string id="Ugrumys_USB_Stick_pda_name">
+		<text>Murkov USB-Stik</text>
+	</string>
+	<string id="Couriers_Document_pda_name">
+		<text>Kurirovi dokumenti</text>
+	</string>
+	<string id="Bandits_USB_Stick_pda_name">
+		<text>Banditski USB-Stik</text>
+	</string>
+	<string id="Maxs_USB_Stick_pda_name">
+		<text>Maksov USB-Stik</text>
+	</string>
+	<string id="Find_the_hidden_Cache_pda_name">
+		<text>Pronađi skriveni štek</text>
+	</string>
+	<string id="Find_Goldfish_artefact_pda_name">
+		<text>Pronađi artefakt Zlatna Riba</text>
+	</string>
+	<string id="Find_the_Cache_at_Dump_pda_name">
+		<text>Pronađi štek u Deponiji</text>
+	</string>
+	<string id="Find_Cache_Laboratory_X-18_pda_name">
+		<text>Pronađi štek u Laboratoriji X-18</text>
+	</string>
+	<string id="Find_Cache_somewhere_Agroprom_pda_name">
+		<text>Pronađi štek negde u Agropromu</text>
+	</string>
+	<string id="Find_the_Stash_Yantar_pda_name">
+		<text>Pronađi štek u Jantaru</text>
+	</string>
+	<string id="Find_Stash_at_Army_Warehouses_pda_name">
+		<text>Pronađi štek u Vojnim Skladištima</text>
+	</string>
+	<string id="Find_Cache_at_Radar_pda_name">
+		<text>Pronađi štek u Radaru</text>
+	</string>
+	<string id="Find_Cache_Laboratory_X-10_pda_name">
+		<text>Pronađi štek u Laboratoriji X-10</text>
+	</string>
+	<string id="Find_Stash_Pripyat_pda_name">
+		<text>Pronađi štek u Pripjatu</text>
+	</string>
+	<string id="Job_Description_for_Manual_Teleport_pda_name">
+		<text>Opis posla za ručni Teleporter</text>
+	</string>
+	<string id="Speak_Sakharov_pda_name">
+		<text>Razgovaraj sa Saharovim</text>
+	</string>
+	<string id="Talk_Bones_pda_name">
+		<text>Razgovaraj sa Kostjom</text>
+	</string>
+	<string id="Find_PDA_Vasiliev_pda_name">
+		<text>Pronađi Vasilijev PDA</text>
+	</string>
+	<string id="Find_Battery_artefact_pda_name">
+		<text>Pronađi artefakt Bateriju</text>
+	</string>
+	<string id="Instructions_Manual_Teleport_pda_name">
+		<text>Uputstvo za ručni Teleporter</text>
+	</string>
+	<string id="Location_Streloks_Hideout_pda_name">
+		<text>Lokacija Strelokovog šteka</text>
+	</string>
+	<string id="Raven_offers_pda_name">
+		<text>Gavranove ponude</text>
+	</string>
+	<string id="Special_Offers_Raven_pda_name">
+		<text>Posebne ponude od Gavrana</text>
+	</string>
+	<string id="Dan_offers_pda_name">
+		<text>Denove ponude</text>
+	</string>
+	<string id="Special_offers_Dan_pda_name">
+		<text>Posebne Denove ponude</text>
+	</string>
+	<string id="Max_offers_pda_name">
+		<text>Maksove ponude</text>
+	</string>
+	<string id="Sidorovich_offers_pda_name">
+		<text>Sidorovičeve ponude</text>
+	</string>
+	<string id="Sakharov_suggests_pda_name">
+		<text>Predlozi Saharova</text>
+	</string>
+	<string id="Petrenko_offers_pda_name">
+		<text>Ponude pukovnika Petrenka</text>
+	</string>
+	<string id="Miser_offers_pda_name">
+		<text>Cicijine ponude</text>
+	</string>
+	<string id="The_bartender_offers_pda_name">
+		<text>Barmenove ponude</text>
+	</string>
+	<string id="Lanky_offers_pda_name">
+		<text>Lankijeve ponude</text>
+	</string>
+	<string id="Zahar_offers_pda_name">
+		<text>Zaharove ponude</text>
+	</string>
+	<string id="military_offers_pda_name">
+		<text>Ponude Vojske</text>
+	</string>
+	<string id="Syak_offers_pda_name">
+		<text>Sjakove ponude</text>
+	</string>
+	<string id="Message_from_Hog_pda_name">
+		<text>Poruka od Borova</text>
+	</string>
+	<string id="Message_from_Bullet_pda_name">
+		<text>Poruka od Metka</text>
+	</string>
+	<string id="Message_from_Lucas_pda_name">
+		<text>Poruka od Lukaša</text>
+	</string>
+	<string id="Message_from_Gray_pda_name">
+		<text>Poruka od Sivog</text>
+	</string>
+	<string id="Message_from_Wolf_pda_name">
+		<text>Poruka od Vuka</text>
+	</string>
+	<string id="Message_from_Screw_pda_name">
+		<text>Poruka od Šrafa</text>
+	</string>
+	<string id="Message_from_Dan_pda_name">
+		<text>Poruka od Dena</text>
+	</string>
+	<string id="Agreement_Hunter_pda_name">
+		<text>Dogovor sa Lovcem</text>
+	</string>
+	<string id="Bear_hunter_pda_name">
+		<text>Lovac na medvjede</text>
+	</string>
+	<string id="Talk_Residential_pda_name">
+		<text>Razgovaraj sa stanovnicima</text>
+	</string>
+	<string id="Bring_Gilet_pda_name">
+		<text>Donesi britvu...</text> <!-- Pribor za brijanje -->
+	</string>
+	<string id="Bring_to_Fox_pda_name">
+		<text>Donesi Liscu</text>
+	</string>
+	<string id="Bring_Suit_Bes_pda_name">
+		<text>Donesi odelo Besu</text>
+	</string>
+	<string id="Return_Krysyuk_PDA_Hog_pda_name">
+		<text>Vrati PDA Pacova Borovu</text>
+	</string>
+	<string id="Find_station_Agricultural_Industry_pda_name">
+		<text>Pronađi stanicu u Agropromu</text>
+	</string>
+	<string id="Bring_PlayBoys_pda_name">
+		<text>Donesi plejboje</text>
+	</string>
+	<string id="Deliver_munitions_pda_name">
+		<text>Dostavi municiju</text>
+	</string>
+	<string id="Bring_beer_pda_name">
+		<text>Donesi pivo</text>
+	</string>
+	<string id="Deliver_bag_bring_weapons_pda_name">
+		<text>Dostavi vreću i donesi oružje</text>
+	</string>
+	<string id="List_of_Weapons_pda_name">
+		<text>Lista oružja</text>
+	</string>
+	<string id="Weapon_upgrades_pda_name">
+		<text>Nadogradnja oružja</text>
+	</string>
+	<string id="Groza_pda_name">
+		<text>Groza</text>
+	</string>
+	<string id="Pseudo_dog_pda_name">
+		<text>Pseudo pas</text>
+	</string>
+	<string id="aaaaa_pda_name">
+		<text>aaaaa</text>
+	</string>
+	<string id="Rat_pda_name">
+		<text>Pacov</text>
+	</string>
+	<string id="Black_Dog_pda_name">
+		<text>Crni pas</text>
+	</string>
+	<string id="The_Librarian_pda_name">
+		<text>Bibliotekar</text>
+	</string>
+	<string id="Babka_pda_name">
+		<text>Babka</text> <!-- Ime vrste ženskih zombia u igri sadd -->
+	</string>
+	<string id="Zharka_pda_name">
+		<text>Gorionik</text>
+	</string>
+	<string id="Elektra_pda_name">
+		<text>Elektro</text>
+	</string>
+	<string id="Rusty_pda_name">
+		<text>Zapaljeni puh</text>
+	</string>
+	<string id="Fruit_Punch_pda_name">
+		<text>Voćni Punč</text>
+	</string>
+	<string id="Radiation_Cloud_pda_name">
+		<text>Radijacijski Oblak</text>
+	</string>
+	<string id="Heat_pda_name">
+		<text>Gorionik</text>
+	</string>
+	<string id="Bubble_pda_name">
+		<text>Mehur</text>
+	</string>
+	<string id="resque_information_pda_name">
+		<text>Spasi podatke</text>
+	</string>
+	<string id="resque_information_2_pda_name">
+		<text>Spasi podatke 2</text> <!-- removed "_" aleks1970 -->
+	</string>
+	<string id="kill_professor_pda_name">
+		<text>Ubij profesora</text>
+	</string>
+	<string id="hunter_rifle_pda_name">
+		<text>Lovčeva puška</text>
+	</string>
+	<string id="crazy_veterans_quest_pda_name">
+		<text>Zadatak ludi veterani</text>
+	</string>
+	<string id="dolg_test_quest_pda_name">
+		<text>Djutijev testni zadatak</text>
+	</string>
+	<string id="dolg_svoboda_ambush_quest_pda_name">
+		<text>Misija Djutija o zasedi za Fridomovce</text>
+	</string>
+	<string id="dolg_svoboda_kill_quest_pda_name">
+		<text>Misija Djutija za ubistvo vođe Fridoma</text>
+	</string>
+	<string id="x16_documents_pda_name">
+		<text>Dokumenti x16</text>
+	</string>
+	<string id="radar_deactivate_pda_name">
+		<text>Deaktivacija Radara</text>
+	</string>
+	<string id="LabX18_first_key_pda_name">
+		<text>Prvi ključ Laboratorija X18</text>
+	</string>
+	<string id="LabX18_second_key_pda_name">
+		<text>Drugi ključ Laboratorija X18</text>
+	</string>
+	<string id="Tolik_flash_pda_name">
+		<text>Tolikov  fleš</text>
+	</string>
+	<string id="Seryi_flash_pda_name">
+		<text>Fleš Sivog</text>
+	</string>
+	<string id="Flash_dead_stalker_pda_name">
+		<text>Fleš mrtvog stalkera</text>
+	</string>
+	<string id="Bandit_flash_pda_name">
+		<text>Banditski fleš</text>
+	</string>
+	<string id="Dead_novice_flash_pda_name">
+		<text>Fleš mrtvog početnika</text>
+	</string>
+	<string id="Code_from_door_radar_pda_name">
+		<text>Šifra vrata u Radaru</text>
+	</string>
+	<string id="Information_Arrow_PDA_pda_name">
+		<text>Informacija iz Strelokovog PDA</text>
+	</string>
+	<string id="the_agricultural_industry_Cordon_pda_name">
+		<text>Iz Agroproma u Kordon</text>
+	</string>
+	<string id="The_cordon_on_Agroprom_pda_name">
+		<text>Iz Kordona u Agroprom</text>
+	</string>
+	<string id="With_agricultural_industry_Amber_pda_name">
+		<text>Iz Agroproma u Jantar</text>
+	</string>
+	<string id="From_Amber_Agroprom_pda_name">
+		<text>Iz Jantara u Agroprom</text>
+	</string>
+	<string id="wilderness_areas_the_Warehouses_pda_name">
+		<text>Iz Divlje Teritorije u Vojna Skladišta</text>
+	</string>
+	<string id="From_the_radar_Amber_pda_name">
+		<text>Iz Jantara u Radar</text> <!-- replacing Amber and Radar - aleks1970 -->
+	</string>
+	<string id="From_the_radar_Amber_2_pda_name">
+		<text>Iz Radara u Jantar</text> <!-- replacing Radar and Amber - description have text for: X-16 to Radar(and Pripyat)?? - aleks1970 -->
+	</string>
+	<string id="With_the_radar_dark_valley_pda_name">
+		<text>Iz Radara u Mračnu Dolinu</text>
+	</string>
+	<string id="With_army_warehouses_Wild_Territory_pda_name">
+		<text>Iz Vojnih Skladišta u Divlju Teritoriju</text>
+	</string>
+	<string id="From_the_Dark Valley_Radar_pda_name">
+		<text>Iz Mračne Doline u Radar</text>
+	</string>
+	<string id="From_Dark_Valley_Army_Warehouses_pda_name">
+		<text>Iz Mračne Doline u Vojna Skladišta</text>
+	</string>
+	<string id="With_army_warehouses_dark_valley_pda_name">
+		<text>Iz Vojnih Skladišta u Mračnu Dolinu</text>
+	</string>
+	<string id="With_radar_Army_Warehouses_pda_name">
+		<text>Iz Radara u Vojna Skladišta</text>
+	</string>
+	<string id="The_bar_at_Army_Warehouses_pda_name">
+		<text>Iz Bara u Vojna Skladišta</text>
+	</string>
+	<string id="The_marshes_the_old_village_pda_name">
+		<text>Iz Močvara u Staro Selo</text>
+	</string>
+	<string id="Leap_of_Chernobyl_pda_name">
+		<text>Put na Černobil</text>
+	</string>
+	<string id="the_sarcophagus_Chernobyl_nuclear_power_south_pda_name">
+		<text>Iz Sarkofaga u NEP Černobil jug</text>
+	</string>
+	<string id="Find_the_PDA_Ghost_pda_name">
+		<text>Pronađi Duhov PDA</text>
+	</string>
+	<string id="Check_the_helicopter_crash_pda_name">
+		<text>Proveri mesto pada helikoptera</text>
+	</string>
+	<string id="Return_Hogs_PDA_Krysyuk_pda_name">
+		<text>Vrati Borov PDA Pacovu</text>
+	</string>
+	<string id="Exchange_vodka_on_papers_pda_name">
+		<text>Razmeni votku za dokumente</text>
+	</string>
+	<string id="Collect_details_detector_bloodsuckers_pda_name">
+		<text>Prikupi potrebne podatke za detektovanje Krvopija</text>
+	</string>
+	<string id="Collect_details_detector_psevdogigantov_pda_name">
+		<text>Prikupi potrebne podatke za detektovanje Pseudogiganta</text>
+	</string>
+	<string id="Collect_details_detector_monitors_pda_name">
+		<text>Prikupi potrebne podatke za detektor monitora</text>
+	</string>
+	<string id="Determine_recipe_artifact_Beating_Heart_pda_name">
+		<text>Saznaj recept za artefakt Kucajuće Srce</text>
+	</string>
+	<string id="Set_unit_of_Chernobyl_pda_name">
+		<text>Pošalji grupu u Černobil</text>
+	</string>
+	<string id="Get_container_with_artifact_pda_name">
+		<text>Nadabi kontejner sa artefaktima</text>
+	</string>
+	<string id="Find_Bartender_the_PDA_Pripyat_pda_name">
+		<text>Pronađi Barmena za PDA u Pripjatu</text>
+	</string>
+	<string id="Find_Arrows_PDA_pda_name">
+		<text>Pronađi Strelokov PDA</text>
+	</string>
+	<string id="Find_the_Emerald_Jellyfish_pda_name">
+		<text>Pronađi Smaragdnu Meduzu</text>
+	</string>
+	<string id="Find_Doctors_dog_pda_name">
+		<text>Pronađi Doktorovog psa</text>
+	</string>
+	<string id="Install_the_device_pda_name">
+		<text>Instaliraj uređaj</text>
+	</string>
+	<string id="Find_fans_of_laptop_pda_name">
+		<text>Pronađi laptop za Fanatika</text>
+	</string>
+	<string id="Find_fans_diplomat_with_cards_pda_name">
+		<text>Pronađi aktovku za Fanatika sa kartama</text>
+	</string>
+	<string id="Find_computer_Pripyat_pda_name">
+		<text>Pronađi kompjuter u Pripjatu</text>
+	</string>
+	<string id="Collect_seven_claws_chimeras_pda_name">
+		<text>Sakupi sedam himerinih kandži</text>
+	</string>
+	<string id="Bring_PlayBoy_magazines_pda_name">
+		<text>Donesi Plejboj magazine</text>
+	</string>
+	<string id="Gather_snacks_Chef_pda_name">
+		<text>Pronađi potrebne stvari za Kuvara</text>
+	</string>
+	<string id="Bring_an_artifact_pda_name">
+		<text>Donesi artefakt</text>
+	</string>
+	<string id="Find_weapons_Explorer_pda_name">
+		<text>Pronađi oružje za Istraživača</text>
+	</string>
+	<string id="Bring_the_case_vodka_pda_name">
+		<text>Donesi sanduk votke</text>
+	</string>
+	<string id="Find_lost_document_pda_name">
+		<text>Pronađi izgubljeni dokument</text>
+	</string>
+	<string id="Find_PlayBoy_Ivancova_pda_name">
+		<text>Pronađi Plejboj za Ivancova</text>
+	</string>
+	<string id="Find_the_station_pda_name">
+		<text>Pronađi stanicu</text>
+	</string>
+	<string id="Get_modified_MR5_pda_name">
+		<text>Nabavi modifikovani MR5</text>
+	</string>
+	<string id="Get_a_Burer_Paw_pda_name">
+		<text>Nabavi ruku Burera</text>
+	</string>
+	<string id="Find_unusual_artifact_pda_name">
+		<text>Pronađi neobični artefakt</text>
+	</string>
+	<string id="Bring_Demon_good_Bronicas_pda_name">
+		<text>Donesi Demonu zaštitno odelo</text>
+	</string>
+	<string id="Bring_illegal_order_Deserters_pda_name">
+		<text>Donesi nelegalnu naredbu Dezerteru</text>
+	</string>
+	<string id="Get_Eye_of_Flesh_pda_name">
+		<text>Nabavi oko Mesine</text>
+	</string>
+	<string id="Get_hoofs_wild_boars_pda_name">
+		<text>Nabavi papak od vepra</text>
+	</string>
+	<string id="Get_Bloodsucker_tentacles_pda_name">
+		<text>Nabavi krvopijine pipke</text>
+	</string>
+	<string id="Get_pseudodogs_tails_pda_name">
+		<text>Nabavi rep Pseudo psa</text>
+	</string>
+	<string id="Bring_ten_kits_Fox_pda_name">
+		<text>Donesi deset prvih pomoći Liscu</text>
+	</string>
+	<string id="Find_Petruha_TOZ_34_pda_name">
+		<text>Pronađi TOZ-34 za Petruhu</text>
+	</string>
+	<string id="Get_Medusa_Nimble_pda_name">
+		<text>Nabavi meduzu za Brzog</text>
+	</string>
+	<string id="Ecologist_Emerald_Blood_Stone_artifact_pda_name">
+		<text>Nabavi Ekologu artefakt Smaragdnu Kamenu Krv</text>
+	</string>
+	<string id="Find_Tolik_five_dog_tails_pda_name">
+		<text>Pronađi pet psećih repova za Tolika</text>
+	</string>
+	<string id="Stealing_unique_costumes_Miser_pda_name">
+		<text>Ukradi jedinstveno odelo za Ciciju</text>
+	</string>
+	<string id="Buy_cartridges_Sidorovich_Svobodov_pda_name">
+		<text>Kupi od Sidoroviča municiju za Fridomovce</text>
+	</string>
+	<string id="Work_couriers_pda_name">
+		<text>Rad kurira (Work couriers)</text>
+	</string>
+	<string id="Find_Moles_PDA_pda_name">
+		<text>Pronađi Krtičin PDA</text>
+	</string>
+	<string id="Return_the_PDA_pda_name">
+		<text>Vrati PDA</text>
+	</string>
+	<string id="Find_Petrenko_Gauss_Pistol_pda_name">
+		<text>pronađi Petrenkov Gauss-Pištolj M72-GG</text>
+	</string>
+	<string id="Find_a_Flash_pda_name">
+		<text>Pronađi fleš</text>
+	</string>
+	<string id="Exchange_artifact_Exoskeleton_pda_name">
+		<text>Razmeni artefakt za egzoskelet</text>
+	</string>
+	<string id="Deliver_tool_to_Shakus_pda_name">
+		<text>Donesi alat Sjaku</text>
+	</string>
+	<string id="Find_Goldfish_artifact_Syaka_pda_name">
+		<text>Pronađi Zlatnu Ribu za Sjaka</text>
+	</string>
+	<string id="Drag_safe_from_X_18_pda_name">
+		<text>Donesi sef iz X-18 za Sjaka</text>
+	</string>
+	<string id="Bring_new_Armor_pda_name">
+		<text>Donesi novo odelo</text>
+	</string>
+	<string id="Find_the_decoder_for_Ecologist_pda_name">
+		<text>Pronađi izgubljeni dekoder za ekologiste</text>
+	</string>
+	<string id="Sell_artifact_Sidorovich_pda_name">
+		<text>Prodaj artefakt Sidoroviču</text>
+	</string>
+	<string id="Collect_documents_for_Sakharov_pda_name">
+		<text>Prikupi dokumente za Saharova</text>
+	</string>
+	<string id="Pass_grenade_Miser_pda_name">
+		<text>Donesi bombe za Ciciju</text>
+	</string>
+	<string id="Find_Artifact_pda_name">
+		<text>Pronađi artefakt</text>
+	</string>
+	<string id="Find_documents_pda_name">
+		<text>Pronađi dokumente</text>
+	</string>
+	<string id="Find_Case_of_documents_pda_name">
+		<text>Pronađi aktovku sa dokumentima</text>
+	</string>
+	<string id="Find_Lukas_dynamite_pda_name">
+		<text>Pronađi dinamit za Lukaša</text>
+	</string>
+	<string id="Transfer_case_pda_name">
+		<text>Donesi aktovku</text>
+	</string>
+	<string id="Doctor_offers_pda_name">
+		<text>Doktorove ponude</text>
+	</string>
+	<string id="Vein_suggests_pda_name">
+		<text>Venine ponude</text>
+	</string>
+	<string id="Kuznetsov_offers_pda_name">
+		<text>Ponude Kuznjecova</text>
+	</string>
+	<string id="Sherstyuk_offers_pda_name">
+		<text>Šerstjukove ponude</text>
+	</string>
+	<string id="Chill_offers_pda_name">
+		<text>Ponude Ledenog</text>
+	</string>
+	<string id="Slice_Meat_from_jumping_pda_name">
+		<text>Komad Mesa iz Trampoline</text>
+	</string>
+	<string id="Bengal_Fire_from_jumping_pda_name">
+		<text>Varnica iz Trampoline</text>
+	</string>
+	<string id="Slither_from_jumping_pda_name">
+		<text>Puž Golać iz Trampoline</text>
+	</string>
+	<string id="Crystal_from_jumping_pda_name">
+		<text>Kristal iz Trampoline</text>
+	</string>
+	<string id="Sea_Urchin_from_jumping_pda_name">
+		<text>Morski jež iz Trampoline</text>
+	</string>
+	<string id="Dummy_from_jumping_pda_name">
+		<text>Školjka iz Trampoline</text>
+	</string>
+	<string id="Slither_from_the_funnel_pda_name">
+		<text>Puž Golać iz Levka</text>
+	</string>
+	<string id="Slime_from_the_funnel_pda_name">
+		<text>Sluzavac iz Levka</text>
+	</string>
+	<string id="Flash_from_the_funnel_pda_name">
+		<text>Bljesak iz Levka</text>
+	</string>
+	<string id="Night_Star_out_of_crater_pda_name">
+		<text>Noćna Zvezda iz Levka</text>
+	</string>
+	<string id="Soul_from_the_funnel_pda_name">
+		<text>Duša iz Levka</text>
+	</string>
+	<string id="Film_out_of_crater_pda_name">
+		<text>Opna iz Levka</text>
+	</string>
+	<string id="The_Stone_Flower_from_Carousel_pda_name">
+		<text>Kameni Cvet iz Ringišpila</text>
+	</string>
+	<string id="Drop_from_Carousel_pda_name">
+		<text>Kapljice iz Ringišpila</text>
+	</string>
+	<string id="Crystal_from_Carousel_pda_name">
+		<text>Kristal iz Ringišpila</text>
+	</string>
+	<string id="Moonlight_from_Carousel_pda_name">
+		<text>Mesečina iz Ringišpila</text>
+	</string>
+	<string id="Grind_from_Carousel_pda_name">
+		<text>Liskun iz Ringišpila</text>
+	</string>
+	<string id="Mamas_Beads_from_Carousel_pda_name">
+		<text>Mamine Perle iz Ringišpila</text>
+	</string>
+	<string id="Crystal_Bur_Aspic_pda_name">
+		<text>Kristalni Trn iz Voćnog Punča</text>
+	</string>
+	<string id="Bur_in_Aspic_pda_name">
+		<text>Trn iz Voćnog Punča</text>
+	</string>
+	<string id="Fireball_in_Aspic_pda_name">
+		<text>Vatrena Lopta iz Voćnog Punča</text>
+	</string>
+	<string id="Crystal_in_Aspic_pda_name">
+		<text>Kristal iz Voćnog Punča</text>
+	</string>
+	<string id="Gold_Fish_in_Aspic_pda_name">
+		<text>Zlatna Riba iz Voćnog Punča</text>
+	</string>
+	<string id="Gingerbread_Man_Aspic_pda_name">
+		<text>Kolobok iz Voćnog Punča</text>
+	</string>
+	<string id="Flash_from_Frying_pda_name">
+		<text>Bljesak iz Gorionika</text>
+	</string>
+	<string id="Slime_from_Frying_pda_name">
+		<text>Sluzavac iz Gorionika</text>
+	</string>
+	<string id="Gravel_from_Frying_pda_name">
+		<text>Gravi iz Gorionika</text>
+	</string>
+	<string id="Night_Star_from_Frying_pda_name">
+		<text>Noćna Zvezda iz Gorionika</text>
+	</string>
+	<string id="Moonlight_from_Frying_pda_name">
+		<text>Mesečina iz Gorionika</text>
+	</string>
+	<string id="Battery_from_Frying_pda_name">
+		<text>Baterija iz Gorionika</text>
+	</string>
+	<string id="Fireball_from_Elektra_pda_name">
+		<text>Vatrena Lopta iz Elektro</text>
+	</string>
+	<string id="Stone_Flower_from_Electrical_pda_name">
+		<text>Kameni Cvet iz Elektro</text>
+	</string>
+	<string id="Grind_from_Electrical_pda_name">
+		<text>Liskun iz Elektro</text>
+	</string>
+	<string id="Soul_from_Electrical_pda_name">
+		<text>Duša iz Elektro</text>
+	</string>
+	<string id="Goldfish_from_Elektra_pda_name">
+		<text>Zlatna Riba iz Elektro</text>
+	</string>
+	<string id="Spring_from_Elektra_pda_name">
+		<text>Feder iz Elektro</text>
+	</string>
+	<string id="Diary_of_Cont_Part_I_pda_name">
+		<text>Dnevnik Kontrolera I deo</text>
+	</string>
+	<string id="Diary_of_Cont_Part_II_pda_name">
+		<text>Dnevnik Kontrolera II deo</text>
+	</string>
+	<string id="Scientific_Notes_Part_I_pda_name">
+		<text>Naučne beleške I deo</text>
+	</string>
+	<string id="Scientific_Notes_Part_II_pda_name">
+		<text>Naučne beleške II deo</text>
+	</string>
+	<string id="Scientific_Notes_Part_III_pda_name">
+		<text>Naučne beleške III deo</text>
+	</string>
+	<string id="Scientific_Notes_Part_IV_pda_name">
+		<text>Naučne beleške IV deo</text>
+	</string>
+	<string id="Stack_Secret_Letters_I_pda_name">
+		<text>Hrpa tajnih pisama I deo</text>
+	</string>
+	<string id="Stack_Secret_Letters_II_pda_name">
+		<text>Hrpa tajnih pisama II deo</text>
+	</string>
+	<string id="Stack_Secret_Letters_III_pda_name">
+		<text>Hrpa tajnih pisama III deo</text>
+	</string>
+	<string id="Stack_Secret_Letters_IV_pda_name">
+		<text>Hrpa tajnih pisama IV deo</text>
+	</string>
+	<string id="Entries_of_Stalker_pda_name">
+		<text>Zapisi stalkera</text>
+	</string>
+	<string id="Intern_Report_part_I_pda_name">
+		<text>Izveštaj stažiste I deo</text>
+	</string>
+	<string id="Intern_Report_part_II_pda_name">
+		<text>Izveštaj stažiste II deo</text>
+	</string>
+	<string id="Stalkers_Diary_pda_name">
+		<text>Stalkerov dnevnik</text>
+	</string>
+	<string id="Zombie_Entries_Part_I_pda_name">
+		<text>Zapisi zombija I deo</text>
+	</string>
+	<string id="Zombie_Entries_Part_II_pda_name">
+		<text>Zapisi zombija II deo</text>
+	</string>
+	<string id="Recovered_Records_pda_name">
+		<text>Obnovljeni zapisi</text>
+	</string>
+	<string id="Unknown_Author_Diary_pda_name">
+		<text>Dnevnik nepoznatog autora</text>
+	</string>
+	<string id="Notes_on_Experiment_I_pda_name">
+		<text>Beleške o eksperimentu I deo</text>
+	</string>
+	<string id="Notes_on_Experiment_II_pda_name">
+		<text>Beleške o eksperimentu II deo</text>
+	</string>
+	<string id="Experienced_Entries_I_pda_name">
+		<text>Unosi Iskusnog I deo</text>
+	</string>
+	<string id="Experienced_Entries_II_pda_name">
+		<text>Unosi Iskusnog II deo</text>
+	</string>
+	<string id="Military_Records_pda_name">
+		<text>Vojni zapisi</text>
+	</string>
+	<string id="Notes_the_Experiment_I_pda_name">
+		<text>Zapisi eksperimenta I deo</text>
+	</string>
+	<string id="Notes_the_Experiment_II_pda_name">
+		<text>Zapisi eksperimenta II deo</text>
+	</string>
+	<string id="Experience_Report_Part_I_pda_name">
+		<text>Zapisi eksperimenta I deo</text>
+	</string>
+	<string id="Experience_Report_Part_II_pda_name">
+		<text>Zapisi eksperimenta II deo</text>
+	</string>
+	<string id="Experience_Report_Part_III_pda_name">
+		<text>Zapisi eksperimenta III deo</text>
+	</string>
+	<string id="Duty_Officer_Part_I_pda_name">
+		<text>Dnevnik oficira Djutija I deo</text>
+	</string>
+	<string id="Duty_Officer_Part_II_pda_name">
+		<text>Dnevnik oficira Djutija II deo</text>
+	</string>
+	<string id="Duty_Officer_Part_III_pda_name">
+		<text>Dnevnik oficira Djutija III deo</text>
+	</string>
+	<string id="Duty_Officer_Part_IV_pda_name">
+		<text>Dnevnik oficira Djutija IV deo</text>
+	</string>
+	<string id="Incredible_Details_Part_I_pda_name">
+		<text>Neverovatni detalji I deo</text>
+	</string>
+	<string id="Incredible_Details_Part_II_pda_name"> <!-- removed "_pda_name" aleks1970 -->
+		<text>Neverovatni detalji II deo</text>
+	</string>
+	<string id="Incredible_Details_Part_III_pda_name">
+		<text>Neverovatni detalji III deo</text>
+	</string>
+	<string id="Revelations_Monolith_pda_name">
+		<text>Otkrovenja Monolita</text>
+	</string>
+	<string id="Yakut_Notes_pda_name">
+		<text>Jakutove beleške</text>
+	</string>
+	<string id="Novice_Diary_pda_name">
+		<text>Dnevnik početnika</text>
+	</string>
+	<string id="Exp_Stalk_Diary_pda_name">
+		<text>Dnevnik iskusnog stalkera</text>
+	</string>
+	<string id="the_Engineer_Diary_pda_name">
+		<text>Dnevnik inžinjera</text>
+	</string>
+	<string id="Entries_former_Monolithian_pda_name">
+		<text>Zapisi bivšeg Monolitovca</text>
+	</string>
+	<string id="Group_Commander_Record_pda_name">
+		<text>Zapis komandira grupe</text>
+	</string>
+	<string id="Bandit_Entries_pda_name">
+		<text>Zapisi Bandita</text>
+	</string>
+	<string id="Monolith_Entries_pda_name">
+		<text>Zapisi Monolitovaca</text>
+	</string>
+	<string id="Freedom_Entries_pda_name">
+		<text>Zapisi Fridoma</text>
+	</string>
+	<string id="Mercenary_Entries_pda_name">
+		<text>Zapisi Plaćenika</text>
+	</string>
+	<string id="From_the_sarcophagus_Chernobyl_1_pda_name">
+		<text>Iz Sarkofaga u Černobil-1</text>
+	</string>
+	<string id="With_agricultural_industry_Amber_pda_name">
+		<text>Iz Agroproma u Jantar</text>
+	</string>
+	<string id="With_Wild_Territory_Warehouses_pda_name">
+		<text>Iz Divlje Teritorije u Vojna Skladišta</text>
+	</string>
+	<string id="With_army_warehouses_Territory_pda_name">
+		<text>Iz Vojnih Skladišta u Divlju Teritoriju</text>
+	</string>
+	<string id="From_Amber_Radar_pda_name">
+		<text>Iz Jantara u Radar</text>
+	</string>
+	<string id="With_radar_dark_valley_pda_name">
+		<text>Iz Radara u Mračnu Dolinu</text>
+	</string>
+	<string id="From_radar_Amber_pda_name">
+		<text>Iz Radara u Jantar</text>
+	</string>
+	<string id="From_Dark_Valley_Radar_pda_name">
+		<text>Iz Mračne Doline u Radar</text>
+	</string>
+	<string id="From_Dark_Valley_Warehouses_pda_name">
+		<text>Iz Mračne Doline u Vojna Skladišta</text>
+	</string>
+	<string id="With_warehouses_dark_valley_pda_name">
+		<text>Iz Vojnih Skladišta u Mračnu Dolinu</text>
+	</string>
+	<string id="With_radar_rmy_Warehouses_pda_name">
+		<text>Iz Radara u Vojna Skladišta</text>
+	</string>
+	<string id="The_bar_Army_Warehouses_pda_name">
+		<text>Iz Bara u Vojna Skladišta</text>
+	</string>
+	<string id="The_marshes_old_village_pda_name">
+		<text>Iz Močvare u Staro Selo</text>
+	</string>
+	<string id="The_Chernobyl_pda_name">
+		<text>Černobil</text>
+	</string>
+	<string id="Hunk_meat_from_springboard_pda_name">
+		<text>Komad Mesa iz Trampoline</text>
+	</string>
+	<string id="Bengal_fire_from_jumping_pda_name">
+		<text>Varnica iz Trampoline</text>
+	</string>
+	<string id="Slug_from_springboard_pda_name">
+		<text>Sluzavac iz Trampoline</text>
+	</string>
+	<string id="Crystal_from_jumping_pda_name">
+		<text>Kristal iz Trampoline</text>
+	</string>
+	<string id="Sea_urchins_from_springboard_pda_name">
+		<text>Morski Jež iz Trampoline</text>
+	</string>
+	<string id="Dummy_of_springboard_pda_name">
+		<text>Školjka iz Trampoline</text>
+	</string>
+	<string id="Slug_of_crater_pda_name">
+		<text>Puž Golać iz Levka</text>
+	</string>
+	<string id="Mucus_from_funnel_pda_name">
+		<text>Sluzavac iz Levka</text>
+	</string>
+	<string id="The_outbreak_of_crater_pda_name">
+		<text>Bljesak iz Levka</text>
+	</string>
+	<string id="Night_star_of_rater_pda_name">
+		<text>Noćna zvezda iz Levka</text>
+	</string>
+	<string id="The_soul_of_crater_pda_name">
+		<text>Duša iz Levka</text>
+	</string>
+	<string id="Film_of_crater_pda_name">
+		<text>Opna iz Levka</text>
+	</string>
+	<string id="Stone_Flower_of_carousel_pda_name">
+		<text>Kameni Cvet iz Ringišpila</text>
+	</string>
+	<string id="Drop_from_carousel_pda_name">
+		<text>Kapljice iz Ringišpila</text>
+	</string>
+	<string id="Crystal_thorn_from_carousel_pda_name">
+		<text>Kristalni Trn iz Ringišpila</text>
+	</string>
+	<string id="Moonlight_from_carousel_pda_name">
+		<text>Mesečina iz Ringišpila</text>
+	</string>
+	<string id="Mica_from_carousel_pda_name">
+		<text>Liskun iz Ringišpila</text>
+	</string>
+	<string id="Mama_Beads_carousel_pda_name">
+		<text>Mamine Perle iz Ringišpila</text>
+	</string>
+	<string id="Crystal_thorn_aspic_pda_name">
+		<text>Kristalni Trn iz Voćnog Punča</text>
+	</string>
+	<string id="Barb_from_aspic_pda_name">
+		<text>Trn iz Voćnog Punča</text>
+	</string>
+	<string id="The_fireball_from_aspic_pda_name">
+		<text>Vatrena Lopta iz Voćnog Punča</text>
+	</string>
+	<string id="Crystal_from_fountain_pda_name">
+		<text>Kristal iz Fontane</text>
+	</string>
+	<string id="Goldfish_aspic_pda_name">
+		<text>Zlatna Riba iz Voćnog Punča</text>
+	</string>
+	<string id="Gingerbread_from_aspic_pda_name">
+		<text>Kolobok iz Voćnog Punča</text>
+	</string>
+	<string id="The_outbreak_frying_pda_name">
+		<text>Bljesak iz Gorionika</text>
+	</string>
+	<string id="Mucus_from_frying_pda_name">
+		<text>Puž Golać iz Gorionika</text>
+	</string>
+	<string id="Gravel_from_frying_pda_name">
+		<text>Gravi iz Gorionika</text>
+	</string>
+	<string id="Night_star_of_frying_pda_name">
+		<text>Noćna Zvezda iz Gorionika</text>
+	</string>
+	<string id="Moonlight_from_frying_pda_name">
+		<text>Mesečina iz Gorionika</text>
+	</string>
+	<string id="Batteries_from_frying_pda_name">
+		<text>Baterija iz Gorionika</text>
+	</string>
+	<string id="The_fireball_from_electrical_pda_name">
+		<text>Vatrena Lopta iz Elektro</text>
+	</string>
+	<string id="Stone_Flower_electro_pda_name">
+		<text>Kameni Cvet iz Elektro</text>
+	</string>
+	<string id="Mica_from_electrical_pda_name">
+		<text>Liskun iz Elektro</text>
+	</string>
+	<string id="Soul_of_Electra_pda_name">
+		<text>Duša iz Elektro</text>
+	</string>
+	<string id="Goldfish_from_electrical_pda_name">
+		<text>Zlatna Riba iz Elektro</text>
+	</string>
+	<string id="Jellyfish_from_electrical_pda_name">
+		<text>Meduza iz Elektro</text>
+	</string>
+	<string id="Quirk_of_aspic_pda_name">
+		<text>Vijuga iz Voćnog Punča</text>
+	</string>
+	<string id="Spring_from_electrical_pda_name">
+		<text>Feder iz Elektro</text>
+	</string>
+	<string id="task_pda_name">
+		<text>Zadatak</text>
+	</string>
+	<string id="Find_Minigun_Adrenalin_pda_name">
+		<text>Pronađi Minigun za Adrenalina</text>
+	</string>
+	<string id="Find_military_subject_pda_name">
+		<text>Pronađi vojni predmet</text>
+	</string>
+	<string id="Find_Camouflage_Exoskeleton_pda_name">
+		<text>Pronađi kamuflažni egzoskelet</text>
+	</string>
+	<string id="Find_vise_Screw_pda_name">
+		<text>Pronađi presu (mengele) za Šrafa</text>
+	</string>
+	<string id="Discover_Antizombin_pda_name">
+		<text>Pronađi antizombin</text>
+	</string>
+	<string id="Get_controller_brain_Lukas_pda_name">
+		<text>Pronađi mozak kontrolera za Lukaša</text>
+	</string>
+	<string id="Find_disk_for_Adrenalin_pda_name">
+		<text>Pronađi diskove za Adrenalina</text>
+	</string>
+	<string id="With_ATP_Cordon_pda_name">
+		<text>Iz ATP u Kordon</text>
+	</string>
+	<string id="With_ATP_Army_Warehouses_pda_name">
+		<text>Iz ATP  u Vojna Skladišta</text>
+	</string>
+	<string id="Locate_bag_south_Chernobyl_pda_name">
+		<text>Pronađi vreću negde u na jugu Černobila</text>
+	</string>
+	<string id="With_ATP_Pripyat_pda_name">
+		<text>Iz ATP u Pripjat</text>
+	</string>
+	<string id="Find_the_Bolotny_Locket_pda_name">
+		<text>Pronađi medaljon za Doktora</text>
+	</string>
+	<string id="Mutated_vestige_sternum_pda_name">
+		<text>Mutirani ostatak prsne kosti</text>
+	</string>
+	<string id="Find_crow_eggs_cook_pda_name">
+		<text>Pronađi vranina jaja za Kuvara</text>
+	</string>
+	<string id="Bring_medicine_Akim_pda_name">
+		<text>Donesi lekove Akimu</text>
+	</string>
+	<string id="Find_flashlights_Miner_pda_name">
+		<text>Pronađi dve baterijske lampe za Rudara</text>
+	</string>
+	<string id="Get_Rubic_cube_pda_name">
+		<text>Nabavi Rubikovu kocku</text>
+	</string>
+	<string id="Find_Miner_father_book_pda_name">
+		<text>Pronađu za Rudara knjigu njegovog oca</text>
+	</string>
+	<string id="Find_Bald_Treasure_Cave_pda_name">
+		<text>Pronađi blago Ćelavog u Pećini</text>
+	</string>
+	<string id="Scalp_Controller_artifact_Miner_pda_name">
+		<text>Pronađi artefakt Skalp Kontrolera za Rudara</text>
+	</string>
+	<string id="Akim_bring_hands_zombie_pda_name">
+		<text>Donesi Akimu deset ruku zombija</text>
+	</string>
+	<string id="Find_documents_for_Mayor_pda_name">
+		<text>Pronađi dokumente za majora</text>
+	</string>
+	<string id="Find_the_second part_documents_pda_name">
+		<text>Pronađi drugi deo dokumenta</text>
+	</string>
+	<string id="Find_four_papers_X_18_pda_name">
+		<text>Pronađi četiri dokumenta u X-18</text>
+	</string>
+	<string id="Find_bronizhileta_note_PDA_X_16_pda_name">
+		<text>Pronađi četiri dokumenta, odelo i PDA u X-16</text>
+	</string>
+	<string id="Get_one_all_famous_monsters_pda_name">
+		<text>Nabavi po jedan deo od svakog poznatog čudovišta</text>
+	</string>
+	<string id="Get_fifteen_artifacts_Cross_pda_name">
+		<text>Donesi 15 artefakata Krestu</text>
+	</string>
+	<string id="Get_six_Anomalous_buffalo_pda_name">
+		<text>Nabavi šest anomalnih Bizona</text>
+	</string>
+	<string id="Find_bring_teleporter_pda_name">
+		<text>Pronađi i donesi teleporter</text>
+	</string>
+	<string id="Find_flask_Petrenko_pda_name">
+		<text>Pronađi malu ćuturicu za Petrenka</text>
+	</string>
+	<string id="Find_Products_artifacts_money_pda_name">
+		<text>Pronađi predmete, artefakte i novac</text>
+	</string>
+	<string id="Get_thermoses_Voronin_pda_name">
+		<text>Pronađi termos boce za Voronjina</text>
+	</string>
+	<string id="Cigarettes_Garik_pda_name">
+		<text>Pronađi cigarete za Garika</text>
+	</string>
+	<string id="Find_two_kits_Sidorovich_pda_name">
+		<text>Pronađi dva pribora za popravljanje za Sidoroviča</text>
+	</string>
+	<string id="Find_computer_videorecorder_pda_name">
+		<text>Pronađi kompjuter i videorekorder</text>
+	</string>
+	<string id="Meet_environmentalists_pick_phone_pda_name">
+		<text>Nađi se sa ekolozima i pokupi radio vezu</text>
+	</string>
+	<string id="Repel_attack_destroy_Humpback_pda_name">
+		<text>Odbij napad i uništi Grbavca</text>
+	</string>
+	<string id="Get_Storm_protect_Bar_pda_name">
+		<text>Nabavi Grozu da zaštitiš Bar</text>
+	</string>
+	<string id="Help_stalkers_kill_leader_bandits_pda_name">
+		<text>Pomozi stalkerima i ubij vođu bandita</text>
+	</string>
+	<string id="Meet_courier_pick_information_pda_name">
+		<text>Nađi se sa kurirom i pokupi informacije</text>
+	</string>
+	<string id="Get_sniper_AWP_Iglomet_pda_name">
+		<text>Nabavi snajper AWP Iglomet</text>
+	</string>
+	<string id="Destroy_Armored_Special_Forces_pda_name">
+		<text>Uništi oklopne u specijalne snage</text>
+	</string>
+	<string id="From_Caves_Dump_pda_name">
+		<text>Iz Pećine u Deponiju</text>
+	</string>
+	<string id="From_Caves_Agroprom_pda_name">
+		<text>Iz Pećine u Agroprom</text>
+	</string>
+	<string id="From_landfill_Cave_pda_name">
+		<text>Iz Deponije u Pećinu</text>
+	</string>
+	<string id="With_agricultural_industry_Cave_pda_name">
+		<text>Iz Agroproma u Pećinu</text>
+	</string>
+	<string id="From_Dark_Valley_Forgotten_Forest_pda_name">
+		<text>Iz Mračne Doline u Zaboravljenu Šumu</text>
+	</string>
+	<string id="Of_maze_Cave_pda_name">
+		<text>Iz Lavirinta u Pećinu</text>
+	</string>
+	<string id="From_caves_Labyrinth_pda_name">
+		<text>Iz Pećine u Lavirint</text>
+	</string>
+	<string id="From_Labyrinth_Amber_pda_name">
+		<text>Iz Lavirinta u Jantar</text>
+	</string>
+	<string id="Of_maze_Undiscovered_Land_pda_name">
+		<text>Iz Lavirinta u Neotkrivenu zemlju</text>
+	</string>
+	<string id="From_Amber_Labyrinth_pda_name">
+		<text>Iz Jantara u Lavirint</text>
+	</string>
+	<string id="With_ATP_Pripyat_pda_name">
+		<text>Iz ATP u Pripjat</text>
+	</string>
+	<string id="With_ATP_Army_Warehouses_pda_name">
+		<text>Iz ATP u Vojna Skladišta</text>
+	</string>
+	<string id="With_ATP_Cordon_pda_name">
+		<text>Iz ATP u Kordon</text>
+	</string>
+	<string id="With_ATP_Garbage_pda_name">
+		<text>Iz ATP u Deponiju</text>
+	</string>
+	<string id="From_warehouse_Undiscovered_Land_pda_name">
+		<text>Iz Vojnih Skladišta u Neotkrivenu zemlju</text>
+	</string>
+	<string id="From_Valley_Undiscovered_Land_pda_name">
+		<text>Iz Mračne Doline u Neotkrivenu zemlju</text>
+	</string>
+	<string id="From_landfill_Undiscovered_Land_pda_name">
+		<text>Iz Deponije u Neotkrivenu zemlju</text>
+	</string>
+	<string id="From_unexplored_Earth_Labyrinth_pda_name">
+		<text>Iz Neotkrivene zemlje u Lavirint</text>
+	</string>
+	<string id="With_radar_military_lab_pda_name">
+		<text>Iz Radara u Vojni laboratorij</text>
+	</string>
+	<string id="From_military_lab_X_16_pda_name">
+		<text>Iz Vojnog laboratorija u X-16</text>
+	</string>
+	<string id="From_military_lab_Army_Warehouses_pda_name">
+		<text>Iz Vojnog laboratorija u Vojna Skladišta</text>
+	</string>
+	<string id="From_X_18_military_lab_pda_name">
+		<text>Iz X-18 u Vojni Laboratorij</text>
+	</string>
+	<string id="The_cordon_Marsh_pda_name">
+		<text>Iz Kordona u Močvare</text>
+	</string>
+	<string id="With_radar_Red_Forest_Limansk_pda_name">
+		<text>Iz Radara u Crvenu Šumu i Limansk</text>
+	</string>
+	<string id="From_north_Chernobyl_ATP_pda_name">
+		<text>Iz severnog Černobila u ATP</text>
+	</string>
+	<string id="From_Pripyat_old_village_pda_name">
+		<text>Iz Pripjata u Staro Selo</text>
+	</string>
+	<string id="From_Old_Village_Limansk_pda_name">
+		<text>Iz Starog Sela u Limansk</text>
+	</string>
+	<string id="From_Old_Village_Hospital_pda_name">
+		<text>Iz Starog Sela u Bolnicu</text>
+	</string>
+	<string id="From_south_Chernobyl_NPP_generator_pda_name">
+		<text>Iz južnog Černobila u Generatore</text>
+	</string>
+	<string id="From_hospital_Agroprom_pda_name">
+		<text>Iz Bolnice u Agroprom</text>
+	</string>
+	<string id="With_agricultural_industry_Bogs_pda_name">
+		<text>Iz Agroproma u Močvare</text>
+	</string>
+	<string id="The_bar_ATP_pda_name">
+		<text>Iz Bara u ATP</text>
+	</string>
+	<string id="With_generator_Pripyat_pda_name">
+		<text>Iz Generatora u Pripjat</text>
+	</string>
+	<string id="From_north_south_Chernobyl_NPP_pda_name">
+		<text>Iz severnog u južni Černobil</text>
+	</string>
+	<string id="With_generator_hospital_pda_name">
+		<text>Iz Generatora u Bolnicu</text>
+	</string>
+	<string id="From_military_lab_Generators_pda_name">
+		<text>Iz Vojnog laboratorija u Generatore</text>
+	</string>
+	<string id="From_Limanskaya_Generators_pda_name">
+		<text>Iz Limanska u Generatore</text>
+	</string>
+	<string id="From_Red_Forest_military_lab_pda_name">
+		<text>Iz Crvene Šume u Vojni laboratorij</text>
+	</string>
+	<string id="Dead_Cities_Limansk_pda_name">
+		<text>Iz Mrtvog Grada u Limansk</text>
+	</string>
+	<string id="Dead_Cities_ATP_pda_name">
+		<text>Iz Mrtvog Grada za ATP</text>
+	</string>
+	<string id="Dead_GRODA_Wild_Territory_pda_name">
+		<text>Iz Mrtvog Grada za Divlju Teritoriju</text>
+	</string>
+	<string id="With_ATP_Dead_City_pda_name">
+		<text>Iz ATP za Mrtvi Grad</text>
+	</string>
+	<string id="Dead_Cities_Zaton_pda_name">
+		<text>Iz Mrtvog Grada za Zaton</text>
+	</string>
+	<string id="From_Limanskaya_Dead_City_pda_name">
+		<text>Iz Limanska za Mrtvi Grad</text>
+	</string>
+	<string id="From_Bar_Rostok_Wild_Territory_Rostok_pda_name">
+		<text>Iz Bara u Rostoku do Divlje Teritorije u Rostoku</text>
+	</string>
+	<string id="Release_prisoner_bring_notebook_pda_name">
+		<text>Oslobodi zatvorenika i donesi beležnicu</text>
+	</string>
+	<string id="Find_Fima_ordered_items_pda_name">
+		<text>Pronađi naručene predmete za Fimu</text>
+	</string>
+	<string id="Find_box_Labyrinth_pda_name">
+		<text>Pronađi sanduk u Lavirintu</text>
+	</string>
+	<string id="Find_the_safe_pda_name">
+		<text>Pronađi sef</text>
+	</string>
+	<string id="Bring_Sidorychev_remyaschika_return_amulet_pda_name">
+		<text>Donesi Sidoroviču dva seta za popravku i vrati amajliju</text>
+	</string>
+	<string id="Find_bring_Hermit_Box_pda_name">
+		<text>Pronađi i donesi sanduk Hermitu</text>
+	</string>
+	<string id="Find_bring_gynecologist_medicines_pda_name">
+		<text>Pronađi i donesi medicinske preparate Ginekologu</text>
+	</string>
+	<string id="Find_Zhorik_batteries_pda_name">
+		<text>Pronađi baterije za Zorika</text>
+	</string>
+	<string id="The_old_man_took_out_watch_pda_name">
+		<text>Starac je uzeo njegov sat</text>
+	</string>
+	<string id="Find_Cache_Pilgrim_pda_name">
+		<text>Pronađi štek za Pilgrima</text>
+	</string>
+	<string id="The_Ultra_Detector_Adrenalin_pda_name">
+		<text>Ultra detektor za Adrenalina</text>
+	</string>
+	<string id="Find_Elite_Detectors_pda_name">
+		<text>Pronađi Elitne detektor</text>
+	</string>
+	<string id="Learn_about_drawings_pda_name">
+		<text>Saznaj više o nacrtima</text>
+	</string>
+	<string id="Find_Equipment_Professor_pda_name">
+		<text>Pronađi opremu za profesora</text>
+	</string>
+	<string id="Cut_off_head_Sidorovich_pda_name">
+		<text>Odseci glavu Sidoroviču</text>
+	</string>
+	<string id="Get_corpse_Controller_pda_name">
+		<text>Nabavi leš kontrolera</text>
+	</string>
+	<string id="Get_flask_with_solution_pda_name">
+		<text>Nabavi čuturu sa rastvorom</text>
+	</string>
+	<string id="Find_artifacts_Kalinin_pda_name">
+		<text>Pronađi artefakte za Kalinjina</text>
+	</string>
+	<string id="Reconoiter_military_lab_pda_name">
+		<text>Izvidi Vojni laboratorij</text>
+	</string>
+	<string id="Return_seal_Lukas_pda_name">
+		<text>Vrati pečat Lukašu</text>
+	</string>
+	<string id="Get_Pseudodog_things_Dembele_pda_name">
+		<text>Nabavi delove Pseudo psa za Dembelea</text>
+	</string>
+	<string id="Radio_gear_Panther_pda_name">
+		<text>Radio oprema za Panteru</text>
+	</string>
+	<string id="Find_drive_Panther_pda_name">
+		<text>Pronađi drajv za Panteru</text>
+	</string>
+	<string id="Find_backpack_Panther_pda_name">
+		<text>Pronađi ranac za Panteru</text>
+	</string>
+	<string id="Accompany_Hologram_Unexplored_Earth_pda_name">
+		<text>Isprati Hologram do Neotkrivene Zemlje</text>
+	</string>
+	<string id="Bring_the_hologram_Klenow_pda_name">
+		<text>Donesi hologram Klenovu</text>
+	</string>
+	<string id="Make_Klenov_artifact_Maples_pda_name">
+		<text>Napravi "Klenovov Artefakt" za Klenova</text>
+	</string>
+	<string id="Raid_on_Varlab_pda_name">
+		<text>Pohod na Varlab</text>
+	</string>
+	<string id="Repay_debt_Sidorovich_pda_name">
+		<text>Otplati dug za Sidoroviča</text>
+	</string>
+	<string id="Collect_interest_for_service_pda_name">
+		<text>Pokupi proviziju za uskugu</text>
+	</string>
+	<string id="Find_brother_Kolmogorov_pda_name">
+		<text>Pronađi Kolmogorovog brata</text>
+	</string>
+	<string id="Find_sister_Kolmogorov_pda_name">
+		<text>Pronađi sestru Kolmogorova</text>
+	</string>
+	<string id="Help_capture_headquarters_pda_name">
+		<text>Zauzmi komandni štab</text>
+	</string>
+	<string id="Explore_the_village_pda_name">
+		<text>Istraži selo</text>
+	</string>
+	<string id="Repel_punitive_pda_name">
+		<text>Odbij napad</text>
+	</string>
+	<string id="Get_psi_antenna_pda_name">
+		<text>Pronađi PSI-antenu</text>
+	</string>
+	<string id="Exploration_on_farm_pda_name">
+		<text>Istraživanje na farmi</text>
+	</string>
+	<string id="Locate_destroy_helicopter_pda_name">
+		<text>Otkrij i sruši helikopter</text>
+	</string>
+	<string id="Find_Boatswain_pda_name">
+		<text>Pronađi Čamdžiju</text>
+	</string>
+	<string id="Bring_Boatswain_Helicopter_pda_name">
+		<text>Odvedi Čamdžiju do helikoptera</text>
+	</string>
+	<string id="Find_PSP_Andersen_pda_name">
+		<text>Pronađi džojstik za Andersona</text>
+	</string>
+	<string id="Turn_off_psi_antenna_pda_name">
+		<text>Isključi PSI-antenu</text>
+	</string>
+	<string id="Save_Panther_pda_name">
+		<text>Spasi Panteru</text>
+	</string>
+	<string id="Collect_information_pda_name">
+		<text>Prikupi informaciju</text>
+	</string>
+	<string id="Find_secret_cave_pda_name">
+		<text>Pronađi tajnu pećinu</text>
+	</string>
+	<string id="Collect_artifacts_from_Klenow_pda_name">
+		<text>Prikupi artefakte za Klenova</text>
+	</string>
+	<string id="Find_old_doll_pda_name">
+		<text>Pronađi staru lutku</text>
+	</string>
+	<string id="Find_black_box_pda_name">
+		<text>Pronađi crnu kutiju</text>
+	</string>
+	<string id="Run_third_generator_pda_name">
+		<text>Uključi treći generator</text>
+	</string>
+	<string id="Disable_generator_jammers_pda_name">
+		<text>Onesposobi generator šuma</text>
+	</string>
+	<string id="Take_position_north_Chernobyl_pda_name">
+		<text>Zauzmi položaj na severu Černobila</text>
+	</string>
+	<string id="Back_help_Fang_pda_name">
+		<text>Vrati se i pomozi Fangu</text>
+	</string>
+	<string id="Locate_lightning_pda_name">
+		<text>Lociraj Munju</text>
+	</string>
+	<string id="Find_fellow_Lightning_pda_name">
+		<text>Pronađi Munju</text>
+	</string>
+	<string id="Find_teleport_pda_name">
+		<text>Pronađi teleporter</text>
+	</string>
+	<string id="Take_a_picture_pda_name">
+		<text>Snimi fotografiju</text>
+	</string>
+	<string id="View_Cache_pda_name">
+		<text>Pregledaj štek</text>
+	</string>
+	<string id="Save_life_radio_operator_pda_name">
+		<text>Zaštiti radio operatera</text>
+	</string>
+	<string id="Find_caches_radioman_pda_name">
+		<text>Pronađi štek radio operatera</text>
+	</string>
+	<string id="Open_safe_let_die_radio_operator_pda_name">
+		<text>Otvori sef i ne dopusti da radio operater umre</text>
+	</string>
+	<string id="Locate_and_destroy_sniper_pda_name">
+		<text>Pronađi i uništi snajperistu</text>
+	</string>
+	<string id="Make_two_photos_pda_name">
+		<text>Snimi 2 fotografije</text>
+	</string>
+	<string id="Get_Case_Kuznetsov_pda_name">
+		<text>Donesi kofer Kuznjecovu</text>
+	</string>
+	<string id="Withdraw_from_plant_Chernomor_pda_name">
+		<text>Povuci se iz postrojenja sa Černomorom</text>
+	</string>
+	<string id="Find_things_stalker_pda_name">
+		<text>Pronađi stalkerove stvari</text>
+	</string>
+	<string id="Find_a_stranger_pda_name">
+		<text>Pronađi stranca</text>
+	</string>
+	<string id="Prevent_explosion_base_Liberty_pda_name">
+		<text>Spreči eksploziju u bazi Fridoma</text>
+	</string>
+	<string id="Overhear_the_conversation_pda_name">
+		<text>Prisluškuj razgovor</text>
+	</string>
+	<string id="Locate_activate_portal_pda_name">
+		<text>Pronađi i aktiviraj portal</text>
+	</string>
+	<string id="Earn_honest_robbery_pda_name">
+		<text>Odradi poštenu pljačku</text>
+	</string>
+	<string id="Find_polumutanta_pda_name">
+		<text>Pronađi polumutanta</text>
+	</string>
+	<string id="Get_of_Dead_Cities_pda_name">
+		<text>Izađi iz Mrtvog Grada</text>
+	</string>
+	<string id="Find_cache_agricultural_industry_pda_name">
+		<text>Pronađi štek u Agropromu</text>
+	</string>
+	<string id="Release_Bolotny_Doctors_pda_name">
+		<text>Oslobodi Blatnog Doktora</text>
+	</string>
+	<string id="Artifacts_pda_name">
+		<text>Artefakti</text>
+	</string>
+	<string id="Diary">
+		<text>Dnevnik</text>
+	</string>
+	<string id="Weapons">
+		<text>Oružja</text>
+	</string>
+	<string id="Pistols">
+		<text>Pištolji</text>
+	</string>
+	<string id="Machineguns">
+		<text>Mitraljezi</text>
+	</string>
+	<string id="Sniper_rifles">
+		<text>Snajperske puške</text>
+	</string>
+	<string id="Creatures">
+		<text>Stvorenja</text>
+	</string>
+	<string id="info">
+		<text>Informacije</text>
+	</string>
+	<string id="Books">
+		<text>Knjige</text>
+	</string>
+	<string id="Items">
+		<text>Predmeti</text>
+	</string>
+	<string id="Armors">
+		<text>Pancir odela</text>
+	</string>
+	<string id="task">
+		<text>Zadatak</text>
+	</string>
+	<string id="izomorf_pda_name">
+		<text>Izomorf</text>
+	</string>
+	<string id="Rostok_pda_name">
+		<text>Divlja Teritorija</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca -=- 10:41 17.04.2015 -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:50 -sadd -->

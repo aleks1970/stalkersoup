@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.2.6 lines 208-211-->
+<string_table>
+	<string id="kb_active_jobs">
+		<text>Aktivan zadatak u PDA</text>
+	</string>
+	<string id="kb_always_run">
+		<text>Niski čučanj</text>
+	</string>
+	<string id="kb_artefact">
+		<text>Artefakt</text>
+	</string>
+	<string id="kb_backward">
+		<text>Nazad</text>
+	</string>
+	<string id="kb_binoculars">
+		<text>Dvogled</text>
+	</string>
+	<string id="kb_buy_menu">
+		<text>Menu za kupovinu</text>
+	</string>
+	<string id="kb_chat">
+		<text>Ćaskanje</text>
+	</string>
+	<string id="kb_chat_team">
+		<text>Timsko ćaskanje</text>
+	</string>
+	<string id="kb_console">
+		<text>Konzola</text>
+	</string>
+	<string id="kb_contacts">
+		<text>PDA kontakti</text>
+	</string>
+	<string id="kb_crouch">
+		<text>Čučanj</text>
+	</string>
+	<string id="kb_crouch_toggle">
+		<text>Uvek čučanj</text>
+	</string>
+	<string id="kb_down">
+		<text>Dole</text>
+	</string>
+	<string id="kb_drop">
+		<text>Odbaci</text>
+	</string>
+	<string id="kb_fire">
+		<text>Paljba</text>
+	</string>
+	<string id="kb_firemode_next">
+		<text>Sledeći režim paljbe</text>
+	</string>
+	<string id="kb_firemode_prev">
+		<text>Predhodni režim paljbe</text>
+	</string>
+	<string id="kb_forward">
+		<text>Napred</text>
+	</string>
+	<string id="kb_func">
+		<text>Lanser granata</text>
+	</string>
+	<string id="kb_grp_common">
+		<text>Generalno</text>
+	</string>
+	<string id="kb_grp_direction">
+		<text>Pravac</text>
+	</string>
+	<string id="kb_grp_inventory">
+		<text>Inventar</text>
+	</string>
+	<string id="kb_grp_movement">
+		<text>Pokret</text>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<text>Mrežna igra</text>
+	</string>
+	<string id="kb_grp_weapons">
+		<text>Oružje</text>
+	</string>
+	<string id="kb_inventory">
+		<text>Inventar</text>
+	</string>
+	<string id="kb_jump">
+		<text>Skok</text>
+	</string>
+	<string id="kb_left">
+		<text>Levo</text>
+	</string>
+	<string id="kb_left_lookout">
+		<text>Naginjanje u levo</text>
+	</string>
+	<string id="kb_left_strafe">
+		<text>Korak levo</text>
+	</string>
+	<string id="kb_map">
+		<text>PDA mapa</text>
+	</string>
+	<string id="kb_next_slot">
+		<text>Oružje iz sledećeg slota</text>
+	</string>
+	<string id="kb_night_vision">
+		<text>Uređaj za noćno osmatranje</text>
+	</string>
+	<string id="kb_pause">
+		<text>Pauza</text>
+	</string>
+	<string id="kb_pda">
+		<text>PDA</text>
+	</string>
+	<string id="kb_prev_slot">
+		<text>Oružje iz prethodnog slota</text>
+	</string>
+	<string id="kb_quit">
+		<text>Izlaz</text>
+	</string>
+	<string id="kb_reload">
+		<text>Dopuna</text>
+	</string>
+	<string id="kb_repair">
+		<text>Popravka</text>
+	</string>
+	<string id="kb_right">
+		<text>Desno</text>
+	</string>
+	<string id="kb_right_lookout">
+		<text>Naginjanje u desno</text>
+	</string>
+	<string id="kb_right_strafe">
+		<text>Korak desno</text>
+	</string>
+	<string id="kb_scores">
+		<text>Bodovi</text>
+	</string>
+	<string id="kb_screenshot">
+		<text>Screenshot</text>
+	</string>
+	<string id="kb_skin_menu">
+		<text>Meni za izbor modela</text> <!-- Skin Menu !?? -->
+	</string>
+	<string id="kb_sprint">
+		<text>Trčanje</text> <!-- Sprint !?? -->
+	</string>
+	<string id="kb_team_menu">
+		<text>Izbor tima</text>
+	</string>
+	<string id="kb_torch">
+		<text>Baterijska lampa</text>
+	</string>
+	<string id="kb_up">
+		<text>Gore</text>
+	</string>
+	<string id="kb_use">
+		<text>Upotrebi</text>
+	</string>
+	<string id="kb_use_bandage">
+		<text>Brza upotreba zavoja</text>
+	</string>
+	<string id="kb_use_medkit">
+		<text>Brza upotreba medkita</text>
+	</string>
+	<string id="kb_vote_begin">
+		<text>Početak glasanja</text>
+	</string>
+	<string id="kb_vote_menu">
+		<text>Glasaj</text>
+	</string>
+	<string id="kb_vote_no">
+		<text>Glasaj "Da"</text>
+	</string>
+	<string id="kb_vote_yes">
+		<text>Glasaj "Ne"</text>
+	</string>
+	<string id="kb_weapon1">
+		<text>Oružje 1</text>
+	</string>
+	<string id="kb_weapon2">
+		<text>Oružje 2</text>
+	</string>
+	<string id="kb_weapon3">
+		<text>Oružje 3</text>
+	</string>
+	<string id="kb_weapon4">
+		<text>Oružje 4</text>
+	</string>
+	<string id="kb_weapon5">
+		<text>Oružje 5</text>
+	</string>
+	<string id="kb_weapon6">
+		<text>Oružje 6</text>
+	</string>
+	<string id="kb_wpn_next">
+		<text>Promena vrste municije</text>
+	</string>
+	<string id="kb_wpn_prev">
+		<text>Prethodno oružje ovog tipa</text>
+	</string>
+	<string id="kb_zoom">
+		<text>Zumirati</text>
+	</string>
+	<string id="speech_menu_group">
+		<text>Glasovna poruka (1)</text>
+	</string>
+	<string id="speech_menu_personal">
+		<text>Glasovna poruka (2)</text>
+	</string>
+	<string id="kb_cam_1">
+		<text>Pogled iz prvog lica</text>
+	</string>
+	<string id="kb_cam_2">
+		<text>Pogled iz trećeg lica</text>
+	</string>
+	<string id="kb_cam_3">
+		<text>Pogled iz trećeg lica (slobodni pogled)</text>
+	</string>
+	<string id="kb_turn_engine">
+		<text>Uključi motor</text> <!-- Start engine !?? -->
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca -=- 12:00 12.07.2014 -->
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 21:58 -sadd -->

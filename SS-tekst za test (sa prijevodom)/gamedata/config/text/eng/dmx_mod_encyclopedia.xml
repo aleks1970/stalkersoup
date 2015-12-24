@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.6  zaton to backwater, ui text formating aleks1970-->
+<string_table>
+	<!-- ====================================== -->
+	<!--              LOCATIONS                 -->
+	<!-- ====================================== -->
+	<string id="zone_locations_deadcity">
+		<text>Mrtvi Grad</text>
+	</string>
+	<string id="enc_zone_locations_deadcity">
+		<text>Smešten samo 2 kilometra od Vojnih Skladišta, ovaj mali grad na zapadu Zone postao je poznat kao Mrtvi Grad. Bio je potpuno uništen tokom II svetskog rata da bi bio kompletno rekonstruisan 1983. Mnogi uposlenici Istraživačkog Instituta Agroprom su živeli tu. 2009 postao je raj za Plaćenike, ali je i Fridom tvrdio da je njihov, što je dovelo do konstantnih sukoba... Tek nedavno su se nekako dogovorili, i sada su ujedinjeni u jedan klan sa samo jednom svrhom: Zadržati sve ostale van Mrtvog Grada pod svaku cenu!!! Ovo čini ovaj gradić ekstremno opasnim područjem...</text>
+	</string>
+	<string id="zone_locations_limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="enc_zone_locations_limansk">
+		<text>Napušteni grad koji je preuzela Monolit frakcija, a tu su utočište našli i Banditi. Postoji mit koji okružuje Limansk a koji kaže da Limansk poseduje sposobnost da u celosti nestane sa karte, da bi se opet iznenada pojavio u određenom trenutku. Glasina koja nije ni potvrđena ni opovrgnuta. Do tamo je moguće doći kroz Crvenu Šumu, ali vrata čuvaju i Banditi i Monolit.</text>
+	</string>
+	<string id="zone_locations_darklab">
+		<text>Laboratorij X-18</text>
+	</string>
+	<string id="enc_zone_locations_darklab">
+		<text>Jedan od prvih laboratorija za genetičke eksperimente unutar Zone - nosi kodno ime X-18. Konstruisan je rane 2001, i smešten negde u Mračnoj Dolini. Prema svim dostupnim informacijama o ovom strašnom mestu, ulaz u laboratorij je pronađen negde u podrumu davno napuštene fabrike.</text>
+	</string>
+	<string id="zone_locations_brainlab">
+		<text>Laboratorij X-16</text>
+	</string>
+	<string id="enc_zone_locations_brainlab">
+		<text>Laboratorij X-16 je jako zagonetno postrojenje. Naučnici tvrde da se tamo nalazi izvesna "Psihološka opasnost", čiji detalji još nisu isplivali na površinu. Priča se da je sam fabrički kompleks izvor tih PSI-Emisija. Ići tamo bez kakve PSI-zaštite je čista ludost i nikom se ne preporučuje.</text>
+	</string>
+	<string id="zone_locations_labx10">
+		<text>Laboratorij X-10</text>
+	</string>
+	<string id="enc_zone_locations_labx10">
+		<text>Iskusni stalkeri pričaju priče o ovom laboratoriju, kodnog imena X-10, ali nikada niko nije rekao da je bio unutar tih debelih zidova. Ovaj masivni bunker se nalazi u blizini legendarnog Radarskog Okruga, severno od Crvene Šume. Teško utvrđen i pod stalnim nadzorom frakcije Monolit, niko se ni ne usuđuje da pokuša ući. Priča se da je područje ekstremno opasno sa visokim nivoima radijacije.</text>
+	</string>
+	<string id="zone_locations_warlab">
+		<text>Vojni Laboratorij X-8</text>
+	</string>
+	<string id="enc_zone_locations_warlab">
+		<text>Bivši podzemni Vojni Laboratorij (X-8) koji je navodno opremljen nekim neprimetnim izvorom napajanja do generatora čudnog izgleda na površini. Priča se da su Vojni naučnici, koji su tu radili, bili umešani u projekat nazvan "C-Svest" ...Ali desio se jedan incident koji je izazvao kvar na jednom od predajnika što je dovelo do masivne eksplozije koja je ubila sve u blizini. Nakon ove nesreće mesto je postalp poznato samo kao "Vojni Laboratorij"</text>
+	</string>
+	<string id="zone_locations_secretlab">
+		<text>Tajni Laboratorij</text>
+	</string>
+	<string id="enc_zone_locations_secretlab">
+		<text>Ovaj visokotajni laboratorij navodno je smešten duboko ispod Sarkofaga. Priča se da je okupiran od elitnih Monolitovaca. Postoji samo jedan ulaz i potrebno je imati poseban dekoder da bi se ušlo .. Durge informacije nisu dostupne....</text>
+	</string>
+	<string id="zone_locations_generators">
+		<text>Generatori</text>
+	</string>
+	<string id="enc_zone_locations_generators">
+		<text>Potpuno lišeni bilo kakvog života... Sva drveća u ovom području su mrtva i isušena. Ovo je bio epicentar Druge masivne eksplozije koja se desila 2006. Iskusni stalkeri tvrde da generatori, koji više nisu u funkciji kao i sve što ih je nekada kontrolisalo, uništeni.</text>
+	</string>
+	<string id="zone_locations_zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="enc_zone_locations_zaton">
+		<text>Veliki okrug smešten istočno od NEP. Leži unutar isušenog korita reke na kojem leže zarđale olupine raznih brodova. Na jugoistoku, most "Preobraženja" pruža se preko reke, a na zapadu...veliki kružni "Cristalni Oscilatori". U centru ovog okruga nalazi se brod - "Skadovsk". Neki vredni stalkeri su ga premenili u objekat za piće. U blizini je naselje "Smaragd", koje baš i nije mesto za preporuku zbog visoke radijacije i konstantnog porasta populacije opasnih mutanata.</text>
+	</string>
+	<string id="zone_locations_jupiter">
+		<text>Jupiter</text>
+	</string>
+	<string id="enc_zone_locations_jupiter">
+		<text>Jedino mesto od nekog interesa jeste fabrika Jupiter, koja se nalazi na jugoistoku. U centru se nalazi železnička stanica pod imenom "Janov". Sa druge strane se nalazi veliki rudokop koji se dalje razleva u velike močvaru. Na severu se nalazi napuštena fabrika betona. Priča se da se noću može videti neko bela svetlost iz fabrike. Grupa stalkera je išla istražiti tu pojavu... niko od njih se nije vratio.</text>
+	</string>
+	<string id="zone_locations_predbannik">
+		<text>Čekaonica</text>
+	</string>
+	<string id="enc_zone_locations_predbannik">
+		<text>Ovaj čudni deo Zone služi kao neka vrsta "pretkomore" između vanjskog ruba Zone i vanjskog sveta. Ovo područje sadrži mali broj anomalija i retko je naseljenja mutantima.Pozadinsko zračenje ovdje može premašiti dopuštenu razinu od deset do dvadeset puta, što je vrlo opasno. Na severoistoku je naselje gde se može pronaći bar kao i lokalni trgovac. Na jugu, na brdu koje gleda prema NEP, primećena je krvopija. Selo leži na jugozapadu a napuštena Vojna baza leži u centru. Cesta vodi do predstraže...iza koje Čekaonica završava...</text>
+	</string>
+	<!-- ====================================== -->
+	<!--              MONSTERS                  -->
+	<!-- ====================================== -->
+	<string id="Swamp_thing">
+		<text>Močvarni Stvor</text>
+	</string>
+	<string id="enc_Swamp_thing">
+		<text>Lutajući kroz vijugave i vetrovite prolaze koji okružuju Močvare, bez zaštite i bez obraćanja pažnje, može dovesti do susreta sa ovim neobičnim stvorenjem. Kao podvrsta obične "Krvopije", po njegovim navikama i fizičkom izgledu dosta se razlikuje od svog kopnenog rođaka. Posedujući savršeno izgrađenu mišićnu strukuturu, sposoban je za praviti ogromne skokove i u jednom skoku odneti neopreznog stalkera, ili ga prikovati kandžama za tlo, a potom ga odvući u močvare. Niko nikada, ko je imao nesreću susresti ovog stvora, nije se vratio da ispriča svoju priču. Sa sposobnošću da postane nevidljiv, napada svoje iznenada i bez upozorenja. Čak i kada je vidljiv teško ga je uočiti zbog svoje prirodne kamuflaže, tamnih i dugih dlaka.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]150kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]Brz (3,3m m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]80%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]99%</text>
+	</string>
+	<string id="Psi_dog">
+		<text>PSI-Pas</text>
+	</string>
+	<string id="enc_Psi_dog">
+		<text>Iako je nasledio nekoliko osobina koje ga razlikuju od običnog Pseudo-Psa, ovo stvorenje stvara jake izvore PSI-Emisija. Najistaknutija stvar kod ovog stvorenja jeste njegova psihička sposobnost komunikacije sa nizom "Spektralnih Klonova" koji ponavljaju vlastita ponašanja. Ovi klonovo su jednako opasni kai PSI-Pas koji upravlja s njima, iako nemaju fizičko telo...dokazuju se neranjivim na direktne fizičke napade. I vizualno se također razlikuju...po lakšem i krućem krznu. Obično naseljuju severni deo Zone i jako su opasni!!!\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]250 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]78kg \n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]spor (1,5 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]99%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]20%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]60%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]50%</text>
+	</string>
+	<string id="Psi_burer">
+		<text>PSI-Burer</text>
+	</string>
+	<string id="enc_Psi_burer">
+		<text>Tužan i sadistički rezultat genetskog eksperimentiranja koje su proveli Naučnici Specijalnih Vojnih Snaga na kriminalcima koji su osuđeni na smrt, a kao deo "Program napretka u procesu telekinetičkih mogućnosti". To je sve što je ostalo humanoidnog stvorenja, sa ekstremnim hipertrofičkim osobinama. Izbegavaju osvetljena područja pa borave u tamnim svodovima i pećinama. U bliskoj borbi koriste usmerenu gravitacionu silu tako da odbacuju svog protivnika i to takvom silom da prouzrokuje i vanjska i unutrašnja oštećenja. Također imaju sposobnosta da levitiraju teške objekte, i da ih koriste kao projektilno oružje za napad. Mogu izbiti oružje iz ruku koristeći usmereni gravitacionalni impuls. Najbolja odbrana protiv ovih stvorenja jeste ostajanje u stalnom pokretu, i ne približavati se previše radi izbjegavanja psihološkog napada. Osetljivi su na paljbu...naročito u glavu. Poznato je da se hrane ostacima tela stalkera...\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]70kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]Spor (2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Psihokinetički/Telekinetički\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]40%</text>
+	</string>
+	<string id="Electro_himera">
+		<text>Elektro Himera</text>
+	</string>
+	<string id="enc_Electro_himera">
+		<text>Elektro Himera poseduje neobičnu imunost na elektricitet. Jednostavno nema nikakvog učinka na nju. Štoviše, napad ovog stvorenja zadaje slična oštećenja i povrede kao i Elektra anomalija. Najbolje izbegavati pod svaku cenu. U slučaju susreta, šanse za preživljavanje su veće ukoliko se poseduje zaštita od elektriciteta...\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]800 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]220kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]Brz (3-4 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizički/Električni\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]99.8%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]98%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]85%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]98%</text>
+	</string>
+	<!-- ====================================== -->
+	<!--               ADDITIONAL               -->
+	<!-- ====================================== -->
+	<string id="rostok_factory">
+		<text>Rostok Fabrika</text>
+	</string>
+	<string id="predbannik">
+		<text>Čekaonica</text>
+	</string>
+	<string id="garbage_old">
+		<text>Industrijska Zona</text>
+	</string>
+	<string id="yantar_old">
+		<text>Istraživačka Stanica</text>
+	</string>
+	<string id="swamp_old">
+		<text>Mrtve Baruštine</text>
+	</string>
+	<string id="darkscape">
+		<text>Mračni Izlaz</text>
+	</string>
+	<string id="history_bibliotekar">
+		<text>Istorija o Bibliotekaru</text>
+	</string>
+	<string id="enc_history_bibliotekar">
+		<text>U Pripjatu, ispod biblioteke, nalazi se tajni laboratorij koje specijalizovan za eksperimente na životinjama. Posebno na gorilama. Dogodila se nesreća u tom mestu pre Druge velike eksplozije u Zoni 2006. Iz službenih transkripata uzetih sa snimljene trake sa izjava Specijalnih snaga, operativca Gustava Marakina: "...Čuo sam alarm i pošao sam istražiti šta se desilo. Nakon ulaska u glavnu dvoranu, gotovo mi je ispala puška i pobegao sam koliko me noge nose... Najmanje sedam pomoćnika naučnika ležalo je na podu prekrivano krvlju, sa potpuno rastrganim telima u komade!!! Dole dalje iz hodnika mogao sam čuti teške, ljuljajuće korake...kako se približavaju...sve bliže...i bliže... I onda, kao da se samo tu stvorilo... bilo je nešto manje od dva metra viskoko, pogrbljeno, jako dlakavo... Podsećalo me na nekog velikog majmuna ili gorilu. Urlao je i strašno i tužno na mene... Okrenuo sam se prema glavnom ulazu i potrčao što sam brže mogao... Ne osvrćući se... Osećao sam da me juri...vrišteći na mene. Stgao sam do izlaza i otvorio kodirana vrata... I samo nastavio trčati... Ne gledajući unazad!!! Znam da sam pogrešio... Što nisam zatvorio vrata... A time i zapečativši izlaz... Tako bih zaključao tu...tu...stvar... Da, zaključao bih tu "stvar" tamo zauvek... Ali ne mogu promeniti prošlost... Moram s tim živeti do kraja svog života.... "jecajući zvuk" ...</text>
+	</string>
+	<string id="pogremushka_infa_to_pda">
+		<text>Informacije od Rudara</text>
+	</string>
+	<string id="enc_pogremushka_infa_to_pda">
+		<text>Kopiraću ove podatke na tvoj PDA tako da ne zaboraviš ovu jako važnu informaciju. Bilo je otprilike ovako: Lutao sam po nekim pećinama sa jednim svojim dugom, po mestu koje je poznato kao "Lavirint". I tako na najdubljem kraju su nas napali štakori. I to jako puno štakora. Ta prljava, bolesna stvorenja!!! bežali smo koliko smo mogli dok nismo upali u jednu veliku pećinu. Popeli smo se na greben i počeli pucati po štakorima...koji su samo dolazili i dolazili... Sve više i više!! imao sam jedan čudan artefakt za pojasom, poznat kao "Simbion"... Kad odjednom, moj drug ga zgrabi sa pojasa i baci među nadolazeće štakore... Neverovatno!! u tom trenutku na mestu gde je pao počela se formirati anomalija.. Prvo je bila nevidljiva... A onda jako, blešteće svetlo... Tada sam izgubio svest... Kada sam se probudio.. Video sam artefakt ispred mene.. Okružen sa hrpom mrtvih štakora!!! Pored te hrpe štakora ležao je i skelet mog mrtvog druga, Žala... Bio je dobar čovek. Nije bio pokvaren kao većina. Puno mi nedostaje.. nikada mu se neću moći odužiti za njegovu žrtvu tog dana.. Na kraju je ispalo da je artefakt "Simbion" rezultat transmutacije koji uključuje anomaliju Voćni Punč. Moraš ubaciti sirovi "Simbion" u nju i nakon desetak minuta... Stvoriće se novi artefakt poznat kao "Zvečka"... Zbog svog oblika. Nemam ti više ništa za reći... Uzmi ovu informaciju i dobro je iskoristi... Sretno.</text>
+	</string>
+</string_table>
+	<!-- Preveo i prilagodio Flexerca -=- 14:13 06.08.2014 -->
+<!-- Tekst usklađen sa 109986 verzijom zakrpe - 11.05.2015 13:18 -sadd -->

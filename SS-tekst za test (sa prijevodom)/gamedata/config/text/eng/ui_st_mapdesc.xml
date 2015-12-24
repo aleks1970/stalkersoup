@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>Nepoznato mesto. Mistična zgrada sa mnogo tajni, ali stalkeri su privučeni brojnim artefaktama koje se mogu naći ovde, uprkos opasnostima. Brzim pokretima i preciznim pucanjem, postaćeš omiljen među stalkerima.</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>Nepoznato mesto. Mistična zgrada sa mnogo tajni, ali stalkeri su privučeni brojnim artefaktama koje se mogu naći ovde, uprkos opasnostima. Brzim pokretima i preciznim pucanjem, postaćeš omiljen među stalkerima.</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<text>Autobus i kolica u parku su su predsoblje Zone. Traktori, kamioni i autobusi, zaustavljeni su u njihovoj pesmi zauvek. Nijedan artefakt nije pronađen. Mesto je popularno sa iskusnim stalkerima koji love početnike i kradu šta stignu. Sakrij se u zgradi, iza opreme i čuvaj se neprijatelja na krovu .</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<text>Autobus i kolica u parku su su predsoblje Zone. Traktori, kamioni i autobusi, zaustavljeni su u njihovoj pesmi zauvek.</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<text>Ovo mistično mesto ima čudesnu atrakciju za ljude. Ko je napravio ovaj eksperiment i za čega - to će biti zauvek tajna. Artefakti ovde nisu pronalaženi. Samo ostaci čudnih mašina i uređaja privlače stalkere ovde. Pazi na krovove i ne zaboravi da je u ovom području ekstremno povišeno zračenje.</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<text>Ovo mistično mesto ima čudesnu atrakciju za ljude. Ko je napravio ovaj eksperiment i za čega - to će biti zauvek tajna.</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<text>Sumorna napuštena fabrika. Mnogo stalker su pronašli smrt u ovoj fabrici. Sve vrste anomalija su ovde i još uvek privlači stalkere kao magnet, pogotovo odkad postoje vredni artefakte. Al pazi na zračenje!</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<text>Sumorna napuštena fabrika. Mnogo stalker su pronasli smrt u ovoj fabrici.</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>Ovo je deo ogromne deponije, gde su planine radioaktivnog đubreta doneto posle katastrofe u '86... stvari kao što su oronule dizalice, hardveri i tako dalje. Možete naći neke ostatke starih objekata i veliki hangar. Sve ovo je blizu ulaska Zone i ima mnogo artefakta. To je ono što donosi stalkere u potrazi za lakim plenom.</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>Ovo je deo ogromne deponije, gde su planine radioaktivnog đubreta doneto posle katastrofe u '86... stvari kao što su oronule dizalice, hardveri i tako dalje.</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>Napušteno, bogu iza leđa selo duboko u Zoni. Male, plitke, hrđom obojana jezera puna olupinama od auta, strah u srcima istraživača zone. Čuvajte se snajpera, ali imajte na umu da Zona favorizuje hrabre.</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>Napušteno, bogu iza leđa selo duboko u Zoni. Male, plitke, hrđom obojana jezera puna olupinama od auta, strah u srcima istraživača zone.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>Vojna baza sa slomljenim kamionima i oklopnim vozilima ostavljeni da trunu, neke kasarne i uništen komandni centar. Ali nije sve onako kao što izgleda. Baza je bogata artefaktama i neprijatelji mogu da se kriju iza svakog ugla. Pokaži se i pokupi svoju nagradu!</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>Vojna baza sa slomljenim kamionima i oklopnim vozilima ostavljeni da trunu, neke kasarne i uništen komandni centar.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>Ovo staro selo je zlokobno mesto i sa smrtonosnim zamkama. Ali, ako ste došli dovde, uprkos svim rizicima, budite spremni da umrete iznenada, pošto nijedno mesto nije sigurno, neka te nišan i prigušivač čuvaju u jednom komadu.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>Ovo staro selo je zlokobno mesto i sa smrtonosnim zamkama. Ali, ako ste došli dovde, uprkos svim rizicima, budite spremni da umrete iznenadaOvo staro selo je zlokobno mesto i sa smrtonosnim zamkama. Ali, ako ste dosli dovde , uprkos svim rizicima , budite spremni da umrete iznenada.</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_large">
+		<text>Grad Pripjat je bivše sedište radnika NE, ili šta je ostalo od toga. Ruševine ove industrije sadrže dosta neposrednih opasnosti. Zaista moraš da čuvaš svoj život ovde.</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_short">
+		<text>Grad Pripjat nije daleko od NE - Posledice katastrofe u Černobilu.</text>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>Mala železnica u fabrici Rostok.</text>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>Mala železnička stanica u fabrici Rostok. Zarđali vagoni i dizel lokomotive sada stoje tu, na večnoj raskrsnici. Puno artefakata je ovde pronađeno a mesto je postalo mamac za očajne stalkere iz cele Zone.</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>Pod gomilama metala i iza zidova od betona, vlada neka čudna tišina. Prošlog veka, sve je bujalo od rada, radnici koji žure u svoju smenu pod parolama sa razglasa.... Ali fabrika je sad završila svoje.</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>Napuštena stara fabrika, ispod gomila metala i betona, čuva svoju usnulu tišinu.</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>Periferija fabrike "Rostok" pre dolaska Djuti frakcije. Sumorno mesto, međutim, veoma bogato artefaktima. Prazni hangari i skladišta, skrivaju u sebi opasnost na svakom koraku. Budite veoma oprezni i obratite naročitu paznju na bele kule...</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>Periferija "Rostok" fabrike pre dolaska Djutija. Oblast je prilično oronula i mračna ali veoma bogata artefaktima.</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 18:55 18.10.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:20 -sadd -->

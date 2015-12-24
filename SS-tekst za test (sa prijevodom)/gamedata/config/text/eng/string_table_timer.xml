@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Vergas ============================ -->
+<!-- TB3D 1.0.9.9.7.2 -->
+<string id="item_timer">
+	<text>Štoperica</text>
+</string>
+<string id="item_timer_s">
+	<text>Štoperica</text>
+</string>
+<string id="enc_item_timer_descr">
+	<text>Elektronski sat, remodeliran od strane vrhunskog majstora iz Zone. Ova sprava odbrojava vereme do sledeće "Emisije" i alarmira vlasnika na opasnostsa signalom na dodir, a sa zvukom upozorenja. Opremljen je sa tajmero i štopericom. Takođe - zgodna stvar je - nema potrebe da u PDA gledaš koje je vreme. Jednostavno konfigurisanje.</text>
+</string>
+<!-- Preveo i prilagodio Coolkingeye -=- 21:37 27.08.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:39 -sadd -->

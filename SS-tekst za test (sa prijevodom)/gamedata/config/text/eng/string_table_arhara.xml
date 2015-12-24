@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.4  dmx135 controller vice comptroller, doc message in pripyat removed dose_asses...,
+ dip: gen/Astrol questline, The Doctor, \\n, cop_prip_msg1, line 981 - removed russian char. aleks1970,
+ tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik -->
+<string_table>
+	<string id="blow_phrase1">
+		<text>Pažnja! Približava se Emisija! Neka svi potraže sigurno utočište!</text>
+	</string>
+	<string id="blow_phrase2">
+		<text>Pažnja! Približava se Emisija! Svi koji žele živeti neka se sakriju na sigurna mesta!</text>
+	</string>
+	<string id="blow_phrase3">
+		<text>Pažnja! Emisija se približava!</text>
+	</string>
+	<string id="blow_phrase4">
+		<text>Na osnovu podataka iz mernih instrumenata, Emisija je neizbežna!</text>
+	</string>
+	<string id="important_msg">
+		<text>Važna poruka</text>
+	</string>
+	<string id="atp_for_test22">
+		<text>Teritorij ATP-a</text>
+	</string>
+	<string id="peshera">
+		<text>Pećina</text>
+	</string>
+	<string id="puzir">
+		<text>Zaboravljena Šuma</text>
+	</string>
+	<string id="av_peshera">
+		<text>Lavirint</text>
+	</string>
+	<string id="aver">
+		<text>Neotkrivena Zemlja</text>
+	</string>
+	<string id="marsh">
+		<text>Močvara</text>
+	</string>
+	<string id="lost_village">
+		<text>Staro Selo</text>
+	</string>
+	<string id="red_forest">
+		<text>Crvena Šuma</text>
+	</string>
+	<string id="warlab">
+		<text>Vojni Laboratorij</text>
+	</string>
+	<string id="generators">
+		<text>Generatori</text>
+	</string>
+	<string id="hospital">
+		<text>Bolnica</text>
+	</string>
+	<string id="limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="dead_city">
+		<text>Mrtvi Grad</text>
+	</string>
+	<string id="jupiter">
+		<text>Jupiter</text>
+	</string>
+	<string id="zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="pripyat">
+		<text>Istočni Pripjat</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>Jupiter Podzemlje</text>
+	</string>
+	<string id="labx8">
+		<text>Laboratorij X-8</text>
+	</string>
+	<!-- new 10991 -->
+	<string id="sniper_novice">
+		<text>Osvetnik početnik</text>
+	</string>
+	<string id="sniper_experienced">
+		<text>Osvetnik iskusan</text>
+	</string>
+	<string id="sniper_master">
+		<text>Osvetnik majstor</text>
+	</string>
+	<string id="sniper_veteran">
+		<text>Osvetnik veteran</text>
+	</string>
+	<string id="nebo_master">
+		<text>Čisto Nebo majstor</text>
+	</string>
+	<string id="nebo_veteran">
+		<text>Čisto Nebo veteran</text>
+	</string>
+	<string id="nebo_experienced">
+		<text>Čisto Nebo iskusan</text>
+	</string>
+	<string id="nebo_novice">
+		<text>Čisto Nebo početnik</text>
+	</string>
+	<string id="map_technician">
+		<text>Tehničar</text>
+	</string>
+	<string id="map_trader">
+		<text>Trgovac</text>
+	</string>
+	<string id="map_cmdr_freedom">
+		<text>Komandant Fridoma</text>
+	</string>
+	<string id="map_cmdr_debt">
+		<text>Komandant Djuti grupe</text>
+	</string>
+	<string id="map_cmdr_clearsky">
+		<text>Komandant Čistog Neba</text>
+	</string>
+	<!-- string id="cop_prip_msg1">
+		<text>I got to the apartment. Pavel Sergeyevich and Shadows have been here but are gone. I found an interesting Notepad about that night's incident in the lab. .. So after all that happened, our friend went back to the lab. Apparently never came out from there...\nBy the way.. there is a receiver here with a strange continuously repeated message. certainly a Military transmission...\nWhat do you think?</text>
+	</string>
+	<string id="cop_prip_msg2">
+		<text>You are very close.. BUT We have a problem... our last conversation overheard. And maybe someone else knew about the Cube...\nA squad of Mercenaries has arrived in the eastern part of Pripyat. They know what you're looking for in the apartment...\nNeed to get them to believe otherwise. You do not want to trouble? You can try to merge some of the misinformation in the stalkers network...\nTry to write in the chat through PDA: Sell the cube of shadows, inexpensively. Meet us at the Cordon around the perimeter.\nWrite exactly how I wrote, then perhaps they decide that you have already picked up a cube... Try.</text>
+	</string -->
+	<string id="bullseye_private">
+		<text>Bullseye: privatni kanal</text>
+	</string>
+	<string id="shadows_private">
+		<text>Mračni: privatni kanal</text>
+	</string>
+	<string id="labx8_private1">
+		<text>Znam gde je ulaz u Laboratorij X8. Šaljem.</text>
+	</string>
+	<string id="labx8_private2">
+		<text>U redu. Nadam se da je Pavel živ... On zna ono šta želimo.</text>
+	</string>
+	<string id="unknown_private">
+		<text>Nepoznat: privatni kanal</text>
+	</string>
+	<string id="propusk_msg">
+		<text>Bullseye, okolnosti su se promenile! Jedan vojnik što je bio sa pukovnikom je preživeo! Upravo sam ga video na putu za kontrolni punkt. Ubrzajte malo, dok nije rekao nekom o incidentu.</text>
+	</string>
+	<string id="journal_article">
+		<text>Članak u Dnevniku:</text>
+	</string>
+	<string id="intel_mutant">
+		<text>Informacije o mutantu:</text>
+	</string>
+	<string id="intel_group">
+		<text>Informacije o grupacijama:</text>
+	</string>
+	<string id="intel_art">
+		<text>Informacije o artefaktima:</text>
+	</string>
+	<string id="intel_anom">
+		<text>Informacije o anomalijama:</text>
+	</string>
+	<string id="intel_local">
+		<text>Informacije o lokacijama:</text>
+	</string>
+	<string id="zone_history">
+		<text>Istorija Zone:</text>
+	</string>
+	<string id="local_lore">
+		<text>Lokalni folklor:</text>
+	</string>
+	<string id="pers_note">
+		<text>Lična beleška:</text>
+	</string>
+	<string id="intel_transport">
+		<text>Informacije o transportu:</text>
+	</string>
+	<string id="data_downloaded">
+		<text>Snimljeni PDA podaci:</text>
+	</string>
+	<string id="mil_secret">
+		<text>Vojna tajna:</text>
+	</string>
+	<string id="flame_tip1">
+		<text>Opasnost! Kritičan pritisak!</text>
+	</string>
+	<string id="flame_tip2">
+		<text>Nije moguće stvoriti plamen bez koloidalnog plina ili benzina.</text>
+	</string>
+	<string id="flame_tip3">
+		<text>Nema bacača plamena za dopuniti!</text>
+	</string>
+	<string id="stop_stalker">
+		<text>STALKERU!! Stop!!!</text>
+	</string>
+	<string id="mod_downloaded">
+		<text>Nova modifikacija artefakta snimljena na PDA...</text>
+	</string>
+	<string id="doc_alive">
+		<text>Doktor je živ!!!\nPožuri!\nPrati ga kroz teleporter do sigurnog mesta.</text>
+	</string>
+	<string id="tele_ready">
+		<text>Teleporter je spreman...</text>
+	</string>
+	<string id="kit_enemies">
+		<text>Neprijatelj je previše blizu da bi koristili Alat za popravljanje!!!</text>
+	</string>
+	<string id="rep_slot1">
+		<text>Oružje iz prvog slota je popravljeno...</text>
+	</string>
+	<string id="rep_slot2">
+		<text>Oružje iz drugog slota je popravljeno...</text>
+	</string>
+	<string id="rep_damaged">
+		<text>Oružje je previše oštećeno!!!</text>
+	</string>
+	<string id="rep_nofix">
+		<text>Oružju nije potrebna popravka...</text>
+	</string>
+	<string id="rep_armor_done">
+		<text>Pancir je uspešno popravljen.</text>
+	</string>
+	<string id="rep_armor_bad">
+		<text>Pancir je previše oštećen!!!</text>
+	</string>
+	<string id="rep_armor_good">
+		<text>Panciru nije potrebno popravljanje.</text>
+	</string>
+	<string id="rep_no_armor">
+		<text>Koji pancir!? Moronu!</text>
+	</string>
+	<string id="rec_ria10_3">
+		<text>Primljeno: Tri RIA-10 alata za popravljanje</text>
+	</string>
+	<string id="rec_riw10_3">
+		<text>Primljeno: Tri RIW-10 alata za popravljanje</text>
+	</string>
+	<string id="rec_ria10">
+		<text>Primljeno: RIA-10 alat za popravljanje</text>
+	</string>
+	<string id="rec_riw10">
+		<text>Primljeno: RIW-10 alat za popravljanje</text>
+	</string>
+	<!-- end 10991 -->
+	<string id="tex_take_arhara">
+		<text>Da, u Zoni ništa nije jednostavno... Na primer - pronaći minigun za Adrenalina... Trebao bi ga naći u Jantaru, gde helikopter sleće... A gde je taj Jantar? Klijent mi je nagovestio da bi trebao razgovarati s nekim profesorom po imenu Saharov...</text>
+	</string>
+	<string id="tex_baty_zadan">
+		<text>Ništa nije jednostavno. Moram uzeti Saharov specijalni detektor, a onda otići u Divlju Teritoriju i potražiti s tim detektorom neku vojnu stvar. Šta je ta stvar, nemam pojma. Kako god, detektor će signalizirati ako sam udaljen 10 metara od te stvari. Kada pronađem tu stvar, moram je isporučiti Saharovu i pokupiti minigun za Adrenalina.</text>
+	</string>
+	<string id="tex_arhara_ekza">
+		<text>Huh, uključio sam se... Pronaći u ATP-u neprijatelje i mutante, egzoskelet... Ovaj zadatak je jako neizvesan. Voronjin mo je dao približnu lokaciju. Neće smesta odustati od pancira. Voronjin može čekati, a ja mogu saznati je li taj "plašt nevidljivosti" toliko koristan.</text>
+	</string>
+	<string id="tex_take_shurup">
+		<text>Čudan je ovaj Šraf! Traži da mu donesem obične mengele, i da ih vučem kroz celu Zonu... Izgleda da se ne druži puno sa svojom glavom. Iako... Svi ti genijalci su malo čudni, ali on ne liči na genijalca. A možda je i odvojen od mozga još od detinjstva... Dobro je što mi je dao približne informacije gde bi te mengele mogle biti.</text>
+	</string>
+	<string id="tex_take_chaes_ugrum">
+		<text>Moram pronaći antizombin za stražara Fridoma. Imam priliku postati pravi zombi ili pronaći nove trgovce. Ovde sam k'o panj, a ne neophodno je da odmah kupim dva... A odjednom, svinja neće da ih proda! Idem na sever, u NEP Černobil, nadam se da će biti korisno...</text>
+	</string>
+	<string id="tex_take_mozg">
+		<text>Potrebno je pronaći doneti Lukašu Mozak Kontrolera, i to najmanje dva komada. Potražiti u ATP-u ili severu Černobila... Što je gore, ovaj anarhist neće ni da razgovara samnom ako u džepovima ne donesem 300 000 Ru.</text>
+	</string>
+	<string id="tex_take_disk">
+		<text>Adrenalin mi je dao informacije o jednom od izlaza iz ATP-a, i zamolio da mu donesem disk iz kompjutera, koji mu je donosio jedan od njegovih stalkera. Mogu ga, naravno, i ne potražiti, jer znam gde se izlazi iz lokacije... Adrenaline nije imao izbora nego reći mi gde je izlaz, pre nego je dao zadatak. Inače kako bi mu doneo ono šta treba? Ali još imam svoju savest, pa ću ipak pokušati odraditi posao.</text>
+	</string>
+	<string id="enc_atp_way_kordon_text">
+		<text>Adrenalin mi je dao informacije o jednom od izlaza iz ATP-a. Prelaz u Kordon je, navodno, na ovom kamenju.</text>
+	</string>
+	<string id="enc_atp_way_military_text">
+		<text>Dobio sam informaciju o još jednom izlazu iz ATP-a u Vojna Skladišta. Trebao bi biti u ovom uglu krova. Treći izlaz zna Saharov. Moram i s njim razgovarati...</text>
+	</string>
+	<string id="tex_take_sumka">
+		<text>Profesor baš i ne ceni tuđe živote... Sve ovo zbog jedne obične torbe... Pa, barem imam ugrubo obeleženu tačku vojne predstraže. Negde je u Černobilu 1, u blizini ulaza u Sarkofag...</text>
+	</string>
+	<string id="enc_atp_way_pripyt_text">
+		<text>Napokon sam dobio informaciju o izlazu iz ATP-a u Pripjat. Sudeći po ovoj slici, potrebno je istražiti ovaj deo uništenog krova.</text>
+	</string>
+	<string id="tex_take_arhara_doctor">
+		<text>Moram pronaći izgubljeni medaljon za Blatnog Doktora. Nalazi se u rancu na krovu jednog od nebodera u Pripjatu. Ne mogu ni zamisliti kako ću se popeti na jedan od tih krovova... Ali Doktor mi je natuknuo mogućnost prilaza neboderu sa ATP-a.</text>
+	</string>
+	<string id="enc_artmod_gusenica_text">
+		<text>Saharov mi je prodao recept za modifikaciju artefakta: Iz Bezoara Kontrolera i anomalije Gorionik, može se dobiti artefakt Guseničina Plazma. Vreme transmutacije je 5 minuta, verovatnoća uspešnosti transmutacije 75%.</text>
+	</string>
+	<string id="enc_pripyt_way_atp_text">
+		<text>Imam informaciju o prelazu iz NEP Černobil u ATP. Rečeno mi je da bi i oznaka sa PDA mogla nestati, zbog jake anomalne aktivnosti. Ipak, ima ta slika...</text>
+	</string>
+	<string id="tex_lekarstvo_bandita">
+		<text>Moram potražiti 3 bočice leka u minskom polju, koje se nalazi u Kordonu, sa leve strane kada se gleda u bazu, i doneti ih Akimu...</text>
+	</string>
+	<string id="tex_vorona_povar_naiti">
+		<text>Šta sam dočekao? Ovako kul stalker a spao da traži gavranova jaja za pijanog Kuvara... Moram do Akima da saznam gde se te ptice gnezde i da pokupim 10 jaja.</text>
+	</string>
+	<string id="tex_shaxter_fonarik">
+		<text>Rudar treba dve lampe da prilagođava svoj vid dnevnom svetlu. Moram ih nekako pronaći. Koga imamo od trgovaca u blizini granice? Sidorovič, Akim i Kuznjecov... Možda da pokušam kod Akima?</text>
+	</string>
+	<string id="tex_akim_kubik">
+		<text>Akima je malo udarila nostalgija za detinjstvom... Želi svoju staru Rubikovu kocku, koju je jedan od bandita bacio na krov nedovršene zgrade u bazi Bandita, u Mračnoj Dolini. Pa dobro, još ću malo ostati u ulozi Betmena...</text>
+	</string>
+	<string id="tex_shaxter_kniga">
+		<text>Na periferiji Zaboravljene Šume moram pronaći ostatke kostura streljanih ljudi. Ko, kada i zašto je to urađeno, nije mi poznato. Znam samo da jedan od tih nesrećnika ima knjigu koju Rudar tako očajno želi. Znam samo da se to mesto nalazi između dve ili tri velike stene. Tu bi negde trebao biti i srušeni helikopter...</text>
+	</string>
+	<string id="tex_lysyi_klad">
+		<text>Ćelavi je odlučio da podeli izgubljeno blago i zamolio me da donesem sadržaj, koji je u nekoj Pećini. Pa srećno mi bilo! Nemam blage veze gde bi bio ulaz u tu Pećinu! Jedino ako... Je li to bio onaj Rudar? Ili je pećina... Možda je bio samo san? Moram to nekako saznati. Možda i pronađem to blago... Zlatne kovanice...\nPitaću Rudara da li nešto zna o tome.</text>
+	</string>
+	<string id="tex_arx_strelok">
+		<text>Rudaru treba 'Skalp Kontrolera'. Inače neću dobiti svoj PDA ...</text>
+	</string>
+	<string id="tex_take_zombie">
+		<text>Hmm... Još nisam uspeo ni izaći iz Kordona, a već moram naći deset zombijevih ruku... Ne znam ni gde da ih potražim... I još ta vest... Zombiji u Zoni!?</text>
+	</string>
+	<string id="tex_take_doc1">
+		<text>Akim treba neke stare dokumente... Fokusirati se na: 'Deponija, na krovu...'. Tamo nema puno krovova... To može biti krov autobusa, krov zgrade... Čak i krov nekog kontenjera...</text>
+	</string>
+	<string id="tex_take_doc2">
+		<text>Znao sam... Moram Akimu doneti i drugi deo dokumenta, koji se nalazi negde u podzemlju Instituta... Lakše je pronaći iglu u plastu sena.</text>
+	</string>
+	<string id="tex_take_doc3">
+		<text>Sranje... Akimu matematika nikako ne ide! Kaže, idi pa vidi... Sada mu trebaju 3 dela dokumenata koji se nalaze negde u X18. A četvrti, se nalazi negde u blizini ulaza u Laboratorij!</text>
+	</string>
+	<string id="tex_take_doc4">
+		<text>Postao sam prava dostavljačka agencija... Moram nabaviti: SCAT-10, Stalkerski egzoskelet, Banditski egzoskelet i Nučničko PSZ-9MD odelo. I to još nije sve! Moram naći jedan PDA i još jedan dokument. Dokument se nalazi negde u X16 a PDA u području oko krana, koji se nalazi kod baze Bandita, jedne nedovršene zgrade u Mračnoj Dolini. 'Kratko i slatko'... Lakše bi došao do samog Monolita....</text>
+	</string>
+	<string id="tex_take_doc5">
+		<text>Moram onom "štreberu-ekologu" nabaviti po deo od svakog čudovišta u Zoni... Baš me zanima šta će s njima raditi.</text>
+	</string>
+	<string id="tex_take_qeast">
+		<text>Krest traži 15 artefakata. Po pet komada od svakog: 'Meduza', 'Kameni Cvet' i 'Vatrena Lopta'. Najbolje da prvo nađem Vatrene Lopte, a onda Meduzu i Kameni Cvet, zbog radijacije. Dobro je da Krest nije tražio "Skalp Kontrolera"...</text>
+	</string>
+	<string id="tex_take_qeast_bizon">
+		<text>Moram pronaći 6 anomalnih Bizona za Kresta. Ne poseduje ih samo Vojska. Ima ih i kod Bandita, Osvetnika i Monolita. Moraću u lov...</text>
+	</string>
+	<string id="tex_take_teleporter">
+		<text>Posao nije lak, iako je u blizini, u šumi... Jako se teško fokusirati. Moram pronaći srušeni helikopter, a odmah do njega je neka gomila stena, gde bi vojska mogla prenoćiti sa teleporterom u džepu.</text>
+	</string>
+	<string id="tex_petrenko_flyga">
+		<text>Moram pitati Lankija u Baru, gde bi mogla biti čuturica pukovnika Petrenka. Nadam se da je ta zlatom obložena čuturica jedino što je Petrenko izgubio u ovom životu.</text>
+	</string>
+	<string id="tex_dolgovyzui">
+		<text>Kakvo cenkanje... Deset mikrokola imaju ratnici u Kordonu, 5 Vijuga i 50 000 Ru... Pa za to mogu sam sebe poslati na noćne izlete u Zonu, i to svakih 5 minuta...</text>
+	</string>
+	<string id="tex_voronin_termos">
+		<text>Moram pronaći termosice za Voronjina. 5 velikih i 5 malih. Ugrubo znam gde su velike, jer ima i slika njihoove lokacije. Negde su u blizini drveća, izvan baze Fridoma. Da se dođe da njih treba pratiti dalekvod. Ali za manje termosice moram pitati Garika, Barmenova stražara.</text>
+	</string>
+	<string id="tex_garik_vopros">
+		<text>Za informaciju o malim termos flašama, Garik traži 10 kutija cigareta i 20 000 Ru... Glupa seljačina koja samo stoji u baru, glumi stražara...</text>
+	</string>
+	<string id="tex_petr_sidor">
+		<text>Sidorovič se nekako uvredio i ne da mi dar od Petrenka. Žao mi ga je ubiti, jer može biti koristan! Moram mu doneti 2 alata za popravljanje, a svaki od njih uključuje čekič, odvijač i šrafciger. Čekiče i šrafcigere potražiću u ATP, a odvijače kod Šrafa.</text>
+	</string>
+	<string id="tex_voronin_stol">
+		<text>Moram pronaći u tajnoj sobi Borova, kompjuter sa antenom i videorekorder. Svu tu opremu moram doneti Voronjinu.</text>
+	</string>
+	<string id="tex_sahar_ekolog">
+		<text>Ooo Bože... Kakvo zajebavanje... Jedan je naučnik odapeo, sad moram dvojicu vući ovamo. Nadam se da će surađivati... Moram otići u Rostok i naći se sa ta dva štrebera, i dovesti ih u bunker do Saharova. Kako god, ako neki i umre moram uzeti telefon, jer je samo on važan Saharovu. Ah da ne zaboravim! Ti mozgovi ne mogu sebi ni vrata otvoriti - ruke su im zauzete. Moram im otvoriti vrata i sačekati da uđu.</text>
+	</string>
+	<string id="tex_voronin_infa">
+		<text>Moram nabaviti OTS-14 Grozu za odbranu Djutijeve predstraže. Nakon toga moram izvestiti Voronjina. U osnovi, on je u pravu. Dobro oružje u nadolazećem okršaju je jako važno.</text>
+	</string>
+	<string id="tex_naemn_shturm">
+		<text>O Bože dragi... Dođem poslovno i onda me umešaju u neke obračune... Neophodno je da odbijemo napad Plaćenika na severni punkt Djutija, koji je na granici sa Divljom Teritorijom, i ubiti njihovog vođu po imenu Grba. Njega moram lično ubiti, a ne neki Djutijevac, inače Voronjin neće hteti komunicirati samnom... Kako bi on to ikako i znao ko ga je ubio?</text>
+	</string>
+	<string id="tex_kalinin_atp">
+		<text>Moram odbiti napad Bandita i pronaći i neutralisati njihovog vođu, pod nadimkom Šnjirov. On bi trebao biti u ATP-u. Da, još moram brinuti za Kalinjina - ukratko, jedan zalutali metak i sav mi je trud propao. Osim nagrade za posao, tačno osećam da će mi on trebati više.</text>
+	</string>
+	<string id="tex_gonets_atp">
+		<text>Moram pronaći kurira koji je nosio Kalinjinu informacije. Išao je ravno do kraja ceste koja vodi iz ATP (cesta s druge strane ATP) i možda poginuo. Onda ništa od informacija i nagrade... Kalinjin preporučuje da zbog brzine koristim UAZ.</text>
+	</string>
+	<string id="tex_kalinin_btr">
+		<text>Pripreme za napad sa dva oklopna vozila i malu grupu Specnaca na kamp Kalinjina... Želi da me gurne u pakao. Moram nabaviti Iglomet da uništim neprijatelja iz daljine... Ali zašto baš Iglomet?</text>
+	</string>
+	<string id="tex_btr_ataka">
+		<text>Moj cilj - lično uništiti dva oklopna vozila i komandira Vojske... Ma nek se gone! </text>
+	</string>
+	<string id="ways_info_way_arhara_peshera_cvalka_text">
+		<text>Rudar mi je dao informaciju gde je prelaz u Deponiju. Nalazi se u nižim nivoim pećine. Označeno je na PDA.</text>
+	</string>
+	<string id="ways_info_way_arhara_peshera_agro_text">
+		<text>Rudar mi je prebacio informacije o prelazu iz Pećine u Agroprom. Nalazi se odmah pored anomalije na ulazu u njegov logor.</text>
+	</string>
+	<string id="ways_info_way_arhara_cvalka_peshera_text">
+		<text>Ćelavi iz Bara mi je rekao da postoji prelaz iz Deponije u Pećinu, koji se nalazi u napuštenom železničkom tunelu.</text>
+	</string>
+	<string id="info_way_arhara_agro_peshera_text">
+		<text>Ćelavi iz Bara mi je dao informaciju o prelazu iz Agroproma u Pećinu, koji se nalazi u železničkom tunelu.</text>
+	</string>
+	<string id="info_way_arhara_td_les_text">
+		<text>Kalinjin mi je dao informaciju o prelazu iz Mračne Doline u Zaboravljenu Šumu. Možda mi zatreba...</text>
+	</string>
+	<string id="info_way_arhara_peshera_labirint_text">
+		<text>Rudar mi je dao informaciju o prelazu iz Pećine u Lavirint. Nalazi se u urušenoj pećini, u jednoj dvorani, do koje se može doći kroz uski otvor, penjući se uz strmi zid u nižim delovima Pećine.</text>
+	</string>
+	<string id="info_way_arhara_labirint_peshera_text">
+		<text>Dobro je što je zatvorenik preživeo. Dao mi je informaciju o prelazu iz Lavirinta u Pećinu. Prelaz je u nižim nivoima, u jednoj od pećina u blizini ulaza u drugu pećinu Lavirinta.</text>
+	</string>
+	<string id="info_way_arhara_labirint_yantar_text">
+		<text>Fima Ugljeni, bivši zatvorenik Monolita, dao mi je informaciju o prelazu i Lavirinta u Jantar. Prelaz je na gornjem nivou Lavirinta.</text>
+	</string>
+	<string id="info_way_arhara_labirint_earth_text">
+		<text>Rudar mi je rekao za prelaz iz Lavirinta u Neotkrivenu Zemlju, o kojem je govorio i Fima Ugljeni. Prelaz je na gornjem nivou Lavirinta.</text>
+	</string>
+	<string id="info_way_arhara_yantar_labirint_text">
+		<text>Adrenalin mi je sugerirao da postoji prelaz iz Jantara u Lavirint, i obeležio ga na karti u PDA.</text>
+	</string>
+	<string id="info_way_arhara_atp_pripyat_text">
+		<text>Kao nagradu za torbu, Saharov mi je rakao za prelaz iz ATP u Pripjat. Sa porušenog krova u ATP - na krov nebodera u Pripjatu.</text>
+	</string>
+	<string id="info_way_arhara_atp_military_text">
+		<text>Adrenalin mi je prebacio informaciju o prelazu iz ATP u Vojna Skladišta.</text>
+	</string>
+	<string id="info_way_arhara_atp_kordon_text">
+		<text>Adrenalin mi je dao informaciju o prelazuiz ATP u Kordon.</text>
+	</string>
+	<string id="info_way_arhara_atp_svalka_text">
+		<text>Kalinjin mi je dao informaciju o prelazu iz ATP u Deponiju, prebacio je na moj PDA.</text>
+	</string>
+	<string id="info_way_arhara_military_earth_text">
+		<text>Starac mi je dao informaciju o prelazu iz Vojnih Skladišta u Neotkrivenu Zemlju.</text>
+	</string>
+	<string id="info_way_arhara_td_earth_text">
+		<text>Starac mi je pričao o prelazu iz Mračne Doline u Neotkrivenu Zemlju. Nije teško pronaći oznaku na karti.</text>
+	</string>
+	<string id="info_way_arhara_svalka_earth_text">
+		<text>Kiklop mi je dao savet za prelaz iz Deponije u Neotkrivenu Zemlju. Korisna ruta!</text>
+	</string>
+	<string id="info_way_arhara_earth_labirint_text">
+		<text>Kiklop mi je pričao o prelazu iz Neotkrivene Zemlje u Lavirint. Prelaz se nalazi u pećini Bolnice.</text>
+	</string>
+	<string id="info_way_arhara_radar_warlab_text">
+		<text>Fang mi je dao informaciju o prelazu iz Radara u Vojni Laboratorij. Nalazi se iza jednih vrata na drugom spratu malog bunkera, koji se nalazi u blizini raskrsnice u Pripjatu.</text>
+	</string>
+	<string id="info_way_arhara_warlab_brainlab_text">
+		<text>Fang mi je dao još informacija. Jedna od njih je prelaz iz Vojnog Laboratorija u Laboratorij X16. Očigledno su sva podzemna postrojenja povezana tunelima, što omogućava brže kretanje.</text>
+	</string>
+	<string id="info_way_arhara_warlab_skladu_text">
+		<text>Panterin telohranitelj mi je dao informaciju o prelazu iz Vojnog Laboratorija u Vojna Skladišta, direktno iz baze Fridoma. Prebacio mi je sve na moj PDA. Vrlo korisna informacija...</text>
+	</string>
+	<string id="info_way_arhara_x18_warlab_text">
+		<text>Klenov mi je rekao da su sve podzemne laboratorije u Zoni povezane tunelima. Jedna od njih vodi iz podzemlja X18 u Vojni Laboratorij. Označio je na PDA.</text>
+	</string>
+	<string id="info_way_arhara_kordon_boloto_text">
+		<text>Fanatik mi je dao koordinate prelaza za Močvare. Prelaz je negde u blizini ograde u Kampu Početnika, nedaleko od Sidorevičeva bunkera.</text>
+	</string>
+	<string id="info_way_arhara_radar_forest_text">
+		<text>Fang mi je reako da je od jedan izviđač u Baru, Pilgrima, pronašao prelaz u Crvenu Šumu. Prelaz je označen na karti u Radaru.</text>
+	</string>
+	<string id="info_way_arhara_chaes2_atp_text">
+		<text>Starešina sa barikade u bazi Fridoma, mi je dao informaciju o prelazu iz Černobila 2 u ATP.</text>
+	</string>
+	<string id="info_way_arhara_pripyt_village_text">
+		<text>Fang mi je prebacio podatke o prelazu iz Pripjata u Staro Selo. Označeno je na karti.</text>
+	</string>
+	<string id="info_way_arhara_village_limansk_text">
+		<text>Kolmogor je spominjao nešto o prelazu iz Starog Sela u Limansk. Označeno je na karti u PDA.</text>
+	</string>
+	<string id="info_way_arhara_village_hospital_text">
+		<text>Kolmogor mi je rekao za još jedan prelaz. Iz Starog Sela u Bolnicu.</text>
+	</string>
+	<string id="info_way_arhara_chaes_generator_text">
+		<text>Duh je znao gde je prelaz iz Černobila 1 u Generatore. Nalazi se na ulazu, pokraj vojne komunikacijske stanice.</text>
+	</string>
+	<string id="info_way_arhara_hospital_agroprom_text">
+		<text>Crni Doktor je otvorio prelaz iz Bolnice u Agroprom. Poćinje u blizini stepenica za treći odeljak Bolnice. Označeno u PDA.</text>
+	</string>
+	<string id="info_way_arhara_agroprom_marsh1_text">
+		<text>U šteku sam pronašao komad kartice sa slikom prelaza iz Agroproma u Močvaru, uz napomenu da se prelaz nalazi u radioaktivnoj zoni. Najbolje da se opremim sa antiradom i votkom.</text>
+	</string>
+	<string id="info_way_arhara_bar_atp_text">
+		<text>Adrenalin mi je pričao o prelazu iz Bara u ATP. Označio mi je i na PDA. Ali mislim da ga neće biti lako pronaći.</text>
+	</string>
+	<string id="info_way_arhara_gener_pripyat_text">
+		<text>Duh je otkrio prelaz u Generatore iz Pripjat. Nalazi se u blizini stalkerskog naselja.</text>
+	</string>
+	<string id="info_way_arhara_chaes2_chaes_text">
+		<text>U Strelokovim beleškama ima informacija o prelazu iz Černobila 2 u Černobila 1. Podaci su kopirani u PDA.</text>
+	</string>
+	<string id="info_way_arhara_gener_hospital_text">
+		<text>Zemljak mi je dao informaciju o prelazu Generatora u Bolnicu. Nalazi se u blizini rampe na staroj pisti.</text>
+	</string>
+	<string id="info_way_arhara_warlab_generators_text">
+		<text>U njegovoj beležnici je šifra za vrata, gde se nalazi prelaz iz Vojnog Laboratorija u Generatore.</text>
+	</string>
+	<string id="info_way_arhara_limansk_generators_text">
+		<text>Semetski mi je dao informaciju o prelazu iz Limanska u Generatore. Nalazi se u blizini gradilišta, a vodi kroz vrata šupe u podzemne tunele.</text>
+	</string>
+	<string id="info_way_arhara_forest_warlab_text">
+		<text>Beleška mrtvog člana "Poslednjeg Dana", sa koordinatama prelaza iz Crvene Šume u Vojni Laboratorij. Nalazi se u pećini na brdu, u blizini uništenog rezervoara.</text>
+	</string>
+	<string id="info_way_arhara_dcity_limansk_text">
+		<text>Sa aktivacijom nepoznatog uređaja, pronađenog u šteku, uspeo sam da otvorim prelaz iz Mrtvog Grada u Limansk.</text>
+	</string>
+	<string id="info_way_arhara_dead_city_atp_text">
+		<text>Sa aktivacijom nepoznatog uređaja, pronađenog u šteku, uspeo sam da otvorim prelaz iz Mrtvog Grada u ATP. Označeno je na PDA.</text>
+	</string>
+	<string id="info_way_arhara_dcity_rostok_text">
+		<text>Sa aktivacijom nepoznatog uređaja, pronađenog u šteku, uspeo sam da otvorim prelaz iz Mrtvog Grada u Divlju Teritoriju. Označeno je na PDA.</text>
+	</string>
+	<string id="info_way_arhara_atp_dead_city_text">
+		<text>Sa aktivacijom nepoznatog uređaja, pronađenog u šteku, uspeo sam da otvorim prelaz iz ATP u Mrtvi Grad. Označeno je na PDA.</text>
+	</string>
+	<string id="info_way_arhara_dcity_zaton_text">
+		<text>Iz beleški sam uspeo izvući koordinate za prelaz u Zaton. Postoji tajni prelaz iz Mrtvog grada, kod potoka...</text>
+	</string>
+	<string id="info_way_arhara_lima_dcity_text">
+		<text>Moguće je aktivirati portal u Limansku... Ispostavilo se da nije u trećoj dimenziji kao u Mrtvom Gradu...</text>
+	</string>
+	<string id="info_way_bar_wild_territory_text">
+		<text>Sa očišćenim putem kroz Divlju Teritoriju sada lako mogu putovati u X16, laboratorij smešten u blizini naučne baze u Jantaru...</text>
+	</string>
+	<string id="tex_shax_plennik">
+		<text>Moj je zadatak osloboditi zatvorenika i zatvora Monolita. Šifra vrata je u beležnici kod sata, neophodno je poneti tu beležnicu sa sobom. Nadam se da besmrtni vođa ovih fanatika neće biti tamo... Glavna stvar je da zatvorenik preživi. Samo on zna put nazad iz Lavirinta.</text>
+	</string>
+	<string id="enc_artmod_globus_text">
+		<text>Rudar mi je dao artefakt za modifikaciju artefakta: Artefakt 'Simbion' u anomaliji 'Voćni Punč', 10 minuta, sa verovatnoćom uspeha 75%, može se dobiti "Zvečka".</text>
+	</string>
+	<string id="tex_fima_mulo">
+		<text>Moram Fimi Ugljenom doneti 10 setova naučničke prve pomoći, 10 zavoja, 2 komada sapuna i artefakt "Duša". Sapun je u podrumu jedne od kuća u Kampu Početnika u Kordonu.</text>
+	</string>
+	<string id="tex_adr_shkatulka">
+		<text>Moram ponovo u Lavirint da pronađem kutiju i sef. Kutiju, ako je pronađem, moram odneti Adrenalinu. Nalazi se na drugom nivou Lavirinta, a ta mo se može doći teleporterom, koji se nalazi negde u nižim nivoima... Znam gde je ulaz u niže nivoe pećine, blizu prelaza do Rudara. Sada mogu ići do Lavirinta i Jantara...</text>
+	</string>
+	<string id="tex_tretiy_kod">
+		<text>To je loša sreća... Prvo se moram pripremiti. Nabaviti dva artefakta - 'Zvečku' i 'Guseničinu Plazmu'. A onda otići do Sidoroviča i, ako bude sreće, pridružiti se grupi fanatika. Ako nabavim bolji pancir - dobro. Ako ne, onda ću morati "prošetati vrtom" okružen neprijateljima... U Lavirintu moram pronaći nedostajuću šifru Senke Monolita za vrata, pronaći sef, i opet se vratiti do Sidoreviča, promeniti grupu i odneti sef Rudaru. Za svaki slučaj, prve dve šifre su - 434018 i 206018.</text>
+	</string>
+	<string id="tex_sidor_amulet">
+		<text>Za Sidoroviča u Lavirintu moram pronaći za popravku Monolitnih amajlija: dve kutije alata za popravljanje, koje su kod Mololitovaca, i naravno vratiti amajliju. Gde su te kutije, nemam pojma...</text>
+	</string>
+	<string id="tex_otshelnik_yzik">
+		<text>Moram pitati jednog od pilota koji je učestvovao u sudaru, gde je izbacio kutije sa oružjem iz helikoptera. Onda pronaći kutiju i doneti Hermitu. Mačiji kašalj.</text>
+	</string>
+	<string id="tex_ginekolog_lekarstvo">
+		<text>Moram saznati od Kiklopa gde nabaviti medicinske potrepštine i kako pronaći to mesto. Naizgled obični posao, ali postoji kvaka. Ne smem nikog ubiti ni povrediti... Ukratko: moram biti nevidljiv...</text>
+	</string>
+	<string id="tex_jora_accumul_seif">
+		<text>Moram od Starca saznati gde pronaći par baterija da se otvore druga vrata sefa. Moram ih pronaći i doneti Džori Anomalnom.</text>
+	</string>
+	<string id="tex_starik_zadanie">
+		<text>Moram ići do Hermita po informacije, a onda pronaći Vatrenu pećinu i pokušati izvući baterije za Džoru i sat za Starca. Moram pronaći oba ulaza u pećinu i pokušati ući u nju.</text>
+	</string>
+	<string id="tex_piligrim_britva">
+		<text>Znači... Moram pronaći štek za Pilgrima. Nalazi se negde iza stare kabine, u blizini puta što vodi u pećine. Treba mu doneti sve što je u rancu. Ipak, ima jedan problem. Od kabine je napravljena baza za snajperiste, a Pilgrim je tražio da se to obavi bez buke i nepotrebnog ubijanja. Ne želi nikakvu kaznenu mere za snajperiste. Ako to ne uradim tiho...onda ću morati priložiti dodatnih 70 000 Ru. Inače razgovor sa Pilgrimom je gotov.</text>
+	</string>
+	<string id="tex_otsh_pda">
+		<text>Viktor Hologram umire, ali se može lečiti posebnim medicinskim uređajem, Ultra-detektorom. Moram nabaviti bar jedan, ili po mogućnosti dva i doneti ih Adrenalinu. Osim toga, Adrenalin ima informacije za mene.</text>
+	</string>
+	<string id="tex_golo_detektor">
+		<text>Zvuči kao pošten posao. Moram pronaći dva Elitna detektora i artefakt 'Guseničina Plazma'. Viktor Hologram mi je da savet za lokaciju Ultra detektora i drugog korisnog plena.</text>
+	</string>
+	<string id="tex_medik_pribor_1">
+		<text>Moram saznati od Kiklopa gde je flopi disketa sa crtežima. Moram je pronaći i doneti Ginekologu. Stara vrsta posla: idi, traži, donesi...</text>
+	</string>
+	<string id="tex_akkum_and_mikposx">
+		<text>Pa, valjda neće biti potrebno sve vući uokolo. Sve je blizu. Moram pronaći ključ za uklanjanje jednog teleportera, ući u Vatrenu pećinu i videti šta je u bazi, pokušati pronaći 2 napajanja za Fridomov egzoskelet i kontrolni čip (ili nešto slično tome). I sve to doneti Ginekologu... Baš me zanima zašto? Opet sam dobio neki čudan SMS od nekog stalkera, koji je na kursu stare karte... Divota...</text>
+	</string>
+	<string id="tex_chimaera_zadan">
+		<text>Ovako se živi u Zoni... Moram ubiti Sidoreviča i doneti njegovu glavu Himeri kao dokaz. Moram do Đure Ginekologa, moramo nešto smisliti...</text>
+	</string>
+	<string id="tex_land_oxot">
+		<text>Moram ići u Crvenu Šumu. Među stenama na obodu Šume nalazi se telo Kontrolera. Moram ga dovući ga do Sove.</text>
+	</string>
+	<string id="tex_ginek_vlip">
+		<text>Moram razgovarati sa lovcem po imenu Sova, možda će moći napraviti glavu Sidoreviča. Zatim dati glavu Himeri, pronaći flašu sa rastvorom za perfuzor i doneti punu flašu Đuri Ginekologu.</text>
+	</string>
+	<string id="tex_vuxod_atp">
+		<text>Za informaciju prelaza iz ATP-a, Kalinjin traži da mu donesem tri artefakta. 'Mamine Perle','Mesečinu' i 'Bljesak'. Svi se mogu naći u ATP. Do vraga, možda... Možda sam ipak malo požurio ovamo, bez boljeg raspitivanja o izlazu ...</text>
+	</string>
+	<string id="tex_kluk_vstrecha">
+		<text>Moram istražiti novu teritoriju i saznati ko tamo živi i šta radi. Glavni cilj - saznati da li je neko oteo kćerku jednog od lidera 'O-svesti'.  Potom podeliti informacije sa Fangom i Pilgrimom.</text>
+	</string>
+	<string id="tex_lukash_pechatka">
+		<text>Moram ići do Radara i tamo pronaći Monolitovca po imenu Pauk, te uzeti pečat od njega za Lukaša. Prema lukašu, pauk se nalazi u starom bunkeru odmah iza ugla glavne ceste, prije skretanja za Pripjat. Kada budem imao pečat, Plaćenici će misliti da sam jedan od njih i pustiti me da uđem. Naravno, poslije moram pečat vratiti Lukašu za nagradu... Ali ne prije nego što posetim Fanga u Baru.</text>
+	</string>
+	<string id="tex_body_pantera">
+		<text>Nije hitno, ali tip će platiti za ljubaznost iako je Plaćenik. Zadatak je doneti zviždaljku iz baze Fridoma u Vojnim Skladištima, plišanog Pseudo psa i doneti ga Panteri. Ubiti dve muve jednim udarcem: sačekati sledeće posao za Panteru u Vojnim Skladištima, a kada ga odradim, odneti Strašilu.</text>
+	</string>
+	<string id="tex_pantera_fone">
+		<text>Imam manje od 15 minuta da pronađem radio stanicu u Vojnom Laboratoriju. Znam da je radio u rancu a da taj ranac nije u nižim nivoim laboratorije. Sigurno i tih ranaca ima više. Kako god, moram se požuriti. Jako mi je važno zadobiti ugled među Plaćenicima.</text>
+	</string>
+	<string id="tex_pant_zadan">
+		<text>Imam zadatak: Doći do određene tačke na mostu i sačekati da se pojavi glasnik. Moram pokupiti disk, ali ne smem ubiti glasnika. Moram pronaći neki drugi način...</text>
+	</string>
+	<string id="tex_p_z_tri">
+		<text>Osećam da tom mestu, u krajnjem slučaju, treba ovog plaćenika. A i ona sama - ništa posebno... Glavno stavr je ne zezati se uokolo. Moram ukrasti oružje iz Lukaževa ranca, to ili bar sav njegov sadržaj. Da, ne smem zaboraviti plišanog Pseudo psa za telohranitelja. Zadatak je malo jednostavniji jer mi je Pantera dala kartu.</text>
+	</string>
+	<string id="tex_gologr">
+		<text>Moram otpratiti Viktora Holograma u Neotkrivenu Zemlju ali samo do ulaza u Vojna Skladišta. Dalje sam zna put.</text>
+	</string>
+	<string id="tex_klenov_gol">
+		<text>Moram otići do Holograma i pokušati ga uveriti da se vrati do Klenova. U slučaju da ga uspem uveriti, moram ga onda i dopratiti... Međutim...</text>
+	</string>
+	<string id="tex_klenov_vse">
+		<text>Postoji šansa da dobijem umetni artefakt Srce Poltergeista. Moram doneti Klenovu Srce Poltergeista i 10 Kaldrma.</text>
+	</string>
+	<string id="tex_vitamin_reyd">
+		<text>Da bi dobio poklon od Lukaša i ključ za teleporter u Vojnom Laboratoriju, moram pomoći grupi Fridomovaca u maršu na Radar do ulaza u Vojni Laboratorij. Ili još bolje, samo im pokazati put. Sa grupom se moram naći na na ulazu u Vojna Skladišta.</text>
+	</string>
+	<string id="tex_esc_razvod">
+		<text>Sidorovič je poslao SMS i zahtev da se isplati stalker, koji je u maloj urušenoj kućici nasuprot farme. Treba mu dati 70,000! Trgovac obećava dobru naknadu za tu uslugu.</text>
+	</string>
+	<string id="tex_za_bablom">	<!-- sadd početak prevoda -->
+		<text>Gotovo je. Sada nazad do Sidoroviča vratiti novac i kamatu.</text>
+	</string>	<!-- sadd kraj prevoda -->
+	<string id="tex_kolmogor_say">
+		<text>Kolmogor traži svog brata. Postoje jesano dokazi da su ga odveli kažnjenici zajedno sa grupom zarobljenih stalkera, prema napuštenoj trgovini. Moram pomoći Kolmogoru.</text>
+	</string>
+	<string id="tex_sestra_start">
+		<text>Moram pronaći sestru Kolmogora. Neverovatno, ali izgleda da je to Pantera. Moram je pronaći i sve saznati. Ipak, odavno nisam čuo nikakvu vest o njoj. Čak ne znam je li živa uopšte. Jedini način da saznam jeste da pošaljem SMS i sačekam da odgovori. Ako je uopšte Pantera sestra Kolmogora, treba je dovesti u Staro Selo.</text>
+	</string>
+	<string id="tex_village_shtab">
+		<text>Moram pomoći grupi da zauzme komandno mesto Kolmogorovih kažnjenika u Selu. Pošto ih je Vojska pomela, trebalo bi bitai samo nekoliko stražara. Komanda se nalazi na brdu u centralnoj kući. Ako uspešno zauzmemo kuću, onda moram razgovarati sa Kolmogorom.</text>
+	</string>
+	<string id="tex_kolm_obsledov">
+		<text>Kolmogor je ražio da dovedem Pilgrima i istražim Selo. Potrebno je da vidim da li je ostalo šta kažnjenika tamo. Nakon izviđanja, moram razgovarati Kolmogorom.</text>
+	</string>
+	<string id="tex_derevny_zashita">
+		<text>Moram pomoći stalkerima odbiti napad kažnjenika do helikoptera. Nakon uspešnog ishoda, razgovarati sa Kolmogorom.</text>
+	</string>
+	<string id="tex_klenov_antena">
+		<text>Klenov ne može završiti eksperiment na novom generatoru za stvaranje artefakata. Potrebna mu je mobilna PSI-antena, čiji signal dolazi iz Kordona. Ko ju je postavio tamo? Kakvom svrhom? Potpuni sam laik što se tiče fizike, više matematike i drugih mudrologija, pa mi je skroz nejasno kako mu neka halucinogena antena može pomoći. Kako god, označeno mi je u PDA i moram ići. Je li nešto je spomenuo o mutantima? Hmm...</text>
+	</string>
+	<string id="tex_boloto_provod">
+		<text>Poznavalac Močvare je zatražio da izvidim sitauciju kod stare farme. Treba mu doneti dva Embrija Zombija, koje je sakrio u jedan od tri šteka na toj farmi. To je prvi uslov za informaciju za prelaz iz Močvare u Staro Selo preko Crne Šume. Moram to odraditi.</text>
+	</string>
+	<string id="flesh_cocoon_item">
+		<text>Embrij Mesine</text>
+	</string>
+	<string id="flesh_cocoon_item_s">
+		<text>Embrij Mesine</text>
+	</string>
+	<string id="flesh_cocoon_description">
+		<text>Embrij Mesine. Prilikom izlaska iz kukuljice, odmah dostiže veličinu odrasle jedinke mutacijom ćelija, koje su sposobne za milijarde podela u sekundi. Vrlo opasna! Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 10 metara.</text>
+	</string>
+	<string id="tushkano_cocoon_item">
+		<text>Mutirani embrij Skočimiša</text>
+	</string>
+	<string id="tushkano_cocoon_item_s">
+		<text>Mutirani embrij Skočimiša</text>
+	</string>
+	<string id="tushkano_cocoon_description">
+		<text>Embriji Skočimiša. Sadrži do pet embrija. Instantno izraste u u veličinu odrasle jedinke Skočimiša. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od sedam metara.</text>
+	</string>
+	<string id="gigant_cocoon_item">
+		<text>Embrij Pseudogiganta</text>
+	</string>
+	<string id="gigant_cocoon_item_s">
+		<text>Embrij Pseudogiganta</text>
+	</string>
+	<string id="gigant_cocoon_description">
+		<text>Embrij Pseudogiganta. Izuzetno redak. Sazrevanje embrija do aktivacije - nekoliko meseci. Rast nakon aktivacije - trenutan, zbog nagomilanog potencijala već podeljenih ćelija. Jednostavno povećava veličinu ćelije, umesto broja. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 5 metara.</text>
+	</string>
+	<string id="poltergeist_cocoon_item">
+		<text>Embrij Poltergeista</text>
+	</string>
+	<string id="poltergeist_cocoon_item_s">
+		<text>Embrij Poltergeista</text>
+	</string>
+	<string id="poltergeist_cocoon_description">
+		<text>Embrij Poltergeista. Izuzetno redak. Za sazrevanje neophodna tama. Rast nakon aktivacije - trenutan. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 4 metra.</text>
+	</string>
+	<string id="controller_cocoon_item">
+		<text>Embrij Kontrolera</text>
+	</string>
+	<string id="controller_cocoon_item_s">
+		<text>Embrij Kontrolera</text>
+	</string>
+	<string id="controller_cocoon_description">
+		<text>Embrij Kontrolera. Ludo redak, jer ovakav način "reprodukcije" nije tipičan za ovu vrstu mutanata. Samo iskusni Kontroleri imaju sposobnost reprodukcije. Prirodnu aktivaciju vrši roditelj telepatijom. Mehanizam rasta nakon aktivacije - nepoznat. Rast nakon aktivacije - trenutan. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 25 metara.</text>
+	</string>
+	<string id="chimera_cocoon_item">
+		<text>Embrij Himere</text>
+	</string>
+	<string id="chimera_cocoon_item_s">
+		<text>Embrij Himere</text>
+	</string>
+	<string id="chimera_cocoon_description">
+		<text>Embrij Himere. Čini kao da su u čauri već odrasle jedinke koje su u stanju hibernacije. Rast nakon aktivacije - trenutan. Nakon aktivacije - ekstremno opasni i agresivni. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 25 metara.</text>
+	</string>
+	<string id="cat_cocoon_item">
+		<text>Embrij Divlje Mačke</text>
+	</string>
+	<string id="cat_cocoon_item_s">
+		<text>Embrij Divlje Mačke</text>
+	</string>
+	<string id="cat_cocoon_description">
+		<text>Embrij Divlje Mačke. Nepoznat trenutni način rasta nakon aktivacije. Neki veruju da je razlog brzog sazrevanja hrana njihovi roditelja, a to su radioaktivni miševi. Obično budu 2 jedinke. Rast nakon aktivacije - trenutan. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 10 metara.</text>
+	</string>
+	<string id="boar_cocoon_item">
+		<text>Embrij Vepra</text>
+	</string>
+	<string id="boar_cocoon_item_s">
+		<text>Embrij Vepra</text>
+	</string>
+	<string id="boar_cocoon_description">
+		<text>Embrij Vepra. Redak, jer ovo nije glavni način reprodukcije veprova. Trenutni rast nakon aktivacije postiže se naglim porastom vazdušnih "slojeva" u mišićnom tkivu, koje, kao životinjska hrana, zamenjuje masti i mišićno tkivo. Rast nakon aktivacije - trenutan. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 5 metara.</text>
+	</string>
+	<string id="dog_cocoon_item">
+		<text>Embrij Slepog psa</text>
+	</string>
+	<string id="dog_cocoon_item_s">
+		<text>Embrij Slepog psa</text>
+	</string>
+	<string id="dog_cocoon_description">
+		<text>Embrij Slepog psa. Jedna od vrsta reprodukcije. Razlog trenutnog rasta - trenutna hipertrofija ćelija pod uticajem sunčane energije. Obično dolaze 3 jedinke. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 4 metra.</text>
+	</string>
+	<string id="psydog_cocoon_item">
+		<text>Embrij PSI Psa</text>
+	</string>
+	<string id="psydog_cocoon_item_s">
+		<text>Embrij PSI Psa</text>
+	</string>
+	<string id="psydog_cocoon_description">
+		<text>Embrij PSI Psa. Informacije o samom poreklu ovih embrija, kao i same prirode PSI psa ostaje tajna. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Otrovan, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 5 metara.</text>
+	</string>
+	<string id="psevdodog_cocoon_item">
+		<text>Embrij Pseudo Psa</text>
+	</string>
+	<string id="psevdodog_cocoon_item_s">
+		<text>Embrij Pseudo Psa</text>
+	</string>
+	<string id="psevdodog_cocoon_description">
+		<text>Embrij Pseudo Psa. Jedna od vrsta reprodukcije. Razlog trenutnog rasta - trenutna hipertrofija ćelija pod uticajem sunčane energije. Obično dolaze 2 jedinke. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 4 metra.</text>
+	</string>
+	<string id="krovosos_cocoon_item">
+		<text>Embrij Krvopije</text>
+	</string>
+	<string id="krovosos_cocoon_item_s">
+		<text>Embrij Krvopije</text>
+	</string>
+	<string id="krovosos_cocoon_description">
+		<text>Embrij Krvopije. Ovaj vid reprodukcije vrši se samo pojedinačno i to dugotrajnim hranjenjem krvi Himere i Pseudogiganta. Vrlo retko za pronaći. Mehanizam trenutnog rasta - kombinacija rasta embrija Himere i Pseudogiganta. Izuzetno opasna! Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana i blago radioaktivna. Preporučena udaljenost od centra aktivacije - ne manje od 25 metara.</text>
+	</string>
+	<string id="burer_cocoon_item">
+		<text>Embrij Burera</text>
+	</string>
+	<string id="burer_cocoon_item_s">
+		<text>Embrij Burera</text>
+	</string>
+	<string id="burer_cocoon_description">
+		<text>Embrij Burera. Priča se da ovo uopšte nije embrij, već mamac za ljude koji je izmislio sam Burer. Verovatno stvara samo privid aktivacije a odrasli Burer se teleportira na pravo mesto, ali samo ako je opasnost za njega minimalna. Vrlo retko za pronaći. Verovatnoća za teleportaciju odrasle jedinke nakon aktivacije - ne prelazi 25-50%, a u popodnevnim satim čak i niže. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Jestiv, zadovoljava glad, blago ubrzava zarastanje rana. Preporučena udaljenost od centra aktivacije - ne manje od 25 metara.</text>
+	</string>
+	<string id="zombie_cocoon_item">
+		<text>Embrij Zombija</text>
+	</string>
+	<string id="zombie_cocoon_item_s">
+		<text>Embrij Zombija</text>
+	</string>
+	<string id="zombie_cocoon_description">
+		<text>Embrij Zombija. Ovo je najverojatnije mamac koji su napravili naučnici iz 'O-svesti' za militante Monolita, kako bi smanjili ulaz stalkera i drugih zainteresiranih osoba, koji žele doći do centra Zone. Embrij u ovom slučaju je pametan teleporter. Ovo je verovatno testni primer teleportera koji sadrži tkivo. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Meso trulo i otrovno. Preporučena udaljenost od centra aktivacije - ne manje od 5 metara.</text>
+	</string>
+	<string id="snork_cocoon_item">
+		<text>Embrij Snorka</text>
+	</string>
+	<string id="snork_cocoon_item_s">
+		<text>Embrij Snorka</text>
+	</string>
+	<string id="snork_cocoon_description">
+		<text>Embrij Snorka. Misterij za naučnike. Prkosi svim objašnjenima zbog izlaska odrasle jedinke sa odećom i maskom. Čaura je verovatno nastala u kontaktu mutanta i neke anomalije, koje je "spakiralo" žrtvu na težinu i veličinu čaure. Aktivira se udarom (bacanjem na tlo). Vreme pojavljivanja odraslog organizma nakon aktivacije: između 10 i 15 sekundi. Meso trulo i otrovno. Preporučena udaljenost od centra aktivacije - ne manje od 5 metara.</text>
+	</string>
+	<string id="item_kapitan_pda">
+		<text>PDA vojnog kapetana</text>
+	</string>
+	<string id="item_kapitan_pda_s">
+		<text>Kapetanov PDA</text>
+	</string>
+	<string id="enc_item_kapitan_pda_descr">
+		<text>PDA kapetana Mušice. Nažalost antena je oštećena, te ga nije moguće koristiti kao telefon. Između raznih fajlova na disku, tu je i zapis nedavnih komunikacija. Nakon 40 sekundi, sve će biti kopirano na moj PDA i prikazano na ekranu.</text>
+	</string>
+	<string id="item_pult_anders">
+		<text>Sony PSP</text>
+	</string>
+	<string id="item_pult_anders_s">
+		<text>Sony PSP</text>
+	</string>
+	<string id="enc_item_pult_anders_descr">
+		<text>Konzola za igru sa džojstikom. Andersen je nije koristio samo za rekreaciju u slobodnom vremenu, već je u telu konzole ugrađen kodirani čip za isključenje PSI antene. Radi u radijusu od dva metra od antene.</text>
+	</string>
+	<string id="item_simulator1">
+		<text>Simulator</text>
+	</string>
+	<string id="item_simulator1_s">
+		<text>Simulator</text>
+	</string>
+	<string id="enc_item_simulator1_descr">
+		<text>-</text>
+	</string>
+	<string id="item_simulator2">
+		<text>Simulator</text>
+	</string>
+	<string id="item_simulator2_s">
+		<text>Simulator</text>
+	</string>
+	<string id="enc_item_simulator2_descr">
+		<text>-</text>
+	</string>
+	<string id="item_samop">
+		<text>Snimač podataka leta</text>
+	</string>
+	<string id="item_samop_s">
+		<text>Snimač leta</text>
+	</string>
+	<string id="item_samopisez">
+		<text>Avionski snimač</text>
+	</string>
+	<string id="item_samopisez_s">
+		<text>Snimač</text>
+	</string>
+	<string id="enc_item_samopisez_descr">
+		<text>Obična "Crna Kutija". Sadrži zapise razgovora pilota, informacije o stanju posade, helikoptera i akcija posade.</text>
+	</string>
+<!-- Excluded -
+	<string id="name_adj_psi_gen_1">
+		<text>"Adjustable Psi-Generator 1"</text>
+	</string>
+	<string id="name_adj_psi_gen_2">
+		<text>"Adjustable Psi-Generator 2"</text>
+	</string>
+	<string id="name_adj_psi_gen_3">
+		<text>"Adjustable Psi-Generator 3"</text>
+	</string>
+	<string id="name_adj_psi_gen_4">
+		<text>"Adjustable Psi-Generator 4"</text>
+	</string>
+	<string id="name_adj_psi_gen_5">
+		<text>"Adjustable Psi-Generator 5"</text>
+	</string>
+	<string id="name_adj_psi_generator">
+		<text>"The Generator"</text>
+	</string>
+-->
+	<string id="item_mini_antenna">
+		<text>Podesivi PSI-Generator #1</text>
+	</string>
+	<string id="item_mini_antenna_s">
+		<text>PSI-Generator #1</text>
+	</string>
+	<string id="item_mini_antenna2">
+		<text>Podesivi PSI-Generator #2</text>
+	</string>
+	<string id="item_mini_antenna2_s">
+		<text>PSI-Generator #2</text>
+	</string>
+	<string id="item_mini_antenna3">
+		<text>Podesivi PSI-Generator #3</text>
+	</string>
+	<string id="item_mini_antenna3_s">
+		<text>PSI-Generator #3</text>
+	</string>
+	<string id="item_mini_antenna4">
+		<text>Podesivi PSI-Generator #4</text>
+	</string>
+	<string id="item_mini_antenna4_s">
+		<text>PSI-Generator #4</text>
+	</string>
+	<string id="item_mini_antenna5">
+		<text>Podesivi PSI-Generator #5</text>
+	</string>
+	<string id="item_mini_antenna5_s">
+		<text>PSI-Generator #5</text>
+	</string>
+	<string id="enc_item_mini_antenna_descr">
+		<text>Generator elektromagnetnih smetnji. Koristi se za blokiranje električnih i radio signala. Neki promerci dolaze sa ugrađenom instalacijom za podešavanje snage generatora i određivanje frekvencije.</text>
+	</string>
+	<string id="item_mini_antenna_generator">
+		<text>Generator</text>
+	</string>
+	<string id="item_mini_antenna_generator_s">
+		<text>Generator</text>
+	</string>
+	<string id="enc_item_mini_antenna_generator_descr">
+		<text>Generator elektromagnetnih smetnji. Koristi se za blokiranje električnih i radio signala. Neki primerci dolaze sa ugrađenom instalacijom za podešavanje snage generatora i određivanje frekvencije.</text>
+	</string>
+	<string id="tex_zemlyk_zadanie1">
+		<text>Da bi dobio pristup podrumu u kojem se skriva naučnik koji je pobegao iz baze C-svesti, moram pronaći i uništiti helikopter koji leti iznad severnog područja Generatora. Ovaj helikopter leti visoko i skenira područje u potrazi za izgubljenim naučnikom.\nKada pronađem helikopter, moram pucati iz svog raspoloživog oružja velikog kalibra da mu privučem pažnju, a kada doleti malo bliže da bolje vidi ko puca na njega, srušiti ga. Kada to odradim, onda se moram izvestiti Zemljaka da dobijem pristup podrumu.</text>
+	</string>
+	<string id="tex_black_dok_gener">
+		<text>Moram pronaći Čamdžiju, bivšeg trgovca u selu u blizini Generatora. On zna put do baze C-svesti, i može izvideti je li Pantera tamo.\nZadnji put je viđen kako mrtav pijan tetura kroz severne delove Močvara. Najverojatnije da je i dalje tamo u nekom skrovištu.</text>
+	</string>
+	<string id="tex_udav_poshli">
+		<text>Jedan od ljudi Crnog Doktora će helikopterom doleteti do groblja u Močvarama, da pokupi mene i Čamdžiju. Moram ići prema groblju i potruditi se da Čamdžija preživi. Kada dođem u blizinu groblja, helikopter će me kontaktirati i dati sledeći zadatak.</text>
+	</string>
+	<string id="tex_ander_joystik">
+		<text>Kako bi isključili PSI-antene koje okružuju bazu C-svesti, Andersonu je potreban njegov džojstik, koji je programirao da uredi softver unutar PSI-antena. Jedini je problem što ne zna gde je izgubio džojstik. Zadnje čega se seća jeste da ga je možda izgubio prilikom rutinske provere u blizini Generatora. Poslao mi je sliku sa rutom kojom je išao taj dan. Moram pronaći džojstik i doneti ga Andersonu za dalja uputstva.\nMig: džojstik emituje crveno svetlo dok mu se baterije ne istroše, zato bi traženje tako malog uređaja bilo bolje obaviti noću, ali se treba čuvati mutanata koji se muvaju pod okriljem mraka.</text>
+	</string>
+	<string id="tex_udav_pabota">
+		<text>Moram odvesti Čamdžiju do same granice PSI-polja i sačekati da isključi sve PSI-antene. Da se PSI-polje smanji potrebno je sačekati malo.\nMoram sačekati Čamdžiju da se vrati do granice PSI-polja, kako ne bi izazvao sumnju dok hoda prema drugoj lokaciji zapadno od moje lokacije.\nMoram s njim razgovarati da saznam je li video Panteru ili možda primetio neku sumnjivu aktivnost u bazi, a oda izvestiti Duha. Moram sačekati da se PSI-polje spusti na sigurniji nivo.</text>
+	</string>
+	<string id="tex_priz_shturm">
+		<text>Moram na silu zauzeti bazu i biti vrlo brz. Što brže baza bude pod kontrolom, to je veća šansa da Pantera bude živa.\nAnderson i ljudi Crnog Doktora će napasti sa zapadne strane, gde je rupa u zidu. Zajedno sa Duhom, napadamo kroz glavnu kapiju.</text>
+	</string>
+	<string id="tex_black_vstrecha">
+		<text>Moram se naći sa jednim od kurira Crnog Doktora, gore na severu, u blizini prelaza za Bolnicu.\nOn bi trebao imati dosije sa svim informacijama koje Crni Doktor zna o Astrologu.</text>
+	</string>
+	<string id="tex_peshera_nz">
+		<text>Moram pronaći tajnu pećinu u Neotkrivenoj Zemlji, ali bolje da ne ulazim unutra, ne znam šta tamo mogu očekivati.\nDeaktivator teleportera koji smo pronašli u bazi C-svesti, ukazuje da teleporter blokira ulaz, koji će kasnije biti deaktiviran.\nČim pronađem pećinu moram javiti Fangu koji se nalazi u Vatrenoj Pećini.</text>
+	</string>
+	<string id="tex_kl_na_walk">
+		<text>Klenov ima neke vesti u vezi eksperimenta sa artefaktom Srce Poltergeista, Trebao bih otići do Vojnog Laboratorija da vidim šta je bilo sa tim eksperimentom.</text>
+	</string>
+	<string id="tex_muha_kukl">
+		<text>Muva želi da joj pronađem lutku koju je izgubila na putovanju kroz Zonu dok je bila mlađa. Izgubila je negde na području oko Spaljivača Mozgova, kaže da je najverojatnije u jednoj od kuća gde se sklonila.\nMoram pronaći tu "dragocenu" lutku i doneti je do nje. Nakon toga nadam se da će mi reći šta se desilo sa artefaktom za koji tvrdi da je videla.</text>
+	</string>
+	<string id="tex_voronin_samopisez">
+		<text>Ispostavilo se da je helikopter sa rancem, sa artefaktom Vodeni Cvet u njemu, oboren iznad NEP Černobil tokom racije, zajedno sa dva druga helikoptera.\nVoronjin me zamolio da proverim jedan od tih helikoptera koji bi trebao imati neoštećen snimač podataka leta. Nalazi se na vrhu Sarkofaga.\nKada pronađem snimač podataka, moram izvestiti Voronjina i videti da li može sznati nešto iz tih podataka.</text>
+	</string>
+	<string id="tex_vkluchit_generator">
+		<text>To je moralo raditi na 'C-svesti'. Ipak Pantera kaže da je to samo mit. Ali mogu li joj verovati? Moram se vratiti do Generatora i pronaći Andersona i Solvadora. Oni će mi reći šta dalje. Sve što treba samo da zaslužim taj treći generator. Inače, Muva neće oživeti. Je li to uopšte moguće? Ipak, moram pokušati. Indirektno sam odgovoran za njenu smrt.</text>
+	</string>
+	<string id="tex_solv_say">
+		<text>Crni Doktor treba treći generator kako bi imao dovoljno energije za svoja istraživanja.\nZato moram onesposobiti 5 PSI-polja koje ometaju rad, a koja se nalaze u trafostanici pored baze C-svesti.\nKada pronađem te ometače moram ih doneti Andersonu. Kada to obavim, moram razgovarati sa Andersonom i sačekati da treći generator bude u pogonu.</text>
+	</string>
+	<string id="tex_kluk_ch2">
+		<text>Fang će ostati iza dok ja idem na lokaciju koju mi je on dao.\nFang ima informaciju da će Astrolog doći na severni Černobil kroz vrata blizu ove lokacije, zato moram držati ta vrata na oku.\nAko se Astrolog pojavi, moram pozvati Fanga i boriti se Astrologovim trupama.</text>
+	</string>
+	<string id="tex_neud_pomozch">
+		<text>Fang je pronašao Astrologa na nekoj drugoj lokaciji i sada me šalje tamo u zasedu.\nMoram se što prije vratiti do Fanga i pomoći mu u borbi protiv Astrologovih trupa.</text>
+	</string>
+	<string id="det_art_ultra_info">
+		<text>Detektor artefakata serija 'ULTRA'. Ovaj detektor je zadnji model lokalnog naučnika. Zahvaljujući nanotehnologiji, osetljivost detektora je povećana na 100 metara. Prisutnost artefakata označena je markerom na karti. Pored njihove lokacije, ovaj detektor određuje i vrstu artefakata, što ga čini najboljim od svih detektora za lov na artefakte. Aktivira se kada je u pištoljskom slotu.</text>
+	</string>
+	<string id="det_art_indy_info">
+		<text>Obični detektor artefakata. Uređaj je sposoban detektovati artefakte u radijusu od 50 metara, te obaveštava svog nosioca o prisustvu artefakta zvučnim signalom. Ne prikazuje lokaciju artefakta na karti. Aktivira se kada je u pištoljskom slotu.</text>
+	</string>
+	<string id="detektor_amorf_info">
+		<text>Detektor sposoban da detektuje objekte koji sadrže čestice strane energije i prikazuje ih na kartu u radijusu od 50 do 60 metara. Također obaveštava o prisustvu zvučnim signalom. Ima i mogućnost lociranja artefakata. Aktivira se kada je u pištoljskom slotu.</text>
+	</string>
+	<string id="tex_podval_sarkofag">
+		<text>Moram naći mesto i pomoći Munji, ima korisne informacije. Nalazi se u nekoj vrsti kontrolnog centra sa puno hodnika.</text>
+	</string>
+	<string id="tex_podval_lima">
+		<text>Moram pronaći kuću u Limansku. Prema Munjinim informacijama, na krovu kuće je teleporter, koje je verovatno iskoristio njen prijatelj. Moram pronaći tog čoveka. Poseduje Izomorfni detektor i zna lokaciju drugog portala u Zamonolit.</text>
+	</string>
+	<string id="item_strannik_bloknot">
+		<text>Beležnica Lutalice</text>
+	</string>
+	<string id="item_strannik_bloknot_s">
+		<text>Beležnica Lutalice</text>
+	</string>
+	<string id="enc_item_strannik_bloknot_descr">
+		<text>U Zoni postoji čovek koji je uspeo otkriti Misterij izomorfa i kako iskoristiti njegove osobine. Prema postojećim izveštajima, samo on prodaje delove Monolitu, nesvestan posledica. Pronaći tu osobu ne bi trebalo biti teško jer - nema nogu.</text>
+	</string>
+	<string id="item_blok_neizvestn">
+		<text>Beležnica nepoznatog stalkera</text>
+	</string>
+	<string id="item_blok_neizvestn_s">
+		<text>Beležnica nepoznatog stalkera</text>
+	</string>
+	<string id="enc_item_blok_neizvestn_descr">
+		<text>Ne znam ko si, ali kada si već tu trebao bi biti svestan mojih otkrića i ponoviti ih na moj način. Uzmi pištolj. Ima samo jedno punjenje. Stani u navedeni krug ili u blizini njega. Sa tog položaja je Monolit najjasnije vidljiv. U stvari, bilo je nemoguće fotografisati, ali našao sam način. Možeš se i približiti, ali osvetlićeš film. Ciljaj vrh Monolita - autofokus i crvena oznaka bez zuma reći će ti da li cilj postignut. Zatim, pogledaj kroz optiku i opali na iste te koordinate. Jedno je punjenje i ako promašiš, nećeš imati drugu šansu. Ako je pokušaj uspešan, biće i fotografija. Uzmi je prije nego se teleporter pokrene. Fotografija ti treba da saznaš šifru. To je šifra za portal koji se nalazi negde u Limansku. Šta će se dalje desiti ne znam, ali idi mojim stopama. Srećno...</text>
+	</string>
+	<string id="tex_odnonog_first">
+		<text>Ako je verovati Maksimilijanu, negde u podrumu Sarkofaga je teleporter. Moram ga pronaći.</text>
+	</string>
+	<string id="tex_odnonog_foto">
+		<text>Ako nađem teleporter, trebam ga iskoristiti. Moram pokušati fotografisati Monolit i odneti sliku Maksimilijanu.</text>
+	</string>
+	<string id="tex_mesto_v_bunkere">
+		<text>Izgleda da je Fang nešto iskopao... Jedna stvar je jasna, ako je u pravu, bez maskirnog odela nema se šta tamo tražiti. Potrebno je da zauzmem poziciju u bunkeru. Sudeći po slikama, u blizini je prelaza za Sarkofag i tu treba sačekati goste. Fang kaže da su ti posetioci nevidljivi, sve dok ne koriste lampe. Zatim sačekati da otvore vrata do skrovišta. A dalje... Pa dalje pod novonastalim okolnostima.</text>
+	</string>
+	<string id="item_neizv_zapiska">
+		<text>Beležnica sa informacijama</text>
+	</string>
+	<string id="item_neizv_zapiska_s">
+		<text>Beležnica sa informacijama</text>
+	</string>
+	<string id="enc_item_neizv_zapiska_descr">
+		<text>Najbolji ljudi su pregledali fotoaparat. Izgleda da samo jedan dio konstrukcije poseduje tu nepoznatu energiju. Također i ta vrsta sjaja ima svojstvo artefakta koji regeneriše... Gde pronaći ostale delove konstrukcije nije poznato. Ali ovaj komad, sam po sebi, ne radi. Telo projektila je ostavljeno u skrovištu, ali tu je i glavna stvar - te neshvatljive superjake kapsule... Njihov prodavač, jednonogi neutralac, je negde ispario. Moji ga ljudi traže. Ima tu još dobrih vesti - bilo je moguće uvesti agente da prikupe informacije i podatke u gotovo svim lokalnim grupama i povezati se sa bivšim članovima našeg klana. Nastavljamo rad. Šef Muljavi, neka preispita veličinu naknade.</text>
+	</string>
+	<string id="tex_radist_zhiv">
+		<text>Moram pokušati spasiti život Radioperateru. Fang kaže da on, kao neutralac, može pružiti vredne informacije.</text>
+	</string>
+	<string id="tex_taynik_radista">
+		<text>Sudeći po nekim izveštajima, u Pripjatu, u blizini vrtića ima štek radioveziste. Očito, to nije samo obični ranac, već čitava kuća, gde je Maksimilijan provodio vreme između svojih potraga za artefaktim i izomorfima i njihove prodaje. Moram pronaći i istražiti taj štek.</text>
+	</string>
+	<string id="tex_lesnik_say">
+		<text>Moram zauzeti poziciju na krovu kuće, i pokušati otkriti i skinuti nepoznatog snajperistu prije nego on obije još nekog stalkera. Šumar mi je naglasio da posebno trebam pogledati grmlje, dveća i druge zaklone.</text>
+	</string>
+	<string id="item_forest_last_dead_listok">
+		<text>Instrukcije</text>
+	</string>
+	<string id="item_forest_last_dead_listok_s">
+		<text>Instrukcije</text>
+	</string>
+	<string id="enc_item_forest_last_dead_listok_descr">
+		<text>Ta PDA stvar nije pouzdana. Ako baterija ne sedne kako treba, napuniće se sa vodom. Sećam se također, stidljive devojke zato je bolje da zapišem: Dok naš snajperista odvraća stalkere, potrebnio je doći do stanice i pokupiti lokalnog Šumara i deo fotoaparata. To je najvažnije! Posle se pokušati nekako dodvoriti Fridomu i posetiti nekog profesora ili doktora u Varlabu... Prema našim saznanjima, on pokazuje zanimanje za našu stvar. Zatim, uz malo sreće, vratiti se u Mrtvi Grad. A tamo, u jednoj pećini na samoj padini brda, u blizini uništenog tenka, počinje prelaz za Varlab. Iskoristiti ovaj prelaz ukoliko prvi deo plana uspije. </text>
+	</string>
+	<string id="item_transmutator">
+		<text>Transmutator</text>
+	</string>
+	<string id="item_transmutator_s">
+		<text>Transmutator</text>
+	</string>
+	<string id="enc_item_transmutator_descr">
+		<text>Uređaj se sastoji iz 3 linije slotova i 2 kontrolna dugmeta (servis - listaj, reset - se ne računa). Srednja linija (Inv) - sadrži inventar, broj iznad figura označava koliko ima tih predmeta/elemenata (sa strana su dugmad za listanje levo/desno). Klikom na predmet/element u ovoj liniji, stvavlja ga na gornju liniju (COMP) kao potencijalni sastojak za kuvanje. Klikom na isti predmet/element u slotu Comp, vraća taj predmet/element u slot Inv. Sa desne strane Comp nalazi se dugme sa strelicom, koje služi za resetovanje i ceo sadržaj se vraća iz Comp u Inv. U istoj liniji sa Comp, predmeti/elementi, se prikazuju u različitim ćelijama.\n Ispod gornje linije je redak žute boje za prikaz imena anomalija. Ukoliko anomalija nije blizu (na udaljenosti manjoj od 2m) - ništa neće biti prikazano. Ako ima anomalija ali recept tek treba razviti - također prikazuje informacije.\nIspod linije (RETZ) pojavljuju se recepti trenutne anomalije za buduća kuvanja (tu su također dugmad za pomicanje levo-desno). Klikom na predmete/elemente u Retz, automatski se popunjavaju Comp sa trenutnim komponentama iz Inv. Ako neke komponente fale - ispod Comp se pojavljuje crvena traka sa informacijama.\nPritiskom na dugme Start počinje kuvanje odabranih komponenti. Ukoliko anomalije nisu u Blizini - kuvanje neće raditi.\nAko je Inv osvetljen crvenom bojom, to znači da recept kompletan ali da fale sastojci - što može dovesti do ne željenih posledica po vlasnika. Ukoliko nema recepta - crveno osetlenje će opet biti - i tu je kuvanje na vlastiti rizik (ukoliko se ne poklope recepti sa pravim receptima - sam rezultat će biti jadan i bezvredan - da bi se započelo kuvanje, potrebno je imati pravi recept za transmutaciju). Sa sticanjem svih potrebnih sastojaka i ispravnih recepata, te anomalija, klikom na Start - počinje proces kuvanja. Artefakti iz linije Comp, automatski se uklanjaju sa popisa inventara a signalno svetlo bljeska na ekranu.\nDugme Izlaz (Exit) zatvara sučelje. Sučelje se također zatvara automatski u slučaju ako je pokretanje kuvanja neuspešno.</text>
+	</string>
+	<string id="tex_izomorf_dial">
+		<text>Klenov mi je dao izomorf za koji kaže da nekako utiče na odnos sa zombijima. Također je nagovestio da je neki Fridomovac u Jantaru oko fabrike gde je ulaz u X-16, video nekog čudnog zombija i neki čudni predmet. Ali prvo, glavni zadatak. Moram ući u X-16 (najbolje iz Varlaba), i uslikati dve slike sa fotopištoljem. Prva slika je mozak - koji visi ispod neke kupole laboratorija u nekom velikom spremniku. Snimak je najbolje uraditi sa gornje razine, kod upravljačke ploče. Za pravlino navođenje pojaviće se poruka na ekranu. Drugu sliku - u tunelima koji vode iz Laboratorija X-16 u Jantar. Tamo živi mutirani Kontroler, kojeg je neophodno uslikati radi istorije. Kažu da mu je mozak imao neku upalu, samo za naučnike. U aparatu imam samo tri fotopatrone, tako da samo jednom mogu promašiti. Na kraju slike odneti Klenovu - za njih mi je obećao dati nešto drugo.</text>
+	</string>
+	<string id="item_chemodan_piyan">
+		<text>Aktovka za proveru</text>
+	</string>
+	<string id="item_chemodan_piyan_s">
+		<text>Aktovka za proveru</text>
+	</string>
+	<string id="enc_item_chemodan_piyan_descr">
+		<text>Aktovka za proveru. Zaista za proveru. Sadrži sve prljavštine nekih vojnika, komandira i mnogih drugih visokorangiranih oficira, osuđenih za primanje mita, pijanstvo i druge, ne samo disciplinske prekršaje.</text>
+	</string>
+	<string id="tex_kuzy_artmodifik">
+		<text>Moram doneti aktovku sa inkriminirajućim dokumentima Kuznjecovu. Nije lak posao. Prvo, moram pronaći najmanje 12 flaša votke. 5 flaša moram odmah dati Kuznjecovu. Nakon toga moram ići do Agroproma, i nekako izbeći da me vidi Vojska. Približni dijagram rute je na slici u PDA. Moram pronaći jednog od stražara i pokušati razgovarati s njim. Dati mu preostalu votku i sačekati da stražar odnese ostalim. Ne smem nikog ubiti a ne smem ni prerano krenuti. Moram sačekati da alkohol udari u glavu vojnicima, a onda jednostavno maznuti aktovku. Ako je ne nađem, onda moram razgovatrati sa kapetanom da vidim gde je aktovka.</text>
+	</string>
+	<string id="tex_dovesti_muzhika">
+		<text>Moram povući Černomora iz Zavoda. Moram ići dovoljno dugo dok dođem do parkirališta, do šupljine preko puta ulaza u fabriku. Černomor ne sme biti izgubljen.</text>
+	</string>
+	<string id="item_klenov_opisalovo">
+		<text>Instrukcije od Klenova</text>
+	</string>
+	<string id="item_klenov_opisalovo_s">
+		<text>Instrukcije od Klenova</text>
+	</string>
+	<string id="enc_item_klenov_opisalovo_descr">
+		<text>Imam čast vas izvestiti o sledećem. Vreme za proučavanje subjekta nije bilo dovoljno, tako da smo pronašli samo osonovne pokazatelje. Kada se fotografiše emituje se energija u obliku impulsa, koji kada dođe do želenog subjekta, jedan deo se odbije a drugi deo prodire u subjekat. Ako je subjekat živo stvorenje, može prouzrokovati velika oštećenja a ponekad i smrt. Deo energije koji se odbio, utiskuje se u matricu kamere i pretvara u sliku. Verovatno se na slikama pojavljuje nešto više nego što obično oko može videti. Energija emitovana u produkciji slike, sadržana je zapečaćenom rezervoaru, ugrađenom u telu. Eksperimetisao sam. Napraviti obični snimak subjekta nije moguće, najverovatnije impuls može biti poslan samo subjektima koji imaju još neke dodatne kvalitete ili karakteristike. Šta su ti subjekti i kako ih naći - prava enigma. Ipak, sudeći po slikama kontrolera koje si uspešno obavio, to nisu obični subjekti ili živa stvorenja.\nKlenov...</text>
+	</string>
+	<string id="tex_plot_dialog">
+		<text>Moram ići u Deponiju i pronaći Mesinu koja je pojela stvari iz stalkerovog ranca. Pokupiti ih i vratiti vlasniku.</text>
+	</string>
+	<string id="tex_f_after_deaf">
+		<text>Moram saznati ko je doneo bombu u Kamp Novajlija i uspostavljene rudnike. Verovatno ću morati koristiti fotoaparat.</text>
+	</string>
+	<string id="tex_as_ubiysa">
+		<text>Moram pronaći stranca u bazi Fridoma i sprečiti eksploziju. Moraću opet koristiti fotopušku.</text>
+	</string>
+	<string id="tex_kvest_vstrecha">
+		<text>Moram ići u Neotkrivenu Zemlju. Tamo bi se trebao održati sastanak stalkera i predstavnika klana 'Poslednji Dan', i prisluškivati njihov razgovor. za ovo će mi verovatno biti potrebno maskirno odelo kao i kratka udaljenost od njih. Ljudi iz "Poslednjeg Dana" su iskusni i oprezni. Moram pronaći grupu kamenja, jedna koja je veća od drugih. Nalazi se u Neotkrivenoj Zemlji, u blizini prelaza za Vojna Skladišta. To kamenje se ne pojavljuje na karti. Navodno je tu mesto sastanka. Neophodno je da se popnem na tu stenu i čekam... Izuzetno je važno da se pregovarači ne uplaše i da niko ne bude ubijen. Informacije su najvažnije.</text>
+	</string>
+	<string id="tex_kvest_saxar_telep">
+		<text>Pronaći štek na jednom drvu koje se nalazi blizini zgrada unutar vojne baze u Agropromu, uzeti što ima u šteku i pokazati Saharovu. Ako sve bude kako treba, profesor bi mi trebao dati koordinate teleportera, za koji se priča da vodi negde u X-16, i pokušati pronaći laboratorij energije izomorfa. Ostalo po okolnostima, ali laboratorij mora izabrati život...</text>
+	</string>
+	<string id="item_planshetka2">
+		<text>Kutija cigareta sa porukom</text>
+	</string>
+	<string id="item_planshetka2_s">
+		<text>Kutija cigareta sa porukom</text>
+	</string>
+	<string id="enc_item_planshetka2_descr">
+		<text>Kutija cigareta sa porukom nepoznatog: "Čoveče, nisam više u mogućnosti da pohvatam sve te izomorfe koje šaljete. Sve što padne kroz portal, drugi put će pasti u ruke loših ljudi. Vaše je samo slati izomorfe, u pravim rukama imaju monstruoznu snagu. Pored toga, bio sam u stanju samo da otvorim portal u Mrtvom Gradu. Ali promenio sam šifru. Oprosti mi, prvo sam pokušao da te ubijem šaljući mutante i mine. Ali vidim da si uporan, pametan i tako iskusan. Zato ti i šaljem kutiju sa porukom. Ova kutija je deo ključa za aktivaciju portala u jednom od podruma u Limansku. Ako imaš ispravnu numeričku šifru, možda se i vidimo."</text>
+	</string>
+	<string id="item_planshetka">
+		<text>Tablet PC</text>
+	</string>
+	<string id="item_planshetka_s">
+		<text>Tablet PC</text>
+	</string>
+	<string id="enc_item_planshetka_descr">
+		<text>Kutija cigareta sa porukom nepoznatog: "Čoveče, nisam više u mogućnosti da pohvatam sve te izomorfe koje šaljete. Sve što padne kroz portal, drugi put će pasti u ruke loših ljudi. Vaše je samo slati izomorfe, u pravim rukama imaju monstruoznu snagu. Pored toga, bio sam u stanju samo da otvorim portal u Mrtvom Gradu. Ali promenio sam šifru. Oprosti mi, prvo sam pokušao da te ubijem šaljući mutante i mine. Ali vidim da si uporan, pametan i tako iskusan. Zato ti i šaljem kutiju sa porukom. Ova kutija je deo ključa za aktivaciju portala u jednom od podruma u Limansku. Ako imaš ispravnu numeričku šifru, možda se i vidimo."</text>
+	</string>
+	<string id="tex_port_na_mg">
+		<text>Moram pronaći podrum u Limansku, u kojem se nalazi teleporter i pokušati ga aktivirati. Gde vodi portal, nije poznato. Ipak, postoje špekulacije da vodi u misteriozni grad duhova - Mrtvi Grad.</text>
+	</string>
+	<string id="item_nauch_recomend">
+		<text>Preporuka</text>
+	</string>
+	<string id="item_nauch_recomend_s">
+		<text>Preporuka</text>
+	</string>
+	<string id="enc_item_nauch_recomend_descr">
+		<text>Dakle, viši naučniče, nedavna preporuka:\nNa platformi iznad Mozga bi trebalo biti nekoliko modifikatora. Za nas - "lutke" nas više ne zanimaju. Nadalje, u vezi aktivacije teleportera - pogledajte dole, duž naponskih kablova. Moraćete skočiti sa platforme na kablove do teleportera. Savetujem vam da stavite svu moguću zaštitu koju imate. Dalje. Ne žurite prema teleporteru. Nakon što dođete do polovine kablova, okrenite se rezervoaru sa Mozgom i uništite samoisceljujuće zaštitno polje Mozga. Morate imati dobro oružje. Nakon toga možete ići do teleportera. Uništiti to polje je nužno za korištenje teleportera, inače će te umreti. Dva modifikatora bi trebao imati u svom rancu. Doći će te do samog Mozga. Trebala bi biti transformacija i modifikatori su neophodni za nas da prekinu uticaj PSI-zraka mozga. Dalje, aktivirajte teleporter da vas odvede na površinu."</text>
+	</string>
+	<string id="tex_starsh_say">
+		<text>Moram podići moral stalkerima jednom dobrom pljačkom. Moram pronaći stalkere koji će nadzirati kamp bandita i u pravom trenutku opljačkati im kamp. Verovatno se neće profitirati ništa posebno, ali moramo doneti: 20 konzervi goveđeg gulaša, 10 prvih pomoći, 5 flaša votke, 10 pakovanja municije za "Kalaša" i 2 skraćena AKM-a. Pitanje: je li to sve u kampu bandita? Onda moraš okupiti i dovesti sve preživele stalkere njihovim gostima.</text>
+	</string>
+	<string id="enc_rudiment_big">
+		<text>Mutirani ostatak grudne kosti. Dimenzije i težina značajno veće negu u svog prethodnika. Svojstva nepoznata. Nema nikakva uticaja na nosioca. Cena kod trgovaca je puno veća nego za originalnu kost. Preostaje ili ga prodati ili potražiti drugi deo recepta. A mogu li išta od toga?</text>
+	</string>
+	<string id="tex_dci_kontrik">
+		<text>Neophodno je da posetim farmu i zaštiti kontrolera. Stvarno ne znam kako se odbraniti tog neprijateljskog mutanta...</text>
+	</string>
+	<string id="tex_uhod_iz_mg">
+		<text>Neće biti lako. Moram pridobiti podršku Labuda... Moram se probiti kroz zaštitnu zonu grada i na tavanu pronaći Normanov štek, dao je crtež. Posle, iz samog tavana izvideti situaciju u području, i koristeći bilo koje oružje, pokušati upucati ljude iz "Poslednjeg Dana". Najvažnije, moram ubiti pomoćnika šefa obezbeđenja. On nosi zeleno naučničko odelo. Uz malo sreće, stupiti u kontakt sa Zlobnikom i poslati ga dalje... Dalje, trebalo da mi pomogne Labud na putu mog bekstva...</text>
+	</string>
+	<string id="enc_equip_stco">
+		<text>Globalni Pozicioni Sistem GPS</text>
+	</string>
+	<string id="enc_equip_stco_s">
+		<text>Pozicioni uređaj</text>
+	</string>
+	<string id="enc_equip_stco_descr">
+		<text>Sistem za određivanje geografskih koordinata, smera i pravog solarnog vremena. Aktivira su u pištoljskom slotu.\nSastav uređaja:\n1. Magnetni kompas\n2. Lasersk merač udaljenosti\n3. GPS prijemnik\n4. Sat</text>
+	</string>
+	<string id="tex_agro_tainik_norman">
+		<text>Sa uređajem koji mi je dao Norman, moram pronaći koordinate u Agropromu sa nepoznatim štekom, i u njemu pokupiti novi uređaj pomoću kojeg se može skinuti zaštita sa prelaza u Mrtvi Grad, koju su postavili pripadnici Poslednjeg Dana.\nOvo su koordinate:\nGeografska dužina 1924 ^ 14 * 30 '.61\nGeografska širina 51 ^ 30 * 55 '.64\nVisina 183m</text>
+	</string>
+	<string id="tex_spasty_doka">
+		<text>Neophodno je da se oslobodi Blatni Doktor, kojeg drže u zarobljeništvu pripadnici klana Poslednji Dan. Imaju dve opcije... Parfemdžija bi mogao da pregovara sa šefom obezbeđenja po imenu Duda... On se nalazi u kući sa stubovima, koja je u blizini trga. I Doktora verovatno drže tu negde. Ukoliko se bude imalo dovoljno novca, moguće je i platiti otkupninu i završiti posao na "miran" način - čim se oslobodi neka dođe do kuće Parfemdžije. Nakon toga, može se dogovoriti napad na grupu čim se ukloni zaštita sa centra grada.\nDruga opcija je isto u igri. Ukoliko se nema dovoljno novca za otkupninu, uvek se može pokušati osloboditi na silu. Ali kada dođe do Parfemdžije, mora se preobući. Dati mu maskirno odelo i anomalni M-16.</text>
+	</string>
+	<string id="item_iskra_listok">
+		<text>Iskrina beleška</text>
+	</string>
+	<string id="item_iskra_listok_s">
+		<text>Iskrina beleška</text>
+	</string>
+	<string id="enc_item_iskra_listok_descr">
+		<text>Zdravo... Znala sam da će sve loše završiti... Evo koordinatae...\nGeografska dužina 24 ^ 14 * 28 '.00\nGeografska širina 51 ^ 30 * 53' .47\nVisina 188m\nNe znam kako ćeš ih odrediti, ali na tom mestu bi trebao biti prelaz, koji vodi...</text>
+	</string>
+	<string id="tex_otkrut_seif_sadik">		<!-- 109984 -->
+		<text>Otvori sef ali ne dopusti da radiooperater umre.</text>
+	</string>
+</string_table>
+	<!-- Tekst usklađen sa 109994 verzijom zakrpe - 20.07.2015 17:54 -sadd --
+	<!-- Preveo i prilagodio Flexerca -=- 08:35 15.07.2015 -->

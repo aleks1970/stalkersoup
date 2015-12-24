@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.2 removed bad filename characters, minor edits and hunters name to skinflint -->
+	<string id="mil_blockpost_job">
+		<text>Pomozi kod Barijere</text>
+	</string>
+	<string id="mil_courier">
+		<text>Cinkaroš.</text>
+	</string>
+	<string id="mil_courier_job">
+		<text>Suoči se sa cinkarošem.</text>
+	</string>
+	<string id="mil_courier_phase1">
+		<text>Odi do farme.</text>
+	</string>
+	<string id="mil_courier_phase2">
+		<text>Sačekaj dok cinkaroš ne dovede svog agenta.</text>
+	</string>
+	<string id="mil_courier_phase3">
+		<text>Otarasi se cinkaroša.</text>
+	</string>
+	<string id="mil_courier_phase4">
+		<text>Otarasi se agenta.</text>
+	</string>
+	<string id="mil_courier_phase5">
+		<text>Izvesti Lukaša o misiji.</text>
+	</string>
+	<string id="mil_crazy">
+		<text>Ludi stalker.</text>
+	</string>
+	<string id="mil_dolg">
+		<text>Djuti frakcija</text>
+	</string>
+	<string id="mil_dolg_assault_freedom">
+		<text>Pomogni Djutijevcima da eliminišu Lukaša.</text>
+	</string>
+	<string id="mil_kill_lukash">
+		<text>Ubij Lukaša</text>
+	</string>
+	<string id="mil_dolg_assault_support">
+		<text>Oslobodi se snajperiste</text>
+	</string>
+	<string id="mil_dolg_return_to_khutor">
+		<text>Vrati se na farmu i primi nagradu od Djutija</text>
+	</string>
+	<string id="mil_dolg_return_to_skull">
+		<text>Vrati se Lobanji</text>
+	</string>
+	<string id="mil_fblockpost_commander">
+		<text>Komandant predstraže Kap</text>
+	</string>
+	<string id="mil_fblockpost_phase2">
+		<text>Pomogni da se uništi Monolitov napadački odred</text>
+	</string>
+	<string id="mil_fblockpost_phase3">
+		<text>Razgovaraj sa komandantom punkta "Barijera"</text>
+	</string>
+	<string id="mil_find_cook">
+		<text>Nađi kuvara u Fridom bazi</text>
+	</string>
+	<string id="mil_freedom_rg6_task">
+		<text>Nabavi Buldog 6 od Fridomovca</text>
+	</string>
+	<string id="mil_go_max">
+		<text>Izvesti Maksa.</text>
+	</string>
+	<string id="mil_go_to_miser_task">
+		<text>Otiđi do Fridom baze da se vidiš sa Cicijom i podigni svoju nagradu</text>
+	</string>
+	<string id="mil_go_to_miser_task_main">
+		<text>Primi nagradu zato što si uništio krvopije</text>
+	</string>
+	<string id="mil_hunters_phase1">
+		<text>Pronađi Murka u selu</text> <!-- text>locate Gloomy in the Village</text -->
+	</string>
+	<string id="mil_hunters_phase2">
+		<text>Ubij krvopije</text>
+	</string>
+	<string id="mil_hunters_phase3">
+		<text>Vrati se Ciciji zbog artefakta</text>
+	</string>
+	<string id="mil_hunters_task">
+		<text>Pobij krvopije u selu</text>
+	</string>
+	<string id="mil_kill_controller">
+		<text>Ubij sve krvopije</text>
+	</string>
+	<string id="mil_kill_controller_main">
+		<text>Ubij krvopije</text>
+	</string>
+	<string id="mil_kill_dolg">
+		<text>Eliminiši članove Djutija kod farme</text>
+	</string>
+	<string id="mil_lukash">
+		<text>Lukaš.</text>
+	</string>
+	<string id="mil_max">
+		<text>Maks.</text>
+	</string>
+	<string id="mil_put_flash_to_max">
+		<text>Predaj Maksu fleš drajv.</text>
+	</string>
+	<string id="mil_kill_sniper">
+		<text>Ubij snajperistu na tornju</text>
+	</string>
+	<string id="mil_quest_report_dolg">
+		<text>Izvesti o misiji Djuti odred.</text>
+	</string>
+	<string id="mil_return_lukash">
+		<text>Vrati se Lukašu.</text>
+	</string>
+	<string id="mil_return_to_ugrumy">
+		<text>Vrati se kod Glumija</text>
+	</string>
+	<string id="mil_return_to_voronin">
+		<text>Predaj Buldog 6 Generalu Voronjinu</text>
+	</string>
+	<string id="mil_rg6">
+		<text>Pronađi Buldog 6</text>
+	</string>
+	<string id="mil_secret">
+		<text>Banditski skriveni štek</text>
+	</string>
+	<string id="mil_sniper">
+		<text>Snajperista.</text>
+	</string>
+	<string id="mil_mad_job">
+		<text>Uzmi fleš drajv od ludog stalkera.</text>
+	</string>
+	<string id="mil_talk_cook">
+		<text>Razgovaraj sa kuvarom</text>
+	</string>
+	<string id="mil_talk_with_cap">
+		<text>Razgovaraj sa Kapom, komadantom Fridom predstraže</text>
+	</string>
+	<string id="mil_test_task_phase1">
+		<text>Unesi ograničenje 1</text>
+	</string>
+	<string id="mil_test_task_phase2">
+		<text>Unesi ograničenje 2</text>
+	</string>
+	<string id="mil_test_task_phase3">
+		<text>Podigni Buldog 6 u vazduh ako je misija kompletna, TRs 301 u slučaju neuspeha</text>
+	</string>
+	<string id="mil_test_task_title">
+		<text>Test Problem</text>
+	</string>
+	<string id="mil_ugrumy">
+		<text>Murk.</text> <!-- text>Gloomy</text -->
+	</string>
+	<string id="mil_lukash_job">
+		<text>Pobij sve članove Djutija kod farme</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:54 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:25 -sadd -->

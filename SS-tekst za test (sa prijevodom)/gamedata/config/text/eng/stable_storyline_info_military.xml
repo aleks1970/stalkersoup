@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.5.2 minor edits, kostya hints, tex_saharov_pda -->
+	<string id="mil_actor_main_quest_descr">
+		<text>Sudeći po Generalu Voronjinu, samo Fridom ima ovakve pištolje. Kako sam ga dobio to je moja stvar. Rečeno mi je da bi jedan od načina bio da se družim sa Fridomovim stalkerom zvanim Kuvar. General kaže da on voli svoje piće više nego što bi trebao. Trebao bi se snabdeti vodkom u slučaju da je mogu iskoristiti.</text>
+	</string>
+	<string id="mil_blockpost_job_descr">
+		<text>Imperativ je zaštititi Barijeru od napada iz pravca Spaljivača Mozgova.</text>
+	</string>
+	<string id="mil_blockpost_job2_descr">
+		<text>Lukaš: "Ako ga imate u sebi, možete ići do sigurnosnog kontrolnog punkta kraj izlaza iz Crvene Šume - na osnovu nekih indikacija oni očekuju još jedan pokušaj upada mutanata ili Monolita</text>
+	</string>
+	<string id="mil_courier_doc_descr">
+		<text>Fridom je stekao Buldog 6 bacač granata. Dva komada. Jedan je u arsenalu, a drugi negdje u selu.\n \n</text>
+	</string>
+	<string id="mil_courier_job_descr">
+		<text>Lukaš: "Tužno ali istinito - imamo kradljivca među nama... Njegovo ime je Pavlik. On šalje informacije drugoj strani, a mi ga moramo zaustaviti. Tvoj posao je da ga pratiš do farme i saznaj kome otkriva informacije. Otišao je malo prije, tako da ćeš ga morati uhvatiti. Zapamti: Možeš i moraš ga završiti, ali ne prije nego što otkrije onoga kome daje informacije. Moraćeš da eliminišeš i drugog čoveka također."</text>
+	</string>
+	<string id="mil_crazy_flash_info">
+		<text>... Danas smo opet otišli u selo da lovimo. Sve je isto kao i prije.\n \nOdakle je zver došla? Mora da se prošunjala kroz obližnju Crvenu Šumu. Svi momci su izginuli, ja sam jedini ostao... Pokušao sam da se iskradem noću...\n \nNe sećam se kako sam izašao. Bio je čisti pakao... Glava mi se prepolovila - slike, zvukove, nisam zano odakle dolaze. Prokleta radijacija. Na kraju svega toga, prokleti detektor je otkazao. Moram da se odmorim i osećaću se bolje.</text>
+	</string>
+	<string id="mil_dolg_kill_lukash_descr">
+		<text>Uđi u bazu sa članovima Dutija.\nEliminiši trojicu snajperista.\nUbij Lukaša.</text>
+	</string>
+	<string id="mil_dolg_kill_sniper_descr">
+		<text>Ubij snajperistu na tornju. Budi pažljiv, nemoj da ti se zadesi metak između očiju.</text>
+	</string>
+	<string id="mil_flash_bandit_descr">
+		<text>Sranje, ti Djuti šupci su nas izbacili sa masnog mesta. Ukopali su se kraj farme. Nismo imali vremena čak ni da pokupimo naše stvari sa tavana. Mada nije velika stvar - Fridomova baza je blizu, tako da se neće držati još dugo.</text>
+	</string>
+	<string id="mil_flash_max_descr">
+		<text>Danas smo malo uzdrmali nekoliko vojnika na njihovom putu do Crvene Šume - uzeli smo Buldog 6. Odlični su. Lukaš je uzeo jednog, a Murk je sakrio drugog u selo, u jedan od podruma.</text>
+	</string>
+	<string id="mil_flash_ugrumy_descr">
+		<text>1: Đavo me nagovori, te odoh u Crvenu Šumu. Jedava sam uspio - da sam malo sporiji bio bih samo još jedan eksponat sa tečnim mozgom.\n \n2: Četiri batinaša su me okružila kao da sam trogodišnjak. Uradio sam svoj deo - nisam video njihovu zamku. Spašen sam zahvaljujući njihovoj razgovorljivosti i pohlepi. Umesto da me napune olovom, skočili su i počeli me svlačiti - zakačili se za odelo.\nTo je bila njihova zadnja greška, ipak, jedan od njih me zakačio metkom... Heh, starim...\n \n3: U vreme kada sam stigao, Strelokov glasnik više nije disao. Tri Krvopije su izazov za svakoga, ali ovaj momak je skinuo njih četvoricu, i još nekoliko krvavih tragova je vodilo u različitim smerovima.\nJedina informacija na njemu je bila šifra od vrata (19840519), ali identifikovati vrata koja otljučava je čini se ne moguće.\n \n4: Presreli smo nekoliko ljudi na njihovom putu ka Crvenoj šumi. Nisu nosili nikakve dokumente ili naredbe, ali su bili veoma adekvatno opremljeni.\nMislim da ću ostaviti taj Bulldog 6 u podrumu dok mi ne zatreba.</text>
+	</string>
+	<string id="mil_freedom_rg6_task_descr">
+		<text>Voronin: "Fridom ima nekoliko novih bacača granata RG-6. Ako bi uspeo da se ušunjaš na njihovu teritoriju i da ukradeš makar jedan od tih bacača granata, onda bih te lepo nagradio. Kako nisi ni u jednoj frakciji, možeš lako da izgradiš odnos sa Fridomom, i uz malo sreće, ukrasti RG-6. Proslediću ti informacije sa lokacijom Fridoma.\nTamo moraš da nađeš nekog Kuvara, člana Fridoma, on zna tačno gde su smestili RG-6. Slabost mu je piće, pa ga pokušaj napiti. Zbog toga uzmi mnogo votke."</text>
+	</string>
+	<string id="mil_go_to_miser_descr">
+		<text>Hmm. Dobiću svoju nagradu u Fridomovoj bazi od Cicije... Lepo ime. Trebam se nadati sa konzervama mesa od prošle godine, sa najboljim datumom.</text>
+	</string>
+	<string id="mil_hunters_task_descr">
+		<text>Očisti Krvopije u selu. Moram da budem pažljiv ili će mi popiti svu krv i ostaviti me mrtvog.</text>
+	</string>
+	<string id="mil_hunters_task_descr2">
+		<text>Očisti Krvopije u selu. Moram da budem pažljiv ili će mi popiti svu krv i ostaviti me mrtvog.</text>
+	</string>
+	<string id="mil_lukash_job_descr">
+		<text>Lukaš je odlučio da sprovodi kontranapad na Djuti odred za vikend.\nMaks, jedan od veterana Fridoma, vodiće operaciju. Moj posao je da mu pomognem.</text>
+	</string>
+	<string id="mil_mad_flash_job_descr">
+		<text>Pitam se šta ovaj ludi momak u močvari može znati. Saznaću. Važna stvar je da izbjegnem sve te stare mine. Ali - moraju biti dovljno rđave da eksplodiraju od šarafa.</text>
+	</string>
+	<string id="esc_kostya_taynik1">
+		<text>Štek u Kordonu.\n \nPotražiti ga ispod drveta u blizini napuštene fabrike.</text>
+	</string>
+	<string id="esc_kostya_taynik2">
+		<text>Štek u Kordonu.\n \nKod krtsta južno od pruge ispod jelke.</text>
+	</string>
+	<string id="esc_kostya_taynik3">
+		<text>Štek u Kordonu.\n \nIstočno od sela početnika pod kamenjem.</text>
+	</string>
+	<string id="kostya_kordon_art">
+		<text>Donesi Kostji artefakt "Zlatna Riba" iz napuštene fabrike u Kordonu.</text>
+	</string>
+	<string id="kostya_svalka_taynik1">
+		<text>Štek u Deponiji.\n \nPogledaj iza drveta kdje vise noge mrtvaka koji se nalazi iza močvare.</text>
+	</string>
+	<string id="kostya_svalka_taynik2">
+		<text>Štek u Deponiji.\n \nPogledaj zapadno u šumici iza parkinga koji je iza groblja vozila.</text>
+	</string>
+	<string id="kostya_svalka_taynik3">
+		<text>Štek u Deponiji.\n \nPpogledaj u kabini krana na radioaktivnoj gomili koja je najbliža groblju vozila.</text>
+	</string>
+	<string id="kostya_svalka_taynik4">
+		<text>Štek u Deponiji.\n \nPogledaj na radioaktivnoj gomili koja je najbliža drveću iza bare.\nNije na tlu.</text>
+	</string>
+	<string id="kostya_svalka_taynik5">
+		<text>Štek u Deponiji.\n \nLPogledaj na radioaktivnoj gomili koja se nalazi blizu punkta Djutija.</text>
+	</string>
+	<string id="kostya_x18_taynik1">
+		<text>Štek u laboratoriji X-18.\n \nPogledaj u laboratoriji, sudeći prema svim dostupnim informacijama trebalo bi da je tamo negde.\nPriča se da je skriven u prostoru zajedno sa velikim starim sefom.</text>
+	</string>
+	<string id="kostya_x18_taynik2">
+		<text>Štek u laboratoriji X-18.\n \nPogledaj u laboratoriji, sudeći prema svim dostupnim informacijama trebalo bi da je tamo negde.\nPriča se da je skriven u prostoru zajedno sa starim kavezima.</text>
+	</string>
+	<string id="kostya_x18_taynik3">
+		<text>Štek u laboratoriji X-18.\n \nPogledaj u laboratoriji, sudeći prema svim dostupnim informacijama trebalo bi da je tamo negde.\nPriča se da je skriven u prostoru gde obitava pseudo-gigant. Treba pogledati iznad.</text>
+	</string>
+	<string id="kostya_agroprom_taynik1">
+		<text>Štek u Agropromu.\n \nPotrebno je tražiti u močvari.</text>
+	</string>
+	<string id="kostya_agroprom_taynik2">
+		<text>Štek u Agropromu.\n \nGledaj južno od kompleksa gde su se borci smestili u centru radijacije.</text>
+	</string>
+	<string id="kostya_agroprom_taynik3">
+		<text>Štek u Agropromu.\n \nSakriven u blizini stuba dalekevoda.</text>
+	</string>
+	<string id="kostya_agroprom_taynik4">
+		<text>Štek u Agropromu.\n \nSeverno od centralnog kompleksa kod jazbine glodara u žbunju.</text>
+	</string>
+	<string id="kostya_agroprom_taynik5">
+		<text>Štek u Agropromu.\n \nKod staništa divljih mačaka u žbunju.</text>
+	</string>
+	<string id="kostya_agroprom_taynik6">
+		<text>Štek u Agropromu.\n \nNa visoravni između dva kompleksa.</text>
+	</string>
+	<string id="kostya_yantar_taynik1">
+		<text>Štek u Jantaru.\n \n"Tečni-Gas" na teritoriji fabrike je sakriveno ispod "guzice".</text>
+	</string>
+	<string id="kostya_yantar_taynik2">
+		<text>Štek u Jantaru.\n \nNa teritoriji fabrike sakriveno je u kontejneru ispod smeća.</text>
+	</string>
+	<string id="kostya_yantar_taynik3">
+		<text>Štek u Jantaru.\n \nSakriveno na teritoriji fabrike u cevi.</text>
+	</string>
+	<string id="kostya_yantar_taynik4">
+		<text>Štek u Jantaru.\n \nSakriveno na teritoriji fabrike na drvetu.</text>
+	</string>
+	<string id="kostya_yantar_taynik5">
+		<text>Štek u Jantaru.\n \nSakriveno na teritoriji fabrike na jednoj od gomila.</text>
+	</string>
+	<string id="kostya_yantar_taynik6">
+		<text>Štek u Jantaru.\n \nSakriveno na teritoriji fabrike na visokoj cevi.</text>
+	</string>
+	<string id="kostya_as_taynik1">
+		<text>Štek u Vojnim Skladištima.\n \nPogledaj oko helikoptera, ispod jednog bora.</text>
+	</string>
+	<string id="kostya_as_taynik2">
+		<text>Štek u Vojnim Skladištima.\n \nPogledaj u selu Krvopija u jednoj kući u peći.</text>
+	</string>
+	<string id="kostya_as_taynik3">
+		<text>Štek u Vojnim Skladištima.\n \nPogledaj u selu Krvopija u dimnjaku.</text>
+	</string>
+	<string id="kostya_as_taynik4">
+		<text>Štek u Vojnim Skladištima.\n \nPogledaj u selu Krvopija na drvetu.</text>
+	</string>
+	<string id="kostya_as_taynik5">
+		<text>Štek u Vojnim Skladištima.\n \nPogledaj u selu Krvopija na ivici krova.</text>
+	</string>
+	<string id="kostya_as_taynik6">
+		<text>Štek u Vojnim Skladištima.\n \nPogledaj u minskom polju.</text>
+	</string>
+	<string id="kostya_radar_taynik1">
+		<text>Štek u Radaru.\n \nNemoj da promašiš helikopter. Treba da je tamo negde.</text>
+	</string>
+	<string id="kostya_radar_taynik2">
+		<text>Štek u Radaru.\n \nU šumi na drvetu blizo rupe u žičanoj zaštitnoj ogradi.</text>
+	</string>
+	<string id="kostya_radar_taynik3">
+		<text>Štek u Radaru.\n \nU šumi na kamenju blizo kolica.</text>
+	</string>
+	<string id="kostya_radar_taynik4">
+		<text>Štek u Radaru.\n \nU šumi na drvetu. Potrebno je ići od kolica duž kamenja i ugledaćeš ga.</text>
+	</string>
+	<string id="kostya_x10_taynik">
+		<text>Štek u Laboratoriji X-10.\n \nDa bi otvorio vrata u X-10, potrebno je da saznaš kod za bravu. Nacrti za pomoć oko koda su u šteku u ovoj laboratoriji.\nPomoću tih smernica potrebno je rekonstruisati kod od dostupnih brojeva. Brojevi: 9, 7, 2, 54, 61.</text>
+	</string>
+	<string id="kostya_pripyat_taynik1">
+		<text>Štek u Pripjatu.\n \nTu bi trebalo da ima tri moguća mesta za štek u Pripjatu.\nPrvo - u zabavištu.\nDrugo - u hotelu.\nTreće - u jednoj od stambenih zgrada.</text>
+	</string>
+	<string id="kostya_pripyat_taynik2">
+		<text>Štek u Pripjatu.\n \nTu bi trebalo da ima tri moguća mesta za štek u Pripjatu.\nPrvo - na dizalici.\nDrugo - u hotelu.\nTreće - u jednoj od stambenih zgrada.</text>
+	</string>
+	<string id="kostya_pripyat_taynik3">
+		<text>Štek u Pripjatu.\n \nTu bi trebalo da ima tri moguća mesta za štek u Pripjatu.\nPrvo - na drvetu pored putne servisne stanica.\nDrugo - u hotelu.\nTreće - u jednoj od stambenih zgrada.</text>
+	</string>
+	<string id="kostya_sacharov">
+		<text>Popričaj sa Saharovim u vezi podešavanja teleporta</text>
+	</string>
+	<string id="kostya_meet">
+		<text>Nađi se sa Kostjom</text>
+	</string>
+	<string id="sacharov_pda">
+		<text>Saharov je tražio da pronađeš PDA Vasilieva.\n \nPrema njegovim informacijama trebalo bi da je u laboratoriji X-16. Potrebno ga je tamo potražiti.</text>
+	</string>
+	<string id="tex_saharov_pda">
+		<text>Saharov je tražio da pronađeš PDA Vasilieva.\n \nPrema njegovim informacijama trebalo bi da je u laboratoriji X-16. Potrebno ga je tamo potražiti.</text>
+	</string>
+	<string id="sacharov_teleport">
+		<text>Za podešavanje teleporta potreban je artefakt Baterija. Donesi ga Saharovu.</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 17:15 04.05.2015 -->
+	<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:49 -sadd -->

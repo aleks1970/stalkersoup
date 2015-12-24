@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.0, rename  « » with " aleks1970 -->
+<string_table>
+	<string id="dm_action_info_0">
+		<text>Kako ovde može da bude bilo šta novo? Gledaj na ovo kao zabavište. Ako te nema naokolo, bićeš otpušten iz Zone u roku od 5 minuta, tu smo. Pametni ostaju ovde duže vreme, i idu đavo će ga znati gde. Pored toga, možeš da uspeš radeći s municijom i oružjem, o tome nema rasprave. Svi to rade.</text>
+	</string>
+	<string id="dm_action_info_1">
+		<text>Trebam da sačekam ove retarde u uniformama da odemo na ručak... Nerazumno je da izlazimo ovde, trebam da odem u Veliku Zemlju, ali neće me pustiti, šta god da se desi. Nisam jedini koji pokušava da izađe, ali i dalje ne možemo da im promaknemo.</text>
+	</string>
+	<string id="dm_action_info_10">
+		<text>Nedaleko odavde našim ljudima u uniformama je bila potrebna pomoć. Nisu dolazili ovde - sve su sredili pre nego što sam ja došao, upravo s presecanjem kablova. I sada izgleda da su otkrili... Nisam mogao ni da se približim objektu - primetili su me i počeli da pucaju. Drago mi je što sam uspeo bez skrivanja.</text>
+	</string>
+	<string id="dm_action_info_100">
+		<text>Ništa. Baš ništa. Samo pokušavam da radim svoj posao tako da ništa ne znam.</text>
+	</string>
+	<string id="dm_action_info_11">
+		<text>Pravimo tim sastavljen od onih kojima nikad nije dosta penjanja iz Podzemlja nazad u Zonu. Postoji stara fabrika, a ispod nje su sve te linije napajanja. Priča se da tamo postoji svežanj dobara, uvek postoji nešto novo za proveriti. Interesantno...</text>
+	</string>
+	<string id="dm_action_info_12">
+		<text>Nije novo - staro je! Kažu da je Strelokova baza bila ovde. Pitam koje vrste tragova bi pojedinac mogao naći iz toga vremena, ako su izgledali čvrsto/snažno?</text>
+	</string>
+	<string id="dm_action_info_13">
+		<text>Jel' možeš da veruješ - pre sat vremena zamalo da nastradam! Bio sam ovde pre pola godine - mir i tišina, a sad ovi razbijači u njihovim odelima u svakom žbunu! Ludo...</text>
+	</string>
+	<string id="dm_action_info_14">
+		<text>Imaš sreće, stalkeru, što te Banditi nisu uhvatili: baza im je veoma blizu ovog mesta. Već bih je sravnio da sam mogao...ali samo posmatramo za sad. Ovo je njihova pomoćna baza - sedišta su bliže centru Zone.</text>
+	</string>
+	<string id="dm_action_info_15">
+		<text>Priča se da je ovde bila impresivna laboratorija, kamuflirana. Eh... Na prvi pogled bilo bi sjajno naći ulaz - kladim se da se tu nalazi dosta dobara. U drugu ruku, zabrinjava me...</text>
+	</string>
+	<string id="dm_action_info_16">
+		<text>Da li znaš da ovo što je sad Mračna Dolina, pre katastrofe je bio naučni istraživački centar? Ne znam koja mu je bila namena, ali sam siguran da nije bila najbolja. Svašta se priča tom centru, uglavnom loše. Užasne stvari.</text>
+	</string>
+	<string id="dm_action_info_17">
+		<text>Pa šta? Šta hoćeš da čuješ? Reći ću ti ovoliko: Djutijevci su definitivno policajci, ali oni zasigurno znaju kako da održe red. Generalno ih ne volim previše. Oni su kao gazde svuda - ne diraj ovo, ne iznosi to iz Zone... Ne samo to, već su odlučili šta smeš da kažeš u Velikoj Zemlji a i o čemu bi trebao da ćutiš! Oni brbljaju da hoće da unište Zonu, malo po malo. To me ne iznenađuje... Od bivših vojnika...svi oni su sanjari. Što je gore, kažu, njihova podrška dolazi od samog vrha.</text>
+	</string>
+	<string id="dm_action_info_18">
+		<text>Ova teritorija je pod kontrolom Djutija, a njihova pravila su ujedino i pravila države. Mi kontrolišemo granice zone i smirujemo usijane glave: siromašne budale dolaze ovamo u čitavim karavnima, amateri, romantičari...i umiru u grupama tokom prvog dana.</text>
+	</string>
+	<string id="dm_action_info_19">
+		<text>Da li si bio u našem kampu na pola puta? Sigurno, nije samo naš - možeš da naletiš na bilo koga ovde. Bitno je da je to dobro mesto, bez smeća, i sve novosti iz Zone se skupljaju tu. Skoro da uvek možeš da čuješ nešto korisno, ili u najmanju ruku da ćaskaš s ljudima. Loše je što je Ćelavi otišao s njegovim ljudima preključe - tako da ovaj put nisam uspeo ni da ga vidim.</text>
+	</string>
+	<string id="dm_action_info_2">
+		<text>Idi prvo u kamp, čućeš sve glasine tamo. Svi su ovde po prvi put - početnici kao ti - obično pitaju za savet ili se odmaraju neko vreme. Vojnici su nedaleko odatle: nemoj da se plašiš njih, ali im nemoj presecati put - pucaće bez razmišljanja i upozorenja... Malo o trgovcu - trgovac lokalnom robom na malo - tu je lepo, mirno mesto gde se možeš odmoriti.</text>
+	</string>
+	<string id="dm_action_info_20">
+		<text>Trentuno, stalkeru, ovo mesto je bezbedno, i pokušavamo da ga održimo u takvom stanju. Ovde ima dosta ljudi: neki koji žive ovde i ne idu dalje od teritorije koja ih okružuje, drugi koji se pripremaju za još jedan pretres. Šteta što se Irokez nije vratio. Voleo je da izvede početnike kao što si ti na put pravde.</text>
+	</string>
+	<string id="dm_action_info_21">
+		<text>Da li si čuo da se je u Djutiju najavljeno regrutovanje novih vojnika? Razmislio sam koji minut, ali sam odlučio - do đavola s tim. Ubrzo će me regrutovati... Ne treba mi takav režim. Odslužio sam moje 2 godine, i to je dosta za mene...</text>
+	</string>
+	<string id="dm_action_info_22">
+		<text>Ako još nisi čuo, staviću ti do znanja: regrutujemo nove članove. Ako imaš neko iskustvo, dođi, nećeš zažaliti. Pitaj za Petrenka u bazi.</text>
+	</string>
+	<string id="dm_action_info_23">
+		<text>Da li si došao da gledaš mečeve - hoćeš da postaviš ulog? Pa šta znaš! Tu je negde arena, a ti si totalna nula! Slušaj ovo: članovi Djutija hvataju mutante, jel' tako? Nakon istraživanja, ako su zveri i dalje žive, puštaju ih da se gube po areni. A tih lepotica ima u svim veličinama i oblicima - za neke ćeš umirati od smeha, a zbog drugih ćeš ovlažiti pantalone.</text>
+	</string>
+	<string id="dm_action_info_24">
+		<text>Upravo su snabdeli arenu novim mesom. Okruženje za ljude, a za nas dobar način da zaradimo procenat od uloga. Dokazaćemo stalkerima da Djuti ne tupi zube, već da radimo prave stvari.</text>
+	</string>
+	<string id="dm_action_info_25">
+		<text>Slušaj, jesi bio u Rostoku? Bilo je mirno tamo, ali sada je rizično ići tamo sam - prosečno divlje mesto, previše mutanata je tamo. Idemo zajedno, šta kažeš na to?...u drugu ruku...ne poznajem te, a ni ti mene. Šta ako...da, druže, izvini. Podelimo se.</text>
+	</string>
+	<string id="dm_action_info_26">
+		<text>Upravo smo se vratili iz Rostoka. Ne moraš da se pokazuješ tamo, posebno ako si sam. Hoćeš da ostaneš živ? Onda bolje nemoj da ideš.</text>
+	</string>
+	<string id="dm_action_info_27">
+		<text>Razmišljao sam o odlasku u Jantar, ali tada sam pomislio, zaboravi. Jajari su tamo postavili potpuno zrelu naučnu bazu u Zone. Čeprkaju naokolo, đavo će ga znati šta, dok se zombiji ludiraju oko kompleksa. Kakva atmosfera, Bože moj.</text>
+	</string>
+	<string id="dm_action_info_28">
+		<text>Nedavno su čistili Jantar...pa da, jako su ga lepo očistili! Tamo se nalaze istraživačke laboratorije, ali ima previše zombija unaokolo. Tako da bi smo morali da prođemo tuda da bi smo pomogli naučnicima.</text>
+	</string>
+	<string id="dm_action_info_29">
+		<text>U starim skladištima, znaš - nalazi se baza grupacije Fridom. Oni su srećni ortaci, imaju dušu, zadovoljstvo je pričati s njima uz flašu vina. I Djuti nije tamo sve vreme.</text>
+	</string>
+	<string id="dm_action_info_3">
+		<text>Nedaleko se nalazi stara fabrika, nastojimo da je održavamo slobodnom od Bandita, a svaki put se vraćaju! Nije prošlo ni mesec dana od prošlog puta, a već su se vratili. Čuvaj se tamo...</text>
+	</string>
+	<string id="dm_action_info_30">
+		<text>Fridom se krije izvan starih skladišta...poubijajte ih sve, nakaze jedne...</text>
+	</string>
+	<string id="dm_action_info_31">
+		<text>Idi pre nego što se smrkne! Tokom dana je manje-više u redu, ali kada sunce zađe...</text>
+	</string>
+	<string id="dm_action_info_32">
+		<text>Stalkeru, odlazi! Skinućemo žicu. Za sada je držimo podignutu tokom dana, i ostavljamo noću - previše je jezivo noću.</text>
+	</string>
+	<string id="dm_action_info_33">
+		<text>Vidiš, noću moraš da se kriješ, i to u dobrom zaklonu. Tokom noći smo praktično pod opsadom.</text>
+	</string>
+	<string id="dm_action_info_34">
+		<text>Druškane, izgleda da nisi u toku? Noću moraš da dremaš negde daleko odavde. Ponekad uveče ni raketni bacač ne pomaže.</text>
+	</string>
+	<string id="dm_action_info_35">
+		<text>Znaš šta, pustimo Bandite, momke iz Fridoma i Djutija da sami odluče kome pripada ovaj deo teritorije. Šta je to meni? Do đavola s tim...</text>
+	</string>
+	<string id="dm_action_info_36">
+		<text>Radimo sad, stalkeru. Kao da nije dovoljno što se ona grupa jadnika sve više povećava, nego se i ovi idiotski Plaćenici i retardi iz Fridoma isprečavaju...</text>
+	</string>
+	<string id="dm_action_info_37">
+		<text>Moram da te upozorim da ovde nije bezbedno ni tokom dana. Nakon nekog perioda ovde izbije pucnjava, koliko ja razumem, to je neka dugogodišnja svađa među lokalnim Banditima.</text>
+	</string>
+	<string id="dm_action_info_38">
+		<text>Slušaj, reci mi - ovo je naša teritorija, jel' tako? Lakše nam je da držimo na distanci jadnike koji dolaze iz centra Zone, zar ne? Jajare bi mogle da naprave haos pokušavajući da saznaju ko ih uznemirava, ali Djuti i Banditi mogu da odu do đavola odavde.</text>
+	</string>
+	<string id="dm_action_info_39">
+		<text>Ne znaš? Napravili su novi prolaz da bi izbegli patrolu Djutija i to sa svim dobrima. Stigneš ovde iz Jantara, i onda preko sporednih puteva do Agroproma - i tu si!</text>
+	</string>
+	<string id="dm_action_info_4">
+		<text>Ništa. Ne znam ništa. Prezalogajim tamo-vamo, pokušavam da skupim dovoljno za dnevni obrok. Previše je jezivo ići u Zonu - do đavola s tim. A kući nema posla, moja žena radi na mom slučaju - mora da živi nekako. Ovde u Deponiji, ako tražiš ceo dan, možeš da skupiš neke artefakte. I to je dovoljno za hleb i buter.</text>
+	</string>
+	<string id="dm_action_info_40">
+		<text>A zašto si ovde? Planiraš da ideš u Jantar ili hoćeš da promuvaš neke artefakte?</text>
+	</string>
+	<string id="dm_action_info_41">
+		<text>Neću ti prećutati ni da nam kolege povremeno nude veoma interesantne forme anomalija - artefakte kako ih vi zovete. Zbog...možemo reći...nepoznatog nivoa kontrole nad njima...ovo je jedno od mesta gde ima dosta dokaza o švercu.</text>
+	</string>
+	<string id="dm_action_info_42">
+		<text>Šta je s tobom čoveče? Napravili smo stazu da ne bismo morali da prolazimo kroz Djutijevce ako bi smo želeli da odemo u Veliku Zemlju za nešto. Iako još uvek tumaraju ovuda, makar ništa ne znaju za sad tako da može ta ih zaobiđeš bez problema.</text>
+	</string>
+	<string id="dm_action_info_43">
+		<text>Upravo stižem iz Jantara. Proturiću nešto naučnicima, ali oni su svi zaključani u njihovim bunkerima, ne izlaze ni tokom dana, osim do propelera. Tako da ako planiraš da se uputiš tamo, možeš da promeniš pravac...</text>
+	</string>
+	<string id="dm_action_info_44">
+		<text>U Jantaru se odvija neko istraživanje, nedavno je tuda bilo više zombija. Tako da mi čuvamo ulaze.</text>
+	</string>
+	<string id="dm_action_info_45">
+		<text>Ne znam ni šta da ti kažem. Hteo sam da se vratim u kompleks - zove se Jantar, što verovatno znaš. I ovde je to: kažu da je ranije bilo jako opasno, sada je prosto nemoguće proći tuda. Možda preteruju?</text>
+	</string>
+	<string id="dm_action_info_46">
+		<text>Bio sam u Jantaru, nauka je izumrla tamo: šunjanje naokolo, sakrivanje... Žive na zalihama koje su helikopteri ispustili. U drugu ruku, tu je mnogo zombija sad. Ako provedeš neko vreme među njima, počećeš i sam da se šunjaš. Takvo je mesto. Ne previše prijatno.</text>
+	</string>
+	<string id="dm_action_info_47">
+		<text>Džukelama koje su s njim. Šta misli ko je on da se petlja s zombijima?! Mnogi od njih u glupom kompleksu - i nastavljaju da dolaze. I ima ih sve više i više.</text>
+	</string>
+	<string id="dm_action_info_48">
+		<text>Pokušavamo da zaustavimo širenje zombija oko laboratorije. Iskreno, apsolutno mi ne bi smetalo ako bi nam se ti pridružio - ionako smo u manjku s ljudima...</text>
+	</string>
+	<string id="dm_action_info_49">
+		<text>Znaš, mi također prikupljamo razne podatke. Na primer, ja istražujem glavne načine na koje polu živi...tačnije, zombiji što bi ti rekao...se šire. Da li bi bio voljan da podeliš sa nama tvoja saznanja?</text>
+	</string>
+	<string id="dm_action_info_5">
+		<text>Da o tome je... Neki se snabdevaju na Deponiji, skupljajući neku starudiju, neki prodiru dublje u Zonu. Normalno, tamo možeš naći mnogo korisnije stvari, ali nema svako želju da ide tamo. Tamo nema mesta za početnike, a ako nemaš municije, ni ne pomišljaj da ideš tamo - nema smisla.</text>
+	</string>
+	<string id="dm_action_info_50">
+		<text>Da li si imao priliku da pucaš na zombije koji su se penjali na prozore laboratorije? Bolje se pazi toga - oni se ničega ne plaše, ne osećaju bol, drugim rečima, jadnici bez mozga.</text>
+	</string>
+	<string id="dm_action_info_51">
+		<text>Prijaviću se za radno mesto u laboratoriji! Ej čoveče, opusti se - zezam se. Ako lutaš tuda, dobar si jedino ako si mrtav. U najboljem slučaju, postaćeš zombi.</text>
+	</string>
+	<string id="dm_action_info_52">
+		<text>Upozoravam te: ne idi u laboratoriju. Mislim, ako hoćeš da ideš onda idi, neću na silu da ti branim. Ali niko se ne vraća živ odatle.</text>
+	</string>
+	<string id="dm_action_info_53">
+		<text>Vidiš, hteo bih da te upozorim. Ne bi trebao da ideš u laboratoriju. U suštini, niko ne bi trebao da ide tamo: to mesto je povezano sa promenama u psihi i metabolizmu onih koji su tamo bili, brinem za zbog tebe jer su te posledice trajne.</text>
+	</string>
+	<string id="dm_action_info_54">
+		<text>Tamo! Prosvetliću te...spasićemo izgubljeno. Ovako glasi dogovor: ni slučajno nemoj da se upućuješ ka laboratoriji. I suviše je mračno ovde. Ljudi iznenada nestaju i vraćaju se da te love po noći. Ovo nije priča o vampirima, već istina o zombijima. Tako je kako je.</text>
+	</string>
+	<string id="dm_action_info_55">
+		<text>Jesi li video naše pametnjakoviće, boja Ujedinjenih, do vraga, nacije? Oni su prestrašeni. Pozivaju ceo puk i vazdušne snage radi zaštite, da bi napravili par koraka izvan baze.</text>
+	</string>
+	<string id="dm_action_info_56">
+		<text>A šta imaš ti od toga? Ne smaraj ih glupim pitanjima, u suprotnom će te ostaviti samog.</text>
+	</string>
+	<string id="dm_action_info_57">
+		<text>Vidiš, obično ne ostavljamo bunkere nezaštićene: zakon ne dozvoljava to. Izuzetak sam - ne volim velike ekspedicije, sva ova zbrka, vojnici... Ali u svakom slučaju, sumnjam da ti mogu reći bilo šta korisno.</text>
+	</string>
+	<string id="dm_action_info_58">
+		<text>Izbačen sam iz naše srećne nauke! Potpuno sam prešao svaku granicu, čoveče. Obično se ne pokazuju izvan bunkera. I ako se to desi, kao pre neki dan - o Bože! Svuda naokolo trupe, propeleri, odbrambena tehnologija! Možda imaju borbenu mornaricu, ili makar oklopljeni voz.</text>
+	</string>
+	<string id="dm_action_info_59">
+		<text>Već sam treći dan ovde, istražujem. Tu je negde laboratorija, je l' tako? Niko nije ušao u nju od kad sam ovde, Djuti je istrebljivao zombije samo na vrhu, a sad su potpuno prestali, je l' sam u pravu? Ali naučnici su morali da uđu tamo. Znači da su uspeli da se zaštite, ko zna od čega. Tako da... Šta fali njuškanju naokolo, otkriti nešto - kladim se da tu ima toliko dobara da bismo mogli da ih skupljamo lopatom.</text>
+	</string>
+	<string id="dm_action_info_6">
+		<text>U poslednje vreme čitavi čopori životinja dolaze iz Mračne Doline. Ne znam šta ih tera iz Doline, ali stvarno se bore da pobegnu odatle, kao da ih vatra goni. A u istočnom delu, mutanti se množe kao muve. Sve što mi možemo je da ih ubijamo. Eto, to su novosti.</text>
+	</string>
+	<string id="dm_action_info_60">
+		<text>Za čim tragaš ovde? Pokušavaš da uđeš u laboratoriju? Da li si čuo istinitu priču o magičnim spravama i hrpama artefakta? Čoveče...budale jedne, hoćete li vi išta naučiti?</text>
+	</string>
+	<string id="dm_action_info_61">
+		<text>Ovde ja radim, mladiću. Jednostavno radim, obavljam svoju dužnost. Vidim da hoćeš da saznaš nešto o napuštenoj laboratoriji, ista priča sa svakim stalkerom kojeg sretnem - misli da ja znam nešto o tome, kažem ti: ne znam ništa a i ne zanima me. Ta tema me ne interesuje i nikad nije, razumeš?!</text>
+	</string>
+	<string id="dm_action_info_62">
+		<text>Možda su se mozgovi pojavili s nekom vrstom instrumenata? Pitam se šta je skriveno u toj prokletoj laboratoriji. Iako možda tamo nema ničega - i dalje me interesuje.</text>
+	</string>
+	<string id="dm_action_info_63">
+		<text>Ne znam, možda trebam da se pridružim Fridomu? Njihova baza je u starim vojnim skladištima. Što da ne? Deluju kao pametni ljudi, pa šta ako su malo neorganizovani? Čak je bolje tako: bar ne moram da budem disciplinovan, znam šta trebam da radim - kao da mi ovo nije prvi mesec ovde.</text>
+	</string>
+	<string id="dm_action_info_64">
+		<text>Ne slažeš se baš najbolje s momcima iz Fridoma, zar ne? Dobro, dobro, ne nerviraj se. Mislim da ćemo ih uskoro najuriti iz sadašnjeg prebivališta. Uopšte nisu organizovani niti disciplinovani - kao čopor. I još se usuđuju da nam se suprotstave, te NATO budale.</text>
+	</string>
+	<string id="dm_action_info_65">
+		<text>Tokom prekida pucnjave sam se sastao s jednim od članova Djutija. Pametan je on, ali šta da se radi, uskouman je. Vidiš, naši stavovi su potpuno različiti od njihovih: Zonu možeš samo ukrotiti, uljuditi je, ali ne i uništiti je. Da bi smo to postigli neophodan nam je pristup svim mogućim informacijama: neko će se pojaviti s nekom informacijom. Ali svi oni misle isto "zatvorite Zonu", "zaključajte je" ili "ne dozvolite da se širi"... Retardi, potpuni retardi. U drugu ruku, ima smisla: kada iza tebe stoji politika, ti i ne moraš da gledaš dalje od svog nosa.</text>
+	</string>
+	<string id="dm_action_info_66">
+		<text>Ovde ima jedna mala koliba, ranije je bila fino mesto, a sada se tu kote neki mutanti. Bolje je zaobilazi, to i ja radim... Eto čoveče, upozorio sam te.</text>
+	</string>
+	<string id="dm_action_info_67">
+		<text>Da te upozorim na vreme, stalkeru: krvopije su napravile neku vrstu utočišta u selu, možda i gore od toga, tako da, pazi se.</text>
+	</string>
+	<string id="dm_action_info_68">
+		<text>Tamo je sve po starom. Nema ni jednog artefakta, a krvopije smo poubijali. Krenuo sam jednom tamo, ali nešto me sprečava. Intuicija, možda, ali jednostavno ne mogu da idem ponovo tamo. Nema šanse. To mesto je sablasno kao smrt...</text>
+	</string>
+	<string id="dm_action_info_69">
+		<text>Idem do đavola odavde! Par nedelja tumaranja naokolo, i to je to - dosta mi je! Nakaze sve vreme dolaze i dolaze, svaki dan sve više i više...</text>
+	</string>
+	<string id="dm_action_info_7">
+		<text>Sada su svi postali "Đubrad". Pre nego što su uopšte počeli da zagledaju u gomile - radijacija koja bi ti skuvala tvrdo kuvana jaja za pola sata. Sad kad je zavladala nestašica namirnicama, zamotaće se u zaštitna odela, uzeti neke hemikalije, i popeti se da pogledaju ima li čega tamo. Svačega ima tu, iako je to obično neka starudija.</text>
+	</string>
+	<string id="dm_action_info_70">
+		<text>Ako si ovde radi opsade, poštujem te. Ako nisi - neću više da te vidim ovde! Potreban nam je pravi čovek a ne neka kukavica: dosta mi je takvih...</text>
+	</string>
+	<string id="dm_action_info_71">
+		<text>Ovde si zbog opsade? Potom bolje - makar će neko normalan biti ovde. Mi smo ovo organizovali i dobro se držimo...ali sve te zveri moraju da nam smetaju! Teško je i moramo na sve da pazimo.</text>
+	</string>
+	<string id="dm_action_info_72">
+		<text>Zar nisi obavešten? Put ka centru Zone je otvoren! Bilo da se sam otvorio ili je neko uticao na to - ako jeste, hvala mu od srca. Sve što trebaš da uradiš je da skupiš najbolje namirnice!</text>
+	</string>
+	<string id="dm_action_info_73">
+		<text>Možda si čekao, stalkeru. Nemoj da bežiš nakon svega. Reci mi jedno: znaš li šta se ovde nalazi? Znao sam, ne znaš. Ne znaš šta te čeka ovde. Kakve zamke, ni to ne znaš. Pa što onda pokušavaš da se probiješ k'o krdo bufala?</text>
+	</string>
+	<string id="dm_action_info_74">
+		<text>Put ka centru Zone je slobodan, razumeš?! Staza vodi direktno ka centru! Sad će svi da nagrnu tamo. Poenta je stići prvi, skupiti najkorisnije!</text>
+	</string>
+	<string id="dm_action_info_75">
+		<text>Nastavi pravo - sve ćeš videti! Zar nisi znatiželjan da saznaš šta se dešava tamo? Blago tebi onda. Tamo ima dosta dobrih stvari - zasigurno! Na primer, čuo si za Ispunitelja Želja, zar ne?</text>
+	</string>
+	<string id="dm_action_info_76">
+		<text>Kao deca ste, o Bože! "Ispunitelj Želja", "Klondlajk Artefakata"...ne verujem sopstvenim ušima!</text>
+	</string>
+	<string id="dm_action_info_77">
+		<text>Hoću da saznam šta je izvan svega ovoga, čoveče! Šta ako saznamo nešto, od jednom, sva objašnjenja zašto je Zona takva kakva je?</text>
+	</string>
+	<string id="dm_action_info_78">
+		<text>Da li si video solitere? To je Pripijat. Stanica je posle njega. Kako bih voleo da dospem tamo... Teško je reći čega ima tamo.</text>
+	</string>
+	<string id="dm_action_info_79">
+		<text>Dozvoli mi da objasnim. Tu je Pripijat. Nešto dalje - Černobil NE. Šta se tamo dešava i ko nastanjuje te oblasti, je nepoznato. Mi smo ovde. Otkrićemo nešto, kao i obično.</text>
+	</string>
+	<string id="dm_action_info_8">
+		<text>Nisi u toku! Uputio sam se ka Baru da bih razgovarao s ljudima. Šta, nikada nisi bio tamo? O moj Bože! Evo dogovora: tako kako stojiš, samo nastavi ka severu. Bar je iza ugla. Veoma je korisno posetiti to mesto, pogotovo za početnike kao što si ti, to mesto je kao da ga je doktor prepisao za tebe: ima dosta iskusnih ljudi tamo, ko zna, možda mogu da pomognu, da ti kažu nešto, kako i šta. Još nešto, naletećeš na naše prijatelje iz Djutija...i zavisi - ako imaš sreće, svidećeš im se. Ako ne, onda ništa.</text>
+	</string>
+	<string id="dm_action_info_80">
+		<text>Pripijat! Uštini me! Konačno! Odavde ide put ka stanici. Uf, ko zna na šta možeš naleteti tamo - kakva te stvorenja čekaju tamo.</text>
+	</string>
+	<string id="dm_action_info_81">
+		<text>Slušaj, prijatelju... Čuješ li i ti neke glasove, ili haluciniram? Neko mrmljanje...</text>
+	</string>
+	<string id="dm_action_info_82">
+		<text>Do đavola, još jedan... Evo dogovora. Pokušaću da objasnim milioniti put kroz telepatska iskustva ljudi prolaze ovde. Glasovi koji se čuju napolju sve vreme, pozivaju one koji ih čuju da se upute ka centru Zone obećavajući ispunjavanje svake želje onome ko dodirne... Jao, kako se zvaše?... A da, da dodirnu neki monolit.</text>
+	</string>
+	<string id="dm_action_info_83">
+		<text>Čuješ glas? Kul, kao radio u tvojoj glavi! Šteta što sve vremem ponavlja isto: dodji kod mene i imaćeš sve što poželiš. Dva sata jedno isto.</text>
+	</string>
+	<string id="dm_action_info_84">
+		<text>Ne možeš ni da nagađaš šta je to? Također pokušavaš sam da se probiješ kroz stanicu! Pa i mi pokušavamo - šta je čudno?! I pokušavaćemo sve dok uspevamo da uklanjamo ove retarde s puta...</text>
+	</string>
+	<string id="dm_action_info_85">
+		<text>Stanica je jako blizu! Jedva izlazimo na kraj s otporom koji pružaju vojnici u oblasti monolita!</text>
+	</string>
+	<string id="dm_action_info_86">
+		<text>Tu je, Černobil NE, na dohvat ruke. Malo levo, ovi prokleti majmuni su tako tvrdoglavi, neće da nas puste dalje! Nema veze, raščistićemo ih u milisekundi!</text>
+	</string>
+	<string id="dm_action_info_9">
+		<text>Slušaj, prijatelju, ne znaš ništa o Istraživačkom Institutu? Hteo sam da idem tamo, ali svi su se okomili na mene: tamo nema ničega, sve je očišćeno odavno, osim anomalija. Da li znaš, jel' su ozbiljni ili se samo zezaju? Nov sam ovde - veruj lokalnom stanovništvu... Možda su svi zajedno u tome, samo da bi pravili haos naokolo? Sve za čime oni žude je povod da se smeju k'o ludi, ti idioti!</text>
+	</string>
+	<string id="dm_action_info_94">
+		<text>Čekaj! Idi brzo, ali ne žuri previše. Tu su monolićani svuda naokolo, poznaju grad kao svoj džep, svakakve zamke su postavili. Moraš da paziš.</text>
+	</string>
+	<string id="dm_action_info_95">
+		<text>Upozoravam te: trenutno je veliki deo grada pod kontrolom Monolitske grupacije. Postoji dosta zamki. Širom otvori oči i proveri oružje.</text>
+	</string>
+	<string id="dm_action_info_96">
+		<text>Najviše bih voleo da zaspem grad bombama. Svinje...nema mesta na kome se ne kriju. Koliko je ljudi samo stradalo zbog tih nakaza!</text>
+	</string>
+	<string id="dm_action_info_97">
+		<text>Slušaj, ko zna za Ispunitelj Želja... Možda nije večan, tako da ga možda neće biti dovoljno za sve? I šta da se radi? A ti, druže, obećavam ti: ako dospemo tamo, ići ćeš posle mene...</text>
+	</string>
+	<string id="dm_action_info_98">
+		<text>Djuti mora da se probije do centra, ako ne prvi onda među prvima! Zamisli, stalkeru, da neki psihopata stigne to stvari koja stvarno ispunjava sve želje, ha? Šta onda?</text>
+	</string>
+	<string id="dm_action_info_99">
+		<text>Novost veka: svako ko ume da hoda i nosi oružje je sada tu! Svašta se ovde može desiti! Utuvi to u glavu: bilo šta što poželiš! I neko će da dođe i poželi "Hoću da Zona nestane zauvek". Ha? Da li uviđaš razmeru štete? Svi ćemo završiti u sred ničega, svi mi!</text>
+	</string>
+	<string id="dm_action_info_119">
+		<text>Da, Bandite teram i tako pomažem naučnicima. Sve je to posao.</text>
+	</string>
+	<string id="dm_action_info_120">
+		<text>Burazeru, daj ne davi, od jučer mi mi zvoni u glavi. Ajde da popijemo po koju, pa ćemo onda razgovarati.</text>
+	</string>
+	<string id="dm_action_info_121">
+		<text>Sačekaj minut, brate... Sedi tu sa početnicima što odmaraju pored vatre, povuci koji dim, poslušaj koju priču, sada nisam bistre glave.</text>
+	</string>
+	<string id="dm_action_info_122">
+		<text>O Obeleženi, ajde dođi, ne boj se, svi smo svoji. Jesi pričao sa šefom? Nisi? Pa umorio se čekajući tebe, pobesneo je, a kada je ljut onda smo mi krivi za sve...</text>
+	</string>
+	<string id="dm_action_info_123">
+		<text>Trebalo bi da ti kažem da se boriš protiv Plaćenika, oni su zauzeli Divlju Teritoriju, uhvatili su našeg brata stalkera i... Pa verovatno već znaš da oni više nikog živog ne oslobađaju, a potrebno je probiti se do naučnika.</text>
+	</string>
+	<string id="dm_action_info_124">
+		<text>Lakše je baviti se nestašnom decom nego trpiti ovu nepravdu. Vanka druže moj, da li znaš šta znači reč odlazak? A juče su ga Plaćenici zarobili, glup način da se ostane bez glave, nema više ni jedine preostale alternative.</text>
+	</string>
+	<string id="dm_action_info_125">
+		<text>Nama je ovde teško brate, pogledaj moju komandu, jedno su žutokljunci drugo pijanci, kako sa takvom ruljom da se borim protiv Plaćenika? Djutijevci su od pomoći uglavnom na rečima a ponekad pošalju i grupu, na drugoj strani Jantara, ovo je sva pomoć.</text>
+	</string>
+	<string id="dm_action_info_126">
+		<text>Da, ovde divlje zveri dolaze i dolaze masovno? Mislim da beže sa Jantara glavom bez obzira, i samo naviru. Jedne večeri ovih dana krenuo sam da pišam, udaljio sam se od bureta sa vatrom oko 30 metara i Krvopija se odmah stvorio iza mene i počeo da zavija pa me je halapljivo zgrabio pipcima, ali ja nisam kip koji samo stoji i zuri, izbušio sam ovog reptila između očiju.</text>
+	</string>
+	<string id="dm_action_info_127">
+		<text>Ne bi trebao hodati sam ovuda, tu smo sa grupom stalkera od kojih se svaki ježi kada treba ići nekuda, u wc idemo po dvojica, nekada trojica, jesi li se negde osamio, gotov si.</text>
+	</string>
+	<string id="dm_cool_info_0">
+		<text>Nešto novo? Do đavola s tvojim novostima, kad ima toliko starog smeća. Banditi su pobesneli, stoka! Prolazili smo između anomalija da bi smo se domogli artefakata, a oni kradu ono što su neki mukom pronašli... Idioti jedni! Pazi i ne motaj se po Deponiji - ona je upravo najpovoljnije mesto za njih.</text>
+	</string>
+	<string id="dm_cool_info_1">
+		<text>Zaglavljen sam ovde, razumeš, zaglavljen. Hoću kući, a oni neće da me puste da idem. To su sve novosti. Momci koji zalaze duboko u Zonu, oni koji se motaju uokolo, oni govore drugačije stvari. Ponekad dostavljaju i namirnice - da ti rastu zazubice od ljubomore. Kažu da se tamo nalaze hrpe zlata: samo čekaju da ih neko pokupi. Priznajem, neće svi stići tamo, a još manje će ih se vratiti s otkrićima. Ali opet...</text>
+	</string>
+	<string id="dm_cool_info_10">
+		<text>Oter je spržen pre nedelju dana od Spaljivača Mozgova. Imalo bi smisla da je to neki početnik bio - ali taj čovek je stalker već godinama. Kažu da je bio u Strelokovom timu. A onda...</text>
+	</string>
+	<string id="dm_cool_info_100">
+		<text>Pa nisam baš u toku s novostima.</text>
+	</string>
+	<string id="dm_cool_info_101">
+		<text>Ova lokalna gamad dolazi sa svih strana! Već sam počeo da mislim da što ih više ubijamo, da ih se više pojavljuje. Ali na kraju će pobeda biti naša! Imamo dovoljno dobro naoružanih ljudi, tako da mi uspostavljamo red ovde, a za svakog našeg mrtvog, krvavo ćemo se osvetiti.</text>
+	</string>
+	<string id="dm_cool_info_102">
+		<text>Prokleto je ovo mesto. Ne mislim samo na Agroprom, već celu Zonu. Borba, borba... A sa kim i protiv koga? Ne može biti normalno da se čudovišta tako brzo množe. Toliko smo ih naubijali, a njih je sve više i više</text>
+	</string>
+	<string id="dm_cool_info_103">
+		<text>Čuo sam da mnoge anomalije i artefakti više nisu vidljivi. Možda je to zbog Emisija, one upumpavaju energiju preko svake mere. Zato se pazi: sada to više nije lagana šetnja, detektor ti je sada pitanje života ili smrti. Određeni artefakti se mogu pronaći samo uz pomoć naprednih detektora. Nek' ti je sa srećom.</text>
+	</string>
+	<string id="dm_cool_info_104">
+		<text>A plen tražiš. Ovo ti je jedno od sigurnijih mesta: nema banditske pljačke kau u Deponiji, nema krda mutanata, nema invazije mutanata kao u Agropromu, nema korumpirane vojske. Anomalije su takođe retke, kao i čudovišta - fenomen tolerancije. U poređenju sa drugim mestima, naravno.</text>
+	</string>
+	<string id="dm_cool_info_105">
+		<text>Lov na mutante. Za tela nekih od njih, trgovci i naučnici plaćaju dobru lovu. Ne veruješ mi? Idi i uveri se sam.</text>
+	</string>
+	<string id="dm_cool_info_11">
+		<text>Reci mi, stalkeru: Zašto vi, Samotnjaci, poludite ponekad? Nedostaje vam nešto čime bi ste se bavili? Jedne nedelje jedan od vas je otišao do Spaljivača Mozgova. A kažu da je i on bio iskusan... Postoje i lakši načini da uništiš svoj mozak - cev u usta i pali!</text>
+	</string>
+	<string id="dm_cool_info_12">
+		<text>Batali ove Plaćenike. Sisaju nam krv odavno, i sad su i oni postali jajare. Što su popustili? Neka ucena? Ili da podele svoje Nobelove nagrade?</text>
+	</string>
+	<string id="dm_cool_info_13">
+		<text>Plaćenici su se nedavno još više aktivirali. Također su poznati pod imenom razbojnici. Postoji još kretena tamo, ne znam da li si čuo. Nešto kao Banditi, osim što su profesionalci u ratovanju. Čudno, ranije su napadali stalkere, ali u poslednje vreme su se zainteresovali za naučnike. Ali u svakom slučaju se pazi, ne bih zanemario mogućnost ni da tebi otkinu glavu.</text>
+	</string>
+	<string id="dm_cool_info_14">
+		<text>Čuo sam da su jajare otkrile nešto neverovatno. I odjednom su svi skrenuli s pameti: trupe i Plaćenici, a ni momci iz Djutija nisu daleko od toga.</text>
+	</string>
+	<string id="dm_cool_info_15">
+		<text>Ako hoćeš da znaš o čemu su me ostali ispitivali poslednjih dana, onda ti kažem: idi i okupaj se! Da znam i da mi nisu zabranili da pričam o tome, već bih rekao nekome. Ali kako stoji, ne znam - ne znam ništa! Šta su naučnici našli? Gde su nam vođe otišle? Šta ja imam s bilo čim od toga?! Na odmoru su, i ne moraju da nam polažu račune.</text>
+	</string>
+	<string id="dm_cool_info_16">
+		<text>Ha! Svi su poludeli ovde! Konfederat i njegova grupa ljudi su se vratili iz pohoda, i doneli su pregršt artefakata - leleeee majko mila! Naravno Konfederat ćuti - ni reč ne progovara, kao i obično - a njegovi ljudi umišljaju kao da su našli zlato a ne artefakte... Budale!</text>
+	</string>
+	<string id="dm_cool_info_17">
+		<text>Poslednjih dana zveri samo nadolaze od Spaljivača Mozgova. Ljudi iz starih skladišta su konstruisali barijere, za sad deluje kao da obavljaju svoj posao. Ako barijere popuste...moraće da zatraže pojačanje, nema drugog izbora...</text>
+	</string>
+	<string id="dm_cool_info_18">
+		<text>Da li si čuo glasine da se Zona širi? Mislim da je to istina: video sam zastrašujuće čovekolike mutante na periferiji Zone, dok si ranije na njih mogao da naletiš samo u centru Zone. Stvari ne stoje baš najbolje, zar ne?</text>
+	</string>
+	<string id="dm_cool_info_19">
+		<text>Veoma je moguće da ne lažu za krvopije, da su ih videli na granicama Zone. Kakve to veze ima sa širenjem Zone? Par komada je zalutalo izvan Zone. Ponekad moramo i par dana da patroliramo! I dobro radimo. Jer kod granica Zone niko ne traži pomoć, "Upomoć, okruženi smo mutantima!".</text>
+	</string>
+	<string id="dm_cool_info_2">
+		<text>Pa da, tužno je. Oter je poginuo pre neki dan, ni zbog čega. Jednostavno ne mogu da verujem...a ti za njega nisi ni čuo, jesi li? Pa, bio je profesor ovde - od prve godine, poznavao je Zonu kao svoj džep...i onda kao grom iz vedra neba! Ima par iskusnih stalkera ovde, ali i dalje stradaju u Zone. Neki stradaju vraćajući se u Veliku Zemlju.</text>
+	</string>
+	<string id="dm_cool_info_20">
+		<text>Šta misliš, zna li barman šta su naučnici pronašli? Slušaj, možda je povezan s naučnicima? Izgleda da nalazi iskusnije stalkere kojima daje čudne zadatke. Ništa im ne objašnjava, samo govori, idi tu idi tamo...a odredišta su opasna bez ikakvih dobara na vidiku. A šta, kog đavola, on traži tamo?</text>
+	</string>
+	<string id="dm_cool_info_21">
+		<text>Nešto čudno se dešava. Zombiji koji su se plašili svetla, sada su svuda naokolo. Šta se to dešava?!</text>
+	</string>
+	<string id="dm_cool_info_22">
+		<text>Zombiji su postali agresivniji i aktivniji u poslednje vreme. Ranije smo ih suzbijali u samom kompleksu, a sada jedva čuvamo ulaz. Ali to nisi čuo od mene, razumeš?</text>
+	</string>
+	<string id="dm_cool_info_23">
+		<text>Pazi se, ovi hodajući mrtvaci su preplavili teritoriju. Poprilično su ludi i agresivni. Sve vreme smo pod opsadom - ceo dan i noć. Tako da znaš da je opasno ovde, mladiću.</text>
+	</string>
+	<string id="dm_cool_info_24">
+		<text>Ooo, kladim se da su oni jajoglavi nešto zeznuli u laboratoriju. Ranije nisi mogao tako lako da naletiš na zombije, a sad samo naviru iz kompleksa. Što je najbitnije, lutaju okolo kao da su nešto izgubili.</text>
+	</string>
+	<string id="dm_cool_info_25">
+		<text>Priča se da su naučnici unajmili nekog od naših da ode do laboratorije. Nešto su mu dali...neki zaštitni uređaj...i ništa više, nemam više podataka o tome.</text>
+	</string>
+	<string id="dm_cool_info_26">
+		<text>O svačemu pričaju. Kažu da se pojavila neka budala koje je pričala s naučnicima i složila se da ide u laboratoriju iz nekog razloga. To nema smisla!</text>
+	</string>
+	<string id="dm_cool_info_27">
+		<text>Evo najžešće šale u nedelji! Jajare su dale veoma dobru naknadu nekom od tvojih momaka, tako da je otišao u laboratoriju noseći neki od njihovih instrumenata. Još jedna žrtva, do đavola!</text>
+	</string>
+	<string id="dm_cool_info_28">
+		<text>Verujem,da se opet nešto kuva. Šupljoglavci su nešto iskopali, za koji se verovatno svi interesuju. S drugim rečima: Ti i ja nećemo više imati mira.</text>
+	</string>
+	<string id="dm_cool_info_29">
+		<text>Ko zna. Angažovani smo dva puta više nego ranije - bilo da radimo na blokadi, ili čišćenju mutanata...a također je povećan broj u trupama u Zoni.</text>
+	</string>
+	<string id="dm_cool_info_3">
+		<text>Žalosno je, toliko znam. Uvek je bilo gubitaka na periferiji, a pola njih nikada nije bilo dublje u Zoni a nema više artefakata za sve. Čak su pokupili sve iz laboratorija i fabrika. Uskoro ovde neće biti posla, osim ako ne otvorimo restoran...sa egzotičnim pogledom i kuhinjom.</text>
+	</string>
+	<string id="dm_cool_info_30">
+		<text>Ne znam ni šta da ti kažem... Ovde se uvek nešto dešava, ali u granicama razuma. Iako oni ne misle tako u Velikoj Zemlji, ali ti i ja mislimo, takoreći, u poremećenoj Zoni.</text>
+	</string>
+	<string id="dm_cool_info_31">
+		<text>Jajare su nanjuškale nešto. Ko zna na šta su već naleteli, ali sigurno već vrte trupe oko malog prsta. Trupe vrše pretraživanja svuda po Istraživačkom Institutu i Mračnoj Dolini, traže, traže, pokušavaju da nađu nešto...</text>
+	</string>
+	<string id="dm_cool_info_32">
+		<text>Dan za danom sve više mutanata dolazi iz smera Spaljivača Mozgova, a onda su Djutijevci i Fridomovce odlučili da dižu frku. Tako da će se poubijati međusobno, i šta onda? Koliko ćemo dugo moći sami da čuvamo granicu Zone?</text>
+	</string>
+	<string id="dm_cool_info_33">
+		<text>Mutanti su sve odlučniji da probiju barijere. Nedavno je to bilo nezamislivo. Da se neki ljudi urazume, mnogo bi lakše bilo!</text>
+	</string>
+	<string id="dm_cool_info_34">
+		<text>Momci iz Djutija nastavljaju da se hvale svojim super-herojskim uspesima kod barikada. Ako bi im iko poverovao... Napravili smo ovaj dogovor i mi se pridržavamo. A povrh svega toga, mnogo samotnjaka kao što si ti žele da ostanu po strani. Ali ti momci iz Djutija...nek se nose!</text>
+	</string>
+	<string id="dm_cool_info_35">
+		<text>Čuo sam da su se ovi iz Djutija načisto prodali. Kažu "svi smo mi volonteri koji hoće da stvore sigurnost u Zoni"...ma da, volonteri! Neki sponzor je, takozvanim volonterima, dao toliko puno municije, takve puške, da umreš od zavisti. I oni su se prodali.</text>
+	</string>
+	<string id="dm_cool_info_36">
+		<text>I dalje brbljaju o tome kao "mi smo dobrovoljci koji žele da uspostave bezbednost i red u Zoni"...malo sutra, dobrovoljci! Neki sponzori su dali tim takozvanim dobrovoljcima malo previše municije, puški, da umreš od zavisti. I znači prodali su se.</text>
+	</string>
+	<string id="dm_cool_info_37">
+		<text>Jesi čuo šta nam prete ovi iz Djutija? "Sravnite ih s zemljom" - nije to ništa šta pričaju. Sve me ovo jako zabrinjava... Pogotovo od kad su se, priča se, naoružali najnovijom opremom.</text>
+	</string>
+	<string id="dm_cool_info_38">
+		<text>Kakve novosti? Sedimo ovde, zveri dolaze, poubijamo ih, pa opet dolaze, sve jače i otpornije. Da, par puta su dolazili vojni helikopteri, deluje kao da su prošli pored Spaljivača Mozgova.</text>
+	</string>
+	<string id="dm_cool_info_39">
+		<text>Tamo nikakvih novosti nema...staro, samo staro. Mutanti, Fridom...iako su vojnici nedavno počeli da se prevoze helikopterom. Makar da su jednom upucali neku zver...ali ne, ni to...</text>
+	</string>
+	<string id="dm_cool_info_4">
+		<text>Novosti? Koga je briga šta ko kaže! Ne možeš svakome da veruješ. Na primer, kažu da je neki iskusni stalker došao iz unutrašnjosti Zone, donevši nešto što niko nikada nije video, lako je impresionirati takve kokoške... Takvih priča mogu stotinu i sam da napričam!</text>
+	</string>
+	<string id="dm_cool_info_40">
+		<text>Video sam vojne avione: zamisli, uputili su se pored Spaljivača Mozgova! Pa, gledam ih i mislim, sad će da se sruše. ALI NIŠTA - hladnokrvno su nastavili dalje. Zadržali su se tamo neko vreme, kružili malo, i vratili se nazad. Tipično, zar ne?</text>
+	</string>
+	<string id="dm_cool_info_41">
+		<text>Sada kada postoji put do centra Zone - mora da ima toliko blaga tamo da možeš da gaziš po njemu!</text>
+	</string>
+	<string id="dm_cool_info_42">
+		<text>Put do centra Zone je relativno siguran sada, stalkeri su se navukli na nju k'o muve na med. Eh...pohlepa i nije nešto čime bi ljudi trebali da se ponose.</text>
+	</string>
+	<string id="dm_cool_info_43">
+		<text>Ovo je život! Dok ovi iz bara i sa periferije pokušavaju da dođu ovamo, mi ćemo uzeti samo najbolje! Uzećemo što bolju robu, a ostali nek skupljaju šta ostane.</text>
+	</string>
+	<string id="dm_cool_info_44">
+		<text>Pa priča se da postoji - Ispunitelj Želja. Neko je uspeo i da stigne tamo, i poželeo tonu želja...</text>
+	</string>
+	<string id="dm_cool_info_45">
+		<text>Slušaj, druže, znam da se svašta može desiti u Zoni. I sam sam video. A te priče o ospunjavanju želje o privatnom hotelu na Karibima je potpuna budalaština i ništa više od toga.</text>
+	</string>
+	<string id="dm_cool_info_46">
+		<text>Zar ne znaš? Dvojica naših momaka - dvojica koji su među prvima stigli do centra Zone, stigli su do Ispunitelja Želja i poželeli nešto! Poželeli su more i ostrva, tako da se sada sigurno sunčaju negde u tropskim oblastima.</text>
+	</string>
+	<string id="dm_cool_info_47">
+		<text>Našli smo junaka - glavni momak iz Fridoma. Svi su bili ubeđeni da se vratio u Veliku Zemlju, a ustvari je oformio mali tim i nekako su prošli pored Spaljivača Mozgova. Evo ga, taj čovek.</text>
+	</string>
+	<string id="dm_cool_info_48">
+		<text>Odkriveno je u jednom od bivših nedostupnih odreda Fridoma. Kako su uspeli da se provuku nepovređeni i čak prežive par nedelja tamo? Ne mogu ni da zamislim. Mislim da smo ih podcenili.</text>
+	</string>
+	<string id="dm_cool_info_49">
+		<text>Zamisli - pronašli su našeg Miklu! I njegovi ljudi su također preživeli. Prošli su pored brisača pamćenja, i mesec dana su se smarali, jer nisu mogli da se vrate.</text>
+	</string>
+	<string id="dm_cool_info_5">
+		<text>Nešto se opasno zakuvava. Priča se da vođa Djutija nije otišao iz Zone samo zbog posla, već je i uspostavio dogovor s Fridomom. Mogli su i ranije da se dogovore, a sad je sve u haosu. Kako izgleda, stvari ne stoje baš najbolje. U drugu ruku, iskusniji stalkeri kažu da su uzvratili paljbu bez ikakvog razloga. Samo se nadam da nas nakaze iz Velike Zemlje neće uvaliti u još neku nevolju.</text>
+	</string>
+	<string id="dm_cool_info_50">
+		<text>Čuo si?! Vojska je sve pripremila. Uskoro će biti ovde! Čuli su da je Spaljivač Mozgova otkazao, i odlučili su da sve od dobara uzmu za sebe!..</text>
+	</string>
+	<string id="dm_cool_info_51">
+		<text>Stigla je nova informacija: vojne trupe će se iskrcati kod stanice. Moj savet: ako imaš nameru da uzmeš išta od dobara, bolje požuri.</text>
+	</string>
+	<string id="dm_cool_info_52">
+		<text>Sve je u haosu, baš tako ! Ali vidiš, hodnik je otvoren, očistili su stanicu od svih sranja - i tu smo, Vojska je spremna da preuzme vlasništvo! Bez trunke savesti i srama.</text>
+	</string>
+	<string id="dm_cool_info_53">
+		<text>Ali ovo ne shvatam: kako su momci iz Fridoma izdržali mesec dana ovde? Da nemaju možda nevidljive ogrtače? Nema šanse!</text>
+	</string>
+	<string id="dm_cool_info_54">
+		<text>Razumeš šta se dešava? Pa, zadobio sam poštovanje od Mikluhe! Zamisli - preživiš ovo sranje, bez i jednog izgubljenog života!</text>
+	</string>
+	<string id="dm_cool_info_55">
+		<text>Ima i poludelih ovde. Kad razmislim, bili su oni dobri momci, a sad su kao najveći retardi. Užasno.</text>
+	</string>
+	<string id="dm_cool_info_56">
+		<text>Što si blizi stanici, telepatska sila je jača. Neki su poludeli, drugi su istraumirani i priviđaju im se stvari. Možda je vreme da ohladimo glave malo..</text>
+	</string>
+	<string id="dm_cool_info_57">
+		<text>Slušaj, ljudi stvarno postaju poremećeni. Neko ugleda kamen i počne da vrišti kako je to njegov prokleti artefakt, kao on ga je prvi video, i da bi svi trebali da idu na jug. Nekome se desi da ugleda na nebu kako grli nestale prijatelje... Ne ne, ovde nešto nije u redu.</text>
+	</string>
+	<string id="dm_cool_info_6">
+		<text>Trupe su u nekakvoj žurbi oko istraživanja. Ranije su helikopteri leteli i do Jantara da bi branili naučnike, nosili zalihe i ostale potrebštine. Ali sada bukvalno vrše invaziju - razmatraju o svakavim ekspedicijama, voze se u oklopljenim vozilima. Već sam ih video u Agropromu i Mračnoj dolini. Ništa ne kontam.</text>
+	</string>
+	<string id="dm_cool_info_7">
+		<text>Kažu da je neko ponovo pokušao da dopre do Spaljivača Mozgova. Normalno, nikad se nije vratio... Nikad nisi čuo za Spaljivača? Šta je s tobom, čoveče?! To je najopasnija stvar ovde! Samo što je problem... Sve najgore stvari šta se pričaju o njemu...tačne su.</text>
+	</string>
+	<string id="dm_cool_info_8">
+		<text>Ovde, pored Bandita, trupe tumaraju naokolo iz nepoznatih razloga. Ranije si mogao da vidiš helikopter jednom u sto godina, a sada obleću celu Zonu, bukvalno. Da nisu možda nešto izgubili il' šta?</text>
+	</string>
+	<string id="dm_cool_info_9">
+		<text>Da te upozorim, stalkeru. Vojnici su nedavno poludeli. U prošlosti su mirno čuvali naučnike, a sad kao gladni vukovi: razaraju sve živo, užurbani su... Nije sve baš tako mirno - već su pucali na tvog brata, i među nama, već su dvojicu ranili prošle nedelje.</text>
+	</string>
+	<string id="dm_help_thanks_1">
+		<text>Hvala puno.</text>
+	</string>
+	<string id="dm_intro_0">
+		<text>Šta radiš to, krećeš se bez zaštite? Smorio si se, je l' tako? Anomalije su na sve strane - BUM, i nema te više! Ovde se ni ne piša bez zaštite, ozračio bi se.</text>
+	</string>
+	<string id="dm_intro_1">
+		<text>Izgleda da si i dalje izgubljen, tako da ću te upozoriti: ne petljaj se s Vojskom. Čim spaziš nekog njihovog, beži glavom bez obzira jer oni nemaju mozga. Prvo pucaju, pa tek onda pitaju.</text>
+	</string>
+	<string id="dm_intro_10">
+		<text>Ovo je Djuti. Naša voljena policija, kako god. Zapamti to u nameri da izbegneš nevolju.</text>
+	</string>
+	<string id="dm_intro_100">
+		<text>Dobar dan.</text>
+	</string>
+	<string id="dm_intro_101">
+		<text>Dobar dan.</text>
+	</string>
+	<string id="dm_intro_102">
+		<text>Dobro ti želim!</text>
+	</string>
+	<string id="dm_intro_103">
+		<text>E druže!</text>
+	</string>
+	<string id="dm_intro_104">
+		<text>Hej.</text>
+	</string>
+	<string id="dm_intro_105">
+		<text>O hej!</text>
+	</string>
+	<string id="dm_intro_106">
+		<text>Zdravo.</text>
+	</string>
+	<string id="dm_intro_107">
+		<text>Pozdrav!</text>
+	</string>
+	<string id="dm_intro_108">
+		<text>Zdravo, stalkeru.</text>
+	</string>
+	<string id="dm_intro_109">
+		<text>Pozdrav, stalkeru.</text>
+	</string>
+	<string id="dm_intro_11">
+		<text>Nalaziš se na teritoriji Djutijevaca. Svaki zahtev se mora izvršiti bez otpora i oklevanja. Sve će biti objašnjeno ako se ukaže potreba za time. Recept za ponašanje: svima se lepo obraćaj, i nemaš problema.</text>
+	</string>
+	<string id="dm_intro_110">
+		<text>Hej ti, stalkeru!</text>
+	</string>
+	<string id="dm_intro_111">
+		<text>Ćao.</text>
+	</string>
+	<string id="dm_intro_112">
+		<text>Koga to imamo ovde?!</text>
+	</string>
+	<string id="dm_intro_113">
+		<text>A ko je to?</text>
+	</string>
+	<string id="dm_intro_114">
+		<text>Pozdrav, čoveče.</text>
+	</string>
+	<string id="dm_intro_120">
+		<text>Ovde sam bio nedavno. Ali sam se već umorio od usputnih stanica. Izaći je teže nego penjati se</text>
+	</string>
+	<string id="dm_intro_121">
+		<text>Zdravo, dragi gospodine! Skrivaš se? Pa svi se skrivaju - od svog prošlog života, svako ko je hteo da pobegne.</text>
+	</string>
+	<string id="dm_intro_122">
+		<text>Da li ti znači nešto ime Čisto Nebo? Neki klan. Sigurno su u zaveri sa tajnim agentima. Čuli smo samo deliće radio poruka u vezi njih, a čak i drugi stalkeri pričaju razne bajke o njima.</text>
+	</string>
+	<string id="dm_intro_123">
+		<text>Ovde se skorije pojavila grupa po imenu Osvetnici. Nije jasno šta su njihove namere. Sreo sam razne ljude u svom životu, i naučio sam da ih prepoznajem, ali ovi ljudi su rođene ubice. Jednom rečju profesionalci. A s takvima nema šale.</text>
+	</string>
+	<string id="dm_intro_12">
+		<text>Ako imaš nejasnoća, onda idi u Bar i nemoj da me smaraš više. Oni će ti reći sve, odgovoriće ti na pitanja, a i postaviti neka. A ja nemam mnogo vremena za priču.</text>
+	</string>
+	<string id="dm_intro_13">
+		<text>Prvi put? Preporučujem ti da odeš do Bara: a tamo će ti kolege reći sve novosti.</text>
+	</string>
+	<string id="dm_intro_14">
+		<text>Ne približavaj se zombijima, i ne idi u laboratoriju, jasno?</text>
+	</string>
+	<string id="dm_intro_15">
+		<text>Ne bih ti preporučio da se približavaš laboratoriji: zbog zombija.</text>
+	</string>
+	<string id="dm_intro_16">
+		<text>Znaš, preporučujem ti da se kloniš laboratorije.</text>
+	</string>
+	<string id="dm_intro_17">
+		<text>Čuvaj se zombija - to su manijaci, ničega se ne boje. I ne idi u laboratoriju - tamo se razmnožavaju valjda...</text>
+	</string>
+	<string id="dm_intro_18">
+		<text>Znaj da je Spaljivač Mozgova blizu. Ne usuđuj se da ideš ka severu.</text>
+	</string>
+	<string id="dm_intro_19">
+		<text>Pazi - ako hoćete da sačuvate mozgove, odavde nemojte više ići dalje ka severu.</text>
+	</string>
+	<string id="dm_intro_2">
+		<text>Pazi se kad pređeš most, znaš? Previše krvoločnih pasa ima tamo. Ako ne obraćaš pažnju, rastrgaće te u milisekundi.</text>
+	</string>
+	<string id="dm_intro_20">
+		<text>Pazi se! Spaljivač Mozgova je jako blizu, ako odeš na sever, bićeš samo još jedan mrtav idiot.</text>
+	</string>
+	<string id="dm_intro_21">
+		<text>To je kao da ideš po minskom polju, samo gore. Ko zna šta se dešava tamo - ne možeš da predahneš ni sekundu.</text>
+	</string>
+	<string id="dm_intro_22">
+		<text>Koncentriši se i ne opuštaj se. Opustiš li se, gotov si - smrt vreba.</text>
+	</string>
+	<string id="dm_intro_23">
+		<text>Moraš da budeš tih sve vreme! Spavaj s otvorenim okom! Ovde te svašta može snaći dok se ne nadaš.</text>
+	</string>
+	<string id="dm_intro_24">
+		<text>Pazi se ovih retarda! Ima ih kao bubašvaba, na tone!</text>
+	</string>
+	<string id="dm_intro_25">
+		<text>Ubijaj takozvane monolićane čim ih vidiš. Jako su opasni - pravi fanatici!</text>
+	</string>
+	<string id="dm_intro_26">
+		<text>Imaš ovde neke retarde, sami sebe zovu Monolićanima... Ili je to neko drugi smislio, kako god. Praktično, oni se ne plaše smrti. Kad ih sretneš, bukvalno se bacaju na tebe i pokušavaju da te prikolju. Tako da ako vidiš nekog od njih, pucaj bez razmišljanja.</text>
+	</string>
+	<string id="dm_intro_3">
+		<text>Slušaj. Ako vidiš tunel, ne ulazi unutra. Otvoreno ti govorim, jer niko ne bi sam sebe uvalio u nevolju. Niko te neće ni izneti iz njega - ostaćeš raskomadan tamo. To je Zona, kontaš?</text>
+	</string>
+	<string id="dm_intro_4">
+		<text>Ko te je opelješio tako? Nisi valjda i ti naleteo na one budale ispod mosta? Jao kučke! Zamalo da me ubiju. Skoro da su me skroz opelješili! A oni su svuda naokolo, patroliraju. Bilo da si Bandit, bilo da si član trupa u komandnim punktovima, isto ti je.</text>
+	</string>
+	<string id="dm_intro_5">
+		<text>Zašto si sam? Ovde ima previše onih koji ti mogu nauditi, mogu da te strefe kad god! Nedavno sam čuo da su potpuno skrenuli - sada napadaju i sigurnosne punktove!</text>
+	</string>
+	<string id="dm_intro_6">
+		<text>Upozoravam te ako nisi obavešten: nedavno smo videli Bandite ovde. Ovo je već drugi sukob ove nedelje. Pazi se - već su poslali šest samotnjaka na drugu stranu.</text>
+	</string>
+	<string id="dm_intro_7">
+		<text>Znaš li slučajno šta su trupe radile u Instraživačkom Centru? Zašto su se tako aktivirali na tom području?</text>
+	</string>
+	<string id="dm_intro_8">
+		<text>Budi pažljiviji ovde. Beskrajno se skrivaju u zgradama. Jednom rečju, oni su šakali - bez savesti i milosti...ubili bi bilo koga.</text>
+	</string>
+	<string id="dm_intro_9">
+		<text>Ne bi trebao ići sam u Mračnu Dolinu. Banditi imaju prebivalište u nekim od zgrada - i dalje ih ne mogu isterati odatle. Pazi se da ne naletiš na njih, čoveče.</text>
+	</string>
+	<string id="dm_intro_help_1">
+		<text>Pomozi mi prijatelju!</text>
+	</string>
+	<string id="dm_intro_help_10">
+		<text>Neka mi neko pomogne!</text>
+	</string>
+	<string id="dm_intro_help_11">
+		<text>Straža! Povređen sam! Dođite!</text>
+	</string>
+	<string id="dm_intro_help_12">
+		<text>Upomoć! Umirem!</text>
+	</string>
+	<string id="dm_intro_help_13">
+		<text>Druže... Prvu pomoć... Umirem... Pomozi!</text>
+	</string>
+	<string id="dm_intro_help_14">
+		<text>Stalkeru... Daj mi prvu pomoć... Umirem... Pomozi mi - a i ja ću tebi pomoći...</text>
+	</string>
+	<string id="dm_intro_help_15">
+		<text>Stalkeru... Daj mi prvu pomoć... Umirem... Pomozi mi - a i ja ću tebi pomoći...</text>
+	</string>
+	<string id="dm_intro_help_16">
+		<text>Stalkeru... Daj mi prvu pomoć... Umirem... Pomozi mi - a i ja ću tebi pomoći...</text>
+	</string>
+	<string id="dm_intro_help_17">
+		<text>Stalkeru... Daj mi prvu pomoć... Umirem... Pomozi mi - a i ja ću tebi pomoći...</text>
+	</string>
+	<string id="dm_intro_help_18">
+		<text>Stalkeru... Daj mi prvu pomoć... Umirem... Pomozi mi - a i ja ću tebi pomoći...</text>
+	</string>
+	<string id="dm_intro_help_2">
+		<text>Momci, dajte prvu pomoć!</text>
+	</string>
+	<string id="dm_intro_help_3">
+		<text>Donesite prvu pomoć!</text>
+	</string>
+	<string id="dm_intro_help_4">
+		<text>Anti-šok, momci! Požurite!</text>
+	</string>
+	<string id="dm_intro_help_5">
+		<text>Prvu pomoć, molim vas ljudi!</text>
+	</string>
+	<string id="dm_intro_help_6">
+		<text>Dajte mi prvu pomoć!</text>
+	</string>
+	<string id="dm_intro_help_7">
+		<text>Prijatelju, prvu pomoć... Pomoć!</text>
+	</string>
+	<string id="dm_intro_help_8">
+		<text>Pomagaj druže!</text>
+	</string>
+	<string id="dm_intro_help_9">
+		<text>Prijatelju, možeš li da mi daš prvu pomoć, možeš li?</text>
+	</string>
+	<string id="dm_action_info_128">
+		<text>Eh, mater mu... Koliko sam vremena potrošio na razne gluposti, a sada me sve stiglo u nekoliko dana. Misliš da sam došao u ovu rupčagu vlastitom voljom, što mi se prohtelo? da je meni u Zoni sve tip-top! Mesto je bilo toplo i pare su kapale. Samo je sve prestalo, a "prijatelji" su me na pero hteli posaditi - tako da sam morao protegnuti noge gde me neće pronaći. A zašto na pero? E to, kažem ti, nije tvoja briga.</text>
+	</string>
+	<string id="dm_action_info_129">
+		<text>To je jednostavno. Otišao sam na pogrešan način... Sada znam to, itekako znam. Stavio je nagradu za moju glavu. A mnogo ih se je želelo dočepati! Zato sam se ovamo preselio, daleko od ljudskih očiju. Čekam, da se sve malo slegne, ali mi nekako odgovara ova klimau. Moram razgovarati o prošlim delima...</text>
+	</string>
+	<string id="dm_action_info_130">
+		<text>Na "Čisto Nebo" sam slučajno naleteo. Njihovi momci su me izvukli iz jedne močvare u zadnjem trenutku. Odveli me do svoje baze, razgovarao sa Lebedevim, i mislim u sebi - stvarno pametan čovek! On zna neke stvari o Zoni koji svaki mozak ne može ni shvatiti. A i svrha "Neba" je ispravna. Tako sam im se pridružio, da im pomognem koliko god mogu.</text>
+	</string>
+	<string id="dm_action_info_131">
+		<text>Skupljam iskustvo i novce. Čim se obogatim, kupiću sebi najbolje odelo i opremu, i zapičiti u Centar Zone, gde se nalazi taj Ispunitelj Želja. Kažu, da je tamo već neko uspeo doći. E pa i ja ću. Oh, kako ga želim pronaći, i zaželjeti želju. Ostaj mi dobro!!!</text>
+	</string>
+	<string id="dm_action_info_132">
+		<text>Naslušao sam se svakakvih priča i bajki od svakakvih ljudi, pre nego sam došao ovamo u Kordon. Ali kad sam došao ovde, tako mi je i duh odleteo. Ovde možeš poginuti svake sekunde a i plen nije lako pronaći. Ali ono što me najviše ubija jeste da ovde nigde ne postoji neko mirno i tiho mesto. Čak i za spavanje je potrebna puna straža...</text>
+	</string>
+	<string id="dm_action_info_133">
+		<text>Zona me začarala. Ovde sam slučajno završio, preko neke ilegalne ekskurzije... I, znaš, pravo sam se navukao! Ljudi su ovde oboje - i prijatelji i neprijatelji. I ta opasnost, osećaj bliske smrti - hteli mi to ili ne, čini da se osećam življim i da uživam u svakom trenutku ovog života.</text>
+	</string>
+	<string id="dm_action_info_134">
+		<text>Čekam prijatelja koji se vratio po plen. Nekako smo ga zaboravili, jer smo krenuli na brzinu. Ali ga nismo mogli ostaviti tamo, zar ne? Ništa mu neće biti. Sada čekam da se vrati. Možda je išao okolo ili je možda svratio u Bar na piće sa prijateljima...</text>
+	</string>
+	<string id="dm_action_info_135">
+		<text>Neko mi je prodao kartu. Počinjem sumnjati da je lažna. Posvuda sam se penjao i tražio - i ništa! Nikakvog plena nema. A joj, kad nađem ono đubre što mi je prodalo - mrtav je!</text>
+	</string>
+	<string id="dm_action_info_136">
+		<text>Odmaram se nakon zadnje racije. Išli smo skroz do Barijere - tamo smo se branili od zlih duhova koji dolaze iz centra Zone. Okupili smo dobre dečke. Sanja, Lešij, Prika, Maldi - sve pravi momci. A i plen smo dobar skupili. Nešto smo smo prodali trgovcu a nešto sao zadržali za sebe. Ovde je sve lakše, nego tamo u velikoj Zoni.</text>
+	</string>
+	<string id="dm_action_info_137">
+		<text>Ovo ti je kao da idemo kroz minsko polje, samo još gore. Ovde samo đavo zna šta će se desiti, ne možeš se opustiti ni sekunde.</text>
+	</string>
+	<string id="dm_action_info_138">
+		<text>Šta? Šta želiš čuti? Mogu ti samo reći: "Djuti", nisu policija, ali sigurno znaju zavesti red. A zato ih i ne volim. Više su tip neke vojske... Uglavnom, priča se da polako žele da unište Zonu. Najverovatnije su to sve bivši vojnici, pa me to i ne iznenađuje... Sanjari. Što je još gore, kažu da imaju podršku iz vrha.</text>
+	</string>
+	<string id="dm_action_info_139">
+		<text>Šta? Šta želiš čuti? Mogu ti samo reći: "Djuti", nisu policija, ali sigurno znaju zavesti red. A zato ih i ne volim. Više su tip neke vojske... Uglavnom, priča se da polako žele da unište Zonu. Najverovatnije su to sve bivši vojnici, pa me to i ne iznenađuje... Sanjari. Što je još gore, kažu da imaju podršku iz vrha.</text>
+	</string>
+	<string id="dm_action_info_140">
+		<text>Jesi čuo da je "Djuti" objavio regrutovanje? Minut-dva sam razmišljao i onda odlučio: Šta mi to treba, svaki dan sa opasačem? Disciplina... I tako sam dva puta služio, dosta je...</text>
+	</string>
+	<string id="dm_action_info_141">
+		<text>Nedavno je očišćeno područje oko "Jantara". Da, poprilično su rasuli taj čopor! Tamo je jedna istraživačka laboratorija, samo zombiji lutaju okolo. Pomoć naučnicima je neophodna zbog njihovih istraživanja.</text>
+	</string>
+	<string id="dm_action_info_142">
+		<text>Znaš šta? Neka Djuti i Fridom reše problem pljačkaša, kome će veći deo, ni to me nije briga! Nek' se svi gone...</text>
+	</string>
+	<string id="dm_action_info_143">
+		<text>Zabavna je ova naša nauka! Baš jednostvna, čoveče! Nije to samo biti u bunkeru, kao i obično. Sada je sve drugačije! Puna borbena sprema, oružje, panciri, oklopna vozila!! Ne bih se iznenadio da imaju i neki oklopni voz!</text>
+	</string>
+	<string id="dm_action_info_144">
+		<text>Budi oprezan, jer su ti hodajući leševi preplavili celi kraj. Jako su glupi ali i jako agresivni. Celo vreme smo u defenzivi - i po noći i po danu. Ovde je prilično opasno, mladiću.</text>
+	</string>
+	<string id="dm_action_info_145">
+		<text>Jesi čuo čime se Djuti hvališe? Da će nas u prah pretvoriti. Iskreno, malo sam zabrinut...</text>
+	</string>
+	<string id="dm_action_info_146">
+		<text>Novo... Malo toga ima za reći! Svašta se priča - ali kome verovati? Evo pričaju da je došao jedan iskusni stalker, i doneo nešto iz unutrašnjosti, nešto još neviđeno, gomilu nečega... Pa da, i sam ti mogu izmisliti hrpu takvih priča!!!</text>
+	</string>
+	<string id="dm_cool_info_7">
+		<text>Jesi čuo da se jedna grupa stalkera probila do samog centra Zone. I to neposredno pre velike Emisije. Interesantno, ili su došli do samog Ispunitelja Želja ili su nestali?</text>
+	</string>
+	<string id="dm_cool_info_8">
+		<text>Sada je teško živeti samo od plena. Ako se nekako iščupaš živ iz anomalija i kandži čudovišta, neophodno je proći kroz zasede i patrole Bandita, a još su tu onda i vojni punktovi. Kao rezultat svega toga, vratiš se siromašniji nego kada si krenuo. Nešto se mora poduzeti protiv tih lešinara. Nadam se da će se stalkeri rešiti ovih gulikoža...</text>
+	</string>
+	<string id="dm_action_info_101">
+		<text>Ma goni ove Monolitovce... Stvarno su skroz poludeli, a sećam se vremena kada su bili miroljubivi... Sećam se kada sam sreo jednog, počeo je bljezgarati svoje uobičajene gluposti o Monolitu: "Braćo, Monolit me pozvao sinoć. Razgovarao sam s Njim. Bio je prekrasan u svojoj veličanstvenosti. Njegovo svetlo me zaslepilo, ali me ispunilo velikom snagom! Znam, osećam da je njegova moć među nama! Rekao mi je da samo jaka vera može pobediti sile zla. Također je rekao da će njegova moć biti samo sa istinskim vernicima. Rekao mi je da je naša pobeda blizu". Odgovorio sam mu: "Ajde beži s tim svojim Monolitom!". Pokipio je i počeo urlati: "Doći će vreme kada ćemo očistiti celu Zonu od nevernika!" i tako te stvari. Izgleda da nije lagao - sljedbenici Monolita dolaze u grupama iz NEP Černobil, prokleti čudaci!</text>
+	</string>
+	<string id="dm_action_info_102">
+		<text>Imaš li šibicu? Ah, ti ne pušiš. Zašto sam tako nesretan danas?</text>
+	</string>
+	<string id="dm_action_info_103">
+		<text>Mladi stalkeru, ako vidiš poruku o smrti Semetskog na svom PDA - nemoj se brinuti oko toga, on je legenda Zone. Dobićeš tu poruku puno puta. Ljudi pričaju da je on jedan od retkih koji je došao do Monolita. I šta je poželeo? Pa besmrtnost, naravno. I tako sada luta Zonom, umire i ponovno se vraća u život. Neki stalkeri tvrde da su ga videli, ali verovatno lažu. Zona je puna tajni i misterija... Ne dosađujem ti a svojim pričama, zar ne? Ajde, idi u miru. Želim ti uspešan lov na plen.</text>
+	</string>
+	<string id="dm_action_info_104">
+		<text>Ok, evo jedan vic. Raspravljaju tri stalkera koji je od njih trojice najveća faca. Pošto se nisu mogli dogovoriti, odluče da je najveća faca onaj koji uspe istjerati najviše ljudi iz bara. Prvi zgrabi veliki mitraljez, uleti u bar i dreknu:\n - Ajmo, svi marš van!!! - pola ljudi je pobeglo, ali je ostalo destak stalkera koji su ga prebili na mrtvo ime. Sledeći dan ulazi drugi stalker, obučen kao mutant, uleti u bar. Pola ljudi je poskakalo kroz prozore, drugi kroz vrata, ostao je samo odred Djutija - pa, uhvatili su ga i naučili ponašanju. Sledeći dan ulazi treći stalker u bar, nakašlja se i reče\n - Kah-hrm-kgh, pfff, hrak, pljuc! Jebeni sifilis!</text>
+	</string>
+	<string id="dm_action_info_105">
+		<text>Pa, ima priča, iako kažu da se desila davno, još pre nego sam ja došao ovamo. Jedan stranac je odlučio da postane stalker i zaradi nešto novca, mislim da ne bio naučnik... Niko ne zna šta je zapravo tražio ovde, jer je skroz slabo govorio ruski... Ustvari, niko nije znao kako je uopšte došao u Zonu i završio kod Barmena. Sigurno mu je neko ranije rekao za njega. Dakle, nije znao pričati ruski, iako je on mislio da jeste... Počeo je nervirati Barmena sa svojim lošim ruskim... I tako ga je davio nekoliko sati. Možda je trebao nekuda ili možda je tražio nekoga, ne znam... Pošto ga Barmen nije ništa razumeo, odlučio je da ga pošalje na teritoriju Fridoma, i reče mu: "idi tu i tu, to područje kontrolišu vojnici Fridoma, oni će ti reći sve što ti treba", iz nekog razloga, ljudi su verovali da pripadnici Fridoma dobro barataju sa engleskim jezikom. Tom strancu se Barmenova reč "kontrolišu", kažu da se isto tako kaže i na engleskom, nemam pojma je li to istina. A kad je tip došao do baze Fridoma, počeo je svakom da dosađuje ponavljajući samo "Kontrola, Kontroler, Kontroler", mašući rukama prema bazi Djutija. Kažu da su se Fridomovci uspaničili, i podigli na noge celi kamp - pošto je bila noć, stražarili su sve do jutra. Nakon toga izbacili su tog lika sa teritorije Fridoma, a niko ga ni u Baru nije video. Izgleda da nije našao ono što je tražio u Zoni...</text>
+	</string>
+	<string id="dm_action_info_106">
+		<text>Danas su se mnogi ljudi pretvorili u "strvinare". Prije niko nije ni pogledavao u hrpe smeća u Deponiji - radijacija je toliko visoka da ti u sekundi skuva jaja. Ali sada, kada je puno teže pronaći artefakte, sada ulaze u zaštitna odela, uzimaju neke lekove i pretražuju. Ima svega i svačega u tima hrpama otpada, ali, u suštini, ništa dobro i ekstra vredno.</text>
+	</string>
+	<string id="dm_action_info_107">
+		<text>Ovi početnici mi stvarno piče po živcima ovih dana. Upadaju u anomalije i umiru jedan za drugim... Možeš li verovati da je pet mladih stalkera, umrlo u zadnja dva dana! A drugi ništa nisu naučili iz toga! Ništa. Znaš, Muva je uzela trojicu početnika u svoj odred - i gde su sada? Ali ona je našla neke jako dobre artefakte u zadnje vreme. Možda ih je sama upucala? Ne, verovatno nije... Ona je poštena... Relativno. Kako god, vidim da si i ti nov ovde, zato dobro otvori oči. Srećno.</text>
+	</string>
+	<string id="dm_action_info_108">
+		<text>Jesi čuo o tajnim laboratorijama duboko u Zoni? Ljudi pričaju da su još u funkciji... Da, da... Ne mogu nikako shvatiti kako neko može tamo preživeti... Bez hrane i energije... E sada se tu postavlja jedno interesantno pitanje - da li uopšte ljudi rade tamo? Imao sam interesantan razgovor sa jednim tipom neki dan... On sam nije video te laboratorije... Ne, nije, ali je njegov PDA primio neke čudne poruke u Jantaru. Bili su verovatno u blizini jedne od tih laboratorija. Drugi se momak zaklinjao da je sreo nekog lika u odelu koje je izgledalo kao stalkersko odelo, ali opet drugačije... I ta osoba je bila providna, i rekla mu da se gubi odatle. "Ne ometaj nas, gubi se odavde, mi radimo ovde". Pa, momak se usrao od straha, naravno... I ja bih da sam video nešto tako... Samo ovaj stalker što mi je reko o ovem, kaže da je to bilo negde u blizini Radara... tako da i ne mora biti istina... Ali opet... Mutacija ima raznih, jel' tako? Možda to uopšte nisu ljudi, već neka vrsta fantoma stvorenih od čiste energije. Šta ti misliš?</text>
+	</string>
+	<string id="dm_action_info_109">
+		<text>Čuo sam da je pozvano nekoliko Specnaza u Arenu... Baš želim videti hrabre idiote koji će se boriti s njima.</text>
+	</string>
+	<string id="dm_action_info_110">
+		<text>Trči čopor pacova. Izlazi stalker pred njih i kaže "Ima li neka najveća faca među vama? Nema. E onda svaki od vas mora mi dati po jedan artefakt da prođe". Sledeći dan opet isto! Tako pacovi odluče pozvati Slepog Psa u pomoć. I tako, opet oni trče. Izlazi stalker, zaustavlja ih i pita: "Ima li neka najveća faca među vama?". Pacovi propuste Slepog Psa i on kaže: "Pa, ja sam faca". Tada se stalker okrene i ode, a izađe Kontroler: "E, odlično. Najveća faca treba dati 10 artefakata, a ostali po jedan!"</text>
+	</string>
+	<string id="dm_action_info_111">
+		<text>Hej, druže, jesi ikada čuo za "Presretače"? Ljudi kažu da su to vojni specijalci! Ali jesi ih video na delu!? Nisu ni nalik na one morone iz Kordona! Ne samo da idu u udaljene predele već provode mesece i mesece u Zoni! A to nije neka šala! Imaju nekoliko baza širom Zone, mnogo tajnih mesta i zalihe im dolaze helikopterom. Njihov komandir je neki tip koga zovu Gromov... Mislim da je to lažno ime - zovu ga još i 'Major' ili 'Grom'. Ne veruješ mi, zar ne? Pahomov je jednom sreo "Presretače"! Samo su ga njegove brze noge spasile, inače bi bio mrtav... Zato što je sve to tajna! Svi znaju Pahomova! Ti ljudi ni neki smotanci, to je ozbiljni tim. Đavo zna šta traže ovde, ali posao rade prokleto dobro! Da imam trećinu njihovog stava - ne, ma samo deset posto! - već bi imao veliku kuću u Sočiju... Priča se da ti dečki imaju nekakav uređaj... Koji otkriva čudovišta na 200 metara. I to sva čudovišta! S takvim uređajem mogu šetati Zonom kao da su u parku... Oh, još sam čuo od jednog tipa... Ne, nije bio vojnik, jedan naš momak... Kaže da su došli do samog centra Zone. I ne samo da su to uradili - ljudi kažu da mogu ukrotiti propitomiti stvorenja! Nikada ne izlaze iz svog perimetra u Vanjske zemlje - a niko ni ne dolazi njima... Pa, niko osim onih koji su odabrani da uđu u Sarkofag... Sakupili su tone i tone artefakata! Djuti zna za njih... Znaju, znaju, samo šute, kopilad! A ako ikoga od njih pitaš, kaže "To nije istina". Kako da nije, kučke jedne!?</text>
+	</string>
+	<string id="dm_action_info_112">
+		<text>Desio mi se jedan nesrećan slučaj - izgubio sam svoj ranac sa plenom. I to bezveze! Već sam brojao pare u glavi kad mi se to desilo: uvečer jedan Slepi Pas iskoči iz grmlja i poče režati na mene. Gotovo sam se upišao od straha, toliko sam se prestrašio. Prvo sam čak i pomislio da je to Pseudo pas, jer obično možeš čuti Slepog psa kada se približava, a Pseudo psi su tihi. Bacio sam na njega svoj ranac o pobegao! Mislio sam da će krenuti zamnom, ali zgrabio je ranac i otišao na drugu stranu, kučka jedna! Sada idem u novu ekspadiciju. Uzgred, želiš li ići samnom? Ne? Dobro onda, vidimo se kasnije.</text>
+	</string>
+	<string id="dm_action_info_113">
+		<text>Čuo sam da su Kontroleri jako slabi tokom Emisija i da ne mogu uraditi ništa, da ih je lako ubiti...</text>
+	</string>
+	<string id="dm_action_info_114">
+		<text>Evo jedan vic, malo je poglup ali meni je smešan. Sede tri stalkera u baru, piju pivo, i pričaju stalkerske priče... Kaže prvi:\n- "Ljudi, sreo sam jedno tako veliko čudovište u Zoni, da sam potrošio svu municiju i tek sam ga sredio sa bacačem granata". Svi zinu i kažu - 'VAAU'! Drugi kaže:\n- 'Ja sam jučer naleteo na enormno veliko čudovište u Zoni, da sam potrošio svu municiju, bombe i tek sam ga uspio ubiti sa bacačem plamena'. Svi zinu i kažu - 'VAAU'! Treći kaže:\n- 'Primetio sam jedno strašno veliko čudovište u Zoni...' i stane. Pitaju ostali: 'I onda??' Stalker nastavi: 'I onda sam potrošio puno vremena na čišćenje svojih pantalona!'</text>
+	</string>
+	<string id="dm_action_info_115">
+		<text>Jesi li čuo za Vodiča? On je jedan od najstarijih stalkera ovde. Ljudi kažu da je on prvi koji je došao u zonu i da je još živ. Kažu da te može odvesti na bilo koje mesto ovde. Ali da ga je teško naći... A i neće da radi sa svakim. Potrebno je puno novca, ali ako ga pronađeš i on pristane da ti pomogne, možeš biti siguran - odvešće te gde god trebaš ići. On je taj s kim želim razgovarati. On verovatno zna šta je iza Radara...</text>
+	</string>
+	<string id="dm_action_info_116">
+		<text>Znaš šta? Ne bi trebao spavati u ovim predelima Zone... Ja sam srećan jer ionako ne mogu zaspati... Ali drugi ljudi imaju tako strašne noćne more da se ponekad i ne probude ujutro... Verovatno jer su doživeli srčani udar u snu... Neki umru, neki polude... Ali priča se da ima rešenje i za to. Ako želiš spavati, pronađi kantu... Ili kakav kotlić za kuvanje... Ali mora biti čitav, bez ikakvih rupica... Staviš to na glavu i slobodno zaspeš kao klada... Hej, možeš se smejati koliko hoćeš, ali ti neće biti smešno nakon nekoliko dana kada počneš luditi od umora. Misliš da si pametan? Reci mi onda, zašto vojnici nose one šlemove? Aha, sada malo bolje razumeš! Prije, možda godinu ili dve, nisu nosili ništa, a vidi ih danas! Imaju stvarno čudne šlemove - dečki su pronašli telo jednog vojnika neki dan. U tom šlemu je bila nešto kao neka mreža iznutra, napravljena od tankih bakrenih žica, sve povezane sa unutrašnje strane šlema. I niko nije imao pojma zašto se uopšte nalaze tamo. Ali ja ti kažem, ovo zujanje sigurno ima nekakve veze s tim. Definitivno nije od anomalija - ovde ih baš i nema puno, a na drugim mestima još manje... Mislim da su pronašli način i da se pripremaju za nešto. Zapamti šta ti kažem, žele ući u Sarkofag. Uskoro će doći do Velikog Praska - i nikome se neće svideti. Zapamti šta ti kažem... Samo se nadam da neću biti u blizini kada se to desi...</text>
+	</string>
+	<string id="dm_action_info_117">
+		<text>Jesi čuo vesti? Jučer je bio masakar u kampu, nedaleko odavde, Plaćenici su to odradili - sve su pobili, stražar je zaspao i prerezali su mu grkljan i onda sredili sve njegove prijatelje na spavanju. Niko od njih nije imao vremena ni da puca...</text>
+	</string>
+	<string id="dm_action_info_118">
+		<text>Jesam li ti pričao o Crnom Stalkeru? Ok, postoji legenda o Crnom Stalkeru u Zoni, i niko ne zna odakle je došao i šta traži ovde. Legenda kaže da nosi dugi crni kaput sa kapuljačom, tako da niko nije video njegovo lice niti ga je ikada video sa oružjem. da budem iskren, samo je ga je nekoliko ljudi videlo i to izdaleka, i kažu da su ih prošli užasni žmarci, da čak i čudovišta beže od njega. Ko je on? Neki kažu da je mutant, neki veruju da je duh a neki samo da je neki pijani stalker. Đavo će ga znati... Ne verujem dok ga ne vidim svojim očima.</text>
+	</string>
+	<string id="dm_cool_info_58">
+		<text>Slušaj vic o Kontroleru. Stari Kontoler uči mlađeg: 'Vidiš li onog vojnika na punktu? Opasač mu je stegnut, uniforma nova, čizme se sjaje - zove se "Duh". Možeš ga uzeti pod kontrolu čak odavde, ali nema koristi od njega - slabo puca, boji se svega, i nema tu mesa ni mišića. Sada pogledaj tipa što stoji pored njega, što puši. Iznošena uniforma, stare čizme - zovu ga "Kutljača". Njega je teže kontrolirati, dobro puca, ima mnogo mesa, ali žilavog mesa. Možeš ga uzeti lako noću, kada zaspe. Sada pogledaj onoga što spava u onom grmlju, bez opasača i bosonog. To je 'Deda'. On je pun mesa, ali masnog mesa. Teško ga kontrolisati jer ne spava noću a može te ubiti bez ikakvog oružja. Trebaš ga srediti kada ide u selo po votku ili po artefakte u Zonu. I tu je onaj poslednji - vidiš li onog sa stegnutim opasačem i sjajnim čizmama, ali ga nemoj mešati sa "Duhom". Jednom sam uzeo takvu ludu, dve sedmice mi je čistio jazbinu sa četkicom za zube, jedva sam mu pobegao - on se zove 'Druženaredniče'.</text>
+	</string>
+	<string id="dm_cool_info_59">
+		<text>Čuo sam dobar vic u baru. Dolazi stalker kod Sidoroviča, i kaže njemu Sidorovič:\n'Slušaj stalkeru, dobio sam novo odelo sa potpunom zaštitom od radijacije, iz tajnog Instituta u Kijevu. Ali ga još niko nije testirao. Obuci ga i idi u Zonu. Ako preživiš, daću ti popust na njega'. I stalker pristane. Ode on u Zonu i nema ga jedan dan, dva dana, tri dana... Vrati se tek četvrti dan, ljut k'o snork, baci odelo odelo Sidoroviču na stol!!! Sidorovič se iznenadi:\n'Šta nije u redu, stalkeru? Zar ne štiti?\n-'Ma štiti!'\n-'Misliš, nije kompletna zaštita?'\n-'Ma kompletna je!!'\n-'Pa zašto si onda tako ljut?'\n-'Svi u Zoni piju votku od jutra do mraka da se zaštite od radijacije - SAMO JA HODAM TREZAN ČETIRI DANA PO ZONI KAO BUDALA!!!'</text>
+	</string>
+	<string id="dm_cool_info_60">
+		<text>Prije nekoliko dana video sam članove Monolita kako raščišćavaju područje oko Spaljivača - bilo ih je oko tridesetak, pucali su na sve što se miče: mesine, veprove, čak i pse... A ja sam... Znaš, razgulio odatle, za svaki slučaj... Nisam hteo da mi dupe napune ulovom.</text>
+	</string>
+	<string id="dm_cool_info_61">
+		<text>Hoćeš jedan vic? Piči 'Niva' autoputem prema Zoni, 120 kilometera na sat. Patrolni policajac puhnu u zviždaljku, 'Niva' se zaustavi i četiri 'Djutijevca' izađoše. Isprebijaše policajca, nabiše mu zviždaljku u guzicu i odvezoše se dalje. Policajac uze toki-voki\n-'Sedam dva-sedam tri!\n- Ovde sedam-dva!\n- Senja! Neki idioti idu Nivom u tvom smeru i uopšte ne reaguju na zviždaljku! Pokušaj ih zaustaviti sa pendrekom! Jesi me razumeo, sedam-dva..?</text>
+	</string>
+	<string id="dm_cool_info_62">
+		<text>Hej, jesi čuo priču o Fantomu? Nisi? Ispričaću ti jednu priču o njemu da nećeš poverovati. Ljudi kažu da je to bio stalker, niko nije znao njegovo pravo ime pa su ga svi zvali Fantom. Bio je iskusan stalker sa dobrom dušom, razumeo je ljude i ljudi su razumeli njega. Neki kažu da je studirao psihologiju na univerzitetu, ali to je sada ne važno. Ono što je važno u vezi njega jeste da je on mogao ići po celoj Zoni neprimećen, vojni punktovi i anomalije nisu bile nikakve prepreke za njega. Često je išao u sam centar Zone, ali jednom se nije vratio. Verovatno ga je ubila Emisija ili nešto drugo. Pa, priča se da je postao nešto nalik poltergeistu, da luta Zonom već desetak godina, tražeći stalkere. A kada ih pronađe - pogleda im u dušu, ako je neko dobra osoba, onda će mu pomoći, pokazati sklonište ili pobiti sve mutante u blizini. Ali ako vidi da je neko loš, pun greha, onda mu nema spasa i taj neće dugo poživeti - Fantom će ga rastrgati u komadiće. To je jedna priča laku noć za tebe...</text>
+	</string>
+	<string id="dm_cool_info_63">
+		<text>Obeleženi, gde si nabavio tu pucaljku? Kupio od Sidoroviča, sigurno? Da, ima on lepog oružja, samo skupo, brate. To kopile sigurno nabavlja za sitne novce od Vojske a nama prodaje po tri puta većoj ceni! Ne, druže, nisam toliko ja glup. Radije sebi nađem nešto u Deponiji - malo radioaktivno, ali ipak besplatno.</text>
+	</string>
+	<string id="dm_cool_info_64">
+		<text>Hej, stalkeru, čuo sam neki vic skoro, nije nešto ali je poučan. Slušaj. Vodi se borba između Djutija i Fridoma. Komandir Fridoma ustade i povika:\n-'Idemo, za Fridom!' - i svi krenuše u napad. Djutijevci sa druge strane povikaše:\n-'To je to, sad smo gotovi, spašavaj se ko može'.\nAli jedan stariji iskusni Djutijevac reče:\n-'Čekaj, ne bežite-', izađe sa svojom puškom: bang-bang-bang! 'Fridomovci se pobacaše na zemlju. Nakon nekoliko minuta Fridomovci ustaše:\n- 'Za Zonu! Hurraa!' - i opet kernuše u napad. 'Djuti':\n-'E sada smo jebali ježa u leđa, bežimo!'\nOpet će stari Djutijevac:\n- 'Čekajjj!' - izađe sa svojim kalašnjikovim - bang-bang-bang - 'Fridomovci' opet legoše na travu. Prođe malo vremena, ustade komandir Fridoma i povika':\n- 'Za našu braću, za Fridom, za Zonu, juriš!' - i napad opet poče. Mladi Djutijevci počeše paničariti. Stari Djutijevac opet ponovi isto. Fridomovci opet polegoše. Nakon nekog vremena ustaje komandir Fridoma, lica prekrivenog blatom, sav mokar i smrdljiv povika:\n- 'Do đavola, ne razume ovo nikako!!?'\nStari Djutijevac baci cigaru i reče: \n- 'E sada je vreme da bežimo!'</text>
+	</string>
+	<string id="dm_cool_info_65">
+		<text>Jesi čuo za Plaćenike? Ne? Onda slušaj i neka ti ovo ostane u glavi: to su ubice, jako ozbilje i jako odlučne, doći će do svakoga, do živog ili mrtvog. jesi čuo za Sovinu smrt skoro? A direktan pogodak u srce i glavu, telo spaljeno, bez ikakvih ostavljenih dokaza - njihov stil. Ti momci uopšte nemaju savesti, ubiju čoveka lako kao da ubiju buba švabu, jedino što poštuju jeste novac. Priča se da im je baza u Mrtvom Gradu, ali se niko nikada nije vratio otamo - Plaćenici ne vole nepozvane goste. Znaš li kako oni treniraju? Uhvate bandita ili stalkera, odvedu ga u svoje mesto, daju mu kalašnjikova i dva okvira i puste ga da ide kuda hoće. Ako nakon 12 sati bude živ, živeće i dalje. To ti je njihova zabava, druže. Za sve ovo vreme samo je Miša uspeo preživeti susret s njima, i to samo zato što je deset bio u Specnacu. Dakle, Obeleženi, ako vidiš ljude u plavim odelima, beži koliko te noge nose, jer ako oni imaju pik na tebe, gotov si - doći će do tebe čak u podzemlje.</text>
+	</string>
+	<string id="dm_cool_info_66">
+		<text>Čuo sam da ima jedna grupa ljudi... Nekada ih zovu šamani a nekada druidi. Oni veruju da u Zonu ne treba donositi nikakve elektronske uređaje - sve treba da bude prirodno... Kažu da Zona reaguje na sve elektomagnetne impulse...i tako privlači čudovišta na tebe. Ako to uzmeš u obzir, onda Zona predstavlja živi organizam. Kažu da ne treba uopšte donositi bilo kakve uređaje u Zonu - pametna osoba će uvek naći način. Ali opet nose oružje sa sobom, kučke... Ne koriste svoje zube i kandže, hehe... Ali s druge strane, jako ih je malo poginulo u Zoni. Manje od nas, sigurno... Znači, ima nešto i u toj njihovoj priči... Uglavnom dolaze sa Bjeloruske strane u Zonu... U suprotnom bi bila dobra ideja da ih pratim, i da proverim koliko imaju artefakata u džepovima...</text>
+	</string>
+	<string id="dm_cool_info_67">
+		<text>Hej, Barmen mi je rekao da su jučer krvopije napale selo u blizini Vojnih Skladišta - niko nije preživeo, ti jadnici nisu imali vremena ni da pošalju SOS signal. 'Djutijevci' su danas bili tamo, kažu da je sve poprskano krvlju, kao da su svinje zaklane... Strašno.</text>
+	</string>
+	<string id="dm_cool_info_68">
+		<text>Imaš cigaretu? Ne pušiš? Aha... To ti je dobro, znaš. Doći ćeš lakše do daha kada budeš bežao od pasa, he-he... Znaš li da su neki iskusni Plaćenici, snajperisti, ubijali ljude na interesantan način. Kada se grupa stalkera okupi i zapali cigaretu, on opazi svetlo od šibice i cigarete. Onda, kada drugi i prvi stalker zapale cigaretu, svetlo se pomiče i snajperista vidi obojicu. Na kraju, kada treći stalker zapali cigaretu sa istom šibicom, odmah dobije metak u glavu... Zato stalkeri sada imaju pravilo "Tri čoveka nikada ne pale cigarete istom šibicom." Dakle, šalu na stranu, jer ti život ovisi o tim malim stvarim...</text>
+	</string>
+	<string id="dm_cool_info_69">
+		<text>Pre nekoliko noći, išao sam do kampa i došao sam pred nekoga. Po opremi sa video da je vojnik, u jednoj ruci je vukao po zemlji Specnac pušku, jako čudno se ponašao i izgledalo je kao da me nije ni primetio. Vukao je jednu nogu, i na trenutke hramao ali je i dalje držao pušku u ruci, pa sam izvadio pištolj i uperio ga u njega. Kao da ni to nije primetio, ili ga možda nije bilo briga, samo je nastavio hodati pokraj mene. Onda se okrenuo i zabuljio mi se u oči, znao sam da nešto nije u redu s njim. Kada me je prošao, video sam da je pokušao nešto da kaže, nešto nepovezano, ali sam samo raspoznao "Kontroler... Pomoć". Odlučio sam mu pomoći a onda sam čuo helikopter, pa sam pobegao i sakrio se u nekom grmlju. Tada se ispred mene pojavilo 6-7 vojnika a onda sam video i helokopter. Trojica su nanišanila tog jadnika a ostali su ga oborili na zemlju. Možeš li zamisliti! Također su nešto vikali o šlemu. Onda su ga strpali u helikopter... Vrlo čudno... Taj tip, njegove reči o Kontroleru... Vojnici... Je li uspeo pobeći Kontroleru..?</text>
+	</string>
+	<string id="dm_cool_info_70">
+		<text>Nedavno smo, ja i još četiri stalkera, zamolili jednog Plaćenika da mu se pridružimo uz logorsku vatru. Ispalo je da on uopšte nije loš čovek. Plaćenik je objasnio da je samo ubijao po naređenju. Većina stalkera tretiraju Plaćenike sa poštovanjem, ali Plaćenici poštuju stalkere, ali sebe smatraju nenadmašnim majstorima. Ovaj Plaćenik mi je ispričao svoju životnu priču, za svoju službu je dobio "Medalju za hrabrost" i pokazao nam je. Trenirao je u centru za obuku snajperista, "Tamo je sve uzimaju ozbiljno.", kaže. Svaki put kada pucaš, proveri oružje, opet pucaš, opet provera, i tako uvek. Rekao nam je da se snajperske veštine kupe u ratu, u žarištima. Ponekad se osoba dugo trenira, ali kada dođ pred pravi ispit (obično negde u Čečeniji) - neki ljudi to jednostavno ne mogu uraditi. Možeš se pripremati u školi, pucati u sve moguće mete ali kada dođe stvarnost, nešto u tebi škljocne i jednostavno zamrzneš. Tako ti je to. Znači, Obeleženi, u Zoni moraš biti jak.</text>
+	</string>
+</string_table>
+<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:56 -sadd -->
+<!-- Preveo i prilagodio Flexerca -=- 15:09 29.04.2015 -->

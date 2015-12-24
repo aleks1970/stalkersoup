@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.2 additional items, fixed typos, added 135 items, corrected text and strings aleks1970
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; DMX 1.3.5
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+FOOD AND PROVISIONS 
+-->
+<string_table>
+	<!--dmx135-->
+	<string id="medic_overdose">
+		<text>Predoziranje!</text>
+	</string>
+	<string id="medic_several">
+		<text>Nije moguće korištenje više lekova u isto vreme!</text>
+	</string>
+	<string id="medic_can_overdose">
+		<text>Ne možeš koristiti lek prečesto, može doći do predoziranja!</text>
+	</string>
+	<string id="medic_not_finished">
+		<text>Prvi medicinski tretman još nije spreman!</text>
+	</string>
+	<!--dmx135 end-->
+	<string id="pivo">
+		<text>Chernigov pivo</text>
+	</string>
+	<string id="enc_equipment_pivo">
+		<text>Nije poznato ko je prvi doneo ovo pivo u Zonu, ali je brzo postalo omiljeno među stalkerima... Sada se može naći kod svakog trgovca u Zoni.</text>
+	</string>
+	<string id="irp-b">
+		<text>Vojni obrok</text>
+	</string>
+	<string id="enc_equipment_irp-b">
+		<text>Vojni suvi obrok, izrađen posebno za vojno osoblje u Zoni. Kao i sve ostale stvari, postala je dostupna kod različitih trgovaca. Ambalaža je specijalno zalemljena tako da njen sadržaj ostaje jako dugo vreme nepokvaren. Vrlo ukusna i hranjiva - san svakog stalkera...jako skup san.</text>
+	</string>
+	<string id="mechta">
+		<text>San cigarete</text>
+	</string>
+	<string id="enc_equipment_mechta">
+		<text>Slične kao i obične cigarete, ali ono od čega se stvarno sastoje moguće je prosuditi samo kroz imena koja su im dali stalkeri: "Bajke iz Bečke Šume", "Bakin Madrac", "Grumen Uglja". Kako god, puše se u celo Zoni.</text>
+	</string>
+	<string id="voda">
+		<text>Kristalna mineralna voda</text>
+	</string>
+	<string id="enc_equipment_voda">
+		<text>Kristalna brendirana mineralna voda. Savršeno gasi žeđ, poboljšava celokupno zdravlje i vraća energiju ...</text>
+	</string>
+	<string id="tuchenka">
+		<text>Mesna konzerva</text>
+	</string>
+	<string id="enc_equipment_tuchenka">
+		<text>Konzerve opljačkane od strane stalkera iz vojnih skladišta hrane. Najvažnije je da im rok trajanja nije istekao i da je jestiva...</text>
+	</string>
+	<string id="sardina">
+		<text>Sardine</text>
+	</string>
+	<string id="enc_equipment_sardina">
+		<text>Opći naziv za bilo koje od različitih malih, mekokoštanih, morskih riba kao što su papaline i srdele i mlade haringe. Te sićušne ribe koje se prelevaju duginim i srebrnim bojama, plivaju u velikim jatima, obično u blizini površine vode. Sveže srdele su dostupne ograničenoj količini samo tokom letnih mjeseci, obično samo uz obalu gdje su ulovljene. Općenito, njihovo meso je najbolje na žaru, pečeno ili prženo. U Sjedinjenim Američkim Državama, srdele su najčešća usoljene, dimljene ili konzervirane, bilo u ulju, umaku od rajčice ili umaku od senfa. Neki su pakirane cele, dok su ostale bez kože, kostiju i prodaju se kao fileti. Ime su dobile po mestu lovljenja, uz obale Sardinije, gde su bile jedne od prvih riba koje su pakirane u ulju.</text>
+	</string>
+	<string id="sholad">
+		<text>Čokolada</text>
+	</string>
+	<string id="enc_equipment_sholad">
+		<text>Tamna čokolada je dobro poznata po svojim dobrim svojstvima, sadrže veliku količinu antioksidanasa koji smanjuju nastana slobodnih radikala u telu. Kako je došla u Zonu niko ne zna... Ali niko se i ne žali.</text>
+	</string>
+	<string id="ogursi">
+		<text>Marinirani kiseli krastavci</text>
+	</string>
+	<string id="enc_equipment_ogursi">
+		<text>Preporučuje se koristiti uz neku jaku votku. Ovi izvrsni krastavci oslobođeni su iz dostavnog kamiona koji ih je trebao dostaviti do jednog trgovinskog lanca koji se nalazi na samoj periferiji Pripjata. Njihov rasol odlično smanjuje mamurluk.</text>
+	</string>
+	<string id="yantar">
+		<text>Jantarski sir</text>
+	</string>
+	<string id="enc_equipment_yantar">
+		<text>Jantarski sir je u stvari jeftini Ruski konkurent siru Viola koji je ušao u Sovjetsko tržište 1950'ih godina od strane Finske kompanije Valio Ltd. Napravljen je (po lokalnoj legendi) u eksperimentalnom i naučnom odjelu da "promovira prijateljstvo između svih ljudi Sovjetskog Saveza i sveta."</text>
+	</string>
+	<string id="nuts">
+		<text>Miks orašastih plodova</text>
+	</string>
+	<string id="st_nuts_descr">
+		<text>Miks orašastih plodova je obrok koji se sastoji od mešavine mehanički ili ručno oguljenih orašastih plodova.  Kikiriki, bademi, orasi, brazilski orasi, indijski oraščići, lešnjaci su najčešći sastojci. Oni mogu biti slani, pečeni, kuvani ili blanširani. Osim što se mogu odmah pojesti, mogu se koristiti i za kuhanje.</text>
+	</string>
+	<string id="olives">
+		<text>Masline</text>
+	</string>
+	<string id="st_olives_descr">
+		<text>Masline su bogate zasićenim masnim kiselinama, željezom, vitaminom E i vlaknima. Prirodno ubrana ljubičasto/crna maslina sadrži antocijanin. Mehanički ubrane crne masline se konzerviraju i šalju u trgovine. Tu je i proces koji je tipičan za obradu količine i vrste antocijanina u maslinama. Korisne su kao brz i hranjiv obrok.</text>
+	</string>
+	<string id="kolbasadmx">
+		<text>Doktorova kobasica</text>
+	</string>
+	<string id="enc_equipment_dmx_kolbasa">
+		<text>Nježna okus kobasice se proizvodi koristeći tradicionalne tehnologije. Uglavnom se sastoji od mesa visoke kvalitete, niske masnoće, svinjetine i govedine, s dodatkom jaja, integralnog kravljeg mleka i malo oraščića.</text>
+	</string>
+	<string id="absolut_vodka">
+		<text>"Absolut" votka</text>
+	</string>
+	<string id="enc_equipment_vodka_absolut">
+		<text>Absolut Votka je francuski brend votke, proizvedena u blizini Ehusa, Skene, u južnoj Švedskoj. Od marta 2008, kompaniju je preuzela francuska firma Pernod Ricard</text>
+	</string>
+	<string id="nemiroff_vodka">
+		<text>Nemirof votka</text>
+	</string>
+	<string id="enc_equipment_vodka_nemiroff">
+		<text>Moderna i istinski snažna votka sa osećajem dostojanstva i osobnosti. Otkriva neobičan i osebujan ukus, koji uključuje kim i med.</text>
+	</string>
+	<string id="smirnoff_vodka">
+		<text>Smirnof votka</text>
+	</string>
+	<string id="enc_equipment_vodka_smirnoff">
+		<text>Smirnof votku je osnovao u Moskvi Pjotr Arsenievič Smirnov (1831-1898), sin nepismenih ruskih seljaka. Sada se distribuira u 130 zemalja. Smirnof proizvodi uključuju votku, votku različitih okusa i osvežavajuća pića od slada. U martu 2006, Smirnof votka je bila najprodavaniji destilirani brend na svetu.</text>
+	</string>
+	<string id="mineral_water">
+		<text>Mineralna voda</text>
+	</string>
+	<string id="enc_equipment_vodka_water">
+		<text>Voda koja sadrži minerale i druge otopljene tvari, koje mijenjaju okus ili daju terapeutsku vrijednost, uglavnom dobivene iz prirodnih minerala izvora. Otopljenih tvari u vodi mogu uključivati različite soli i sumporne spojeve. Mineralna voda može biti gazirana(s mehurićima), ili obična (bez mehurića).</text>
+	</string>
+	<string id="energy_stalker">
+		<text>S.T.A.L.K.E.R. piće</text>
+	</string>
+	<string id="enc_equipment_energy_st">
+		<text>Moćni energetski napitak koji sadrži methylxanthines (uključujući kofein), vitamin B i bilje. Drugi sastojci su guarana, akai i taurin, plus različite vrste ginsenga, maltodextrina, gazirane vode, inositola, karnitina, kreatina, glukuronolaktina i ginkgo biloba. Može sadržavati i velike količine šećera. Glavni sastojak je kofein, isti onaj stimulant koji se nalazi u kafi ili čaju ...</text>
+	</string>
+	<string id="energy_non_stop">
+		<text>Non-Stop energetski napitak</text>
+	</string>
+	<string id="enc_equipment_energy_stop">
+		<text>"Non Stop" sadrži usklađene supstance kao što su kofein i drugi stimulatori, kao i kompleks vitamina. Dobro podiže energiju nakon trčanja između anomalija.</text>
+	</string>
+	<string id="energy_ad_rush">
+		<text>Nalet Adrenalina</text>
+	</string>
+	<string id="enc_equipment_energy_ad_rush">
+		<text>Jak okus citrusa pojačan sa energizirajućim elementima uključujući D-ribozu, L-karnitin i taurin. Pa dobro. Neka bude nalet adrenalina.</text>
+	</string>
+	<string id="energy_red_bull">
+		<text>Red Bull energetski napitak</text>
+	</string>
+	<string id="enc_equipment_energy_red_bull">
+		<text>2009 u piću "Red Bull Cola" uvezenom iz Austrije, pronađeno je da sadrži između 0.1 - 0.3 mikrograma kokaina po litri, izjavili su zvaničnici. Utvrđeno je da je to bilo zbog lansiranja marketinške kampanje sljedeći dan. Uvoz kokaina u nekim stranim zemljama je kažnjivo smrću ili doživotnim zatvorom. U Njemačkoj, 11 od 16 pokrajina je već zabranila pića od 25 maja 2009.</text>
+	</string>
+	<string id="energy_non_stop_lite">
+		<text>Non-Stop lite</text>
+	</string>
+	<string id="enc_equipment_energy_non_stop_lite">
+		<text>U suštini isti kao i obični "Non-Stop", samo bez dodatka šećera... Nije baš efektivan.</text>
+	</string>
+	<string id="sok">
+		<text>Sok</text>
+	</string>
+	<string id="enc_equipment_sok">
+		<text>Ukusan i hranjiv sok. Na pakiranju piše "voćni miks", a time sadrži celi niz vitamina. Utažava žeđ i vraća energiju, tako da se može nastaviti s napornim danom.</text>
+	</string>
+	<string id="syh_pay_gde_3">
+		<text>Vojni obrok GDE-3</text>
+	</string>
+	<string id="enc_equipment_food_syh_pay_gde_3">
+		<text>Suva vojna hrana(GDE-3) proizvedena u Americi. Puno boljeg okusa nego ruski ekvivalent. Također, teži manje...a i manje je hranjiva...</text>
+	</string>
+	<string id="syh_pay_spp5">
+		<text>Vojni obrok SPP5</text>
+	</string>
+	<string id="enc_equipment_food_syh_pay_spp5">
+		<text>Ruski vojni obrok. Ovaj unapređeni paket hrane specijalno je izrađen za teške terenske uslove. Puno hranjiviji nego NATO-v ekvivalent.</text>
+	</string>
+	<string id="pivo_baltika">
+		<text>Pivo Baltik</text>
+	</string>
+	<string id="enc_equipment_pivo_baltika">
+		<text>Jačina: 8.0 % - Baltik jako svetlo pivo vareno iz odabranih sastojaka sa najnovijom tehnologijom. Jedinstvena kombinacija jačine i lakoće ispijanja. Pivo stvoreno za vas.</text>
+	</string>
+	<!-- MEDICINE -->
+	<string id="antiseptic">
+		<text>Antiseptični zavoj</text>
+	</string>
+	<string id="enc_equipment_medi_antiseptic">
+		<text>%c[255,238,153,26]  %c[default]Poboljšanje:%c[255,1,255,1] 5%\n%c[255,238,153,26]  %c[default]Krvarenje:%c[255,1,255,1] 90%\n%c[255,238,153,26]  %c[default]Broj:%c[255,1,255,1] 1\n%c[255,238,153,26]  %c[default]Nuspojave: blagi umor\nHemijski agens uništava ili usporava rast patogenih bakterija i drugih mikroorganizama, ali nije toksičan za kožu i sluznicu. Pomaže kod krvarenja, dezinfekcije rana i poboljšava opće stanje. Lek brzo djeluje.</text>
+	</string>
+	<string id="zhgut">
+		<text>Udlaga</text>
+	</string>
+	<string id="enc_equipment_medi_zhgut">
+		<text>%c[255,238,153,26]  %c[default]Krvarenje:%c[255,1,255,1] 100%\n%c[255,238,153,26]  %c[default]Broj primena:%c[255,1,255,1] 5\n%c[default]Sretstvo privremeno zaustavlja krvarenje iz velikih krvnih sudova. To je jaka, relativno duga i uska traka - ili superponiran materijal sa ciljem stezanja krvnih sudova do kosti, smanjujući lumen a time i prestanak ili značajno smanjenje krvarenja.</text>
+	</string>
+	<string id="pervitin">
+		<text>"Pervitin"</text>
+	</string>
+	<string id="enc_equipment_medi_pervitin">
+		<text>%c[255,238,153,26]  %c[default]Povećanje izdržljivosti:%c[255,1,255,1] 190%\n%c[255,238,153,26]  %c[default]Smanjenje apetita:%c[255,1,255,1] 50%\n%c[255,238,153,26]  %c[default]Nuspojave: blago pogoršanje općeg stanja\n%c[255,238,153,26]  %c[default]Broj tableta:%c[255,1,255,1] 2\n%c[default]Koristi u lečenju narkolepsije, psihogene depresije, alkoholne depresije i drugih bolesti povezanih sa pospanošću, letargijom, astenijom. Također se koristi za privremeno eliminisanje umora, poboljšanje fizičkih i mentalnih sposobnosti. OPREZ! Predoziranje može izazvati srčani udart!!!</text>
+	</string>
+	<string id="amfetamin">
+		<text>Amfetamin</text>
+	</string>
+	<string id="enc_equipment_medi_amfetamin">
+		<text>%c[255,238,153,26]  %c[default]Povećanje izdržljivosti:%c[255,1,255,1] 180%\n%c[255,238,153,26]  %c[default]Smanjenje apetita:%c[255,1,255,1] 40%\n%c[255,238,153,26]  %c[default]Nuspojave: blago pogoršanje općeg stanja\n%c[255,238,153,26]  %c[default]Number of tablets:%c[255,1,255,1] 2\n%c[default]Ovaj stimulant je dugo bio u upotrebi kao terapijsko sretstvo, ali i u ne-medicinske svrhe. Deluje na neurotransmitere - jedinice odgovorne za prenos signala od ćelije do ćelije. Uticaj na aktivnost mozga provodi se različitim mehanizmima za različite lekove. U središtu radnje je potaknuti oslobađanje kateholamina (norepinefrina, serotonina, dopamina) i inhibiciju ponovne pohrane. OPREZ!!! Predoziranje može dovesti do srčanog udara!</text>
+	</string>
+	<string id="medkit_elite10">
+		<text>"Elite" Med-Kit</text>
+	</string>
+	<string id="medkit_elite10_s">
+		<text>Med-Kit</text>
+	</string>
+	<string id="medkit_elite">
+		<text>Elitna prva pomoć</text>
+	</string>
+	<string id="medkit_elite_s">
+		<text>Med-Kit</text>
+	</string>
+	<string id="enc_equipment_medkit_elite">
+		<text>Elitnu prvu pomoć izradili su Naučnici iz Zone specijalno za rad u Zoni. U setu se nalazi pribor za lečenje ozbiljnih povreda, pribor i lekovi za izvlačenje radijacije iz tela i poboljšanje općeg stanja. Također pomaže pri rešavanju teškog mamurluka.</text>
+	</string>
+	<string id="bandage_dmx">
+		<text>Specijalni zavoj</text>
+	</string>
+	<string id="enc_equipment_bandage_dmx">
+		<text>Specijalne obloge impregnirane s antiradijacijskom tkaninom. Naširoko se koristi u vojne svrhe kako bi se zalečile rane na manevrima u Zoni.</text>
+	</string>
+	<string id="tab">
+		<text>Antipomelin tablete</text>
+	</string>
+	<string id="enc_equipment_tab">
+		<text>%c[255,238,153,26]  %c[default]Smanjuju mamurluk:%c[255,1,255,1] 95%\n%c[default]Tablete u potpunosti suzbijaju efekte alkohola. Unose u krv posebne supstance koje smanjuju koncentraciju etanola. Uočeno je da čestim korištenjem ovih tableta, da se smanjuju učinci. Nisu primećene nikakve nuspojave. Tablete imaju brzo delovanje.</text>
+	</string>
+	<string id="radioprotector">
+		<text>Radioprotektor</text>
+	</string>
+	<string id="enc_radioprotector">
+		<text>%c[255,238,153,26]  %c[default]Vreme delovanja:%c[255,1,255,1] 60 sek\n%c[255,238,153,26]  %c[default]Zaštita:%c[255,1,255,1] +150\n%c[default]Radioprotektor "Indralin-B190," je bio deo zaštitnog kompleta osoblja nuklearne elektrane. Pojavio se u Zoni kao zamjena za otrovni cistamin hidroklorid PC1. Smanjuje uticaje gama zračenja na tkiva živih organizama. Spašava devet od deset osoba koje su primile smrtonosnu dozu radijacije. Savetuje se da se koristi preventivno, pre izlaganja radijaciji, jer delovanje leka nije trenutno. Ima odgođeno dugo delovanje.</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>Anabiotici</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>%c[255,238,153,26]  %c[default]Vreme delovanja:%c[255,1,255,1] 5 minuts\n%c[default]Eksperimentalni lek napravljen za istraživačke grupe koje operiraju u Zoni. Temelji se na tetradotoksinu, poznatom još kao "zombi prah". Uzrokuje kompletnu paralizu centralnog nervnog sistema, koje navodno pomaže preživeti Emisiju izvan skloništa. Lek nije ispitan u terenskim uvetima niti je prošao kliničko ispitivanje, što baca sumnju na njegovu efikasnost i na moguće nuspojave.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>PSI-blokator</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>%c[255,238,153,26]  %c[default]Vreme delovanja:%c[255,1,255,1] 60 s\n%c[255,238,153,26]  %c[default]PSI-zaštita:%c[255,1,255,1] +240\n%c[default]Narkotik koji blokira nervne impulse. Štiti od PSI-zračenja i od izlaganja Kontroleru, na kraće vreme u potpunosti eliminiše PSI efekte. Interesantna nuspojava: nakon korištenja primećena je totalna blokada svih osećaja. U Zoni se koristi kao zaštita od abnormalnih polja povećane PSI aktivnosti; primene van Zone ne postoje.</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>Vinca</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>%c[255,238,153,26]  %c[default]Vreme delovanja:%c[255,1,255,1] 20 s\n%c[255,238,153,26]  %c[default]Zalečenje:%c[255,1,255,1] +30\n%c[default]Vikasol - sintetički pandan vitaminu C. Glavni efekat je zgušavanje krvi. Jako tražen među stalkerima jer omugućuje brže zarastanje rana. Ima dugotrajno delovanje.</text>
+	</string>
+	<string id="st_drug_yadulin">
+		<text>Jadulin</text>
+	</string>
+	<string id="st_drug_yadulin_descr">
+		<text>%c[255,238,153,26]  %c[default]Poboljšanje of:%c[255,1,255,1] +45\n%c[255,238,153,26]  %c[default]Smanjuje mamurluk:%c[255,1,255,1] 50%\n%c[255,238,153,26]  %c[default]Nuspojave: iznenadni umor i blago pogoršanje\n%c[default]Najjeftiniji i najrašireniji medicinski preparat u Zoni za ubrzano zacjeljivanje manjih rana i povlačenja efekata alkohola iz tela. Nuspojave: nedugo nakon uzimanja leka može se dramatično pogoršati raspoloženje, ili preći u tešku slabost. Lek je brzo djeluje.</text>
+	</string>
+	<!-- OTHER ITEMS -->
+	<string id="wpn_arm_binoc">
+		<text>Vojni dvogled</text>
+	</string>
+	<string id="wpn_arm_binoc_s">
+		<text>Vojni dvogled PNV</text>
+	</string>
+	<string id="enc_equipment_dmx_binocul">
+		<text>Prenosni vojni dvogled sa poboljšanim mrežnim ciljnikom. Opremljen i za noćno osmatranje što ga čini jako traženim u celoj Zoni. Proizveden striktno za vojnu upotrebu kasnih 1980-ih, za opsežna terenska istraživanja. Sa vremenom se dokazao i premašio svog prethodnika - svetski poznatog "Zeiss" dvogleda...</text>
+	</string>
+	<!-- NOT USED -->
+	<string id="item_svarog">
+		<text>Detektor Svarog</text>
+	</string>
+	<string id="item_svarog_info">
+		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora.</text>
+	</string>
+	<!-- AS OF YET UNUSED -->
+	<string id="item_razgruzka">
+		<text>Taktički prsluk</text>
+	</string>
+	<string id="enc_item_razgruzka">
+		<text>Udobnost: 100\nKlasa: 1\nTežina: 1kg\nPrsluk je namenjen za nošenje rezervne municije, ličnih predmeta i medicinske opreme.</text>
+	</string>
+	<string id="timer">
+		<text>Sat</text>
+	</string>
+	<string id="enc_timer">
+		<text>Digitalni sat sa štopericom. Posebno izrađen za Specijalne snage Ruske vojske. Otporan na udarce i vodootporan, može izdržati uranjanje u vodu do 300 metara. Hrpu novih satova je više puta ukrao vojni stalker Izviđač, iz skladištne baza D-3, pukovnika Bibika, i prodao na veliko trgovcima u Zoni. Izviđač je za taj kriminal bio je osuđen na smrt čak tri puta, ali zahvaljujući zloglasnom sindromu "strahu od smrti", uspeo je uspio preživeti izvršenje kazni.</text>
+	</string>
+	<string id="mine_1_name">
+		<text>Ručna mina</text>
+	</string>
+	<string id="mine_1_name_s">
+		<text>Ručna mina</text>
+	</string>
+	<string id="mine_1_description">
+		<text>  Radijus uništenja: 1 metar\n  Snaga: 20\n  Vreme detonacije: 10 sekundi\n Ručna mina koja se koristi u vojne svrhe za odbranu perimetra.</text>
+	</string>
+	<string id="mine_2_name">
+		<text>"Poboljšana" ručna mina</text>
+	</string>
+	<string id="mine_2_name_s">
+		<text>Ručna mina</text>
+	</string>
+	<string id="mine_2_description">
+		<text>  Radijus uništenja: 3 metra\n  Snaga: 35\n  Vreme detonacije: 10 sekundi\n Unapređena verzija Vojne mine sa većim radijus uništenja, te većom sposobnošću za nanošenje težih telesnih povreda.</text>
+	</string>
+	<string id="mine_3_name">
+		<text>Električna mina</text>
+	</string>
+	<string id="mine_3_name_s">
+		<text>Električna mina</text>
+	</string>
+	<string id="mine_3_description">
+		<text>  Radijus uništenja: 6 metara\n  Snaga: 60\n  Vreme detonacije: 10 sekundi\n Izrađena od strana vojnih Naučnika. Ova eksplozivna naprava žrtve onesposobljuje električnim pražnjenjem.</text>
+	</string>
+	<string id="enc_guitar_name">
+		<text>Akustična gitara</text>
+	</string>
+	<string id="enc_guitar_name_s">
+		<text>Gitara</text>
+	</string>
+	<string id="enc_guitar_descr">
+		<text>Obični, jeftini model iz Češke, koji je u Zonu doneo nepznati uvoznik... Mnogi stalkeri vole uz malo votke, malo i dobre muzike uz logorsku vatru... Odlična za opuštanje u Zoni...</text>
+	</string>
+	<string id="enc_harmonica_name">
+		<text>Usna harmonika</text>
+	</string>
+	<string id="enc_harmonica_name_s">
+		<text>Harmonika</text>
+	</string>
+	<string id="enc_harmonica_descr">
+		<text>Veruje se da je ovaj instrument u Zonu doneo isti onaj uvoznik koji je uspeo prokrijumčariti i akustične gitare, također rado viđena uz logorske vatre širom Zone...</text>
+	</string>
+	<string id="wpn_smoking">
+		<text>Cigarete</text>
+	</string>
+	<string id="enc_wpn_smoking">
+		<text>Obične cigarete. Istina je da niko ne zna ko pravi ove cigarete.</text>
+	</string>
+	<string id="item_racya">
+		<text>Prenosni radio</text>
+	</string>
+	<string id="item_racya_s">
+		<text>Radio</text>
+	</string>
+	<string id="enc_item_racya">
+		<text>Primopredajnik koji omogućuje kontakt sa svojim drugovima stalkerima... Ali nikada ne znaš ko još sluša. Uglavnom se koristi od strane Vojske. Radijus - 10 km...</text>
+	</string>
+	<string id="wpn_fuck">
+		<text>Prst</text>
+	</string>
+	<string id="enc_wpn_fuck">
+		<text>Poznat još kao: srednji prst, srednjak. Nije preporučljivo šetati s njim u Zoni, ukoliko ne želiš da te upucaju!!!</text>
+	</string>
+	<string id="fosfor">
+		<text>Fosforni štapić</text>
+	</string>
+	<string id="fosfor_descr">
+		<text>Mali štapić napravljen od fosfornih materijala, koji se koristi za osvetljenje mračnih prostora. Ne traži dodatno punjenje, ali s vremenom gubi na jačini svetla...</text>
+	</string>
+	<string id="car_key">
+		<text>Ključ za auto</text>
+	</string>
+	<string id="car_key_s">
+		<text>Ključ za auto</text>
+	</string>
+	<string id="enc_car_key">
+		<text>Ključ za auto koji je modifikovan. Navodno, odgovara mnogim autima koja se mogu naći u Zoni...</text>
+	</string>
+	<string id="car_key_2">
+		<text>Neobični ključ</text>
+	</string>
+	<string id="car_key_2_s">
+		<text>Neobični ključ</text>
+	</string>
+	<string id="enc_car_key_2">
+		<text>Ključ koji izgleda da ima mnogo dodatnih aspekata i mali vojni simbol na sebi. Izgleda kao da se može uklopiti u neka od vozila pronađena u cijeloj Zoni...</text>
+	</string>
+	<string id="bolt_detector_otclik">
+		<text>Detektor "Odjek"</text>
+	</string>
+	<string id="bolt_detector_otclik_s">
+		<text>Odjek</text>
+	</string>
+	<string id="enc_bolt_detector_otclik">
+		<text>Zastareli model detektora anomalnih aktivnosti. Ovaj detektor anomalija proizvodi zvučni signal kada anomalijske čestice uđu u specijalnu komoru prilikom približavanja anomaliji. Također može registrovati prisutnost artefakata i izmeriti udaljenost najbližeg. Udaljenost se pokazuje ubrzavanjem signala zvuka koji uređaj emituje. Da bi uključili mod za traženje artefakata, otvorite prednji poklopac uređaja. Zbog svog jednostavnog dizajna, Odjek može poslužiti za lociranje samo najčešćih artefakata.</text>
+	</string>
+	<string id="bolt_detector_medved">
+		<text>Detektor "Medvjed"</text>
+	</string>
+	<string id="bolt_detector_medved_s">
+		<text>Medvjed</text>
+	</string>
+	<string id="enc_bolt_detector_medved">
+		<text>Ova poslednja generacija detektora anomalijskih aktivnosti, prenosi podatke o lokaciji anomalija formacija direktno na LED displej. Pored anomalnih formacija prikazuje smer i udaljenost artefakata. Da biste uključili mod za traženje artefakata, otvorite prednji poklopac uređaja. Nažalost, uređaj je programiran sa pomalo zastarelim popisom artefakata koji se mogu otkriti.</text>
+	</string>
+	<string id="bolt_detector_veles">
+		<text>Detektor "Veles"</text>
+	</string>
+	<string id="bolt_detector_veles_s">
+		<text>Veles</text>
+	</string>
+	<string id="enc_bolt_detector_veles">
+		<text>Sledeća generacija naučničkog detekcijskog skenera. Zahvaljujući trima modernizovanim detekcijskim komorama, pozicija artefakata se prikazuje na specijalnom ekranu. Kada je zatvoren, uređaj registruje samo radijaciju i anomalije. Da bi prebacili u mod za traženje artefakata, otvorite prednji LED ekran. Kada radi u modu za traženje, sposoban je otkriti i locirati sve artefakte poznate nauci.</text>
+	</string>
+	<string id="helmet_stalker">
+		<text>Gas maska</text>
+	</string>
+	<string id="enc_helmet_stalker">
+		<text>Radijacijska zaštita = +60\nStandardna gas maska dizajnirana za filtriranje zraka od radioaktivne prašine i toksičnih supstanci. U širokoj upotrebi od strane i Početnika i Veterana svih naoružanih grupa zbog funkcionalne neophodnost. Nije opremljena sa zaštitom od metaka, gelera i mehaničkih oštećenja.</text>
+	</string>
+	<string id="radiation_detector">
+		<text>Naučni dosimeter</text>
+	</string>
+	<string id="enc_radiation_detector">
+		<text>Uređaj za tačno merenje radijacije. Kada je uključen uređaj meri radijaciju vlasnika. Koriste ga uglavnom naučnici ali ponekad se može naći i kod okorelih stalkera.</text>
+	</string>
+	<string id="m_dmx_box">
+		<text>Moje stvari</text>
+	</string>
+	<string id="enc_m_dmx_box">
+		<text>Ranac sa mojim stvarima.</text>
+	</string>
+	<string id="silencers_box">
+		<text>Torba s prigušivačima</text>
+	</string>
+	<string id="enc_silencers_box">
+		<text>Torba koja sadrži sve tipove prigušivača za oružje.</text>
+	</string>
+	<string id="zombie_antiradiation">
+		<text>Uređaj Antiradin</text>
+	</string>
+	<string id="enc_zombie_antiradiation">
+		<text>Ovaj uređaj je namenjen da štiti ljude od zračenja koje emituju zombiji. Uređaj u rancu u potpunosti apsorbuje zračenje, koji je kasnije akumulira u specijalnom kontejneru napravljen od sličnog materijala kao i kontejner za artefakata. " Antiradin " - je skupa, ali i veoma korisna stvar u oblastima visoke PSI aktivnosti - u stvari, to je mesto gde se najčešće zombiji mogu i naći.</text>
+	</string>
+	<string id="device_warning_module">
+		<text>Modul Dekoder</text>
+	</string>
+	<string id="enc_device_warning_module">
+		<text>Modul Dekoder je povezan sa PDA. Hvata razna upozorenja od stalkera. Omogućuje dekodiranje drugih PDA stalkera i izvlačenje novca iz njih. Ipak, sav novac u Zoni je - elektronski.</text>
+	</string>
+	<string id="mine_detector">
+		<text>Detektor mina</text>
+	</string>
+	<string id="enc_mine_detector">
+		<text>Kompaktni samostalni detektor mina. Na pronalaženje mina upozorava zvučnim signalom. Radijus detekcije mina je sedam metara.</text>
+	</string>
+	<string id="item_ammo_flame_transfer">
+		<text>Generator smese za bacač plamena</text>
+	</string>
+	<string id="enc_item_ammo_flame_transfer">
+		<text>Ovaj uređaj omugućuje da napravite smesu koloidalnog gasa i benzina, koja se koristi za bacače plamena. Da bi napravili smesu morate imati gasni cilindar, kanister gasa i bacač plamena. Nakon upotrebe generatora, bacač plamena je napunjen.</text>
+	</string>
+	<string id="bolt_box">
+		<text>Kutija sa šarafima</text>
+	</string>
+	<string id="enc_bolt_box">
+		<text>Mala kutija u kojoj se nalazi desetak običnih šarafa.</text>
+	</string>
+	<string id="device_torch_bad">
+		<text>Pokvarena lampa</text>
+	</string>
+	<string id="enc_device_torch_bad">
+		<text>Ove lampe su često u kvaru. Rok trajanja nije naznačen. Ukoliko se pokvari morate nabaviti ili kupiti drugu.</text>
+	</string>
+	<string id="item_car_repair">
+		<text>Alat za auta</text>
+	</string>
+	<string id="enc_item_car_repair">
+		<text>Set alata koji vam omogućuje da gotovo u potpunosti obnovite tehničku stanje automobila. Koristite set izravno iz auta.</text>
+	</string>
+	<!-- Quest items -->
+	<string id="item_doc_x8">
+		<text>Aleksandrov dnevnik</text>
+	</string>
+	<string id="enc_item_doc_x8">
+		<text>Naš laboratorijski rad nije prestajao ni nakon druge eksplozije, također nismo bili umešani ni u izradu "živog" oružja, kao što su radile druge laboratorije. Mi smo bili zaduženi za kreiranje kompaktnog i samostalnog oružja. Koje je nazvano "Kocka Duša". Tehnologiju za stvaranje ovog oružja, pronašli smo na jednom predmetu u blizini četvrtog reaktora. Ovaj predmet se sastojao od neke nepoznate supstance koja je bila jača od čelika nekoliko hiljada puta... I to nije bilo jedino interesantno svojstvo - bilo je i drugih.\nČetiri godine kasnije kreirali smo prototip Kocke Duša. Neću navesti njeno načelo rada ali ću reći da Kocka može isisati životnu energiju svakog stvorenja i poslati je svom vlasniku...\nKocka Duša je najnoviji projekat u laboratoriji X-8. tada je počelo da se dešava nešto čudno. U toku sledećeg testa u pokusnoj sobi se desila eksplozija. Tačnije, bio je to više kao nekakav glasan prasak... Bio sam u blizini te prostorije. Kada sam ušao u prostoriju video sam tela svojih kolega - svi beli kao i njihovi medicinski mantili... Svi su bili mrtvi... A u sredini je stajao duh. i to pravi pravcati duh, ako mogu reći!..\nPrestravljen, zalupio sam vrata iako sam znao da to neće pomoći... Nakon toga izdao sam naredbu za evakuaciju. Tada su se ugasila sva svetla. Moglo se čuti trčanje, vrištanje, teški koraci i novi praskovi...\nU laboratoriji je bilo ukupno devet osoba, uključujući i mene, i pet vojnika. Ostali nisu imali vremena...\nMorao sam se vratiti u svoj stan i čekati odluku vlasti o ovom incidentu...\nUnatoč svemu, činjenice ostaju - nakon testiranja počele su čudne stvari sa Kockom... Možda se duh smestio u energetski sektor u Kocki gde su ga testovi oslobodili... Moram saznati tajnu ovog slučaja...\nOdlučio sam. Poduzeću sve šta je neophodno i sve rezultate poslati u laboratorij.</text>
+	</string>
+	<string id="dmx_military_map">
+		<text>Karta Vojnih Skladišta</text>
+	</string>
+	<string id="dmx_military_map_s">
+		<text>Vojna Skladišta</text>
+	</string>
+	<string id="enc_dmx_military_map">
+		<text>Stara karta Vojnih Skladišta. očigledno nastale pre druge eksplozije u Černobilu. Na karti, na nekoliko mesta, ispisane su neke poruke bez imena.\n\n"Za pregled staviti u slot za pištolj"</text>
+	</string>
+	<string id="fake_cube">
+		<text>Kocka Duša</text>
+	</string>
+	<string id="enc_fake_cube">
+		<text>Kvalitetni izrađena maketa Kocke Duša. Verovatno je ovako trebala izgledati i prava Kocka.</text>
+	</string>
+	<string id="dmx_pripyat_map">
+		<text>Karta Istočnog Pripjata</text>
+	</string>
+	<string id="dmx_pripyat_map_s">
+		<text>Istočan Pripjat</text>
+	</string>
+	<string id="enc_dmx_pripyat_map">
+		<text>Na karti je označeno mesto za evakuaciju osoblja iz Laboratorija X-8. Oznaka je stavljena na zgradu "Jubilej"(?????????).\nNa poleđini se može videti napola izbrisani unos: "...za brzo otključavanje pre evakuacije, kod je promenjen samo na jedan broj - 1."\n\n"Za pregled staviti u slot za pištolj"</text>
+	</string>
+	<string id="mudrec_instruments">
+		<text>Alat za popravke</text>
+	</string>
+	<string id="enc_mudrec_instruments">
+		<text>Dobar set alata. očigledno pažljivo izabran od strane nekog iskusnog majstora "za vlastite upotrebe". Unatoč starosti, svi instrumenti su odlično očuvani.</text>
+	</string>
+	<string id="item_doc_x8_2">
+		<text>Dokumenti iz Labotorija X-8</text>
+	</string>
+	<string id="enc_item_doc_x8_2">
+		<text>Dokumenti pokazuju tehnička svojstva antene emitera i njihovu razliku od predviđenog. Navodno je u X-8 razvijen plan za stvaranje odašiljača "Duga" (aka Spaljivač Mozgova). Na poleđini je važna oznaka - to znači da je dokumentacija osmišljena u Laboratoriju X-10.</text>
+	</string>
+	<string id="item_certificate">
+		<text>Vojna dozvola</text>
+	</string>
+	<string id="enc_item_certificate">
+		<text>Dokument koji dokazuje da je njen vlasnik legalno u Zoni.</text>
+	</string>
+	<string id="det_art_super">
+		<text>"Svarog" detektor artefakata</text>
+	</string>
+	<string id="det_art_super_info">
+		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora. "Svarog" - staroslavenski bog neba, otac Sunca i vatre...</text>
+	</string>
+	<string id="bipsizon_ogse">
+		<text>"Psihodelin"</text>
+	</string>
+	<string id="enc_equipment_bipsizon">
+		<text>Poseban hemisjki preparat napravljen specijalno za abnormalne uslove u Zoni. Štiti od PSI-zračenja i uticaja Kontrolera, ima mogućnost onemogućavanja njihovog uticaja u potpunosti. Napravljena posebno za vođe naučnih ekspedicija, koji provode ispitivanja unutar Zone. Izumio Dr."Bibik Voenstalov", koji je dao kodno ime "Xanth-83". Jako retka roba.</text>
+	</string>
+	<string id="yod_ogse">
+		<text>Preparat A-190</text>
+	</string>
+	<string id="enc_equipment_yod">
+		<text>Preparat A-190 (190-kilodaton) čini ćelije tkiva otpornim na više vrsta droga ili lekova, i pokazuje smanjenje njihovog nakupljanja bez ekspresije P-glikoproteina. Nije jasno kako 190k protein učestvuje u izbacivanju droge. Nedavno je izoliran nosilac proteina i lociran u hromozomu 16. Protein kodiran u ovom genu sadrži 7 amino kiselina, pristnih u sintetičkim peptidima koji se koriste za stvaranje antiseruma prepoznajući 190k protein. Namena: istraživanje je poduzeto s ciljem da se razjasni veza 190k protein i raznih droga i lekova, bez ekspresije P-glikoproteina iz velikih ćelija ili adenokancerogenih ćelija.</text>
+	</string>
+	<!-- THE ADDITIONAL DESCRIPTION TO SUBJECT MATTERS OF SALT !!!!TB3D not in 134-->
+	<string id="mushroom">
+		<text>"Magična" Pečurka</text>
+	</string>
+	<string id="enc_equipment_mushroom">
+		<text>%c[255,255,255,255]Radijacija %c[255,255,1,1]+10 \n%c[default]"Amanita Muscaria" je otrovna i psihoaktivna gljiva, jedna od mnogih iz porodice Amanita. Prirodno stanište su joj umerena i severna područja severne hemisfere. Poznata je po svojim nepredvidljivim efektima. Ovisno o staništu i veličini progutanih komada posledice mogu biti od obične mučnine, trzavice i grčeva pa do teške pospanosti i kolinergične krize (niski krvni pritisak, znojenje izlučivanje sline), zvučne i vizualne dezorijetacije, promene raspoloženja, euforija, opuštanja, ataksjia i gubitka ravnoteže. Spominje se kao "Meso bogova" ili kao " Hrana bogova" jer oni koji su je konzumirali veruju da su bili u direktnoj komunikaciji sa Zemljom i Svemirom. Muhara je često korištena od strane Druida i drugih "čarobnih" korisnika. Smatra se prejakom za one koji nisu obučeni za veće nivoe svesti.</text>
+	</string>
+	<string id="mushroom2">
+		<text>Holucinogena Pečurka</text>
+	</string>
+	<string id="enc_equipment_mushroom2">
+		<text>2   Posebna ljubičasta pečurka koja je mutirala zbog uticaja blizine retkih artefakata.</text>
+	</string>
+	<string id="mushroom3">
+		<text>Radioaktivna Pečurka</text>
+	</string>
+	<string id="enc_equipment_mushroom3">
+		<text>3  Posebna zelena pečurka koja je mutirala zbog uticaja blizine retkih artefakata.</text>
+	</string>
+	<string id="mushroom4">
+		<text>Moćna Pečurka</text>
+	</string>
+	<string id="enc_equipment_mushroom4">
+		<text>4    Posebna crvena pečurka koja je mutirala zbog uticaja blizine retkih artefakata.</text>
+	</string>
+	<string id="mushroom5">
+		<text>Bogata Pečurka</text>
+	</string>
+	<string id="enc_equipment_mushroom5">
+		<text>5    Posebna plava pečurka koja je mutirala zbog uticaja blizine retkih artefakata.</text>
+	</string>
+	<!-- !!!TB3D -->
+	<string id="bolt_descr">
+		<text>Šaraf 32x100. Stalkerov najbolji prijatelj.</text>
+	</string>
+	<string id="rover_bot_stancion">
+		<text>Stanica za mobilne robote</text>
+	</string>
+	<!-- !!!TB3D -->
+	<string id="cigara">
+		<text>Kubanska cigara</text>
+	</string>
+	<string id="cigara_s">
+		<text>Kubanska cigara</text>
+	</string>
+	<string id="enc_cigara">
+		<text>Kubanske cigare su motane od duvanskih listova koji se mogu naći po celoj Kubi. Punjenje, vezivo i omotač mogu poticati iz različitih delova ostrva. Sva proizvodnja cigara na Kubi je pod kontrolom kubanske vlade i svaka vrsta može biti napravljena u samo nekoliko različitih fabrika. Kubanski motači cigara ili "torcedores", su potvrđeni stručnjaci predstavljaju najbolje motače cigara na svetu. Torcedoresi su jako poštovani u kubanskom društvu i putuju širom sveta pokazujući svoju veštinu. Jako su retke u Zoni... I mogu vrediti mnogo rubalja kod pravog kupca...</text>
+	</string>
+	<string id="fake_cigara">
+		<text>Ovo treba popraviti...</text>
+	</string>
+	<string id="sandwich">
+		<text>Sendvič</text>
+	</string>
+	<string id="sandwich_s">
+		<text>Sendvič</text>
+	</string>
+	<string id="enc_sandwich">
+		<text>Obični sendvič sa bilo kakvim dostupnim mesom ili kobasicom. Kruh se ne čini previše ustajao... Zadovoljiće glad na neko vreme, bar dok nešto hranjivije ne naleti...</text>
+	</string>
+	<string id="beer_a">
+		<text>Pivo iz Zone</text>
+	</string>
+	<string id="beer_a_s">
+		<text>Pivo</text>
+	</string>
+	<string id="enc_beer_a">
+		<text>Očigledno da je pivo nekako napravljeno tu u Zoni. Niko ne zna gde, ali se niko ni ne žali zbog toga...</text>
+	</string>
+	<string id="flaska">
+		<text>Ćutura</text>
+	</string>
+	<string id="flaska_s">
+		<text>Ćutura</text>
+	</string>
+	<string id="enc_flaska">
+		<text>Ćutura napunjena sa čistom, izvorskom vodom... Verovatno napunjena sa Kristalno vodom, koja se može naći širom Zone...</text>
+	</string>
+	<string id="sweetness">
+		<text>"Alenka" čokolada</text>
+	</string>
+	<string id="sweetness_s">
+		<text>"Alenka"</text>
+	</string>
+	<string id="enc_sweetness">
+		<text>Proizvedena 1966 u moskovskoj fabrici Crveni Oktobar po naredbi Kremlja, da ne napravi nove brend mlečne čokolade, "Alenka" postaje simbol dobrih starih vremena... Omiljena je poslastica nekoliko generacija. Sastojci: šećer, punomasno mleko u prahu, kakao ulje, mleveni kakao, emulgator lecitin E322...</text>
+	</string>
+	<string id="box_cigara">
+		<text>Kutija cigara</text>
+	</string>
+	<string id="box_cigara_s">
+		<text>Kutija cigara</text>
+	</string>
+	<string id="enc_box_cigara">
+		<text>Kutija kubanskih cigara... Vrede jako puno novca na ovakvom mestu!!!</text>
+	</string>
+	<string id="balalaika_a">
+		<text>Balalajka</text>
+	</string>
+	<string id="balalaika_a_s">
+		<text>Balalajka</text>
+	</string>
+	<string id="enc_balalaika_a">
+		<text>Žičani instrument ruskog porekla, sa karakterističnim trouglastim telom i sa tri žice. U Balalajkinu porodicu spadaju: prima balalajka, sekunda balalajka, alto balalajka, bas balalajka i kontrabas balalajka. Najranije pominjanje izraza "balalajka" datira još od 1688. Izraz postaje široko u upotrebi, naročito u Ukrajinskim jezičnim dokumentima iz 1717-1732. Prema jednoj od teorija, izraz je posuđen i ruskom, gde se prvi put pojavljuje u poemi V. Maikova "Elisej" 1771.</text>
+	</string>
+	<string id="det_artefact_indy">
+		<text>Detektor artefakata "Odjek"</text>
+	</string>
+	<string id="det_art_indy_info">
+		<text>Odjek detektor su izradili naučnici iz Zone. Bio je to prvi model uošte u Zoni. Radijus detekcije je ograničen na 40 metara, a prisutnost artefakata javlja samo jednostavnim zvukom. Daljni razvoj ovog modela doveo je do daleko efikasnijih uređaja, koje je jednako teško nabaviti i unutar i van Zone.</text>
+	</string>
+	<string id="det_artefact_super">
+		<text>Detektor artefakata "Svarog"</text>
+	</string>
+	<string id="det_artefact_super_s">
+		<text>"Svarog"</text>
+	</string>
+	<string id="det_art_ultra_info">
+		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora.</text>
+	</string>
+	<string id="detektor_amorf">
+		<text>Isomorfni detektor</text>
+	</string>
+	<string id="detektor_amorf_s">
+		<text>Isomorfni detektor</text>
+	</string>
+	<string id="detector_elite_john">
+		<text>Hologramski detektor</text>
+	</string>
+	<string id="detector_elite_john_s">
+		<text>Hologramski detektor</text>
+	</string>
+	<!-- DOCUMENTS AKIM -->
+	<string id="doc_garbage">
+		<text>Stari dokumenti iz Deponije</text>
+	</string>
+	<string id="doc_garbage_s">
+		<text>Stari dokumenti</text>
+	</string>
+	<string id="enc_doc_garbage">
+		<text>Dokumenti pronađeni u Deponiji. Neka vrsta naučničkih formula.... Napisane na nekom nerazumljivom jeziku. Po izgledu može biti obična škrabotina nekog luđaka...</text>
+	</string>
+	<string id="doc_agro">
+		<text>Stari dokumenti iz Agroproma</text>
+	</string>
+	<string id="doc_agro_">
+		<text>Stari dokumenti</text>
+	</string>
+	<string id="enc_doc_agro">
+		<text>Gomila papira pronađena u katakombama ispod Agroproma. Neke vrste formula napisane na nepoznatom jeziku. Baš čudno...</text>
+	</string>
+	<string id="doc_x18_1">
+		<text>Stari dokument - I deo</text>
+	</string>
+	<string id="doc_x18_1_s">
+		<text>I deo</text>
+	</string>
+	<string id="enc_doc_x18_1">
+		<text>Dokument pronađen u Mračnoj Dolini. Izgleda da je samo prvi deo nečeg puno većeg...</text>
+	</string>
+	<string id="doc_x18_2">
+		<text>Stari dokument - II deo</text>
+	</string>
+	<string id="doc_x18_2_s">
+		<text>II deo</text>
+	</string>
+	<string id="enc_doc_x18_2">
+		<text>Drugi deo iz serije dokumenata, pronađen u Laboratoriju X-18...</text>
+	</string>
+	<string id="doc_x18_3">
+		<text>Stari dokument - III deo</text>
+	</string>
+	<string id="doc_x18_3_s">
+		<text>III deo</text>
+	</string>
+	<string id="enc_doc_x18_3">
+		<text>Treći deo iz serije dokumenata, pronađen u Laboratoriju X-18...</text>
+	</string>
+	<string id="doc_x18_4">
+		<text>Stari dokument - IV deo</text>
+	</string>
+	<string id="doc_x18_4_s">
+		<text>IV deo</text>
+	</string>
+	<string id="enc_doc_x18_4">
+		<text>Četvrti deo iz serije dokumenata, pronađen u Laboratoriju X-18...</text>
+	</string>
+	<string id="doc_x16">
+		<text>Stari dokument iz Laboratorija X-16</text>
+	</string>
+	<string id="doc_x16_s">
+		<text>Stari dokument</text>
+	</string>
+	<string id="enc_doc_x16">
+		<text>Dokumenti pronađeni unutar Laboratorija X-16. Niz naučnih formula napisan na nepoznatom jeziku koji ne razumem. Očito je ovo poslednji deo iz serije dokumenata koji čine neku vrstu izveštaja o tajnim eksperimentima u Zoni... Potpisao ga je neki "Benjamin Linus" iz Darma grupacije... Šta znači ovo?!.... I ko ili što je ta Darma grupacija na koju nailazim posvuda!!?</text>
+	</string>
+	<string id="pda_info">
+		<text>Pokvareni PDA</text>
+	</string>
+	<string id="pda_info_s">
+		<text>PDA</text>
+	</string>
+	<string id="enc_pda_info">
+		<text>Obični PDA, kojih u zoni ima monogo. Osim što ne radi i što je izgreban, čini se da njegov vlasnik i nije bio baš pažljiv s njim. Ne može se upaliti jer mu je polomljen ekran. Ni kartice ne može očitati. Ma goni ovo.</text>
+	</string>
+	<string id="hand_teleporter_arhara">
+		<text>Neispravni ručni teleporter</text>
+	</string>
+	<string id="hand_teleporter_arhara_s">
+		<text>Neispravni teleporter</text>
+	</string>
+	<string id="hand_teleporter">
+		<text>Ručni teleporter</text>
+	</string>
+	<string id="hand_teleporter_s">
+		<text>Ručni teleporter</text>
+	</string>
+	<!---Documents on the Hood -->
+	<string id="bloknot_pantera">
+		<text>Panterova beležnica</text>
+	</string>
+	<string id="enc_equipment_bloknot_pantera">
+		<text>Panterova lična beležnica. Sadrži nekoliko ne jasnih izraza, i neki kod: 25190456... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="dosye_zvez">
+		<text>Astrologov dosije</text>
+	</string>
+	<string id="enc_equipment_dosye_zvez">
+		<text>Dosije sadrži informacije o Astrologu... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="foto_kukla">
+		<text>Fotografija dečije lutke</text>
+	</string>
+	<string id="enc_equipment_foto_kukla">
+		<text>Stara fotografija dečije lutke... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="pilot_zapiska">
+		<text>Pismo Pilota</text>
+	</string>
+	<string id="enc_equipment_pilot_zapiska">
+		<text>Pismo pilota helikoptera...koje sadrži neke jako važne informacije... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="foto_chaes_truba">
+		<text>Fotografija helikoptera</text>
+	</string>
+	<string id="enc_equipment_foto_chaes_truba">
+		<text>Fotografija spaljenog helikoptera koju je napravio Pilot. Na njoj, vidi se velika cev uzduž spaljenog helikpotera... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="foto_aver_mono">
+		<text>Fotografija grupe</text>
+	</string>
+	<string id="enc_equipment_foto_aver_mono">
+		<text>Fotografija grupe koja je spalila helikopter... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="foto_aver_zvezd">
+		<text>Fotografija vođe grupe</text>
+	</string>
+	<string id="enc_equipment_foto_aver_zvezd">
+		<text>Fotografija vođe grupe koja je spalila helikopter ... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="chaes2_karta_kluk">
+		<text>Fotografija NEP</text>
+	</string>
+	<string id="enc_equipment_chaes2_karta_kluk">
+		<text>Fotografija severne strane NEP Černobil. Oznaka na noj verovatno označava put za južnu stranu NEP... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="kreditka">
+		<text>Kreditna kartica</text>
+	</string>
+	<string id="enc_equipment_kreditka">
+		<text>Kreditna kartica izdana od američke banke sa 5000,000 dolara limita na njoj!!! ... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="razved_karta">
+		<text>Komadi karte</text>
+	</string>
+	<string id="enc_equipment_razved_karta">
+		<text>Stari ostaci karte koji sadrže upute ili neke vrste koordinata... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="karta_peschera">
+		<text>Karta Pećine</text>
+	</string>
+	<string id="enc_equipment_karta_peschera">
+		<text>Stara karta pećina... Neko je našvrljao neke moguće smerove na nju... Teško je odgonetnuti... Možda izlaz odavde?! ... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="recipi_bpb">
+		<text>Stalkerska beleška</text>
+	</string>
+	<string id="enc_equipment_recipi_bpb">
+		<text>Beleška nepoznatog stalkera... Izgleda da su tu informacije o modifikaciji nekih artefakata!? ...zvuči interesantno... (za pregled staviti u prvi slot):</text>
+	</string>
+	<string id="stukach_book">
+		<text>Informantova (Doušnikova) beležnica</text>
+	</string>
+	<string id="stukach_book_desc">
+		<text>Beležnica Fridomovog doušnika. Sadrži informacije o modifikaciji artefakata... (za pregled staviti u prvi slot):</text>
+	</string>
+	<!-- Preveo i prilagodio Flexerca -=- 12:43 12.08.2014 -->
+</string_table>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:37 -sadd -->

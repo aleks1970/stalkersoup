@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.6 new .7.0, desolation, zep_start_entry, additional entries, tb3d_mush_arts_quest_entry -->
+
+	<string id="tb3d_journal">
+		<text>Kolektor Bilješke</text>
+	</string>
+	<string id="tb3d_journal_entry">
+		<text>Novi podaci spremljeni u Kolektorov Dnevnik</text>
+	</string>
+	<string id="tb3d_gbar_info">
+		<text>Važna Bilješka</text>
+	</string>
+	
+	<string id="tb3d_collector_info">
+		<text>Osobna Bilješka</text>
+	</string>
+	<string id="tb3d_collector_entry">
+		<text>Nisam siguran što se dogodilo u Mrtvom Gradu ali sad sam u Kordonu. Nemam pojma što napraviti sljedeće ali imam neki osjećaj hitnosti i uzbuđenosti.\nIma još uvijek nešto nenapravljeno ovdje..  ko da se energija stvara neka oko mene. Trebam otići do Sidoroviča i čuti zadnje vijesti o tome što se događa u Zoni..</text>
+	</string>
+	<string id="tb3d_zep_docs">
+		<text>ZEP Dokumenti</text>
+	</string>
+	<string id="zep_start_entry">
+		<text>Nakon razgovora za Sidorovičem više sam zabrinut, moram istražiti Mračni Izlaz regiju i vidjeti na što mogu naići.</text>
+	</string>
+	<string id="zep_sid2_entry">
+		<text>Izgleda da se Sidorovič i Tvid znaju. Dana mi je snajperska puška i municija od Sidoroviča za Tvid. Ovo bi joj trebalo pomoći u borbi sa vojskom koje se konstantno pokušava probiti tamo.</text>
+	</string>
+	<string id="zep_bar1_entry">
+		<text>Regija Mračnog Prolaza je sakrivala dokument koji možda sadržava nešto što je stranac tražio. Čini se da je ovaj stranac vrlo dobro educirani znanstvenik i da traži nekoga tko je vrlo važan. Izgleda da sam ja isto dio njegove istrage ali do sada nemam pojma zašto bi bio. Pratiti ću ga u Crnu Šumu i probati otkriti što to on traži.</text>
+	</string>
+	<string id="tb3d_zep4_article1">
+		<text>Ovaj 'AX' lik mi je počeo ići na živce! Očito je postao očajan..  to je jedini razlog zašto bi prihvatio takav rizik.\nTrebam provjeriti u Divljem Teritoriju da ga nađem i bar nadam se njegovo truplo.</text>
+	</string>
+	<string id="tb3d_zep4_article2">
+		<text>Ovaj 'AX' lik mi je počeo ići na živce! Očito je postao očajan..  to je jedini razlog zašto bi prihvatio takav rizik.\nTrebam provjeriti regiju Vojna Skladišta i vidjeti da li ću ga tamo naći ili barem njegovo truplo.</text>
+	</string>
+	<string id="tb3d_zep2_article">
+		<text>Dobro je znati da mi PDA nije moguće pratiti osim kad pričam privatno, znači samo prema toj osobi.\nTakođer sam se vratio na trag mojeg Soul Cube oružja koji je njegdje u regiji Černobila 1 ili 2.</text>
+	</string>
+	<string id="tb3d_zep1_article">
+		<text>General Voronjin je peder kakvog nema, sve što dobivam sada od njega je bezvrijedno!\nNemam uopće ideje gdje naći te kodove sada, trebao bi vidjeti što Pukovnik Petrenko i možda Kapetan Ivancov znaju..</text>
+	</string>
+	<string id="tb3d_zep5_article">
+		<text>Petrenko je rekao da je Voronin lovio i otjerao 'AX' u Divlji Teritorij. I još je mi opisao njegovu značku frakcije: Helix preko srebrenog obalaka sa malim okruglim simbolom ali nije simbol za radijaciju. Tko bi to mogao biti? Od kud je, zašto mi je na repu i kojeg vraga hoče od mene..</text>
+	</string>
+	<string id="tb3d_turret_article">
+		<text>Teško naoružanje..  kako je to nabavio i od kud, i koliko toga ima? Približavam se tomu svemu sve više i on to zna..</text>
+	</string>
+	<string id="tb3d_karina_trade_article">
+		<text>Karina mi je ponudila da če mi prodati rijetke stvari i potrepštine u zamjenu za hranu, uzeti će određen dio od mene svako malo tako da ne umrem od gladi.</text>
+	</string>
+	
+	<string id="secret_tunnels_info">
+		<text>Tunel Teleport, Aktivacija</text>
+	</string>
+	<string id="tb3d_tunnels_desc">
+		<text>Informacije su sakupljene koje opisuju čudne portale koji se mogu aktivirati tako što se ubaci specifična Zlatna poluga u njihovo odgovarajuće slotove.\nSvaka poluga ima kodove koji indicira kojem slotu pripada. Redoslijed bi trebao biti:\nws-6,wn-5,ws-3,wn-2,es-6,es-4,en-3,es-2,w-0,e-0,center.\n.\nSlot u centru se može prepoznati po velikoj cijevi koja visi odozgora. Aktivacija portala nikada nije bila rađena tako da posljedice korištenja nisu poznate.\n.\nInformacije sakupljene od AX znastvenog tima je lista portala koji bi se trebali aktivirati:\nWS6 - Močvare\nWN5 - Postrojenje F1\nWS3 - Kordon\nWN2 - Sakriveni Put\nES6 - Mračni Izlaz\nES4 - Crno Tržište\nEN3 - Generatori\nES2 - NPP Černobil-2\nW00 - Čekaonica\nE00 - Neotkrivena Zemlja</text>
+	</string>
+
+	<string id="tb3d_agentax_info">
+		<text>Nepoznati operativac: Agent X ili referiran kao 'AX'. Njegov tim navodno traži istraživačke radove na kojima su radili znanstvenici za vrijeme kada je Zona prvi put eruptirala.\nPodaci skupljeni do sada indiciraju da traže osobu koja je bila kod NPP Černobila kada je sve dogodilo. Raspitivao se za čovjeka sa 'S.T.A.L.K.E.R.' tetovažom na njegovoj ruci i smatra se jako agresivnim u pronalaženju odgovora.</text>
+	</string>
+	
+	<string id="tb3d_final_zep_info">	<!-- sadd - provjerba -->
+		<text>Trag za 'AX'-om se smanjuje. Poruke o nekoj raciji sa Sjevera. Sumnjive informacije o podzemnom laboratoriju i vaznzemaljskom objektu koji RADI.\nA message from Syac in the Radar about the Cube which I need to check out immediately!\nSeems like a good time to go South and see what is happening at the bar in Rostok and maybe check on Tweed as well.</text>
+	</string>
+	
+	<string id="tb3d_contact_info">
+		<text>Važan Kontakt</text>
+	</string>
+	<string id="tb3d_notes">
+		<text>Važna Bilješka</text>
+	</string>
+	
+	<string id="tb3d_tweed_entry">
+		<text>Tvid želi kao biti trgovac u regiji Mračni Izlaz. Pitala me je da nađem njezinu izglubljenu knjigu: Za žene sa avanturističkim duhom za istražiti Zonu, od L. D. Tvid.\nTrebala bi biti negdje oko starog bara na samom Sjeveroistoku.</text>
+	</string>
+	<string id="tb3d_karina_entry">
+		<text>Karina Zetrafonič je tehničarka koja se skriva u Mrtvim Baruštinama, nadajući da će se njezine kolege vratiti. Za sada je bila jako od pomoći i dobar je izvor informacija za tu regiju.</text>
+	</string>
+	<string id="zep_purged_tunnel">
+		<text>Uh to je bilo zabavno..   nisam siguran zašto su ovdje bili pošto nema ničega u Distributivnom Centru. Trebao bi se vratiti i reći Karini da je tunel čist. Izgleda da ću morati proći kroz Generatore da bi došao do stare istraživačke stanice gdje se izgleda  'AX' zajebavao sa komunikacijskim centrom tamo.</text>
+	</string>
+	<string id="tb3d_tractorist_entry">
+		<text>Napušteni štreber na području Skrivenog puta. Pričao je o tavanu u starom gradiću i mogučnosti da je tamo zlatna poluga sakrivena.</text>
+	</string>
+	<string id="tb3d_informer_entry">
+		<text>Informant iz Bara, sada dezerter u Starom Distribucijskom Centru, traži prolaz prema sjeveru. Možda će ga oni odvesti kod starog Bara prema Sjeveroistoku. Trebao bi se snaći i pitati nekog uokolo.</text>
+	</string>
+
+	<string id="tb3d_hunt_info">
+		<text>Cezarovo Blago</text>
+	</string>
+	<string id="tb3d_hunt_name">
+		<text>Važna Bilješka</text>
+	</string>
+	
+	<string id="tb3d_treasure_hunt_entry">
+		<text>Sidorovič je pričao o čovjeku koji je lutao zonom sakupljajući rijetke artefakte i ostale objekte. Navodno je čovjek bio uokolo stare crvene kuče cijelo vrijeme tražeći nešto.\nSidorovič je preporučio da istražim to područje jer je možda ostavio tamo nešto.</text>
+	</string>
+	<string id="tb3d_hunt0_entry">
+		<text>STALKER .. kada ovo proćitaš .. znači da sam možda već mrtav. Sve je počelo kada sam bio na zadatku blizu Radara za Inicijativu. Htjeli su da nađem par 'rijetkih' artefakata koji se samo tamo mogu naći. Na kraju sam se našao u situaciji da se moram skrivati od onih Monolitskih frikova. Sagnuo sam se iza nekog grmlja, i našao sam se u nekakvoj gustoj magli koja me obavijala i koja se činila da se sama od sebe stvorila tu. Obavijala me je samo na par sekundi, a moj Gajgerov mjerač je počeo divljati, i osjećao sam se vrlo čudno .. ostatka se .. ne sjećam, izgubio sam svijest... Probudio sam se, osjećajući se vrlo dobro, i nekako ozdravljeno. Nakon nekog vremena, počeo sam primječivati nešto .. Mogao sam osjetiti artefakte u blizini oko sebe. I tada je sve počelo .. nalazio sam artefakte za narudžbe prelagano. Došao sam do Černobilske Nuklearne Elektrane ali nisam mogao naći Sarkofag. Ujedno sam uspio sakupiti poprilično puno rijetkih artefakata i čudnih mutacija gljiva. Gljive Pećurke su vrlo zanimljive zato što imaju viskou dozu Cezija-137, Stroncija-90, Barija-137, Joda-131, Telurijevih and Rubidijevih izotopa, Plutonija i otalih teških metala - i to sve prirodno apsorbirano, karakteristika gljive.\n Svaki put kada se vratim u Kordon ostavim dobro sakrivene torbe zajedno sa podacima o drugim lokacijama tajnih skrovišta, u dijelovima gdje sam putovao. Sa mojom zdravljem koje je sve lošije i memorijom znao sam da će ovi kriptirani tragovi biti potrebni.  Sa svakim danom, kumulativni efekt CS-134 i ostalih radioaktivnih izotopa me brzo približavaju mojoj smrti. Svaki put kada pogledam svoj odraz izgledam značajno starije. Samo nakon par mjeseci incidenta kod Radara, moj život je pri kraju.\nAli sretno za tebe .. našao si moju zadnju bilješku. Sretno ti STALKERU, u potjeri za mojim blagom.\n.\nZnači tako... nisam siguran sad je li mrtav ili ima još blaga negdje... morati ću pogledati kada sam u tim regijama.</text>
+	</string>
+	<string id="tb3d_hunt1_entry">
+		<text>Nakon teške potrage uspio sam nači Cezarova skrivena skrovišta i blaga sve od Radara.\nSamo me brine zašto je koristio toliko portala! Stvarno je bio pravi paronik!\nTrag naglo prestaje ovdje, sad, nisam siguran da li je nestao ili ima još njegovog sakrivenog blaga ili stvari..\nImati ću otvorene oći i uši za bilo kakav trag tijekom daljnjeg putovanja kroz Zonu.</text>
+	</string>
+
+<string id="levelup2_desolation_entry">
+	<text>Nakon što sam uništio čudni generetor u Tajnom Laboratoriju, Završio sam u Jupiteru, u podzemnom kompleksu. Mora da sam ja uzrokovao oluju koja je udarala oko Nuklearne Elektrane koja je isto zahvatila:\nRadar\nMrtvi Grad\nIstočnu Obalu Pripjata\nNeotkrivenu Zemlju\nVojna Skladišta\nGeneratore\nCrno Tržište\nStaro Groblje\nPoslana su upozorenja da se drže svi van tog područja zbog intezivne doze zračenja. Navodno su podzemlja tih regija sigurna od radijacija, ali nije još potvrđeno.</text>
+</string>
+
+<string id="levelup3_reclemation_entry">
+	<text>Oluja se razišla i izgleda da svaka frakcija želi doći tamo prva...   ali što je oluja napravila toj regiji Zone i da li se možemo sukobiti sa tim?\nDa li su moguća sakrivena blaga vrijedna tog rizika? Dovraga, saznati ću to, i to uskoro!\n ALI.. moram isplanirati moj put natrag do centra Zone da izbjegnem neprijatelje i da otkrijem koje nove opasnosti vrebaju sada tamo..</text>
+</string>
+
+<!-- 109982 -->
+<string id="levelup2_get_suit_entry">
+	<text>Što sada? Oluja je učinila da su Vojna Skladišta nemoguča za proći, kako da sada dođem do njih?\nMožda će pametnjakovići kod Bara biti u mogučnosti pomoći. Nema naznaka koliko će dugo ova olauja trajati, možda zauvijek...</text>
+</string>
+
+<string id="syslov_items_quest_opisanie_entry">
+	<text>Suslov, od frakcije Čistog Neba me je zatražio za neke stvari. U zamjenu za te stvari, obečao mi je dati Kubičnu Dušu od Sjenke (the Soul Cube of Shadows), koja ima unikatna svojstva. Lista stvari:\nDegtyareva puškostrojnica 'RPD' - navodno ju je prodao nekom trgovcu u Agroprom regiji,\nPlaćenićko Istraživačko Odijelo,\npet boca "Nemiroff" votke,\ndva komada vojnih namirnica (two military rations),\ntri komada "Amber" sira,\npet komada konzervi oraha ili orašastog voća (five cans of nuts),\ntri limenke "Chernigov" piva,\npet "Adrenalin Rush" energetska pića.</text>
+</string>
+<string id="cop_prip_info_lab_opisanie_entry">
+	<text>Grozni je rekao da je u jednoj sobi u staroj bolnici vidio plan Pripjata. Navodno je označen podzemni israživački kompleks ... Možda će mi plan pomoći u pronalasku kompleksa.</text>
+</string>
+<string id="cop_prip_instr_quest_opisanie_entry">
+	<text>Sag (Mudrac) - iz stalker baze u Istočnom Pripjatu treba alat. Ako bi mogao pronaći taj alat, možda bi Sag mogao popravljati opremu, pa tako i ujedno moju. U tako izoliranom mjestu popravljač bi bio od velike koristi!</text>
+</string>
+<string id="soulcube_quest_opisanie_entry">
+	<text>Zanimljive zapletke i spletke ... Izgleda da nije to prava Kubična Duša (Soul Cube). U svakom slučaju, prema Sjeni (Shadows) trebala bi biti smještena u istočnom dijelu Pripjata. Prva stvar za provjeriti su apartmani na najvećem katu nebodera. Još jedan stalker jer rekao da je neboder lociran blizu kina i ima čudno bilje uz njegovu stranu. Nadam se barem da će biti zanimljivih informacija tamo...</text>
+</string>
+<string id="outfit_blockpost_quest_opisanie_entry">
+	<text>Trebam naći Beryl-5M zaštitno odijelo, da zavaram vojnike i da uđem u kontrolnu posmatračnicu neopaženo.</text>
+</string>
+
+<string id="find_railroad_passage_text">
+	<text>Prije nego što krenem duboko u Zonu, potrebno je da pređem stari željeznički nasip. Taj jedini sigurni put je zaštičen vojskom. Ali ujedno ima mali tunel lijevo od nasipa i vojnika, početnici općenito idu kroz njega. Kada prođem tunel moram sresti i upoznati vodića koji će mi pomoći oko preživljevanja u Zoni i dati više informacija.</text>
+</string>
+	
+<string id="find_mil_pda_entry">
+	<text>Našao sam mrtvog Vojnika, izgleda da je upucan iz bliza odastraga.\nBilješka koju sam našao na njemu upućuje da je nosio specijalni PDA modul sa važnim informacijama na njemu. Bilo bi pametno probati naći njegov PDA modul i 'dobrog prijatelja' koji ga je ustrijelio s leđa..</text>
+</string>
+
+<string id="find_five_tails_entry">
+	<text>Tolik traži pet repova slijepih pasa, probao ih je sam sakupiti, ali nekako ih nije uspio još pronaći, hah! Ako napravim ovaj jednostavni zadatak za njega podijeliti će samnom recept za vrijedan artifekt.</text>
+</string>
+
+<string id="find_artifact_entry">
+	<text>Sidorovič mi je dao mali zadatak da zaradim nešto novaca dok on pokušava pronaći još informacija o mojoj situaciji. Navodno neki bogati kreten van Zone želi artefakt Noćnu Zvezdu, pojma nema zašto, i Sidorovič mu je obečao da će mu nabaviti jedan taj artefakt.\nNeki stalkeri samotnjaci su rekli da su vidjeli Noćnu Zvezdu u lokalnom području. Zato što je artefakt jako radioaktivan, Sidorovič mi je dao specijalnu kutiju/kontenjer. Kada nađem Noćnu Zvezdu moram ju odmah staviti u kontenjer i vratiti se njemu...</text>
+</string>
+
+<string id="jaw_for_prapor_entry">
+	<text>Dežurni Oficir (Prapor), je jedan od Djutijevih oficira koji čuvaju Djutijevu kontrolnu točku, zatražio me je da mu nađem Krvosisačevu (Bloodsucker) čeljust, u zamjenu da mi da Foksov (Lisac) paket. Izgleda da Prapor ima neku vrstu bolesti, i neki Doktor će mu morati napraviti jak lijek od Krvosisačeve (bloodsucker) čeljusti. Okej, znači idemo nači Krvosisača i vratiti se Praporu prije nego što mu zatreba više "lijekova" od mene!</text>
+</string>
+
+<string id="find_desert_eagle_entry">
+	<text>Frimen u Baru me je zatražio da nađem njegov pištolj Desert Eagle. Vjeruje da ga je izgubio u Divljem Teritoriju, vjerojatno u tunelu.</text>
+</string>
+
+<string id="val_come_to_trader_entry">
+	<text>Moram se vratiti do Barmena ali put prema Deponiju je blokiran od Vojske. Rečeno mi je da postoji put Južo prema Kordonu koji bi trebao biti čist.</text>
+</string>
+
+<string id="case_to_freeman_entry">
+	<text>Gordon Frimen me je zatražio da odem u Divlji Teritorij i da se nađem sa Đejms likom (DeJames). Trebam pokupiti kutiju ili torbu od njega i vratiti je Frimenu u Baru.</text>
+</string>
+
+<string id="tb3d_mush_arts_quest_entry">
+	<text>Oluja možda bude od koristi sada, zato što će Barmen platiti masno za artefakt gljive zvane Pećurke koje se kuhaju u oluji uokolo NPP Generatora.</text>
+</string>
+
+
+	<!-- Tekst usklađen sa 109986 verzijom zakrpe - 11.05.2015 12:58 -sadd -->
+    <!-- Tekst preveo Nailer - 27.09.2015 19:59 -->

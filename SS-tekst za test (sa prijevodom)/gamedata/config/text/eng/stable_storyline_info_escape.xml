@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.3 dialog improvements -->
+	<string id="about_enciclopedia">
+		<text>Ovo je enciklopedija. Kako budeš napredovao u igri, informacije o svetu oko tebe će se dodavati ovde, poredane po temama.</text>
+	</string>
+	<string id="about_pda">
+		<text>O enciklopediji</text>
+	</string>
+	<string id="Bandit's flash">
+		<text>PDA fabričkog Bandita</text>
+	</string>
+	<string id="blokpost_case_text">
+		<text>Trgovac: Uđi u Vojni punkt i ukradi torbu u kojoj je izveštaj Vojne ekspedicije u Severnom delu Zone.</text>
+	</string>
+	<string id="Dead novice's flash">
+		<text>PDA mrtvog Početnika</text>
+	</string>
+	<string id="defend_lager_text">
+		<text>Fanatik: Pomozi nam da se branimo od Bandita koji su naredili Početnicima da se isele iz kampa. Evo plana. Svi se sakriju, tako da kamp izgleda napušteno, pustimo Bandite u kamp, onda napadamo na kapetanovu naredbu.</text>
+	</string>
+	<string id="doctor_meet">
+		<text>Vodičev PDA</text>
+	</string>
+	<string id="doctor_meet_2">
+		<text>Sastajanje s Doktorom</text>
+	</string>
+	<string id="doctor_meet_quest_text">
+		<text>Doktor: Čekaću čoveka koji dolazi od Streloka u skrovištu Streloka i njegove grupe. Ako je jedan od naših, znaće gde je to mesto.</text>
+	</string>
+	<string id="doctor_meet_text">
+		<text>Ok, sastaću se s Duhovim čovekom. Čekaću ga u Strelokovom skrovištu. Ako je on jedan od naših, znaće gde da me potraži. Doktor.</text>
+	</string>
+	<string id="esc_flash_task_descr">
+		<text>Trgovac: "... moji momci su se vraćali sa zadatka i nestali su. Jedan od njih - zvani Brzi - mi je donosio neke informacije... i svi oni su nestali u blizini jer su zaobilazili most. Ne znam sta da mislim. Kako god, nađi Brzog, živog ili mrtvog, samo je bitno da on ima fleš memoriju. Donesi je meni. Brzi je jedan od Vukovih ljudi, i Vuk je tu u kampu. Pitaj njega, on verovatno zna nešto. On će ti pomoći oko oružja i opreme."</text>
+	</string>
+	<string id="esc_fox_info">
+		<text>Sivi govori Liscu: Drug želi da pomognem nekoj grupi stalkera koji su iskopali Strelokov štek. Ja sam otišao do hangara kod Deponije s mojim momcima. Tamo me možeš naći.</text>
+	</string>
+	<string id="esc_kolyan_lost">
+		<text>Jučer je jedan ortak otišao da skautira napušten mlin i od tada mu nema ni traga ni glasa. Moramo da odemo tamo i vidimo gde je nestao.</text>
+	</string>
+	<string id="factory_dynamit_text">
+		<text>Vuk: Donesi dinamit koji su Banditi ukrali u fabrici. Kao pomoć, tamo su tri skauta kod mosta, idi do njih i reci im "Pozdrav iz podzemnog sveta" - to je lozinka. Predvodi ih u borbi.</text>
+	</string>
+	<string id="factory_trader_text">
+		<text>Vuk: Reši se Bandita u fabrici uz pomoć mojih skauta kod mosta, onda se vrati i izvesti me.</text>
+	</string>
+	<string id="Flash dead stalker">
+		<text>PDA mrtvog stalkera</text>
+	</string>
+	<string id="gunslinger_clan_cache">
+		<text>... dospeo sam u kućicu nekog lika, ne mogu da se prisetim ničega. Samo imam PDA kod mene sa slikom nekog potpuno drugog lika. Postoji samo jedna poruka u PDA - Ubiti Streloka.</text>
+	</string>
+	<string id="help_to_fox">
+		<text>Trgovac: Lisac se vratio iz hajke i trazi pomoć. Verovatno zna nešto o Streloku.</text>
+	</string>
+	<string id="meet_seryi_text">
+		<text>Lisac: Sivi čeka u hangaru kod Deponije, on zna više o Streloku.</text>
+	</string>
+	<string id="military_case_text">
+		<text>Trgovac: Ukradi izveštaj ekspedicije od Vojske u Agroprom Istraživačkom Institutu i odnesi ga u 100 Rendgena bar i predaj ga Barmenu.</text>
+	</string>
+	<string id="Seryi flash">
+		<text>Lisčev PDA</text>
+	</string>
+	<string id="storyline_fox_flash_info">
+		<text>Tolikov dnevnik. Trgovac nas je poslao da špijuniramo Vojsku u Agroprom Istrazivačkom Institutu. Došli smo tamo i upucali svakoga, Bandite kao i vojnike. Iskopali smo neke zanimljive informacije, sada provaljujem ostatak šifre.</text>
+	</string>
+	<string id="storyline_seryi_info">
+		<text>Sivi govori Liscu: Neki momak je pitao da se pridruži grupi stalkera koji se iskrao iz Strelokovog skrovišta. Biću kod Deponije, navrati ako želiš.</text>
+	</string>
+	<string id="Tolik flash">
+		<text>Tolikov PDA</text>
+	</string>
+	<string id="tutorial_artefact_find">
+		<text>Trgovac: Tamo ti je "Ringišpil" anomalijsko polje u blizini. Artefakt je u njenom centru. Uzmi ga.</text>
+	</string>
+	<string id="tutorial_moving_anomaly_text">
+		<text>Ovde se nalazi neka čudna anomalija. Deluje kao da se pomera. Pokušaću da proračunam njeno kretanje i putanju, zato što nemam keša da platim vojnicima da me puste.</text>
+	</string>
+	<string id="tutorial_secret_place">
+		<text>Ostavio sam neke zalihe kod napuštene farme. Tu ima malo hrane i municije. Previše sam slab da bi ih nosio sad. Nisam siguran da li ću se dovući do kampa.</text>
+	</string>

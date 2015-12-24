@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.2 version, Linked text from "ui & gameplay" folder aleks1970 -->
+<string_table>
+	<string id="stop_ui">
+		<text>stani</text>
+	</string>
+	<string id="play_ui">
+		<text>kreni</text>
+	</string>
+	<string id="stalkersoup_teleporter_ui">
+		<text>STALKERSOUP Teleporter</text>
+	</string>
+	<string id="valid_locations_ui">
+		<text>Ispravne lokacije su:</text>
+	</string>
+	<string id="enter_destination_name_ui">
+		<text>Unesi ime odredišta u polje putovanja i udari PUTOVANJE.</text>
+	</string>
+	<string id="genstronghold_taken_ui">
+		<text>genstronghold - OPREZ: Koristiti samo NAKON što je baza zauzeta,</text>
+	</string>
+	<string id="escape_completes_cave_quest_ui">
+		<text>escape - Tavan kuće u Kordonu gde si nakon završetka zadatka u Pećini {SKIP CAVE}</text>
+	</string>
+	<string id="should_use_stargazer_ui">
+		<text>Možeš koristiti samo POSLE razgovora sa Astrologom</text>
+	</string>
+	<string id="skip_first_parts_of_game_1_ui">
+		<text>- Teleporti koji će ti omogućiti da preskočiš prve delove igre. -</text>
+	</string>
+	<string id="skip_first_parts_of_game_2_ui">
+		<text>Još uvek su prilično u BETA varijanti, ali u glavnom rade</text>
+	</string>
+	<string id="stalker_start_save_ui">
+		<text>nakon razgovora sa Astrologom i nakon startnog snimka možeš ih koristiti:</text>
+	</string>
+	<string id="skip_to_mil_ui">
+		<text>skip_to_mil - kompletira glavnu priču do početka u Vojnim Skladištima</text>
+	</string>
+	<string id="skip_to_sar_ui">
+		<text>skip_to_sar - kompletira glavnu priču do ulaska u Sarkofag</text>
+	</string>
+	<string id="skip_monolith_ui">
+		<text>skip_monolith - kompletiranje do Ispunioca Želja</text>
+	</string>
+	<string id="skip_oso_ui">
+		<text>skip_oso - kompletiranje do uništenja Monolita i borbe u Černobilu 2</text>
+	</string>
+	<string id="travel_ui">
+		<text>PUTUJ</text>
+	</string>
+	<string id="modders_tools_ui">
+		<text>STALKERSOUP Moderski Alati</text>
+	</string>
+	<string id="ammunition_ui">
+		<text>Municija</text>
+	</string>
+	<string id="weapons_ui">
+		<text>Oružje</text>
+	</string>
+	<string id="artifacts_ui">
+		<text>Artefakti</text>
+	</string>
+	<string id="items_ui">
+		<text>Stvari</text>
+	</string>
+	<string id="outfits_ui">
+		<text>Odela</text>
+	</string>
+	<string id="veh_anoms_ui">
+		<text>Vozila + Anomalije</text>
+	</string>
+	<string id="monsters_ui">
+		<text>Čudovišta</text>
+	</string>
+	<string id="exit_ui">
+		<text>Izlaz</text>
+	</string>
+	<string id="teleport_vector_menu_ui">
+		<text>Teleport pomoću Vectorskog Menija</text>
+	</string>
+	<string id="the_coordinates_ui">
+		<text>Unesi koordinate: X, Y, Z</text>
+	</string>
+	<string id="move_ui">
+		<text>Kreni</text>
+	</string>
+	<string id="exit_ui">
+		<text>Izlaz</text>
+	</string>
+	<string id="level_1_ui">
+		<text>Nivo -</text>
+	</string>
+	<string id="vertex_games_ui">
+		<text>Vertex Igre - </text>
+	</string>
+	<string id="vertex_level_ui">
+		<text>Vertex Nivoa - </text>
+	</string>
+	<string id="position_ui">
+		<text>Pozicija - </text>
+	</string>
+	<string id="turn_1_ui">
+		<text>Okret - </text>
+	</string>
+	<string id="enter_name_savegame_ui">
+		<text>Unesi naziv snimka igre ...</text>
+	</string>
+	<string id="name_2_ui">
+		<text>Naziv - </text>
+	</string>
+	<string id="copyright_studio_team_ui">
+		<text>Sva prava 2014 xxxxxxx xxxxxxx</text>
+	</string>
+	<string id="show_1_ui">
+		<text>Prikaži</text>
+	</string>
+	<string id="output_1_ui">
+		<text>Izlaz</text>
+	</string>
+	<string id="save_1_ui">
+		<text>Snimak</text>
+	</string>
+	<string id="chance_of_success_85_ui">
+		<text>Šansa za uspeh = 85%</text>
+	</string>
+	<string id="VORTEX_ui">
+		<text>LEVAK</text>
+	</string>
+	<string id="HEAT_ui">
+		<text>GORIONIK</text>
+	</string>
+	<string id="ELEKTRA_ui">
+		<text>ELEKTRA</text>
+	</string>
+	<string id="FRUIT PUNCH_ui">
+		<text>VOĆNI PUNČ</text>
+	</string>
+	<string id="ROUNDABOUT_ui">
+		<text>RINGIŠPIL</text>
+	</string>
+	<string id="SPRINGBOARD_ui">
+		<text>TRAMPOLINA</text>
+	</string>
+	<string id="Slug_ui">
+		<text>Puž Golać</text>
+	</string>
+	<string id="Slime_ui">
+		<text>Sluzavac</text>
+	</string>
+	<string id="Flash_ui">
+		<text>Bljesak</text>
+	</string>
+	<string id="Night_Star_1_ui">
+		<text>Noćna Zvezda</text>
+	</string>
+	<string id="Soul_ui">
+		<text>Duša</text>
+	</string>
+	<string id="Film_ui">
+		<text>Film</text>
+	</string>
+	<string id="Flash_ui">
+		<text>Bljesak</text>
+	</string>
+	<string id="Slime_ui">
+		<text>Sluzavac</text>
+	</string>
+	<string id="Gravi_ui">
+		<text>Gravi</text>
+	</string>
+	<string id="Night_Star_2_ui">
+		<text>Noćna Zvezda</text>
+	</string>
+	<string id="Moonlight_ui">
+		<text>Mesečina</text>
+	</string>
+	<string id="Battery_ui">
+		<text>Baterija</text>
+	</string>
+	<string id="Square_Slug_ui">
+		<text>Kvadratni Puž</text>
+	</string>
+	<string id="Fireball_ui">
+		<text>Vatrena Lopta</text>
+	</string>
+	<string id="Stone_Flower_ui">
+		<text>Kameni Cvet</text>
+	</string>
+	<string id="Mica_ui">
+		<text>Liskun</text>
+	</string>
+	<string id="Soul_ui">
+		<text>Duša</text>
+	</string>
+	<string id="Gold_Fish_harm_ui">
+		<text>Zlatna Riba (štetan)</text>
+	</string>
+	<string id="Spring_ui">
+		<text>Feder</text>
+	</string>
+	<string id="Medusa_ui">
+		<text>Meduza</text>
+	</string>
+	<string id="Small_Thorn">
+		<text>Mali Trn</text>
+	</string>
+	<string id="Thorn_ui">
+		<text>Trn</text>
+	</string>
+	<string id="Fireball_ui">
+		<text>Vatrena Lopta</text>
+	</string>
+	<string id="Crystal_ui">
+		<text>Kristal</text>
+	</string>
+	<string id="Gold_Fish_harm_2_ui">
+		<text>Zlatna Riba (štetan)</text>
+	</string>
+	<string id="Gingerbread_ui">
+		<text>Gingerbread???</text>
+	</string>
+	<string id="Quirk_ui">
+		<text>Vijuga</text>
+	</string>
+	<string id="Simbion_ui">
+		<text>Simbion</text>
+	</string>
+	<string id="Stone_Flower_ui">
+		<text>Kameni Cvet</text>
+	</string>
+	<string id="Droplet_ui">
+		<text>Kapljice</text>
+	</string>
+	<string id="Small_Thorn_ui">
+		<text>Mali Trn</text>
+	</string>
+	<string id="Moonlight_ui">
+		<text>Mesečina</text>
+	</string>
+	<string id="Mica_ui">
+		<text>Liskun</text>
+	</string>
+	<string id="Mama_Beads_ui">
+		<text>Majčine Perle</text>
+	</string>
+	<string id="Meat_Chunk_ui">
+		<text>Komad Mesa</text>
+	</string>
+	<string id="bengal_Fire_ui">
+		<text>Bengalska Vatra</text>
+	</string>
+	<string id="Slug_ui">
+		<text>Puž Golać</text>
+	</string>
+	<string id="Crystal_ui">
+		<text>Kristal</text>
+	</string>
+	<string id="Thorn_ui">
+		<text>Trn</text>
+	</string>
+	<string id="Dummy_ui">
+		<text>Školjka</text>
+	</string>
+	<string id="environment_changer_ui">
+		<text>Izmenjivač Okruženja</text>
+	</string>
+	<string id="must_weathers_section_ui">
+		<text>Mora biti u [vremenskoj] sekciji okruženja.ltx</text>
+	</string>
+	<string id="outdoor_sections_ui">
+		<text>Spoljnje Sekcije</text>
+	</string>
+	<string id="indoor_sections_ui">
+		<text>Unutrašnja Sekcije</text>
+	</string>
+	<string id="special_test_sections_ui">
+		<text>Specijalne i Probne Sekcije</text>
+	</string>
+	<string id="put_1_ui">
+		<text>Postavi</text>
+	</string>
+	<string id="delete_1_ui">
+		<text>Obriši</text>
+	</string>
+	<string id="help_1_ui">
+		<text>Pomoć</text>
+	</string>
+	<string id="walkie-talkie_ui">
+		<text>Voki-Toki</text>
+	</string>
+	<string id="general_channel_ui">
+		<text>Proveri opšti kanal</text>
+	</string>
+	<string id="your_action_1_ui">
+		<text>Tvoja radnja:</text>
+	</string>
+	<string id="call_companion_ui">
+		<text>Pozovi drugara</text>
+	</string>
+	<string id="order_hold_ground_ui">
+		<text>Naredi drugaru da brani poziciju</text>
+	</string>
+	<string id="order_companion_to_hide_ui">
+		<text>Naredi drugaru da se sakrije</text>
+	</string>
+	<string id="activate_gps_ui">
+		<text>Aktiviraj GPS</text>
+	</string>
+	<string id="gps_tracker_ui">
+		<text>Aktiviraj GPS Tragač?</text>
+	</string>
+	<string id="ok_1_ui">
+		<text>U redu</text>
+	</string>
+	<string id="quit_1_ui">
+		<text>PREKID</text>
+	</string>
+	<string id="text_of_label_ui">
+		<text>Unesi tekst naslova</text>
+	</string>
+	<string id="put_2_ui">
+		<text>Postavi</text>
+	</string>
+	<string id="activate_gps_2_ui">
+		<text>Aktiviraj GPS</text>
+	</string>
+	<string id="location_name_ui">
+		<text>Naziv Lokacije:</text>
+	</string>
+	<string id="enter_ui">
+		<text>UNESI</text>
+	</string>
+	<string id="cancel_ui">
+		<text>OTKAŽI</text>
+	</string>
+	<string id="timer_installation_ui">
+		<text>Tajmer Instalacije</text>
+	</string>
+	<string id="instructions_ui">
+		<text>Instrukcije:</text>
+	</string>
+	<string id="start_chosen_mode_ui">
+		<text>Dugme U redu - započni izabrani mod</text>
+	</string>
+	<string id="switch_mode_ui">
+		<text>Dugme SKM:TMR - promeni mod (tajmer-zaustavi)</text>
+	</string>
+	<string id="test_3_ui">
+		<text>TEST</text>
+	</string>
+	<string id="anomaly_detected_ui">
+		<text>Anomalija Otkrivena</text>
+	</string>
+	<string id="translation_and_info_ui">
+		<text>STALKERSOUP Prevod i Info (Ovo se ne pojavljuje)</text>
+	</string>
+	<string id="translation_cartridges_ui">
+		<text>Prevod municije</text>
+	</string>
+	<string id="translation_of_arms_ui">
+		<text>Prevod Oružja</text>
+	</string>
+	<string id="translation_artifacts_ui">
+		<text>Prevod Artefakata</text>
+	</string>
+	<string id="translation_articles_ui">
+		<text>Prevod članaka</text>
+	</string>
+	<string id="translation_armor_ui">
+		<text>Prevod Odela</text>
+	</string>
+	<string id="perkvod_npc_ui">
+		<text>Prevod NPC</text>
+	</string>
+	<string id="hot_fold_ui">
+		<text>Vruć. Prelom.</text>
+	</string>
+	<string id="guide_to_acs_ui">
+		<text>Vodič za ACS</text>
+	</string>
+	<string id="weather_ui">
+		<text>Vreme</text>
+	</string>
+	<string id="groups_ui">
+		<text>Grupe</text>
+	</string>
+	<string id="teleport_ui">
+		<text>Teleport</text>
+	</string>
+	<string id="teleport_by_name_ui">
+		<text>Teleport po imenu</text>
+	</string>
+	<string id="location_name_from_list_ui">
+		<text>Unesi ime lokacije iz liste</text>
+	</string>
+	<string id="trade_ui">
+		<text>Trguj</text>
+	</string>
+	<string id="leave_ui">
+		<text>Odlazi</text>
+	</string>
+	<string id="drop_item_ui">
+		<text>Ispusti predmet</text>
+	</string>
+	<string id="items_list_ui">
+		<text>Lista predmeta</text>
+	</string>
+	<string id="your_items_ui">
+		<text>Tvoji predmeti</text>
+	</string>
+	<string id="price_ui">
+		<text>Cena:</text>
+	</string>
+	<string id="join_ui">
+		<text>PRIDRUŽI</text>
+	</string>
+	<string id="weapon_efficiency_ui">
+		<text>Efikasnost Oružja</text>
+	</string>
+	<string id="rank_ui">
+		<text>Nivo</text>
+	</string>
+	<string id="empty_text_ui">
+		<text>...prazno...</text>
+	</string>
+	<string id="curr_time_ui">
+		<text>Trenutno vreme</text>
+	</string>
+	<string id="rest_ui">
+		<text>Odmor</text>
+	</string>
+	<string id="1_hour_ui">
+		<text>1 Sat</text>
+	</string>
+	<string id="4_hour_ui">
+		<text>4 Sata</text>
+	</string>
+	<string id="8_hour_ui">
+		<text>8 Sati</text>
+	</string>
+	<string id="to_morning_ui">
+		<text>Do Jutra</text>
+	</string>
+	<string id="to_evening_ui">
+		<text>Do Večeri</text>
+	</string>
+	<string id="close_ui">
+		<text>Zatvori</text>
+	</string>
+	<string id="events_ui">
+		<text>Događaji</text>
+	</string>
+	<string id="contacts_ui">
+		<text>Kontakti</text>
+	</string>
+	<string id="map_ui">
+		<text>Mapa</text>
+	</string>
+	<string id="encyclopedia_ui">
+		<text>Enciklopedija</text>
+	</string>
+	<string id="journal_ui">
+		<text>Dnevnik</text>
+	</string>
+	<string id="tasks_ui">
+		<text>Zadaci</text>
+	</string>
+	<string id="retreated_from_battlefield_ui">
+		<text>%s se povukao sa bojnog polja...</text>
+	</string>
+	<string id="were_retreated_from_battlefield_ui">
+		<text>%s i %s su se povukli sa bojnog polja...</text>
+	</string>
+	<string id="killed_by_ui">
+		<text>%s je ubijen od strane %s</text>
+	</string>
+	<string id="killed_by_themselves_ui">
+		<text>%s i %s su se poubijali međusobno</text>
+	</string>
+	<string id="press_yes_to_pay_ui">
+		<text>Možeš kupiti ponovno pojavljivanje za 1000 $. Pritisni Da da bi platio</text>
+	</string>
+	<string id="karta_name_ui">
+		<text>Karta Ime</text>
+	</string>
+	<string id="health_ui">
+		<text>zdravlje</text>
+	</string>
+	<string id="ammo_ui">
+		<text>Municija</text>
+	</string>
+	<string id="wpn_ui">
+		<text>Oružje</text>
+	</string>
+	<string id="armor_ui">
+		<text>Odelo</text>
+	</string>
+	<string id="money_ui">
+		<text>Novac</text>
+	</string>
+	<string id="description_ui">
+		<text>Opis</text>
+	</string>
+	<string id="personal_ui">
+		<text>Lično</text>
+	</string>
+	<string id="belt_ui">
+		<text>Pojas</text>
+	</string>
+	<string id="you_have_ui">
+		<text>Imaš:</text>
+	</string>
+	<string id="item_price_ui">
+		<text>Cena Predmeta:</text>
+	</string>
+	<string id="accept_ui">
+		<text>Prihvati</text>
+	</string>
+	<string id="cancel_4_ui">
+		<text>Otkaži</text>
+	</string>
+	<string id="bag_ui">
+		<text>Vreća</text>
+	</string>
+	<string id="medkit_ui">
+		<text>Medkit</text>
+	</string>
+	<string id="antirad_ui">
+		<text>Antirad</text>
+	</string>
+	<string id="food_ui">
+		<text>Hrana</text>
+	</string>
+	<string id="sleep_ui">
+		<text>Odmor</text>
+	</string>
+	<string id="functions_ui">
+		<text>Funkcije</text>
+	</string>
+	<string id="notes_ui">
+		<text>ZAPISI</text>
+	</string>
+	<string id="volume_1_ui">
+		<text>JAČINA-</text>
+	</string>
+	<string id="volume_2_ui">
+		<text>JAČINA+</text>
+	</string>
+	<string id="enter_the_zone_ui">
+		<text>Pritisni bilo koji taster da bi ušao u Zonu</text>
+	</string>
+	<string id="rank_2_ui">
+		<text>nivo</text>
+	</string>
+	<string id="community_ui">
+		<text>zajednica</text>
+	</string>
+	<!-- "Hint" section start -->
+	<string id="Turn_Off_PDA_hint_ui">
+		<text>Isključi PDA</text>
+	</string>
+	<string id="S_advanced_options_hint_ui">
+		<text>Prikaži napredne opcije</text>
+	</string>
+	<string id="use_text_as_reminder_hint_ui">
+		<text>Da bi koristio tekst kao podsetnik</text>
+	</string>
+	<string id="ten_records_back_hint_ui">
+		<text>10 zapisa u nazad</text>
+	</string>
+	<string id="One_entry_back_hint_ui">
+		<text>Jedan zapis u nazad</text>
+	</string>
+	<string id="One_entry_forward_hint_ui">
+		<text>Jedan zapis u napred</text>
+	</string>
+	<string id="ten_records_forward_hint_ui">
+		<text>10 zapisa u napred</text>
+	</string>
+	<string id="Layout_hint_ui">
+		<text>Raspored</text>
+	</string>
+	<string id="Decrease_volume_hint_ui">
+		<text>Smanjiti jačinu</text>
+	</string>
+	<string id="Increase_volume_hint_ui">
+		<text>Povećati jačinu</text>
+	</string>
+	<string id="current_record_hint_ui">
+		<text>Trenutni zapis</text>
+	</string>
+	<string id="actor_hint_ui">
+		<text>učesnik</text>
+	</string>
+	<string id="invalid_hint_hint_ui">
+		<text>pogrešan znak</text>
+	</string>
+	<string id="friend_hint_ui">
+		<text>prijatelj</text>
+	</string>
+	<string id="self_hint_ui">
+		<text>ja</text>
+	</string>
+	<string id="enemy_hint_ui">
+		<text>neprijatelj</text>
+	</string>
+	<string id="neutral_hint_ui">
+		<text>neutralan</text>
+	</string>
+	<string id="deadbody_hint_ui">
+		<text>leš</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 14:32 31.12.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:49 -sadd -->

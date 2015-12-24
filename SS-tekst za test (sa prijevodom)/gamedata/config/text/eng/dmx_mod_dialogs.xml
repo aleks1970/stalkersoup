@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.3.6 changed lottery amounts and translated Cyrillic text , fixed soul cube dialog, added names, \ \n
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; DMX 1.3.5
+;;;; DIALOGUES ON VEHICLES 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<string_table>
+	<string id="rul_cars_000">
+		<text>Razgovarajmo o vozilima, Sid</text>
+	</string>
+	<string id="rul_cars_001">
+		<text>Nije problem, evo šta trenutno imam na raspolaganju:</text>
+	</string>
+	<string id="rul_cars_011">
+		<text>kod Kampa Početnika u Kordonu</text>
+	</string>
+	<string id="rul_cars_012">
+		<text>u polju u blizini Deponije</text>
+	</string>
+	<string id="rul_cars_013">
+		<text>kod Naučničkog Instituta u Agropromu</text>
+	</string>
+	<string id="rul_cars_021">
+		<text>OK, tvoj je. Srediću da ti ga ostave u blizini Kampa Početnika.</text>
+	</string>
+	<string id="rul_cars_022">
+		<text>Pogledaj u blizini Deponije, u polju. Pobrinuću se da ga Banditi ne sjebu, duguju mi par usluga.</text>
+	</string>
+	<string id="rul_cars_023">
+		<text>Vozilo je negde u centralnom kompleksu, ali budi jako oprezan, jer kada sam pričao sa Pukovnikom bio je jako pijan i možda je zaboravio reći svojim ljudima da dolaziš po njega.</text>
+	</string>
+	<string id="rul_cars_002">
+		<text>Razumem, hvala.</text>
+	</string>
+	<string id="rul_cars_005">
+		<text>Ma daj čoveče, cene su ti stvarno bezobrazno velike!!</text>
+	</string>
+	<string id="rul_cars_006">
+		<text>Nemaš toliko novaca, ma razguli!!!</text>
+	</string>
+	<string id="rul_cars_100">
+		<text>Treba mi vozilo, možeš li mi pomoći?</text>
+	</string>
+	<string id="rul_cars_101">
+		<text>Mogu ti osigurati vozilo, ali nisu baš jeftina, razumeš?\nEvo šta imam trenutno:</text>
+	</string>
+	<string id="rul_cars_114">
+		<text>Kama3 kamion u Mračnoj Dolini.</text>
+	</string>
+	<string id="rul_cars_116">
+		<text>Vojno terensko vozilo u Vojnim Skladištima.</text>
+	</string>
+	<string id="rul_cars_124">
+		<text>Kamion poput ovog je teško nabaviti. Mogu srediti da ti ga ostave na napuštenoj benziskoj stanici, preko puta Banditske baze u Mračnoj Dolini. Požuri pre nego neko drugi dođe i ukrade ga, ili ga jednostavno rastave za rezervne delove!</text>
+	</string>
+	<string id="rul_cars_126">
+		<text>Fridom frakcije se nekako uspela dočepati vojnog terenskog vozila. Njima baš i ne koristi pa su me zamolili da ga prodam ili iznajmim u njihovo ime. Možeš ga pokupiti kod njihove baze u Vojnim Skladištima, sretno.</text>
+	</string>
+	<string id="rul_cars_200">
+		<text>Ima li kakvih vozila u blizini?</text>
+	</string>
+	<string id="rul_cars_201">
+		<text>E to je informacije za koju trebaš platiti. Možda i ima neka obećavajuća opcija u blizini, šta kažeš?</text>
+	</string>
+	<string id="rul_cars_215">
+		<text>YA-3 u Crvenoj Šumi</text>
+	</string>
+	<string id="rul_cars_225">
+		<text>Kada izađeš iz bunkera biće ti na desnoj strani. Ali budi pažljiv, takvo vozilo ovako na severu Zone je pravi komfor.</text>
+	</string>
+	<string id="rul_cars_206">
+		<text>Nažalost, nemaš dovoljno novca, izvini.</text>
+	</string>
+	<string id="vehicle_btr">
+		<text>BTR-80 oklopno transportno vozilo</text>
+	</string>
+	<string id="vehicle_tr13">
+		<text>Traktor</text>
+	</string>
+	<string id="vehicle_niva">
+		<text>Niva terensko vozilo</text>
+	</string>
+	<string id="vehicle_uaz">
+		<text>UAZ</text>
+	</string>
+	<string id="vehicle_zaz">
+		<text>Zaporožec auto</text>
+	</string>
+	<string id="vehicle_kamaz">
+		<text>Kama3 kamion</text>
+	</string>
+	<!-- NEW VEHICLE DIALOGUES (DMX MOD) -->
+	<string id="rul_cars_300">
+		<text>Odlično! Možeš nabaviti vozilo? To bi stvarno cenio. Većina se ne želi zamarati hodanjem kroz močvare.</text>
+	</string>
+	<string id="rul_cars_301">
+		<text>Auto, luksuz koji si mnogi ne mogu priuštiti. Samo dobro pazi dok upravljaš kroz anomalije, ne ganjaj mutante, koje uopće ne zanima jesi li u autu ili ne. Mogu ti ponuditi sledeća vozila:</text>
+	</string>
+	<string id="rul_cars_315">
+		<text>"Dodge Charger" u Močvarama</text>
+	</string>
+	<string id="rul_cars_415">
+		<text>"Hummer" u Kordonu</text>
+	</string>
+	<string id="rul_cars_325">
+		<text>OK, slušaj dobro. Kada prođeš najbližu farmu gde su stalkeri napravili kamp, videćeš uništenu zgradu. Iza nje ćeš naći auto svojih snova! Označio sam ti njegovu lokaciju na mapi.</text>
+	</string>
+	<string id="rul_cars_425">
+		<text>Hummer je vrlo traženo vozilo i unutar i izvan Zone. Zato ga potraži. Izbegavaj anomalije i dugo će ti potrajati.\nOznačio sam njeguvu lokaciju na mapi.</text>
+	</string>
+	<string id="rul_cars_305">
+		<text>Izvini buraz, nemam dovoljno novca.</text>
+	</string>
+	<string id="vehicle_dodje">
+		<text>Dodge Charger</text>
+	</string>
+	<string id="vehicle_hammer">
+		<text>Hummer</text>
+	</string>
+	<!--<string id="TEST_hammer">
+<text>Your Hummer has driven to the ends of the Earth and to be perfectly honest, should be parked, and scrapped for parts.</text>
+</string>-->
+	<!-- DIALOGUE ABOUT BOOKS -->
+	<string id="syslov_book1">
+		<text>Hej! Čujem da prodaješ neke e-knjige koje se mogu uploadati na moj PDA.</text>
+	</string>
+	<string id="syslov_book2">
+		<text>Da! Jako malo ljudi čita ovih dana. Svi su previše opsednuti artefaktima i jednostavno samo pokušavaju da prežive. Ali ako si stvarno zainteresiran možeš ih pronaći na web stranici: www.tecnobacon.com\syslov_books.html.</text>
+	</string>
+	<string id="syslov_book3">
+		<text>Puno ti hvala!!</text>
+	</string>
+	<!-- DIALOGUE ABOUT LOCATIONS -->
+	<string id="syslov_locations1">
+		<text>Trebam informacije o različitim područjima unutar Zone.</text>
+	</string>
+	<string id="syslov_locations2">
+		<text>Puno tražiš!!! Daću ti informacije ali moraš platiti za njih. Postoje određene tajne lokacije o kojima baš i nemam nekih informacija, pa ćeš ih morati skontati sam.\n? Imam informacije o mestima kao što su Mrtvi Grad, Limansk, Generatori... Hoćeš da nastavim!?</text>
+	</string>
+	<string id="syslov_yes_locations">
+		<text>Da. Molim te nastavi.</text>
+	</string>
+	<string id="syslov_no_locations">
+		<text>Ne hvala, moram da idem.</text>
+	</string>
+	<string id="syslov_locations3">
+		<text>Imam informacije o laboratorijama X-18, X-16, X-10, o izvesnom Tajnom Laboratoriju i tajnom Vojnom Laboratoriju. Sve ovo košta, recimo, 1500 rublja. Jesi zainteresiran?</text>
+	</string>
+	<string id="syslov_kachat">
+		<text>Cena je mnogo razumnija nego što sam očekivao. Izvoli novac. Prebaci mi na PDA.</text>
+	</string>
+	<string id="syslov_ne_kachat">
+		<text>Preskupo za mene! Sam ću saznati šta mi treba.</text>
+	</string>
+	<!-- UNIQUE PURCHASES WITH SUSLOV -->
+	<string id="syslov_uniq1">
+		<text>Prodaješ li neke unikatne predmete?</text>
+	</string>
+	<string id="syslov_uniq2">
+		<text>Prodajem specijalizovano oružje i municiju, koje jedino možeš naći kod menee. Niko drugi u Zoni ne prodaje takve predmete! Zainteresiran?</text>
+	</string>
+	<string id="upgrade_skat">
+		<text>Prilagođeni SCAT-15M pancir</text>
+	</string>
+	<string id="no_uniq">
+		<text>Ništa za sada, hvala, možda posle.</text>
+	</string>
+	<string id="syslov_upgrade_skat">
+		<text>Pancir u koji je ugrađen niz retkih i neobičnih mikročipova te ultralake komponente. Serijski broj - 0321754. Težina je smanjena za 6 kg. Odelo je bazirano na artefaktu poznatom kao Crna Energija, koji omogućava da se SCAT koristi neodređeno vremeto, dok je god artefak za pojasom. Cena je 45,000ru, i artefakt Kapi Duše. Pa, jesi zainteresiran?!</text>
+	</string>
+	<string id="yes_upgrade_skat">
+		<text>Zvuči odlično. Dogovorili smo se!!</text>
+	</string>
+	<string id="no_upgrade_skat">
+		<text>Ne, 45,000ru je malo previše za mene, a, uostalom, i Crna Energija je artefakt koji nije lako pronaći. Puno više problema nego što stvarno vredi!</text>
+	</string>
+	<string id="shadows_cube">
+		<text>Čuo sam neke glasine da imaš informacije o vrlo čudnoj stvari poznatoj kao Kocka Duša. Je li to istina?!</text>
+	</string>
+	<string id="shadows_cube1">
+		<text>Vrlo retka i neprocenjiva stvar. Koristeći ovaj mračni uređaj možeš izvući životnu energiju iz svih živih bića. Nakon čega biće umire od procesa starenja. Zvuči interesantno, jel' tako!?</text>
+	</string>
+	<string id="shadows_cube2">
+		<text>Da, stvarno zvuči. Ali koliko bi me to koštalo da ga nabavim!?</text>
+	</string>
+	<string id="shadows_cube3">
+		<text>Ne želim uopće novac za njega, radije ćeš sakupiti neke stvari za mene u zamenu. Naša grupa je jako tanka sa municijom ovih dana.\nTakođer nam treba i moćnije oružje. Nešto takvo poseduje trgovac u Agropromu.\nPod hitno moramo poboljšati i naša Naučnička odela. Koliko znam, Plaćenici su opremljeni sa odelima sa naprednim filtracijiskim sistemima, neprobojnim vizirima i zaštitnim pločama. Ako nam doneseš jedno od takvih odela, Basil ga može rastaviti i ubaciti njihovu tehnologiju u naše raznovrsne pancire. Također nam je potrebna i hrana. Donesi nam 5 flaša Nemiroff votke, moliću lepo!! Dva PRI-B paketa vojnog ručka, tri Jantarska sira, pet konzervi oraščića, tri piva Černigov(Chernigov), i pet limenki Adrenalinskog Napada(Adrenalin Rush).\nPomogni nam sa ovim i daćemo ti Kocku Duša. Jel' pošteno stalkeru?</text>
+	</string>
+	<string id="shadows_cube_yes">
+		<text>Mislim da ću vam moći pomoći u nabavci ovih stvari u zamenu za Kocku.</text>
+	</string>
+	<string id="shadows_cube_no">
+		<text>Nema šanse. Hoćeš da ti sve ovo nabavim o svom trošku, a uopće ni ne znam da li Kocka radi sve te stvari koje kažeš.</text>
+	</string>
+	<string id="shadows_cube_prines">
+		<text>Evo ti sve smeće koje si tražio.</text>
+	</string>
+	<string id="shadows_cube_prines1">
+		<text>Hvala, ovo će nam sigurno pomoći o odbrani ovog mesta od svih napadača!</text>
+	</string>
+	<string id="shadows_cube_prines2">
+		<text>Naravno da hoće, daj mi Kocku!</text>
+	</string>
+	<string id="shadows_cube_prines3">
+		<text>Paa, vidi, u stvari je nemam...\nMolim te, da ti objasnim...</text>
+	</string>
+	<string id="shadows_cube_prines4">
+		<text>Pa rekao si da je imaš! PAZI...\nPokaži mi Kocku!</text>
+	</string>
+	<string id="shadows_cube_prines5">
+		<text>Paa, u stvari to je laž...\nALI, znam ko zna gde se nalazi.</text>
+	</string>
+	<string id="shadows_cube_prines6">
+		<text>Aha, dečko, upravo sam izgubio smisao za humor, bolje za tebe da znaš ko zna! Prst na obaraču me jako svrbi...</text>
+	</string>
+	<string id="shadows_cube_prines7">
+		<text>Nemoj!! Poslao sam svog čoveka da proveri mesto gde je Kocka skrivena. I kada je stigao tamo našao je tog stalkera. Pravi čudak...!!! I dobro naoružan!! Malo zbunjen u početku. Kada su moji momci proverili mesto bilo je prazno! Počeli su ispitivati tog kučkinog sina, ali, naravno, ništa im nije rekao! Moji ljudi su bili preslabo naoružani da ga srede. Reći ću ti gde je. Siguran sam da će ti reći ako ga "uveriš" da ti ga da, znaš na šta mislim! Ako uspiješ, platiću ti 25,000ru.</text>
+	</string>
+	<string id="shadows_cube_prines_yes">
+		<text>Ok, reci mi gde mogu naći tog stalkera...\nI bolje mu je da je ima Kocku!</text>
+	</string>
+	<string id="shadows_cube_prines_no">
+		<text>Stoj! Isplati me sada i nosi te svoje bajke negde drugo!!</text>
+	</string>
+	<string id="shadows_cube_prines_yes1">
+		<text>Blizu starog tornja zapadno od naše baze, onaj sa upaljenim svetlom...\nNeću da idem tamo sam!!! Taj čudak samo luta tim mestom, nemam pojma zašto...</text>
+	</string>
+	<string id="shadows_cube_prines_yes2">
+		<text>Ok, proveriću... Ali ako ispadne da je mrtva ulica, nahraniću krvopije s tobom!</text>
+	</string>
+	<!-- !!!!TB3D  new 134 -->
+	<string id="start_shadows_dialog0">
+		<text>Još jedan... Šta sada ti hoćeš?</text>
+	</string>
+	<string id="start_shadows_dialog1">
+		<text>Oh vauu, Shadows!. Kakva oprema!... Neverovatno... Ok, Kocka... Imaš li je? Ti si on...</text>
+	</string>
+	<string id="start_shadows_dialog2">
+		<text>Da... Tu je ta stvar, ali ti...</text>
+	</string>
+	<string id="start_shadows_dialog3">
+		<text>Daj je ovamo...</text>
+	</string>
+	<string id="start_shadows_dialog4">
+		<text>Da li uopće znaš šta ćeš raditi sa ovom Kockom?</text>
+	</string>
+	<string id="start_shadows_dialog4_good">
+		<text>Slušaj, dobro sam se nahodao skupljajući informacije o toj Kocki... A ti još hoćeš da me ispituješ?...</text>
+	</string>
+	<string id="start_shadows_dialog4_bad">
+		<text>Skontaću već šta da se uradi...samo mi daj tu prokletu Kocku!!!</text>
+	</string>
+	<string id="start_shadows_dialog5">
+		<text>Ne možeš koristiti Kocku...</text>
+	</string>
+	<string id="start_shadows_dialog6">
+		<text>Zašto?</text>
+	</string>
+	<string id="start_shadows_dialog7">
+		<text>Evo...proveri i sam.</text>
+	</string>
+	<string id="shadows_quest_cube0">
+		<text>Šta ovo znači? Već mi je muka od svega ovoga ...</text>
+	</string>
+	<string id="shadows_quest_cube1">
+		<text>Ovo znači da je Kocka lažna. Vrlo kvalitetne izrade ali opet lažna...</text>
+	</string>
+	<string id="shadows_quest_cube2">
+		<text>Negdje mora postojati original?</text>
+	</string>
+	<string id="shadows_quest_cube3">
+		<text>Najverovatnije da postoji. Čak znam i gde je proizvedena...</text>
+	</string>
+	<string id="shadows_quest_cube4">
+		<text>Ovaj razgovor ide u pravom smeru... I to je dobro.</text>
+	</string>
+	<string id="shadows_quest_cube5">
+		<text>Ovaj projekat je bio jako skup. Poznavao sam jednog lika iz tima koji je napravio Kocku, Pavela. U to vreme sam izveštavao nadređene u Glavnoj kontroli u Černobilu. Verovatno si čuo da će iznad četvrte jedinice biti izgrađen i drugi veliki sarkofag? Ja sam jedan od ljudi koji su se spustili u reaktor da izmere i procene radijacijsko oštećenje koje je prouzrokovala prva eksplozija. Ovo odelo i oprema koju vidiš na meni - poslednja moda američkih naučnika, izdržava i najdestruktivnije doze radijacije... Ali kao i obično stvari nisu krenule po planu. Prilikom silaska sa krova reaktora, jedan kabel je puknuo i pao sam sa 6 metara na dno reaktora. Direkto tamo gde stare gorive šipke leže razbacane... Pošto je kabel puknuo, niko iza mene nije dolazio u sarkofag. Obećali su da će potražiti novi kabel, jer je bilo očito da ne mogu ostati na dnu reaktora čak i sa ovim "super" odelom...</text>
+	</string>
+	<string id="shadows_quest_cube6">
+		<text>Nastavi...</text>
+	</string>
+	<string id="shadows_quest_cube7">
+		<text>Počeo sam tražiti drugi izlaz. Kada sam malo došao sebi, primetio sam vrata prekrivena peskom - nisu bila zaključana.\nZavršio sam negde lutajući po hodnicima podzemlja, i konačno izašao van kroz šaht u Pripjatu... Teturao sam od jake vrtoglavice. Suočavajući se sa prvim stepenom radijacijske bolesti... Drugu noć sa proveo u jednom od ulaza u kuću... Sledeći dan me pokupio neki vojni odred, koji je bio u pratnji nekih naučnika. Jedan od njih bio je jako zainteresiran za moje odelo. I kao rezultat toga, odveo me je do kuće mog novog prijatelja. Njegovo ime je Pavel. Živi na jednom od onih nebodera u Pripjatu, na zadnjem spratu. Sećam se da je u blizini bilo kino... Stan je bio u jako dobrom stanju, imajući u vidu da je celi grad opljačkan i rasturen...a onda okupiran od Monolita i mutanata... Najverovatnije jedini naseljivi stan nakon druge eksplozije...\nNakon pregleda odela, ponudio mi je posao u laboratoriji u istom gradu. Ali sam odbio - ni stari posao mi nije dobro završio... Ubrzo sam napustio Pavela, jer sam se morao vratiti u bazu.\nNedugo nakon toga, čuli smo da je laboratorij napadnut od nekog nepoznatog stvorenja, i da su gotovo svi mrtvi... Organizirana je vojna potraga koji su tražili preživele naučnike u Pripjatu. Među njima je bio i Pavel. Ali ubrzo nakon toga, ponovo je nestao bez traga... Odlučio sam dobrovoljno da odem i da ga potražim. Ali nisam znao u kom području. Sada je zaglavio negde tamo, mislim...</text>
+	</string>
+	<string id="shadows_quest_cube8">
+		<text>Hmm... Baš interesantno. Ali kakve to ima veze samnom?</text>
+	</string>
+	<string id="shadows_quest_cube9">
+		<text>Kada sam bio onih nekoliko dana u stanu sa Pavelom, primetio sam dokumenta koji opisuju Kocku. Čak su i slike bile, paa... Najverovatnije da su i slikane u tom laboratoriju... Da li stan sadrži još nekih interesantnih stvari, to bi trebalo tek proveriti... Mislim! Iako posle druge eksplozije je sigurno uništen... Ali opet, ti treba da saznaš kako stvari tamo stoje... Zar ne?\nU Pripjat ne mogu ići sa dobrima namerama, ali ti možeš, i to bi bilo jako korisno i za mene...</text>
+	</string>
+	<string id="shadows_quest_cube10">
+		<text>Gde se tačno nalazi taj stan?</text>
+	</string>
+	<string id="shadows_quest_cube11">
+		<text>Rekao sam ti - u istočnom delu Pripjata, u blizini kina. Na zadnjem spratu. Sećam se da sam video veliku lozu iz prozora.</text>
+	</string>
+	<string id="shadows_quest_cube12">
+		<text>Ah... Želim tu Kocku...\nPrisiljen sam ti verovati...moraću otići tamo.</text>
+	</string>
+	<string id="shadows_quest_cube13">
+		<text>Odlično. Informisaću te kroz PDA poruke, ali zapamti da ih i drugi mogu čitati...</text>
+	</string>
+	<string id="shadows_quest_cube14">
+		<text>Ok, pokušaj biti što diskretniji sa porukama...</text>
+	</string>
+	<string id="shadows_final_cube_dialog0">
+		<text>Hej, uspeo sam se vratiti...</text>
+	</string>
+	<string id="shadows_final_cube_dialog1">
+		<text>I šta ima novo? Put je bio ugodan, pretpostavljam...</text>
+	</string>
+	<string id="shadows_final_cube_dialog2">
+		<text>Hmpfff... Bio sam u laboratoriji - strašno mesto. Nekoliko puta sam čak video i duhove. Jako zabavna stvorenja...\nPronašao sam Kocku - smrtonosna stvar. Radi baš kao što je Pavel i napisao. Propao bih kroz pod Zone da nije bilo njega...</text>
+	</string>
+	<string id="shadows_final_cube_dialog3">
+		<text>A Pavel... Jel' živ? Šta je s njim?</text>
+	</string>
+	<string id="shadows_final_cube_dialog4">
+		<text>Nažalost, mrtav je. Kada sam došao na mesto sa njegovim telom čuo se strašan vrisak... Očito je to bio neki duh... Sudeći po zapisima, duh je i bio uzrok uništenja laboratorija...\nPavel je izabrao svoju sudbinu - niko ga nije prisilio da ide sam u laboratorij.</text>
+	</string>
+	<string id="shadows_final_cube_dialog5">
+		<text>Do vraga! Sranje! Znao sam da će tako biti na kraju... Ok. Jesi pronašao neka dokumenta, planove ili neke druge informacije u laboratoriji? Sviđa li ti se dnevnik...Jel' na prodaju?</text>
+	</string>
+	<string id="shadows_final_cube_dialog_yes_dnev">
+		<text>Da, zadrži ga.</text>
+	</string>
+	<string id="shadows_final_cube_dialog_no_dnev">
+		<text>Ne, ne radim više...</text>
+	</string>
+	<string id="shadows_final_cube_dialog_no_dnev_1">
+		<text>Ok. Možda imaš neku drugu informaciju?</text>
+	</string>
+	<string id="shadows_final_cube_dialog_yes_dnev_1">
+		<text>Hvala za dnevnik. Drugih informacija nemaš?</text>
+	</string>
+	<string id="shadows_final_cube_dialog_as_plan">
+		<text>Plan Vojnih Skladišta sa nekim nepoznatim oznakama.</text>
+	</string>
+	<string id="shadows_final_cube_dialog_pripyat">
+		<text>Mapu istočnog Pripjata sa sedištem u Laboratoriji X-8</text>
+	</string>
+	<string id="shadows_final_cube_dialog_doc_x8">
+		<text>Dokumenta iz Laboratorije X-8</text>
+	</string>
+	<string id="shadows_final_cube_dialog_not">
+		<text>Ne, ništa.</text>
+	</string>
+	<string id="shadows_final_cube_dialog_aga">
+		<text>Hvala. Još nešto drugo?</text>
+	</string>
+	<string id="shadows_final_cube_dialog_yes_smotri">
+		<text>Da, ima.</text>
+	</string>
+	<string id="shadows_final_cube_dialog_aga_2">
+		<text>Pa.</text>
+	</string>
+	<string id="shadows_final_cube_dialog6">
+		<text>Ok, hvala za sve što sam naučio o Pavelu. Sada se moram vratiti svom poslu na vanjski perimetar...</text>
+	</string>
+	<string id="shadows_final_cube_dialog7">
+		<text>Nek' ti je sa srećom. Zbogom.</text>
+	</string>
+	<!-- FRAMEWORK Pripyat-->
+	<!--=============================Stalker Sanya at the door==================-->
+	<string id="alex_start_dialog0">
+		<text>Ej, šta ima?!</text>
+	</string>
+	<string id="alex_start_dialog1">
+		<text>Hej... Jel' vas puno ima tu?</text>
+	</string>
+	<string id="alex_start_dialog2">
+		<text>Nekolicina... Kad su isključili Spaljivač, odmah smo požurili u Centar. Tu smo organizovali malu bazu...</text>
+	</string>
+	<string id="alex_start_dialog3">
+		<text>Aha, vidim... Jel' ima neko glavni?</text>
+	</string>
+	<string id="alex_start_dialog4">
+		<text>Formidable(Grozni) - na prvom je spratu.</text>
+	</string>
+	<string id="alex_start_dialog5">
+		<text>Formidable(Grozni)? Aha... Mugu ući unutra?</text>
+	</string>
+	<string id="alex_start_dialog6">
+		<text>Naravno, samo uđi...nikada nije dosta koja puška više na ovom mestu!</text>
+	</string>
+	<string id="alex_dialog_1_1">
+		<text>Razgovarao sam sa Formidable(Groznim), uopće se ne čini tako groznim, čak mi je i pomogao...</text>
+	</string>
+	<string id="alex_dialog_1_2">
+		<text>Da, ali to je čovek kao zid. Tako je i dobio ime...</text>
+	</string>
+	<string id="alex_dialog_1_3">
+		<text>Interesantno, vidimo se.</text>
+	</string>
+	<!--=============================Formidable==================-->
+	<string id="grozn_start_dialog0">
+		<text>Odakle dolaziš?... Šta te donelo ovamo, stalkeru?</text>
+	</string>
+	<string id="grozn_start_dialog1">
+		<text>Tražio sam život među ovim ruševinama... Video sam tvoj ulaz i odlučio da proverim koliko si dugo ovde?</text>
+	</string>
+	<string id="grozn_start_dialog2">
+		<text>Kratko vreme... Nakon što je Radar gotov, planirali smo otići u Černobil - kažu da je tamo Klondajkovi artefakti... Ali nešto žestoko se tamo desilo pa smo se povukli na ovo mesto...</text>
+	</string>
+	<string id="grozn_start_dialog3">
+		<text>Jel' to sve?</text>
+	</string>
+	<string id="grozn_start_dialog4">
+		<text>Kada smo se probili u Pripjat, napali smo grupu Monolita ... Prikovali su nas u blizini autobusne stanice. Preložio sam Havajcu da idemo istočno do hotela, ali on je tvrdoglavo inzistirao da se moramo probiti do stadiona u Černobilu... Tako smo se rastali. Sanja, Malj, ja i Mudrac...</text>
+	</string>
+	<string id="grozn_start_dialog5">
+		<text>Šta se onda dogodilo?</text>
+	</string>
+	<string id="grozn_start_dialog6">
+		<text>Pa, kada smo se približili hotelu tada smo ga primetili. Neka nakaza je na vrhu kampirala sa Gausom... Živo sranje... Čoveče... A onda su tu i Monolićani koje nismo pokokali! Dobro se smestili, prokleti fanatici...\nKao rezultat svega imali smo tri mrtva... Preko puta ceste ispred snajperiste, skrenuli smo u susedstvo na istoku, i stigli do CCD... Tamo smo u zgradam ugledali neke siluete - verovatno opet Monolit. Pa tada smo se obreli u praonici...\nSlučajno na putu ovamo u jednom dvorištu pronašli smo vojni Kamaz - i pokrenuli ga!</text>
+	</string>
+	<string id="grozn_start_dialog7">
+		<text>Drago mi je što sam došao prvo vama umesto njima...</text>
+	</string>
+	<string id="grozn_start_dialog8">
+		<text>Paa... Šta je to što tražiš?</text>
+	</string>
+	<string id="grozn_start_dialog9">
+		<text>Interesuju me podzemna postrojenja, laboratorije... Način kako ući u njih!?</text>
+	</string>
+	<string id="grozn_start_dialog10">
+		<text>Huh, stvarno ne znam. Ali kada smo pretraživali bolničko područje severno od praonice, u jednoj od soba sam video pocepane izveštaje i planove Pripjata. Na jednom takvom planu bilo je označeno podzemno postrojenej... Ali nismo pridodavali nikakvu važnost tim papirima - nije bilo potrebno. Možda tebi budu od pomoći.</text>
+	</string>
+	<string id="grozn_start_dialog11">
+		<text>Hvala! Trebalo bi da pogledam to mesto...</text>
+	</string>
+	<!--=============================Sage==================-->
+	<string id="mydrec_start_dialog0">
+		<text>Jesi ti Mudrac?</text>
+	</string>
+	<string id="mydrec_start_dialog1">
+		<text>Jesam, obični stalker...</text>
+	</string>
+	<string id="mydrec_start_dialog2">
+		<text>Šta hoćeš? Ne nešto što će te udariti nogom...</text>
+	</string>
+	<string id="mydrec_start_dialog3">
+		<text>Zašto si tako grub? Jesam li ti nešto uradio ili rekao?</text>
+	</string>
+	<string id="mydrec_start_dialog4">
+		<text>Moj dobri prijatelj Malj je pokisao, eto šta je!</text>
+	</string>
+	<string id="mydrec_start_dialog_jal">
+		<text>Žao mi je što to čujem...</text>
+	</string>
+	<string id="mydrec_start_dialog_vodka_go">
+		<text>Popijmo u njegovo ime...</text>
+	</string>
+	<string id="mydrec_start_dialog5">
+		<text>Izvini... Stvarno šteta! Bio je moj prijatelj... A više ga nema...</text>
+	</string>
+	<string id="mydrec_start_dialog6">
+		<text>Pa, tome se više ništa ne može...</text>
+	</string>
+	<string id="mydrec_start_dialog7">
+		<text>Šta želiš?</text>
+	</string>
+	<string id="mydrec_start_dialog8">
+		<text>Tražim nekog ovde... Pavela, jesi čuo za njega?</text>
+	</string>
+	<string id="mydrec_start_dialog9">
+		<text>Pavela? Samo neke glasine... Muka mi je od tih priča i afera...</text>
+	</string>
+	<string id="mydrec_start_dialog10">
+		<text>Pa šta si radio ovde celo vreme?</text>
+	</string>
+	<string id="mydrec_start_dialog11">
+		<text>Pa u suštini, popravljao smeće... Ali ovde naći rezervne delove ili alat...pa lakše je pronaći naftu. Mislio sam pogledati malo u komšiluku, možda pronađem nešto...</text>
+	</string>
+	<string id="mydrec_start_dialog12">
+		<text>Pa kada planiraš ići?</text>
+	</string>
+	<string id="mydrec_start_dialog13">
+		<text>Zašto? Možda za nekoliko dana... Moramo se pripremiti. Nikada ne znaš na šta ćeš naletiti u gradu...</text>
+	</string>
+	<string id="mydrec_start_dialog_yes_nabor">
+		<text>Mogu li ti pomoći u potrazi za alatom?</text>
+	</string>
+	<string id="mydrec_start_dialog14">
+		<text>E to bi bilo lepo... Manje problema. Počnimo.</text>
+	</string>
+	<string id="mydrec_start_dialog15_yes">
+		<text>Pa.</text>
+	</string>
+	<string id="mydrec_start_dialog15_no">
+		<text>Predomislio sam se...</text>
+	</string>
+	<string id="mydrec_start_dialog_no_nabor">
+		<text>U redu. Pogledaću...</text>
+	</string>
+	<string id="mudrec_instruments0">
+		<text>Ja ću potražiti alat za tebe.</text>
+	</string>
+	<string id="mudrec_instruments1">
+		<text>Šta... Opet si se predomislio?</text>
+	</string>
+	<string id="mudrec_instruments2">
+		<text>Pa moglo bi se reći...</text>
+	</string>
+	<string id="mudrec_instruments_prines0">
+		<text>Izvoli alat.</text>
+	</string>
+	<string id="mudrec_instruments_prines1">
+		<text>Opaa... Iskreno nisam to očekivao. Mogu ti pokazati ti svoje smeće ali samo da  završim nake igračke... Dok ti čekaš ja ću pokušati skontati šta je šta. Popravci će potrajati neko vreme, pa navrati za nekoliko dana.</text>
+	</string>
+	<string id="mudrec_instruments_prines2">
+		<text>U redu. Vidi ako šta možeš ubrzati malo.</text>
+	</string>
+	<!-- TRADING FOOD WITH COLD -->
+	<string id="holod_dmx_food1">
+		<text>Mogu li nešto razmeniti s tobom?</text>
+	</string>
+	<string id="holod_dmx_food2">
+		<text>Naravno! Razmenićemo neke vrste potrošne robe za drugu robu. Želim nešto i zaraditi na tome, naravno!</text>
+	</string>
+	<string id="holod_sigaret">
+		<text>Tražim nekoliko Death's Head (Mrtvačka Glava) cigareta.</text>
+	</string>
+	<string id="holod_sigaret1">
+		<text>Trgovaćemo ali samo ako mi daš 2 kutije Dream cigareta, ili možda tri cigare.</text>
+	</string>
+	<string id="holod_sigaret_mechta">
+		<text>Evo cigarete.</text>
+	</string>
+	<string id="holod_sigaret_sigara">
+		<text>Evo cigare.</text>
+	</string>
+	<string id="holod_vodka">
+		<text>Treba mi malo Cossacks votke.</text>
+	</string>
+	<string id="holod_vodka1">
+		<text>Ili dve flaše Absolut votke ili jedna Smirnof votka, plus 100ru.</text>
+	</string>
+	<string id="holod_2_absol">
+		<text>Evo dve flaše Absolut votke.</text>
+	</string>
+	<string id="holod_smirnov_and_many">
+		<text>Evo, uzmi Smirnof i novac.</text>
+	</string>
+	<string id="holod_kolbasa">
+		<text>Želim Doktorovu kobasicu.</text>
+	</string>
+	<string id="holod_kolbasa1">
+		<text>Ili dva pruta Doktorske kobasice, ili jedno Chernigov pivo.</text>
+	</string>
+	<string id="holod_kolbasa_doctor">
+		<text>Uzmi kobasicu.</text>
+	</string>
+	<string id="holod_chernigov">
+		<text>Evo, uzmi pivo.</text>
+	</string>
+	<string id="holod_no_barter">
+		<text>Ne trebam ništa.</text>
+	</string>
+	<string id="holod_barter_text_pda">
+		<text>Lista Ledenog:\n \n1.Kutija Death's Head cigareta, dve kutije Dream cigareta i tri cigare;\n \n2. nekoliko Cossacks votke, dve flaše Absolute votke, ili jednu flašu Smirnof votke plus 100ru;\n \n3. Doktorska Kobasica, dva pruta Doktorske Kobasice, ili jedna flaša Chernigov piva...</text>
+	</string>
+	<!-- INTRODUCTORY DIALOGUE WITH COLD -->
+	<string id="holod_start_dialog0">
+		<text>Hej stalkeru, kako je? Kako ti mogu pomoći?</text>
+	</string>
+	<string id="holod_start_dialog1">
+		<text>Hej. Čuo sam da si bio konobar. Kupi mi piće?</text>
+	</string>
+	<string id="holod_start_dialog2">
+		<text>Da, bio sam konobar, heh. Vidim da ipak ne lutaš bezveze. Ne viđamo puno Samotnjaka ovde u Močvarama. Više smo navikli na Bandite i na putujuće Osvetnike za trgovinu.\nPiće? Ma nije problem, potegni malo votke, kuća časti! Sedi da popričamo.</text>
+	</string>
+	<string id="holod_start_dialog_nem">
+		<text>Nemiroff votka.</text>
+	</string>
+	<string id="holod_start_dialog_abs">
+		<text>Absolut votka.</text>
+	</string>
+	<string id="holod_start_dialog_smir">
+		<text>Smirnof votka.</text>
+	</string>
+	<string id="holod_start_dialog_history">
+		<text>Nekada je ovo bilo puno mirnije mesto. Putevi su bili sigurni, ljudi su dolazili i odlazili kada im se prohtelo. Nije baš neko mesto da bi došao na letovanje, ali život je bio dobar ovde u Močvarama. Ali, baš kao i svugdje u Zoni, Emisija, kriminal, anomalije...sve je promenilo. Ljudi odlaze da potraže svoju sreću u Zoni i vraćaju se bez prebijene, švorc. Ali, ovde smo uspeli preživeti, i biće bolje...nekada.</text>
+	</string>
+	<string id="holod_start_dialog3">
+		<text>A ti? Kakva je tvoja priča?</text>
+	</string>
+	<string id="holod_start_dialog4">
+		<text>Nije bilo mesta za mene u onom svetu. Pa sam ovde stvorio svoj život. Bilo je teško ali sam uspeo. Frakcija Čisto Nebo je trebala trgovca i tako sam upao. I bilo je dobro, bar do sada. Dok god im nabavljam robu koja im treba, hraniće me, a možda jednog dana se i skrasim za stalno. To bi bilo lepo. Usput, zovu me Ledeni(Cold).</text>
+	</string>
+	<string id="holod_start_dialog5">
+		<text>Da, vidim da vam stvari idu jako dobro, šta bi moglo krenuti po zlu?!</text>
+	</string>
+	<string id="holod_start_dialog6">
+		<text>Zaštićeni smo od neželjenih posetilaca Teleporterom. Ne mogu ući unutra. Ali, kako vidiš, naša Baza je skromna, romantična farma u sredini ovih nepreglednih močvara. Mi smo poslednji, sve ostale su pregazili autsajderi kao što si ti. Ovo je mesto gde možeš susresti prave ljude. One koji te neće upucati čim te vide, već koji će podeliti sve što imaju sa tobom, razumeš?!</text>
+	</string>
+	<string id="holod_start_dialog_over">
+		<text>Hvala na informacijama. Dobro ću razgledati uokolo.</text>
+	</string>
+	<!-- !!!!TB3D new 134 ============================================================ -->
+	<!-- TALK ABOUT U SIDOROVICH Armor-->
+	<string id="sidorovich_outfit_blockpost_dialog0">
+		<text>Opa, imam Beril...</text>
+	</string>
+	<string id="sidorovich_outfit_blockpost_dialog1">
+		<text>Odlično. Sada svi ratnici misle da si neki pukovnik. Karoche(), te čeka u blizini farme, južno od srušenog mosta... Idi.</text>
+	</string>
+	<string id="sidorovich_outfit_blockpost_dialog2">
+		<text>U redu.</text>
+	</string>
+	<!-- CONDUCTOR -->
+	<string id="kombat_start0">
+		<text>Oh, novo lice...</text>
+	</string>
+	<string id="kombat_start1">
+		<text>Hej. A ko si ti uopšte?</text>
+	</string>
+	<string id="kombat_start2">
+		<text>A šta to tebe brine toliko?</text>
+	</string>
+	<string id="kombat_start3">
+		<text>Pa i ne brine uopšte... Samo se pitam.</text>
+	</string>
+	<string id="kombat_start4">
+		<text>Ako te baš zanima reći ću ti. Ja sam vodič. Vozim ljude tamo gde žele. Mogu i tebe odvesti ako želiš... Ne besplatno, naravno...</text>
+	</string>
+	<string id="kombat_start5">
+		<text>Hmm, da... Ali još ne znam... Kako mogu biti siguran da me nećeš upucati s leđa i opljačkati me?</text>
+	</string>
+	<string id="kombat_start6">
+		<text>Dragi moj, imam ko zna koliko reputacija, ali ja ipak pazim. Sam sam sebe naučio i istražio sve sigurne puteve i verujem svom "šestom čulu". Kroz celo moje poslovanje nije bilo nikakvog prikrivanja. Svi klijenti su živi i zdravi, bar nakon što sam ih doveo do željenog mesta. Heh-heh. Karoche nameravaš nešto konkretno?</text>
+	</string>
+	<string id="kombat_start7">
+		<text>Konkretno ne, ali ako zatreba obratiću ti se.</text>
+	</string>
+	<string id="kombat_start8">
+		<text>Slobodno se obrati - vozim na mesta gde mi je klijent bio barem jednom ili ako ima neka važna posla u tom području. Možda ćeš reći - pa čemu onda uošte vodiči, ako možeš i znaš put sam? Zato što znaju kraće i sigurnije puteve do mesta. A ići sa vodičem je puno brže nego ići sam. U svakom slučaju do tebe je.</text>
+	</string>
+	<string id="kombat_start9">
+		<text>Shvatam.</text>
+	</string>
+	<!-- Tote has SUSLOVA -->
+	<string id="totalizator_0">
+		<text>Zdravo Suslov.\nČuo sam da ima podzemni totalizator u Zoni... Koliko mogu... Želim uložiti novac.</text>
+	</string>
+	<string id="totalizator_1">
+		<text>Ne postoji takva stvar, dobro razmisli: tu ili na stolu - pobedio ili izgubio - možeš staviti 50 i dobiti samo 500 ru. A onda moraš plaćati - okreni, prevrni ali ne možeš - i nađeš se u dužničkom ropstvu... I onda samo pronađemo leš u Močvari... Tako ti je to.</text>
+	</string>
+	<string id="totalizator_2">
+		<text>Da, strašno... Ali opet, potreba... Znaš li nekog kladioničara?</text>
+	</string>
+	<string id="totalizator_3">
+		<text>Znam li? Pa pred tobom sam...</text>
+	</string>
+	<string id="totalizator_4">
+		<text>Aaa, pa tako mi reci...nisam te odmah razumeo, hehe... Ok, kakvi su uslovi?</text>
+	</string>
+	<string id="totalizator_5">
+		<text>Ulozi se dižu i bespovratni su. Pobeda ili gubitak sve zavisi od tebe... Možeš igradi i na kredit ali kamate su drakonske. Svakih 12 sati. Izbor na tebi: igrati ili ne igrati. Usput, ukoliko pobediš - novac možeš ostaviti kod mene, daću ti dobar procenat.</text>
+	</string>
+	<string id="totalizator_6">
+		<text>U redu, slažem se. Kakvi su ulozi?</text>
+	</string>
+	<string id="totalizator_7">
+		<text>Ulozi se stalno menjaju... Kao i vetar sa Pripjat reke. Čak ni ja nekada ne znam kakve će biti danas. E to je prava kladionica.</text>
+	</string>
+	<string id="totalizator_8">
+		<text>Ulog: 1 stotina</text>
+	</string>
+	<string id="totalizator_9">
+		<text>Ulog: 5 stotina</text>
+	</string>
+	<string id="totalizator_10">
+		<text>Ulog: 1 hiljada</text>
+	</string>
+	<string id="totalizator_11">
+		<text>Ulog: 15 stotina</text>
+	</string>
+	<string id="totalizator_12">
+		<text>Ulog: 2 hiljada</text>
+	</string>
+	<string id="totalizator_13">
+		<text>Ulog: 25 stotina</text>
+	</string>
+	<string id="totalizator_14">
+		<text>Ulog: 3 hiljada</text>
+	</string>
+	<string id="totalizator_15">
+		<text>Ulog: 35 stotina</text>
+	</string>
+	<string id="totalizator_16">
+		<text>Ulog: 4 hiljada</text>
+	</string>
+	<string id="totalizator_17">
+		<text>Ulog: 5 hiljada</text>
+	</string>
+	<string id="totalizator_18">
+		<text>Odbijeno.</text>
+	</string>
+	<string id="totalizator_19">
+		<text>Ok - ulozi su prihvaćeni, sada čekaj poruke. Sretno!</text>
+	</string>
+	<string id="totalizator_20">
+		<text>Ok, idem...</text>
+	</string>
+	<string id="totalizator_21">
+		<text>Jesi udario glavom od hrast ili što? Moraš imat više od stotinu, zabranjeno ti je klađenje. Ajde srce, razguli.</text>
+	</string>
+	<string id="totalizator_22">
+		<text>Prokletniče...</text>
+	</string>
+	<string id="give_prize_0">
+		<text>Zdravo Suslov - spreman sam za donaciju.</text>
+	</string>
+	<string id="give_prize_1">
+		<text>Samo da vidim koliko ti dugujem.</text>
+	</string>
+	<string id="give_prize_2">
+		<text>Ajde - ne zavlači. Vadi novac.</text>
+	</string>
+	<string id="give_prize_3">
+		<text>Trenutak... Stiže...</text>
+	</string>
+	<string id="give_prize_4">
+		<text>Povuci novac.</text>
+	</string>
+	<string id="give_prize_5">
+		<text>Pohrani novac.</text>
+	</string>
+	<string id="give_dolg_0">
+		<text>Suslov - došao sam vratiti dug.</text>
+	</string>
+	<string id="give_dolg_1">
+		<text>Ok - ne dugujem ti više.</text>
+	</string>
+	<string id="take_deposit_0">
+		<text>Podigni depozit.</text>
+	</string>
+	<string id="take_deposit_1">
+		<text>Izaberite koliko želite povući.</text>
+	</string>
+	<string id="take_deposit_2">
+		<text>Povuci 10% od sume.</text>
+	</string>
+	<string id="take_deposit_3">
+		<text>Povuci pola od sume.</text>
+	</string>
+	<string id="take_deposit_4">
+		<text>Povuci celi iznos.</text>
+	</string>
+	<string id="take_deposit_5">
+		<text>Pa, drži.</text>
+	</string>
+	<string id="take_deposit_6">
+		<text>Hvala puno na čuvanju Suslov. Odoh se malo opustiti.</text>
+	</string>
+	<string id="news_1">
+		<text>Obeleženi, danas nije tvoj dan. Ne možeš igrati.</text>
+	</string>
+	<string id="news_2">
+		<text>Osvoji 50 ru.</text>
+	</string>
+	<string id="news_3">
+		<text>Osvoji 1 stotinu RUB.</text>
+	</string>
+	<string id="news_4">
+		<text>Osvoji 5 stotina RUB.</text>
+	</string>
+	<string id="news_5">
+		<text>Osvoji 1 hiljadu RUB.</text>
+	</string>
+	<string id="news_6">
+		<text>Osvoji 15 stotina RUB.</text>
+	</string>
+	<string id="news_7">
+		<text>Osvoji 2 hiljade RUB.</text>
+	</string>
+	<string id="news_8">
+		<text>Osvoji 25 stotina RUB.</text>
+	</string>
+	<string id="news_9">
+		<text>Osvoji 5 hiljada RUB.</text>
+	</string>
+	<string id="news_10">
+		<text>Osvoji 10 hiljada RUB.</text>
+	</string>
+	<string id="news_11">
+		<text>Osvoji 20 hiljada RUB.</text>
+	</string>
+	<string id="news_12">
+		<text>Osvoji 30 hiljada RUB.</text>
+	</string>
+	<string id="news_13">
+		<text>Osvoji 40 hiljada RUB.</text>
+	</string>
+	<string id="news_14">
+		<text>Osvoji 50 hiljada RUB.</text>
+	</string>
+	<string id="news_15">
+		<text>Džek pot Obeleženi! Osvojio si 100 hiljada RUB.</text>
+	</string>
+	<string id="dolg_1">
+		<text>Obeleženi pitaš u vezi duga...\nTi bi da pogledaš - dug ti je ostao isti.</text>
+	</string>
+	<string id="dolg_2">
+		<text>Aa-aj Obeleženi, rok je već prošao, a tebi se ne žuri. Daj požuri malo.</text>
+	</string>
+	<string id="dolg_3">
+		<text>Šta ovo znači Obeleženi? Zar nisi imao dovoljno vremena? \n. Rok je istekao - vrati se sa novcem.</text>
+	</string>
+	<string id="dolg_4">
+		<text>Ee, ee Obeleženi, toliko voliš igrati a ne vraćaš dugove.\nNije dobro. U stvari - jako je loše. Mislim da će neko plakati. Razumeš?</text>
+	</string>
+	<string id="dolg_5">
+		<text>Obeleženi postao si drzak. Do vraga, šta je sa dugom?\nDečki dolaze i obećali su da će te saseći u komade i nahraniti Mesine. Dođi do mene dok si još živ.</text>
+	</string>
+	<string id="dolg_6">
+		<text>Ne shvatam ljude. Jesmo se dogovorili?\nRok za dug je bio tri dana - ali ne, "nisam stigao, žao mi je".\nRadi šta hoćeš ali dug vrati smesta. Inače - gotov si.</text>
+	</string>
+	<string id="dolg_7">
+		<text>Obeleženi hitno dođi do baze Čistog Neba do Suslova.\nOčekuje te...hitno. Inače sam sebi naoštri sekiru.</text>
+	</string>
+	<string id="dolg_8">
+		<text>Stvarno si svinja Obeleženi - postaćeš moja kučka ukoliko ne vratiš novac.\nAko do večeras ne vratiš dug - ulaz u bazu će ti biti zauvek zatvoren.</text>
+	</string>
+	<string id="dolg_9">
+		<text>Zadnje upozorenje Obeleženi:\nVreme je isteklo a ti nisi ni prstom mrdnuo!\nBićeš otpisan, ukoliko ne vratiš dug.</text>
+	</string>
+	<string id="dolg_10">
+		<text>Obeleženi - mrtav si.</text>
+	</string>
+	<!-- added 109919 -->
+	<string id="net_pda">
+		<text>netpacket PDA</text>
+	</string>
+	<string id="desc_net_pda">
+		<text>Drži ruke dalje od ovog uređaja!!</text>
+	</string>
+	<string id="bolt_pda">
+		<text>Bolt PDA</text>
+	</string>
+	<string id="desc_bolt_pda">
+		<text>Bolt PDA. Sadržaj zahteva pažljivo proučavanje</text>
+	</string>
+	<string id="sci_flash">
+		<text>Naučnička fleš kartica</text>
+	</string>
+	<!-- Preveo i prilagodio Flexerca -=- 11:13 02.08.2014 -->
+</string_table>
+	<!-- Tekst usklađen sa 109989 verzijom zakrpe - 21.06.2015 12:22 -sadd -->

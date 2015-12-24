@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.6.0 yan_find_vasilyev_task -->
+	<string id="yan_find_ghost">
+		<text>Uzmi dokumenta od Duha</text>
+	</string>
+	<string id="yan_find_ghost_task">
+		<text>Uzmi dokumenta</text>
+	</string>
+	<string id="yan_find_lab">
+		<text>Uđi u Laboratoriju</text>
+	</string>
+	<string id="yan_find_labX16">
+		<text>Dopri do Laboratorije X16</text>
+	</string>
+	<string id="yan_find_scientist">
+		<text>Izvrši merenja radijacije</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>Pronađi ulaz u laboratoriju</text>
+	<!--text>Find the corpse of Vasilev</text-->
+	</string>
+	<string id="yan_find_vasilyev">
+		<text>Proveri Vasilijev leš</text>
+	</string>
+	<string id="yan_kill_brain">
+		<text>Isključi PSI-Emisije</text>
+	</string>
+	<string id="yan_kill_brain_task">
+		<text>Zaustavi mehanizam</text>
+	</string>
+	<string id="yan_kill_brain_task_2">
+		<text>Napusti laboratoriju</text>
+	</string>
+	<string id="yan_provodnik_about_doctor">
+		<text>Razgovaraj sa Vodičem</text>
+	</string>
+	<string id="yan_provodnik_task">
+		<text>Sretni se sa Vodičem</text> <!-- text>Talk to the Guide</text -->
+	</string>
+	<string id="yan_psi_zone_find">
+		<text>Prati Kruglova do mesta za merenje</text>
+	</string>
+	<string id="yan_psi_zone_find_semenov">
+		<text>Isprati Semjonova do mesta merenja</text>
+	</string>
+	<string id="yan_find_scientist_semenov">
+		<text>Isprati Semjonova do mesta merenja</text>
+	</string>
+	<string id="yan_return_to_bunker">
+		<text>Donesi rezultate Saharovu</text>
+	</string>
+	<string id="yan_scientist_return">
+		<text>Pričaj sa Saharovim</text>
+	</string>
+	<string id="yan_scientist_return_task">
+		<text>Razgovaraj sa Saharovim</text>
+	</string>
+	<string id="yan_secret_tonnel">
+		<text>Izađi kroz tajni tunel</text>
+	</string>
+	<string id="yan_switcher_off_1">
+		<text>Isključi prvi kontrolni modul</text>
+	</string>
+	<string id="yan_switcher_off_2">
+		<text>Isključi drugi kontrolni modul</text>
+	</string>
+	<string id="yan_switcher_off_3">
+		<text>Isključi treći kontrolni modul</text>
+	</string>
+	<string id="yan_talk_to_kruglov">
+		<text>Razgovaraj sa Kruglovom</text>
+	</string>
+	<string id="yan_talk_to_semenov">
+		<text>Razgovaraj sa Semenovim</text>
+	</string>
+	<string id="yan_vasilyev_pda">
+		<text>Vasilijev PDA</text>
+	</string>
+	<string id="yan_zombie_zone">
+		<text>Moguća lokacija Laboratorije X16</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 13:57 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:23 -sadd -->

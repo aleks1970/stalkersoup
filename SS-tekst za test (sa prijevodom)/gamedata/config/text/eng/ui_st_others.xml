@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_st_conn_version_differs">
+		<text>Problem sa povezivanjem: Drugačija verzija (patch).</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Problem sa povezivanjem: Nepravilan CD-Key.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Problem sa povezivanjem: CD-Key je već u upotrebi.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Problem sa povezivanjem: Tvoj CD-Key je onemogućen. Kontaktiraj službu za korisnike.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Novi "patch" je dostupan.\n Verzija: %s\n Location: %s\nDa li želiš da ga preuzmeš sada?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Nema novih patcheva" za sada</text>
+	</string>
+</string_table>
+<!-- Tekst usklađen sa 109977 verzijom zakrpe - 09.02.2015 0:39 -sadd -->

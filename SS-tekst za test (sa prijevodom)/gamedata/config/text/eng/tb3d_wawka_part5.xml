@@ -1,0 +1,2071 @@
+<?xml version="1.0' encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.5.0 wawka 5 Artyom -->
+<string_table>
+	<string id="start_update_outfit_prapor_0">
+		<text>Jesi spreman za nadogradnju?</text>
+	</string>
+	<string id="start_update_outfit_prapor_1">
+		<text>Pozdrav, stalkeru... Imam veze za nadogradnju vojnog pancira, za ojačanje i ugradnju uređaja za noćno osmatranje. Nije previše skupo za tebe, a meni treba svaka rublja da izađem iz ove bedne Zone...</text>
+	</string>
+	<string id="start_update_outfit_prapor_2">
+		<text>To je odlična ponuda...</text>
+	</string>
+	<string id="update_outfit_prapor_0">
+		<text>Kakvu nadogradnju nudiš za vojna pancir odela?</text>
+	</string>
+	<string id="update_outfit_prapor_1">
+		<text>Postoji mogućnost instalacije uređaja za noćno osmatranje na bilo koje od sledećih odela:\nOdelo 'Berill-5M';\nOdelo 'SKAT-9M';\nOdelo 'SKAT-10M';\nVojna protupancirna vesta;\nMedicinski 'Beril'.\nTakođer je moguće povećati otpornost na habanje.\nIzaberi, šta ti je potrebno?</text>
+	</string>
+	<string id="update_outfit_prapor_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_prapor_11111">
+		<text>Na koje odelo želiš instalirati uređaj, na obično ili već ojačano?</text>
+	</string>
+	<string id="update_outfit_prapor_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_prapor_1111111">
+		<text>Odlično... Izaberi model odela.</text>
+	</string>
+	<string id="update_outfit_prapor_2">
+		<text>Odelo 'Berill-5M'...</text>
+	</string>
+	<string id="update_outfit_prapor_3">
+		<text>Odelo 'SKAT-9M'...</text>
+	</string>
+	<string id="update_outfit_prapor_4">
+		<text>Odelo 'SKAT-10M'...</text>
+	</string>
+	<string id="update_outfit_prapor_5">
+		<text>Odelo VDV...</text>
+	</string>
+	<string id="update_outfit_prapor_6">
+		<text>Vojni egzoskelet...</text>
+	</string>
+	<string id="update_outfit_prapor_7">
+		<text>Vojna protupancirna vesta...</text>
+	</string>
+	<string id="update_outfit_prapor_8">
+		<text>Medicinski 'Beril'...</text>
+	</string>
+	<string id="update_outfit_prapor_02">
+		<text>Za odelo 'Berill-5M' mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_03">
+		<text>Za odelo 'SKAT-9M' mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen'- 20,000 Ru;\n- PNV 'Mačije oko'- 30,000 Ru;\n- PNV 'PSI efekt'- 25,000 Ru;\n- PNV 'Mesečina'- 25,000 Ru;\n- PNV 'Bela noć'- 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_04">
+		<text>Za odelo 'SKAT-10M' mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen'- 20,000 Ru;\n- PNV 'Mačije oko'- 30,000 Ru;\n- PNV 'PSI efekt'- 25,000 Ru;\n- PNV 'Mesečina'- 25,000 Ru;\n- PNV 'Bela noć'- 30,000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_05">
+		<text>Za odelo VDV mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_06">
+		<text>Za vojni egzoskelet mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0061">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0062">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0063">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0064">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0065">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0066">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0067">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0068">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_07">
+		<text>Za vojnu protupancirnu vestu mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0071">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0072">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0073">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0074">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0075">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0076">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0077">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0078">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_08">
+		<text>Za medicinski 'Beril' mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0081">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0082">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0083">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0084">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0085">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0086">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0087">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0088">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_2100">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_2200">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_2300">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_2400">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_2500">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_2600">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_2700">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_2800">
+		<text>Uzmi odelo 'Berill-5M'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3100">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3200">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3300">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3400">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3500">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3600">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3700">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3800">
+		<text>Uzmi odelo 'SKAT-9M. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_4100">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_4200">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_4300">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_4400">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_4500">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_4600">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_4700">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_4800">
+		<text>Uzmi odelo 'SKAT-10M'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_5100">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_5200">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_5300">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_5400">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_5500">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_5600">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_5700">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_5800">
+		<text>Uzmi odelo VDV. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_6100">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_6200">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_6300">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_6400">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_6500">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_6600">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_6700">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_6800">
+		<text>Uzmi Vojni egzoskelet. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_7100">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_7200">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_7300">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_7400">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_7500">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_7600">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_7700">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_7800">
+		<text>Uzmi vojnu protupancirnu vestu. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_8100">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_8200">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_8300">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_8400">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_8500">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_8600">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_8700">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_8800">
+		<text>Uzmi medicinski 'Beril'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_111112">
+		<text>Na ojačani...</text>
+	</string>
+	<string id="update_outfit_prapor_1111121">
+		<text>Odlično... Izaberi model ojačanog pancir odela.</text>
+	</string>
+	<string id="update_outfit_prapor_102">
+		<text>Odelo 'Berill-5M'...</text>
+	</string>
+	<string id="update_outfit_prapor_103">
+		<text>Odelo 'SKAT-9M'...</text>
+	</string>
+	<string id="update_outfit_prapor_104">
+		<text>Odelo 'SKAT-10M'...</text>
+	</string>
+	<string id="update_outfit_prapor_105">
+		<text>Odelo VDV...</text>
+	</string>
+	<string id="update_outfit_prapor_106">
+		<text>Vojni egzoskelet...</text>
+	</string>
+	<string id="update_outfit_prapor_107">
+		<text>Vojna protupancirna vesta...</text>
+	</string>
+	<string id="update_outfit_prapor_108">
+		<text>Medicinski 'Beril'...</text>
+	</string>
+	<string id="update_outfit_prapor_1022">
+		<text>Za ojačano odelo 'Berill-5M' mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1033">
+		<text>Za ojačano odelo 'SKAT-9M' mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1044">
+		<text>Za ojačano odelo 'SKAT-10M' mogu ti ponuditi:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20,000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1055">
+		<text>Za ojačano odelo VDV mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1066">
+		<text>Za ojačani Vojni egzoskelet mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0161">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0162">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0163">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0164">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0165">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0166">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0167">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0168">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1077">
+		<text>Za ojačanu Vojnu protupancirnu vestu mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0171">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0172">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0173">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0174">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0175">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0176">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0177">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0178">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1088">
+		<text>Za ojačani Medicinski 'Beril' mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_prapor_0181">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_0182">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_0183">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_0184">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_0185">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_0186">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0187">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_0188">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1210">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1220">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1230">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1240">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1250">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1260">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1270">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1280">
+		<text>Uzmi ojačani 'Berill-5M'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1310">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1320">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1330">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1340">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1350">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1360">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1370">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1380">
+		<text>Uzmi ojačani 'SKAT-9M. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1410">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1420">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1430">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1440">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1450">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1460">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1470">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1480">
+		<text>Uzmi ojačani 'SKAT-10M'. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1510">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1520">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1530">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1540">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1550">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1560">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1570">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1580">
+		<text>Uzmi ojačani VDV. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_1610">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1620">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1630">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1640">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1650">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1660">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1670">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1680">
+		<text>Uzmi ojačani Vojni egzoskelet. Instaliran je PNV 'Digital Th'...</text>
+	</string>
+	<string id="update_outfit_prapor_1710">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1720">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1730">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1740">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1750">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1760">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1770">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1780">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu. Instaliran je PNV 'Digital Th'...</text>
+	</string>
+	<string id="update_outfit_prapor_1810">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_1820">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_1830">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_1840">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_1850">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_1860">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_1870">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_1880">
+		<text>Uzmi ojačani Medicinski 'Beril'. Instaliran je PNV 'Digital Th'...</text>
+	</string>
+	<string id="update_outfit_prapor_2222">
+		<text>Ojačanje Odela...</text>
+	</string>
+	<string id="update_outfit_prapor_22222">
+		<text>Koje odelo želiš ojačati, obično ili sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_prapor_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_prapor_2222211">
+		<text>Odlično... Moje kvote:\n-Odelo 'Berill-5M' - za artefakt 'Koža' i 10,000 Ru;\n-Odelo 'SKAT-9M' - za artefakt 'Krljušt' i 100,000 Ru;\n-Odelo 'SKAT-10M' - za artefakt 'Čelična Krljušt' i 150,000 Ru;\n-Vojna protupancirna vesta - za artefakt 'Koža' i 5,000 Ru;\n-Medicinski 'Beril' - za artefakt 'Koža' i 30,000 Ru.\nIzaberi.</text>
+	</string>
+	<string id="update_outfit_prapor_202">
+		<text>Odelo 'Berill-5M'...</text>
+	</string>
+	<string id="update_outfit_prapor_203">
+		<text>Odelo 'SKAT-9M'...</text>
+	</string>
+	<string id="update_outfit_prapor_204">
+		<text>Odelo 'SKAT-10M'...</text>
+	</string>
+	<string id="update_outfit_prapor_205">
+		<text>Odelo VDV...</text>
+	</string>
+	<string id="update_outfit_prapor_206">
+		<text>Vojni egzoskelet...</text>
+	</string>
+	<string id="update_outfit_prapor_207">
+		<text>Vojna protupancirna vesta...</text>
+	</string>
+	<string id="update_outfit_prapor_208">
+		<text>Medicinski 'Beril'...</text>
+	</string>
+	<string id="update_outfit_prapor_211">
+		<text>Uzmi ojačani 'Berill-5M'.</text>
+	</string>
+	<string id="update_outfit_prapor_212">
+		<text>Uzmi ojačani 'SKAT-9M.</text>
+	</string>
+	<string id="update_outfit_prapor_213">
+		<text>Uzmi ojačani 'SKAT-10M.</text>
+	</string>
+	<string id="update_outfit_prapor_214">
+		<text>Uzmi ojačani VDV.</text>
+	</string>
+	<string id="update_outfit_prapor_215">
+		<text>Uzmi ojačani Vojni egzoskelet.</text>
+	</string>
+	<string id="update_outfit_prapor_216">
+		<text>Uzmi ojačanu Vojnu protupancirnu vestu.</text>
+	</string>
+	<string id="update_outfit_prapor_217">
+		<text>Uzmi ojačani Medicinski 'Beril'.</text>
+	</string>
+	<string id="update_outfit_prapor_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_prapor_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_prapor_302">
+		<text>Odelo 'Berill-5M'...</text>
+	</string>
+	<string id="update_outfit_prapor_303">
+		<text>Odelo 'SKAT-9M'...</text>
+	</string>
+	<string id="update_outfit_prapor_304">
+		<text>Odelo 'SKAT-10M...</text>
+	</string>
+	<string id="update_outfit_prapor_305">
+		<text>Odelo VDV...</text>
+	</string>
+	<string id="update_outfit_prapor_306">
+		<text>Vojni egzoskelet...</text>
+	</string>
+	<string id="update_outfit_prapor_307">
+		<text>Vojna protupancirna vesta...</text>
+	</string>
+	<string id="update_outfit_prapor_308">
+		<text>Medicinski 'Beril'...</text>
+	</string>
+	<string id="update_outfit_prapor_3022">
+		<text>Cena ojačanja 'Berill-5M' odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_prapor_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3033">
+		<text>Cena ojačanja 'SKAT-9M' odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 100000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3044">
+		<text>Cena ojačanja 'SKAT-10M' odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 150000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3055">
+		<text>Cena ojačanja VDV, sa instaliranim uređajem za noćno osmatranje (PNV) je 25000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_prapor_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3066">
+		<text>Cena ojačanja Vojnog egzoskeleta, sa instaliranim uređajem za noćno osmatranje (PNV) je 50000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_prapor_0361">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0362">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0363">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0364">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0365">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0366">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0367">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0368">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3077">
+		<text>Cena ojačanja Vojne protupancirne veste, sa instaliranim uređajem za noćno osmatranje (PNV) je 5000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_prapor_0371">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0372">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0373">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0374">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0375">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0376">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0377">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0378">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3088">
+		<text>Cena ojačanja Medicinskog 'Beril' odela, sa instaliranim uređajem za noćno osmatranje (PNV) je 30000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_prapor_0381">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0382">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0383">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0384">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0385">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0386">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0387">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_0388">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_prapor_3210">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3220">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3230">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3240">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3250">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3260">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3270">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3280">
+		<text>Evo, uzmi ojačano 'Berill-5M' odelo, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3310">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3320">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3330">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3340">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3350">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3360">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3370">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3380">
+		<text>Evo, uzmi ojačano 'SKAT-9M' odelo, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3410">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3420">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3430">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3440">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3450">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3460">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3470">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3480">
+		<text>Evo, uzmi ojačano 'SKAT-10M' odelo, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3510">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3520">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3530">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3540">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3550">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3560">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3570">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3580">
+		<text>Evo, uzmi ojačano VDV odelo, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3610">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3620">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3630">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3640">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3650">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3660">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3670">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3680">
+		<text>Evo, uzmi ojačani Vojni egzoskelet, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3710">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3720">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3730">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3740">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3750">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3760">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3770">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3780">
+		<text>Evo, uzmi ojačanu Vojnu protupancirnu vestu, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_3810">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_prapor_3820">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_prapor_3830">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_prapor_3840">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_prapor_3850">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_prapor_3860">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_prapor_3870">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_prapor_3880">
+		<text>Evo, uzmi ojačani Medicinski 'Beril', sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_prapor_999">
+		<text>Trenutno nije potrebno ništa...</text>
+	</string>
+	<string id="start_update_outfit_sak_0">
+		<text>Zdravo, Sjak...</text>
+	</string>
+	<string id="start_update_outfit_sak_1">
+		<text>Zdravo, Obeleženi... Hvala ti još jednom na alatu! Dok si ti lutao uokolo, ja sam proučavao uzorke odela Monolita... Ukratko, mogu ti ponuditi usluge njegove nadogradnje.</text>
+	</string>
+	<string id="start_update_outfit_sak_2">
+		<text>To je odlično, dobra ponuda...</text>
+	</string>
+	<string id="update_outfit_sak_0">
+		<text>Šta možeš ponuditi za nadogradnju pancir odela?</text>
+	</string>
+	<string id="update_outfit_sak_1">
+		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nOdelo Monolita;\nNaučničko odelo Monolita;\nEgzoskelet Monolita;\nOdelo Monolita sa gas maskom.\nTakođer, moguće je povećati otpornost na habanje.\nIzaberi, šta ti odgovara?</text>
+	</string>
+	<string id="update_outfit_sak_1111">
+		<text>Uređaj za noćno osmatranje...</text>
+	</string>
+	<string id="update_outfit_sak_11111">
+		<text>Na koje odelo želiš instalirati uređaj, na obično ili ojačano?</text>
+	</string>
+	<string id="update_outfit_sak_111111">
+		<text>Na obično...</text>
+	</string>
+	<string id="update_outfit_sak_1111111">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_sak_2">
+		<text>Odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_3">
+		<text>Naučničko odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_4">
+		<text>Egzoskelet Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_5">
+		<text>Odelo Monolita sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sak_02">
+		<text>Za odelo Monolita mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0021">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0022">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0023">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0024">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0025">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0026">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0027">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0028">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_03">
+		<text>Za Naučničko odelo Monolita mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0031">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0032">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0033">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0034">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0035">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0036">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0037">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0038">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_04">
+		<text>Za egzoskelet Monolita mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0041">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0042">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0043">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0044">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0045">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0046">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0047">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0048">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_05">
+		<text>Za Odelo Monolita sa gas maskom mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0051">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0052">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0053">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0054">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0055">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0056">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0057">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0058">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_2100">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_2200">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_2300">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_2400">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_2500">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_2600">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_2700">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_2800">
+		<text>Uzmi Odelo Monolita. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_3100">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_3200">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_3300">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_3400">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_3500">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_3600">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_3700">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_3800">
+		<text>Uzmi Naučničko odelo Monolita. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_4100">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_4200">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_4300">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_4400">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_4500">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_4600">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_4700">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_4800">
+		<text>Uzmi Egzoskelet Monolita. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_5100">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_5200">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_5300">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_5400">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_5500">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_5600">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_5700">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_5800">
+		<text>Uzmi Odelo Monolita sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_111112">
+		<text>Na ojačano...</text>
+	</string>
+	<string id="update_outfit_sak_1111121">
+		<text>To je odlično... Izaberi pancir odelo koje želiš ojačati.</text>
+	</string>
+	<string id="update_outfit_sak_102">
+		<text>Odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_103">
+		<text>Naučničko odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_104">
+		<text>Egzoskelet Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_105">
+		<text>Odelo Monolita sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sak_1022">
+		<text>Za ojačano Odelo Monolita:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0121">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0122">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0123">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0124">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0125">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0126">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0127">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0128">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1033">
+		<text>Za ojačano naučničko odelo Monolita, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0131">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0132">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0133">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0134">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0135">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0136">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0137">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0138">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1044">
+		<text>Za ojačani Egzoskelet Monolita, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0141">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0142">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0143">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0144">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0145">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0146">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0147">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0148">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1055">
+		<text>Za ojačano Odelo Monolita sa gas maskom, mogu ti ponuditi:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru.\n ... Šta želiš?</text>
+	</string>
+	<string id="update_outfit_sak_0151">
+		<text>Daj mi obični, 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_0152">
+		<text>'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_0153">
+		<text>Uređaj 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_0154">
+		<text>Uređaj 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_0155">
+		<text>'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_0156">
+		<text>'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_0157">
+		<text>Uređaj 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_0158">
+		<text>Daj mi bolji uređaj, 'Belu noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1210">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_1220">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_1230">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_1240">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_1250">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_1260">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_1270">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_1280">
+		<text>Uzmi ojačano odelo Monolita. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1310">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_1320">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_1330">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_1340">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_1350">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_1360">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_1370">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_1380">
+		<text>Uzmi ojačano Naučničko odelo Monolita. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1410">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_1420">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_1430">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_1440">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_1450">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_1460">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_1470">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_1480">
+		<text>Uzmi ojačani Egzoskelet Monolita. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_1510">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_1520">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_1530">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_1540">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_1550">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_1560">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_1570">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_1580">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom. Instaliran je PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_2222">
+		<text>Ojačano odelo...</text>
+	</string>
+	<string id="update_outfit_sak_22222">
+		<text>Koje pancir odelo želiš ojačati, obično ili odelo sa instaliranim uređajem za noćno osmatranje?</text>
+	</string>
+	<string id="update_outfit_sak_222221">
+		<text>Obično...</text>
+	</string>
+	<string id="update_outfit_sak_2222211">
+		<text>Odlično... Moje kvote:\n- Odelo Monolita - za artefakt 'Koža' i 10000 Ru;\n- Naučničko odelo Monolita - za artefakt 'Krljušt' i 40000 Ru;\n- Egzoskelet Monolita - za artefakt 'Čeličn Krljušt' i 150000 Ru;\n- Odelo Monolita sa gas maskom - za artefakt 'Koža' i 15000 Ru.\nIzaberi odelo.</text>
+	</string>
+	<string id="update_outfit_sak_202">
+		<text>Odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_203">
+		<text>Naučničko odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_204">
+		<text>Egzoskelet Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_205">
+		<text>Odelo Monolita sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sak_211">
+		<text>Uzmi ojačano odelo Monolita.</text>
+	</string>
+	<string id="update_outfit_sak_212">
+		<text>Uzmi ojačano Naučničko odelo Monolita.</text>
+	</string>
+	<string id="update_outfit_sak_213">
+		<text>Uzmi ojačani Egzoskelet Monolita.</text>
+	</string>
+	<string id="update_outfit_sak_214">
+		<text>Uzmi ojačano Odelo Monolita sa gas maskom.</text>
+	</string>
+	<string id="update_outfit_sak_222222">
+		<text>Sa instaliranim uređajem za noćno osmatranje (PNV)...</text>
+	</string>
+	<string id="update_outfit_sak_2222221">
+		<text>Odlično... Izaberi odelo.</text>
+	</string>
+	<string id="update_outfit_sak_302">
+		<text>Odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_303">
+		<text>Naučničko odelo Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_304">
+		<text>Egzoskelet Monolita...</text>
+	</string>
+	<string id="update_outfit_sak_305">
+		<text>Odelo Monolita sa gas maskom...</text>
+	</string>
+	<string id="update_outfit_sak_3022">
+		<text>Cena ojačanja Odela Monolita, sa instaliranim uređajem za noćno osmatranje (PNV) je 10000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_sak_0321">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0322">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0323">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0324">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0325">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0326">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0327">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0328">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_3033">
+		<text>Cena ojačanja Naučničkog odela Monolita, sa instaliranim uređajem za noćno osmatranje (PNV) je 40000 Ru i artefakt 'Krljušt'...</text>
+	</string>
+	<string id="update_outfit_sak_0331">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0332">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0333">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0334">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0335">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0336">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0337">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0338">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_3044">
+		<text>Cena ojačanja Egzoskeleta Monolita, sa instaliranim uređajem za noćno osmatranje (PNV) je 150000 Ru i artefakt 'Čelična Krljušt'...</text>
+	</string>
+	<string id="update_outfit_sak_0341">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0342">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0343">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0344">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0345">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0346">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0347">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0348">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_3055">
+		<text>Cena ojačanja Odela Monolita sa gas maskom, sa instaliranim uređajem za noćno osmatranje (PNV) je 15000 Ru i artefakt 'Koža'...</text>
+	</string>
+	<string id="update_outfit_sak_0351">
+		<text>Instalirao sam PNV 'Zeleni'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0352">
+		<text>Instalirao sam PNV 'Digital'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0353">
+		<text>Instalirao sam PNV 'Sepia'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0354">
+		<text>Instalirao sam PNV 'Halogen'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0355">
+		<text>Instalirao sam PNV 'Mačije oko'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0356">
+		<text>Instalirao sam PNV 'PSI efekt'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0357">
+		<text>Instalirao sam PNV 'Mesečina'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_0358">
+		<text>Instalirao sam PNV 'Bela noć'... Evo, uzmi...</text>
+	</string>
+	<string id="update_outfit_sak_3210">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_3220">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_3230">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_3240">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_3250">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_3260">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_3270">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_3280">
+		<text>Evo, uzmi ojačano Odelo Monolita, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_3310">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_3320">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_3330">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_3340">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_3350">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_3360">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_3370">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_3380">
+		<text>Evo, uzmi ojačano Naučničko odelo Monolita, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_3410">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_3420">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_3430">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_3440">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_3450">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_3460">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_3470">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_3480">
+		<text>Evo, uzmi ojačani Egzoskelet Monolita, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_3510">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Zeleni'...</text>
+	</string>
+	<string id="update_outfit_sak_3520">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Digital'...</text>
+	</string>
+	<string id="update_outfit_sak_3530">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Sepia'...</text>
+	</string>
+	<string id="update_outfit_sak_3540">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Halogen'...</text>
+	</string>
+	<string id="update_outfit_sak_3550">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Mačije oko'...</text>
+	</string>
+	<string id="update_outfit_sak_3560">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'PSI efekt'...</text>
+	</string>
+	<string id="update_outfit_sak_3570">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Mesečina'...</text>
+	</string>
+	<string id="update_outfit_sak_3580">
+		<text>Evo, uzmi ojačano Odelo Monolita sa gas maskom, sa PNV 'Bela noć'...</text>
+	</string>
+	<string id="update_outfit_sak_999">
+		<text>Trenutno mi nije potrebno ništa...</text>
+	</string>
+	<string id="price_voron_text">
+		<text>Gavranov inventar:\n \n1. TOZ-34, Saiga12k, BM-16 'scattergun', M4A1-Taktikal, Desert Eagle : U zamenu za 2 ruke Kontrolera\n2. Bizon, Kriss Super-V, MP-7a3 : U zamenu za 4 ruke Burera\n3. 12x70 'buck'(x3), 12x70 'slug'(x2), 12x70 'dart'(x1) : U zamenu za 5 repova Pseudo psa\n4. 9x39mm 'PAB9'(x4), 9x39mm 'SP5'(x3), 9x39mm 'AP'(x2) : U zamenu za 10 repova Slepih pasa</text>
+	</string>
+	<string id="price_voron_mosin_text">
+		<!-- not same as 133  !!!!TB3D -->
+		<text>Gavranova specijalna ponuda:\n \nObeleženi... Čuo sam da su Banditi pronašli skrovište u Mračnoj Dolini, koje je puno oružja... Interesantna stvar je u tome što je to oružje sa kraja 19-og i početka 20-og stoljeća... Možeš li verovati?! Bilo je zakopano još pre oba svetska rata... Pre nekoliko dana, par Djutijevaca je došlo nešto pojesti, pa sam im rekao sve o tome!! Imam jednu mušteriju... Čudaka, izvan perimetra, koji posećuje Zonu s vremena na vreme... Kolekcionar svega i svačega... Kad bi se samo mogao dočepati tih retkih lepotica!! Zaradio bih bogatstvo!! Ako pronađeš neko 'interesantno' ili 'unikatno' oružje tokom svog lutanja... Dođi do mene, pa ćemo poslovati... Obećavam ti da će ti se isplatitie!!\n \nVitek Vrana 'Gavran'</text>
+		<!-- TB3D 1.0.9.9.5.0 Artyom -->
+	</string>
+	<string id="price_maks_text">
+		<text>Maksov inventar:\n \n1. Smesa za bacač plamena : 12 flaša votke\n \n2. Kanister koloidalnog gasa : 5 flaša votke\n \n3. : 'Zaštitnik Fridoma' odelo ili 'Djuti' PSZ-9MD pancir : 10 flaša votke\n \n4. 9x39mm 'PAB9'(x3), 9x39mm 'AP'(x2) : 10 flaša votke</text>
+	</string>
+	<string id="enc_price_upgrade">
+		<text>Nadogradnja pancir odela</text>
+	</string>
+	<string id="price_upgrade_sidor_text">
+		<text>Nadogradnja pancir odela kod Sidoroviča:\n \n1. Instalacija uređaja za noćno osmatranje na jakni ili kišnoj kabanici:\n- 'Zeleni' PNV - 10000 Ru;\n \n2. Jačanje pancira:\n- Obična jakna - 5000 Ru;\n- Modifikovana jakna - 10000 Ru;\n- Obična kišna kabanica - 15000 Ru;\n- the Modifikovana kišna kabanica - 20000 Ru.\nBesplatna popravka - instalacija PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_sakharov_text">
+		<text>Nadogradnja pancir odela kod Saharova:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru;\n \n2. Ojačanje pancira:\n- Odelo Naučnika - artefakt 'Koža' i 25000 Ru;\n- Borbeno odelo Nučnika - artefakt 'Krljušt' i 50000 Ru;\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_petrenko_text">
+		<text>Nadogradnja pancir odela kod Petrenka:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru;\n \n2. Ojačanje pancira:\n- Odelo Djutija - artefakt 'Koža' i 15000 Ru;\n- Naučničko odelo Djutija - artefakt 'Krljušt' i 35000 Ru;\n- Egzoskelet Djutija - artefakt 'Čelična Krljušt' i 100000 Ru;\n- Odelo Djutija sa gas maskom - artefakt 'Koža' i 20000 Ru;\n- Jedinstveno odelo Lovca - artefakt 'Koža' i 20000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_zhmot_text">
+		<text>Nadogradnja pancir odela kod Cicije:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Bela noć' - 30,000 Ru ;\n \n2. Ojačanje pancira:\n- Odelo 'Vetar Fridoma' - artefakt 'Koža' i 10,000 Ru;\n- Odelo 'Zaštitnik Fridoma' - artefakt 'Koža' i 15,000 Ru;\n- Naučničko odelo Fridoma - artefakt 'Krljušt' i 35,000 Ru;\n-Egzoskelet Fridoma - artefakt 'Čelična Krljušt' i 75,000 Ru;\n-Jedinstveno odelo 'Vetar Fridoma' - artefakt 'Koža' i 15,000 Ru;\n- Odelo 'Vetar Fridoma' sa gas maskom - artefakt 'Koža' i 15,000 Ru;\n- Odelo 'Zaštitnik Fridoma' sa gas maskom - artefakt 'Koža' i 20,000 Ru;\n- Jedinstveni Egzoskelet Fridoma - artefakt 'Čelična Krljušt' i 70,000 Ru;\n- Jedinstveni Gravikostim - artefakt 'Čelična Krljušt' i 150,000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_barman_text">
+		<text>Nadogradnja pancir odela kod Barmena:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Bela noć' - 30,000 Ru ;\n \n2. Ojačanje pancira:\n-Lako stalkersko odelo 'CSu-1' - artefakt 'Koža' i 10,000 Ru;\n-Stalkersko odelo - artefakt 'Koža' i 15,000 Ru;\n-Stalkersko odelo 'Veteran-1' - artefakt 'Koža' i 15,000 Ru;\n-Stalkersko odelo 'Veteran-2' - artefakt 'Koža' i 15,000 Ru;\n- Stalkersko odelo 'Veteran-3' - artefakt 'Koža' i 15,000 Ru;\n-Naučničko stalkersko odelo - artefakt 'Krljušt' i 30,000 Ru;\n-Poboljšano stalkersko odelo 'Veteran-1' sa gas maskom - artefakt 'Koža' i 25,000 Ru;\n-Poboljšano stalkersko odelo 'Veteran-2' sa gas maskom - artefakt 'Koža' i 25,000 Ru;\n-Poboljšano stalkersko odelo 'Veteran-3' sa gas maskom - artefakt 'Koža' i 25,000 Ru;\n-Poboljšano stalkersko odelo 'CSu-1' sa gas maskom - artefakt 'Koža' i 20,000 Ru ;\n-Poboljšano stalkersko odelo 'CSu-2k' sa gas maskom - artefakt 'Koža' i 25,000 Ru;\n-Duhovo odelo - artefakt 'Koža' i 15,000 Ru;\n-Odelo Turiste - artefakt 'Koža' i 20,000 Ru;\n-Strelokovo odelo - artefakt 'Koža' i 20,000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_dolgovyazyj_text">
+		<text>Nadogradnja pancir odela kod Lankija:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru;\n \n2. Ojačanje pancira:\n- Stalkerski Egzoskelet - artefakt 'Čelična Krljušt' i 70000 Ru;\n- Oštećeni Egzoskelet - artefakt 'Čelična Krljušt' i 5000 Ru;\n- Egzoskelet 'Mk.1' - artefakt 'Čelična Krljušt' i 55000 Ru;\n- Banditski Egzoskelet - artefakt 'Čelična Krljušt' i 90000 Ru;\n- Prototip Egzoskeleta - artefakt 'Čelična Krljušt' i 55000 Ru;\n- the Modifikovani Egzoskelet - artefakt 'Čelična Krljušt' i 75000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_zahar_text">
+		<text>Nadogradnja pancir odela kod Zahara:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru;\n \n2. Ojačanje pancira:\n- Odelo Plaćenika - artefakt 'Koža' i 5000 Ru;\n- Naučničko odelo Plaćenika - artefakt 'Krljušt' i 40000 Ru;\n- Egzoskelet Plaćenika - artefakt 'Čelična Krljušt' i 80000 Ru;\n- Odelo Plaćenika sa gas maskom - artefakt 'Koža' i 10000 Ru;\n- Modifikovano odelo Plaćenika - artefakt 'Koža' i 10000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_prapor_text">
+		<text>Nadogradnja pancir odela kod Kuznjecova:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10,000 Ru;\n- PNV 'Digital' - 25,000 Ru;\n- PNV 'Sepia' - 15,000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30,000 Ru;\n- PNV 'PSI efekt' - 25,000 Ru;\n- PNV 'Mesečina' - 25,000 Ru;\n- PNV 'Bela noć' - 30,000 Ru ;\n \n2. Ojačanje pancira:\n-the Suit of 'Berill-5M' - artefakt 'Koža' i 10,000 Ru;\n- Odelo 'SKAT-9M' - artefakt 'Krljušt' i 100,000 Ru;\n- Odelo 'SKAT-10M'- artefakt 'Čelična Krljušt' i 150,000 Ru;\n-Vojna protupancirna vesta - artefakt 'Koža' i 5,000 Ru;\n- Medicinski 'Beril'- artefakt 'Koža' i 30,000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="price_upgrade_sak_text">
+		<text>Nadogradnja pancir odela kod Sjaka:\n \n1. Instalacija uređaja za noćno osmatranje na odela:\n- PNV 'Zeleni' - 10000 Ru;\n- PNV 'Digital' - 25000 Ru;\n- PNV 'Sepia' - 15000 Ru;\n- PNV 'Halogen' - 20000 Ru;\n- PNV 'Mačije oko' - 30000 Ru;\n- PNV 'PSI efekt' - 25000 Ru;\n- PNV 'Mesečina' - 25000 Ru;\n- PNV 'Bela noć' - 30000 Ru;\n \n2. Ojačanje pancira:\n- Odelo Monolita - artefakt 'Koža' i 10000 Ru;\n- Naučničko odelo Monolita - artefakt 'Krljušt' i 40000 Ru;\n- Egzoskelet Monolita - artefakt 'Čelična Krljušt' i 150000 Ru;\n- Odelo Monolita sa gas maskom - artefakt 'Koža' i 15000 Ru.\nBesplatna popravka - na instalaciju PNV na ojačano odelo.</text>
+	</string>
+	<string id="enc_sms">
+		<text>Tekst poruka</text>
+	</string>
+	<string id="sms_borov_text">
+		<text>Obeleženi, momci su me izvestili da je onaj čmar Pacov otegao papke i da njegov PDA nije otkriven! Dođi do mene, nešto mi je palo na pamet...</text>
+	</string>
+	<string id="sms_pulya_text">
+		<text>Obeleženi, Metak je... Bes je izgubljen... Koliko sam razumeo, nisi mu odneo kutiju sa municijom. U principu možeš ga odneti Voronjinu, ne besplatno naravno, ali se nemoj previše ni cenkati...</text>
+	</string>
+	<string id="sms_lukash_text">
+		<text>Hej, čoveče, ovde Lukaš, vođa grupe Fridom. Moji ljudi su presreli poruku 'Nastavak'... Kutije sa municijom je najbolje da mi prenesemo! Za određenu naknadu!</text>
+	</string>
+	<string id="sms_serega_text">
+		<text>Obeleženi, druže, u velikim smo problemima - katastrofalno smo slabi sa municijom. Metak je došao i rekao nam da si nosio neku municiju za Besa... Ali priča se da je Bes mrtav... Ako je još municija kod tebe, donesi je do nas u Hangar! Dogovorićemo se...</text>
+	</string>
+	<string id="sms_volk_text">
+		<text>Obeleženi, ovde Vuk! Fanatik mi je javio da nema više Tolika... Poginuo je... Pod hitno dođi do mene, moramo razgovarati!</text>
+	</string>
+	<string id="sms_shurup_text">
+		<text>Obeleženi, ovde Šraf! Loše vesti - Maks je mrtav! Krajičkom uva sam načuo za posao u vezi teleportera... Ako još nisi izgubio interes, dođi, nešto ćemo smisliti...</text>
+	</string>
+	<string id="sms_dan_text">
+		<text>Obeleženi, ovde Den! Upravo su mi rekli da je Jurik mrtav... Dođi do mene, moramo razgovarati...</text>
+	</string>
+	<string id="enc_skleroz">
+		<text>Ne zaboravi...</text>
+	</string>
+	<string id="skleroz_hunter_text">
+		<text>Dogovoriti se sa Lovcem o kupovini pištolja za Venu...</text>
+	</string>
+	<string id="skleroz_hunter_dogovor_text">
+		<text>Doneti pijanduri Lovcu dve kutije piva u konzervi... Nadam se da će se udaviti u njemu!</text>
+	</string>
+	<string id="skleroz_jila_text">
+		<text>Moram razgovarati sa Venom da ga izvestim o uslovima koje je ponudio Lovac. Samo, do vraga, gde će Vena nabaviti to pivo...</text>
+	</string>
+	<string id="skleroz_jila_dogovor_text">
+		<text>Moram odneti Veni pištolj od Lovca alkoholičara, koji visi u Baru...</text>
+	</string>
+	<string id="skleroz_lis_exo_text">
+		<text>Moram doneti Liscu egzoskelet sa instaliranim uređajem za noćno osmatranje 'Beli Dan'...</text>
+	</string>
+	<string id="skleroz_bes_outfit_text">
+		<text>Moram doneti Besu ojačano Strelokovo odelo, sa instaliranim uređajem za noćno osmatranje 'Mesečina'...</text>
+	</string>
+	<string id="tex_bandit_krisyk_pomer">
+		<text>Bandit sa nadimkom 'Pacov', je zapisao mnogo tajni na svom PDA, za vreme svog života. Ali nedavno su ga pronašli mrtva... Borov želi nazad njegov PDA i pretpostavlja da Vena za nešto o tome.</text>
+	</string>
+	<string id="tex_tolik_pomer_resiver">
+		<text>Vuk nadgleda Fridom, a za održavanje neprekinute komunikacije, potrebna mu je radio stanica. Ta radio stanica je preko početnika predana Fanatiku, koji je trebao prebaciti dalje. Ali o njemu se ništa ne zna. Moram pronaći Fanatika i isporučiti radio stanicu Vuku.</text>
+	</string>
+	<string id="tex_max_pomer_teleport">
+		<text>Šraf mi je obećao da će prilagoditi teleporter za prelaz iz Vojnih Skladišta u Jantar, ako mu od Saharova donesem 'PlayBoy' magazine.</text>
+	</string>
+	<string id="tex_chemodan_serega">
+		<text>Sivi je čuo sa Besovu smrt, pa moli da donesem municiju namenjenu Besu, naravno uz određenu kompenzaciju.</text>
+	</string>
+	<string id="tex_chemodan_voronin">
+		<text>Metak je čuo za Besovu smrt i traži da odnesem kutiju sa municijom generalu Voronjinu.</text>
+	</string>
+	<string id="tex_chemodan_lukash">
+		<text>Vezisti iz Fridoma su presreli poruku Metka. Lukaš traži da mu donesem municiju namenjenu Besu.</text>
+	</string>
+	<string id="tex_yurik_pomer_pivo">
+		<text>Den, trgovac iz Močvara, traži da mu pronađem neko pivo. Za 10 limenki obećao mi je dati recept za transformaciju artefakta...</text>
+	</string>
+	<string id="tex_yurik_pomer_plan">
+		<text>Den, trgovac iz Močvara, traži da odnesem neku torbu do Gavrana, u Deponiju, a onda pokupim skraćenu sačmaricu 'Benelli M3'... Za taj posao obećao mi je jedinstveni artefakt...</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca -=- 14:57 23.07.2015 -->

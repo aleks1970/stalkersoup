@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+<string_table>
+<string id="st_activate_artefact">
+<text>aktiviraj artefakt</text>
+</string>
+<string id="st_attach_gl_to_rifle">
+<text>dodaj lanser granata na pušku</text>
+</string>
+<string id="st_attach_scope_to_pistol">
+<text>dodaj optiku na pištolj</text>
+</string>
+<string id="st_attach_scope_to_rifle">
+<text>dodaj optiku na pušku</text>
+</string>
+<string id="st_attach_silencer_to_pistol">
+<text>dodaj prigušivač na pištolj</text>
+</string>
+<string id="st_attach_silencer_to_rifle">
+<text>dodaj prigušivač na pušku</text>
+</string>
+<string id="st_base_cost">
+<text>cena</text>
+</string>
+<string id="st_condition">
+<text>stanje</text>
+</string>
+<string id="st_detach_gl">
+<text>skini bacač granata</text>
+</string>
+<string id="st_detach_scope">
+<text>skini optiku</text>
+</string>
+<string id="st_detach_silencer">
+<text>skini prigušivač</text>
+</string>
+<string id="st_dress_outfit">
+<text>obuci odelo</text>
+</string>
+<string id="st_drop">
+<text>baci</text>
+</string>
+<string id="st_drop_all">
+<text>baci sve</text>
+</string>
+<string id="st_eat">
+<text>pojedi</text>
+</string>
+<string id="st_move_on_belt">
+<text>okači na pojas</text>
+</string>
+<string id="st_move_to_bag">
+<text>premesti u ranac</text>
+</string>
+<string id="st_move_to_slot">
+<text>premesti u slot</text>
+</string>
+<string id="st_sell_item">
+<text>prodaj predmet</text>
+</string>
+<string id="st_undress_outfit">
+<text>Skini odelo</text>
+</string>
+<string id="st_unload_magazine">
+<text>isprazni</text>
+</string>
+<string id="st_use">
+<text>upotrebi</text>
+</string>
+<string id="st_weight">
+<text>težina</text>
+</string>
+<string id="ui_inv_accuracy">
+<text>Preciznost</text>
+</string>
+<string id="ui_inv_bag">
+<text>Ranac</text>
+</string>
+<string id="ui_inv_belt">
+<text>Pojas</text>
+</string>
+<string id="ui_inv_cancel">
+<text>Odustani</text>
+</string>
+<string id="ui_inv_clear">
+<text>Obriši</text>
+</string>
+<string id="ui_inv_damage">
+<text>Šteta</text>
+</string>
+<string id="ui_inv_description">
+<text>Opis</text>
+</string>
+<string id="ui_inv_drop">
+<text>Izvadi</text>
+</string>
+<string id="ui_inv_equipment">
+<text>Oprema</text>
+</string>
+<string id="ui_inv_exit">
+<text>Izlaz</text>
+</string>
+<string id="ui_inv_granades_rifle">
+<text>Kupi granate za podcevni bacač (E)</text>
+</string>
+<string id="ui_inv_handling">
+<text>Udobnost</text>
+</string>
+<string id="ui_inv_heavy_weapons">
+<text>Preteško</text>
+</string>
+<string id="ui_inv_items_list">
+<text>Lista predmeta</text>
+</string>
+<string id="ui_inv_money">
+<text>Novac</text>
+</string>
+<string id="ui_inv_ok">
+<text>OK</text>
+</string>
+<string id="ui_inv_outfit_burn_protection">
+<text>Toplotna zaštita</text>
+</string>
+<string id="ui_inv_outfit_chemical_burn_protection">
+<text>Hemijska zaštita</text>
+</string>
+<string id="ui_inv_outfit_explosion_protection">
+<text>Ekspolzija</text>
+</string>
+<string id="ui_inv_outfit_fire_wound_protection">
+<text>Pancir</text>
+</string>
+<string id="ui_inv_outfit_params">
+<text>Parametri</text>
+</string>
+<string id="ui_inv_outfit_radiation_protection">
+<text>Radijacijska zaštita</text>
+</string>
+<string id="ui_inv_outfit_shock_protection">
+<text>Elektro zaštita</text>
+</string>
+<string id="ui_inv_outfit_strike_protection">
+<text>Zaštita od udara</text>
+</string>
+<string id="ui_inv_outfit_telepatic_protection">
+<text>PSI zaštita</text>
+</string>
+<string id="ui_inv_outfit_wound_protection">
+<text>Zaštita od povreda</text>
+</string>
+<string id="ui_inv_outfits">
+<text>Odela</text>
+</string>
+<string id="ui_inv_personal">
+<text>Odelo</text>
+</string>
+<string id="ui_inv_pistols">
+<text>Pištolji</text>
+</string>
+<string id="ui_inv_primary_weapons">
+<text>Primarno oružje</text>
+</string>
+<string id="ui_inv_rate_of_fire">
+<text>Brzina paljbe</text>
+</string>
+<string id="ui_inv_rest">
+<text>Odmor</text>
+</string>
+<string id="ui_inv_rifles">
+<text>Jurišna puška</text>
+</string>
+<string id="ui_inv_shop">
+<text>Kupovina</text>
+</string>
+<string id="ui_inv_shotguns">
+<text>Sačmare</text>
+</string>
+<string id="ui_inv_sniper_rifles">
+<text>Snajperi</text>
+</string>
+<string id="ui_inv_time">
+<text>Vreme</text>
+</string>
+<string id="ui_inv_total_money">
+<text>Ukupno novca</text>
+</string>
+<string id="ui_inv_weight">
+<text>Težina</text>
+</string>
+<string id="ui_inv_ammo_pistol">
+<text>Kupi osnovnu municiju za pištolj (Q)</text>
+</string>
+<string id="ui_inv_ammo_rifle">
+<text>Kupi municiju za pušku (W)</text>
+</string>
+<string id="ui_inv_granadelauncher_rifle">
+<text>Kupi podcevni bacač granata (D)</text>
+</string>
+<string id="ui_inv_granades">
+<text>Granate</text>
+</string>
+<string id="ui_inv_scope_rifle">
+<text>Kupi optički nišan za pušku (S)</text>
+</string>
+<string id="ui_inv_silencer_pistol">
+<text>Kupi prigušivač za pištolj (A)</text>
+</string>
+<string id="ui_inv_silencer_rifle">
+<text>Kupi prigušivač za pušku (F)</text>
+</string>
+<string id="ui_inv_last_buy">
+<text>Kupi prethodni set</text>
+</string>
+<string id="ui_inv_sell_items(X)">
+<text>Prodaj sve predmete iz ranca (X)</text>
+</string>
+<string id="ui_st_preset_stored_to">
+<text>Kupljeni set sačuvan kao</text>
+</string>
+<string id="ui_inv_preset1(F1)">
+<text>Podešavanje 1 (F1)</text>
+</string>
+<string id="ui_inv_preset2(F2)">
+<text>Podešavanje 2 (F2)</text>
+</string>
+<string id="ui_inv_preset3(F3)">
+<text>Podešavanje 3 (F3)</text>
+</string>
+<string id="ui_inv_last_buy(F4)">
+<text>Poslednji predmet (F4)</text>
+</string>
+<string id="ui_inv_default(F5)">
+<text>Default stavka (F5)</text>
+</string>
+<string id="ui_st_preset_def">
+<text>Default stavka</text>
+</string>
+<string id="ui_inv_reset_items(C)">
+<text>Resetuj stavku (C)</text>
+</string>
+<string id="ui_inv_cant_buy_item">
+<text>Ne možeš kupiti predmet</text>
+</string>
+<string id="ui_inv_rank_restr">
+<text>Rang ograničenja</text>
+</string>
+<string id="ui_inv_not_enought_money">
+<text>Nedovoljno novca</text>
+</string>
+<string id="ui_inv_count_restr">
+<text>Iznos ograničenja</text>
+</string>
+<string id="ui_inv_has">
+<text>je sad</text>
+</string>
+<string id="ui_inv_need">
+<text>potreban</text>
+</string>
+<string id="ui_inv_you_already_have">
+<text>Već imate</text>
+</string>
+<string id="ui_st_err_gs_not_available">
+<text>Online usluge za S.T.A.L.K.E.R. nisu dostupne.</text>
+</string>
+<string id="ui_st_err_sb_master_server_conn_fail">
+<text>Nije moguće povezivanje sa glavnim serverom</text>
+</string>
+</string_table>
+	<!-- Modified by Coolkingeye -=- 15:13 24.06.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:09 -sadd -->

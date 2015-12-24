@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+	<string id="descr_bar_crazy_veterans_quest">
+		<text>Barmen: "Djuti mora da zadrži svoju reputaciju. Eto zašto žele da se ova stvar brzo završi. Sve što trebaš da uradiš je da rokneš vođu pod nazivom Srećko i doneseš njegov PDA kao dokaz."</text>
+	</string>
+	<string id="descr_bar_dolg_community_quest">
+		<text>Da bi se pridružio Djutiju, trebaće ti odobrenje jednog od najpoštovanijih boraca grupe kao i dokaz lideru Djutija da si vredan mesta u njihovim redovima.</text>
+	</string>
+	<string id="descr_bar_dolg_svoboda_ambush_quest">
+		<text>Barmen: "Tvoj zadatak je da ubiješ Tiranina, vođu Plaćenika. Njegova ekipa se probila do Divlje Teritorije i uspostavila bazu na gradilištu. Budi oprezan, nekoliko njihovih vojnika je pripremilo zasede na putu do gradilišta. Donesi mi Tiraninov PDA i nagrada je tvoja."</text>
+	</string>
+	<string id="descr_bar_dolg_svoboda_leader_kill_quest">
+		<text>General Voronjin: "Rat sa Fridomom se bliži kraju, Obeleženi. Odigrao si važnu ulogu u borbi za pravdu! Sad želim da završim ovaj rat. Vođa Fridoma mora biti uklonjen."</text>
+	</string>
+	<string id="descr_bar_dolg_test_quest">
+		<text>Kapetan Ivancov: "... pre nego sto dođemo do ikakvih zaključka, prođi lagan test. Trebaš da pokupiš koverat iz napuštene zgrade na suprotnoj strani. Nije teško, samo uđi unutra, uzmi koverat i donesi ga meni. Kajmak i katran, u redu? Kad dobijem koverat, mi ćemo da odlučimo da li si dovoljno dobar da stupiš u Djuti ili ne."</text>
+	</string>
+	<string id="descr_bar_hunter_rifle">
+		<text>Lovac: "Vrati mi moju pušku. Izgubio sam je kod mesta gde su nastanjene krvopije. Okačiću ti koordinate. I budi pažljiv, ta stoka se ne šali."</text>
+	</string>
+	<string id="descr_bar_kill_professor">
+		<text>Vukodlak: "Imamo mali lov u toku. Saterali smo naučnike tu iza helikoptera. Moji momci osipaju paljbu na njih dole s vremena na vreme da bi bili sigurni da neće da pobegnu. Pridruži se, uskoro ćemo da uskočimo i da ih dokrajčimo. Ako nam pomogneš, ja ću ti dati naučno odelo... pronšali smo ga u helikopteru koji smo oborili. Tvoja meta je profesor Kruglov. Ubij ga ili će da pobegne tokom pucnjave, znam ja takve. Ako ga ubiješ, odelo je tvoje, u suprotnom, ne dobijaš odelo."</text>
+	</string>
+	<string id="descr_bar_radar_deactivate">
+		<text>Barmen: "Ti imaš zaštitni prototip da obezbediš sebe protiv Spaljivača Mozgova, a ja znam koordinate bunkera. Ne zaboravi da te prototip ne moše zaštiti od Emisija večno, zato moraš da dođeš do bunkera ispod antene i isključiš Spaljivača. Sve što trebaš da uradiš jeste da se dokopaš antena i isključiš ih."</text>
+	</string>
+	<string id="descr_bar_resque_information">
+		<text>Kruglov: "Stalkeru, pomozi! Napadnuti smo od strane Plaćenika i polovina našeg tima je mrtvo. Pomozi nam i nećeš zažaliti."\n \n "...budi oprezan, tu je otprilike njih petnaest, ali ne možemo biti sigurni."</text>
+	</string>
+	<string id="descr_bar_resque_information_2">
+		<text>Kruglov: "Mi smo se vraćali iz Jantara kad su nas Plaćenici oborili. Ljudi kažu da su im potrebne informacije, ali ja znam - da će nas sve pobiti. Odvedi me do Jantara i ja ću ti reći šta znam o tvom Spaljivaču Mozgova, a Barmen će ti platiti dobro za to. Ja sam loš ratnik, ali znam put, pa ću nas voditi a ti ćeš nas štititi tokom puta."</text>
+	</string>
+	<string id="descr_bar_x16_documents">
+		<text>Barmen: "Trebaš da se probiješ do naučnika i saznaš gde se nalazi Laboratorija X16 da bi našao nedostajuća dokumenta."</text>
+	</string>
+	<string id="journal_after_agroprom_documents">
+		<text>Pogledao sam dokumenta pronađena u Institutu. Čini se da je Institut korišćen kao podrška za ne zvaničnu laboratoriju pod nazivom X18 u godinama pre nesreće. U ovoj laboratoriji su se odvijali brojni neobični eksperimenti. Njena lokacija se ne pominje jasno u dokumentima a čini se da ni Vojska ne zna ništa o tome. Dobro, dobro... Zaplet se odvija... Ali možda je ovo početna tačka koja je potrebna trgovcima. Sada trebam da putujem dalje na Sever ka trgovcu poznatom kao Barmen.</text>
+	</string>
+	<string id="journal_bar_darklab_documents">
+		<text>Do đavola... Laboratorija X18 nije ni malo zabavna... Kao ni njeni trenutni stanovnici... Nisam ni pomišljao o stvarima kakve tamo postoje. Našao sam neka dokumenta... Nisam razumeo baš o čemu se tačno piše tu osim da se tu sadrze tehničke specifikacije za neke komponente za Kajmanov odasiljač. Interesantno je to da su su delovi namenjeni za drugu laboratoriju sa kodnim nazivom X16 i da je i ona verovatno skrivena.</text>
+	</string>
+	<string id="journal_bar_x16_documents">
+		<text>Hmm... Trgovci su iskopali mnogo informacija o tim laboratorijama. Barmen nije bio iznenađen kad je saznao za odašiljače i X16. On je sad ubeđen da je taj Spaljivač Mozgova napravio čovek. On misli da je Laboratorija X16 blizu naučnog kampa kod jezera Jantar. Zanimljivo je to da oni proučavaju Emisije koje liče na učinke Spaljivača. Pa sad ja moram da posetim društvo naučnika Zone.</text>
+	</string>
+	<string id="journal_before_darklab_documents">
+		<text>Sastao sam se sa Barmenom. Gledali smo dokumente iz Instituta. On misli da je ova X18 u, takozvanoj, Mračnoj Dolini i zamolio me je da odem tamo da potražim dokumenta i informacije. On kaže da je poslao skaute Djutija da uđu u podzemne tunele ali oni su nestali. Barmen misli da su ih zarobili Banditi koji imaju bazu u blizini. Ako je to istina, sve što su ti momci Djutija našli biće u rukama Borova, vođe Bandita. Barmen mi je rekao da se pazim... Očigledno mi nije rekao sve o podzemnim prostorijama. O da, vreme je da prionem na posao: pre svega trebam da posetim Borova i ako ,,razgovor" prođe kako valja, istražiću podzemlje.</text>
+	</string>
+	<string id="journal_before_radar_task">
+		<text>Pa, spreman sam da idem do Spaljivača. Saznao sam od Ludog intervale kada se stepen Emisija smanjuje. On mi je također rekao za sigurna mesta gde mogu da dočekam te intervale. Moja psiho-zaštita neće raditi zauvek. Trebaću da nađem put do podzemnog bunkera laboratorije X19. Unutra bi trebao da nađem kontrole od antene Spaljivača Mozgova.</text>
+	</string>
+	<string id="st_gordon_diary">
+		<text>Gordonov PDA</text>
+	</string>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="mp_art_destroyed">
+		<text>Artefakt je uništen</text>
+	</string>
+	<string id="mp_art_spowned">
+		<text>Artefakt je formiran, donesi ga u svoju bazu da povećaš rezultat.</text>
+	</string>
+	<string id="mp_artefacts">
+		<text>Artefakti</text>
+	</string>
+	<string id="mp_artefacts_upcase">
+		<text>Artefakti</text>
+	</string>
+	<string id="mp_auto_select">
+		<text>Automatsko</text>
+	</string>
+	<string id="mp_back">
+		<text>Nazad</text>
+	</string>
+	<string id="mp_ban">
+		<text>4.udaljen sa servera</text>
+	</string>
+	<string id="mp_by_anomaly">
+		<text>Anomalija</text>
+	</string>
+	<string id="mp_cancel">
+		<text>Odustani</text>
+	</string>
+	<string id="mp_change_map">
+		<text>5. Promeni mapu</text>
+	</string>
+	<string id="mp_change_weather">
+		<text>6. Promeni vreme</text>
+	</string>
+	<string id="mp_chat">
+		<text>Ćaskanje</text>
+	</string>
+	<string id="mp_connected">
+		<text>Pridružio se</text>
+	</string>
+	<string id="mp_deaths">
+		<text>Smrt</text>
+	</string>
+	<string id="mp_description">
+		<text>Opis</text>
+	</string>
+	<string id="mp_disconnected">
+		<text>Prekinut</text>
+	</string>
+	<string id="mp_enter_text">
+		<text>Unesi poruku za glasanje</text>
+	</string>
+	<string id="mp_entered_game">
+		<text>Ušao u igru</text>
+	</string>
+	<string id="mp_first_eye">
+		<text>(Pogled u prvom licu)</text>
+	</string>
+	<string id="mp_frags">
+		<text>Ubistva</text>
+	</string>
+	<string id="mp_frags_upcase">
+		<text>Ubistva</text>
+	</string>
+	<string id="mp_free_fly">
+		<text>(Slobodno kretanje)</text>
+	</string>
+	<string id="mp_free_look">
+		<text>(Pogled u trećem licu)</text>
+	</string>
+	<string id="mp_from">
+		<text>sa</text>
+	</string>
+	<string id="mp_go">
+		<text>Napred!</text>
+	</string>
+	<string id="mp_has_drop_art">
+		<text>%s je izgubio artefakt</text>
+	</string>
+	<string id="mp_has_tak_art">
+		<text>%s je uzeo artefakt</text>
+	</string>
+	<string id="mp_headhuntrs">
+		<text>Plaćenici</text>
+	</string>
+	<string id="mp_is_now">
+		<text>sada</text>
+	</string>
+	<string id="mp_joined">
+		<text>Pridružio se timu</text>
+	</string>
+	<string id="mp_kick">
+		<text>Izbaci</text>
+	</string>
+	<string id="mp_look_at">
+		<text>(Slobodan pogled)</text>
+	</string>
+	<string id="mp_map_desc">
+		<text>Opis mape</text>
+	</string>
+	<string id="mp_match_started">
+		<text>Meč je počeo!</text>
+	</string>
+	<string id="mp_modes">
+		<text>Profili</text>
+	</string>
+	<string id="mp_name">
+		<text>Ime</text>
+	</string>
+	<string id="mp_next">
+		<text>Sledeći</text>
+	</string>
+	<string id="mp_no_voted">
+		<text>nije glasao</text>
+	</string>
+	<string id="mp_ping">
+		<text>Ping</text>
+	</string>
+	<string id="mp_player_wins">
+		<text>%s je pobedio!</text>
+	</string>
+	<string id="mp_players">
+		<text>Igrač</text>
+	</string>
+	<string id="mp_press_fire2spectator">
+		<text>Prtisni "pucaj" da uključiš mod posmatrača</text>
+	</string>
+	<string id="mp_press_jump2pay_spaw">
+		<text>Pritisni "Skoči" da bi kupi trenutni Respawn</text>
+	</string>
+	<string id="mp_press_jump2select_skin">
+		<text>Pritisni "Skoči" da izabereš kostim</text>
+	</string>
+	<string id="mp_press_jump2select_team">
+		<text>Pritisni "Skoči' da izabereš tim</text>
+	</string>
+	<string id="mp_press_jump2spawn">
+		<text>Pritisni "Skoči" da se pojaviš</text>
+	</string>
+	<string id="mp_press_jump2start">
+		<text>Pritisni "Skoči" da počneš</text>
+	</string>
+	<string id="mp_press_to_buy">
+		<text>($$ACTION_BUY_MENU$$) da uđeš u meni za kupovinu</text>
+	</string>
+	<string id="mp_press_yes2pay">
+		<text>Imaš %d$. Možeš kupiti instant oživljavanje za %d$. Klikni "Da" da uradiš to.</text>
+	</string>
+	<string id="mp_ready">
+		<text>Budi spreman</text>
+	</string>
+	<string id="mp_restart">
+		<text>1. Ponovni start</text>
+	</string>
+	<string id="mp_restart_fast">
+		<text>Brzi pnovni start</text>
+	</string>
+	<string id="mp_scores">
+		<text>Rezultati</text>
+	</string>
+	<string id="mp_select_ban">
+		<text>Izaberi igrača da započeneš glasanje da se udalji sa servera</text>
+	</string>
+	<string id="mp_select_category">
+		<text>Izaberi kategoriju glasanja</text>
+	</string>
+	<string id="mp_select_kick">
+		<text>Izaberi igrača da započneš glasanje za izbacivanje</text>
+	</string>
+	<string id="mp_select_kick_player">
+		<text>Izaberi igrača da započneš glasanje za izbacivanje</text>
+	</string>
+	<string id="mp_select_map">
+		<text>Izaberi mapu za glasanje</text>
+	</string>
+	<string id="mp_skin_selection">
+		<text>Izbor kostima</text>
+	</string>
+	<string id="mp_spectator">
+		<text>Gledalac</text>
+	</string>
+	<string id="mp_spectators">
+		<text>POSMATRAČI</text>
+	</string>
+	<string id="mp_status">
+		<text>Status</text>
+	</string>
+	<string id="mp_switched_to">
+		<text>Pridružio se</text>
+	</string>
+	<string id="mp_team_free_stalkers">
+		<text>«Sloboda»</text>
+	</string>
+	<string id="mp_team_selection">
+		<text>Izbor</text>
+	</string>
+	<string id="mp_team_wins">
+		<text>POBEDNICI: %s!</text>
+	</string>
+	<string id="mp_text">
+		<text>Tekst</text>
+	</string>
+	<string id="mp_time2respawn">
+		<text>Vreme do Respawn-a</text>
+	</string>
+	<string id="mp_time2start">
+		<text>Vreme do početka:</text>
+	</string>
+	<string id="mp_timeleft">
+		<text>Preostalo vreme: %d:%d; Saglasan %.2f</text>
+	</string>
+	<string id="mp_vote_no">
+		<text>Ne</text>
+	</string>
+	<string id="mp_vote_yes">
+		<text>Da</text>
+	</string>
+	<string id="mp_voted">
+		<text>Glasao</text>
+	</string>
+	<string id="mp_voted_no">
+		<text>protiv</text>
+	</string>
+	<string id="mp_voted_yes">
+		<text>za</text>
+	</string>
+	<string id="mp_voting_broken">
+		<text>Glasanje puklo zbog servera!</text>
+	</string>
+	<string id="mp_voting_started">
+		<text>'%s' glasanje je započeo %s.</text>
+	</string>
+	<string id="mp_voting_started_msg">
+		<text>Glasanje u toku!</text>
+	</string>
+	<string id="mp_weather_clear">
+		<text>Vedro</text>
+	</string>
+	<string id="mp_weather_cloudy">
+		<text>Oblačno</text>
+	</string>
+	<string id="mp_weather_night">
+		<text>Noć</text>
+	</string>
+	<string id="mp_weather_rain">
+		<text>Kišno</text>
+	</string>
+	<string id="mp_with_backstab">
+		<text>Ubijen s leđa!!!</text>
+	</string>
+	<string id="mp_with_headshot">
+		<text>Pogodak u glavu!!!</text>
+	</string>
+	<string id="mp_your_rank">
+		<text>Tvoj rang je sada</text>
+	</string>
+	<string id="ui_st_description">
+		<text>Opis</text>
+	</string>
+	<string id="ui_st_team1_name">
+		<text>Fridom</text>
+	</string>
+	<string id="ui_st_team2_name">
+		<text>Plaćenici</text>
+	</string>
+	<string id="af_neutral">
+		<text>Artefakt</text>
+	</string>
+	<string id="self">
+		<text>To si ti</text>
+	</string>
+	<string id="friend">
+		<text>Saveznik</text>
+	</string>
+	<string id="team_base_1">
+		<text>Baza Fridoma</text>
+	</string>
+	<string id="team_base_2">
+		<text>Kamp Plaćenika</text>
+	</string>
+	<string id="mp_si_no">
+		<text>Ne</text>
+	</string>
+	<string id="mp_si_yes">
+		<text>Da</text>
+	</string>
+	<string id="mp_si_min">
+		<text>min</text>
+	</string>
+	<string id="mp_si_sec">
+		<text>sek</text>
+	</string>
+	<string id="mp_si_maprotation">
+		<text>Rotacija Mape</text>
+	</string>
+	<string id="mp_si_voting">
+		<text>Glasanje</text>
+	</string>
+	<string id="mp_si_enabled">
+		<text>Omogućeno</text>
+	</string>
+	<string id="mp_si_disabled">
+		<text>Onemogućeno</text>
+	</string>
+	<string id="mp_si_spectatormodes">
+		<text>Posmatrački Modovi:</text>
+	</string>
+	<string id="mp_si_servername">
+		<text>Ime Servera:</text>
+	</string>
+	<string id="mp_si_version">
+		<text>Verzija:</text>
+	</string>
+	<string id="mp_si_free_fly">
+		<text>- Slobodan let</text>
+	</string>
+	<string id="mp_si_first_eye">
+		<text>- Prvo lice</text>
+	</string>
+	<string id="mp_si_look_at">
+		<text>- Treće lice</text>
+	</string>
+	<string id="mp_si_free_look">
+		<text>- Slobodan pogled</text>
+	</string>
+	<string id="mp_si_team_only">
+		<text>- Tim Samo</text>
+	</string>
+	<string id="mp_si_fraglimit">
+		<text>Limit Bombi</text>
+	</string>
+	<string id="mp_si_time_limit">
+		<text>Vremenski Limit</text>
+	</string>
+	<string id="mp_si_invinsibility_indicators">
+		<text>- Indicatori</text>
+	</string>
+	<string id="mp_si_invinsibility_time">
+		<text>- Vreme</text>
+	</string>
+	<string id="mp_si_invinsibility">
+		<text>Nevidljivost:</text>
+	</string>
+	<string id="mp_si_anomalies">
+		<text>Anomalije</text>
+	</string>
+	<string id="mp_si_anomalies_period">
+		<text>Trajanje Anomalije</text>
+	</string>
+	<string id="mp_si_infinite">
+		<text>Beskonačno</text>
+	</string>
+	<string id="mp_si_forcerespawn">
+		<text>Forsirani Respawn</text>
+	</string>
+	<string id="mp_si_warmuptime">
+		<text>Zagrejavanje</text>
+	</string>
+	<string id="mp_si_autoteam_balance">
+		<text>Automatski Balans Tima</text>
+	</string>
+	<string id="mp_si_autoteam_swap">
+		<text>Automatska zamena Tima</text>
+	</string>
+	<string id="mp_si_friendly_indicators">
+		<text>Indikatori Prijatelja</text>
+	</string>
+	<string id="mp_si_friendly_names">
+		<text>FImena prijatelja</text>
+	</string>
+	<string id="mp_si_friendly_fire">
+		<text>Prijateljska vatra</text>
+	</string>
+	<string id="mp_si_artefacts">
+		<text>Artefakti:</text>
+	</string>
+	<string id="mp_si_afcount">
+		<text>-  Broj</text>
+	</string>
+	<string id="mp_si_afstaytime">
+		<text>-  Vreme postojanja</text>
+	</string>
+	<string id="mp_si_afrespawntime">
+		<text>-  Respawn vreme</text>
+	</string>
+	<string id="mp_si_players_respawn">
+		<text>Respawn</text>
+	</string>
+	<string id="mp_si_artefact_captured">
+		<text>Artefakt uhvaćen</text>
+	</string>
+	<string id="mp_si_any_time">
+		<text>Bilo koje vreme</text>
+	</string>
+	<string id="mp_si_shielded_bases">
+		<text>Zaštićene baze</text>
+	</string>
+	<string id="mp_si_return_players">
+		<text>Igrači su se vratili u baze</text>
+	</string>
+	<string id="mp_si_afbearer_cant_sprint">
+		<text>Nema sprinta sa artefaktom</text>
+	</string>
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 22:53 10.11.2014 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:55 -sadd -->

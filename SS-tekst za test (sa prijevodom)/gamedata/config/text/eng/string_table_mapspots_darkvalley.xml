@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+	<string id="bar_darklab_documents_1_hint">
+		<text>Borov</text>
+	</string>
+	<string id="bar_darklab_documents_2_hint">
+		<text>Tunel</text>
+	</string>
+	<string id="bar_darklab_documents_3_hint">
+		<text>Ulaz u Laboratoriju</text>
+	</string>
+	<string id="bar_darklab_documents_4_hint">
+		<text>Cev</text>
+	</string>
+	<string id="bar_darklab_documents2_1_hint">
+		<text>Dokumenti iz Laboratorije</text>
+	</string>
+	<string id="bar_darklab_documents2_2_hint">
+		<text>Barmen</text>
+	</string>
+	<string id="val_captive_help_1_hint">
+		<text>Metak</text>
+	</string>
+	<string id="val_captive_help_2_hint">
+		<text>Zarobljenik</text>
+	</string>
+	<string id="val_come_to_trader_1_hint">
+		<text>Južna kapija</text>
+	</string>
+	<string id="val_come_to_trader_2_hint">
+		<text>Trgovac</text>
+	</string>
+	<string id="val_prisoner_help_main_hint">
+		<text>Zarobljeni član Djutija</text>
+	</string>
+	<string id="val_sos_help_main_hint">
+		<text>Ranjeni stalker</text>
+	</string>
+	<string id="val_zone_bandits_hint">
+		<text>Banditski kamp</text>
+	</string>
+	<string id="val_zone_farm_hint">
+		<text>Farma.\nKupi Gaus.</text>
+	</string>
+	<string id="val_zone_monolith_hint">
+		<text>Stara fabrika</text>
+	</string>
+	<string id="val_zone_pipe_hint">
+		<text>Odvodna cev</text>
+	</string>
+	<string id="val_zone_robbers_hint">
+		<text>Napuštena farma svinja</text>
+	</string>
+	<string id="val_zone_south_gate_hint">
+		<text>Kapija</text>
+	</string>
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:32 -sadd -->

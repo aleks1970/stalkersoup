@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.4.2 va-_sos_pda, cannot use \n in sms messages -->
+	<string id="val_give_escort_task_pda">
+		<text>Pomozi u spašavanju prijatelja.</text>
+	</string>
+	<string id="val_monolith_trader_pda1">
+		<text>Bazu Bandita napala je Vojska. Ulaz na Deponiju je blokiran, ali nešto južnije postoji stara cesta. Možeš pokušati tuda, ali budi jako oprezan. Sretno.</text>
+	</string>
+	<string id="val_sos_pda">
+		<text>Pomozite, umirem...   zgrada kod benzinska pumpe, na spratu...    požurite molim!</text>
+	</string>
+	<!-- Preveo i prilagodio Coolkingeye -=- 14:05 09.02.2015 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:23 -sadd -->

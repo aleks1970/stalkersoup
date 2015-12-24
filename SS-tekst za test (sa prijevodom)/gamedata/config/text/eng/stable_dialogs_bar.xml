@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.1 minor edits, arena stories, bar_bar_osvedomitel_story, reduced several duplicate dialogs,  bar_dolg_ivancov_start_5 and _41 moved from sak_strings, _61 added, line 1537 Russian char. aleks1970, bar_bar_barmen_start_151 -->
+<string_table>
+	<string id="bar_arena_man_job_0">
+		<text>Nastavi...</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>Pa, tvoja prva borba? Tvoj protivnik je sirovina baš kao i ti. On je tu zbog dugova i ima samo dve opcije: da se pojavi i bori ili da sedne u prvu anomaliju. On će da se bori kao saterana životinja u ugao. Oprema za danas... Ček' da smislim... Ok! Što vas dvojica ne bi koristili PMm-ove...dva okvira obojici bi trebalo da bude dovoljno. Ili mu ispraši tur ili ćemo te baciti psima - i nije neki izbor. Idi sad.</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>Nisam još spreman.</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>Tvoja prethodna borba i nije nešto bila. I dalje si ista sirovina kao što si i bio i niko normalan se neće kladiti na tebe. Ako želiš da zaradiš pravu lovu moraćeš da posetiš Arenu još koji put. Tvoj novi protivnik se također probio dalje, ali njegova borba je bila daleko teža nego tvoja. Ne sviđa mi se, da budem iskren - on ubija isuviše brzo, a gomila to ne voli. Zato, idi i pokaži nam šta umeš! Ulozi će se povećati posle ove borbe - sve što trebaš da uradiš je da preživiš. Idi sada!</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>Nisam još spreman.</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>Lepo, lepo... Nisi tolika picajzla kao što se prvobitno činilo. Sad je vreme da se oprobaš u pravoj borbi. Sad ideš protiv dvojice. Prvi se zove Šveđa, a ne sećam se imena drugog lika. Upareni su namerno zato što ne mirišu jedan drugog pa zato ne brini o njihovom timskom radu - pre će da roknu jedan drugog. Danas je dan za puške pa im ne dozvoli da ti priđu ili ćemo morati da te skupljamo lopatom. Šanse su 10:1, pa ako pobediš odnećeš finu svotu novca. 'Ajde sad!!</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>Nisam još spreman.</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>Pa, sad već mogu sa sigurnošću da kažem da si borac, i to pravi. Sad je vreme za timsku borbu. Treba da se boriš sa dvojicom početnika - dva brata - rame uz rame. Oni se nisu još borili ali ipak, oni su braća. Zato sam ih stavio u timsku borbu. Ne bih očekivao neku posebnu pomoć od njih da sam na tvom mestu. Udarate na iskusan tim, oni su kandidati za ovogodišnje finale. Mnogo opasni. Koriste različita oružja, ali jedan ima automatsku pumparicu - pazi se od njega. Srećno, druže... Trebaće ti.</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>Ne još.</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>Dobio si posebnu borbu za danas. Čak je i Vojska čula za tebe! Nemoj da si iznenađen, i oni se ovde bore - čak je i general u publici. Ti momci su iz Spetsnaza ili iz OMON-a. Dobro su opremljeni a oklop im je jak kao što si i očekivao. Ne brini, neću više da te ostavljam na kiši, nikako. Dobićeš prsluk koji koristi Fridom - lak je pa te neće usporavati. Idi sad, pokaži im da stalkeri nisu kukavice. Srećno!</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>Nisam još spreman.</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>Vreme je da se dokažeš. Djuti je zarobio grupu Bandita koji su pravili probleme u Rostoku. Djuti ih zaskočio tokom noći pa su većina živi zarobljeni. I onako bi bili pogubljeni pa sam ubedio Djuti da im da šansu. Ako iko od njih preživi, ići će iz Zone u konzervi, što je bolje od truljenja ovde. Nisu baš najbolje naoružani - samo nekoliko pištolja i skraćenih sačmarica - ali njih je šestorica tamo i zato se dobro pripazi. Idi sad!!</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>Ne sada.</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>Pa, skoro si u finalu. Sad ćeš da se boriš sa pravim stalkerom. On je sam ali ima F2000 i nosi egzoskelet. Zakači li te makar jednim rafalom, pečen si kao tost. Biće iznenađenje za koje ne mogu da ti kažem. Moj savet: budi spreman, biće teško. Pobednik ide u finale. Borba je do smrti. Kreći!</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>Nisam još spreman.</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>Čestitam, u finalu si! Još samo jedna do kraja i ova je također do smrti, svako za sebe. U Areni će biti još 4 stalkera: svi pravi profesionalci sa G36s, ali ovo je fer borba - dobićeš tačno šta i oni imaju. Jedino za tebe nema medkita i zavoja u borbi do smrti. Spreman? Idi, dokaži da si najbolji, IDI!</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>Spreman sam.</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>Nisam još spreman.</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>Ej! Imam novu borbu za tebe.</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>>Idi i popij nešto. Arena nije još spremna.</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>Već si postao profesionalac!!!</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>Pobedio si! Izvoli nagradu.</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>Nemaš dovoljno iskustva za ovu borbu.</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_0">
+		<text>Evo fleš-memorije koju mi je profesor Kruglov dao.</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_21">
+		<text>Dobar dečko. Mislim da će Djuti biti veoma zahvalna za ovu informaciju. Evo tvoje nagrade.</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_22">
+		<text>Odličan posao, mislim da će general Voronjin biti duboko zahvalan za ovu informaciju.</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_31">
+		<text>Vidi, vidi. Informacija? Lično od profesora Kruglova? Jel' me zezaš ili šta? "Ja sam profesor Kruglov i obrisaću sve izveštaje o istraživanju za dobrobit nauke i čovečanstva..." I ovo je informacija koju si trebao da dobiješ?! Pa, sranje... Siguran sam da će Djuti biti stvarno "srećan" sa ovom informacijom.</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_0">
+		<text>Odradio sam posao. Evo Tiraninovog PDA.</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_1">
+		<text>Vau, Obeleženi. Sjajan posao! Šta reći? Usrećio si me, čoveče! Nisam bio siguran da ćeš uspeti, da budem iskren... Ali ti si živ, a oni nisu!!</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_2">
+		<text>Šta je sa mojom nagradom?</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_3">
+		<text>Izvoli. Tvoja nagrada kao što je i obećano.</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_0">
+		<text>Evo Srećkovog PDA. Uradio sam šta si tražio.</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_1">
+		<text>Vau, Obeleženi. Sjajan posao! Šta reći? Usrećio si me, čoveče! Nisam bio siguran da ćeš uspeti, da budem iskren... Ali ti si živ, a oni nisu!</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_11">
+		<text>Šta je sa nagradom?</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_111">
+		<text>Ti heroj, čoveče, pravi heroj. Izvoli, ovo će ti se svideti.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_0">
+		<text>Imaš li neki poseban posao?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_111">
+		<text>Ne, nemam za danas.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_21">
+		<text>Dosta priče. Šta trebam da uradim?</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_221">
+		<text>Ne, nemam za danas.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_2311">
+		<text>Imam ozbiljnu misiju. Grupa veterana ubica se pojavila u Divljoj Teritoriji. Neki ljudi iz Djutija su došli do mene i pitali me da se pozabavim tim veteranima. Djuti ima čvrst dokaz da su oni odgovorni za smrt solo stalkera. Problem je u tome što ti Veterani i Djuti imaju nekakav stari dogovor i Djuti ne može to da prekrši, ali ti momci zaista iniciraju to. U stvari, Djuti želi da ih nema, fino i tiho. Neće biti lako ali posao je vredan truda.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_23111">
+		<text>Još nešto? Deluje čudno to što ih Djuti pušta da se tako lako šetaju.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_231111">
+		<text>Djuti ceni svoju reputaciju, što je i razlog tome da urade to što tiše. Sve što trebaš da uradiš jeste da ubiješ njihovog vođu Srećka i da mi doneseš njegov PDA kao dokaz.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_2311111">
+		<text>Uradiću to. Nadam se da se neću žaliti zbog ovakve odluke.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_23111111">
+		<text>Odluka je dobra, druže. Nema razloga zašto bi žalio.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_2311112">
+		<text>Ne, nisam ja za to.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_23111121">
+		<text>To je do tebe, ali ne zaboravi da ti je ovo sjajna prilika da stekneš poverenje Djutija.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_24">
+		<text>Pređi na stvar. Šta trebam da uradim?</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_241">
+		<text>Tvoja misija je da ubiješ Tiranina, vođu Plaćenika. Njegova banda je stigla čak i u Divlju Teritoriju i napravili su kamp kod gradilišta. Budi oprezan. Neki njihovi vojnici su postavili zasedu na prilazu kod gradilišta. Donesi mi Tiraninov PDA i nagrada je tvoja.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2411">
+		<text>Rešiću to. Nadam se da neću zažaliti.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24111">
+		<text>Odluka je dobra, druže. Nema razloga zašto bi žalio.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2412">
+		<text>Ne, ne mogu sad.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24121">
+		<text>Kako želiš.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_251">
+		<text>Ne, nisam dobio ništa za danas.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_261">		== duplicates ==
+		<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_2611">
+		<text>I'll do it. I hope I don't regret taking this on though.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_26111">
+		<text>Good decision, man. There ain't nothing to regret about it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_2612">
+		<text>No, I'm not up for it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_26121">
+		<text>As you wish.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_266">
+		<text>No, I ain't got anything today.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_271">
+		<text>Nemoj da se zanosiš Obeleženi. Tražiš još posla a još nisi ni rešio veterane!</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_311">
+		<text>Ne, ništa danas.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321">
+		<text>Imam ozbiljan posao. Grupa veterana ubica se pojavila u Divljoj Teritoriji. Neki ljudi iz Djutija su došli do mene i pitali me da se pozabavim tim veteranima. Djuti ima čvrst dokaz da su oni odgovorni za smrt solo stalkera. Problem je u tome što ti veterani i Djuti imaju nekakav stari dogovor i Djuti ne može to da prekrši, ali ti momci zaista iniciraju to. U stvari, Djuti želi da ih nema, fino i tiho. Neće biti lako ali posao je vredan truda.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3211">
+		<text>Još nešto?</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32111">
+		<text>Djuti ceni svoju reputaciju, što je i razlog tome da urade to što mirnije. Sve što trebaš da uradiš jeste da ubiješ njihovog vođu Srećka i da mi doneseš njegov PDA kao dokaz.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32112">
+		<text>Uradiću to.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321121">
+		<text>Dobra odluka, druže. Nećeš zažaliti.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_32113">		== duplicates ==
+		<text>No, I'm not up for it.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_321131">
+		<text>To je do tebe, ali ne zaboravi da ti je ovo sjajna prilika da stekneš poverenje Djutija.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32121">
+		<text>Zadani tekst</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_331">		== duplicates ==
+		<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_3312">
+		<text>I'll do it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_33121">
+		<text>Good decision, man. There ain't nothing to regret about it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_3313">
+		<text>No, I'm not up for it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_33131">
+		<text>As you wish.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_341">
+		<text>Ne, ništa danas.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_351">
+		<text>Ništa danas.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_361">
+		<text>Ništa, izvini.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_371">		== duplicates ==
+		<text>No, I ain't got anything today.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_41">
+		<text>Još ništa. Možda drugi put.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_441">
+		<text>Imam posao za profesionalca.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_442">		== duplicates ==
+		<text>Cut to the chase. What do I gotta do?</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_443">
+		<text>Your mission is to kill Tyran, the leader of the Mercs. His crew made it into the Wild Territory and set up a base at the construction site. Be careful, some of their fighters have set up ambushes on the way to the site. Bring me Tyran's PDA and the reward is yours.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_4431">
+		<text>I'll do it. I hope I don't regret taking this on though.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_44311">
+		<text>Good decision, man. There ain't nothing to regret about it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_4432">
+		<text>No, I'm not up for it.</text>
+	</string-->
+	<!--string id="bar_bar_barmen_jobs_44321">
+		<text>As you wish.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_444">
+		<text>Ne, trenutno nisam zainteresovan.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_52">
+		<text>Ne, nemam ništa danas.</text>
+	</string>
+	<!--string id="bar_bar_barmen_jobs_531">		== duplicates ==
+		<text>Ne, ništa danas.</text>
+	</string-->
+	<string id="bar_bar_barmen_jobs_541">
+		<text>Trenutno nemam ništa.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_62">
+		<text>Izvini, nemam ništa danas.</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_72">
+		<text>Ne, nemam ništa danas.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1111">
+		<text>Da počnemo. Jesi spreman?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1131">
+		<text>Hmm... Odakle dolaziš?</text>
+	</string>
+	<string id="bar_bar_barmen_start_121">
+		<text>Pa, Obeleženi... Jesi li doneo dokumenta iz X16?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1211">
+		<text>Aha. Evo.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1212">
+		<text>Nisam.</text>
+	</string>
+	<string id="bar_bar_barmen_start_12121">
+		<text>Prokletstvo! Ja ovde žuljam dupe dok ti lutaš po šumama! Idi po ta jebena dokumenta ili nećemo napraviti nikakvog napretka!</text>
+	</string>
+	<string id="bar_bar_barmen_start_121211">
+		<text>OK.</text>
+	</string>
+	<string id="bar_bar_barmen_start_131">
+		<text>Pa, Obeleženi, sad samo trebamo da se pobrinemo za Spaljivača i da otvorimo put ka Severu! Jesi spreman da kreneš?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1312">
+		<text>Da.</text>
+	</string>
+	<string id="bar_bar_barmen_start_13121">
+		<text>OK, Obeleženi, dobio si zaštitni prototip i bićeš zaštićen od Emisija. Imam koordinate bunkera. Ne zaboravi, prototip te neće štititi večno, zato moraš da stigneš do bunkera što prije i ugasiš Spaljivača. Ne znam šta će se desiti posle toga, ali znam da je vredno truda. Jedina činjenica koja je sigurna jeste da će put ka centru Zone biti otvoren.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1313">
+		<text>Nastavi.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1314">
+		<text>Sve što trebaš da uradiš jeste da uđeš u bunker ispod antena i ugasiš ih. Kapiraš?</text>
+	</string>
+	<string id="bar_bar_barmen_start_1315">
+		<text>Kapiram.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1316">
+		<text>Oh da, još nešto! Vođa Djutija, obeležio sam ga na mapi, traži dobrovoljca koji će se pobrinuti za neke zadatke u Vojnim Skladištima. Navrati ako si zainteresovan. Pričaću sa stražarima, da bi te pustili.</text>
+	</string>
+	<string id="bar_bar_barmen_start_132">
+		<text>Ne, nisam još spreman.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1321">
+		<text>Saberi se, Obeleženi! Ovaj zadatak ne može da čeka!</text>
+	</string>
+	<string id="bar_bar_barmen_start_151">
+		<text>OK, dokumenta koja si doneo iz Instituta čine situaciju jasnijom ali i dalje nam nedostaju neke stvari da bi smo upotpunili celu sliku. Laboratorija, osmišljena kao X18, se spominje i njen opis se poklapa sa napuštenim podzemnim prolazima u Mračnoj Dolini. Izgleda da ćeš morati da odeš tamo i nađeš informacije koje su nam potrebne. Laboratorija je zatvorena i trebaće ti dva elektronska ključa. Daću ti jedan, ali ti ćeš morati da nabaviš drugi od Borova u Mračnoj Dolini.</text> <!--  Beware!  Deep underground there is a cruel dwarf genius called Burer, the master of dwarfs. He lives deep in X18 and never ascends to the upper levels of his dungeon quarters. The dwarfs receive orders via telepathy from Burer. No one who has gone down to the lab to destroy him has ever returned.  Good Luck!</text> 109981 this dose not go here -->
+	</string>
+	<string id="bar_bar_barmen_start_1511">
+		<text>Nastavi.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15111">
+		<text>Sve što trebaš da uradiš jeste da nađeš drugi ključ do Laboratorije X18, uđeš unutra i pokupiš drugu hrpu dokumenata. Ne zaboravi da nađeš sebi zaštitno odelo inače nećeš imati šanse u paklu kojim ćeš prolaziti do Laboratorije. Pa, hoćeš li odraditi to?</text>
+	</string>
+	<string id="bar_bar_barmen_start_15112">
+		<text>Pokušaću.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15113">
+		<text>Odlično! Čekam te.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15114">
+		<text>Ne, ne želim da to još uradim.</text>
+	</string>
+	<string id="bar_bar_barmen_start_15115">
+		<text>Do tebe je ali zapamti: ovo je jedini način na koji možeš da nam pomogneš da otvorimo put ka Severu.</text>
+	</string>
+	<string id="bar_bar_barmen_start_161">
+		<text>Šta želiš, Obeleženi?</text>
+	</string>
+	<string id="bar_bar_barmen_start_162">
+		<text>Hej, Obeleženi! Vremena se menjaju ali ti ne - i dalje si mrzovoljan i povučen. Izvoli, sedi, popij piće - možda se malo prolepšaš...</text>
+	</string>
+	<string id="bar_bar_barmen_start_171">
+		<text>Pa, Obeleženi, jesi donio dokumenta iz X18?</text>
+	</string>
+	<string id="bar_bar_barmen_start_172">
+		<text>Aha. Evo.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1721">
+		<text>Dobro, situacija postaje jasnija. Kao što sam i očekivao, Spaljivač Mozgova je delo čoveka. To je Kajmanov eksperimentalni odašiljač i njegove komponente su napravljene upravo u X18. Dokumenta upućuju na X16 gde su poslali neke komponente. Sudeći prema ovome, X16 se nalazi u industrijskom kompleksu u Jantar Jezeru. Naučnici su tamo postavili prenosnu laboratoriju i možda oni mogu da pomognu.</text>
+	</string>
+	<string id="bar_bar_barmen_start_17211">
+		<text>Nastavi.</text>
+	</string>
+	<string id="bar_bar_barmen_start_17212">
+		<text>To nije jednostavno. Moraš da stigneš do naučnika i saznaš gde je X16 da bi mogao da nađeš nestale dokumente. Dakle, spreman si za to?</text>
+	</string>
+	<string id="bar_bar_barmen_start_17213">
+		<text>Jesam.</text>
+	</string>
+	<string id="bar_bar_barmen_start_172131">
+		<text>Dobro! Čekaću te da se vratiš. Da dođeš do Jantara, gde se nalaze naučnici, moraš da prođeš kroz Divlju Teritoriju. Vrlo opasno mesto. Puno je Plaćenika sa Zapada. Budi oprezan!</text>
+	</string>
+	<string id="bar_bar_barmen_start_17214">
+		<text>Ne, nisam još spreman.</text>
+	</string>
+	<string id="bar_bar_barmen_start_172141">
+		<text>Pa potrudi se da ubrzo budeš spreman. Ova vrsta posla ne može čekati.</text>
+	</string>
+	<string id="bar_bar_barmen_start_173">
+		<text>Ne.</text>
+	</string>
+	<string id="bar_bar_barmen_start_1731">
+		<text>Na čemu gubiš vreme? Idi i uzmi ta prokleta dokumenta inače nećemo ni maknuti odavde!</text>
+	</string>
+	<string id="bar_bar_barmen_start_181">
+		<text>Šta želiš, Obeleženi?</text>
+	</string>
+	<string id="bar_bar_barmen_start_182">
+		<text>Hej, Obeleženi! Vremena se menjaju ali ti ne - i dalje si mrzovoljan i povučen. Izvoli, sedi, popij piće - možda se malo prolepšaš...</text>
+	</string>
+	<string id="bar_bar_barmen_start_2">
+		<text>Hej... Obeleženi! Da li si doneo dokumente iz Instituta?</text>
+	</string>
+	<string id="bar_bar_barmen_start_21">
+		<text>Ne, nisam još doneo dokumente iz Instituta.</text>
+	</string>
+	<string id="bar_bar_barmen_start_211">
+		<text>To nije dobro, Obeleženi, uopšte nije dobro... Razumeš koliko su nam potrebni, zar ne? Očajnički su nam potrebni, veruj mi. Spaljivač Mozgova nam je ispred nosa a mi čak ne znamo ni šta je to! Idi i smesta uzmi ta dokumenta - pričaćemo posle toga.</text>
+	</string>
+	<string id="bar_bar_barmen_start_2111">
+		<text>Mislim da te razumem.</text>
+	</string>
+	<string id="bar_bar_barmen_start_22">
+		<text>Izvoli dokumenta iz Instituta.</text>
+	</string>
+	<string id="bar_bar_barmen_start_221">
+		<text>Odličan posao, Obeleženi! Najzad imamo dokumente. Moram da ih pogledam prvo i možda ću razumeti kako se stiže do Severa. Dok ja to radim, ako si u škripcu s parama, možeš se boriti u Areni. Vlasnik Arene je Arni, okačio sam ti njegove koordinate.</text>
+	</string>
+	<string id="bar_bar_barmen_start_2211">
+		<text>OK.</text>
+	</string>
+	<string id="bar_bar_barmen_start_22111">
+		<text>Slušaj sad!</text>
+	</string>
+	<string id="bar_bar_barmen_start_3">
+		<text>Šta želiš, Obeleženi?</text>
+	</string>
+	<string id="bar_bar_barmen_start_4">
+		<text>Hej, Obeleženi! Vremena se menjaju ali ti ne - i dalje si mrzovoljan i povučen. Izvoli, sedi, popij piće - možda se malo prolepšaš...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_0">
+		<text>Želeo bih da znam nešto.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_1">
+		<text>Šta to?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_10">
+		<text>Hvala.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_3">
+		<text>Šta znaš o Streloku?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_31">
+		<text>Iskusan stalker, koliko ja znam. Navodno je "radio" kroz prolaze na Severu. Retko je bio viđen ali postoje glasine da je vodio svoju grupu u sam centar Zone.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_4">
+		<text>Šta znaš o stalkeru koga zovu Duh?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_41">
+		<text>On je jedan od Strelokovih ljudi. Kažu da on može da se prišulja bilo gde a da ne bude primećen. Čuo sam da je skinuo vođu od jedne grupe... Kako se ono zove? Ah, "Poslednji Dan", to je to. Poprilično ludi momci... Ah, uzgred, čuo sam da Duh obavlja neke poslove za naučnike. Ako ga tražiš proveri kod jezera Jantar oko prenosne laboratorije.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_51">
+		<text>To je stari stalker u penziji. On živi u močvarama, obeležiću ti na mapi. Nekada bio u Strelokovoj grupi.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_6">
+		<text>Šta znaš o stalkeru po imenu Fang</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_61">
+		<text>Postojao je jedan čovek sa tim imenom, pričao je sa naglaskom... Bio je malo uvrnut, to je za sigurno - pričao sam sa njime i dangubio...ali delovao je kao OK momak. Nisam ga video u Baru već nekoliko godina.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_7">
+		<text>Pričaj mi o mobilnim naučnim laboratorijama.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_71">
+		<text>Naučnici ih povremeno postave. Izolovani metalni bunker sa svime šta je neophodno za život. U kontaktu smo sa jednom od njih, onom u Jantaru. Naučnici su dobri momci - govore nam puno interesantnih stvari a mi njima pomažemo kad god možemo... Neka razmjene...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8">
+		<text>Šta je Ispunitelj Želja?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81">
+		<text>Oh! To je interesantno pitanje... Voleo bih da znam odgovor. Mogu da ti ispričam legendu o Ispunitelju, ako hoćeš. Ali moraš sam da zaključiš koliko je tu istine. 'Oćeš da čuješ?</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811">
+		<text>Naravno.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8111">
+		<text>Ova legenda je o Monolitu, koji bi mogao biti razlog nastanka Zone. Kad je Zona eksplodirala u 2006., evakuisali su ljude koji su živeli u blizini i sama Zona se spontano ogradila od Vojske. Svi su paničili, niko nije znao šta se dešava, Zona se širila a laboratorije nisu mogle ništa da učine! Mnogo ljudi je tamo poginulo. Svako je strahovao od radijacije koja je mogla da ima efekat na pola Evrope. Kada je prošlo nekoliko godina, neki lakoumni momci kao sto si ti, su se pojavili. Prozvali su se kao "stalkeri". Počeli su da se šunjaju iznad vojnih kordona verujući da u Zoni postoje stvari kojima će se obogatiti. Malo po malo, donosili su čudne stvari, artefakte. Tada se sve pretvorilo u trku za njima. Naučnici su krenuli za njima kao ludi. Davali su tada fantastične pare za samo jednu sitnicu, a ne kao sada.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81111">
+		<text>Nastavi...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111">
+		<text>Posle nekog vremena, počele su da kruže prve bajke i legende o tome šta je duboko unutar Zone, oko urušenog nuklearnog elektronskog postrojenja. Kanije nam je jedan veteran ispričao priču o Monolitu koji navodno ostvaruje želje. Trebao si da vidiš tu histeriju: iskusni, uzdignute glave, svi  počinju da se probijaju do Centra - svako je želeo ponešto od Monolita. Dobili smo neke sumnjive detalje o prvom stalkeru koji se probio do Monolita...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8111111">
+		<text>Nastavi... Reci mi više.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81111111">
+		<text>Kada se Zona tek pojavila, mnogo ljudi je bilo zarobljeno unutar i odsečeno od sveta. Mnogi su pomrli vrlo brzo ali tamo je bilo nekoliko preživelih srećnika koji su pokušali da učine nešto po tom pitanju. Jedan od tih preživelih se našao kod jedne stanice i uočio je svetlo unutar nje. Pošto nije mogao nazad odlučio je da se približi. Video je obrušeni krov Sarkofaga i svetlost kako izbija iz njega. Popeo se uza zid i pogledao unutra. Između istopljenog metala i krša od betona tamo leži masivna crna stena. To je Monolit. Stalker je uspeo da izmeša magiju i shvatio je da se popeo veoma blizu Sarkofaga, koji je veoma radioaktivan. Bio je smrtno preplašen, ali je kroz strah mogao da oseti kako ga je Monolit poziva sebi. Monolit ga je pozvao sebi, a on je došao i video neverovatne stvari o Monolitu u svojoj glavi...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111111">
+		<text>A čoveče...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111112">
+		<text>Ne znam šta je istina u ovoj priči a šta nije, ali poenta je u tome da je želja koju je momak poželeo ostvarena, a Zona se proširila za 5 kilometara. Izgleda da Zona proždire sve više zemlje za svaku želju koja se ispuni... Ali to neće zaustaviti napaljenike kao što si ti. Oni i dalje pokušavaju da se probiju sa njihovim malim plemenitim željama u srcima...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_812">
+		<text>Trenutno sam više zainteresovan za druge stvari.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8121">
+		<text>Tvoja stvar, čoveče. Šta tačno želis da znaš?</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_11">
+		<text>Hik... Prokletstvo! Da, pijan sam, pijan sam! Oni 'oće...oni... Hoće da me šutnu iz Djutija ako omanem i na ovom zadatku...znaš? Ali ja nisam...hik...ne osećam se...hik...baš najbolje sada...znaš...</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_111">
+		<text>Žao mi je zbog toga.</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_21">
+		<text>Šta ima? Nečeg novog? Nisi izlupao to malo govno, vidim ti u očima. Život je kurva... Slušaj, popij sada, hoćeš li, druže??</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_31">
+		<text>Čoooveče...hik...ti... Ti... Ti si mi pomogao! Nazdravimo Djutiju... Valjda! I...Oh!</text>
+	</string>
+	<string id="bar_bar_hunter_quest_finish_0">
+		<text>Našao sam je. Evo tvoje puške.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_finish_1">
+		<text>Vau?! Našao si moju pušku?! Nemam reči, čoveče! Hvala ti puno! HVALA! Tako sam srećan! Stvarno si mi pomogao, stvarno jesi. Jebote. Evo uzmi ovo - nije mnogo ali to je sve što imam. Neću da zaboravim da si mi pomogao i nadam se da ću ti se odužiti na vreme. Slušaj, reći ću ti nešto. Tamo je neka čudna kuća, blizu mesta na kome si našao moju pušku. Niko ne zna šta je zaista unutra ali možeš videti kroz prozore da su unutra anomalije, i to mnogo njih. Moguće je da ima i artefakata... Ne znam kako se može doći tamo.\nJoš neštoAlso... Proveri svoj PDA. Prebacio sam ti recept za transmutaciju, nadam se da će ti biti koristan.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_0">
+		<text>Nastavi.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1">
+		<text>Daću ti bilo šta! Samo mi vrati moju pušku, molim te. Izgubio sam je kod mesta gde žive proklete krvopije. Izvoli koordinate. Budi oprezan. Krvopije nisu prijateljski raspoložene.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_11">
+		<text>OK, pokušaću da ti nađem pušku.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_111">
+		<text>Neću te prevariti.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1111">
+		<text>To je u tvom interesu.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_12">
+		<text>Ne. Imam važnija posla za uraditi.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_121">
+		<text>Do tebe je... Ali nadam se da ćeš se predomisliti.</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1212">
+		<text>Videćemo.</text>
+	</string>
+	<string id="bar_bar_hunter_start_11">
+		<text>Imam veliki problem čoveče! Ja... Izgubio sam porodičnu pušku u Divljoj Teritoriji. Hteo sam da ubijem par krvopija ali sam kukavički pobegao. Prokletstvo! Slušaj, brate... Platiću ti ako mi je vratiš. Ovde sam uštedeo nešto keša i daću ti sve to, samo mi vrati pušku. To je porodična puška, znaš, prenesena s oca na sina... I izgubio sam je! Odrastao sam s njom, bila je kao deo moje ruke...</text>
+	</string>
+	<string id="bar_bar_hunter_start_21">
+		<text>Hej! Išta novo? Jesi li je našao?!</text>
+	</string>
+	<string id="bar_bar_hunter_start_31">
+		<text>Hvala brate! Nikad neću zaboraviti da si mi pomogao!</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_0">
+		<text>Vukodav je rekao da imaš nešto za mene.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_1">
+		<text>Naravno. Izvoli bacač granata za pomoć oko Kruglova, i još 1000 keša na sve to. Daću ti neke korisne informacije da bih ulepšao zahvalnost.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_2">
+		<text>Hvala.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_3">
+		<text>Evo šta imam da kažem. Pomogao si Fridomu i načinio pravu odluku. Tvoja sudbina je sad povezana sa Fridomom, i Djuti te ima u vidu. Kažem da trebaš da odeš do napuštene Vojne baze i pridružiš se redovima Fridoma - potrebni su im dobri borci. Biće rata između grupa uskoro i ko god izabere pravu stranu neće zažaliti.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_11">
+		<text>Ja trgujem informacijama. Prodajem važne informacije i kupujem karte, dokumenta i laboratorijske spise. Moja informacija je vredna i veoma korisna onome ko je dobije!</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_21">
+		<text>Zdravo Obeleženi. Pomogao si Fridomu i načinio pravu odluku. Tvoja sudbina je sad povezana sa Fridomom, i Djuti te ima u vidu. Predlažem ti da odeš do napuštene Vojne baze i pridružiš se redovima Fridoma - potrebni su im dobri borci.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_211">
+		<text>Razmisliću o tome.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_2111">
+		<text>Pa Obeleženi, šta te dovodi ovamo? 'Oćeš da kupiš neke informacije ili prodaješ danas?</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_0">
+		<text>To znači onda da si povezan sa Fridomom?</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_1">
+		<text>Ne mogu da ti odgovorim na to pitanje sada. Sve sto mogu da kažem jeste da nisam član ni jedne grupe.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_0">
+		<text>Pričaj mi o Fridom frakciji.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_1">
+		<text>Naravno, nema problema! Fridom je jedna od najstarijih grupa u Zoni i jedina koja otvoreno prkosi vladinim trupama i istraživačkim timovima. Njeni osnivači su mrtvi - oni su ubijeni tokom velikog krvoprolića pošto je Vojska poslala veliku jurišnu silu u Zonu ali mogućnost da se Zona kontroliše od spolja je nestala u istom trenu. Postoje neki dokazi koji ukazuju na to da je prvobitna Zona korišćena kao tajno područje za testiranje vojnih oružja. Ako je to istina, mora da su koristili neka jaka sranja. Kako god, gde sam ono stao...? O da, Fridom je jedina grupa koja pokušava da zaustavi vladu u nameri da zadobije kontrolu nad tim područjem. Bog zna šta će se desiti ako opet počnu da testiraju ta sranja, zato se Fridom pokušava održati po svaku cenu.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_2">
+		<text>Šta je sa Djutijem?</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_3">
+		<text>Djuti je uglavnom kontrolisan izvana, od strane vlade. Njihov trenutni zadatak je da očiste teren od mutanata i da unište Fridom, što i rade trenutno. Kad bude bio pravi čas, poslaće veliku jurišnu silu u Zonu i preuzeće komandu čitave oblasti.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_4">
+		<text>Hvala na informacijama.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_0">
+		<text>Želim da kupim neke informacije.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_21">
+		<text>Trenutno mogu da ti prodam informaciju o Strelokovoj grupi praktično za ništa - 4000 RU.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_211">
+		<text>OK, prihvatam. Izvoli 4000.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_2111">
+		<text>Strelokova grupa ima skrivenu bazu. Nalazi se u Agropromu, u jednom od podzemnih tunela. Verovatno ćeš pronaći više informacija o toj grupi i njenim članovima ako odeš tamo. Prebacio sam ti koordinate šteka.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_212">
+		<text>Ne, predomislio sam se.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_2121">
+		<text>Na tebi je. Dođi do Bara kad odlučiš suprotno - ja sam uvek tu.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_31">
+		<text>Trenutno imam informaciju o grupi koja se probila do centra Zone. Bukvalno se odričem od nje - za samo 2000 Ru.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_311">
+		<text>OK, kupiću je. Evo 2000.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_3111">
+		<text>Strelok, Duh i Fang su otišli do centra Zone. šta su tamo našli, niko ne zna, Strelok je nestao dok su se Duh i Fang vratili odvojeno.Poslednje vesti o Duhu jesu da je otišao do prenosne laboratorije u Jezeru Jantar. Koordinate o kampu naučnika su prikačene.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_312">
+		<text>Ne, predomislio sam se.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_3121">
+		<text>Na tebi je. Dođi do Bara kad odlučiš suprotno - ja sam uvek tu.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_41">
+		<text>Imam neke informacije o tajni Jezera Jantar. Cena je samo 3500 Ru - da je manje, plaćao bih ja tebi!</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_411">
+		<text>U redu, kupiću je. Evo 3500.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_4111">
+		<text>Tajna Jantar Jezera je slična tajni Spaljivača Mozgova i njihovi uticaji su slični na mnogo načina. Neka vrsta PSI-radijacije zombificira sve koji dođu u kontakt s njom. Zombi stalkeri se kreću oko nekakvog odasiljača, napadajući svakoga. Neke informacije ukazuju na to da je rešenje zagonetke Jezera Jantar ispod zemlje. Izvoli koordinate odašiljača kod Jezera Jantar i onih od Spaljivača Mozgova</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_412">
+		<text>Ne, predomislio sam se.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_4121">
+		<text>Na tebi je. Dođi do Bara kad odlučiš suprotno - ja sam uvek tu.</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_999">
+		<text>Trenutno nemam novih informacija. Zar ti sada ne bi trebao znati više nego ja?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_11">
+		<text>Već je bilo vreme da neko kokne Borova! Kada bi znao ko je, platio bih mu piće.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_111">
+		<text>Da, bilo je vreme.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_21">
+		<text>Neko je stvarno raspizdio Fridom: čuo sam da je jedna od njihovih jedinica uništena u Divljoj Teritoriji... Pitam se ko je ta junačina?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_211">
+		<text>Da, želeo bih da znam...</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_31">
+		<text>Konačno neko imao muda da ispraši te krvopije iz Divlje Teritorije... Čime se Djuti bavi svo ovo vreme?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_311">
+		<text>Čime se Djuti Bavi? Oni se bave Fridomom, čime bi još?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_41">
+		<text>Čuo sam da je neko namlatio vođu Fridoma. Bili su već neko vreme u svađi. Djuti će ih zaista pritisnuti...</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_411">
+		<text>Nadajmo se.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_51">
+		<text>Znači ti si počistio te veterane? Odlično obavljeno, druže! Šest stalkera je nedavno nestalo u toj oblasti... Mi smo svi sumnjičili te lude veterane. Dobra je stvar da i to rešeno.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_511">
+		<text>Da, mnogo ljudi je želelo da ti veterani "odu".</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_61">
+		<text>Ti si isključio smetnje u Jantaru? Strava... Ti si srećnik, prokletstvo, drago mi je da se neko konačno pozabavio s tom stvari! Ne možeš da zamisliš koliko je naših momaka umrlo tamo... Ali sada će naučnici saznati šta je to bilo. Možda ćemo biti čak u mogućnosti da se rešimo i Spaljivača...</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_611">
+		<text>Želim da verujem da se taj Spaljivač može ugasiti.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_71">
+		<text>Šta hoćeš? Zar ne vidiš, pokušavam da se odmorim...</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_711">
+		<text>Ima li šta novo?</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_7111">
+		<text>Čuo sam da se Strelok vratio. On ima svu opremu koja ti je potrebna da dođeš do Mašine... On se sada krije zato što ga mnogo ljudi prati. Neko je otvoren dok ostali pokušavaju da sačuvaju svoju tajnu. Priča se da su čak i Djuti i Fridom krenuli u lov na njega... Svako sa svojim razlozima.</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_71111">
+		<text>Izgleda da je Strelok u pravu što se krije.</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_711">
+		<text>Možeš li mi reći nešto što je korisno za početnika?</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_7111">
+		<text>Korisno za početnika? Pa, slušaj. Na Severu, nedaleko od Spaljivača Mozgova, Fridom je postavio svoj štab u staroj vojnoj bazi. Oni su poznati nihilisti, anarhisti i kriminalci - Fridomovi borci, ludi gverilci. Sve što oni rade je sabotiranje istraživačkih grupa, napadi na vojne jedinice i stalni okršaji sa Djutijem. Ti okršaji sada prelaze u prave male ratove za preživljavanje. Daću ti savet: nemoj se mešati. Prihvatiće te samo ako si potpuno lud ili ako je raspisana nagrada za tvoju glavu. Ha-ha-ha. Možeš li verovati?</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_71111">
+		<text>Hvala za savet.</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_711">
+		<text>Možeš li mi reći nešto što je korisno za početnika?</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_7111">
+		<text>Pa, nekoć je postojala grupa predvođena Strelokom. Postoje svakakve vrste priča o tome koje kruže Zonom...dobre i loše, ali nekoliko ljudi zna istinu. Istina je da su oni hteli da se obračunaju sa Zonom, da otkriju šta ju je stvorilo. Eto zašto su ih vojni stalkeri pratili ali nisu znali gde da traže. Vlada nije želela da normalni stalkeri znaju ono što ne bi trebali. Jednog dana Strelok je pronašao nešto vrlo važno i napravio je korak napred ka centru Zone sa nekoliko njegovih momaka. Pola grupe je poginulo na putu ali ostatak se ipak probio... Šta im se posle desilo - niko ne zna. Izgleda da su se borili. Ostali članovi grupe su uhvaćeni i ubijeni... Mislim da nijedan nije ostao živ sada. Tužna priča, zar ne?</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_71111">
+		<text>Da... Kao da neko zaista ne želi da Zona bude shvaćena...</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_711">
+		<text>Možeš li mi reći nešto što je korisno za početnika?</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_7111">
+		<text>Plaćenici su manje-više kao Fridom, možda i gori. Fridom barem ima neke ideale, ali ti psi, uradili bi sve za pare. Neko bi zaista trebao sve da ih pobije pre nego što odvuku nešto iz Zone pravo u normalan svet! Oni su stacionirani u Mrtvom Gradu i tamo je snajper u svakoj višoj zgradi, razumeš? Oni ne znaju za strance.</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_71111">
+		<text>Vidim. Očigledno treba da si oprezan u Mrtvom Gradu.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_711">
+		<text>Možeš li mi reći nešto što je korisno za početnika?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_7111">
+		<text>Ako nisi bio u Areni, ja ti preporučujem - to je dobar način da zaradiš novac i pokažeš drugima šta umeš. Nema svako muda da se stalno bori i to je prava šteta! Čoveče, čim skupim pare za pristojan pancir, tu sam.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_81">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_82">
+		<text>Jesi ti Ćelavi? Moram da razgovaram s tobom.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_83">
+		<text>Pretpostavimo da jesam. Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_84">
+		<text>Pegavi se izvukao iz Crvene Šume, ali Grbavi je mrtav.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_85">
+		<text>Do đavola!</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_86">
+		<text>Pegavi je u lošem stanju, mozak mu je otkazao. Možda ti možeš da pričaš sa njim? Moramo naći Spaljivačev raspored.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_87">
+		<text>Ne! Ne traži od mene da to uradim. Grabavi je mrtav zbog mene, a to što se desilo Pegavom je moja krivica također. Ostavio sam ih, izdao sam ih, napustio i pobegao! Ne mogu da pogledam Pegvog u oči posle onoga što sam uradio!</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_88">
+		<text>'Ajde, smiri se čoveče. Reci mi šta se desilo.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_89">
+		<text>Nas trojica smo se spremali da se probijemo ka Severu. Nismo znali kada su Spaljivačeve smetnje manje ali Pegavi se negde dokopao informacija...ne znam gde... Bili smo na pola puta u sektoru, kad se odjednom Spaljivač opet upalio. Pegavi se odmah onesvestio i pao je pravo niz brdo. Ja sam se uspaničio i rekao da bi trebalo da sve batalimo i vratimo se. Grbavi je uspeo da se izvuče i rekao je da bi smo trebali da izbavimo Pegavog... Ja sam mu rekao: "Ti si budala, zar ti se ne živi? On je gotov, kako ćemo ga nositi celim putem nazad". Čim je uspeo da me ubedi, počeli smo da se spuštamo da bi smo pokupili Pegavog... Još jedan talas je naišao. Vremenom sam osetio da sam blizu Vojne baze... Mislio sam da su Pegavi i Grbavi ostali tamo... Ali Grbavi ga je izbavio a ja nisam... On ga je izbavio...</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_90">
+		<text>Ok, Ćelavi, ok. Opusti se, čoveče. Hvala što si mi ispričao šta se desilo. Sam ću pričati sa Pegavim.</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_91">
+		<text>Izvini. Nisam baš za razgovar... Radije bih uzeo još jedno piće.</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_711">
+		<text>Šta je novo?</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_7111">
+		<text>Bio je jedan momak... Malo je tepao i hodao pogrbljeno, tako da su ga zvali Grbavi. Bio je malo munjen... Razgovarao sam sa sobom i sa životinjama... Ali osim toga, bio je u redu. Nestao je davno u centru Zone sa Strelokom... Kažu da se Strelok sada vratio.</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_71111">
+		<text>Pitam se gde li je sad.</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_711">
+		<text>Šta je novo?</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_7111">
+		<text>Divlja Teritorija je sada opustošena krvopijama! One izlaze kasno noću. Čuo sam da je tamo nešto vrlo važno blizu fabrike, nešto esencijalno nekome. Djuti je skoro poslao neke momke, ali svi su oni poginuli i njihovi krici su se čuli kilometrima daleko.</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_71111">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_711">
+		<text>Šta si čuo?</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_7111">
+		<text>Ako se nađeš u Jezeru Jantar naići ćeš na kamp naučnika - rade neka ispitivanja tamo... Oni su ubačeni helikopterom i redovno dobijaju zalihe. Dobili su super mesto... Također, možeš i da posluješ sa njima - oni kupuju artefakte a možda ti čak i daju posao.</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_71111">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_711">
+		<text>Šta si čuo?</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_7111">
+		<text>Niko nije uspeo da se probije kroz otpad vozila zbog Spaljivača Mozgova. Neki ljudi su videli kako stalker prolazi kroz nevidljivu granicu, pada, zatim ustaje posle par minuta i ide pravo ka centru otpada. Od tada više nije viđen...</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_71111">
+		<text>Interesantno...</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_711">
+		<text>Šta si čuo?</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_7111">
+		<text>Nestali stalkeri se vraćaju s vremena na vreme. To je strašan prizor, kažem ti: progunđaju nešto i posežu za puškama, koje su negde izgubili... Jedan je skoro došao do Djutija, do predstraže, i ljudi se okupili da bi ga videli. Neko ga je čak i prepoznao... Bio je grozan...crvene oči, sav krvav i modar...nije mogao ni da bekne, samo je stenjao kao životinja i išao je u krug. Djuti ga je uveo, ali ionako je za par dana umro. Nešto se dešava ljudima u Zoni, ali šta to??</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_71111">
+		<text>I ja bih voleo da znam.</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_711">
+		<text>Šta si čuo?</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_7111">
+		<text>ima mnogo zombija oko Jezera Jantar. Lutaju okolo i napadaju svakog čoveka koga vide. Ako si primećen, onda bi hteo da spasavaš živu glavu - u blizini ima puno njih od kojih su mnogi bivši stalkeri... Oni umru kod jezera i to je sve što ostane od njih</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_71111">
+		<text>Da, ne bih voleo da im se pridružim.</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_711">
+		<text>Šta si čuo?</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_7111">
+		<text>Trgovci kažu da postoji pravo blago artefakta u centru Zone, tako da ko god se probije, zaradiće dovoljno para za dva života. Lično, mislim da to nije sve. Trgovci očigledno misle samo na svoje interese, ali postoje čudne glasine koje kruže okolo. Verovatno tamo ima nečeg više od artefakta - nešto što nije sa ovog sveta, nešto vanzemaljsnko ili potpuno izvan naše dimenzije! Oni to zovu  Željo-ostvarivačka mašina. Ja sam čuo legendu o stalkeru koji se probio do tamo. Svaki put kad se neko probije poželi želju da Zona poraste a niko do sad nije poželeo da nestane. Pretpostavljam, kad se jednom probiješ do Mašine, da te boli uvo za ostale.</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_71111">
+		<text>To je tužno.</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_71">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_711">
+		<text>Šta si čuo?</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_7111">
+		<text>Svako ko veruje u Monolit je totalno poludeo. Oni stalno tračaju o tome ali niko ne zna tačno sta se nalazi u centru Zone. Ne vidljivi kristal koji je pao sa neba...ha-ha-ha! Smatram da je eksplodirala neka od tajnih laboratorija - Mislim da su neki stalkeri radili u nekima od njih. Ali, očigledno, ne možeš Zonu dići u vazduh. Ne samo da će se radioaktivnost proširiti na ceo svet, pola Evrope bilo bi sravnjeno sa Zemljom od Zonske reakcije. "Neko" je totalno poludeo kasnije - čuo sam da su ubijali stalkere bez ikakvog razloga. Kako ti se to sviđa? Prokleti fanatici.</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_71111">
+		<text>Mislim da je vredno pažnje.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_0">
+		<text>Želim da se pridružim Djutiju. Šta je potrebno da uradim?</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_1">
+		<text>Plati 1000 Ru. Dobićeš propusnicu. Odnesi je Voronjinu i on će napraviti test za tebe.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_11">
+		<text>Ok, evo novac.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_111">
+		<text>Uredu, evo tvoje propusnice. Sada poseti upravnika Petrenka. Obeležio sam ti ga na karti.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_12">
+		<text>Ne, predomislio sam se.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_121">
+		<text>Tvoj izbor, čoveče. Vidimo se.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_21">
+		<text>Zato što nema mesta za Fridomove razbojnike u Zoni - oni moraju biti uništeni. Ako si zainteresovan, idi pitaj Barmena da ti objasni sve. Ja sam zauzet.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_31">
+		<text>Plati 1000 Ru i dobićeš propusnicu. Odnesi to upravniku Djutija i on će napraviti test za tebe.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_311">
+		<text>Ok, evo novac.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_3111">
+		<text>Uredu, evo tvoje propusnice. Sada poseti upravnika Petrenka. Obeležio sam ti ga na karti.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_312">
+		<text>Ne, predomislio sam se.</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_3121">
+		<text>Tvoj izbor, čoveče. Vidimo se.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_0">
+		<text>Barmen mi je rekao da vaše rukovodstvo ima neku vrstu zaduženja za mene.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_1">
+		<text>Da, pričao nam je o tebi. Pre nego što te pustimo unutra želeo bih da ti saopštim naša pravila. Slušaj, naša pravila su jednostavna. Prvo pravilo - zabranjeno je pucati na našoj teritoriji. Ako prekršiš pravilo dvaput, naša patrola će pucati na tebe. Čak i ako pobegneš, više se nećeš pojavljivati na našoj teritoriji - za to će se pobrinuti naši čuvari. Ako se ponašaš smireno, nećeš imati nikakvih problema.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_2">
+		<text>Razumem. Još nešto?</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_3">
+		<text>To je to za sada. Možeš da prođeš.</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_4">
+		<text>Razumem. Još nešto?</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_5">
+		<text>To je sve. Ako želiš da se pridružiš Djutiju, samo izvoli. Trebaju nam dobri ljudi ali te upozoravam: pre nego što budeš prihvaćen, moraćeš da uradiš nekoliko opasnih poslova. Ne želimo pičkice, pa se zato svi testiraju.</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_11">
+		<text>Stoj! Strancima nije dozvoljen pristup bazi Djutija!</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_21">
+		<text>Zašto stojiš tu? Produži dalje.</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_31">
+		<text>Nastavi, brate. Zapamti: misija Djutija je da očisti Zonu.</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_0">
+		<text>Zašto ne puštate strance?</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_1">
+		<text>Odakle vi naivčine dolazite? Ovo je ratno stanje, ne? Borimo se protiv razbojnika iz Fridoma! Redovno imamo okršaje sa njihovim borcima u Divljoj Teritoriji.</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_2">
+		<text>Rat sa Fridomom? Zašto?</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_3">
+		<text>Zato što nema mesta za te Fridomove razbojnike u Zoni - oni moraju biti uništeni. Ako nisi razuneo, idi kod Barmena, on će ti sve objasniti. Ja sam zauzet.</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_11">
+		<text>Stoj! Samo članovi mogu unutra! Ne možemo te pustiti dole u bunker bez specijalne propusnice. Ako hoćeš da dobiješ jednu, idi kod pukovnika Petrenka. On je u upravnoj zgradu u preko puta dvorišta.</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_21">
+		<text>Zašto stojiš tu? Produži dalje.</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_31">
+		<text>Nastavi. Zapamti: misija Djutija je da očisti Zonu.</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_11">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_21">
+		<text>Slušam.</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_31">
+		<text>Zdravo prijatelju.</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_41">					<!--TB3D 109946 moved from sak_strings -->
+	<text>Hej Obeleženi, moramo razgovarati.</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_61">					<!--TB3D 109946 added -->
+	<text>Hej Obeleženi, moramo razgovarati.</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_5">					<!--TB3D 109946 moved from sak_strings -->
+	<text>Dobrodošli! Možete li okrenuti jednu stvar?</text>
+	</string>
+	<string id="bar_dolg_leader_job_0">
+		<text>Šta mogu da učinim za Djuti?</text>
+	</string>
+	<string id="bar_dolg_leader_job_1">
+		<text>To je dobro pitanje, Obeleženi, a postoji i jednako dobar odgovor - ubij Fridomove anarhiste. Dobićeš nagradu za svaki njihov PDA koji doneseš a možda ćeš biti i unapređen. Uzmi sve PDA uređaje i odnesi ih Petrenku - on isplaćuje nagrade.</text>
+	</string>
+	<string id="bar_dolg_leader_join_0">
+		<text>Barmen mi je rekao da imate neko zaduženje za mene kod Vojnih Skladišta.</text>
+	</string>
+	<string id="bar_dolg_leader_join_1">
+		<text>Želeo bih da te zamolim za nešto, lično za mene, vidiš? Mi smo usred teritorijalnog rata sa Fridom frakcijom i trebaju nam bolja oružja nego što sad imamo. Fridom ima neke sjajne RG-6 bacače granata. Ako bi mogao da se probiješ kroz njihovu teritoriju i ukradeš barem jednog takvog bacača, ozbiljno bih te nagradio. Pošto nisi član naše frakcije, možeš brzo da zadobiješ poverenje Fridoma i, uz malo sreće, dobiješ RG-6.</text>
+	</string>
+	<string id="bar_dolg_leader_join_11">
+		<text>Nastavi.</text>
+	</string>
+	<string id="bar_dolg_leader_join_111">
+		<text>Okačiću ti lokaciju baze Fridoma. Trebaš da nađeš Kuvara. On je član Fridoma. On zna gde se čuvaju RG-6. On voli da pije pa zato ponesi dosta votke sa sobom. Pa, šta kažeš?</text>
+	</string>
+	<string id="bar_dolg_leader_join_1111">
+		<text>Ok, pokušaću da ukradem RG-6 od Fridoma.</text>
+	</string>
+	<string id="bar_dolg_leader_join_11111">
+		<text>Oh, još jedna stvar. Pukovnik Lobanja i njegovi momci nisu slušali moja naređenja i odlučili su da napadnu bazu Fridoma bez dozvole. Pa sad neka beru šta su zasejali... Samoubilačka stoka. Ne mešaj se u njihovu borbu. Samo se potrudi da mi doneseš RG-6 - ništa drugo me ne interesuje.</text>
+	</string>
+	<string id="bar_dolg_leader_join_1112">
+		<text>Nisam još spreman za takav podvig.</text>
+	</string>
+	<string id="bar_dolg_leader_join_11121">
+		<text>Tvoja odluka.</text>
+	</string>
+	<string id="bar_dolg_leader_find_0">
+		<text>Šta je potrebno?</text>
+	</string>
+	<string id="bar_dolg_leader_find_1">
+		<text>Tokom zadnjeg izviđanja u području Laboratorija x18, koji se nalazi u Mračnoj Dolini, komandir Lobanja je pronašao izuzetno važne dokumente. Ovde dolazi jedno "ali! Tokom razmjene vatre sa vojnim specijalcima, izgubio je dokumenta. Jako nam je važno da se ta dokumenta pronađu.</text>
+	</string>
+	<string id="bar_dolg_leader_find_2">
+		<text>Kakva je vrsta dokumenata?</text>
+	</string>
+	<string id="bar_dolg_leader_find_3">
+		<text>Pa... Dokumenti su u metalnoj aktovci. To je sve što mogu reći... Hoćeš li je pronaći?</text>
+	</string>
+	<string id="bar_dolg_leader_find_4">
+		<text>U redu, pokušaću.</text>
+	</string>
+	<string id="bar_dolg_leader_find_5">
+		<text>Ne, ne mogu sada....</text>
+	</string>
+	<string id="bar_dolg_leader_find_6">
+		<text>Kako želiš, ako se predomisliš - znaš gde sam.</text>
+	</string>
+	<string id="bar_dolg_leader_find_case_compled_0">
+		<text>Drži aktovku, jedva sam je dovukao...</text>
+	</string>
+	<string id="bar_dolg_leader_find_case_compled_3">
+		<text>Evo, hvala ... Dakle, hvala ti!!! U znak zahvalnosti daću ti koordinate tajnog prelaza iz Mračne Doline do Spaljivača Mozgova, a od tamo do Monolita možeš kamenom dobaciti...</text>
+	</string>
+	<string id="bar_dolg_leader_find_case_compled_4">
+		<text>Odlično, proveriću...</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_0">
+		<text>Spreman sam da položim zakletvu.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_1">
+		<text>Dobro! Ponavljaj za mnom: "Ja, stalker poznat kao Obeleženi, zaklinjem se da ću braniti ciljeve i ideale Djutija."</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_2">
+		<text>Ja, stalker poznat kao Obeleženi, zaklinjem se da ću braniti ciljeve i ideale Djutija.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_3">
+		<text>Da ću braniti Zemlju od opasnosti Zone, da ću pronaći i uništiti bilo šta što se nađe unutar i izvan granica.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_4">
+		<text>Da ću braniti Zemlju od opasnosti Zone, da ću pronaći i uništiti bilo šta što se nađe unutar i izvan granica.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_5">
+		<text>Da se borim protiv svih neusaglašenih, bili oni sami ili u grupi.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_6">
+		<text>Da se borim protiv svih neusaglašenih, bili oni sami ili u grupi.</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_7">
+		<text>"I da ću dati svoj život u ime pravde i mira na Zemlji!"</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_8">
+		<text>"I da ću dati svoj život u ime pravde i mira na Zemlji!"</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_9">
+		<text>Čestitam! Sad si i zvanično pripadnik Djutija.</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_0">
+		<text>Ispunio sam misiju. Doneo sam RG-6.</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_1">
+		<text>Odlično, stalkeru. Ovo je baš ono što nam je trebalo. Pa, Obeleženi, ispunio si moj zahtev, a zauzvrat uzmi ovo odelo. Mislim da će ti se svideti... I još nešto, Obeleženi: neki naučnici, na bazi našeg prijateljstva, dali su nam recept za transmutaciju artefakta. U znak naše radinosti, da se tako izrazim...\nZnam da si ti pametan dečko i da za ovo Fridom nikada neće saznati, jel' tako? Proveri svoj PDA, prebacio sam ti informacije...</text>
+	</string>
+	<string id="bar_dolg_leader_start_11">
+		<text>Slušam.</text>
+	</string>
+	<string id="bar_dolg_leader_start_21">
+		<text>Šta te dovodi ovde, brate?</text>
+	</string>
+	<string id="bar_dolg_leader_start_31">
+		<text>Doneo si RG-6?</text>
+	</string>
+	<string id="bar_dolg_leader_start_311">
+		<text>Da, evo RG-6.</text>
+	</string>
+	<string id="bar_dolg_leader_start_3111">
+		<text>Odlično, stalkeru. Ovo je baš ono što nam je trebalo. Pa, Obeleženi, ispunio si moj zahtev, a zauzvrat uzmi ovo odelo. Mislim da će ti se svideti.</text>
+	</string>
+	<string id="bar_dolg_leader_start_41">
+		<text>Šta te dovodi meni, brate?</text>
+	</string>
+	<string id="bar_dolg_leader_start_51">
+		<text>Rat sa Fridomom se završava, Obeleženi. Imao si svoj udeo u borbi s razlogom, a sad ja želim da završim ovaj rat. Želim da ubiješ vođu Fridoma.</text>
+	</string>
+	<string id="bar_dolg_leader_start_81">
+		<text>Šta te dovodi ovde, brate? Ubio si vođu tih Fridomovih mangupa i njihova grupa se raspala. Ovaj rat nije još završen ali njegove posledice su izvesne. Tvoja dostignuća su velika i ona neće biti zaboravljena.</text>
+	</string>
+	<string id="bar_dolg_newbie_start_11">
+		<text>Zdravo, stalkeru. Pridruži se Djutiju! Potrebni su nam dobri borci! Tek sam od skoro regrutovan, a pogledaj kakvu su mi strava uniformu dali!</text>
+	</string>
+	<string id="bar_dolg_newbie_start_21">
+		<text>Zdravo, Obeleženi. Drago mi je da si s nama. Djutiju će uskoro trebati dobri borci.</text>
+	</string>
+	<string id="bar_dolg_novice_start_2">
+		<text>Hej, druže stalkeru.</text>
+	</string>
+	<string id="bar_dolg_novice_start_3">
+		<text>Pričaj mi o Djutiju.</text>
+	</string>
+	<string id="bar_dolg_novice_start_31">
+		<text>Ovde smo od početka. Prva jedinica je sačinjena od preživelih članova specijalnalnih jedinica koje su poslane u Zonu da bi otkrili šta ju je stvorilo. Našli smo se u prilično groznom okruženju. Kad je pola jedinice užasno pomrlo, oni koji su preživeli zakleli su se da neće napustiti to mesto dok ne saznaju šta se dešava u Zoni... Ili dok je ne poraze.</text>
+	</string>
+	<string id="bar_dolg_novice_start_4">
+		<text>Pričaj mi o Fridomu.</text>
+	</string>
+	<string id="bar_dolg_novice_start_41">
+		<text>Oni su glupaci koji ne razumeju da je Zona rak na Zemljinom telu. Oni žele da rašire to po celom svetu, po malo u svakom domu. Uradili bi sve da postignu šta su naumili, a ja ne mogu da dočekam da se to završi.</text>
+	</string>
+	<string id="bar_dolg_novice_start_5">
+		<text>Vi želite da porazite Zonu?</text>
+	</string>
+	<string id="bar_dolg_novice_start_51">
+		<text>Da i dosta smo dogurali. Tokom operacije čišćenja, čitave horde mutanata su uništene na putu ka centru Zone.</text>
+	</string>
+	<string id="bar_dolg_novice_start_6">
+		<text>Hvala.</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_11">
+		<text>Slušam.</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_21">
+		<text>Kako mogu da pomognem?</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_31">
+		<text>Zdravo, brate! Šta te dovelo do mene?</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_41">
+		<text>Zdravo Obeleženi... Čuo sam o tvom podvigu u ime Djutija... Možeš li uraditi još neki posao za nas?!</text>
+	</string>
+	<string id="bar_dolg_veteran_start_2">
+		<text>Šta hoćeš?</text>
+	</string>
+	<string id="bar_dolg_zastava_11">
+		<text>Hajde, produži dalje. Šta bleneš?</text>
+	</string>
+	<string id="bar_dolg_zastava_21">
+		<text>Hej čoveče! Drago mi je što te mutanti još uvek nisu pojeli.</text>
+	</string>
+	<string id="bar_dolg_zastava_about_zastava_0">
+		<text>Tamo je bio pokolj kod barikade. Šta se desilo?</text>
+	</string>
+	<string id="bar_dolg_zastava_about_zastava_1">
+		<text>To je poslednji talas mutanata koji je naleteo pre Emisije. Tiho je tri ili četiri dana i onda dođe novi talas. Da nije nas, ne bi bilo ni Bara, ne bi bilo ni Djutija, mi smo poslednja odbrana na putu tih mutanata. Mnogo naših momaka umre ovde.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_0">
+		<text>Voleo bih da znam nešto.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_1">
+		<text>Šta hoćeš da znaš?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2">
+		<text>Ovde sam prvi put. Možeš li mi reći nešto više o ovom mestu?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21">
+		<text>Pre nesreće 86' ovo je bilo industrijsko područje. Kao što možeš videti, nije mnogo toga ostalo... U podrumu kod hangara naći ćeš 100 Rendgena Bar. To mesto drži lokalni trgovac koji je ujedno i barmen. Ako želiš da posluješ, popričaš, nađeš posao ili saznaš najnovije vesti, to je mesto gde trebaš da odeš. Tamo je također i Arena gde možeš da se boriš i zaradiš malo keša. Baza Djutija je odmah tu blizu Arene. Ako želiš da stupiš u redove Djutija idi pravo tamo - oni će ti reći kome da se obratiš. Oh, uzgred, cela ova oblast je pod zaštitom Djutija zato se lepo ponašaj i ne maši oružjem bez veze. Ako počneš da pucaš, naša patrola će te "smiriti" vrlo brzo.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_211">
+		<text>Rekao si da je bar blizu. Možeš li mi tačno reći gde se nalazi?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2111">
+		<text>U podrumu iza hangara... Označiću ti ga na karti.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21111">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_212">
+		<text>Rekao si da je tu baza Djutija. Kako da dođem do tamo?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2121">
+		<text>Nije daleko od Arene. Označio sam ti na karti.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21211">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_213">
+		<text>Rekao si da je tu Arena u blizini? Gde je to tačno?</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2131">
+		<text>Izađi iz Hangara sa probijenim krovom i naći ćeš se pravo ispred. Označiću ti na karti.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21311">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_214">
+		<text>Hvala na informaciji.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_0">
+		<text>Ovde sam zbog posla.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1">
+		<text>Pretpostavljam da želiš nešto od mene.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_11">
+		<text>Ubio sam svinju na putu ka ovamo. Kažu da je to vredno.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_111">
+		<text>Čuo sam da si ti ubio Borova. Zaslužuješ da dobiješ malo para i pristojnu pušku za to. Nemoj da ukaljaš ovo časno oružje!!</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1111">
+		<text>Ne brini ti o tome.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_12">
+		<text>Imao sam mali "razgovor" sa Tiraninom iz Fridoma. Uglavnom, razumeo je svoje greške i obećao je da će se popraviti u budućnosti. Vrlo sam siguran da neće pogaziti svoje reči - mrtvi ne lažu.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_121">
+		<text>Tiranin nam je već duže vremna bio trn u oku! Drago mi je da si ga ti o'ladio. Evo tvoje nagrade - Groza OC-14, naš zaštitni znak.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1211">
+		<text>Nije loše. Idem da uradim još nešto slično. Vidimo se.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_13">
+		<text>Zar ti Voronjin ništa nije rekao?</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_131">
+		<text>Bravo, čestitam! Ubiti vođu Fridoma, to je pravi podvig. Čoveče, voleo bih da sam opasan kao ti.</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1311">
+		<text>Puno treniraj, jedi vitamine i slušaj svoju mamu. Hvala na novoj opremi, idem.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_0">
+		<text>Želeo bih da znam nešto.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1">
+		<text>Šta hoćeš da znaš?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_11">
+		<text>Koji si sad pa ti i kako si dospeo ovde?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_111">
+		<text>Moje ime je Kruglov. Ja sam profesor biologije, proučavam Zonu. Jučer, na primer, pronašao sam vrlo zanimljivu životinju - "Antropomorphus Dendromutantus Vulgarisa". Najčešće pronalazim i dokumentujem nove vrste, njihove osobine i posebne odlike. Podaci se kasnije proučavaju i šalju do spoljašnjeg sveta. Neki od njih, naravno, idu Barmenu. Moja istraživanja su spasila živote mnogih stalkera. Upravo sam nosio podatke mojih poslednjih istraživanja ka laboratoriji kada se helikopter zapalio pod paljbom.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12">
+		<text>Pričaj mi o Zoni.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_121">
+		<text>Zona je prelep dar čovečanstvu. Naravno normalan život nije moguć zbog visokog stepena radijacije i agresivnih mutanata. Sve te stvari su očigledno ekstremno opasne, ali isto tako ima veoma vrednih naučnih stvari. Zona je gotovo kao prirodni eskperiment, naučno blago! Napredak do kojeg ljudsko znanje može dospeti tokom proučavanja Zone je nedostižan. Tehnologija, medicina, nove biljke - kliničke i jestive, biotehnologija, lekovi za neizlečive bolesti...SVE! Možda bi smo mogli da rešimo problem ishrane cele planete. Ako se ljudi ne umešaju, nauka može odvesti ljudsku rasu do novog Zlatnog Doba!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1211">
+		<text>Djuti misli suprotno a ni Fridom ne deluje kao da će vam pomagati.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12111">
+		<text>Ti jednostavno ne možeš da zamisliš celu sliku. Tvoji "ovde i sada" problemi su ti daleko bitniji od budućnosti čovečanstva!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1212">
+		<text>Možda postoji neka korist u proučavanju Zone.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12121">
+		<text>Dakle i ti to razumeš? Divno je otkriti da se neko slaže sa tobom, ko je u stvari običan čovek uske svesti. Uvijek sam govorio da je važno gledati čitav set problema iz šire perspektive, da se udaljimo od običnih ljudskih mjerila. Čak i ako Zona naudi čovečanstvu, to još uvek može biti od velike koristi za nas!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_13">
+		<text>Zašto Plaćenici tragaju za tim informacijama?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_131">
+		<text>Nadam se da te ovo ne vređa, ali mnogi stalkeri su kao deca. Oni su pod ozbiljnim uticajem onoga što saznaju. Samo razmisli o svim tim legendama, o Monolitu koji ispunjava želje. Koja sprdačina! Problem je u tome što ta deca igraju svoje igre sa pravim oružjem i ubijaju se. Detinjasti ljudi su često iznervirani činjenicom da neko ne deli sve sa njima, kao informacije koje ih se ne tiču. Nema granica u upotrebi sile. Rokaju bez razmišljanja i ubiju one koji proučavaju Zonu. Oni veruju da će im ova informacija omogućiti da otvore prolaz do centra Zone. Oni su budale, opasne i naivne budale!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_14">
+		<text>Tražim Laboratoriju X16. Jel' možeš da mi kažeš gde je?</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_141">
+		<text>Laboratorija X16? Hmm... Sakarov je pominjao nešto slično u prolazu ali ne sećam se šta je tačno rekao. Možda je najbolje da ga ti sam pitaš... On je trenutno u prenosnoj laboratoriji kod Jezera Jantar.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_15">
+		<text>Nažalost, moram da krenem. Srećno.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_101">
+		<text>Obeleženi, zaustavi ih il' će nas pobiti!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1011">
+		<text>Čekaj mirno. Rešićemo ih se.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_10111">
+		<text>OK.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1012">
+		<text>Pokret. Pokušaćemo da se probijemo...</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_10121">
+		<text>'Ajde da požurimo.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_11">
+		<text>Stalkeru, preklinjem te! Vraćali smo se iz Jantara kad su Plaćenici oborili naš helikopter. Čuo sam da traže informacije ali ja znam da će nas ubiti. Pomozi mi da stignem do Jezera i reći ću ti sve što znam o tome što ti zoveš Spaljivač Mozgova. Barmen će ti dobro platiti.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_111">
+		<text>OK.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1111">
+		<text>Kako god ti kažeš, Obeleženi. Ti idi prvi a ja ću za tobom... Ja sam tek trećerazredni borac, zato bolje da sam izvidiš teren... Hmm, zapravo, možda je ipak bolje da ja idem ispred tebe, nadam se samo da neću otići predaleko od tebe i biti pogođen...</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_112">
+		<text>Ne. Pokušaj sam da se izbaviš.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1121">
+		<text>Ne. Siguran sam da to ne misliš. Nikad neću pobeći odavde sam. Ako se predomisliš, biću ovde... Ako budem živ...</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_21">
+		<text>Požuri, moramo odavde i to brzo!</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_31">
+		<text>Huh! Zar smo već na sigurnom? Konačno! Hvala ti mnogo na pomoći. Dugujem ti, ali za sad barem prihvati ovu fleš memoriju. Sadrži rezultate moje zadnje ekspedicije. Siguran sam da će ti Barmen dobro platiti za nju.  Još nešto... Prebacio sam ti podatke o transmutaciji artefakta na tvoj PDA. Nadam se da će ti koristiti.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_311">
+		<text>Da, evo nas.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_3111">
+		<text>Obeleženi, ako posetiš našu mobilnu laboratoriju, daćemo ti Naučničko odelo.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_31111">
+		<text>Videćemo.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_41">
+		<text>Zdravo, stalkeru. Dozvoli mi da ti se zahvalim u ime svetske nauke!</text>
+	</string>
+	<!--string id="bar_ecolog_crush_professor_start_51">		== duplicates ==
+		<text>Marked One, stop them or they'll kill us!</text>
+	</string-->
+	<!--string id="bar_ecolog_crush_professor_start_511">
+		<text>Sit tight. We'll deal with them.</text>
+	</string-->
+	<!--string id="bar_ecolog_crush_professor_start_5111">
+		<text>OK.</text>
+	</string-->
+	<!--string id="bar_ecolog_crush_professor_start_512">
+		<text>Let's move. We'll try to break through...</text>
+	</string-->
+	<!--string id="bar_ecolog_crush_professor_start_5121">
+		<text>Let's go.</text>
+	</string-->
+	<!--string id="bar_ecolog_crush_professor_start_61">
+		<text>Marked One, stop them or they'll kill us!</text>
+	</string-->
+	<!--string id="bar_ecolog_crush_professor_start_611">
+		<text>Sit tight. We'll deal with them.</text>
+	</string-->
+	<string id="bar_ecolog_crush_professor_start_6111">
+		<text>Ok, čekaću ovde.</text>
+	</string>
+	<!--string id="bar_ecolog_crush_professor_start_612">
+		<text>Let's move. We'll try to break through...</text>
+	</string-->
+	<string id="bar_ecolog_crush_professor_start_6121">
+		<text>Ok, požurimo.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_71">
+		<text>Budi oprezan sa Gorionikom, Obeleženi. Moje odelo će me zaštititi, ali tebi je bolje da ga izbegneš.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_711">
+		<text>Hvala za savet.</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_91">
+		<text>Požuri, Obeleženi. Nije sad vreme za ćaskanje.</text>
+	</string>
+	<string id="bar_ecolog_dialog_11">
+		<text>Stalkeru, pričaj sa profesorom Kruglovim, izbavi ga odatle.</text>
+	</string>
+	<string id="bar_ecolog_dialog_21">
+		<text>Gotovo je. Ubili su Kruglova!</text>
+	</string>
+        <string id="bar_arena_man_monster_0"> 
+			<text>Imate li borbe sa mutantima?</text>
+        </string>
+        <string id="bar_arena_man_monster_1"> 
+			<text>Naravno, tebe ću prvog obavestiti! Biće mi pravo zadovoljstvo gledati kako te trgaju na komadiće... Ali... Ozbiljno govoreći, ponudiću im da ih nabave.</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_0"> 
+			<text>Možeš li mi reći nešto besplatno?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_1"> 
+			<text>Ok, Obeleženi. Mogu ti reći o čoveku koji se približio Sarkofagu.</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_2">
+                <text>Pričaj onda, šta čekaš.</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_3">
+                <text>Ne tako davno, dok sam bio u vojsci, video sam čoveka. Bio je jako prljav, prekriven lišćem i blatom. Nosio je staru jaknu kao antiradijacijsko odelo. Kada sam mu se približio, video sam da nije ranjen, ali njegov pogled je bio pogled luđaka, ili neke gladi. Pitao sam ga zašto je došao i šta mu se desilo. Molio me za malo hrane i pića. "Napokon sam uspeo!" neprestano je govorio. Dao sam mu vode i nešto hleba sa kobasicom. Onda sam malo raspalio vatru i ubacio dve konzerve, jer je rekao da je priča duga. Nije mi se žurilo pa sam ostao s njim. Zvao se Efim, 43 godine star. Jedan od prvih koji su ušli u Zonu, i bio je posvuda, sakupljajući plen i neke jedinstvene artefakte. Nije ništa rekao interesantno, sve dok nije spomenuo da je jednog dana odlučio otići iza Radara, u Pripjat.</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_4">
+                <text>Stvarno? Kako? Šta se desilo?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_5">
+                <text>Doći ćemo i do toga. Ne možeš ići samo tako tamo, jer se tunel, koji je povezivao Radar i Pripjat, urušio za vreme Emisije, pa sam mislio da laže. Ali je nastavio pričati o nekim stvarim koje su bile tako čudne da ih jednostavno nije mogao izmisliti. Tunel je završavao u jednoj od opskrbnih stanica. To je bilo ogromno skladište, puno trule i ukiseljene hrane, zajedno sa zahrđalom municijom i drugim stvarima. Kada je izašao iz skladišta, uleteo je u anomaliju. Opisao ju je kao "punu srebrenih niti u centru, kao paučina, prekrivena sa malim mehurićima. A iza paučine... Tama. Izgledalo je kao da ceo svet stisnut u... Tu tamu... Kao da ga je anomalija izvlačila van, namotavala i kidala. Posvuda je bila neka siva prašina, zaustavljena u vazduhu". Bio je prestravljen. Odlučio je da baci šaraf i anomaliju. Prvi je šaraf odleteo normalno, ali onda...</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_6">
+                <text>Onda šta?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_7">
+                <text>Šaraf se iznenada savio, iskrivio, okretajući se oko ose. Zatim se raspao u sitne komadiće, koji su se pretvarali u još sitnije komadiće kako se približivao centru, sve dok na kraju nisu u potpunosti nestali... Teško gutajući knedle, nekako je uspeo izbeći čudnu anomaliju i nastavio napred, bacajući šarafe ispred sebe. Kada je stigao do neke grupe kuća, shvatio je da je unjima Poltergeist. Sredio ga je bombom, i tu proveo noć. Kada se probudio jako se iznenadio: našao se u Pripjatu. Na centralnom trgu bio je Lenjinov kip. Bio je u potpunosti zarđao, i to toliko da se činilo da je sav prekriven nekim dlakavim krznom. Bacio je šaraf iz čiste radoznalosti. Čim je dotakao šarafom "dlake", šaraf je zarđao i u trenutku se pretvorio u prah. Tada je svanula zora u Pripjatu...</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_8">
+                <text>Vrlo interesantno. Šta se onda dogodilo?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_9">
+                <text>Sunce je izašlo, nesvesno da svoju svetlost prosipa po tako strašnom mestu kao što je Zona. Nakon što je prošao ulaz u NEP Černobil, Efim ga je ugledao... Sarkofag! Izgledao je sivo sa nebom u pozadini, što neobično tamni iza sitolikog krova. Onda je nebo posivilo još više. Crne tačke su mu bljeskale pred očima, svet se pretvorio u crno i sivo. Gajgerov brojač je poludeo. Odjednom je došlo do čudne Emisije. Izgledalo je kao da je Sarkofag u grču, kao da je još nešto tamo. Kada se okrenuo, osetio je oštru, nagrizajuću bol u glavi. Nove anomalije, drugačije, hemijske, gravitacione i električne, pojavile su se svuda oko njega. Nešto je preletelo iznad njega, ali gotovo da to nije primetio dok su ga noge nosile s tog... Zlobnog mesta... Dok je u njegovoj glavi nešto urlalo: "Zašto nas budiš?".</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_10">
+                <text>I šta se dogodilo s njim?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_11">
+                <text>Očigledno, Efimov mozak je bio spržen. Šta god da mu je urlalo u glavi, došlo je do malog mozga, prisiljavajući ga da razume, ali i činilo ga da ne oseća bol... Nekom čudnom srećom je upao u anomaliju, portal, koja ga je teleportovala negde u Radar. Ostalo sam sam povezao. Jučer je bila Emisija, ne posebno jaka, a radio valovi ne lažu. Efim se ugušio u vlastitoj krvi. Zona je bila čudno obojena, boje lila. Ali, šta se može...</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_12">
+                <text>Je li umro?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_13">
+                <text>Jeste, doslovno se pretvorio u žele. Zaista jeziv prizor, da ga bar mogu zaboraviti.</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story_14">
+                <text>Strašno. Ti bi mogao napisati pravu knjigu o Zoni.</text>
+        </string>
+        <string id="bar_bar_visitors_14_story_0">
+                <text>Ti si, kako vidim, veteran. Sigurno si video svašta.</text>
+        </string>
+        <string id="bar_bar_visitors_14_story_1">
+                <text>Jesam, ali opet nedovoljno. Ima vremena kada ćeš se stvarno iznenaditi, kada vidiš kako krov izgleda kada odleti i raspadne se. Video sa svakakve stvari. Jednom sam sa svojim partnerom otišao do Naučno-istraživačkog Instituta, dugo vremena smo sumnjali...</text>
+        </string>
+        <string id="bar_bar_visitors_14_story_2">
+                <text>Uopšte ti ne verujem!</text>
+        </string>
+        <string id="bar_bar_visitors_14_story_3">
+                <text>Nemoj se smejati...</text>
+        </string>
+        <string id="bar_bar_visitors_14_story_4">
+                <text>Uostalom, kada je lupetanje ubilo čoveka? Znači ovako, pičiš ti Zonom - već si je istudirao uzduž i popreko, bilo koju anomaliju odrediš sa kilometra udaljenosti, i odjednom neke onozemaljske niti neke nepoznate osobe te šalju na onaj svet... To je čak i uvredljivo slušati...</text>
+        </string>
+        <string id="bar_dolg_zastava_story_0">
+                <text>Naredniče, kako svakodnevna borba?</text>
+        </string>
+        <string id="bar_dolg_zastava_story_1">
+                <text>Loše, svaki dan ili je neka zaseda ili neko demoliranje... Nedavno smo sa komandantom pripremili zasedu gangsterima, u jednom hangaru, da ih se rešimo jednom za sva vremena - i tu smo naleteli na neko novo čudovište. Ušli smo u taj hangar, sve prašina, neke čelične mreže. Detektori nisu pokazali da iko osim nas ima tu, čak nisu ni očitali nikog van hangara. Počeli smo zauzimati položaje: Aleks je išao napred, mi smo ga pokrivali... Kad odjednom - GRUH! Velika željezna rđava greda se stropšta odozgo! Kako se Aleks izvukao, verujem da ni on sam ne zna, a to sranje je palo tačno gde je on stajao. Uglavnom, kada je greda pala, on se otkotrljao u stranu, i nije ustao već je onako ležećki počeo pucati! Ostali idioti su se previše uplašili i samo seli na neko belo svetlo. Kada je odjednom Aleks počeo urlati o nekom stvorenju u ćošku. Pogledao sam tamo i nisam ništa video...</text>
+        </string>
+        <string id="bar_dolg_zastava_story_2">
+                <text>Nastavi.</text>
+        </string>
+        <string id="bar_dolg_zastava_story_3">
+                <text>Otišli smo do tih ruševina, da ih malo istražimo - da se ne bi našlo nešto vredno u tom kršu. I opet glupost: još nekom se nešto pričinilo i ispucao je pola okvira u prazno mesto. Drugi je otišao na isti sprat i propao kroz rupu. Izgleda da su se ta stvorenja tu uzgajala ili razmnožavala! Postavili smo PSI-zaštitu i u sve ćuškove stavili plinske granate i čekali sa prstom na okidaču, ko će se pojaviti. Čekali i čekali... Onda se pojavilo neko stvorenje koje lebdjelo... Dok smo mi dole bili zaprepašteni kao neke budale, stvorenje se mirno smestilo ispod stropa i zabavljeno nas posmatralo... Tek poslije je krenulo prema nama, gotovo nehajno. Taj gmaz je uzdrmalo nekoliko greda koje su pale i na licu mesta ubile nam četvoricu... Tu smo ga imali!!</text>
+        </string>
+        <string id="bar_dolg_zastava_story_4">
+                <text>Stvarno?</text>
+        </string>
+        <string id="bar_dolg_zastava_story_5">
+                <text>Aleks je čuo neko šištanje odozgo pa je opalio iz automata - refleksna budala! I mi svi smo odstupili od zidova zbog gasnih granati... Stvorenje je opet poletelo u vis ispuštajući takve krikove da su nas uši zaboljele. I tu smo mu uzeli dušu. Aleks je uzeo nož, ali je bio preslab da ga baci... Svi smo otvorili vatru i trebala je kašika da se stvorenje pokupi s poda...</text>
+        </string>
+        <string id="bar_bar_drunk_dolg_story_0"> 
+		<text>Zašto si tužan stalkeru?</text>
+        </string>
+        <string id="bar_bar_drunk_dolg_story_1"> 
+		<text>Izgubio sam prijatelja, razumeš, bliskog prijatelja, Aleksa! Hmm... Prekjučer smo se okupili, zajedno sa Aleksom i Romkom. Novac nam je bio pri kraju, pa smo uzeli zadatak od Barmena da donesemo pipke krvopije, jer su hitno trebali naučnicima. Otišli smo u selo kod Vojnih Skladišta, zapadno od ceste. Ja sam imao SPAS-12, Aleks AK-74 i Romka sa svojim Abakanom. Stajali smo na brdu, licima prema selu a leđima okrenuti prema cesti. I tako stojimo, tišina svuda... Pritišće... Kao da je neko gura kroz uši. Noću krvopija ima više, kako nam Barmen reče. Malene kućice se polako pojavljuju, kao da u njima ime neki skriven bes. Ne samo neko čudovište, već su i same kuće zlokobne. Napunili smo oružje, pričvrstili lampe na oružje i krenuli napred. Tiho i oprezno, da se ne otkrijemo.</text>
+        </string>
+        <string id="bar_bar_drunk_dolg_story_2"> 
+		<text>I?</text>
+        </string>
+        <string id="bar_bar_drunk_dolg_story_3"> 
+		<text>Pa krenuli smo a onda je Aleks stao na kost! Sranje, to krckanje još mi zvoni u ušima, kao kada staneš na lobanju pacova! Stali smo svi kao ukopani u koraku. Možeš nas zamisliti kao neke antičke kipove, samo što je Aleks bio u pozi balerinskog labuda. Nisam znao da li da se smejem ili da plačem. Tada vidim da krvopija hvata Aleksa za nogu, ali kao da nije tu, jezik mi je zapeo a mozak zatajio, duša izgorela. Aleks kao da je nešto shvatio i okrenu se da vidi šta je to iza njega, a krvopija... Krvopija... Tako crna.... Tako gadna, ta usta!!! Povraćao sam svu hranu što sam pojeo. Mislio sam da Romka nije tako čvrst tip, kada je rascopao glavu tom čudovištu... Izgubio sam se kada sam video šta je krvopija uradila Aleksu. Probudio sam se na putu do Bara, Romka me vukao vlastitim rukama. Ceo život ću mu biti zahvalan. A za Aleksom ću celi život žaliti! Ajde, druže, da popijemo jednu za njega...</text>
+        </string>
+        <string id="bar_bar_hunter_story_0"> 
+		<text>Zdravo, kako život?</text>
+        </string>
+        <string id="bar_bar_hunter_story_1"> 
+		<text>Nedavno sam išao sa drugom pograničnim područjem Zone. Poslovno. Približili smo se granici Zone. Izvadio sam makaze i krenuo prema žičanoj ogradi. Tu me Vasil pogleda vragolasto i reče: "Kladim se da ću preći prepreku u sedam poteza." Režući sam mu rekao: "A ja ću u šest poteza", "A ja ću za pet","Za četiri! Kaže on: "Za jedan". Mislim u sebi, kakva glupost, pa kako bi to ikako izveo? Dok ja tako razmišljam, on uze bombu i baci je ispod ograde!</text>
+        </string>
+        <string id="bar_bar_hunter_story_2"> 
+		<text>Zar stvarno?</text>
+        </string>
+        <string id="bar_bar_hunter_story_3"> 
+		<text>Da! Imao sam samo vremena da mu viknem: "Nije potrebno!!" - i zabijem nos u prašinu. "Potrebno, potrebno!" - kaže Vasil i baci se pored mene. Buuum!!! Pokrila nas je prašina i blato. A iznad nas je proletela tabla sa natpisom: OPASNOST, NE PRILAZI!!, i zabila se u zemlju. Uhvatio sam Vasila za opasač i dreknuo: "Trči! Za deset minut ovde će sve vrvjeti ljudima iz kasarni!". A još se moramo provući kroz rupu u ogradi, a zatim kroz polje do najbliže šume. Kada smo stigli, bacili smo se u neki jarak, da uhvatimo dah i čujemo kako mitraljez iznad nas kosi drveće. Sa svakog drveta pršti kora, iverje i grane. Kaže meni Vasil: "Kladim se da ću gaće napuniti iz jednog poteza!!" Heh, stvarno smešna epizoda.</text>
+        </string>
+        <string id="bar_bar_hunter_story_4"> 
+		<text>Da, stvarno smešna...</text>
+        </string>
+        <string id="bar_arena_man_story_0"> 
+		<text>Jesu li priče koje sam čuo u baru istinite?</text>
+        </string>
+        <string id="bar_arena_man_story_1"> 
+		<text>O Sivom? Pa, on je jedan od prvih koji se ovde pojavio. Ima nešto čudno u vezi s njim. Kako je moguće ići Zonom u onakvu stanju i nikada ne doći praznih ruku? Misterija. Ali ipak mislim da je bliže istini! Prvo sam mislio sve ignorisati, ali opet nije to priča koju pričaju neke pijanice, ali je čovek pričao o nekim iznenađujućim stvarima!!!.</text>
+        </string>
+        <string id="bar_arena_man_story_2"> 
+		<text>Misli da to nisu laži?</text>
+        </string>
+        <string id="bar_arena_man_story_3"> 
+		<text>Ahhh, kako bih to znao... Znam da on nikada nije izgubio borbu, ponekad bi bilo sve gotovo i prije nego se vrata zaključaju, čak sam se i ja uplašio nekoliko puta! Pričao je o jednom mestu u Zatonu, gde su se elitne trupe smestile u jednoj pećini ispod stare benzinske stanice. Koliko ja znam Zaton je mrtvo mesto, nema nikakvog razloga da se ide tamo...</text>
+        </string>
+        <string id="bar_arena_man_story_4"> 
+		<text>Sivi je to rekao?</text>
+        </string>
+        <string id="bar_arena_man_story_5"> 
+		<text>Bio je žestok i volio puno lutati, pa sam imao utisak da je poludeo. Verovatno je naleteo na Kontrolera.</text>
+        </string>
+        <string id="bar_arena_man_story_6"> 
+		<text>Mislim da ga ne treba otpisati tako brzo. Posetiću taj Zaton čim stignem...</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story2_0"> 
+		<text>Slušaj, kako da zaradim nešto novca u Zoni?</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story2_1"> 
+		<text>Traži artefakte, radi zadatke, ubij ljude koji nerviraju druge, bogate stalkere... To ti je to, manje-više...</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story2_2"> 
+		<text>Hvala, to je bilo baš..."korisno".</text>
+        </string>
+        <string id="bar_bar_osvedomitel_story2_3"> 
+		<text>Hej, nemoj biti bezobrazan. Bezobrazni ljudi ne ostaju dugo u Zoni. Jesi ikada čuo izreku: "Što dublje u Zonu, bliže si raju"?</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_0"> 
+		<text>Hej šefe, kako služba?</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_1"> 
+		<text>Ne žalim se... Nego Obeleženi, jesi čuo za novo čudovište?</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_2"> 
+		<text>Ne.</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_3"> 
+		<text>Ok, ovo mi je prijatelj ispričao. Digli su ga u pola noći i rekli da odmah ide u laboratorij, da dolazi teret. On onako pospan: "Kakav teret?" Kažu oni njemu: "Jesi previše pijan?" Otišao je do stola. A tamo... Tela iz Zone kakva nikada nije video: rastrgana, spaljena, nekakvi mutanti da mu se stomak zgrčio. Tela su bila kao iz koncentracionih logora, sama kost i koža. Sve je bilo izmešano i nabacano jedno preko drugog... Te seronje su potratili toliko municije, kao da ih jedan metak nije mogao dokrajčiti. Neka velika glava, crvena, meso sve u trakama visi s nje...</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_4"> 
+		<text>M-da... Sigurno nije bio lep prizor...</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_5"> 
+		<text>Ukratko čitavu noć i pola jutra je to trajalo. Na kraju je ispalo da je ta glava od stvorenja kojeg lokalci zovu iluzionist: crne prnje, vizije stalkera, glava od metra u obimu... Bilo je ljudi koji su ga videli i mislili da je dobronameran. Lice mu je prirodno, sa malim očima i šiljatim nosom, a čeljust - ogromna. Glava mu je pala na grudi. Trebala je velika snaga da se drži uspravno... Mozak... Pitao se šta ova stvorenja jedu. Pečurke! Pečurke! Znao je da je Zona puna pečuraka. Sva ostala tela bila su isušena, kao da je neko svu tekućinu isisao iz njih. Na boku "glavonje" visila je neka vreća, kada ju je otvorio bila je puna mozgova koji su se sušili...</text>
+        </string>
+        <string id="bar_dolg_petrenko_story_6"> 
+		<text>Hmm...</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_0"> 
+		<text>Šta se dogodilo? Izgledaš kao da si došao sa pogreba.</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_1"> 
+		<text>Pa slično, zaljubio sam se kao kakav školarac. Sreo sam jednu devojku, ma nećeš mi verovati. Jesi li ikada video ženu u Zoni? Ali ova je bila... Ma... Savršenstvo. Da, savršenstvo. Ma pravo čudo, sve oko nje crno-belo, isprano a samo ona u boji. Kako se kretala! Nikada to ranije nisam video. Već mi je knedla zapela u grlu. Šta do đavola tako lepo stvorenje radi u Zoni!? Pored autobusne stanice nalazila se devetospratnica. Nešto je bljesnulo na prozoru u prizemlju. Otkočio sam svog kalaša i pogledao iza vrata... Nekoliko puta sam protrljao oči pitajući se je li to moguće? A ja stojim kao budala i buljim... Ipak pušku držim spremnu na gotovs, čisto iz navike...</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_2"> 
+		<text>Da, svi smo ovde poprilično zagoreli...</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_3"> 
+		<text>Tada me primetila... Nasmešila se... Lepo se pozdravila... Uopšte nisam čuo šta je govorila, samo sam buljio u nju. Nosila je tamni kostim koji joj je neverovatno pristajao. Njeno telo - fantastično! Nešto je pričala, ali ništa nisam slušao, samo sam stajao i smešio se... Mislim da je iz neke istraživačke grupe. Nekako sam se trgnuo i upitao da li joj mogu pomoći. Mislim da bi skočio i u anomaliju da je zatražila! Rekla je da se bavi...endemskom Zonom. Biljkama koje se nalaze ovde. Rekla mi je da je pobegla od zaštitara jer s njima ne postoji sloboda delovanja, i da je sama došla. Ne znam. Ja sam joj poverovao. Pristao sam da joj pomognem oko nečega. Došao sam nakon dva dana, kako smo se dogovorili. Došao sam sa samo jednom misli u glavi: videću je opet! Došao sam do kuće gde sam je našao ali nje nije bilo! Bila je tako lepa...</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_4"> 
+		<text>Jesi li je video posle toga?</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_5"> 
+		<text>Nisam, od tada je već prošlo dva meseca... Želudac me zaboli samo kada pomislim da joj se nešto desilo...</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_6"> 
+		<text>M-da... Nema tužnije priče od one o Romeu i Juliji. Ne brini, zaboravićeš je...</text>
+        </string>
+        <string id="bar_dolg_base_guard_story_7"> 
+		<text>Ne, burazeru. Nikada je neću zaboraviti...</text>
+        </string>
+
+        <string id="bar_bar_barmen_stories_0"> 
+		<text>Zdravo. Možemo li razgovarati?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_1"> 
+		<text>Pa, nisam baš neki pripovedač. Šta hoćeš?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_2"> 
+		<text>Gde mogu doći do nekog "pravog" oružja? Ne govorim o pištoljima, već o nečem sa pravom zaustavnom moći. I neko pristojnu municiju zajedno s njim.</text>
+        </string>
+        <string id="bar_bar_barmen_stories_22"> 
+		<text>Dosta oružje je bilo u opticaju pre drugog "incidenta". Uglavnom vojni AK, i slično. Prvi stalkeri su bili uglavnom nenaoružani, ali su ubrzo shvatili da je oružje ne samo neophodno da bi preživeli, već da ono znači i novac. Kako misliš da sam ja preživeo ovde?! Zatim su stigli i šverceri, a s njima i bolje oružje. Tako je sve krenulo.</text>
+        </string>
+        <string id="bar_bar_barmen_stories_23"> 
+		<text>Da, stvarno tako jednostavno.</text>
+        </string>
+        <string id="bar_bar_barmen_stories_24"> 
+		<text>Takav je ciklus oružja u Zoni.</text>
+        </string>
+        <string id="bar_bar_barmen_stories_25"> 
+		<text>Obično vojno oružje uopšte nije problem, ali imaš i drugog oružja kao FN-2000 na primer, je li moguće tako nešto nabaviti? Ako jeste, gde?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_26"> 
+		<text>Definitivno ih ima. Čuo sam da su ih se Monolitovci dočepali "odnekud". Najverovatnije izvan Zone. Tako nešto je jako teško naći, i jako skupo...</text>
+        </string>
+        <string id="bar_bar_barmen_stories_27"> 
+		<text>Sigurno ih ima. Samo treba držati oči otvorene!!</text>
+        </string>
+        <string id="bar_bar_barmen_stories_28"> 
+		<text>Dobar trgovac uvek ima svoje izvore i dobre veze sa vanjskim svetom. U suštini, mogu ti nabaviti sve što ti srce zaželi. Naravno za određenu svotu novca!</text>
+        </string>
+
+        <string id="bar_bar_barmen_stories_29"> 
+		<text>Da li znaš nešto interesantno?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_291"> 
+		<text>Informacije koštaju. Izvini, ali moram da radim. Ne mogu celi dan samo da stojim i da čavrljam s tobom! Ukoliko nešto ne kupuješ...</text>
+        </string>
+        <string id="bar_bar_barmen_stories_3"> 
+		<text>Ponekad se bojim da ću poludeti od Zone. Jesi li primetio neko čudno ponašanje kod stalkera?!</text>
+        </string>
+        <string id="bar_bar_barmen_stories_33"> 
+		<text>Naravno. Zona nas polako sviju izluđuje. Sve to ovisi od osobe do osobe. Naravno postoje izuzetci...</text>
+        </string>
+        <string id="bar_bar_barmen_stories_34"> 
+		<text>Naravno, svi moramo dobro paziti sami na sebe.</text>
+        </string>
+        <string id="bar_bar_barmen_stories_35"> 
+		<text>Ne promiče ti puno, zar ne. Izvoli, votka je najbolji lek ovde.</text>
+        </string>
+        <string id="bar_bar_barmen_stories_36"> 
+		<text>A koji su to izuzetci?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_37"> 
+		<text>PA jedan od prvih stalkera u Zoni, zvao se Beldug. Potpuno je izgubio razum, Zona ga je nekako promenila... Skroz je poludeo! Ono što je bitno u vezi njega jeste da je on naj srećnija osoba koju sam poznavao. Uvek je imao artefakata i novca. Najbolje oružje također. Ne znam otkud mu sve to. Jednom ga je napao Pseudopas na izlazu iz grada, ali za nekoliko dana opet je bio na nogama!! Rane mu brzo zarastaju kao i tom Pseudopsu. Srećno kopile!</text>
+        </string>
+        <string id="bar_bar_barmen_stories_38"> 
+		<text>A gde je on sada?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_39"> 
+		<text>Pa, prošli mesec sam pričao s nekim tipom koji mi je reako da ga je video nedaleko od Vojnih Skladišta. Kaže da mu se stanje još više pogoršalo. Samo je besciljno lutao. Nosio je svoje oružje koje mu je samo visjelo o boku, ali ga nije znao koristiti. Svi artefakti na njegovu pojasu su se pretvorili u bezvredne Kaldrme, ali ih dalje nosi. Rekao mi je da je neprestano mrmlja nešto, kao tihi šapat. Zvučalo je kao. "Kon-n... trl-- Kont-t-t .. troool...e-e-rr". Izgleda kao da ga je Zona ovaj put zaista uzela...</text>
+        </string>
+        <string id="bar_bar_barmen_stories_391"> 
+		<text>Razumem.</text>
+        </string>
+
+
+        <string id="bar_bar_barmen_stories_4"> 
+	<text>Imaš li nekih vesti za podeliti?</text>
+        </string>
+        <string id="bar_bar_barmen_stories_44"> 
+	<text>Ništa što se tebe tiče stalkeru. Razguli!</text>
+        </string>
+
+
+<string id="bar_bar_visitors_14_story2_0">
+<text>Šta mi još možeš reći?</text>
+</string>
+<string id="bar_bar_visitors_14_story2_1">
+<text>Svašta sam preživeo, samo ne pričam o tome. Što se desilo, desilo se, ne želim se ni sećati. Jednom sam išao kroz tunel, negde u blizini napuštene stanice. Emisije me uhvatila i gotovo trajala celi dan, pa sam odlučio da idem kroz tunel. Pogotovo kada sam pogledao na kartu i video da nema drugog boljeg puta. Uostalom tada još nije bilo nikakvih priča o tim mestima. I tako idem polako, nema ništa osim poneke anomalije... Mukla tišina se nadvila nad mene. Kraj tunela nigde na vidiku, samo krug od moje lampe ispred mene. Potrošio sam čitav tucet šarafa na razne anomalije. Odjednom sam čuo kapanje vode, a zatim neko škrgutanje. Stao sam, skinuo ranac i naćulio uši. Ipak ne škrguće, više kao da stenje i uzdiše na nekih dvadesetak koraka napred. Nisam imao drugog puta - izvukao sam i repetirao svoj Glock. Zvučalo je kao da dolazi iz nekog vagona. Kada sam se još više približio, izgledalo je kao - žena! Kunem se, tamna brada i možda nekig trideset-četrdeset godina, i leži u nekom rasutom smeću mumljajući nešto nerazumljivo. Od srama sam spustio Glock, jer ipak je to žena koja treba pomoć. Znaš uopšte nisam ni razmišljao da se pitam šta žena uopšte radi u Zoni, na ovom napuštenom mestu u mraku. Kada mi je došlo u glavu, gotovo da je bilo prekasno. To stvorenje me udarilo rukom! Podigao sam Glock i smestio metak u čelo. Otišao sam po ranac i pokupio ga. Onda sam shvatio da je Zona još jednu dušu zamračila. Kada te Zona uzme - jednostavno te pretvori u neko drugo stvorenje. I to ne uzalud, Zona se ne šali uzalud, gde ćeš drugo čuti za izloma - ženu! Osećem neku prljavu revoluciju i evoluciju uskoro...</text>
+</string>
+<string id="bar_bar_visitors_14_story2_2">
+<text>Ma ajde, to si ti možda samo sanjao.</text>
+</string>
+<string id="bar_bar_visitors_14_story2_3">
+<text>Kako da ne. Zapamti moje reči stalkeru - nešto se planira pomno u Zoni. I to ništa dobro...</text>
+</string>
+
+
+        <string id="bar_bar_hunter_story2_0"> 
+		<text>Jesi čuo išta novo? Ima li šta novo u ovom kraju?</text>
+        </string>
+        <string id="bar_bar_hunter_story2_1"> 
+		<text>Čuo sam nekoliko stvari. Jesi čuo o tipu kojeg zovu Obeleženi?</text>
+        </string>
+        <string id="bar_bar_hunter_story2_2"> 
+		<text>Uummm. Nisam.</text>
+        </string>
+        <string id="bar_bar_hunter_story2_3"> 
+		<text>Šta? Stvarno? Nisi čuo za Obeleženog?!</text>
+        </string>
+        <string id="bar_bar_hunter_story2_4"> 
+		<text>Nisam. Ajde ispričaj mi. Slušam.</text>
+        </string>
+        <string id="bar_bar_hunter_story2_5"> 
+		<text>Jedan tip sa juga, po imenu Petruha, je zatražio cigaretu od mene. Nakon što je zapalio, počeli smo razgovarati. Ispričao mi je o jedno čudnom tipu koji se dole pojavio. Kaže da je najverovatnije ispao iz Kamiona Smrti, koji su išli prema "Pogrebnoj rupi" južno od Vojne predstraže. Kaže da je kamion pogodila munja noć prije, i da je Astrolog izvukao tog tipa iz olupine sledećeg jutra oko 07:45... Nekako mi je ta priča previše nategnuta. Mislim, ko bi uopšte mogao preživeti Kamione Smrti?! Sva ta radijacija, PSI-sranja sa tih leševa. Čak i da to neko preživi, kako preživeti udar munje u kamion! Ti dolaziš sa juga. Jesi li išta čuo o tome? Bilo šta?!</text>
+		</string>
+        <string id="bar_bar_hunter_story2_6"> 
+		<text>Zvuči kao da te neko dobro nakljukao bajkama Zone, prijatelju. Evo popij još piće. Ja častim.</text>
+		</string>
+		<string id="bar_bar_barman_esc_reward_case_1">
+		<text>Šta imaš za mene?</text>
+	</string>
+	<string id="bar_bar_barman_esc_reward_case_2">
+		<text>Sidorovič me poslao da ti donesem ovu aktovku koju sam "pokupio" iz Vojne baze u Kordonu. On kaže da bi ti mogao dešifrirati sadržaj. Pa, šta kažeš?</text>
+	</string>
+	<string id="bar_bar_barman_esc_reward_case_3">
+		<text>Da vidimo. Neke informacije su zastarele, ali imaju i neke koje ukazuju da postoji put kroz Divlju Teritoriju so mobilne naučne stanice u Jantaru. Ovo je jako korisno, zar ne?!</text>
+	</string>
+	<string id="bar_bar_barman_esc_reward_case_4">
+		<text>Zaista jeste. Imaću to na umu.</text>
+	</string>
+	<string id="bar_bar_barman_esc_reward_case_0">
+		<text>Izvoli, imam nešto za tebe.</text>
+	</string>
+        <string id="bar_voronin_talk_0">
+		<text>Generale Voronjin, tražim neke informacije o nekom koga poznajete.</text>
+	</string>
+        <string id="bar_voronin_talk_1">
+		<text>Da, Obeleženi. O kome želiš razgovarati?</text>
+	</string>
+        <string id="bar_voronin_talk_2">
+		<text>Tražim osobu koja je ubila Fanga. Dr. Saharov mi je rekao da ste bili u nekoj "poslovnoj" vezi.</text>
+	</string>
+        <string id="bar_voronin_talk_3">
+		<text>Da, poznavao sam Fanga. S vremena na vreme je radio za mene. Bio je jedan od "nekolicine" koji su stvarno došli do Centra Zone, što ga je činilo pravim kandidatom. Prvo smo pukušali da kontaktiramo "Duha", ali on je odbio iz nekog svog razloga. Fang je prihvatio zadatak da ode u Zonu i da preuzme neke informacije za nas. Pogodila me vest o njegovoj smrti. I stvarno bih voleo da mi padne u šake taj koji je to uradio. Ali to je posao za neki drugi dan. U svakom slučaju, trebaš da preuzmeš neke važne informacije za mene. Jedan od mojih ljudi ima vrlo važne informacije na USB stiku. Treba mi taj USB. Ako mi doseseš taj USB, rado ću podeliti još neke informacije o prerano preminulom Fangu. Jesi zainteresiran?!</text>
+	</string>
+        <string id="bar_voronin_talk_4">
+		<text>Doneću taj USB, generale. Sve informacije vezane za Fanga me interesuju.</text>
+	</string>
+        <string id="bar_voronin_next_0">
+		<text>Generale Voronjin, doneo sam USB.</text>
+	</string>
+        <string id="bar_voronin_next_1">
+		<text>Hvala na pomoći! Kao što sam ti i obećao, reći ću ti sve što znam. Je li ti poznat čovek pod imenom "Doušnik"? On je jedan od naših, neko ko ima veze sa Plaćenicima. Izgleda da je Fang s vremena na vreme surađivao sa Plaćenicima, ne nekim "delikatnim" misijama. Ako je to tačno, onda Doušnik to sigurno zna. To je sve što ti trenutno mogu reći, Obeleženi. Srećno!</text>
+	</string>
+        <string id="bar_voronin_next_2">
+		<text>Hvala na informacijama! Potražiću tog Doušnika.</text>
+	</string>
+</string_table>
+	<!-- Tekst usklađen sa 109981 verzijom 28.02.2015 14:21 - sadd -->
+	<!-- Preveo i prilagodio flexerca -=- 07:46 13.10.2015 -->
