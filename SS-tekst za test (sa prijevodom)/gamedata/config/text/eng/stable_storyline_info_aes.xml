@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-<string id="aes_military_task">
-<text>Operacija "Monolit"</text>
-</string>
-<string id="aes_military_task_head">
-<text>Situacija</text>
-</string>
-<string id="aes_soldier_info">
-<text>Plan vojne akcije\n\n Ljudstvo:\n Komandant operacije: nadimak Kvartret\n Sedam vazdušnih udarnih jedinica: Sapsan, Korsun, Jastreb, Pustelga, Soko, Grif, Lun. \n Snajper tim: Sova\n Pomoć:\n Vazduh: 018, 030, 031, 48, 49, 52\n 51, 64, 65, 098, 097\n Zemlja: Oklopnik 1, Oklopnik 2, Oklopnik 3\n Situacija: Moguć snazan otpor u blizini mosta (23,45), kapije (26,78) i puta duž glavne zgrade stanice (12,23-53,76). Protivnik će verovatno imati teško naoružanje. \n Očekivan broj protivničkih vojnika: 70 do 100. Oklopna vozila: nema.\n Moguca velika podrška snajpera.\n Vremenski uslovi: Vidljivost - 700, mogućnost prethodno nepronađenih anomalija.</text>
-</string>
-<!-- Preveo i prilagodio Flexerca---29.01.2015 --14.30 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:52 -sadd -->
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="aes_military_task">
+		<text>Operacija "Monolit"</text>
+	</string>
+	<string id="aes_military_task_head">
+		<text>Situacija</text>
+	</string>
+	<string id="aes_soldier_info">
+		<text>Plan vojne akcije\n \nLjudstvo:\nKomandant operacije: nadimak Kvartret\nSedam vazdušnih udarnih jedinica: Sapsan, Korsun, Jastreb, Pustelga, Soko, Grif, Lun.\nSnajper tim: Sova\nPomoć:\nVazduh: 018, 030, 031, 48, 49, 52\n51, 64, 65, 098, 097\nZemlja: Oklopnik 1, Oklopnik 2, Oklopnik 3\nSituacija: Moguć snazan otpor u blizini mosta (23,45), kapije (26,78) i puta duž glavne zgrade stanice (12,23-53,76). Protivnik će verovatno imati teško naoružanje.\nOčekivan broj protivničkih vojnika: 70 do 100. Oklopna vozila: nema.\nMoguca velika podrška snajpera.\nVremenski uslovi: Vidljivost - 700, mogućnost prethodno nepronađenih anomalija.</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 29.01.2015 - 14.30 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 20:59 -sadd -->

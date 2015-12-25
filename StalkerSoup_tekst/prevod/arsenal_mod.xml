@@ -130,6 +130,18 @@
 		<text>• Municija: 12x70 'Saèma'\n• Kapacitet: 8 Komada\nSidoroviè mi je dao ovu pušku...saèmaricu. Prilièno grubog oblika, ali dobro doðe u škripcu. Rekao mi je da je pripadala nekom tipu po imenu Francis, koji je prošao ovuda pre nekog vremena. Èudan neki tip... Sav prekriven tetovažama, kožom, lancima i ostalim sranjem. Kakvo je to ime "Francis" za takvog tipa?! Kako god .. Sid reèe da je menjao pušku za celi sanduk votke, i da su ga tu zadnji put videli...jednostavno je ispario...nestao. Možda je umro u Zoni, ili je možda potplatio neke vojnike votkom da ga izvuku odavde. Ma koga briga..sada imam njegovu pušku. Oh, još nešto... Sid reèe da je mumljao neke stvari sebi u bradu doj je predavao pušku... "pucaj im u glavu..." ili tako nešto... Èudan narod dolazi u Zonu.. Stvarno èudan... Dao mi je i neku municiju za pušku èudnog izgleda... Kaže da bi trebala "odraditi trik" ... E pa saèekaæemo i videti...</text>
 	</string>
 	<!-- ATTACHMENTS -->
+	<string id="ars-sil_545_ar">	<!-- new silencer - aleks1970 -->
+		<text>Prigušivaè "THP-A-5.45"</text>
+	</string>
+	<string id="enc_arsenal_sil_545_ar">	<!-- sadd poèetak -->
+		<text>Muffler-tactical flash suppressor for the AK series machinguns caliber 5.45mm - "THP-A-5.45". It can be installed in place of regular AK Compensator on "Abakan" and RPK machine guns series "74". It designed to reduce the volume of the shot while shooting a machine gun in the rear hemisphere, and masking the arrow at the expense of distortion of the sound field in the forward hemisphere and the lack of flame shot.</text>
+	</string>	<!-- sadd kraj -->
+	<string id="ars-sil_1143_p">
+		<text>Prigušivaè M-P 11.43</text>
+	</string>
+	<string id="enc_arsenal_sil_1143_p">
+		<text>Prigušivaè za pištolje i PP kalibra 11.43mm (.45).</text>
+	</string>
 	<string id="ars-sil_556_ar">
 		<text>5.56x45mm prigušivaè</text>
 	</string>
@@ -247,4 +259,4 @@
 	</string>
 </string_table>
 <!-- Preveo i prilagodio Flexerca -=- 12:39 22.02.2014 -->
-<!-- Tekst usklaðen sa 109983 verzijom zakrpe - 25.03.2015 0:19 -sadd -->
+	<!-- Tekst usklaðen sa 109999 verzijom zakrpe - 24.12.2015 20:19 -sadd -->

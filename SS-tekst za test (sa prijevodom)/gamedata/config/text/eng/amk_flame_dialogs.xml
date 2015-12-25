@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.11e -->
+<!-- TB3D 1.0.9.9.9.8 -->
 <!-- Text editing by: Martin Pallo 09/12/11-->
-<string_table>
+
 	<string id="mil_freedom_commander_7000">
 		<text>Hvala puno, Obeleženi! Izgleda da smo uspeli... Prokleta luda kopilad!! Te Monolitske lujke nisu najgore što se moglo desiti ovde... Nedavno su mutanti pokušali probiti unutra iz područja koje okružuje Radar. Jako brzo se kreću, i ne može svako pucati u tako brze mete i pogoditi! Mi imamo bacač plamena, odlično oružje protiv tih nakaza, ali je sada pokvaren. Možda ga naš tehničar, Screw(ne znam koje je ime), može popraviti. Ali kako mi ostali možemo pobeći iz ovog prokletog mesta?! Svedok si da ovde nema ni sekunde mira! Pa, vreme je za jednu malu nagradu za tebe. Jel' novac pali kod tebe?</text>
 	</string>
@@ -37,7 +37,7 @@
 	</string>
 	<string id="mil_screw_flamethrower_1005">
 		<!-- MF minor rewrite -->
-		<text>Odlično... Evo šta nam treba:\n\n
+		<text>Odlično... Evo šta nam treba:\n \n
 Prvo, treba nam artefakt koji se zove "Vatrena Lopta". Ovaj bacač plamena ima više rupa nego švicarski sir! Većinu mogu zavariti i zatvoriti, ali neću završiti do zime koliko ih ima! Ali sa Vatrenom Loptom, bilo bi gotovo za sekundu, veruj mi, postoje neke nepoznate karakteristike u toj Lopti...jako korisna stvar, zaista... \n
 Drugo, trebaju nam nove cevi i creva za gorivo(Ove koje imam dobre su samo za WC, a ne za bacač plamena!). Zato nabavi cevi. Razgovaraj sa Sidorovičem... Novajlije mu često donose tone smeća iz...pa...sa Deponije! Uzgred ga i pozdravi od mene.\n
 Treće, treba nam novi manometar, ili ćeš ti biti taj koji će biti spaljen. Bože, izgleda kao otvorena konzerva. Moroni jedni.. Dobro, pronađi ga gde god želiš. Ja bih pogledao po Agropromu... Tamo je bio Institute there, znaš, pa možda tamo nešto pronađeš.\n
@@ -55,7 +55,7 @@ To je sve. Mislim da ćeš uspeti, ipak si ti Stalker, jel' tako? Naposletku, imać
 		<text>Čekaj, nisi ništa spominjao novac!</text>
 	</string>
 	<string id="mil_screw_flamethrower_1009">
-		<text>Hej, budi pametan. Mogu dobiti milion za ovaj bacač! Ali ja nisam takva osoba, Obeleženi. Vidiš... Ko bi osim mene mogao to uraditi? Zato ne budi tako škrt, čoveče! </text>
+		<text>Hej, budi pametan. Mogu dobiti milion za ovaj bacač! Ali ja nisam takva osoba, Obeleženi. Vidiš... Ko bi osim mene mogao to uraditi? Zato ne budi tako škrt, čoveče!</text>
 	</string>
 	<string id="mil_screw_flamethrower_1010">
 		<text>Dobro, do vraga, pristajem. Nemoj samo umreti od votke pre nego se vratim.</text>
@@ -187,12 +187,12 @@ To je sve. Mislim da ćeš uspeti, ipak si ti Stalker, jel' tako? Naposletku, imać
 	</string>
 	<string id="mil_screw_flamethrower_text">
 		<!-- MF A Pressuremeter -->
-		<text>Moram pronaći neke predmete sa liste koju mi je Šraf dao: \n\n
+		<text>Moram pronaći neke predmete sa liste koju mi je Šraf dao:\n \n
 1. Artefakt "Vatrena Lopta".\n
 2. Cevi. Šraf reče da bi ih Sidorovič mogao imati.\n
 3. Manometar. Pogledati u Agroprom Istraživačkom Institutu.\n
 4. Plamenik. Pitati Barmena.\n
-5. Deset flaša votke za ovog alkoholičara.\n\n
+5. Deset flaša votke za ovog alkoholičara.\n \n
 Biće ovo dug dan...</text>
 	</string>
 	<string id="trubka_descr">
@@ -233,6 +233,5 @@ Biće ovo dug dan...</text>
 	<string id="flamethrower_basic">
 		<text>Bacač plamena - ručno rađen ali sa velikim umećem. Može se napuniti u bazi Fridoma, kod Screw. Nije široko rasprostranjena tehnologija a i gorivo je teško nabaviti. Sastoji se od običnog benzina (pohranjen u običnom kanisteru) i specijalnog Koloidnog gasa (pohranjenom u specijalnom crveno obeleženom spremniku). Screw kaže da ih ima puno u Agroprom, ali da se mogu pronaći i na drugim mestima. Naravno, Screw ih može pronaći i sam ali bi to previše koštalo. I kao i uvek, trebaće mu flaša votke samo za sebe.</text>
 	</string>
-</string_table>
 	<!-- Preveo i prilagodio Flexerca -=- 11:13 27.07.2014 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:12 -sadd -->

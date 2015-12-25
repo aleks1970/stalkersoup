@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.5.0 Serega  -->
-<string_table>
+<?xml version="1.0" encoding="windows-1250"?> 
+<!-- TB3D 1.0.9.9.9.8 Serega, removed "string_table" - aleks1970  -->
+
 	<string id="val_escort_captive_dialog_11">
 		<text>Banditi... Ti kurvini sinovi su me hteli odvesti prema staroj fabrici. Ne znam, šta su tamo željeli samnom da urade, ali oni su već jednog drugog tipa tamo odveli i više ga nisam video. Oni imaju još jednog od nas: Serega. Drže ga zatvorenog u podrumu... U onoj velikoj zgradi tamo... Jedna ogromna još ne dovršena zgrada. Možeš li mu pomoći? Inače će oni... Znaš već ...</text>
 	</string>
@@ -190,5 +190,4 @@
 	<string id="dark_pulia_talk_story_1">
 		<text>Mogu ti pričati o artefaktu po imenu "Krv", otkrio sam tajnu o njemu još pre mnogo vremena - vraćao sam se nazad sa izviđanja, ranjen, takođe mi je novac bio jako potreban. Kad iznenada, ugledao sam neki čudan artefakt na zemlji, požurio sam prema njemu - to je tolika vrednost uostalom! Dok sam ga uzimao, skoro da sam upao u anomaliju "Lift". Dok sam ga doneo u kamp, sve moje rane su zacelile! Ljudi u kampu su me posavetovali da ga pokažem naučnicima. Tako da sam ga i odneo njima.. Kada su ugledali tu stvar počeli su da se tresu i dali su mi mnogo novca. Verovao ili ne... to je prava istina.</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 13:09 21.04.2015 -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0 edits/cryillic, line 629, 1505 removed russian char. aleks1970 -->
+<!-- TB3D 1.0.9.9.9.8 edits/cryillic, line 629, 1505 removed russian char. aleks1970  -->
 <string_table>
 	<string id="dead_city_secret_1_name">
 		<text>Štek Begunaca</text>
@@ -151,11 +151,18 @@
 	<string id="village_arhara_secret_4_descr">
 		<text>Izdvojio sam se. Ponekad je potrebno odmoriti, jesti i pročitati časopis... Trepa pregledati. A moraš nositi tonu opreme sa sobom. I koji je idiot rekao, da Zona nije za šene? Impotentna budala, tačno tako...</text>
 	</string>
+	<string id="village_ghost_secret_name">
+		<!-- ghost box - aleks1970 -->
+		<text>Skriveno mjesto Duha</text>
+	</string>
+	<string id="village_ghost_secret_descr">
+		<text>Ostaviću ovdje moje specialno odelo sa nadom, da ga nitko neće naći prije nego što se vračam na SEVER...</text>
+	</string>
 	<string id="agr_secret_0000_descr">
 		<text>Za sad je naš tajni štek u tunelu. Nije loše mesto - retko ko zna za njega, a anomalije sprečavaju druge da im priđu.</text>
 	</string>
 	<string id="agr_secret_0000_name">
-		<text>Tajni štek Sivog</text> <!-- Seris Hiding place -->
+		<text>Tajni štek Sivog</text>
 	</string>
 	<string id="agr_secret_0001_descr">
 		<text>Sakrio sam stvari u panj pored tunela. Šupalj je izunutra.</text>
@@ -566,7 +573,7 @@
 		<text>Pored seoskog puta</text>
 	</string>
 	<string id="esc_secret_0016_descr">
-		<text>Stvari su u podrumu Bandita. Ranije tamo nije bilo ničeg, hajde da sačekamo pravi trenutak. </text>
+		<text>Stvari su u podrumu Bandita. Ranije tamo nije bilo ničeg, hajde da sačekamo pravi trenutak.</text>
 	</string>
 	<string id="esc_secret_0016_name">
 		<text>Podrum pljačkaša</text>
@@ -977,7 +984,7 @@
 		<text>Oni kažu da su snabdevači frakcije, koji su pokušavali da dođu do centra zone, još uvek pod dejstvom radijacije Spaljivača. Niko se od njih nije vratio i zalihe su ostale da čekaju da ih neko pokupi.</text>
 	</string>
 	<string id="rad_secret_0004_name">
-		<text>Zalihe bezobzirne grupe. </text>
+		<text>Zalihe bezobzirne grupe.</text>
 	</string>
 	<string id="rad_secret_0005_description">
 		<text>Oni kazu da je lider neke bivše frakcije izdahnuo ovde, i da je bila vredna količina poslastica sa njim</text>
@@ -1190,7 +1197,7 @@
 		<text>Tajno skrovište ispod bora</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>Početnik je "završio" tako što je ukrao sanduk od Bandita. Stavio je u Nivu okrenuvši ga naopako. On kaže da pogledavši ga, izgleda kao Vladin sanduk. Moraćemo da naoružamo naše momke kako bi ga uzeli! </text>
+		<text>Početnik je "završio" tako što je ukrao sanduk od Bandita. Stavio je u Nivu okrenuvši ga naopako. On kaže da pogledavši ga, izgleda kao Vladin sanduk. Moraćemo da naoružamo naše momke kako bi ga uzeli!</text>
 	</string>
 	<string id="val_secret_0008_name">
 		<text>Vladin sanduk</text>
@@ -1208,7 +1215,7 @@
 		<text>Tajno skrovište u sahti</text>
 	</string>
 	<string id="val_secret_0011_description">
-		<text>Bačen je ranac ispod drveta. U suprotnom, ja ne bih mogao da pobegnem od Bandita. </text>
+		<text>Bačen je ranac ispod drveta. U suprotnom, ja ne bih mogao da pobegnem od Bandita.</text>
 	</string>
 	<string id="val_secret_0011_name">
 		<text>Stalkerov ranac</text>
@@ -1220,7 +1227,7 @@
 		<text>Tajno skrovište</text>
 	</string>
 	<string id="val_secret_0013_description">
-		<text>Sve što sam ukrao od Borova ja sam sakrio daleko u jedan sef ispod borovog drveta. Sada moram da sačekam dok ih prođe nervoza. </text>
+		<text>Sve što sam ukrao od Borova ja sam sakrio daleko u jedan sef ispod borovog drveta. Sada moram da sačekam dok ih prođe nervoza.</text>
 	</string>
 	<string id="val_secret_0013_name">
 		<text>Skriveni sef</text>
@@ -1244,7 +1251,7 @@
 		<text>Sanduk sa robom</text>
 	</string>
 	<string id="val_secret_0017_description">
-		<text>Krijem robu iza cevi- teško je prići, ali na kraju oni barem neće otići sa robom </text>
+		<text>Krijem robu iza cevi- teško je prići, ali na kraju oni barem neće otići sa robom</text>
 	</string>
 	<string id="val_secret_0017_name">
 		<text>Tajno skrovište iza cevi</text>
@@ -1310,7 +1317,7 @@
 		<text>Zapostavljeni ranac</text>
 	</string>
 	<string id="val_secret_0028_description">
-		<text>Ostavili smo robu u sefu u neopisivom mestu. Ako vojnici ne dođu danas, doći će sutra. Oni neće gledati okolo mnogo dugo tako da ću važne stvari ostaviti.  </text>
+		<text>Ostavili smo robu u sefu u neopisivom mestu. Ako vojnici ne dođu danas, doći će sutra. Oni neće gledati okolo mnogo dugo tako da ću važne stvari ostaviti.</text>
 	</string>
 	<string id="val_secret_0028_name">
 		<text>Borovo tajno skrovište</text>
@@ -1340,7 +1347,7 @@
 		<text>Tajno skrovište u kolima</text>
 	</string>
 	<string id="x16_secret_0000_description">
-		<text>Priča se da postoji Stalker koji je upao u laboratoriju i sakrio njegovu robu u električnim utičnicama u liftu. Kada je došlo vreme da pokupi stvari on se nije pojavio. </text>
+		<text>Priča se da postoji Stalker koji je upao u laboratoriju i sakrio njegovu robu u električnim utičnicama u liftu. Kada je došlo vreme da pokupi stvari on se nije pojavio.</text>
 	</string>
 	<string id="x16_secret_0000_name">
 		<text>Roba u električnim utičnicama</text>
@@ -1352,7 +1359,7 @@
 		<text>Skautov ranac</text>
 	</string>
 	<string id="x18_secret_0000_description">
-		<text>Dimljeni je stavio sve u sef u podzemlju laboratorije. Nije loše mesto - niko nema ključ od laboratorije. Jedini problem su stene koje počinju da lete iznenada svuda okolo. Kažu da je neko poginuo tako. </text>
+		<text>Dimljeni je stavio sve u sef u podzemlju laboratorije. Nije loše mesto - niko nema ključ od laboratorije. Jedini problem su stene koje počinju da lete iznenada svuda okolo. Kažu da je neko poginuo tako.</text>
 	</string>
 	<string id="x18_secret_0000_name">
 		<text>Tajno skrovište Dimljenog</text>
@@ -1418,7 +1425,7 @@
 		<text>Tajno skrovište grupe</text>
 	</string>
 	<string id="yan_secret_0009_description">
-		<text>Još jedan volonter stalker je izdahnuo jer ga prototip odelo nije zaštitilo od radijacije. On je jedino uspeo da dođe do središta teritorije i tamo je ostao. Saharov želi još precizna merenja ali ja ne želim ići, inače ću završiti boravak tamo sam, nedaleko od teritorije. </text>
+		<text>Još jedan volonter stalker je izdahnuo jer ga prototip odelo nije zaštitilo od radijacije. On je jedino uspeo da dođe do središta teritorije i tamo je ostao. Saharov želi još precizna merenja ali ja ne želim ići, inače ću završiti boravak tamo sam, nedaleko od teritorije.</text>
 	</string>
 	<string id="yan_secret_0009_name">
 		<text>Torba volontera</text>
@@ -1430,7 +1437,7 @@
 		<text>Staro tajno skrovište</text>
 	</string>
 	<string id="yan_secret_0011_description">
-		<text>Moram da odem. Saharov i Kruglov su potpuni psihopate - oni žele da idem sa nekim stalkerima u centar radijacije. Ko ih jebe, čim skupim sve zalihe iz šahte, odlazim daleko!!! </text>
+		<text>Moram da odem. Saharov i Kruglov su potpuni psihopate - oni žele da idem sa nekim stalkerima u centar radijacije. Ko ih jebe, čim skupim sve zalihe iz šahte, odlazim daleko!!!</text>
 	</string>
 	<string id="yan_secret_0011_name">
 		<text>Tajno skrovište naučnika</text>
@@ -1648,12 +1655,6 @@
 	<string id="red_forest_secret_0002_description">
 		<text>Desilo se da smo zarobili Plaćenike. Možde prerano. Pa su nam rekli za skriveno mesto, ali tek kada smo ih šamarali.</text>
 	</string>
-	<string id="red_forest_secret_0002_name">
-		<text>Ranac u Šumi</text>
-	</string>
-	<string id="red_forest_secret_0002_description">
-		<text>Stigao sam u Limansk. Onda nisam mogao dalje, ali put koji sam odbrao, doveo me je do skrivenog mesta u Crvenoj Šumi.</text>
-	</string>
 	<string id="red_forest_secret_0003_name">
 		<text>Ranac u Crvenoj Šumi</text>
 	</string>
@@ -1726,6 +1727,13 @@
 	<string id="red_forest_secret_0014_description">
 		<text>On je odbacio stvari u štek tek tako. Nije mnogo vredno, ali nema veze.</text>
 	</string>
+	<!-- new string id's - aleks1970 -->
+	<string id="red_forest_secret_0015_name">
+		<text>Ranac u Šumi</text>
+	</string>
+	<string id="red_forest_secret_0015_description">
+		<text>Stigao sam u Limansk. Onda nisam mogao dalje, ali put koji sam odbrao, doveo me je do skrivenog mesta u Crvenoj Šumi.</text>
+	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 18:15 27.03.2015 -->
-<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:44 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 19:54 -sadd -->

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-<string_table>
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 -->
+
 	<string id="flame_reload_1">
 		<text>Ti si kazao da možeš dopuniti ovaj bacač plamena, zar ne? Mislim da bi trebalo.</text>
 	</string>
@@ -26,7 +26,7 @@
 		<text>Pa... Hvala. Ne brini se, jedan dan će biti dovoljan za ovaj posao.</text>
 	</string>
 	<string id="flame_reload_9">
-		<text>Šta!? Ceo dan? To sebe nazivaš specijalistom? MOžda specijalista za piće ... Vidimo se!!!</text>
+		<text>Šta!? Ceo dan? To sebe nazivaš specijalistom? Možda specijalista za piće ... Vidimo se!!!</text>
 	</string>
 	<string id="flame_reload_10">
 		<text>Kako teče proces dopunjavanja?</text>
@@ -43,6 +43,5 @@
 	<string id="flame_reload_14">
 		<text>U redu, ali požuri čoveče!</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 18:41 18.41.2014 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:26 -sadd -->

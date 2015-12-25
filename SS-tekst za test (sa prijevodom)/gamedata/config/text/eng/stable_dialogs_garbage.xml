@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0, line 308 Russian char. aleks1970 -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8, line 308 Russian char., removed "string_table" - aleks1970 -->
+
 	<string id="gar_dolg_blokpost_11">
 		<text>Stani stalkeru. Ne možeš ići dalje!</text>
 	</string>
@@ -269,13 +269,13 @@
 		<text>Kako si uspeo da se izvučeš?</text>
 	</string>
 	<string id="gar_seriy_story_5">
-		<text>To ti je bila sva priča o tome! Primetio sam prilično čudnu stvar oko 30 centimetara od moje ruke. To je bila spirala sa plavim kapljicama po sebi. Ona je takođe bila vrlo sjajna... Kao da je emitovala nešto ... Tako da sam se prilično pomučio u pokušaju da dohvatim tu stvar... Nastavio sam da guram svoju ruku u napred oko pola sata vremena. </text>
+		<text>To ti je bila sva priča o tome! Primetio sam prilično čudnu stvar oko 30 centimetara od moje ruke. To je bila spirala sa plavim kapljicama po sebi. Ona je takođe bila vrlo sjajna... Kao da je emitovala nešto ... Tako da sam se prilično pomučio u pokušaju da dohvatim tu stvar... Nastavio sam da guram svoju ruku u napred oko pola sata vremena.</text>
 	</string>
 	<string id="gar_seriy_story_6">
 		<text>Krvopije su gledale u tebe verovatno kao neku vrstu predstave.</text>
 	</string>
 	<string id="gar_seriy_story_7">
-		<text>Možda. A Kontroler je prodavao karte... </text>
+		<text>Možda. A Kontroler je prodavao karte...</text>
 	</string>
 	<string id="gar_seriy_story_8">
 		<text>Pa šta se dalje dogodilo?</text>
@@ -311,7 +311,7 @@
 		<text>Ovde je vrlo dosadno...</text>
 	</string>
 	<string id="gar_hellcar_story_1">
-		<text>Dosadno, kažeš? Onda poslušaj ovo. Desila mi se vrlo čudna stvar. Jednom, šetao sam kroz napušteno selo. Tuda sam prošao mnogo puta ranije... Možda si i ti takođe, skoro svako prolazi tuda. Postalo je mračno. Iznenada sam ugledao svetlost koja se probijala kroz prozore jedne od kuća. Bio sam radoznao da vidim šta je to tamo, ali kuća nije izgledala napušteno uopštel. Pogledao sam kroz prozor ali nisam mogao nište da vidim, ali i dalje je bilo sve čudno. Dakle, odlučio sam da uđem unutra. Čim sam ušao bio sam šokiran. Sve je bilo tako čisto i uredno. Nov nameštaj svude, cveće na prozorima, čah itepisi na podovima. To je bilo zaista čudno, čak sam se zapitao da li su se to vlasnici vratili, znaš, to se ponekad dešava. Krenuo sam prema drugoj sobi i ugledao sto sa tanjirima i hranom na njemu, a i bokal sa nečim providnim u sebi. Dakle, pomislio sam da ljudi moraju biti negde u blizini. Pričekao sam neko vreme. Ali bio sam zaista gladan, a supa je mirisala tako dobro! </text>
+		<text>Dosadno, kažeš? Onda poslušaj ovo. Desila mi se vrlo čudna stvar. Jednom, šetao sam kroz napušteno selo. Tuda sam prošao mnogo puta ranije... Možda si i ti takođe, skoro svako prolazi tuda. Postalo je mračno. Iznenada sam ugledao svetlost koja se probijala kroz prozore jedne od kuća. Bio sam radoznao da vidim šta je to tamo, ali kuća nije izgledala napušteno uopštel. Pogledao sam kroz prozor ali nisam mogao nište da vidim, ali i dalje je bilo sve čudno. Dakle, odlučio sam da uđem unutra. Čim sam ušao bio sam šokiran. Sve je bilo tako čisto i uredno. Nov nameštaj svude, cveće na prozorima, čah itepisi na podovima. To je bilo zaista čudno, čak sam se zapitao da li su se to vlasnici vratili, znaš, to se ponekad dešava. Krenuo sam prema drugoj sobi i ugledao sto sa tanjirima i hranom na njemu, a i bokal sa nečim providnim u sebi. Dakle, pomislio sam da ljudi moraju biti negde u blizini. Pričekao sam neko vreme. Ali bio sam zaista gladan, a supa je mirisala tako dobro!</text>
 	</string>
 	<string id="gar_hellcar_story_2">
 		<text>'ajde ispričaj mi bar neku bajku u koju ću poverovati.</text>
@@ -346,5 +346,4 @@
 	<string id="gar_seriy_story2_5">
 		<text>Jebi se...</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 15:09 21.04.2015 -->

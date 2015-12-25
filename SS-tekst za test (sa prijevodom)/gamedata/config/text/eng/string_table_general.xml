@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 bar chgd to rostok, new levels, f1-->
+<?xml version="1.0" encoding="windows-1250" standalone="yes"?>
+<!-- TB3D 1.0.9.9.9.8 bar chgd to rostok, new levels, f1, added/included files in this <string_table> - aleks1970 -->
 <string_table>
+#include "text\eng\string_table_ui.xml"
+#include "text\eng\string_table_items.xml"
+#include "text\eng\string_table_tutorial.xml"
+#include "text\eng\string_table_enc_social.xml"
+#include "text\eng\string_table_level_tips.xml"
+#include "text\eng\string_table_enc_vehicles.xml"
+#include "text\eng\string_table_amk_arts_desc.xml"
+#include "text\eng\string_table_amkzp_arts_desc.xml"
+#include "text\eng\string_table_enc_ald_weapons.xml"
+
 	<string id="informer_recipt1">
 		<text>A čoveče! Da nisi možda zabunom dodao ovolike nule na ovu cenu?! ...Bolje za tebe da vredi ovih para... Evo, uzmi novce...</text>
 	</string>
@@ -151,12 +161,26 @@
 	<string id="item_pda_tiran_desc">
 		<text>Tiraninov PDA. Sadrži razne sume, račune i evidencije. Spominju se i neka imena...nadimci.</text>
 	</string>
+<!--	Duplicated string id from the "string_table_items.xml" file - aleks1970	
+	<string id="item_PDA_tiran_desc">
+		<text>Lični digitalni pomoćnik (PDA). Neophodan uređaj u Zoni.</text>
+	</string>
+	<string id="item_PDA_tiran_name">
+		<text>PDA Tiranina</text>
+	</string> -->
 	<string id="item_pda_lucky_name">
 		<text>Srećkov PDA</text>
 	</string>
 	<string id="item_pda_lucky_desc">
 		<text>Sadrži Srećkina dopisivanja sa svojima saučesnicima...</text>
 	</string>
+<!--	Duplicated string id from the "string_table_items.xml" file("item_pda_..." is correct string) - aleks1970
+	<string id="item_PDA_lucky_desc">
+		<text>Lični digitalni pomoćnik (PDA) koji pripada Srećku ... pun vrednih unformacije.. može se pokazati korisnim...</text>
+	</string>
+	<string id="item_PDA_lucky_name">
+		<text>PDA Srećka</text>
+	</string> -->
 	<string id="item_case_freeman_name">
 		<text>Frimenov slučaj</text>
 	</string>
@@ -223,9 +247,10 @@
 	<string id="excellent">
 		<text>Odlično</text>
 	</string>
+<!--	Duplicated - aleks1970
 	<string id="exo_outfit_name_m1">
 		<text>Egzoskelet PNB-4UZ</text>
-	</string>
+	</string> -->
 	<string id="experienced">
 		<text>Iskusan</text>
 	</string>
@@ -286,15 +311,17 @@
 	<string id="l12_stancia_2">
 		<text>NEP Černobil</text>
 	</string>
+<!--	Duplicated string id with the 72 line in "string_table_arhara.xml" file - aleks1970
 	<string id="labx8">
 		<text>Laboratorij X8</text>
-	</string>
+	</string> -->
 	<string id="cs_agroprom_underground">
 		<text>Agroprom podzemlje - Stari Tuneli (Old Tunnels)</text>
 	</string>
+<!--	Duplicated string id with the 162 line in "dmx_mod_encyclopedia.xml" file - aleks1970
 	<string id="predbannik">
 		<text>Čekaonica</text>
-	</string>
+	</string> -->
 	<string id="hiding_road">
 		<text>Skriveni Put</text>
 	</string>
@@ -466,9 +493,10 @@
 	<string id="st_mp_say_to_team">
 		<text>Komande</text>
 	</string>
+<!--	Duplicated string id with the 1353 line in "string_table_enc_weapons.xml" file - aleks1970
 	<string id="st_knife">
 		<text>Nož</text>
-	</string>
+	</string> -->
 	<string id="st_mp_disabled_voting">
 		<text>Glasanje nije moguće na ovom serveru.</text>
 	</string>
@@ -514,9 +542,10 @@
 	<string id="enc_voronin_about_klik_text">
 		<text>Prema Voronjinu, Fanga su nekako prešli Plaćenici. Savetuje mi da odem do Informanta. On bi trebao imati neke veze sa Plaćenicima. Verovatno mogu puno više saznati od njega...</text>
 	</string>
+<!--	Duplicated - aleks1970
 	<string id="voronin_begin">
 		<text>Voronjin. Istraga se nastavlja...</text>
-	</string>
+	</string> -->
 	<string id="sms_new_dan2">
 		<text>Tekst Poruke</text>
 	</string>
@@ -531,4 +560,4 @@
 	</string>
 </string_table>
 	<!-- Preveo i prilagodio Flexerca -=- 12:13 17.07.2014 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 21:21 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:08 - sadd -->

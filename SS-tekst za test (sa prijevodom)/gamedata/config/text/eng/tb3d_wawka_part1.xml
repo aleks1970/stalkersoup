@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 Artyom, max_pomer2_dialog_3 -->
-<!-- WEAPONS BROUGHT TO RAVEN wawka part 1 -->
+<!-- TB3D 1.0.9.9.9.8 Artyom, max_pomer2_dialog_3, Nano-outfits - aleks1970 -->
+<!-- WEAPONS BROUGHT TO RAVEN wawka part 1, repair_kit -->
 <string_table>
 	<string id="mosinka_0">
 		<text>Zdravo Gavran... Ajde da pričamo o poslu...</text>
@@ -815,7 +815,7 @@
 		<text>Dobro, smiri se, biće popravljeno...</text>
 	</string>
 	<string id="bad_gravi_dialog_0">
-		<text>Cicija, evo ti Kameni Oklop odelo...</text>
+		<text>Škrti, evo ti Kameni Oklop odelo...</text>
 	</string>
 	<string id="bad_gravi_dialog_1">
 		<text>Obeleženi, pa šta je ovo? Šta si mi ovo doneo? Kameno smeće, ne odelo! Šta si to radio s njim? Kao da ga je Pseudogigant dobro nogama istabanao! Ne mogu ga uzeti dok ne bude popravljen...</text>
@@ -878,7 +878,7 @@
 		<text>Ma nije problem, popraviću ga...</text>
 	</string>
 	<string id="bad_rg6_dialog_0">
-		<text>Zdravo, Cicija! Evo 'Bulldog'...</text>
+		<text>Zdravo, Škrti! Evo 'Bulldog'...</text>
 	</string>
 	<string id="bad_rg6_dialog_1">
 		<text>Druže, ne treba mi ovakvo smeće - ajde prvo ga popravi kako treba pa ću ga onda uzeti...</text>
@@ -917,7 +917,7 @@
 		<text>Kakvu nadogradnju odela nudiš?</text>
 	</string>
 	<string id="update_outfit_sidor_1">
-		<text>"Noćno osmatranje". Ali mam samo jednu vrstu - standardo Zeleno. Može se instalirati na jakne i Kišne mantile, ali samo ako nisu previše oštećene. Također mogu ojačati jakne posebnom metodom koju su razvili jajoglavi, a kojim sam pomogao sa malo votke...\n \nNadogradnja košta:\nUređaj za noćno osmatranje = 10000 Ru\n \nOjačanje jakne:\n \nJakna = 5000 Ru\nModifikovana jakna = 10000 Ru\nObični kišni mantil = 15000 Ru\nModifikovani kišni mantil = 20000 Ru\n \nJavi mi ako si zainteresiran...</text>
+		<text>"Noćno osmatranje". Ali imam samo jednu vrstu - standardo Zeleno. Može se instalirati na jakne i Kišne mantile, ali samo ako nisu previše oštećene. Također mogu ojačati jakne posebnom metodom koju su razvili jajoglavi, a kojim sam pomogao sa malo votke...\n \nNadogradnja košta:\nUređaj za noćno osmatranje = 10000 Ru\n \nOjačanje jakne:\n \nJakna = 5000 Ru\nModifikovana jakna = 10000 Ru\nObični kišni mantil = 15000 Ru\nModifikovani kišni mantil = 20000 Ru\n \nJavi mi ako si zainteresiran...</text>
 	</string>
 	<string id="update_outfit_sidor_1111">
 		<text>Zanima me uređaj za noćno osmatranje...</text>
@@ -1214,7 +1214,7 @@
 		<text>Evo, uzmi ojačano Tamni Banditski Kišni Mantil. Sve je sređeno...</text>
 	</string>
 	<string id="update_outfit_sidor_2222">
-		<text>Strengthen better, and that was tortured to repair...</text>
+		<text>Jačanje odela je bolje...</text>
 	</string>
 	<string id="update_outfit_sidor_22222">
 		<text>Ojačati obično odelo ili sa instalovanim PNV?</text>
@@ -1517,16 +1517,16 @@
 		<text>Marked One, you have made gaugings, Is well done glad to offer you the services in modernisation of some suits - a suit of the ecologist and a SSP-99 Ekološko zaštitno odelo. Također ti mogu ponuditi instalaciju različitih uređaja za noćno osmatranje i ojačanje datih odela.</text>
 	</string>
 	<string id="start_update_outfit_sakharov_2">
-		<text>Thanks, Professor! It just that is necessary.</text>
+		<text>Hvala Profesore, to mi je potrebno.</text>
 	</string>
 	<string id="update_outfit_sakharov_0">
-		<text>That can offer on updating of suits?</text>
+		<text>Šta možeš ponuditi za nadogradnju pancir odela?</text>
 	</string>
 	<string id="update_outfit_sakharov_1">
 		<text>Mogućnost nadogradnje i instalacije uređaja za noćno osmatranje (PNV) na bilo koje od sledećih odela:\nSSP-99M Ekološko odelo;\nthe SSP-99 Ekološko zaštitno odelo;\nIsto tako postoji mogućnost jačanja datih odela, u svrhu unapređenja otpora uticaja spoljnih faktora - bolje reći, moguće je da se podigne izdržljivost... Šta ti treba?</text>
 	</string>
 	<string id="update_outfit_sakharov_1111">
-		<text>Establish the device of night vision...</text>
+		<text>Ugraditi uređaj za noćni vid...</text>
 	</string>
 	<string id="update_outfit_sakharov_11111">
 		<text>No, kako čemo... Na koje odelo da ti ugradim uređaj za noćno osmatranje, na obično ili ojačano?</text>
@@ -3290,4 +3290,5 @@
 		<text>Trenutno nije potrebno ništa...</text>
 	</string>
 </string_table>
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:09 - sadd -->
 <!-- Preveo i prilagodio flexerca -=- 14:46 28.09.2015 -->

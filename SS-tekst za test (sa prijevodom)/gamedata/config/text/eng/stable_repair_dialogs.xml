@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0 aleks edits-->
+<!-- TB3D 1.0.9.9.9.8 aleks edits, something-->
 <string_table>
 	<string id="list_trader_repair_0">
-		<text>Popravak oružja iz prvog slota košta: </text>
+		<text>Popravak oružja iz prvog slota košta:</text>
 	</string>
 	<string id="list_trader_repair_1">
-		<text>Popravak oružja iz drugog slota košta: </text>
+		<text>Popravak oružja iz drugog slota košta:</text>
 	</string>
 	<string id="list_trader_repair_2">
-		<text>Popravak odela košta: </text>
+		<text>Popravak odela košta:</text>
 	</string>
 	<!-- Sidorovich with complication. Repair of weapons -->
 	<string id="release_repair_weapon_0">
@@ -30,7 +30,7 @@
 		<text>Zanima te ono oružje u stegi pozadi? Da, to je dobro oružje. Međutim, potrebni su novi delovi. Dakle, šta želiš da popravljaš? Moram te upozoriti ... da to nije jeftin posao. Što je oštećenje veće, popravka će biti skuplja. Između ostalog, za popravku mi je potrebno i slično oružja za rezervne delove. Proveri svoj PDA. Tamo ti je tabela sa listom kompatibilnosti oružja. I pazi ovo ... nemoj mi davati unikatna oružja za rezervne delove - zadržaću ih, pa ih više nikad nećeš videti. Takođe, treba da uzmeš u obzir i vreme koje je potrbno za popravku stvari. Što je komplikovanija popravka, više će vremena biti potrebno. Ponekad i pola dana ... ponekad i duže. I samo da znaš, ne vršim popravke odela. Moraćeš pronaći nekog drugok ko će ti to raditi, ili možeš kupiti specijalni kit za popravke, pa to raditi sam ... ukoliko si vešt, tako ti je to ...</text>
 	</string>
 <!--<string id="escape_trader_repair_1">	- 133    !!!!TB3D -
-		<text>You're asking about that piece out back in the vice?! The 'Groza' .. yes, it's a fine weapon. However, Im waiting on some parts to finish repairing it. So, do you need somthing repaired? I can also fix Armour. I warn you though, its not cheap work. The more damaged the Armour is, the more expensive the repairs will be...\n\nHere is a list of possible repairs:</text>
+		<text>You're asking about that piece out back in the vice?! The 'Groza' .. yes, it's a fine weapon. However, Im waiting on some parts to finish repairing it. So, do you need somthing repaired? I can also fix Armour. I warn you though, its not cheap work. The more damaged the Armour is, the more expensive the repairs will be...\n \nHere is a list of possible repairs:</text>
 	</string -->
 	<string id="escape_trader_repair_2">
 		<text>Popravi oružje iz prvog slota:</text>
@@ -57,7 +57,7 @@
 		<text>Kada popravka bude gotova - obavestiću te putem PDA. Nema tu mnogo posla, oko pola sata od prilike ...</text>
 	</string>
 <!--<string id="escape_trader_repair_6">	- 133    !!!!TB3D -
-		<text>I will perform the repairs...\n\nWhen it's ready, I will contact you...</text>
+		<text>I will perform the repairs...\n \nWhen it's ready, I will contact you...</text>
 	</string -->
 	<string id="escape_trader_repair_62">
 		<text>Kada popravka bude gotova - obavestiću te putem PDA. Mala su oštećenja. Oko sat vremena od prilike ...</text>
@@ -75,7 +75,7 @@
 		<text>Kada popravka bude gotova - obavestiću te putem PDA. Biće potrebno oko 6 sati ili više ... za sada služi se drugim oružjem.</text>
 	</string>
 	<string id="escape_trader_repair_7">
-		<text>Da, Obeleženi, sve popravke su završene ...\n\nNek' te služi dobro.</text>
+		<text>Da, Obeleženi, sve popravke su završene ...\n \nNek' te služi dobro.</text>
 	</string>
 	<string id="escape_trader_repair_8">
 		<text>Kakvim se ti poslom ovde baviš u stvari!? - Dam ti dva oružja da bih dobio jedno popravljeno, a onda mi kažeš da moram čekati ... Mislim da to neće moći ...</text>
@@ -99,7 +99,7 @@
 		<text>Prestani trošiti moje vreme, vrati se kada budeš imao nešto što je stvarno oštećeno.</text>
 	</string>
 <!--<string id="escape_trader_repair_11">	- 133    !!!!TB3D -
-		<text>What else needs repairs?\n\nHere is a list of possible repairs:</text>
+		<text>What else needs repairs?\n \nHere is a list of possible repairs:</text>
 	</string -->
 	<string id="escape_trader_repair_12">
 		<text>To je u redu, hvala ti. Opljačkan sam, ali bar je moje oružje popravljeno.</text>
@@ -308,7 +308,7 @@
 		<text>Dobro, daj da vidim ... šta treba da se popravlja?</text>
 	</string>
 	<string id="dlinnuy_repair_12">
-		<text>Sve će biti u redu ... hvala ... pogotovo sad kad je sav moj novac kod tebe ... </text>
+		<text>Sve će biti u redu ... hvala ... pogotovo sad kad je sav moj novac kod tebe ...</text>
 	</string>
 	<string id="dlinnuy_repair_13">
 		<text>Pa, bolje išta nego ništa ... Evo, uzimaj.</text>
@@ -464,7 +464,7 @@
 		<text>Kada završim popravku - Obavestiću te putem poruke.\nOvo je najgore do sada što mi je neko doneo!! .. Ovo će trajati danima!!!</text>
 	</string>
 	<string id="skryga_repair_weap_8">
-		<text>Sjak, počeću da te zovem 'Mizer' iz Zone. Daću ti dva oružje, platiću ti u napred ... pa ću onda opet morati da čekam ... Prvoklasni šinter, to si ti!!</text>
+		<text>Sjak, počeću da te zovem 'Škrti' iz Zone. Daću ti dva oružje, platiću ti u napred ... pa ću onda opet morati da čekam ... Prvoklasni šinter, to si ti!!</text>
 	</string>
 	<string id="skryga_repair_weap_81">
 		<text>Sjak, učini šta je potrebno, mogu da sačekam ...</text>
@@ -500,7 +500,7 @@
 		<text>Barmenu, možeš li popraviti nešto od moje opreme?</text>
 	</string>
 	<string id="bar_trader_repair_1">
-		<text>Mogu popraviti gotovo sve, a moje kolege nude nadogradnje za PDA.\n Dakle, šta će biti?\n\nLista mogućih popravki:</text>
+		<text>Mogu popraviti gotovo sve, a moje kolege nude nadogradnje za PDA.\nDakle, šta će biti?\n \nLista mogućih popravki:</text>
 	</string>
 	<string id="bar_trader_repair_2">
 		<text>Popravi oružje iz prvog slota:</text>
@@ -554,10 +554,10 @@
 		<text>O ne, skroz sam bez novca. Možda drugi put.</text>
 	</string>
 	<string id="yantar_trader_repair_6">
-		<text>Ovo će izgleda malo potrajati...\n\nOnda možeš doći da ga pokupiš.</text>
+		<text>Ovo će izgleda malo potrajati...\n \nOnda možeš doći da ga pokupiš.</text>
 	</string>
 	<string id="yantar_trader_repair_7">
-		<text>Ovo odelo je prilično oštećeno, ali imam materijale na polici. Neće dugo trajati...\n\nPopraviću ti ga kao da je za mene.</text>
+		<text>Ovo odelo je prilično oštećeno, ali imam materijale na polici. Neće dugo trajati...\n \nPopraviću ti ga kao da je za mene.</text>
 	</string>
 	<string id="yantar_trader_repair_8">
 		<text>Vrlo dobro! Stvarno si dobar oružar.</text>
@@ -575,7 +575,7 @@
 	<!-- Screw Repair dialog start -->
 	<!--***************************-->
 	<string id="mil_trader_repair_0">
-		<text>Izvini, ali ovde sam zbog popravka opreme... Koje su ti cene? </text>
+		<text>Izvini, ali ovde sam zbog popravka opreme... Koje su ti cene?</text>
 	</string>
 	<string id="mil_trader_repair_1">
 		<text>Ahahah... Ne brini, neću te opelješiti. Nisam "gramzivac" kako svi misle. Pa, šta želiš popraviti? To nije jeftin posao. Što je veće oštećenje, to je skuplji popravak. Dogovoreno?\n \nLista popravaka:</text>
@@ -590,7 +590,7 @@
 		<text>Popravi zaštitno odelo:</text>
 	</string>
 	<string id="mil_trader_repair_5">
-		<text>Nemam dovoljno novca... Odradićemo to drugi put. </text>
+		<text>Nemam dovoljno novca... Odradićemo to drugi put.</text>
 	</string>
 	<string id="mil_trader_repair_6">
 		<text>Zamenio sam nekoliko delova, kapnuo ulja tu i tamo, očistio i ispolirao...\n \nSada se možeš dobro zabaviti!</text>
@@ -665,4 +665,4 @@
 	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 21:04 23.03.2015 -->
-<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:56 -sadd -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:45 -sadd -->

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 added af-izomorf -->
+<!-- TB3D 1.0.9.9.9.8 added af_izomorf -->
 <!-- Added missing "enc_zone_izomorf_kompas" from russian with google translate aleks1970 -->
-<!-- removed new lines in two diaogs, fixed izomorph crystal and compass -->
+<!-- removed new lines in two diaogs, fixed izomorph crystal and compass, removed '-' -->
 <string_table>
-#include "text\eng\string_table_amk_arts_desc.xml"
-#include "text\eng\string_table_arts_desc.xml"
 
     <!--======================================-->
 	<!--   INFORMATION REGARDING THE ZONE	  -->
@@ -105,8 +103,8 @@
 	<string id="enc_zone_locations_stancia">
 		<text>Nuklearno Energetsko Postrojenje Černobil je mesto gde je sve počelo. 1986 topljenjem reaktora došlo je do nuklearne katastrofe, koja je ozračila područje široko 30 km, sada poznato pod imenom "Zona". Nakon incidenta, Zona je evakuisana, a reaktor je zapečaćen u betonski Sarkofag. Ovo je srce Zone. Ako veruješ mnogim legendama, ovo je također mesto "Monolita"... Misteriozne stvari koja, kako kažu, može ispuniti svačiju želju...</text>
 	</string>
-	<string id="Yantar">
-		<text>Jantar</text>
+	<string id="Yantar_pda_name">
+		<text>Yantar</text>
 	</string>
 	<string id="enc_zone_locations_yantar">
 		<text>Jantar nije uvek bio močvarno i pusto mesto. Nekada davno bilo je to veliko jezero... No njegova sudbina je zapečaćena kada je izabrano kao idealno mesto za fabriku. Radnici su prouzrokovali nesreću u podzemlju i tako isušili jezero, ostavljajući samo smrdljivu močvaru na njegovom mestu. Nije poznato kada je tajni Laboratorij X-16 napravljen ispod fabrike, a sasvim je moguće da je i cela fabrika napravljena kao paravan za laboratorij. Ono što je poznato jeste da je nakon određenih otkrića u Laboratoriji X-18, prototip Kajmanovog odašiljača postavljen u X-16, zajedno sa svojim masivnim antenama skrivenim duboko u jednoj od fabričkih zgrada...\nNakon što je rođena Zona 2006, kompleks je napušten ali odašiljač je idalje ostao aktivan. To se pokazalo katastrofalnim, a naročito za stalkerekoji su, namamljeni lakim plenom u netaknutoj fabrici, padali pod uticaj odašiljača i postajali zombificirana, gotovo divlja stvorenja, ekstremno agresivna prema svakom i svemu što susretnu...\nNakon pojavljivanja Zone, Jantar je izabran kao odlično mesto za Mobilni Naučni Laboratorij, koji upravlja profesor Saharov i njegovi ekolozi. Njihov bunker je spušten iz zraka u močvaru pod teškom zaštitom Ukrajinske vojske, i ubrzo nakon toga počeli su proučavati Zonu i njene razne stanovnike...</text>
@@ -114,54 +112,9 @@
 	<!--======================================-->
 	<!--	  DMX 1.3.2 LOCATIONS			  -->
 	<!--======================================-->
-	<string id="zone_locations_deadcity">
-		<text>Mrtvi Grad</text>
-	</string>
-	<string id="enc_zone_locations_deadcity">
-		<text>Mrtvi Grad potiče i Sovjetske ere, a nalazi se između Jantara i Limanska, koji je napušten od svojih stanovnika nakon Černobilske katastrofe 1986. Tokom godina, postajući plenom sakupljača plena i prirodnih elemenata, počeo se polako raspadati. Glavna karakteristika ovog grada je njegov gradski trg, sa kipom Lenjina u sredini. Oko trga je i zgrada kulturno/sportskog centra i partijsko sedište. Jugoistočno leži škola sa košarkaškim terenom. Ostatak grada zauzimaju stambeni blokovi, porodične kuće i garaže. Tokom godina iz grada je odnešeno sve što je bilo od neke vrednosti i do 2012 postao je ništa više osim tužne prazne ljušture nekada lepog grada...</text>
-	</string>
-	<string id="zone_locations_limansk">
-		<text>Limansk</text>
-	</string>
-	<string id="enc_zone_locations_limansk">
-		<text>Limansk je prazni gradić, napušten od svojih stanovnika. Napuštenim zgradama i vozilima svedoče samo povremeno Banditi ili patrole Monolita. Nakon formiranja Zone postao je još sterilniji i zlokobniji, sa jako čudnim anomalijama koje su ispunile svaki njegov deo. Odsečen od ostatka sveta, i Zone posebno, samo sa raštrkanim članovima Monolita ili Bandita, ovo je istinski "Grad duhova". Nakon masivne Emisije u septembru 2011, anomalije su nestale i stalkeri su se počeli slevati u grad, tražeći siguran put oko "Spaljivača Mozgova" za put dublje u Zonu...</text>
-	</string>
-	<string id="zone_locations_darklab">
-		<text>Laboratorij X18</text>
-	</string>
-	<string id="enc_zone_locations_darklab">
-		<text>Laboratory X-18 je u funkciji još od Hladnog rata (1947-1991), kada je osnovan kako bi proučili efekte radijacije na žive ćelije. Nakon Černobilske katastrofe 1986, rad u laboratoriji je blago opao, ali stvari nisu ostale takve zadugo. Jednog dana nakon serije intenzivnih eksperimenata, jedan od "Testnih subjekata" se oslobodio i počeo uništavati većinu Glavnog laboratorija, ubijajući većinu naučničkog osoblja u svom pohodu. Potom je otključao sve preostale ćelije sa ostalima "eksperimentalnim subjektima"... Preživelo osoblje se zaključalo u Glavnom laboratoriju serijom velikih kodiranih vrata. Ipak, "ostaci" iz Laboratorija X-18 su jezivom izdajom popeli preko cevi za grijanje i sve ih pobili...</text>
-	</string>
-	<string id="zone_locations_brainlab">
-		<text>Laboratorij X16</text>
-	</string>
-	<string id="enc_zone_locations_brainlab">
-		<text>Smešten ispod fabričkog kompleksa u Jezeru Jantar, u sigurnom podzemnom bunkeru, zaštićenom od vanjskog sveta. Njegova struktura je prilično jednostavna, sa glavnom, kružnom komorom, koja podseća više na neki nuklearni silos, sa čudnim mehanizmom nepoznatog porekla. U pristupnim halama i Istraživačkom postrojenju su se držali testni subjekti, koji su služili za studij izopačenih naučnika, za nepoznate i neljudske eksperimente. Pre incidenta 2006, Laboratorij X-16 je dobio opremu iz Laboratorija X-18. Glavni cilj of X-16 je bio stvoriti radijus u kojem se mogu kontrolisati ljudske misli i sva ostala živa stvorenja na teritoriju cele Zone...</text>
-	</string>
-	<string id="zone_locations_labx10">
-		<text>Laboratorij X10</text>
-	</string>
-	<string id="enc_zone_locations_labx10">
-		<text>Neki stalkeri su čuli priče o postojanju ovog čudnog laboratorija, ali ga niko u stvarnosti nije nikada video, niti može potvrditi da zaista postoji. A ako neko i jeste...taj se sigurno nije vrati da može da priča o njemu. Kodnog imena X-10, leži ispod PSI-antena... A jednostavije je poznat pod imenom 'Bunker'. Priče kažu da se nalazi u neposrednoj blizini 'Radara', i da ga je jako teško pronaći ( ako je uopšte postoji ). Očito, frakcija Monolit održava jako prisustvo u ovoj oblasti, i mnogi pričaju da je njihova zakleta dužnost da ga drže u tajnosti...</text>
-	</string>
-	<string id="zone_locations_warlab">
-		<text>Varlab</text>
-	</string>
-	<string id="enc_zone_locations_warlab">
-		<text>Nalazi se ispod nekadašnjeg "Jubilarnog uslužnog centra" u Pripjatu, koje je nedavno postalo uporište snaga Monolita... To je lavirintni podzemni kompleks koji je izrađen za samo svrhu praćenja i održavanja ogromnih generatora koji se nalaze na površini. Priča se da su tu bili smešteni naučnički umovi odgovorni za razvoj projekta "C-Svest"... Katastrofalni kvar koji uključuje jedanod električnih tranzistora koji povezuje generatore, prouzrokovao je ozbiljan zastoj u projektu, i cela operacije je premeštena negde sigurnije, dalje prema severu... Službeno ime ovog mesta je nekada bilo Laboratorij X-8. Nakon "incidenta", postalo je poznato kao "Vojni laboratorij" ili Varlab...</text>
-	</string>
-	<string id="zone_locations_secretlab">
-		<text>Tajni Laboratorij</text>
-	</string>
-	<string id="enc_zone_locations_secretlab">
-		<text>Priča se da se ovaj laboratorij nalazi tačno ispod Sarkofaga u NEP Černobil... Također se priča da je on poreklo zloglasne frakcije Monolit... Kažu da je jedin put to ovog tajnog postrojenja kroz Sarkofag. Ipak, jedini način da se uđe unutra je kroz dobro skrivena vrata, koja su dodatno zaštićena kodiranom bravom. Ova informacija nikada nije potvrđena, jer se niko još nije vratio iz Sarkofaga... Ni živ, ni mrtav, ni zombificiran...</text>
-	</string>
-	<string id="zone_locations_generators">
-		<text>Generatori</text>
-	</string>
-	<string id="enc_zone_locations_generators">
-		<text>Čudno i turobno mesto, sa velikim sferolikim generatorima koji su pozicionirani oko neidentifikovanih antena. Priča se da Emisije ili "Pražnjenja" potiču iz ovog mesta... Svaki generator je postavljen tačno ispred nečeg što izgleda kao veliko anomalno polje, iako niti jedna anomalija nije prisutna ni na jednom polju. U ovom području se nalazi i ulaz u tajanstveni Vojni laboratorij... Čiji su detalji i dalje nepoznati...</text>
-	</string>
+	
+	<!-- duplicated string id's was moved in to the "dmx_mod_encyclopedia.xml" file - aleks1970 -->
+
 	<!--======================================-->
 	<!--   	         ANOMALIES				  -->
 	<!--======================================-->
@@ -276,7 +229,7 @@
 	<string id="enc_zone_anomalies_radioactive">
 		<text>Radioaktivna kontaminacija u telo može ući gutanjem, udisanjem, apsorpcijom ili injekcijom. Iz tih razloga potrebno je koristiti ličnu zaštitnu opremu prilikom rada u ozračenim prostorima ili sa radioaktivnim artefaktima. Radioaktivna kontaminacija može biti rezulta jedenja kontaminiranih biljaka i životinja, ili pijenja kontaminirane vode ili mleka izloženih životinja. Nakon velikog incidenta u Černobilu potrebno je uzeti u obzir sva moguća unutrašnja izlaganja... Poput ostalih izljeva radijacije u okolinu, i Černobilski izljev je kontroliran fizičkim i hemijskim svojstvima radioaktivnih elemenata u jezgri. Dok većina populacije smatra plutonij kao posebno opasno nuklearno gorivo, njegove efekte gotovo zasenjuju njegovi fisijski proizvodi. Naročito su opasni visoko radioaktivni spojevi koji se akumuliraju u hranidbenom lancu, kao što su izotopi joda i stroncija.</text>
 	</string>
-	<string id="Time">
+	<string id="Time_pda_name">
 		<text>Vremeplov</text>
 	</string>
 	<string id="enc_zone_anomalies_time">
@@ -516,7 +469,7 @@
 	<string id="artifact_af_part_monolit2">
 		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+15 \n%c[default] Modifikovano Srce Poltergeista II u interakciji sa artefaktom Vodeni Cvet akumulira deo svoje energije, što dodatno pojačava njegove pozitivne osobine.</text>
 	</string>
-	<string id="item_zharka"> <!-- "Zharka" -->
+	<string id="item_zharka">
 		<text>Crna Energija</text>
 	</string>
 	<string id="item_zharka_s">
@@ -643,9 +596,6 @@
 		<text>%c[1,1,1,1]______%c[255,255,255,255]Radijacija %c[255,255,1,1]+3\n%c[default]Artefakt nastaje u anomaliji Levak. Kompresovani i međusobno isprepleteni ostaci rznih biljaka, zemljišta i drugih malih malih objekata koji su uvučeni u sam Levak... Kada se nosi za pojasom, smanjuje negativne uticaje gravitacionih anomalija, kao što je Trampolina. Vijuga je relativno lako pronaći i upravo zato nema visoku cenu. I dalje je predmet proučavanja naučnika, ekologa i vojske, koji pokušavaju odrediti njene pune potencijale...</text>
 	</string>
 	<!-- Added missing "enc_zone_izomorf_kompas" from russian with google translate aleks1970, chgd to kristal and added short desc 109934 -->
-	<!-- string id="af-ikristal">
-		<text>Isomorphic Crystal</text>
-	</string -->
 	<string id="af_pkristal">
 		<text>Izomorfni Pseudo_Kristal</text>
 	</string>
@@ -761,7 +711,7 @@
 	<!--======================================-->
 	<!--ARTEFACT ACTIVATION (Arhara)		  -->
 	<!--======================================-->
-	<string id="enc_zone_anomalies_activation_basic">
+	<string id="enc_zone_anomalies_activation_func">
 		<text>Osnove aktivacije</text>
 	</string>
 	<string id="enc_zone_anomalies_activation_basic">
@@ -773,7 +723,7 @@
 	<string id="enc_zone_anomalies_activation_why">
 		<text>Osnovni uzrok ovog čudnog fenomena verovatno datira još iz vremena kada je Zona vrvela od naučnih aktivnosti. Laboratorije diljem Zone su pokušavale provesti obrnuti inžinjering, u svojoj borbi protiv smrtonosnog radijacijskog trovanja, koji je bio rezultat incidenta koji se desio 2011 godine... U tom trenutku, negde u podzemnim katakombama Zone, u jednoj od ovih laboratorija, neko je otkrio proces koji vodi do uspešne aktivacije, odnosno transformacije: jednog oblika anomalne energije u drugi oblik... U ovom slučaju: artefkat ima sposobnost da se pretvori privremeno anomalno polje, koje je klon njegove "roditeljske" anomalije...</text>
 	</string>
-	<string id="enc_zone_anomalies_activation_practice">
+	<string id="enc_zone_anomalies_activation_practice_title">
 		<text>Proces aktivacije</text>
 	</string>
 	<string id="enc_zone_anomalies_activation_practice">
@@ -782,9 +732,6 @@
 	<!--======================================-->
 	<!--     		     MISC.				  -->
 	<!--======================================-->
-	<string id="enc_weapons1_wpn_winchester_m1">
-		<text>Municija: 12x76 slug/dart\nEfektivni domet: 80 metara\nKapacitet magazina: 6 komada\n \nModifikovani Winchester 1300 koristi energiju iz malog komada Gravi artefakta. Njegovom ugradnjom ispaljeni slug/dart dobijaju efekt bumeranga, prouzrokujući tako veće oštećenje nego obična municija. Vrlo opasno i temperamentno oružje.</text>
-	</string>
 </string_table>
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 16:42 -sadd -->
-	<!-- Preveo i prilagodio Flexerca -=- 10:41 07.04.2015 -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:23 - sadd -->

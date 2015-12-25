@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250" standalone="yes"?>
-<!-- TB3D 1.0.1e, text from "stable_dialogs" + other files with dialogs - aleks1970 -->
+<!-- TB3D 1.0.9.9.9.8, text from "stable_dialogs" + other files with dialogs - aleks1970 -->
 <string_table>
 #include "text\eng\stable_dialogs_aes.xml"
 #include "text\eng\stable_dialogs_military.xml"
@@ -21,3 +21,4 @@
 		<text>Pomozi mi, hoćeš li?</text>
 	</string>
 </string_table>
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:12 - sadd -->

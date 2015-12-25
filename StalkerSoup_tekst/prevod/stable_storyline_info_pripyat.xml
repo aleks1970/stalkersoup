@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 -->
-<string id="pri_decoder_docs_conclusion">
-<text>Skrovište u Pripjatu</text>
-</string>
-<string id="pri_decoder_docs_conclusion_txt">
-<text>U skrovištu se nalazi kratak izveštaj kako smo Fang i ja ušli u podzemne galerije ispod Sarkofaga i pronašli vrata sumnjivog izgleda. Fang je rekao da je napravio dekoder za elektronsku bravu za našu sledeću posetu. Nakon toga smo morali da se borimo za sopstvene živote. Tamo su bile horde Monolit patrola. Također sam našao dekoder u skrovištu i uputstvo za pronalaženje vrata. Međutim, čini mi se da je prilaženje Monolitu izuzetno opasno - zadnji put smo izbegli ulazak u Sarkofag iznad uništenog reaktora i čini mi se da je tamo Monlolit.</text>
-</string>
+<!-- TB3D 1.0.9.9.9.9 -->
+	<string id="pri_decoder_docs_conclusion">
+		<text>Skrovište u Pripjatu</text>
+	</string>
+	<string id="pri_decoder_docs_conclusion_txt">
+		<text>U skrovištu se nalazi kratak izveštaj kako smo Fang i ja ušli u podzemne galerije ispod Sarkofaga i pronašli vrata sumnjivog izgleda. Fang je rekao da je napravio dekoder za elektronsku bravu za našu sledeću posetu. Nakon toga smo morali da se borimo za sopstvene živote. Tamo su bile horde Monolit patrola. Također sam našao dekoder u skrovištu i uputstvo za pronalaženje vrata. Međutim, čini mi se da je prilaženje Monolitu izuzetno opasno - zadnji put smo izbegli ulazak u Sarkofag iznad uništenog reaktora i čini mi se da je tamo Monlolit.</text>
+	</string>
 <!-- Preveo i prilagodio Flexerca---26.01.2015 --15.12 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:54 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 19:54 -sadd -->

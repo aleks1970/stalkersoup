@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 Names and hints for map positions aleks1970, final bios, volk, lehavre -->
+<!-- TB3D 1.0.9.9.9.9 Names and hints for map positions aleks1970, final bios, volk, lehavre, canine to Fang, exp_stalker_known_bio -->
 <string_table>
 	<string id="Akim_name_gameplay">
 		<text>Akim</text>
@@ -1054,6 +1054,9 @@
 	<string id="final_unknown_bio">
 		<text>Iskusan STALKER.. nema drugih informacija.</text>
 	</string>
+	<string id="exp_stalker_known_bio">
+		<text>Iskusan STALKER.. detaljnije informacije su dostupne na drugom kraju.</text>
+	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 0:36 07.02.2015 -->
-	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:53 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:18 - sadd -->

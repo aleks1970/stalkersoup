@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.3.6 changed lottery amounts and translated Cyrillic text , fixed soul cube dialog, added names, \ \n
+<!-- TB3D 1.0.9.9.9.9 changed lottery amounts and translated Cyrillic text , fixed soul cube dialog, added names, \ \n, syslov books, zaz695
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;; DMX 1.3.5
 ;;;; DIALOGUES ON VEHICLES 
@@ -86,6 +86,9 @@
 	<string id="vehicle_zaz">
 		<text>Zaporožec auto</text>
 	</string>
+	<string id="vehicle_zaz965">
+		<text>ZAZ-965 Grbavac</text>
+	</string>
 	<string id="vehicle_kamaz">
 		<text>Kama3 kamion</text>
 	</string>
@@ -111,7 +114,7 @@
 	<string id="rul_cars_305">
 		<text>Izvini buraz, nemam dovoljno novca.</text>
 	</string>
-	<string id="vehicle_dodje">
+	<string id="vehicle_dodge">
 		<text>Dodge Charger</text>
 	</string>
 	<string id="vehicle_hammer">
@@ -258,6 +261,15 @@
 	</string>
 	<string id="start_shadows_dialog7">
 		<text>Evo...proveri i sam.</text>
+	</string>
+	<string id="start_shadows_dialog9_bad">
+		<text>Goni se Stalker, nemam ništa više da ti kažem!!!</text>
+	</string>
+	<string id="shadows_quest_cube_bad0">
+		<text>Daj mi Cube</text>
+	</string>
+	<string id="shadows_quest_cube_bad1">
+		<text>Odlazi Stalkeru, neznam ništa više!!!</text>
 	</string>
 	<string id="shadows_quest_cube0">
 		<text>Šta ovo znači? Već mi je muka od svega ovoga ...</text>
@@ -846,6 +858,6 @@
 	<string id="sci_flash">
 		<text>Naučnička fleš kartica</text>
 	</string>
-	<!-- Preveo i prilagodio Flexerca -=- 11:13 02.08.2014 -->
 </string_table>
-	<!-- Tekst usklađen sa 109989 verzijom zakrpe - 21.06.2015 12:22 -sadd -->
+	<!-- Preveo i prilagodio Flexerca -=- 11:13 02.08.2014 -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 20:14 -sadd -->

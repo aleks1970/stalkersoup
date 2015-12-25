@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 -->
+<!-- TB3D 1.0.9.9.9.9 -->
 	<string id="bar_arena_actor_afraid">
 		<text>Borba je otkazana! Izazivač se uplašio i nije se uopšte pojavio u ringu.</text>
 	</string>
@@ -145,4 +145,4 @@
 		<text>Pomozi nam da se probijemo kroz zasedu u blizini fabrike. Prenosim ti koordinate. Samo budi pažljiv, Vukodav i njegovi koljači su u blizini helikoptera.</text>
 	</string>
 <!-- Preveo i prilagodio Flexerca - 29.01.2015 - 15.06 -->
-<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:18 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 17:57 - sadd -->

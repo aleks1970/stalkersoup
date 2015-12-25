@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9e -->
+<!-- TB3D 1.0.9.9.9.8 -->
 	<string id="bar_bring_hunter_rifle">
 		<text>Vrati Lovcu porodičnu pušku</text>
 	</string>
@@ -16,7 +16,7 @@
 		<text>Vrati se kod Barmena</text>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
-		<text>Find the chief of protection for Duty</text>
+		<text>Pronađi vođu zaštite u bazi Djutija</text>
 	</string>
 	<string id="bar_dolg_bring_rg6">
 		<text>Izvuci RG-6 za generala Voronjina</text>
@@ -126,11 +126,12 @@
 	<string id="look_for_x16_lab">
 		<text>Pronađi X16 dokumente</text>
 	</string>
+<!--	Duplicated - aleks1970
 	<string id="wpn-winchester_m1">
 		<text>Borbeni SPAS</text>
-	</string>
+	</string> -->
 	<string id="x16_yantar">
 		<text>Razgovaraj sa naučnicima</text>
 	</string>
 	<!-- Preveo i prilagodio Coolkingeye -=- 13:30 09.02.2015 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:28 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 18:03 - sadd -->

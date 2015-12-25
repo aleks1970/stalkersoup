@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 -->
+
 	<string id="ui_map_desc_mp_agroprom_large">
 		<text>Nepoznato mesto. Mistična zgrada sa mnogo tajni, ali stalkeri su privučeni brojnim artefaktama koje se mogu naći ovde, uprkos opasnostima. Brzim pokretima i preciznim pucanjem, postaćeš omiljen među stalkerima.</text>
 	</string>
@@ -72,6 +73,5 @@
 	<string id="ui_map_desc_mp_workshop_short">
 		<text>Periferija "Rostok" fabrike pre dolaska Djutija. Oblast je prilično oronula i mračna ali veoma bogata artefaktima.</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 18:55 18.10.2014 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:20 -sadd -->

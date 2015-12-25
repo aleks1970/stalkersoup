@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.2 mblur added, more adv ctrls, 'collector freeplay', advanced controls - na 299 liniji za prevod -->
-<string_table>
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 mblur added, more adv ctrls, 'collector freeplay', advanced controls -->
+
 	<string id="Clear">
 		<text>Izbriši</text>
 	</string>
@@ -208,7 +208,7 @@
 	<string id="ui_mm_master">
 		<text>Obeleženi</text>
 	</string>
-	<string id="ui_mm_collector"><!--!!!!TB3D-->
+	<string id="ui_mm_collector">	<!--!!!!TB3D-->
 		<text>Kolektor</text>
 	</string>
 	<string id="ui_mm_master_volume">
@@ -391,6 +391,5 @@
 	<string id="ui_mm_rs_stats">
 		<text>Prikaz statistike motora (engine)</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Flexerca -=- 18:57 03.04.2015 -->
 <!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:50 -sadd -->

@@ -18,7 +18,7 @@ new subtitles and SMS repair kit text - aleks1970 -->
 		<text>Map Fragments:\nEntrance to the Swamps from Agroprom. It's a pity that the road leads to a radioactive zone. You 'll have to put up with the radiation for about 10m. Better stock up on antirads.</text>
 	</string>
 	<string id="pilot_zapiska_scr">
-		<text>The Pilot's Letter:\n"pilot_zapiska"</text>
+		<text>To captain Zimin:\nI don't know what made us fly above the station... All 3 helis got stuck right in the middle of an emission.\nOne fell right on the roof of the CNPP, the other got stuck on a pipe and left hanging there. We got lucky, we landed, but it was a rough crash landing. Radiation's off the charts.\nTo get down from here, you need to jump from the heli to a cistern just below... But there's no time left...</text>
 	</string>
 	<!-- Added revamped repair kit SMS text - aleks1970 -->
 	<string id="rec_revampa10_3">
@@ -33,4 +33,4 @@ new subtitles and SMS repair kit text - aleks1970 -->
 	<string id="rec_revampw10">
 		<text>Primljeno:\n - 3 komada rezervnih delova za maleno oružje i 5 za veliko ...</text>
 	</string>
-<!-- Tekst usklaðen sa 109999 verzijom zakrpe - 1.11.2015 17:24 - sadd -->
+	<!-- Tekst usklaðen sa 109999 verzijom 24.15.2015 17:35 - sadd -->

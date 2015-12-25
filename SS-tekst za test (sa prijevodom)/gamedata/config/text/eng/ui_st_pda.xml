@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.3 localization, search_script text outside tags -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 localization, search_script text outside tags, cheat spawner captions -->
+
 	<string id="actor_btn_hint">
 		<text>Centar na igraču</text>
 	</string>
@@ -252,7 +252,7 @@
 		<text>- glavna oznaka</text>
 	</string>
 	<string id="set_reminder_following_time_script">
-		<text>Postavi podstnik tajmera na sledeće vreme - </text>
+		<text>Postavi podstnik tajmera na sledeće vreme -</text>
 	</string>
 	<string id="Incor_time_format_script">
 		<text>Neispravan format vremena!</text>
@@ -312,17 +312,35 @@
 	<string id="section_desired_object_number_of_script">
 		<text>Sekcija željenih objekata, broj od</text>
 	</string>
+	<string id="section_desired_object_number_of_caption_1">
+		<text>-</text>
+	</string>
+	<string id="section_desired_object_number_of_caption_2">
+		<text>-</text>
+	</string>
 	<string id="spawn_script">
 		<text>Stvaranje!</text>
 	</string>
 	<string id="the_amount_in_inventory_script">
 		<text>Sekcija objekata, količina (u inventaru).</text>
 	</string>
+	<string id="the_amount_in_inventory_caption_1">
+		<text>-</text>
+	</string>
+	<string id="the_amount_in_inventory_caption_2">
+		<text>-</text>
+	</string>
 	<string id="spawn2inventory_script">
 		<text>Stvoriti u inventaru!</text>
 	</string>
 	<string id="sec_desired_npc_script">
 		<text>Sekcija željenih NPC</text>
+	</string>
+	<string id="sec_desired_npc_caption_1">
+		<text>-</text>
+	</string>
+	<string id="sec_desired_npc_caption_2">
+		<text>-</text>
 	</string>
 	<string id="set_friend_script">
 		<text>Postavi prijatelja!</text>
@@ -336,6 +354,12 @@
 	<string id="part_object_to_search_for_script">
 		<text>Deo imena objekata koji se traže</text>
 	</string>
+	<string id="part_object_to_search_for_caption_1">
+		<text>-</text>
+	</string>
+	<string id="part_object_to_search_for_caption_2">
+		<text>-</text>
+	</string>
 	<string id="search_script">
 		<text>Pretraga!</text>
 	</string>
@@ -347,6 +371,12 @@
 	</string>
 	<string id="part_the_object_to_remove_script">
 		<text>Deo imena objekata za uklanjanje</text>
+	</string>
+	<string id="part_the_object_to_remove_warning_1">
+		<text>OPREZ! Jednostavna imena poput 'rat' će</text>	<!-- text>CAUTION! Simple names like 'rat' will</text -->
+	</string>
+	<string id="part_the_object_to_remove_warning_2">
+		<text>ukloniti bilo što sa 'rat' tekstom u igri.</text>	<!-- text>remove anything with 'rat' in it.</text -->
 	</string>
 	<string id="remove_script">
 		<text>UKLONI!</text>
@@ -473,7 +503,6 @@
 	<string id="Record_right_transmutator_script">
 		<text>Snimljeni recepti - desno</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Flexerca -=- 11:13 12.07.2014 -->
 <!-- Prevod na dodanome tekstu - Coolkingeye -=- 21:53  23.03.2015 -->
-<!-- Tekst usklađen sa 109983 verzijom zakrpe - 21.03.2015 21:16 -sadd -->
+	<!-- Tekst usklađen sa 109998 verzijom 20.10.2015 16:24 - sadd -->

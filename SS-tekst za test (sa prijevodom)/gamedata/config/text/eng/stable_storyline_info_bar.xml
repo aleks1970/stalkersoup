@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
+<!-- TB3D 1.0.9.9.9.8 -->
 	<string id="descr_bar_crazy_veterans_quest">
 		<text>Barmen: "Djuti mora da zadrži svoju reputaciju. Eto zašto žele da se ova stvar brzo završi. Sve što trebaš da uradiš je da rokneš vođu pod nazivom Srećko i doneseš njegov PDA kao dokaz."</text>
 	</string>
@@ -25,7 +25,7 @@
 		<text>Barmen: "Ti imaš zaštitni prototip da obezbediš sebe protiv Spaljivača Mozgova, a ja znam koordinate bunkera. Ne zaboravi da te prototip ne moše zaštiti od Emisija večno, zato moraš da dođeš do bunkera ispod antene i isključiš Spaljivača. Sve što trebaš da uradiš jeste da se dokopaš antena i isključiš ih."</text>
 	</string>
 	<string id="descr_bar_resque_information">
-		<text>Kruglov: "Stalkeru, pomozi! Napadnuti smo od strane Plaćenika i polovina našeg tima je mrtvo. Pomozi nam i nećeš zažaliti."\n \n "...budi oprezan, tu je otprilike njih petnaest, ali ne možemo biti sigurni."</text>
+		<text>Kruglov: "Stalkeru, pomozi! Napadnuti smo od strane Plaćenika i polovina našeg tima je mrtvo. Pomozi nam i nećeš zažaliti."\n \n"...budi oprezan, tu je otprilike njih petnaest, ali ne možemo biti sigurni."</text>
 	</string>
 	<string id="descr_bar_resque_information_2">
 		<text>Kruglov: "Mi smo se vraćali iz Jantara kad su nas Plaćenici oborili. Ljudi kažu da su im potrebne informacije, ali ja znam - da će nas sve pobiti. Odvedi me do Jantara i ja ću ti reći šta znam o tvom Spaljivaču Mozgova, a Barmen će ti platiti dobro za to. Ja sam loš ratnik, ali znam put, pa ću nas voditi a ti ćeš nas štititi tokom puta."</text>

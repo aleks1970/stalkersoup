@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.31e -->
+<!-- TB3D 1.0.9.9.9.8 -->
 	<string id="gar_car_graveyard_quest">
 		<text>Odgovori na poziv za pomoć</text>
 	</string>
@@ -43,7 +43,7 @@
 		<text>Saznaj šta Serli zna o Streloku</text>
 	</string>
 	<string id="graveyard_raid_text">
-		<text> Bes: Ta banditska kopilad ponovo pokušavaju da preuzmu kontrolu nad Deponijom. Pre oko pola sata su nas napali. Uspeli smo ubijemo trojcu od tih spodoba. Neki od mojih ljudi su otišli po pojačanje. Nije nas dovoljno ostalo, a svakako bi nam pomoć dobrodošla. Ako se budeš borio uz nas, brate ... Lično ću se postarati da budeš nagrađen za to ...</text>
+		<text>Bes: Ta banditska kopilad ponovo pokušavaju da preuzmu kontrolu nad Deponijom. Pre oko pola sata su nas napali. Uspeli smo ubijemo trojcu od tih spodoba. Neki od mojih ljudi su otišli po pojačanje. Nije nas dovoljno ostalo, a svakako bi nam pomoć dobrodošla. Ako se budeš borio uz nas, brate ... Lično ću se postarati da budeš nagrađen za to ...</text>
 	</string>
 	<string id="help_for_neitrals_text">
 		<text>Kod groblja mašina, odigrava se užasna bitka između neutralaca i bandita. Uskoro će doći do novog napada, a neutralcima je potrebna svaka pomoć koja je moguća ...</text>

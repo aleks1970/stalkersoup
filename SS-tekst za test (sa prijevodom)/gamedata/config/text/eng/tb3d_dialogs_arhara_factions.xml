@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.7 added bio text from char desc general -->
+<!-- TB3D 1.0.9.9.9.8 added bio text from char desc general -->
 <string_table>
 	<!-- ***************************************** -->
 	<!--  FACTION INTERACTION WITH SIDOROVICH -->
@@ -238,6 +238,6 @@
 	<string id="sim_sldr_bio">
 		<text>Obični vojnici. Detaljne informacije su nedostupne.</text>
 	</string>
-	<!--*****************************************-->
+<!--*****************************************-->
 </string_table>
 	<!-- Preveo i prilagodio Nailer -=- 17:00 10.05.2015 -->

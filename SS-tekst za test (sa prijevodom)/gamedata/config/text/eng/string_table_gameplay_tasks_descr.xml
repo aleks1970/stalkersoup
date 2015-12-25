@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.3   StalkerSoup game tasks - descriptions aleks1970, life heart, explore the hospital, Tushkan heads, boatswain -->
+<!-- TB3D 1.0.9.9.9.8   StalkerSoup game tasks - descriptions aleks1970, life heart, explore the hospital, Tushkan heads, boatswain, minor edits -->
 <string_table>
 	<string id="useful_information_gameplay_descriptions">
 		<text>Imaš li kakavih korisnih informacija?</text>
@@ -28,6 +28,10 @@
 	<string id="objective_gameplay_descriptions">
 		<text>Zadaci</text>
 	</string>
+<!--	Duplicated - aleks1970
+	<string id="objective_gameplay_descriptions">
+		<text>objective</text>
+	</string> -->
 	<string id="Search_for_fix the_Flamethrower_gameplay_descriptions">
 		<text>Pronađi potrebne predmete za popravku bacača plamena</text>
 	</string>
@@ -60,9 +64,6 @@
 	</string>
 	<string id="information_gameplay_descriptions">
 		<text>Informacije</text>
-	</string>
-	<string id="objective_gameplay_descriptions">
-		<text>Zadaci</text>
 	</string>
 	<string id="Bring_artifact_to_Sidorovich_gameplay_descriptions">
 		<text>Donesi artefakt Sidoroviču</text>
@@ -1954,12 +1955,50 @@
 	<string id="Bring_the_disk_Adrenalin_gameplay_descriptions">
 		<text>Donesi disk Adrenalinu</text>
 	</string>
+	<!-- Missing strings - aleks1970 -->
 	<string id="find_ghost_gameplay_descriptions">
 		<text>Pronađi Duha</text>
 	</string>
 	<string id="Find_the_tools_East_Pripyat_gameplay_descriptions">
 		<text>Pronađi alat u Istočnom Pripjatu</text>
 	</string>
+<!-- text for the new tasks about mutant minimap detector - aleks1970 -->
+	<string id="Bring_Burer_4_Hand_15_PDAs_gameplay_descriptions">
+		<text>Sakupi četiri ruke Burera i 15 vojnih PDA</text>
+	</string>
+	<string id="Collect_Burer_4_Hand_15_PDAs_gameplay_descriptions">
+		<text>Sakupi četiri ruke Burera i 15 vojnih PDA</text>
+	</string>
+	<string id="Pass_the_Burer_4_Hand_15_PDAs_gameplay_descriptions">
+		<text>Predaj četiri ruke Burera i 15 vojnih PDA</text>
+	</string>
+	<string id="Bring_4_Chimera_Claw_40_PDAs_gameplay_descriptions">
+		<text>Donesi četiri Himerine kandže i 40 vojnih PDA</text>
+	</string>
+	<string id="Collect_4_Chimera_Claw_40_PDAs_gameplay_descriptions">
+		<text>Sakupi četiri Himerine kandže i 40 vojnih PDA</text>
+	</string>
+	<string id="Pass_the_4_Chimera_Claw_40_PDAs_gameplay_descriptions">
+		<text>Razmeni četiri Himerine kandže i 40 vojnih PDA</text>
+	</string>
+	<string id="Bring_3_Werewolf_Paws_20_PDAs_gameplay_descriptions">
+		<text>Donesi tri šape Vukodlaka i 20 vojnih PDA</text>
+	</string>
+	<string id="Collect_3_Werewolf_Paws_20_PDAs_gameplay_descriptions">
+		<text>Sakupi tri šape Vukodlaka i 20 vojnih PDA</text>
+	</string>
+	<string id="Pass_the_3_Werewolf_Paws_20_PDAs_gameplay_descriptions">
+		<text>Predaj tri šape Vukodlaka i 20 vojnih PDA</text>
+	</string>
+	<string id="Bring_1_Librarian_Hand_30_PDAs_gameplay_descriptions">
+		<text>Donesi ruku Bibliotekara i 30 vojnih PDA</text>
+	</string>
+	<string id="Collect_1_Librarian_Hand_30_PDAs_gameplay_descriptions">
+		<text>Sakupi ruku Bibliotekara i 30 vojnih PDA</text>
+	</string>
+	<string id="Pass_the_1_Librarian_Hand_30_PDAs_gameplay_descriptions">
+		<text>Predaj ruku Bibliotekara i 30 vojnih PDA</text>
+	</string>
 </string_table>
 	<!-- Preveo i prilagodio Flexerca -=- 12:41 17.07.2014 -->
-	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:52 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:18 - sadd -->

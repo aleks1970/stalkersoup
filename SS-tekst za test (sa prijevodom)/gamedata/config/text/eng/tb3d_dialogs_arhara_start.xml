@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.4 lis_doctor_dialog_3 patch to path, The Doctor, naemn_shturm_otbit, something  -->
+<!-- TB3D 1.0.9.9.9.8 lis_doctor_dialog_3 patch to path, The Doctor, naemn_shturm_otbit, something  -->
 <!-- GAME START -->
 <!-- ASTROLOGER -->
 <string_table>
@@ -272,78 +272,7 @@
 		<text>Možemo privesti ove poslove kraju! Kao nagradu daću ti svoje lične beleške i još neke informacije. Dok si bio odsutan, pronašao sam još jedan izlaz iz ATP-a u Vojna Skladišta. Poslaću ti informacije na PDA. A gde je treći izlaz koji vodi u Pripjat, to zna Saharov.</text>
 	</string>
 	<!-- AKIM TRADE and OFFERS -->
-	<string id="akim_obmen_0">
-		<text>Da li prodaješ municiju?</text>
-	</string>
-	<string id="akim_obmen_1">
-		<text>Prodajem samo municiju za M-134 minigun, koju je jako teško naći!!</text>
-	</string>
-	<string id="akim_obmen_2">
-		<text>Koliko košta?</text>
-	</string>
-	<string id="akim_obmen_3">
-		<text>2500ru po kutiji i Meduza artefakt.</text>
-	</string>
-	<string id="akim_obmen_4">
-		<text>Zar ne misliš da je to malo preskupo!?</text>
-	</string>
-	<string id="akim_obmen_5">
-		<text>To je cena, uzmi ili ostavi.</text>
-	</string>
-	<string id="akim_obmen_6">
-		<text>U redu! Izvoli.</text>
-	</string>
-	<string id="akim_obmen_7">
-		<text>Ma zaboravi!!!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_0">
-		<text>Imaš li kakvog posebnog oružja?</text>
-	</string>
-	<string id="akim_obmen_fnsnip_1">
-		<text>Mogu ti ponuditi snajpersku pušku sa kompjuterizovanom optikom, ali nije jeftina!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_2">
-		<text>Koliko?</text>
-	</string>
-	<string id="akim_obmen_fnsnip_3">
-		<text>120,000ru i Puding artefakt.</text>
-	</string>
-	<string id="akim_obmen_fnsnip_4">
-		<text>To mora da je neka strašna puška!!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_5">
-		<text>Zaista i jeste, jako profinjeno oružje!</text>
-	</string>
-	<string id="akim_obmen_fnsnip_6">
-		<text>Smatraj da smo se dogovorili.</text>
-	</string>
-	<string id="akim_obmen_fnsnip_7">
-		<text>Nemam trenutno toliko novca, možda kasnije.</text>
-	</string>
-	<string id="akim_zamok_0">
-		<text>Prodaješ li neke posebne predmete?</text>
-	</string>
-	<string id="akim_zamok_1">
-		<text>Mogu ti prodati kodiranu bravu. Odlična je za čuvanje štekova!!</text>
-	</string>
-	<string id="akim_zamok_2">
-		<text>Jesu li krađe veliki problem u Zoni?</text>
-	</string>
-	<string id="akim_zamok_3">
-		<text>Jednako su zastupljene ovde kao i u vanjskom svetu, samo što su ovde kradljivci PUNO GORI!!</text>
-	</string>
-	<string id="akim_zamok_4">
-		<text>Koliko košta jedna takva brava?</text>
-	</string>
-	<string id="akim_zamok_5">
-		<text>20,000ru plus Vijuga artefakt za jednu bravu</text>
-	</string>
-	<string id="akim_zamok_6">
-		<text>Ok, uzeću jednu bravu.</text>
-	</string>
-	<string id="akim_zamok_7">
-		<text>Nisam zainteresiran.</text>
-	</string>
+	<!-- removed duplicated string id's: "akim_obmen_0", "akim_obmen_1", "akim_obmen_2", "akim_obmen_3", "akim_obmen_4", "akim_obmen_5", "akim_obmen_6", "akim_obmen_7", "akim_obmen_fnsnip_0", "akim_obmen_fnsnip_1", "akim_obmen_fnsnip_2", "akim_obmen_fnsnip_3", "akim_obmen_fnsnip_4", "akim_obmen_fnsnip_5", "akim_obmen_fnsnip_6", "akim_obmen_fnsnip_7", "akim_zamok_0", "akim_zamok_1", "akim_zamok_2", "akim_zamok_3", "akim_zamok_4", "akim_zamok_5", "akim_zamok_6" and "akim_zamok_7" - it's also in the "tb3d_dialogs_arhara_trade.xml" file - aleks1970 -->
 	<!-- SAKHAROV MISSIONS -->
 	<string id="sahar_sumka_dost_0">
 		<text>Profesore, da li Vojska posećuje često ovo mesto?</text>
@@ -1078,5 +1007,5 @@
 		<text>Ipak, posao je posao. Dobićeš ono što pronađeš od smeća što smo uzeli. Ali barem si se trudio i to nećemo zaboraviti.</text>
 	</string>
 </string_table>
-	<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 22:39 -sadd -
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 17:45 - sadd -->
 	<!-- Preveo i prilagodio Flexerca -=- 08:41 29.05.2015 -->

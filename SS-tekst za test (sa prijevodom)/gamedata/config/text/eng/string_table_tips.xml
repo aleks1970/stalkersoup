@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-	<!-- <string_table> -->
+<!-- TB3D 1.0.9.9.9.8 text from the script files, added 326 to 334 line - aleks1970, pred messages, includes -->
+<string_table>
+#include "text\eng\amk_flame_dialogs.xml"
+#include "text\eng\amk_escape_dialogs.xml"
+#include "text\eng\string_table_timer.xml"
+#include "text\eng\stable_dialogs_amk.xml"
+#include "text\eng\meceniy_st_dialogs.xml"
+#include "text\eng\amk_reload_dialogs.xml"
+#include "text\eng\string_table_amk_metka.xml"
+#include "text\eng\string_table_amk_matras.xml"
+#include "text\eng\string_table_enc_sigaret.xml"
+#include "text\eng\stable_statistic_caption.xml"
+#include "text\eng\stable_miniquest_dialogs.xml"
+#include "text\eng\stable_dialog_manager_uni.xml"
 	<string id="car_use">
 		<text>Otvori vrata ($$ACTION_USE$$)</text>
 	</string>
-	<!--<string id="character_use">
-		<text>Razgovaraj ($$ACTION_USE$$)</text>
-	</string>
-	<string id="dead_character_use">
-		<text>Pretraži telo ($$ACTION_USE$$)</text>
-	</string> - used in string_table_level_tips.xml file - aleks1970 -->
-	<!--<string id="inventory_item_use">
-		<text>Uzmi predmet ($$ACTION_USE$$)</text>
-	</string> - used in string_table_general.xml file - aleks1970 -->
-	<!--<string id="physic_shell_use">
-		<text>Pomakni objekat ()</text>
-	</string> - used in string_table_level_tips.xml file - aleks1970 -->
 	<string id="arc_ui_container_1">
 		<text>Ovaj kontejner je dizajniran za manje radioaktivne artefakte. Ne može u potpunosti neutralisati negativne efekte radijacije. Stavite artefakt u drugi kontejner.</text>
 	</string>
@@ -113,16 +113,16 @@
 		<text>TB3D:\n  %c[default]IZLAZ Teleporter oslobođen, pećina preskočena.</text>
 	</string>
 	<!-- braad_test.script - aleks1970 -->
-	<string id="braad_DOLAZNA_m_0">
+	<string id="braad_incoming_m_0">
 		<text>DOLAZNA:  %c[default]Braćo, slobodno je za sve... Plaćenici su preuzeli farmu...</text>
 	</string>
-	<string id="braad_DOLAZNA_m_1">
+	<string id="braad_incoming_m_1">
 		<text>DOLAZNA:  %c[default]Sviblov, imamo hitnog posla!!... Čekam te...</text>
 	</string>
-	<string id="braad_DOLAZNA_m_2">
+	<string id="braad_incoming_m_2">
 		<text>SIDOROVIČ:  %c[default]Ej, Obeleženi, ovde tvoj stari prijatelj Sidorovič... Neki čudan paket je stigao...</text>
 	</string>
-	<string id="braad_DOLAZNA_m_3">
+	<string id="braad_incoming_m_3">
 		<text>DOLAZNA:  %c[default]AAAAHHHHGGGGHHHHHH!!!!!...</text>
 	</string>
 	<!-- restriction_stock.script - aleks1970 -->
@@ -332,724 +332,113 @@
 	<string id="repair_check_txt13">
 		<text>smanjenje trzaja oružja</text>
 	</string>
-	<!-- Legacy artefact strings - aleks1970 -->
-	<string id="enc_artmod_rusty_sea-urchin_mosquito_bald_text">
-		<text>\n \nArtifact "sea urchin" is produced by transmutation in the joint anomalies "Springboard" just four ingredients: \nTentacle bloodsucking \nCrystal thorn \nStone Blood \nSlime. \ntransformation occurs within 5-10 minutes</text>
+	<!--109998 New repair strings - aleks1970 -->
+	<string id="revamped_repair_kit">
+		<text>Set za popravljanje</text>
 	</string>
-	<string id="af-dummy-indilian">
-		<text>Indilijan</text>
+	<!--string id="spare_parts_bag">
+		<text>Vreća sa rezervnim delovima</text>
 	</string>
-	<string id="af-dummy-indilian_s">
-		<text>Indilijan</text>
+	<string id="spare_parts_small">
+		<text>Rezervni delovi</text>
+	</string-->
+	<string id="repair_str_spareparts">
+		<text>Rezervni delovi</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-indilian">
-		<text>Ovaj ekstremno redak artefakt je također nazvan i "Ubica Snova" jer značajno usporava Alfa i Beta moždane talase kod nosioca čima umanjuje efekte PSI napada. Daje dodatnu zaštitu od napada mnogih stvorenja iz Zone. Njegovi negativni efekti su smanjena brzina oporavka zdravlja:  Koristiti isključivo sa artefaktima koji regenerišu zdravlje.</text>
+	<string id="repair_str_repair">
+		<text>Popravi</text>
 	</string>
-	<string id="af-dummy-mushroom">
-		<text>Pečurka</text>
+	<string id="repair_str_salvage">
+		<text>Za delove</text>
 	</string>
-	<string id="af-dummy-mushroom_s">
-		<text>Pečurka</text>
+	<string id="repair_str_spareparts_s">
+		<text>Mali</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-mushroom">
-		<text>Ovaj artefakt je transmutovana pečurka formirana u anomaliji Trampolina. Ekstemno je redak. Formira se unutar radijusa od 0.3 metra lokalizovanog polja sile koje poboljšava otpornost na ranjavanje metkom. Artefakt također ima dosta negativnih efekata kao što su: osetljivost kože na opekotine, električne šokove i hemikalije. Stalkeri kada pronađu ovaj artefakt odmah ga bacaju zbog njegovih negativnih svojstava.</text>
+	<string id="repair_str_spareparts_l">
+		<text>Veliki</text>
 	</string>
-	<string id="af_dummy-star_monolith">
-		<text>Zvezda Monolita</text>
+	<string id="repair_str_spareparts_a">
+		<text>Pancir</text>
 	</string>
-	<string id="af_dummy-star_monolith_s">
-		<text>Zvezda Monolita</text>
+	<string id="repair_str_use1">
+		<text>Koristi 1</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-star_monolith">
-		<text>Misteriozni artefakt. Samo dva puta je zabeleženo da se pojavio u Zoni.......\n* Pojavio se, prema glasinama, kada su stalkeri iz klana 'Monolit' ušli u centar Zone. Ispred oltara su se molili, tražeći od Monolita da im pokaže znak svog postojanja. Jedne noći artefakt je pao sa neba na zemlju i fanatici su to odmah protumačili kao znak od Monolita. \n* Sudeći prema tvrdnjama naučnika, on je formiran spajanjem više vazdušnih anomalija na velikoj visini.\nVrlo retka stvar formirana isključivo u prostoru koji okružuje nuklearnu elektranu Černobil.</text>
+	<string id="repair_str_use5">
+		<text>Koristi 5</text>
 	</string>
-	<string id="af-dummy-seashell">
-		<text>Beba Školjka</text>
+	<string id="repair_str_usefull">
+		<text>Potpuna popravka</text>
 	</string>
-	<string id="af-dummy-seashell_s">
-		<text>Beba Školjka</text>
+	<string id="repair_str_noparts">
+		<text>Nema rezervnih delova</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-seashell">
-		<text>Naučnici su objavili postojanje ovog novog i retkog artefakta kojeg je pronašao pijani Stalker u blizini Bara. Artefakt pruža malo poboljšanje u zdravlju i zaštitu od hemikalija ali smanjuje otpornost na metke.</text>
+	<string id="repair_str_nodamage">
+		<text>Bez oštećenja</text>
 	</string>
-	<string id="af-dummy-djoker">
-		<text>Džoker</text>
+	<string id="repair_str_fulldamage">
+		<text>~ Pokvaren ~</text>
 	</string>
-	<string id="af-dummy-djoker_s">
-		<text>Džoker</text>
+	<string id="repair_str_pistols">
+		<text>Pištolja u inventaru</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-djoker">
-		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +15\n%c[default] Poreklo ovog artefakta nije poznato i samo nekoliko puta je viđen u Zoni. Artefakt pruža dobru zaštitu od udara, ali smanjuje izdržljivost. Radioaktivan.</text>
+	<string id="repair_str_rifles">
+		<text>Puška u inventaru</text>
 	</string>
-	<string id="af-dummy-dumbbell">
-		<text>Kladivo</text>
+	<string id="repair_str_armor">
+		<text>Pancir odela u inventaru</text>
 	</string>
-	<string id="af-dummy-dumbbell_s">
-		<text>Kladivo</text>
+	<string id="repair_str_salvage_choose">
+		<text>Izaberi sekciju za delove</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-dumbbell">
-		<text>Ovaj artefakt je mali i izgleda kao par loptica - ali zato ima neverovatnu težinu - 18Kg!. Izuzetno čvrst i sabijen - ne može se preseći, istopiti ili presovati. Nepoznatog porekla. Poboljšava zdravlje i smanjuje radijaciju. Nema negativnih osobina - uprkos svojoj velikoj masi.</text>
+	<string id="repair_str_salvage_click">
+		<text>Klikni na predmet za delove</text>
 	</string>
-	<string id="af_dummy-vertyshka">
-		<text>Vetrenjača</text>
+	<string id="repair_str_button_choose">
+		<text>Klikni na predmet za popravku</text>
 	</string>
-	<string id="af_dummy-vertyshka_s">
-		<text>Vetrenjača</text>
+	<string id="enc_equipment_repair_kit">
+		<text>Set za popravljanje. Težina: 2.5kg.\nMali set koji sadrži fini alat za popravljanje oružja i pancir odela. Dvostruki klik da bi otvorili meni Popravi/Za delove.</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-vertyshka">
-		<text>Tačno poreklo ovog artefakta je nepoznato. Naučnici tvrde da je ovaj artefakt formiran uticajem dve anomalije - "Trampoline" i "Elektro" anomalija. Postoje teorije o tome kako je ovaj redak artefakt lociran u središtu anomalija koje su povezane mođusobno pomoću slabog električnog ujedinjenja. Aktivno polje tera ga da rotira. Štiti od električnog šoka ali tu je i smanjenje otpornosti na metke, kao i smanjenje otpornosti na radijaciju...</text>
+	<!--string id="enc_equipment_parts_bag">
+		<text>Vreća za rezervne delove. Težina: 0.14kg.\nVreća sadrži sve rezervne delove koji su dobijeni demontažom sa oružja i odela. Dvostruki klik da bi otvorili meni Popravi/Za delove.</text>
 	</string>
-	<string id="af-dummy-coal">
-		<text>Ugalj</text>
+	<string id="enc_equipment_parts_small">
+		<text>Rezervni delovi. Težina: 0.14kg.\nRezervni delovi koji su dobijeni demontažom sa oružja i odela...</text>
+	</string-->
+	<string id="repair_salv_error_1">
+		<text>Greška!!! ..</text>
 	</string>
-	<string id="af-dummy-coal_s">
-		<text>Ugalj</text>
+	<string id="repair_salv_error_2">
+		<text>\n .. Ukloni ne podržavajući objekat iz prvog slota za oružje...</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-coal">
-		<text>Artefakt koji se u Zoni pojavio u skorije vreme. Naučnici veruju da je formiran pomoću nukleosinteze između Barijonske tamne materije i artefakta "Kameni Cvet". Izgleda kao grumen uglja. Artefakt nudi dobru zaštitu od PSI talasa i povećava otpornost na kontaminaciju radijacijom, ali uveliko povećava zamor. Pobrini se da imaš artefakte koji poništavaju njegove negativne efekte.</text>
+	<string id="repair_salv_enemy_1">
+		<text>Opasnost u blizini!! ..</text>
 	</string>
-	<string id="af-dummy-quill">
-		<text>Igla</text>
+	<string id="repair_salv_enemy_2">
+		<text>\n  .. Neprijatelj je blizu! Ne možete koristiti kit za popravku!! ...</text>
 	</string>
-	<string id="af-dummy-quill_s">
-		<text>Igla</text>
+	<string id="revamped_cerror_window">
+		<text>Zatvori prozor</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-quill">
-		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +5\n%c[default] Artefakt generisan iz radiogene nukleide artefakta "xZs2x4". Štiti kožu od opekotina i pogodaka od strane raznih predmeta. Pomalo radioaktivan.</text>
+	<string id="repair_button_info">
+		<text>.. Odaberite oružje ili odjeću za popravak ..</text>
 	</string>
-	<string id="af-dummy-wool">
-		<text>Vatrena Vuna</text>
+	<string id="salvage_button_info">
+		<text>.. Odaberite oštećeno oružje ili odjeću za rastavljanje u dijelove za popravak ..</text>
 	</string>
-	<string id="af-dummy-wool_s">
-		<text>Vatrena Vuna</text>
+	<!-- 109998 pred text -->
+	<string id="teleport_art_not_found_title">
+		<text>Teleport Znanstvenika</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-wool">
-		<text>Retko pronalažen u Zoni i bez saznanja kako je nastao. Omogućuje vrlo dobru zaštitu od izvora toplote i napada mutanata Zone. Smanjena je otpornost na eksploziju i udar. Tražen od strane naučnika.</text>
+	<string id="teleport_art_not_found">
+		<text>Potreban Artefakt nije pronađen..</text>
 	</string>
-	<string id="af-dummy-bonanza">
-		<text>Oktopod</text>
+	<string id="tb3d_pred1_message">
+		<text>Kontrolni punkt: Romeo prema bazi .. sve sigurno.</text>
 	</string>
-	<string id="af-dummy-bonanza_s">
-		<text>Oktopod</text>
+	<string id="tb3d_pred2_message">
+		<text>Zapovjednik .. baza je napadnuta, svi mrtvi .. počet ćemo potragu za pronalaženje napadača..</text>
 	</string>
-	<string id="enc_zone_artifact_af-dummy-bonanza">
-		<text>Supstanca formirana zajedničkom koegzistencijom anomalija "Fontana" i "Voćni Punč" i Lantanoidnih metala. Ima brojne pozitivne atribute, ali i neke negativne. Pronađen je skorije od strane stalkera po imenu Gedžet. Pokupio ga je bez zaštitnih rukavica, samo što je uspeo da ga ubaci u svoj ranac i njegova ruka se istopila. Od prodaje tog artefakta uspeo je sebi da obezbedi mehaničku protezu ruke.</text>
-	</string>
-	<string id="af-dummy-mercury_ball">
-		<text>Živina Kugla</text>
-	</string>
-	<string id="af-dummy-mercury_ball_s">
-		<text>Živina Kugla</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-mercury_ball">
-		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Bacpack Radijacija %c[255,255,1,1] +20\n%c[default] Artefak je moguće često pronaći u radioaktivnim područjima. Povećava izdržljivost ali ima negativna radioativna svojstva. Glavno jezgro u centru je okruženo malim kuglicama žive koje se okreću. Preporučuju se specijalne rukavice za rukovanje s njim zbog visoke radijacijske termalne energije. Naučnici su otkrili da neki od artefakata sadrže izotop žive Hg-194, pa može biti upotrebljen u svrhu proizvodnje lekova i vakcina širokih namena za opasne bolesti iz Zone.</text>
-	</string>
-	<string id="af-dummy-bezi">
-		<text>Goruće Lišće</text>
-	</string>
-	<string id="af-dummy-bezi_s">
-		<text>Goruće Lišće</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-bezi">
-		<text>Naučnici su u uverenju da ova nova mutacija pripada rodu iz porodice kopriva. Prvobitno pronađen od strane nepoznatog stalkera na izviđačkoj ekspediciji duboko u Zoni. Sintetički hibridi su u fokusu eksperimenata u laboratorijama X-18 i X-16. U stanju je da odbija hemijske komponente i umanjuje krvarenje tako što ubrzava zgrušnjavanje krvi.</text>
-	</string>
-	<string id="af-dummy-glow">
-		<text>Žar</text>
-	</string>
-	<string id="af-dummy-glow_s">
-		<text>Žar</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-glow">
-		<text>Artefakt formiran u anomaliji "Elektra" od raznih metalnih objekata i legura. Visoka energetska stanja u spoljnjem elektronskom omotaču stvara blago svetlucanje. Posle detaljnog proučavanja, istraživači su saznali da artefakt u stvari proizvodi elektricitet u malim količinama. Korišćenjem ovog artefakta koža postaje mekša - povećava se rizik od krvarenja prilikom posekotina. Otpornost na radioaktivnu kontaminaciju je smanjena ali povećana je otpornost na opekotine.</text>
-	</string>
-	<string id="af_dummy-node">
-		<text>Čvor</text>
-	</string>
-	<string id="af_dummy-node_s">
-		<text>Čvor</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-node">
-		<text>%c[1,1,1,1 ]___%c[255,255,255,255] Backpack Radijacija %c[255,255,1,1] +7\n%c[default]Naučnici pokušavaju da razreše misteriju ovog artefakta. Jači od titanijuma i tvrđi od dijamanta ali lakši od kilograma. Stvara zaštitno polje, iskrivljujući putanju metka. Negativni efekti - radioaktivan i smanjuje otpornost na udarne povrede.</text>
-	</string>
-	<string id="enc_zone_artifact_af-kosi">
-		<text>Artefakt formiran kombinacijom od tri anomalije - 'Fontana', 'Gorionik' i 'Voćni Punč'. Jako redak artefakt. Naučnici i istraživači još u potpunosti ne shvataju ovaj artefakt, ali očito je da pri nastanku ovog artefakta fuzijom 3 anomalije mora biti otpuštena enormna količina energije. Korištenjem ovog artefakta ubrzava se metabolizam, dajući telu veću izdržljivost i brže zgrušavanje krvi. Brži metabolizam prouzrokuje veću telesnu temperaturu što kožu čini osetljivijom na povrede.</text>
-	</string>
-	<string id="af-kournikova">
-		<text>Kurnikova</text>
-	</string>
-	<string id="af-kournikova_s">
-		<text>Kurnikova</text>
-	</string>
-	<string id="enc_zone_artifact_af-kournikova">
-		<text>%c[1,1,1,1 ]___%c[1,1,1,255] Čežnja za pravom Ženom iz Zone.....100%\n%c[default]Artefakt jedinstvene lepote. Mnogi stalkeri su prečešljali celu Zonu tražeći ovaj retki artefakt - ali postoji samo jedan. Prisustvo ovog artefakata podiže krvni tlak što značajno pospješuje sposobnost izbacivanja hemijskih i radioaktivnih supstanci. Mana mu je što se korisnik brzo umara. Neznatno radioaktivan i vruć na dodir.</text>
-	</string>
-	<string id="enc_zone_artifact_af-babka_4_d">
-		<text>%c[1,1,1,1]___%c[255,255,255,255]Radijacijska zaštita  %c[255,255,1,1]+11\n%c[default]Apsolutnost se dobija transmutacijom artefakta "Perle babe Burera". Recept, očigledno, pribavljen je praktičnim posmatranjem. A šta je bilo sa negovim autorom - lako je pogoditi ako pogledamo u kostur koji leži u blizini. Od zasluga neophodno je zabeležiti povećanu otpornost vlasnika artefakta na rane od metaka u poređenju sa njegovim prethodnikom. On je radioaktivan.\nModifikovane "Perle babe Burera" baci u anomaliju Gorionik (Burner9.\n%c[255,255,255,255]Vreme transmutacije %c[255,224,224,160]5 minuta u Zoni\n%c[255,255,255,255]Verovatnoća uspešnosti transmutacije %c[255,1,255,1]75 %\n%c[255,255,255,255]Verovatnoća degeneracije %c[255,255,1,1]25 %%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-caterpillar_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-15\n%c[255,255,255,255]Krvarenje %c[255,1,255,1]-133 %\n%c[255,255,255,255]Toplotna zaštita %c[255,1,255,1]+15 %\n%c[255,255,255,255]Kidanje %c[255,1,255,1]+15 %\n%c[255,255,255,255]Pancir %c[255,1,255,1]+1 %\n \n%c[255,224,224,160]Redak artefakt. Nećeš ga pronaći u anomalijama jer je to živa bio-substanca. Formira se od "bezoara" iz stomaka starih Kontrolera kada na njih utiče anomalija Brener (Burner). Nije vam dovoljno, pa ko još u Zoni zna za ovaj recept i postojanje datog artefakta? Saharovi ljudi pretpostavljaju da ova živa substanca je formirana od nesvarenih kostiju električne Himere pod dugotrajnim uticajem izmenjene stomačne kiseline kontrolera, hipnotička aura kao konstantno okruženje i dodatni uticaj ekstremno visokih temperatura. To je neophodno da bi se ova biomasa održala.\n \nBezoar kontrolera baciti u anomaliju Brener (Burner).\n%c[255,255,255,255]Vreme transmutacije %c[255,224,224,160]5 minuta vremena u Zoni\n%c[255,255,255,255]Verovatnoća uspešne transmutacije %c[255,1,255,1]75 %\n%c[255,255,255,255]Verovatnoća degeneracije %c[255,255,1,1]25 %%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-medusa_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]+3\n%c[255,255,255,255]Pancir %c[255,1,255,1]+2 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Trampolina". Predstavlja ostatke biljaka presovane i izvanredno presavijene u jakom gravitacionom polju. Kada se ovaj artefakt nosi na pojasu ima se imunitet na uticaj gravitacionih anomalija, kao što su Levak i Ringišpil, i takođe nezneten efekat zaštitnog polja umanjujući štetu koji nanosi sitno naoružanje. Pomalo je radioaktivan. Prodajna cena je niska zbog široke rasprostanjenosti. Interes za ovim artefaktom pokazale su naučne organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-cristall-flower_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]+5\n%c[255,255,255,255]Pancir %c[255,1,255,1]+4 %\n \n%c[255,224,224,160]Rođen je u anomaliji "Trampolina". Takav artefakt može biti pronađen na samo nekoliko mesta u Zoni. Obogaćen metalnim jedinjenjima dobija predivnu igru svetlosti. Ispitujući ovaj artefakt u blizini vatre noću ga smiruje(?!?).%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-night-star_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]+10\n%c[255,255,255,255]Pancir %c[255,1,255,1]+6 %\n \n%c[255,224,224,160]Artefakt koji se vrlo retko formira u anomaliji "Trampolina". Prelepa formacija sa glatkom površinom i impregniran fosforoscentnom bojom. Baca zelenu svetlost oko sebe u radijusu 1-2 metra noću, zato su mu Stalkeri dali takvo ime. Predstavlja ostatke biljaka, tla i u suštini svega što dođe u direktan kontakt sa anomalijom biva presovano i savijeno snažnim gravitacionim poljem. Kada se artefakt nosi na pojasu daje imunitet na uticaj gravitacionih anomalija, kao što su Vrtlog (Vortex) i Ringišpil (Whirligig), a takođe efekat zaštitnog polja umanjuje štetu koju nanosi sitno naoružanje. Ali zato ovaj artefakt je vrlo radioaktivan, zbog toga je dugo nošenje kontra produktivno. Prodajna cena je vrlo visoka. Interes za ovim artefaktom pokazali su naučnici, kao i vojska.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-vyvert_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]+3\n%c[255,255,255,255]Zaštita od udara %c[255,1,255,1]+2 %\n%c[255,255,255,255]Kidanje %c[255,1,255,1]+2 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Levak". Predstavlja ostatke biljaka, tla i drugih sitnih objekata koji su došli u kontakt sa anomalijom presovani u fino isavijani pomoću snažnog gravitacionog polja. Kada se artefakt nosi na pojasu dobija se imunitet na uticaj gravitacionih anomalija, kao što je Odskočna Daska (Springboard). Prodajna cena je niska zbog široke rasprostranjenosti. Zanimanje za ovim artefaktom imaju naučne organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-gravi_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]+5\n%c[255,255,255,255]Zaštita od udara %c[255,1,255,1]+5 %\n%c[255,255,255,255]Kidanje %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Predivan artefakt formiran u anomaliji "Levak". Predstavlja ostatke biljaka presovane i izvanredno presavijene u jakom gravitacionom polju. Kada se artefakt nosi na pojasu dobija se imunitet na uticaj gravitacionih anomalija, kao što je Odskočna Daska (Springboard). Cena i verovatnoća pojave nisu konstantne. Zanimanje za ovim artefaktom imaju naučne organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-gold-fish_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]+10\n%c[255,255,255,255]Zaštita od udara %c[255,1,255,1]+8 %\n%c[255,255,255,255]Kidanje %c[255,1,255,1]+8 %\n \n%c[255,224,224,160]Artefakt se vrlo retko pojavljuje u anomaliji "Levak". Predivna formacija sa glatkom površinom. Obasjava prostor oko sebe u radijusu 1-2 metra noću. Predstavlja metal presovan i fino izsavijan od strane snažnog gravitacionog polja sa mešavinom  svega što je u osnovi došlo do anomalije u momentu pražnjenja. Kada se artefakt nosi na pojasu dobija se imunitet na uticaj gravitacionih anomalija, kao što je Odskočna Daska (Springboard). Prodajna cena je vrlo visoka. Zanimanje za ovim artefaktom imaju naučne organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-drops_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-5\n%c[255,255,255,255]Izdržljivost %c[255,255,1,1]-73\n \n%c[255,224,224,160]Artefakt se pojavljuje u blizini anomalije "Gorionik". Mala formacija u obliku suze sa ispucalom glatkom površinom. Stalkeri kažu da ukoliko se nosi ovaj artefakt nivo radiacije u organizmu opada, ali zbog njegove jake termalne emisije slabi izdržljivost. Cena je niska. Zanimanje za ovim artefaktom imaju kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-fireball_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-10\n%c[255,255,255,255]Izdržljivost %c[255,255,1,1]-36\n \n%c[255,224,224,160]Artefakt se može pronaći u blizini anomalije "Gorionik". Providna crvenkasta formacija sfernog oblika. Stalkeri kažu da ukoliko se nosi ovaj artefakt nivo radiacije u organizmu opada. Ali zbog njegove jake termalne emisije slabi izdržljivost. Cena je prosečna. Zanimanje za ovim artefaktom imaju by kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-cristall_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-15\n%c[255,255,255,255]Izdržljivost %c[255,255,1,1]-27\n \n%c[255,224,224,160]Artefakt se vrlo retko može pronaći u blizini anomalije "Gorionik". Njegovo ime samo opisuje formu artefakta, to je veliki izliveni kristal crvene boje. Stalkeri tvrde da ukolike se ovaj artefakt nosi nivo radiacije u organizmu značajno opada. Ali zato, artefakt ne deluje na najbolji način na izdržljivost. Cena je visoka. Zanimanje za ovim artefaktom imaju naučne organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-blood_d">
-		<text>%c[255,255,255,255]Zdravlje %c[255,1,255,1]+100 %\n%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-3\n%c[255,255,255,255]Zaštita od udara %c[255,255,1,1]-3 %\n%c[255,255,255,255]Kidanje %c[255,255,1,1]-3 %\n%c[255,255,255,255]Radijacija %c[255,1,255,1]+3 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Ringišpil". Predstavlja ružnu crvenkastu formaciju od ispresovanih i fino isavijanih polimerizovanih ostataka biljaka, tla, mesa i kostiju izgubljenih stalkera i mutanata. Kada se artefakt nosi na pojasu  mistična slika znatno ubrzava zarastanje rana. U isto vreme umanjuje stabilnost na fizička oštećenja. Među stalkerima postoji legenda da je u ovom artefaktu sadržana energija ljudi koji su izgubljeni u anomaliji. Prodajna cena je niska zbog široke rasprostranjenosti. Zanimanje za ovim artefaktom pokazuju fizičari i svaki mogući religiozni kult.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-mincer-meat_d">
-		<text>%c[255,255,255,255]Zdravlje %c[255,1,255,1]+200 %\n%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-5\n%c[255,255,255,255]Zaštita od udara %c[255,255,1,1]-5 %\n%c[255,255,255,255]Kidanje %c[255,255,1,1]-5 %\n%c[255,255,255,255]Radijacija %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Ringišpil". Predstavlja ružnu žućkastu formaciju od ispresovanih i fino isavijanih polimerizovanih ostataka mesa i kostiju izgubljenih stalkera.  Kada se artefakt nosi na pojasu  mistična slika znatno ubrzava proces zarastanja rana. Među stalkerima postoji legenda da je u ovom artefaktu sadržana energija ljudi koji su izgubljeni u anomaliji. U isto vreme umanjuje stabilnost na fizička oštećenja. Cena artefakta i verovatnoća pojavljivanja je prosečna. Zanimanje za ovim artefaktom pokazuju fizičari i svaki mogući religiozni kult.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-soul_d">
-		<text>%c[255,255,255,255]Zdravlje %c[255,1,255,1]+300 %\n%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-10\n%c[255,255,255,255]Zaštita od udara %c[255,255,1,1]-7 %\n%c[255,255,255,255]Kidanje %c[255,255,1,1]-7 %\n%c[255,255,255,255]Radijacija %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Vrlo redak artefakt formiran u anomaliji "Ringišpil". Predstavlja zlatasto-crvenu brilijantnu formaciju od ispresovanih i fino isavijanih polimerizovanih ostataka živog svežeg mesa. Među stalkerima postoji legenda da je u ovom artefaktu sadržana energija ljudi koji su izgubljeni u anomaliji. Kada se artefakt nosi na pojasu mistična slika u roku od nekoliko sekundi kompletno oporavlja zdravlje, a krvarenje prestaje. U isto vreme stabilnost na fizička oštećenja se značajno pogoršava. Prodajna cena je vrlo visoka. U osnovi ovaj artefakt se pojavljuje u anomaliji koja je uvukla veliki broj organskih objekata u sebe. Zanimanje za ovim artefaktom pokazuju fizičari i svaki mogući religiozni kult.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-electra-sparkler_d">
-		<text>%c[255,255,255,255]Izdržljivost %c[255,1,255,1]+27\n%c[255,255,255,255]Elektro Zaštita %c[255,255,1,1]-10 %\n%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Elektra". Providna amorfna vrlo jednostavna formacije koja povremeno pušta male zrake iz sebe. Kada se artefakt nosi na pojasu neznatno povećava izdržljivost, ali osoba ostaje ranjiva na elektricitet. Cena je prosečna. Zanimanje za ovim artefaktom pokazuju naučne organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-electra-flash_d">
-		<text>%c[255,255,255,255]Izdržljivost %c[255,1,255,1]+64\n%c[255,255,255,255]Elektro Zaštita %c[255,255,1,1]-10 %\n%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Elektra". Osnova je providna amorfna formacija sa izbijajućim zracima svetlosti iz njega, ponekad oko sebe emituje male varnice. Kada se nosi na pojasu ovaj artefakt neznatno povećava izdržljivost, ali nosioc ostaje osetljiv na elektricitet. Cena je visoka. Zanimanje za ovim artefaktom pokazuju naučne organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-electra-moonlight_d">
-		<text>%c[255,255,255,255]Izdržljivost %c[255,1,255,1]+100\n%c[255,255,255,255]Elektro Zaštita	%c[255,255,1,1]-10 %\n%c[255,255,255,255]Radijacijska zaštita %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Artefakt pronađen u blizini anomalije "Elektra". Lagana providna amorfna formacija sa vidljivim jezgrom, puštajući oko sebe male varnice. Kada se artefakt nosi na pojasu značajno uvećava izdržljivost. Ali ukoliko biva pogođen anomalijom Elektra šanse za preživljavanje stalkera koji ga nosi su minimalne. Cena je vrlo visoka. Zanimanje za ovim artefaktom pokazuju naučne organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-ameba-slime_d">
-		<text>%c[255,255,255,255]Krvarenje %c[255,1,255,1]-66 %\n%c[255,255,255,255]Toplotna zaštita %c[255,255,1,1]-20 %\n%c[255,255,255,255]Hemijska zaštita %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Artefakt pronađen u blizini anomalije "Voćni Punč". Predstavlja providnu želatinastu formaciju. Kada se artefakt nosi na pojasu verovatnoća gubitka krvi čak i kod nekoliko rana istovremeno se umanjuje značajno, ali ranjivost na bilo koju vrstu opekotina se zato povećava. Cena je niska. Zanimanje za ovim artefaktom imaju naučničke organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-ameba-slug_d">
-		<text>%c[255,255,255,255]Krvarenje %c[255,1,255,1]-133 %\n%c[255,255,255,255]Toplotna zaštita %c[255,255,1,1]-10 %\n%c[255,255,255,255]Hemijska zaštita %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Artefakt pronađen u blizini anomalije "Voćni Punč". Noseći ovu providnu želatinastu formaciju na pojasu smanjuješ verovatnoću gubitka značajne količine krvi čak i iz više rana, ali to osobu čini ranjivom na bilo kakvu vrstu opekotina. Cena je prosečna. Zanimanje za ovim artefaktom imaju naučničke organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-ameba-mica_d">
-		<text>%c[255,255,255,255]Krvarenje %c[255,1,255,1]-233 %\n%c[255,255,255,255]Toplotna zaštita %c[255,255,1,1]-5 %\n%c[255,255,255,255]Hemijska zaštita %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Artefakt formiran u anomaliji "Voćni Punč". Kada se ovaj artefakt nosi na pojasu verovatnoća gubitka krvi čak i kod nekoliko rana istovremeno se umanjuje značajno, ali to osobu čini ranjivom na bilo kakvu vrstu opekotina. Cena je visoka. Zanimanje za ovim artefaktom imaju naučničke organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-spring_d">
-		<text>%c[255,255,255,255]Zaštita od udara %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Poreklo ovog artefakta nije poznato. Predstavlja dva čvrsta diska povezana mođusobno viskozitetnim vezivom. Može se nezavisno kretati, praviti male skokove do promenjivog gravitacionog polja. Nošenje ovog artefakta na pojasu smanjuje verovatnoću pojave ozbiljnih trauma kao rezultat emosionih pražnjenja. Prodajna cena je vrlo visoka. Zanimanje za ovim artefaktom imaju naučničke organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-dummy_d">
-		<text>%c[255,255,255,255]Zaštita od udara %c[255,1,255,1]+4 %\n \n%c[255,224,224,160]Poreklo ovog artefakta nije poznato. Dva čvrsta diska povezana mođusobno vezivom. Artefak neznatno ublažuje oštećenja od svih tipova gravitacionih anomalija i eksplozija, upijajući šok tatase. Prodajna cena mu je vrlo visoka. Zanimanje za ovim artefaktom imaju naučničke organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-battery_d">
-		<text>%c[255,255,255,255]Elektro Zaštita %c[255,1,255,1]+15 %\n \n%c[255,224,224,160]Poreklo ovog artefakta nije poznato. Grebenasta brilijantna formacija. Vrlo koristan artefakt za svog nosioca. Poboljšava sve karakteristike od jakog zračenja do osetljivost na elektricitet. Stiče se utisak da ovaj artefakt ojačave sve procese koji se dešavaju oko njega. Prodajna cena je ogromna. Specifičan interes za njim pokazuju naučničke organizacije.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-pellicle_d">
-		<text>%c[255,255,255,255]Hemijska zaštita %c[255,1,255,1]+15 %\n \n%c[255,224,224,160]Ovaj artefakt je toliko redak da mnogi istraživači sumnjaju u postojanje takve substance uopšte u prirodnim uslovima. Odbacuje kaustične hemijske komponente.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-glassbeads_d">
-		<text>%c[255,255,255,255]Pancir %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Izvanredan artefakt, zaštiti ga. Dobro je što ima samo dobre zasluge (jedinstven fenomen sa isključivo pozitivnim svojstvima apsolutnih artefakata i retkih hipermodifikata, po pravilu, poseduje). Naučnici razbijaju svoje sede glave kako dobiti slična svojstva u laboratojijskim uslovima. Interes za njim pokazuju, možda, svi koji su čuli za njega.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-rusty-thorn_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-5\n%c[255,255,255,255]Krvarenje %c[255,255,1,1]+100 %\n \n%c[255,224,224,160]Artefakt vrlo često je moguće pronaći u blizini anomalije Veštičije Pihtije. Umanjuje radijaciju iz ljudskog tela. Međutim oslabljena osobina ovog artefakta je da uzrokuje obilno krvarenje. Cena je niska. Zanimanje za ovim artefaktom imaju naučničke organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-rusty-kristall_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-10\n%c[255,255,255,255]Krvarenje %c[255,255,1,1]+100 %\n \n%c[255,224,224,160]Artefakt je moguće pronaći u blizini anomalije Veštičije Pihtije. Umanjuje radijaciju iz ljudskog tela, ali istovremeno pokreće krvarenje tako da prilikom nošenja ovog artefakta potrebno je biti oprezan i ne zaboraviti njegove negativne uticaje. Cena je prosečna. Zanimanje za ovim artefaktom imaju naučničke organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-rusty-sea-urchin_d">
-		<text>%c[255,255,255,255]Radijacijska zaštita %c[255,1,255,1]-20\n%c[255,255,255,255]Krvarenje %c[255,255,1,1]+100 %\n \n%c[255,224,224,160]Artefakt je moguće pronaći u blizini anomalije Veštičije Pihtije. Izbacuje radijaciju iz ljudskog tela. Međutim konstantna upotreba ovog artefakta osobu stavlja u rizik od kubitka značajne količine krvi. Cena je visoka. Zanimanje za ovim artefaktom imaju naučničke organizacije, kolekcionari i draguljari.%c[default]</text>
-	</string>
-	<string id="enc_zone_artifact_af-fuzz-kolobok_d">
-		<text>%c[255,255,255,255]Kidanje %c[255,1,255,1]+15 %\n%c[255,255,255,255]Pancir %c[255,1,255,1]+7 %\n \n%c[255,224,224,160]Artefakt je nepoznatog porekla. Naučnici do sada nisu mogli da razotkriju recept ovog čuda iz Zone. Prilikom nošenja ovog artefakta na pojasu otpornost organizma na oštećenja se značajno povećava. On je radioaktivan. Cena je vrlo visoka. Određeni interes za artefaktom pokazuju fizičari.%c[default]</text>
-	</string>
-	<string id="af-izomorf">
-		<text>"Generalni koncept"</text>
-	</string>
-	<string id="af-water-flower">
-		<text>Vodeni Cvet</text>
-	</string>
-	<string id="af-water-flower1">
-		<text>Purpurni Cvet</text>
-	</string>
-	<string id="af-kamen-udachy">
-		<text>Kamen Sreće</text>
-	</string>
-	<string id="af-spiral">
-		<text>Spirala</text>
-	</string>
-	<string id="af-eye-voron">
-		<text>Gavranovo Oko</text>
-	</string>
-
-	<string id="af-ameba-mica">
-		<text>Liskun</text>
-	</string>
-	<string id="af-ameba-mica_s">
-		<text>Liskun</text>
-	</string>
-	<string id="enc_zone_artifact_af-ameba-mica">
-		<text>Anomalija Voćni Punč može da napravi ovaj artefakt pri najređim i najekstremnijim fizičkim uslovima. Rezultata je polu-transparentan i čvrst objekat. Ako se nosi za pojasom, artefakt vrši koagulaciju krvi u ranama, čime smanjuje krvarenje. Međutim povećava osetljivost na sve vrste opekotina. Ovaj artefakt je od velikog interesa za naučne organizacije u i oko Zone. Redak i skup artefakt.</text>
-	</string>
-	<string id="af-ameba-slime">
-		<text>Sluzavac</text>
-	</string>
-	<string id="af-ameba-slime_s">
-		<text>Sluzavac</text>
-	</string>
-	<string id="enc_zone_artifact_af-ameba-slime">
-		<text>Sigurno je da ovaj artefakt stvara anomalija Voćni Punč. Ako se nosi za pojasom, artefakt vrši koagulaciju krvi u ranama, čime smanjuje krvarenje. Međutim povećava osetljivost na sve vrste opekotina. Artefakt je od prosečnog interesa za naučne organizacije u i oko Zone. Običan i jeftin artefakt.</text>
-	</string>
-	<string id="af-ameba-slug">
-		<text>Puž golać</text>
-	</string>
-	<string id="af-ameba-slug_s">
-		<text>Puž golać</text>
-	</string>
-	<string id="enc_zone_artifact_af-ameba-slug">
-		<text>Napravljen od strane anomalije "Voćni Punč". Negativne osobine ovog artefakta su kompenzovane ako se uzme u obzir da povećava koagulaciju krvi. Ovaj artefakt je veoma tražen od strane naučnih organizacija u i oko Zone. Ne dešava se često da neko naleti na ovaj artefakt, a i lepo se plaća za njega.</text>
-	</string>
-	<string id="af-blood">
-		<text>Kamena Krv</text>
-	</string>
-	<string id="af-blood_s">
-		<text>Kamena Krv</text>
-	</string>
-	<string id="enc_zone_artifact_af-blood">
-		<text>Možete pronaći ovaj artefakt u blizini anomalije "Ringišpil". To je prilično ružan crvenkasti predmet od presovanih polimerizovanih ostatka biljaka, zemlje i kostiju. Ako se nosi za pojasom, na tajanstven način ubrzava zarastanje rana i zustavlja krvarenje. Neki stalkeri veruju da u njemu leži moć ljudi koji su nestali u anomaliji. Ipak, ovaj artefakt privlači predatore svom vlasniku. Cena je niska zbog široke rasprostranjenosti. Interesovanje za artefakt pokazuju naučne organizacije, pre svega lekari i sve vrste verskih kultova.</text>
-	</string>
-	<string id="af-cristall">
-		<text>Kristal</text>
-	</string>
-	<string id="af-cristall_s">
-		<text>Kristal</text>
-	</string>
-	<string id="enc_zone_artifact_af-cristall">
-		<text>Ovaj artefakt nastaje u anomalnim zonama sa intenzivnim termalnim aktivnostima. Iako je stvoren u prevelikoj temperaturi, na dodir ostaje hladan. Ovaj artefakt nastaje kada teški metali upadnu u anomaliju Gorionik. Odlično eliminiše radijaciju. Jako cenjen od stalkera i jako težak za pronaći. Visoke cene i od velikog interesa naučnih organizacija u Zoni.</text>
-	</string>
-	<string id="af-cristall-flower">
-		<text>Kameni Cvet</text>
-	</string>
-	<string id="af-cristall-flower_s">
-		<text>Kameni Cvet</text>
-	</string>
-	<string id="enc_zone_artifact_af-cristall-flower">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+5 \n%c[default]Stvara ga anomalija "Trampolina", ovaj artefakt je od stene slične granitu, deformiranoj ekstrmno jakom gravitacijom, što je rezultiralo kristalnom formacijom koju nauka još nije objasnila. Pruža umerenu zaštitu od metaka, blago radioaktivan. Komadići metalnih spojeva stvaraju prekrasnu svetlosnu igru. Vrlo smirujuće je proučavati ovaj artefakt noću pored vatre.</text>
-	</string>
-	<string id="af-drops">
-		<text>Kapljice</text>
-	</string>
-	<string id="af-drops_s">
-		<text>Kapljice</text>
-	</string>
-	<string id="enc_zone_artifact_af-drops">
-		<text>Artefakt nastaje u anomaliji Gorionik. U obliku suze, sa raspucalom ostakljenom površinom. Stalkeri kažu da nošenje ovog artefakta umanjuje štete i povrede od ugriza divljih zveri. Narušava izdržljivost. Cena je niska. Interes za njega pokazuju kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-dummy-battery">
-		<text>Baterija</text>
-	</string>
-	<string id="af-dummy-battery_s">
-		<text>Baterija</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-battery">
-		<text>Poreklo artefakta nije poznato. Rebrastog bleštavog oblika. Veoma koristan artefakt za podršku. Poboljšava sve karakteristike otpora i osetljivosti na struju. Čini se da artefakt poboljšava sve procese koji se dešavaju oko njega. Prodajna cena je odlična. Poseban interes za artefakt pokazuju naučne organizacije.</text>
-	</string>
-	<string id="af-dummy-dummy">
-		<text>Školjka</text>
-	</string>
-	<string id="af-dummy-dummy_s">
-		<text>Školjka</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-dummy">
-		<text>Poreklo artefakta nije poznato. Sastoji se od dva kruta diska međusobno povezana sa sluzi. Artefakt blago smanjuje sve efekte gravitacionih anomalija i eksplozija, absorbujući udarne valove. Cena je izuzetno visoka. Interes za artefakt pokazuju naučne organizacije.</text>
-	</string>
-	<string id="af-dummy-glassbeads">
-		<text>Mamine Perle</text>
-	</string>
-	<string id="af-dummy-glassbeads_s">
-		<text>Mamine Perle</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-glassbeads">
-		<text>Oblikom poput DNK spirale, Perle nastaju u anomaliji Gorionik i pulsiraju, stvarajući time emisije koje su korisne za ljudko telo. Ove emisije ubrzavaju metabolizam svih živih bića, ubrzavajući zgrušavanje i zarastanje otvorenih rana. Tačan način delovanja je i dalje zagonetka za naučnike. Jako redak artefakt: bez negativnih osobina. Naučnici ga još nisu uspeli proizvesti u laboratorijskim uvetima.</text>
-	</string>
-	<string id="af-dummy-pellicle">
-		<text>Opna</text>
-	</string>
-	<string id="af-dummy-pellicle_s">
-		<text>Opna</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-pellicle">
-		<text>Prema profesoru Saharovu, ovo je prvi artefakt koji su uspeli proizvesti u kontrolisanim laboratorijskim uvetima. Ovaj artefakt je toliko redak da mnogi naučnici ne mogu ni da zamisle da takva supstanca uopšte može da postoji u normalnim uslovima. Pruža odličnu zaštitu od jakih hemijskih komponenti.</text>
-	</string>
-	<string id="af-dummy-spring">
-		<text>Feder</text>
-	</string>
-	<string id="af-dummy-spring_s">
-		<text>Feder</text>
-	</string>
-	<string id="enc_zone_artifact_af-dummy-spring">
-		<text>Poreklo ovog artefakta je nepoznato. Podseća na dva kruta diska međusobno povezana sa viskoznom sluzi. Prema mišljenju naučnika, ovaj artefakt je hibrid između artefakta Baterija i Školjke. Veoma tražen od strane naučnika iz Zone, koji će ga dobro platiti...</text>
-	</string>
-	<string id="af-electra-flash">
-		<text>Bljesak</text>
-	</string>
-	<string id="af-electra-flash_s">
-		<text>Bljesak</text>
-	</string>
-	<string id="enc_zone_artifact_af-electra-flash">
-		<text>Anomalija Elektra ponekad stvori ovaj artefakt. Zahvaljujući svojim teško kristalizovanim molekulama, ovaj elektrostatični artefakt je moćan u upijanju električnih pražnjenja, i može zaštiti svog nosioca od električnih udara i do 5,000 volta. Stalkeri ih redovno ostavljaju samo za sebe, umesto da ih prodaju, upravo zbog tih pozitivnih osobina. Ukoliko se i proda, dobije se jako dobra cena za njega, a zbog lepog vanjskog izgleda, jako je tražen od zlatara koji posluju sa trgovcima iz Zone sa sigurne udaljenosti.</text>
-	</string>
-	<string id="af-electra-moonlight">
-		<text>Mesečina</text>
-	</string>
-	<string id="af-electra-moonlight_s">
-		<text>Mesečina</text>
-	</string>
-	<string id="enc_zone_artifact_af-electra-moonlight">
-		<text>Ovaj artefakt je elektrostatičke prirode i pokazuje sposobnost rezonancije pod uticajem PSI-zračenja. Vremenom su stalkeri naučili kako da njegovu rezonancu usklade sa izvorom PSI-zračenja. Na taj način potpuno ili delimično neutrališe efekte PSI-zračenja. Ovaj artefakt se formira unutar anomalije Elektro u retkim prilikama. Ima moćne i okrepljujuće osobine, ali pod cenu električne otpornosti. Redak i skup artefakt. Jako tražen od naučnika, zlatara i kolekcionara.</text>
-	</string>
-	<string id="af-caterpillar">
-		<text>Guseničina Plazma</text>
-	</string>
-	<string id="af-caterpillar_s">
-		<text>Guseničina Plazma</text>
-	</string>
-	<string id="enc_zone_artifact_af-caterpillar">
-		<text>Redak artefakt. Nećete ga naći u anomalijama jer je živa biosupstanca. Nastaje iz Bezoara, iz stomaka starih Kontrolera, pod uticajem anomalije Gorionik. Vreme transmutacije je oko 5 minuta, a verovatnoća uspešnosti formiranja Plazme je oko 75%. Vrlo malo ljudi u zoni zna ovaj recept i samo postojanje ovog artefakta. Ljudi poput Saharova pretpostavljaju, da je ova živa supstanca nastala od neprobavljenih kostiju elektrohimere, pod dugotrajnim uticajem želučanih sokova Kontrolera, hipnotičke aure koja ga okružuje i bliskog kontakta sa ekstremno visokim temperaturama. Ostaje samo za nagađati kako je ova masa još živa.</text>
-	</string>
-	<string id="af-babka_4">
-		<text>Bakine Perle</text>
-	</string>
-	<string id="enc_zone_artifact_af-babka_4">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]0 \n%c[default] Absolut dobijen transmutacijom artefakta Bakine Perle (Beads Grandmother Burer) od 5 minuta u anomaliji Gorionik. Recep je, očito, dobiven praktičnim testiranjem. Od pozitivnih osobina važni je napomenuti povećanu otpornost na rane od metaka.</text>
-	</string>
-	<string id="af-part-monolit">
-		<text>Srce Poltergeista</text>
-	</string>
-	<string id="af-part-monolit_s">
-		<text>Srce Poltergeista</text>
-	</string>
-	<string id="af-part-monolit1">
-		<text>Modifikovano Srce Poltergeista 1</text>
-	</string>
-	<string id="af-part-monolit2">
-		<text>Modifikovano Srce Poltergeista 2</text>
-	</string>
-	<string id="af-electra-sparkler">
-		<text>Varnica</text>
-	</string>
-	<string id="af-electra-sparkler_s">
-		<text>Varnica</text>
-	</string>
-	<string id="enc_zone_artifact_af-electra-sparkler">
-		<text>Artefakt nastaje u anomaliji Elektro. Providna amorfna formacija koja nekad proizvodi male varnice. Nošenje artefakta blago povećava izdržljivost. Cena je niska. Interes za artefakt pokazuju naučne organizacije, kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-fireball">
-		<text>Vatrena Lopta</text>
-	</string>
-	<string id="af-fireball_s">
-		<text>Vatrena Lopta</text>
-	</string>
-	<string id="enc_zone_artifact_af-fireball">
-		<text>Artefakt nastaje u anomaliji Gorionik, providnog i crvenkastog oblika. Stalkeri kažu da nošenjem ovog artefakta smanjuju se povrede od ugriza divljih zvari. Narušava izdržljivost. Cena je prosečna. Interes pokazuju kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-fuzz-kolobok">
-		<text>Kolobok</text>
-	</string>
-	<string id="af-fuzz-kolobok_s">
-		<text>Kolobok</text>
-	</string>
-	<string id="enc_zone_artifact_af-fuzz-kolobok">
-		<text>Artefakt nepoznatog porekla. Naučnici još ne mogu dokučiti recept za ovo čudo Zone. Nošenjem za pojasom povećava otpornost organizma na fizičke povrede. Radioaktivan sa vrlo visokom cenomh. Poseban interes za njega pokazuju lečnici.</text>
-	</string>
-	<string id="af-gold-fish">
-		<text>Zlatna Riba</text>
-	</string>
-	<string id="af-gold-fish_s">
-		<text>Zlatna Riba</text>
-	</string>
-	<string id="enc_zone_artifact_af-gold-fish">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+10 \n%c[default]Artefakt koji jako retko formira anomalija Levak. Lepog oblika sa glatkom površinom. Noću osvetlava prostor u radiju su od 1-2 metra. To je kompresovani i iznimno zamršeni oblik koje je iskrivilo jako gravitaciono a sastoji se od metala, ostataka biljaka, zemljišta i svega onog što upadne u anomaliju za vreme pražnjenja. Ako ga nosite za pojasom smanjuje se delovanje gravitacionih anomalija, kao što je Trampolina, ali zahvaljujući jakom gravitacionom polju privlači metak koji nije bio namenjen vlasniku. Prodajna cena je vrlo visoka. Verovatnoća pojave - niska. Interes za artefakt pokazuju naučne organizacije, kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-gravi">
-		<text>Gravi</text>
-	</string>
-	<string id="af-gravi_s">
-		<text>Gravi</text>
-	</string>
-	<string id="enc_zone_artifact_af-gravi">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+5 \n%c[default]Prelep artefakt koji nastaje u anomaliji Levak. To je kompresovani i iznimno zamršeni oblik koje je iskrivilo jako gravitaciono a sastoji se od metala, ostataka biljaka, zemljišta i svega onog što dođe u blizinu anomalije. Ako ga nosite za pojasom smanjuje se delovanje gravitacionih anomalija, kao što je Trampolina. Prodajna cena i mogućnost pronalaska - prosečna. Interes za artefakt pokazuju naučne organizacije, kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-medusa">
-		<text>Meduza</text>
-	</string>
-	<string id="af-medusa_s">
-		<text>Meduza</text>
-	</string>
-	<string id="enc_zone_artifact_af-medusa">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+3 \n%c[default]Aretfakt nastaje u anomaliji Trampolina. To je kompresovani i iznimno zamršeni oblik koje je iskrivilo jako gravitaciono a sastoji se od metala, ostataka biljaka, zemljišta i svega onog što dođe u blizinu anomalije. Ako ga nosite za pojasom smanjuje se delovanje gravitacionih anomalija, kao što je Levak i Ringišpil, ima blagi uticaj na pancir gde smanjuje oštećenja od lakog naoružanja. Blago radioaktivan. Prodajna cena je niska zbog široke rasprostranjenosti. Interes za ovaj artefakt pokazuju naučne organizacije.</text>
-	</string>
-	<string id="af-mincer-meat">
-		<text>Komad Mesa</text>
-	</string>
-	<string id="af-mincer-meat_s">
-		<text>Komad Mesa</text>
-	</string>
-	<string id="enc_zone_artifact_af-mincer-meat">
-		<text>Artefakt se formira u anomaliji Ringišpil. To je ružna žućkasta formacija kompresovanih, zamršenih i polimerizovanih ostataka biljaka, zamljišta i kostiju. Kada se nosi za pojasom, na misteriozan način ubrzava proces zarastanja rana i prestanak krvarenja. Mnogi stalkeri veruju da u ovom artefaktu leže moći ljudi koji su nestali u anomaliji. Ipak, ovaj artefakt jako provlači predatore svom nosiocu. Prodajna cena i verovatnoća pronalaska - prosečna. Interes za ovaj artefakt pokazuju naučne organizacije, prvenstveno doktori medicine i sve vrste verskih kultova.</text>
-	</string>
-	<string id="af-night-star">
-		<text>Noćna Zvezda</text>
-	</string>
-	<string id="af-night-star_s">
-		<text>Noćna Zvezda</text>
-	</string>
-	<string id="enc_zone_artifact_af-night-star">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radijacija %c[255,255,1,1]+10 \n%c[default]Artefakt povremeno nastaje u anomaliji Trampolina. Prelepog oblika sa zrcalnom površinom i obojenim fosforoscentnim odsjajem. Noću obasjava prostor u radijusu od 1-2 metra, po čemu su mu stalkeri i dali ime. Tu je kompresovana i gravitacijski iskrivljena forma od ostataka biljaka, zemljišta i svega ostalog što padne u blizini anomalije. Ako ga nosite za pojasom smanjuje se delovanje gravitacionih anomalija, kao što je Levak i Ringišpil, ima blagi uticaj na pancir gde smanjuje oštećenja od lakog naoružanja. Ali je jako radioaktivan pa s njim treba oprezno rukovati. Prodajna cena je vrlo visokah. Verovatnoća pronalaska - niska. Naučne organizacije i Vojska pokazuju veliki interes za ovaj artefakt, svako iz različitih razloga...</text>
-	</string>
-	<string id="af-rusty-kristall">
-		<text>Kristalni Trn</text>
-	</string>
-	<string id="af-rusty-kristall_s">
-		<text>Kristalni Trn</text>
-	</string>
-	<string id="enc_zone_artifact_af-rusty-kristall">
-		<text>Artefakt nastaje u anomaliji Zapaljeni Puh. On izvlači radijaciju iz ljudskog tela, ali u isto vreme otvara krvarenje zato treba biti jako oprezan i ne zaboraviti ovaj negativini uticaj. Cena je prosečna. Interes za artefakt pokazuju naučne organizacije, kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-rusty-sea-urchin">
-		<text>Morski jež</text>
-	</string>
-	<string id="af-rusty-sea-urchin_s">
-		<text>Morski jež</text>
-	</string>
-	<string id="enc_zone_artifact_af-rusty-sea-urchin">
-		<text>Artefakt nastaje u anomaliji Zapaljeni Puh. On izvlači radijaciju iz ljudskog tela. Ipak, čestim korištenjem ovog artefakta reskira se veliki gubitak krvi. Prodajna cena je visoka. Interes za artefakt pokazuju naučne organizacije, kolekcionari i zlatari.</text>
-	</string>
-	<string id="af-rusty-thorn">
-		<text>Trn</text>
-	</string>
-	<string id="af-rusty-thorn_s">
-		<text>Trn</text>
-	</string>
-	<string id="enc_zone_artifact_af-rusty-thorn">
-		<text>Rezultat interakcije između anomalije Zapaljeni Puh i ljudskog leša. Trn artefakt će, prilikom nošenja za pojasom, konstantno probadati svog nosioca u telo i tako stvarati male ranice i mala krvarenja. Uprkos toj naizgled negativnoj osobini, ovaj artefakt na jezoviti način izvlači opasne radionukleotide iz tela. Iako vrlo raširen u Zoni, veliki interes za njega pokazuju naučne organizacije, sakupljači blaga i egzotični zlatari...</text>
-	</string>
-	<string id="af-soul">
-		<text>Duša</text>
-	</string>
-	<string id="af-soul_s">
-		<text>Duša</text>
-	</string>
-	<string id="enc_zone_artifact_af-soul">
-		<text>Redak artefakt koji nastaje u anomaliji Ringišpil. To je blistava žućkasto-crvena, kompresovana i gravitacijski izobličen formacija polimerizovanih ostataka  biljaka, zemlje i kostiju. Stalkeri veruju da su u artefaktu zatvorene duše ljudi koji su nestali u anomaliji. Ako se nosi za pojasom, ovaj artefakt na misteriozan način u nekoliko sekundi u potpunosti oporavlja zdravlje i zaustavlja krvarenje. U isto vreme smanjuje izdržljivost i otpornost na PSI napade čudovišta telepata. Također je primećena neprestana glad ako je ovaj artefak za pojasom duže vremena. Prodajna cena je vrlo visoka. Verovatnoća pronalaska - niska. Interes za artefakt pokazuju naučne organizacije, doktori medicine i sve vrste religijskih kultova.</text>
-	</string>
-	<string id="af-vyvert">
-		<text>Vijuga</text>
-	</string>
-	<string id="af-vyvert_s">
-		<text>Vijuga</text>
-	</string>
-	<string id="enc_zone_artifact_af-vyvert">
-		<text>%c[1,1,1,1]______%c[255,255,255,255]Radijacija %c[255,255,1,1]+3\n%c[default]Artefakt nastaje u anomaliji Levak. Kompresovani i međusobno isprepleteni ostaci rznih biljaka, zemljišta i drugih malih malih objekata koji su uvučeni u sam Levak... Kada se nosi za pojasom, smanjuje negativne uticaje gravitacionih anomalija, kao što je Trampolina. Vijuga je relativno lako pronaći i upravo zato nema visoku cenu. I dalje je predmet proučavanja naučnika, ekologa i vojske, koji pokušavaju odrediti njene pune potencijale...</text>
-	</string>
-	<string id="af-pkristal">
-		<text>Izomorfni Pseudo-Kristal</text>
-	</string>
-	<string id="af-ikompas">
-		<text>Izomorfni Kompas</text>
-	</string>
-	<!-- Missing description for Shield items - aleks1970 -->
-	<string id="af-shield-health">
-		<text>Shield 'health'</text>
-	</string>
-	<string id="af-shield-health_s">
-		<text>'Shield'</text>
-	</string>
-	<string id="enc_zone_artifact_af-shield-health">
-		<text>• Missing 'shield health' description!!</text>
-	</string>
-	<string id="af-shield-electric">
-		<text>Shield 'electric'</text>
-	</string>
-	<string id="af-shield-electric_s">
-		<text>'Shield'</text>
-	</string>
-	<string id="enc_zone_artifact_af-shield-electric">
-		<text>• Missing 'shield electric' description!!</text>
-	</string>
-	<string id="af-shield-radiation">
-		<text>Shield 'radiation'</text>
-	</string>
-	<string id="af-shield-radiation_s">
-		<text>'Shield'</text>
-	</string>
-	<string id="enc_zone_artifact_af-shield-radiation">
-		<text>• Missing 'shield radiation' description!!</text>
-	</string>
-	<string id="af-shield-heat">
-		<text>Shield 'heat'</text>
-	</string>
-	<string id="af-shield-heat_s">
-		<text>'Shield'</text>
-	</string>
-	<string id="enc_zone_artifact_af-shield-heat">
-		<text>• Missing 'shield heat' description!!</text>
-	</string>
-	<string id="af-shield-endurance">
-		<text>Shield 'endurance'</text>
-	</string>
-	<string id="af-shield-endurance_s">
-		<text>'Shield'</text>
-	</string>
-	<string id="enc_zone_artifact_af-shield-endurance">
-		<text>• Missing 'shield endurance' description!!</text>
-	</string>
-	<string id="af-shield-armor">
-		<text>Shield 'armor'</text>
-	</string>
-	<string id="af-shield-armor_s">
-		<text>'Shield'</text>
-	</string>
-	<string id="enc_zone_artifact_af-shield-armor">
-		<text>• Missing 'shield armor' description!!</text>
-	</string>
-	<!-- Other Legacy strings - aleks1970 -->
-	<string id="enc_zone_anomalies_activation-basic">
-		<text>Osnove aktivacije</text>
-	</string>
-	<string id="activation-why">
-		<text>Razlozi aktivacije</text>
-	</string>
-	<string id="enc_zone_anomalies_activation-practice">
-		<text>Proces aktivacije</text>
-	</string>
-	<string id="Zone-story">
-		<text>Istorija Zone</text>
-	</string>
-	<string id="Story-2006">
-		<text>12 April, 2006 godine. 15:37 sati...</text>
-	</string>
-	<string id="enc_zone_zone-story_story-2006">
-		<text>Kontaminirana zona je zračila jarkim svetlima, skoro nepodnošljivim za ljudsko oko. Moglo se videti kako oblaci na nabu postaju para. Posle nekoliko momenata mrtve tišine čula se grmljavina, a onda se zatresla zemlja. Ljudi su pali na zemlju, pokrivajući svoje oči i uši. Oni koji su mogli da stoje su trčali za svoje živote. Izgledalo je kao da je svo nuklearno gorivo zakopano ispod Sarkofaga odjednom eksplodiralo. Sledećeg dana Vojska je napravila kordon oko nove Zone. Sateliti su pomogli da se ustanovi da epicentar eksplozije nije bio u blizini reaktora NE, nego oko pola kilometra dalje. Veruje se da su radnici ostali mrtvi na mestu, ali dosta ljudi je ostalo u kordonu. Operacija spašavanja se uskoro pokazala beskorisnom, jer svi ljudi i mašine koji su poslati duboko u Zonu umrli ili se pokvarili veoma brzo. Malo posle nesreće, Zona se proširila za nekoliko kilometara. Većina vladinih trupa koji su čuvali granicu i istraživački timovi su nestali momentalno. Nastala je panika i ljudi su počeli da beže. Stanovnici bližih gradova i sela su evakuisani. Ogromna opsanost se nazire širom sveta i možemo samo nagađati kakav će biti njen puni uticaj.</text>
-	</string>
-	<string id="Story-2008">
-		<text>Godina 2008</text>
-	</string>
-	<string id="enc_zone_zone-story_story-2008">
-		<text>Dve godine su prošle od nesreće u kontaminiranoj zoni u oblasti Černobila. Nagli skok mrtvih, bezbroj nestalih ljudi, mrtva stoka, raspadajuće zgrade, osakaćene šume... Do današnjeg dana naučnici nemaju objašnjenje šta se to stvarno dogodilo u Černobilu. U međuvremenu, neke nezamislive anomalije su otkrivene u ovoj oblasti i Zona se nastavila širiti. Retke ekspedicije su se susretale sa mutiranim oblicima životinja koje ispoljavaju neverovatne sposobnosti.</text>
-	</string>
-	<string id="Story-2010">
-		<text>Godina 2010</text>
-	</string>
-	<string id="enc_zone_zone-story_story-2010">
-		<text>Idući tragovima ludo hrabrih samotnjaka, koji sebe nazivaju stalkerima, pokreću se ponovo opsežne naučno-istraživačke ekspedicije sa ciljem, da se Zona detaljno istraži. Međutim, unutar zaštićenog pojasa koji kontroliše Vojska ima jako puno "neregistrovanih osoba"- od običnih lovokradica do okorelog banditskog ološa. Najveći deo stalkera luta Zonom, u potrazi za anomalijskim formacijama, takozvanim artefaktima, za koje često dobijaju poveće sume novca.</text>
-	</string>
-	<string id="Story-raid">
-		<text>Vojna racija U Zonu. 2010</text>
-	</string>
-	<string id="enc_zone_zone-story_story-raid">
-		<text>Vojska, uključujući i specijalne jedinice vođene paramilitarnim stalkerskim odredima, pokrenuli su masivnu raciju do središta Zone. Njihov cilj je bio da se probiju do Černobila i da unište izvor anomalija ili da bar nabave informacije o trenutnom stanju u Zoni. Ovaj poduhvat,u kojem je učestvovalo preko hiljadu ljudi i teških mašinerija, bio je propast. Izolovane grupe preživelih bile su prisiljene da žive u Zoni sa nadom da će biti spašeni.</text>
-	</string>
-	<string id="Military-loc">
-		<text>Vojna Baza</text>
-	</string>
-	<string id="enc_zone_locations_military-loc">
-		<text>Napuštena Vojna baza u blizini razrušenog sela i malene bare. Selo je jezivo mesto, vrvi od mutanata, cela legija Krvopija. Stalkeri daju sve od sebe samo da ga izbegnu, pa čak ako to znači ići još nekoliko kilometara više. Anarhisti iz Fridoma su se smestili u Vojnoj bazi. Cestu koja povezuje bazu i Zonu, čuva Spaljivač Mozgova, koji blokira put za Pripjat i NE Černobil.</text>
-	</string>
-	<string id="zone_locations-deadcity">
-		<text>Mrtvi Grad</text>
-	</string>
-	<string id="zone_locations-limansk">
-		<text>Limansk</text>
-	</string>
-	<string id="zone_locations-darklab">
-		<text>Laboratorij X18</text>
-	</string>
-	<string id="zone_locations-brainlab">
-		<text>Laboratorij X16</text>
-	</string>
-	<string id="zone_locations-labx10">
-		<text>Laboratorij X10</text>
-	</string>
-	<string id="zone_locations-warlab">
-		<text>Varlab</text>
-	</string>
-	<string id="zone_locations-secretlab">
-		<text>Tajni Laboratorij</text>
-	</string>
-	<string id="zone_locations-generators">
-		<text>Generatori</text>
-	</string>
-	<string id="enc_social_stalker-clans_bandits">
-		<text>\nČlanovi kriminalnog podzemlja koji su došli u Zonu iz različitih razloga: da bi napravili novac prodavajući artefakte, skrivanje od zakona ili trgovina oružjem. Zona je puna bandita, počevši od običnih lopova pa do ozbiljnih kriminalaca, većina njih su članovi ove ili one bande. pošto se bande iz Zone često biju između sebe, kriminalni element i dalje predstavlja ozbiljan problem za normalne S.T.A.L.K.E.R.e ...</text>
-	</string>
-	<string id="enc_social_stalker-clans_duty">
-		<text>\nParavojna formacija poznata po svojo disciplini, čiji članovi žive prema striktnim kodovima. Članovi Djutija su jedina grupacija koja odbija da trguje sa jedinstvenim predmetima iz Zone sa spoljnjim svetom. Sudeći prema glasinama, svi artefakti koje je grupa pronašla su prosleđeni naučnicima. Njihovi članovi smatraju zaštitu spoljnjeg sveta od Zone kao svoj primarni zadatak. Većina iz grupe se uglavnom bave uništavanjem čudovišta, dok pohodi Djutija često spasavaju obične stalkere iz ozbiljnih problema. Ova frakcija je odavno u ratu sa Fridomom.</text>
-	</string>
-	<string id="enc_social_stalker-clans_freedom">
-		<text>\nAnarhisti i hazarderi koji su sami sebe proglasili borcima za slobodan pristup Zoni i zbog toga su se upustili u konstantni konflikt sa vojskom, vojnim S.T.A.L.K.E.R.ima i Djuti frakcijom. Ti takozvani "borci za slobodu" veruju u deobu svih informacija o Zoni sa ostatkom sveta i osuđuju državni monopol na tajne i čuda iz Zone.</text>
-	</string>
-	<string id="enc_social_stalker-clans_killers">
-		<text>\nNajtajanstvenija i najmisterioznija frakcija u Zoni, neki čak ni neveruju u njihovo postojanje. Postoje i oni koji regularno koriste usluge Plaćenika kao pravih profesionalaca, sposobni su da se brzo obračunaju sa bilo kojim S.T.A.L.K.E.R.om i čak da unište malu grupu protivnika. Njihove usluge uopšte nisu jeftine - plaćenici zahtevaju carsku nadoknadu za svoje usluge u novcu ili artefaktma. lokacija njihove baze je tajna, pretpostavlja se da je negde duboko u Zoni.</text>
-	</string>
-	<string id="enc_social_stalker-clans_loners">
-		<text>\nS.T.A.L.K.E.R.i koji nisu članovi ni jedne frakcije, a njihovo ime samo govori da se tu radi o mali grupicama S.T.A.L.K.E.R.a .. To su neutralni individualci, uglavno trguju ili nude razne misije. pretpostavlja se da i drugi 'Samotnjaci' žive sličnim životom. Njihov glavni oponenti su frakcije 'Banditi' i 'Vojska'. Takođe su neprijatelji prema 'Plaćenicima' i 'Monolitima' .. takođe postoji i par sukoba među njima samima. Oni su neutralni prema 'Fridomu', 'Djutiju' i 'Naučnicima'. Dok se oni sami ne smatraju frakciom uopšte, međutim ako ubiješ Samotnjaka zaradićeš neprijateljstvo bilo kojeg drugog Samotnjaka u Zoni, pošto se vesti jako brzo šire među ovom nomadskom grupom, a i ne odnose se lepo prema ubicama...</text>
-	</string>
-	<string id="enc_social_stalker-clans_monolith">
-		<text>\nOva grupacija se u mnogome ogleda kao religijska sekta. Njeni članoviveruju u postojanje kompleksnih vanzemaljskih kristala, Monolita, lociranih negde u centru Zone. Većina S.T.A.L.K.E.R.a  posmatra članove Monolita sa prezirom i smatra ih ludacima. Od svog početka grupa nastoji da blokira bilo kakav progres prma centru Zone, štiteći Monolit od drugih S.T.A.L.K.E.R.a. Glasine kruže da grupa ima ogromnu bazu duboko u Zoni, ali njena tačna lokacija je poznata samo članovima grupe...</text>
-	</string>
-	<string id="Mobile-groups">
-		<text>Istraživačke Grupe</text>
-	</string>
-	<string id="enc_social_scientists_mobile-groups">
-		<text>Mobilni Tim Naučnika</text>
-	</string>
-	<string id="Mobile-Labs">
-		<text>Mobila Naučna Laboratorija</text>
-	</string>
-	<string id="enc_social_scientists_mobile-labs">
-		<text>\nMobilna Laboratorija predstavlja mali, oklopljeni bunker sa malim obojenim prozorima napravljenim od otpornog stakla. Laboratorija je sposobna da istrpi mnogo oštećenja sa pouzdanim sistemom održanja života, može funkcionisati autonomno nekoliko meseci. Bunker je isporučen u Zonu pomoću transportnog helikoptera. Osoblje laboratorije nikad ne dozvoljava posetiocima da prođu kroz spoljnju dekontaminacionu komoru, tako da ni jedan stalker nikad nije bio unutra.</text>
-	</string>
-	<string id="enc_social_stalker-clans_zomstalkers">
-		<text>\nJadnici izloženi produženom izlaganju u Jantaru i nekim drugim sektorima sa jakom radijacijom. Neoprezni S.T.A.L.K.E.R.i koji su poludeli i pretvoreni u šetajuće leševe. Mnogi takvi leševi lutaju Zonom, neki dolutaju čak i do periferije Zone. Njima nije moguće pomoći jer je taj destruktivni proces nepovratan. Zombifikovani S.T.A.L.K.E.R.i su i dalje u stanju da koriste svoje oružje, ali su prilično glupi i može se začuti besmisleno mrmljanje, sostvena sećanja u delićima. potpuno su izgubili sve svoje veštine i pretvorili se u Zombije. Obično su vrlo agresivni i mogu predstavljati ozbiljnu pretnju kada su u većem broju.</text>
-	</string>
-	<string id="Stalker-clans">
-		<text>S.T.A.L.K.E.R. Klanovi</text>
-	</string>
-	<string id="enc_social_stalker-clans_lastday">
-		<text>\nPoslednji Dan - Jadan od prvih, a i nekada najmoćnija frakcija u Zoni, sastoji se od lokalnog stanovništva, naučnika i svih ostalih koji su ostali u Zoni nakon Černobilske katastrofe. Dugo vremena smatrali su sebe jedinim legitimnim stanovnicima Zone, ljubomorno je čuvajući od stranaca. To je neprijateljski nastrojilo većinu klanova i frakcija. Među svojim ciljevima smatraju "poklone" iz Zone i njihova zaštita od zloupotrebe i istraživanja. Poznato je da je pre oko dve godine stalker po imenu Duh (Ghost) eliminisao vođu klana, nakon čega se grupa ubrzo raspala, jer nisu bili u stanju da izaberu novog lidera. Mnogi su se pridružili drugim grupama. Trenutno, prema nepotvrđenim informacijama, klan se obnovio. To uključuje bivše vodeće naučnike od takozvane 0-Svesti gospodara frakcije Monolita koji nisu bili religiozni fanatici, smešteni u oblasti sa plaćenicima i ubicama, a i sa još nekim lokalnim starkeljama. Sudeći prema glasinama - klan je uspostavio ozbiljnu komunikaciju izvan granica Zone, njegovi borci su odlično istrenirani i opremljeni, a i vešto se koriste sa poklonima naučnika iz Zone za svoje ciljeve a posebno zbog vojske. Ciljevi, brojnost i lokacija njihovog štaba - je nepoznata. U ovom klanu je vrlo razvijena obaveštajna mreža uz pomoć bivših vojnika koji su se ubacili u druge grube.</text>
-	</string>
-	<string id="ars-kord_m1">
-		<text>Missing..</text>
-	</string>
-	<string id="ars-kord_m1_s">
-		<text>Missing...</text>
-	</string>
-	<string id="wpn_wpn-bizon_dav">
-		<text>PP-19 'Bizon'</text>
-	</string>
-	<string id="wpn_wpn-bizon_dav_s">
-		<text>'Bizon'</text>
-	</string>
-	<string id="enc_wpn_wpn-bizon_dav_descr">
-		<text>• Ammunition: 9x18mm, 9x18mm +P\nThis interesting submachine gun had been developed in Izhevsk at the famous IZHMASH state arms factory during the early 1990's, and first appeared in public circa 1993. Obviously influenced by the somewhat unsuccessful Calico submachine guns, the Bizon (Bison) SMG combined a high capacity "helical" magazine with a more conventional appearance and layout. The Bizon is based on the AKS-74 assault rifle, and actually built on shortened AKS-74 receivers, with the AKS-74 pistol grip, trigger unit and folding butt. Latter models introduced a somewhat improved shape of the pistol grip, with better ergonomics. The large capacity magazine is located under the barrel, and serves as a forearm, resulting in a comfortable hold and trim profile. This firearm is said to be both comfortable to carry and easy to fire, and provides lots of firepower.</text>
-	</string>
-	<string id="wpn_wpn-bizon_kol_dav">
-		<text>Caesiers Bizon</text>
-	</string>
-	<string id="wpn_wpn-bizon_kol_dav_s">
-		<text>Bizon</text>
-	</string>
-	<string id="enc_wpn_wpn-bizon_kol_dav_descr">
-		<text>\n• Ammunition: 9x19mm Parabellum, 9x19mm +P+, 9x19mm super\n• Weight: 3.2 kg\n• Clip Capacity: 64 rounds\n The Bizon PP-20 9mm Cobra sub-machine gun is a compact, blowback-operated weapon with selective-fire modes. The blowback action is buffered to provide stability during firing. About 60 per cent of the parts used in the Bizon are taken from other Kalashnikov models, mainly from the AK-74 series, including the left-folding butt-stock, the trigger mechanism and the receiver cover. There is a choice of folding-butt contours and types.The helical-feed magazine holds 64 rounds, although this may be increased. To fit the magazine, two lugs at the forward end protrude over two pins under the muzzle attachment. The feed end of the magazine is then lifted to engage with the existing Kalashnikov magazine catch. When fitted, the magazine can be used as a foregrip. This special model sports a SPO-1 Tulip optical sight with Night Vision capabilities ...</text>
-	</string>
-<!-- </string_table> -->
+</string_table>
 <!-- Preveo i prilagodio Flexerca -=- 11:41 29.07.2015 -->
-<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:07 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 18:05 - sadd -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.2 new dialogs, st_found_new_pda, new levels, ep_jupu, path_pripyat_npp1, \n, new paths, zat to eprip, jupu to tunnels -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 new dialogs, st_found_new_pda, new levels, ep_jupu, path_pripyat_npp1, \n, new paths, zat to eprip, jupu to tunnels, removed "string_table" - aleks1970  -->
+
 	<string id="return_char">
 		<text>\n</text>
 	</string>
@@ -485,6 +485,5 @@
 	<string id="path_redf_tunnels">
 		<text>Crvena Šuma za Južni Tuneli</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Flexerca -=- 12:13 12.07.2014 -->
 	<!-- Tekst usklađen sa 109983 verzijom zakrpe - 24.03.2015 23:18 -sadd -->

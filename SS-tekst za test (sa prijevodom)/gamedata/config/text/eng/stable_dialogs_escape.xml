@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0 esc_bridge_soldiers_start_13, line 128, 995 bad char. aleks1970 -->
+<!-- TB3D 1.0.9.9.9.8 esc_bridge_soldiers_start_13, line 128, 995 bad char. aleks1970 -->
 <string_table>
 	<string id="esc_bridge_soldiers_start_11">
 		<text>Ovo je ograničeno područje... Šta želiš?!</text>
@@ -275,7 +275,7 @@
 		<text>Pa, eto vidiš.</text>
 	</string>
 	<string id="escape_lager_leader_hello_3111">
-		<text>Evo, uzmi ovo kao nagradu\nJedan je vojnik samnom podelio ovaj recept za modifikaciju artefakta Bakine Perle... I još nešto.. Lično ti dajem jednu informaciju:\n - nedaleko od Sidorevičevog bunkera, nalazi se prelaz za Močvare, samo pažljivo potraži i naći ćeš ga... Prebaciću ti informacije u tvoj PDA... Oh, ima još nešto...\nZnaš li za teleportere?! Znam ih podesiti... Odvešće te tačno tamo gde želiš ići!!!</text>
+		<text>Evo, uzmi ovo kao nagradu\nJedan je vojnik samnom podelio ovaj recept za modifikaciju artefakta Bakine Perle... I još nešto.. Lično ti dajem jednu informaciju:\n- nedaleko od Sidorevičevog bunkera, nalazi se prelaz za Močvare, samo pažljivo potraži i naći ćeš ga... Prebaciću ti informacije u tvoj PDA... Oh, ima još nešto...\nZnaš li za teleportere?! Znam ih podesiti... Odvešće te tačno tamo gde želiš ići!!!</text>
 	</string>
 	<string id="escape_lager_leader_hello_41">
 		<text>Ej, Obeleženi, drago mi je da te vidim!</text>
@@ -1334,7 +1334,7 @@
 		<text>Da, koji?</text>
 	</string>
 	<string id="kostya_x10_taynik_7">
-		<text> Pa... Već dogo vremena tražim jedan određeni artefakt. Kažu kada ga nosiš za pojasom da budeš gotovo nepobediv... Saznao sam da se više informacije o njemu može naći u Pripjatu. Postoje tri tajna šteka, a u jednom od njih je PDA sa informacijama koje mi trebaju. U druga dva, trebao bi pronaći neku vrednu opremu. Opremu zadrži za sebe, a meni donesi PDA. Hoćeš li uraditi ovo za mene, Obeleženi!?</text>
+		<text>Pa... Već dogo vremena tražim jedan određeni artefakt. Kažu kada ga nosiš za pojasom da budeš gotovo nepobediv... Saznao sam da se više informacije o njemu može naći u Pripjatu. Postoje tri tajna šteka, a u jednom od njih je PDA sa informacijama koje mi trebaju. U druga dva, trebao bi pronaći neku vrednu opremu. Opremu zadrži za sebe, a meni donesi PDA. Hoćeš li uraditi ovo za mene, Obeleženi!?</text>
 	</string>
 	<string id="kostya_x10_taynik_8">
 		<text>Nisamo došao ovako daleko da ti sada kežem NE... Daj mi koordinate...</text>

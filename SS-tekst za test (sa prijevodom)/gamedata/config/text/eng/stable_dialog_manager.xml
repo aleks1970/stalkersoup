@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0, rename  « » with " aleks1970 -->
+<!-- TB3D 1.0.9.9.9.8, rename  « » with " aleks1970 -->
 <string_table>
 	<string id="dm_action_info_0">
 		<text>Kako ovde može da bude bilo šta novo? Gledaj na ovo kao zabavište. Ako te nema naokolo, bićeš otpušten iz Zone u roku od 5 minuta, tu smo. Pametni ostaju ovde duže vreme, i idu đavo će ga znati gde. Pored toga, možeš da uspeš radeći s municijom i oružjem, o tome nema rasprave. Svi to rade.</text>
@@ -754,12 +754,6 @@
 	<string id="dm_action_info_146">
 		<text>Novo... Malo toga ima za reći! Svašta se priča - ali kome verovati? Evo pričaju da je došao jedan iskusni stalker, i doneo nešto iz unutrašnjosti, nešto još neviđeno, gomilu nečega... Pa da, i sam ti mogu izmisliti hrpu takvih priča!!!</text>
 	</string>
-	<string id="dm_cool_info_7">
-		<text>Jesi čuo da se jedna grupa stalkera probila do samog centra Zone. I to neposredno pre velike Emisije. Interesantno, ili su došli do samog Ispunitelja Želja ili su nestali?</text>
-	</string>
-	<string id="dm_cool_info_8">
-		<text>Sada je teško živeti samo od plena. Ako se nekako iščupaš živ iz anomalija i kandži čudovišta, neophodno je proći kroz zasede i patrole Bandita, a još su tu onda i vojni punktovi. Kao rezultat svega toga, vratiš se siromašniji nego kada si krenuo. Nešto se mora poduzeti protiv tih lešinara. Nadam se da će se stalkeri rešiti ovih gulikoža...</text>
-	</string>
 	<string id="dm_action_info_101">
 		<text>Ma goni ove Monolitovce... Stvarno su skroz poludeli, a sećam se vremena kada su bili miroljubivi... Sećam se kada sam sreo jednog, počeo je bljezgarati svoje uobičajene gluposti o Monolitu: "Braćo, Monolit me pozvao sinoć. Razgovarao sam s Njim. Bio je prekrasan u svojoj veličanstvenosti. Njegovo svetlo me zaslepilo, ali me ispunilo velikom snagom! Znam, osećam da je njegova moć među nama! Rekao mi je da samo jaka vera može pobediti sile zla. Također je rekao da će njegova moć biti samo sa istinskim vernicima. Rekao mi je da je naša pobeda blizu". Odgovorio sam mu: "Ajde beži s tim svojim Monolitom!". Pokipio je i počeo urlati: "Doći će vreme kada ćemo očistiti celu Zonu od nevernika!" i tako te stvari. Izgleda da nije lagao - sljedbenici Monolita dolaze u grupama iz NEP Černobil, prokleti čudaci!</text>
 	</string>
@@ -770,7 +764,7 @@
 		<text>Mladi stalkeru, ako vidiš poruku o smrti Semetskog na svom PDA - nemoj se brinuti oko toga, on je legenda Zone. Dobićeš tu poruku puno puta. Ljudi pričaju da je on jedan od retkih koji je došao do Monolita. I šta je poželeo? Pa besmrtnost, naravno. I tako sada luta Zonom, umire i ponovno se vraća u život. Neki stalkeri tvrde da su ga videli, ali verovatno lažu. Zona je puna tajni i misterija... Ne dosađujem ti a svojim pričama, zar ne? Ajde, idi u miru. Želim ti uspešan lov na plen.</text>
 	</string>
 	<string id="dm_action_info_104">
-		<text>Ok, evo jedan vic. Raspravljaju tri stalkera koji je od njih trojice najveća faca. Pošto se nisu mogli dogovoriti, odluče da je najveća faca onaj koji uspe istjerati najviše ljudi iz bara. Prvi zgrabi veliki mitraljez, uleti u bar i dreknu:\n - Ajmo, svi marš van!!! - pola ljudi je pobeglo, ali je ostalo destak stalkera koji su ga prebili na mrtvo ime. Sledeći dan ulazi drugi stalker, obučen kao mutant, uleti u bar. Pola ljudi je poskakalo kroz prozore, drugi kroz vrata, ostao je samo odred Djutija - pa, uhvatili su ga i naučili ponašanju. Sledeći dan ulazi treći stalker u bar, nakašlja se i reče\n - Kah-hrm-kgh, pfff, hrak, pljuc! Jebeni sifilis!</text>
+		<text>Ok, evo jedan vic. Raspravljaju tri stalkera koji je od njih trojice najveća faca. Pošto se nisu mogli dogovoriti, odluče da je najveća faca onaj koji uspe istjerati najviše ljudi iz bara. Prvi zgrabi veliki mitraljez, uleti u bar i dreknu:\n- Ajmo, svi marš van!!! - pola ljudi je pobeglo, ali je ostalo destak stalkera koji su ga prebili na mrtvo ime. Sledeći dan ulazi drugi stalker, obučen kao mutant, uleti u bar. Pola ljudi je poskakalo kroz prozore, drugi kroz vrata, ostao je samo odred Djutija - pa, uhvatili su ga i naučili ponašanju. Sledeći dan ulazi treći stalker u bar, nakašlja se i reče\n- Kah-hrm-kgh, pfff, hrak, pljuc! Jebeni sifilis!</text>
 	</string>
 	<string id="dm_action_info_105">
 		<text>Pa, ima priča, iako kažu da se desila davno, još pre nego sam ja došao ovamo. Jedan stranac je odlučio da postane stalker i zaradi nešto novca, mislim da ne bio naučnik... Niko ne zna šta je zapravo tražio ovde, jer je skroz slabo govorio ruski... Ustvari, niko nije znao kako je uopšte došao u Zonu i završio kod Barmena. Sigurno mu je neko ranije rekao za njega. Dakle, nije znao pričati ruski, iako je on mislio da jeste... Počeo je nervirati Barmena sa svojim lošim ruskim... I tako ga je davio nekoliko sati. Možda je trebao nekuda ili možda je tražio nekoga, ne znam... Pošto ga Barmen nije ništa razumeo, odlučio je da ga pošalje na teritoriju Fridoma, i reče mu: "idi tu i tu, to područje kontrolišu vojnici Fridoma, oni će ti reći sve što ti treba", iz nekog razloga, ljudi su verovali da pripadnici Fridoma dobro barataju sa engleskim jezikom. Tom strancu se Barmenova reč "kontrolišu", kažu da se isto tako kaže i na engleskom, nemam pojma je li to istina. A kad je tip došao do baze Fridoma, počeo je svakom da dosađuje ponavljajući samo "Kontrola, Kontroler, Kontroler", mašući rukama prema bazi Djutija. Kažu da su se Fridomovci uspaničili, i podigli na noge celi kamp - pošto je bila noć, stražarili su sve do jutra. Nakon toga izbacili su tog lika sa teritorije Fridoma, a niko ga ni u Baru nije video. Izgleda da nije našao ono što je tražio u Zoni...</text>
@@ -853,6 +847,13 @@
 	<string id="dm_cool_info_70">
 		<text>Nedavno smo, ja i još četiri stalkera, zamolili jednog Plaćenika da mu se pridružimo uz logorsku vatru. Ispalo je da on uopšte nije loš čovek. Plaćenik je objasnio da je samo ubijao po naređenju. Većina stalkera tretiraju Plaćenike sa poštovanjem, ali Plaćenici poštuju stalkere, ali sebe smatraju nenadmašnim majstorima. Ovaj Plaćenik mi je ispričao svoju životnu priču, za svoju službu je dobio "Medalju za hrabrost" i pokazao nam je. Trenirao je u centru za obuku snajperista, "Tamo je sve uzimaju ozbiljno.", kaže. Svaki put kada pucaš, proveri oružje, opet pucaš, opet provera, i tako uvek. Rekao nam je da se snajperske veštine kupe u ratu, u žarištima. Ponekad se osoba dugo trenira, ali kada dođ pred pravi ispit (obično negde u Čečeniji) - neki ljudi to jednostavno ne mogu uraditi. Možeš se pripremati u školi, pucati u sve moguće mete ali kada dođe stvarnost, nešto u tebi škljocne i jednostavno zamrzneš. Tako ti je to. Znači, Obeleženi, u Zoni moraš biti jak.</text>
 	</string>
+<!-- string id "dm_cool_info_7" and "dm_cool_info_8" is already exsist! - soo, the new string will be: "dm_cool_info_71" and "dm_cool_info_72" - aleks1970 -->
+	<string id="dm_cool_info_71">
+		<text>Jesi čuo da se jedna grupa stalkera probila do samog centra Zone. I to neposredno pre velike Emisije. Interesantno, ili su došli do samog Ispunitelja Želja ili su nestali?</text>
+	</string>
+	<string id="dm_cool_info_72">
+		<text>Sada je teško živeti samo od plena. Ako se nekako iščupaš živ iz anomalija i kandži čudovišta, neophodno je proći kroz zasede i patrole Bandita, a još su tu onda i vojni punktovi. Kao rezultat svega toga, vratiš se siromašniji nego kada si krenuo. Nešto se mora poduzeti protiv tih lešinara. Nadam se da će se stalkeri rešiti ovih gulikoža...</text>
+	</string>
 </string_table>
-<!-- Tekst usklađen sa 109983 verzijom zakrpe - 23.03.2015 20:56 -sadd -->
 <!-- Preveo i prilagodio Flexerca -=- 15:09 29.04.2015 -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 20:06 -sadd -->

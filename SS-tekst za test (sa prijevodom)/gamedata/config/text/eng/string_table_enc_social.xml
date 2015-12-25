@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<string_table>
-	<!-- TB3D 1.0.1e -->
+<?xml version= "1.0" encoding = "windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8  removed replace - with _, removed "string_table" - aleks1970 -->
+
 <string id="Military">
 <text>Vojska</text>
 </string>
@@ -8,7 +8,7 @@
 <text>Armija</text>
 </string>
 <string id="enc_social_military_army">
-<text>\nUkrainska vlast kontroliše periferiju Zone pomoću trupa iz sastava svoje Državne Sigurnosne Agencije delujući pod pokroviteljstvom Ministarstva Unutrašnjih Poslova. Primarna uloga vojske je obezbeđenje granica Zone, da bi sprečili neautorizovane ekskurzije Stalkera i distribuciju artefakata u spoljnji svet bez nadzora vlasti. Dok je Vojska inicijalno opsednuta jakim prisustvom u samoj Zoni, prateći ekspanziju Zone i posledično uništenje vojnog personala tamo prisutnog, dalje instrukcije u vezi sa Zonom su stavljene na čekanje do daljnjeg. U praksi oni su jedna od najkorumpiranijih organizacija koja deluje u Zoni, pucaju na stalkere iz zabave, iznudeći novac od njih, i/ili ignoririšu krijumčarske operacije u zamenu za mito...\n\nSpecnaz ili 'Ukrainska Jedinica Specialnih Namena' su elitne specijalne jedinice koje su raspoređene u Zoni sa zadatkom da sprovode spasilačke operacije, precizne udare, a i druge specijalne zadatke za Ukrainsku Državnu Bezbednost. Specnaz su u biti ekvivalent iskusnim Stalkerima Ekspertima koji nose Egzoskeleton odela u Zoni, ali oni imaju mnogo slabiju zaštitu nego što to Egzoskeleton obezbeđuje, Spetsnaz imaju vrhunsku obuku, napredno naoružanje, a i brojčanu nadmoć, takođe su vrlo često raspoređeni po grupama- ili formaciju nivoa voda. Spetsnaz takođe mogu angažovati podršku mehanizovanih i vazdušnih snaga u formi Mi-24 helikoptera i BTR-70 APC oklopnog tranportera...</text>
+<text>\nUkrainska vlast kontroliše periferiju Zone pomoću trupa iz sastava svoje Državne Sigurnosne Agencije delujući pod pokroviteljstvom Ministarstva Unutrašnjih Poslova. Primarna uloga vojske je obezbeđenje granica Zone, da bi sprečili neautorizovane ekskurzije Stalkera i distribuciju artefakata u spoljnji svet bez nadzora vlasti. Dok je Vojska inicijalno opsednuta jakim prisustvom u samoj Zoni, prateći ekspanziju Zone i posledično uništenje vojnog personala tamo prisutnog, dalje instrukcije u vezi sa Zonom su stavljene na čekanje do daljnjeg. U praksi oni su jedna od najkorumpiranijih organizacija koja deluje u Zoni, pucaju na stalkere iz zabave, iznudeći novac od njih, i/ili ignoririšu krijumčarske operacije u zamenu za mito...\n \nSpecnaz ili 'Ukrainska Jedinica Specialnih Namena' su elitne specijalne jedinice koje su raspoređene u Zoni sa zadatkom da sprovode spasilačke operacije, precizne udare, a i druge specijalne zadatke za Ukrainsku Državnu Bezbednost. Specnaz su u biti ekvivalent iskusnim Stalkerima Ekspertima koji nose Egzoskeleton odela u Zoni, ali oni imaju mnogo slabiju zaštitu nego što to Egzoskeleton obezbeđuje, Spetsnaz imaju vrhunsku obuku, napredno naoružanje, a i brojčanu nadmoć, takođe su vrlo često raspoređeni po grupama- ili formaciju nivoa voda. Spetsnaz takođe mogu angažovati podršku mehanizovanih i vazdušnih snaga u formi Mi-24 helikoptera i BTR-70 APC oklopnog tranportera...</text>
 </string>
 <string id="Milstalkers">
 <text>Vojni S.T.A.L.K.E.R.</text>
@@ -22,69 +22,68 @@
 <string id="Bandits">
 <text>Banditi</text>
 </string>
-<string id="enc_social_stalker-clans_bandits">
+<string id="enc_social_stalker_clans_bandits">
 <text>\nČlanovi kriminalnog podzemlja koji su došli u Zonu iz različitih razloga: da bi napravili novac prodavajući artefakte, skrivanje od zakona ili trgovina oružjem. Zona je puna bandita, počevši od običnih lopova pa do ozbiljnih kriminalaca, većina njih su članovi ove ili one bande. pošto se bande iz Zone često biju između sebe, kriminalni element i dalje predstavlja ozbiljan problem za normalne S.T.A.L.K.E.R.e ...</text>
 </string>
 <string id="Duty">
 <text>Djuti</text>
 </string>
-<string id="enc_social_stalker-clans_duty">
+<string id="enc_social_stalker_clans_duty">
 <text>\nParavojna formacija poznata po svojo disciplini, čiji članovi žive prema striktnim kodovima. Članovi Djutija su jedina grupacija koja odbija da trguje sa jedinstvenim predmetima iz Zone sa spoljnjim svetom. Sudeći prema glasinama, svi artefakti koje je grupa pronašla su prosleđeni naučnicima. Njihovi članovi smatraju zaštitu spoljnjeg sveta od Zone kao svoj primarni zadatak. Većina iz grupe se uglavnom bave uništavanjem čudovišta, dok pohodi Djutija često spasavaju obične stalkere iz ozbiljnih problema. Ova frakcija je odavno u ratu sa Fridomom.</text>
 </string>
 <string id="Freedom">
 <text>Fridom</text>
 </string>
-<string id="enc_social_stalker-clans_freedom">
+<string id="enc_social_stalker_clans_freedom">
 <text>\nAnarhisti i hazarderi koji su sami sebe proglasili borcima za slobodan pristup Zoni i zbog toga su se upustili u konstantni konflikt sa vojskom, vojnim S.T.A.L.K.E.R.ima i Djuti frakcijom. Ti takozvani "borci za slobodu" veruju u deobu svih informacija o Zoni sa ostatkom sveta i osuđuju državni monopol na tajne i čuda iz Zone.</text>
 </string>
 <string id="Killers">
 <text>Plaćenici</text>
 </string>
-<string id="enc_social_stalker-clans_killers">
+<string id="enc_social_stalker_clans_killers">
 <text>\nNajtajanstvenija i najmisterioznija frakcija u Zoni, neki čak ni neveruju u njihovo postojanje. Postoje i oni koji regularno koriste usluge Plaćenika kao pravih profesionalaca, sposobni su da se brzo obračunaju sa bilo kojim S.T.A.L.K.E.R.om i čak da unište malu grupu protivnika. Njihove usluge uopšte nisu jeftine - plaćenici zahtevaju carsku nadoknadu za svoje usluge u novcu ili artefaktma. lokacija njihove baze je tajna, pretpostavlja se da je negde duboko u Zoni.</text>
 </string>
 <string id="Loners">
 <text>Samotnjaci</text>
 </string>
-<string id="enc_social_stalker-clans_loners">
+<string id="enc_social_stalker_clans_loners">
 <text>\nS.T.A.L.K.E.R.i koji nisu članovi ni jedne frakcije, a njihovo ime samo govori da se tu radi o mali grupicama S.T.A.L.K.E.R.a .. To su neutralni individualci, uglavno trguju ili nude razne misije. pretpostavlja se da i drugi 'Samotnjaci' žive sličnim životom. Njihov glavni oponenti su frakcije 'Banditi' i 'Vojska'. Takođe su neprijatelji prema 'Plaćenicima' i 'Monolitima' .. takođe postoji i par sukoba među njima samima. Oni su neutralni prema 'Fridomu', 'Djutiju' i 'Naučnicima'. Dok se oni sami ne smatraju frakciom uopšte, međutim ako ubiješ Samotnjaka zaradićeš neprijateljstvo bilo kojeg drugog Samotnjaka u Zoni, pošto se vesti jako brzo šire među ovom nomadskom grupom, a i ne odnose se lepo prema ubicama...</text>
 </string>
 <string id="Monolith">
 <text>Monoliti</text>
 </string>
-<string id="enc_social_stalker-clans_monolith">
+<string id="enc_social_stalker_clans_monolith">
 <text>\nOva grupacija se u mnogome ogleda kao religijska sekta. Njeni članoviveruju u postojanje kompleksnih vanzemaljskih kristala, Monolita, lociranih negde u centru Zone. Većina S.T.A.L.K.E.R.a  posmatra članove Monolita sa prezirom i smatra ih ludacima. Od svog početka grupa nastoji da blokira bilo kakav progres prma centru Zone, štiteći Monolit od drugih S.T.A.L.K.E.R.a. Glasine kruže da grupa ima ogromnu bazu duboko u Zoni, ali njena tačna lokacija je poznata samo članovima grupe...</text>
 </string>
 <string id="Scientists">
 <text>Naučnici</text>
 </string>
-<string id="Mobile-groups">
+<string id="Mobile_groups">
 <text>Istraživačke Grupe</text>
 </string>
-<string id="enc_social_scientists_mobile-groups">
+<string id="enc_social_scientists_mobile_groups">
 <text>Mobilni Tim Naučnika</text>
 </string>
-<string id="Mobile-Labs">
+<string id="Mobile_Labs">
 <text>Mobila Naučna Laboratorija</text>
 </string>
-<string id="enc_social_scientists_mobile-labs">
+<string id="enc_social_scientists_mobile_labs">
 <text>\nMobilna Laboratorija predstavlja mali, oklopljeni bunker sa malim obojenim prozorima napravljenim od otpornog stakla. Laboratorija je sposobna da istrpi mnogo oštećenja sa pouzdanim sistemom održanja života, može funkcionisati autonomno nekoliko meseci. Bunker je isporučen u Zonu pomoću transportnog helikoptera. Osoblje laboratorije nikad ne dozvoljava posetiocima da prođu kroz spoljnju dekontaminacionu komoru, tako da ni jedan stalker nikad nije bio unutra.</text>
 </string>
 <string id="Zomstalkers">
 <text>Zombifikovani S.T.A.L.K.E.R.</text>
 </string>
-<string id="enc_social_stalker-clans_zomstalkers">
+<string id="enc_social_stalker_clans_zomstalkers">
 <text>\nJadnici izloženi produženom izlaganju u Jantaru i nekim drugim sektorima sa jakom radijacijom. Neoprezni S.T.A.L.K.E.R.i koji su poludeli i pretvoreni u šetajuće leševe. Mnogi takvi leševi lutaju Zonom, neki dolutaju čak i do periferije Zone. Njima nije moguće pomoći jer je taj destruktivni proces nepovratan. Zombifikovani S.T.A.L.K.E.R.i su i dalje u stanju da koriste svoje oružje, ali su prilično glupi i može se začuti besmisleno mrmljanje, sostvena sećanja u delićima. potpuno su izgubili sve svoje veštine i pretvorili se u Zombije. Obično su vrlo agresivni i mogu predstavljati ozbiljnu pretnju kada su u većem broju.</text>
 </string>
-<string id="Stalker-clans">
+<string id="Stalker_clans">
 <text>S.T.A.L.K.E.R. Klanovi</text>
 </string>
 <string id="lastdays">
 <text>"Poslednji Dan"</text>
 </string>
-<string id="enc_social_stalker-clans_lastday">
+<string id="enc_social_stalker_clans_lastday">
 <text>\nPoslednji Dan - Jadan od prvih, a i nekada najmoćnija frakcija u Zoni, sastoji se od lokalnog stanovništva, naučnika i svih ostalih koji su ostali u Zoni nakon Černobilske katastrofe. Dugo vremena smatrali su sebe jedinim legitimnim stanovnicima Zone, ljubomorno je čuvajući od stranaca. To je neprijateljski nastrojilo većinu klanova i frakcija. Među svojim ciljevima smatraju "poklone" iz Zone i njihova zaštita od zloupotrebe i istraživanja. Poznato je da je pre oko dve godine stalker po imenu Duh (Ghost) eliminisao vođu klana, nakon čega se grupa ubrzo raspala, jer nisu bili u stanju da izaberu novog lidera. Mnogi su se pridružili drugim grupama. Trenutno, prema nepotvrđenim informacijama, klan se obnovio. To uključuje bivše vodeće naučnike od takozvane 0-Svesti gospodara frakcije Monolita koji nisu bili religiozni fanatici, smešteni u oblasti sa plaćenicima i ubicama, a i sa još nekim lokalnim starkeljama. Sudeći prema glasinama - klan je uspostavio ozbiljnu komunikaciju izvan granica Zone, njegovi borci su odlično istrenirani i opremljeni, a i vešto se koriste sa poklonima naučnika iz Zone za svoje ciljeve a posebno zbog vojske. Ciljevi, brojnost i lokacija njihovog štaba - je nepoznata. U ovom klanu je vrlo razvijena obaveštajna mreža uz pomoć bivših vojnika koji su se ubacili u druge grube.</text>
 </string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 14:37 05.02.2015 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:30 -sadd -->
+	<!-- Tekst usklađen sa 109996 verzijom zakrpe - 06.02.2015 19:30 -sadd -->

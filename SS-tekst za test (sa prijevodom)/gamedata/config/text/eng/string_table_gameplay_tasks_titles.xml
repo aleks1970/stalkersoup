@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0  StalkerSoup game tasks - titles aleks1970, boatswain-->
+<!-- TB3D 1.0.9.9.9.9  StalkerSoup game tasks - titles aleks1970, boatswain, minor spelling,
+ corrected "<string id=" section with "Artefact" back to the "artifact" - aleks1970, Get_Night, seal -->
 <string_table>
 	<string id="Find_Cache_gameplay_titles">
 		<text>Pronađi štek</text>
@@ -266,7 +267,7 @@
 		<text>Sakupi namirnice i 2 ruke Pseudo Giganta</text>
 	</string>
 	<string id="Gather_supplies_Bloodsucker_Tentacles_gameplay_titles">
-		<text>Sakupi namirnice i pipke Krvopije</text>
+		<text>Sakupi uređaje i pipke Krvopije</text>
 	</string>
 	<string id="Take_away_Krysyuks_PDA_gameplay_titles">
 		<text>Uzmi PDA od Pacova</text>
@@ -439,7 +440,7 @@
 	<string id="Reconoiter_military_lab_gameplay_titles">
 		<text>Izvidi vojnu laboratoriju</text>
 	</string>
-	<string id="Return_eal_Lukas_gameplay_titles">
+	<string id="Return_seal_Lukas_gameplay_titles">
 		<text>Vrati pečat Lukašu</text>
 	</string>
 	<string id="Raid_on_Varlab_gameplay_titles">
@@ -664,6 +665,9 @@
 	<string id="Get_some_medicine_Cat_gameplay_titles">
 		<text>Donesi Mačku nešto lekova</text>
 	</string>
+	<string id="Get_Night">
+		<text>Pronađi predmete za Kalmika</text>
+	</string>
 	<string id="Get_Night_Star_ten_Snork_feet_Kalmyak_gameplay_titles">
 		<text>Donesi Noćnu Zvezdu i deset Snorkovih stopala Kalmiku</text>
 	</string>
@@ -802,6 +806,19 @@
 	<string id="Find_Ghost_gameplay_titles">
 		<text>Pronađi Duha</text>
 	</string>
+<!-- text for the new tasks about mutant minimap detector - aleks1970 -->
+	<string id="Gather_3_Werewolf_Paws_and_20_PDAs_gameplay_titles">
+		<text>Sakupi predmete i Vukodlakove šape.</text>
+	</string>
+	<string id="Gather_4_Chimera_Claw_and_40_PDAs_gameplay_titles">
+		<text>Sakupi predmete i četiri Himerine kandže.</text>
+	</string>
+	<string id="Gather_Burer_4_Hand_and_15_PDAs_gameplay_titles">
+		<text>Sakupi Burerove ruke i 15 vojnih PDA.</text>
+	</string>
+	<string id="Gather_1_Librarian_Hand_and_30_PDAs_gameplay_titles">
+		<text>Sakupi predmete i ruku Bibliotekara.</text>
+	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 0:34 31.12.2014 -->
-	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:52 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:18 - sadd -->

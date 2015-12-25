@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 updated to 134-->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 updated to 134, removed "string_table" - aleks1970 -->
+
 	<string id="binoc_tutorial">
 		<text>Da biste koristili dvogled, odaberite ga ($$ACTION_wpn_5$$) i pritisnite dugme "paljba" za približavanje.</text>
 	</string>
@@ -53,13 +53,13 @@
 		<text>Pomažući drugima, igrač poboljšava svoju reputaciju i ugled među stalkerima. Bolji odnosi i veća reputacija će vam pomoći u komunikaciji sa likovima koje susrećete. Biće spremni da vam daju dodatne informacije i da vam prodaju svoje stvari po nižim cenama ako dobro stojite u njihovim "knjigama". S druge strane, ako ste otvorili vatru na nekoga, njihov odnos prema vama vrlo brzo će se pretvoriti u negativn, također i njegovi prijatelji, i oni će vas napasti.</text>
 	</string>
 	<string id="sleep_tutorial">
-		<text>Ovo je dobro mesto da se ispružite u vreći. Ovde možete dobro da odspavate, da prespavate noć ili jednostavno ubijete vreme. Za odlazak na spavanje, otvoriti inventar, podesite dužinu vremena koju želite spavati i pritisnite dugme "Opusti se". Vaš lik će se probuditi u određeno vreme. Ponekad će imati i snove. </text>
+		<text>Ovo je dobro mesto da se ispružite u vreći. Ovde možete dobro da odspavate, da prespavate noć ili jednostavno ubijete vreme. Za odlazak na spavanje, otvoriti inventar, podesite dužinu vremena koju želite spavati i pritisnite dugme "Opusti se". Vaš lik će se probuditi u određeno vreme. Ponekad će imati i snove.</text>
 	</string>
 	<string id="sprint">
 		<text>Trčanje</text>
 	</string>
 	<string id="sprint_tutorial">
-		<text>Ponekad ćete morati trčati brže nego obično. Da biste to učinili, dok hodate pritisnite dugme ($$ACTION_sprint_toggle$$). Tokom sprinta lik trči brže i skače dalje ali se brzo umara i ne može pucati iz oružja </text>
+		<text>Ponekad ćete morati trčati brže nego obično. Da biste to učinili, dok hodate pritisnite dugme ($$ACTION_sprint_toggle$$). Tokom sprinta lik trči brže i skače dalje ali se brzo umara i ne može pucati iz oružja</text>
 	</string>
 	<string id="starvation_tutorial">
 		<text>Kada lik ne jede duže vremena, počinje osećati glad. Ukoliko ne nađe nešto za jelo, glad počinje da narušava zdravlje glavnom liku. Da bi ste to sprečili neophodno je redovno uzimanje hrane. Vekna hleba, konzerva mesa ili parče kobasice će rešiti taj problem, barem neko vreme.</text>
@@ -88,6 +88,5 @@
 	<string id="pda_diary_tutorial">
 		<text>U PDA-u poginulog stalkera, našli ste njegova zapažanja o anomaliji u tunelu. Možete pročitati ovu informaciju u vašem PDA u sekciji "Dnevnik".</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 18:55 18.10.2014 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 0:18 -sadd -->

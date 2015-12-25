@@ -39,6 +39,18 @@
 <string id="enc_weapons1_wpn_VSS_Taktikal">
 <text>Taktièni Vintorez sa Eeotech red dot zaslonom i moguènostima nadogradnje\n• Elcan Digitalna lovaèka optika.</text>
 </string>
+<string id="wpn_ghost_gauss">	<!-- sadd poèetak -->
+<text>VGI Gauss M72 'Ghost'</text>
+</string>
+<string id="enc_weapons1_wpn_ghost_gauss">
+<text>• Ammunition: 2-mm Gauss Capsules\n• Weight: 5.5 kg\n• Effective Range: 1000 meters\n• Capacity: 20 Rounds\nThe m72 Gauss Rifle that once belonged to 'Ghost'. This weapon was found laying in a "Fruit Punch" anomaly, which has permanently altered it's firing characteristics. It now possesses a furious rate of fire in comparison with other Gauss Rifles. A very unique, and powerful weapon ... handle with extreme caution</text>
+</string>
+<string id="wpn_ghost_gauss_stealth">
+<text>VGI Ghost 'Stealth'</text>
+</string>
+<string id="enc_weapons1_wpn_ghost_gauss_stealth">
+<text>• Ammunition: 2-mm Gauss Capsules\n• Weight: 5.5 kg\n• Effective Range: 1000 meters\n• Magazine capacity: 20 cartridges\nThe VGI Ghost 'Stealth' Gauss Rifle was a long time ago the primary weapon for the stealth operations and was successfully tested in complete with a special Ghost stealth outfit. As with the M72 Gauss 'Ghost' predecessor this weapon were retained all his good qualities plus some extra which are been achieved with throwing this weapon into the frozen anomaly.. It now possesses a furious rate of fire in comparison with other Gauss Rifles and it is almost invisible...</text>
+</string>	<!-- sadd kraj -->
 	<!-- ATTACHMENTS -->
 	<!-- BLADES -->
 	<!-- SCOPES -->
@@ -88,4 +100,4 @@
 </string>
 	<!-- 20:05 16.11.2014 -->
 	<!-- Preveo i prilagodio Flexerca - 27.01.2015 - 15.02 -->
-	<!-- Tekst usklaðen sa 109977 verzijom zakrpe - 06.02.2015 21:21 -sadd -->
+	<!-- Tekst usklaðen sa 109999 verzijom zakrpe - 24.12.2015 19:39 -sadd -->

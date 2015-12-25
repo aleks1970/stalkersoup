@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
+<!-- TB3D 1.0.9.9.9.8 -->
 	<string id="rad_barman_spam">
-		<text>Obeleženi!? Pa ti si živ!? Sjajno! Uspeo si da ugasiš Spaljivač, jel'? Svi pokušavaju doći do centra Zone kroz Pripjat. Niko ne zna šta je tamo...možda je to riznica artefakata ili možda nešto što ispunjava sve želje.\n Baš u ovom momentu se grupa veterana sprema da krene tamo. Ako požuriš, možda ćeš stići da im se pridružiš. Javiću im za tvoj dolazak, pa će te pričekati.</text>
+		<text>Obeleženi!? Pa ti si živ!? Sjajno! Uspeo si da ugasiš Spaljivač, jel'? Svi pokušavaju doći do centra Zone kroz Pripjat. Niko ne zna šta je tamo...možda je to riznica artefakata ili možda nešto što ispunjava sve želje.\nBaš u ovom momentu se grupa veterana sprema da krene tamo. Ako požuriš, možda ćeš stići da im se pridružiš. Javiću im za tvoj dolazak, pa će te pričekati.</text>
 	</string>
 	<string id="tips_bun_komand">
 		<text>Timovi jedan i dva - proverite prvi sprat, tim tri - glavna hala, četiri i pet - proverite drugi sprat</text>

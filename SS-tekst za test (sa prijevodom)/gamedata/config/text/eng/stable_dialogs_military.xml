@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.2 controller vice comptroller, chgd mil_trader_dialog_2001 -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 controller vice comptroller, chgd mil_trader_dialog_2001, removed "string_table" - aleks1970 -->
+
 	<string id="mil_bodyguard_dialog_0">
 		<text>Šta hoćeš?</text>
 	</string>
@@ -572,7 +572,7 @@
 		<text>Dobro.</text>
 	</string>
 	<string id="mil_hunter_dialog_1">
-		<text>Cicija me je poslao da istrebim krvopije.</text>
+		<text>Škrti me je poslao da istrebim krvopije.</text>
 	</string>
 	<string id="mil_hunter_dialog_101">
 		<text>Pa, stalkeru, šta te dovodi do ovog mračnog mesta? Moj savet ti je da begaš odavde dok još imaš glavu na ramenima!</text>
@@ -641,7 +641,7 @@
 		<text>Znači ni sami ne znate u čemu je stvar?</text>
 	</string>
 	<string id="mil_hunter_dialog_507">
-		<text>Baš tako! Ako nemaš pametnija i ako nisi baš pri čistoj svesti, možeš da prošetaš kroz selo. Ako pobiješ te stvorove, Cicija će ti sigurno dati nešto gratis sa police. Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
+		<text>Baš tako! Ako nemaš pametnija i ako nisi baš pri čistoj svesti, možeš da prošetaš kroz selo. Ako pobiješ te stvorove, Škrti će ti sigurno dati nešto gratis sa police. Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
 	</string>
 	<string id="mil_hunter_dialog_508">
 		<text>OK, idem da izvidim selo.</text>
@@ -704,7 +704,7 @@
 		<text>Znači ni sami ne znate u čemu je stvar?</text>
 	</string>
 	<string id="mil_hunter_dialog_807">
-		<text>Baš tako! Ako nemaš pametnija i ako nisi baš pri čistoj svesti, možeš da prošetaš kroz selo. Ako pobiješ te stvorove, Cicija će ti sigurno dati nešto gratis sa police. Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
+		<text>Baš tako! Ako nemaš pametnija i ako nisi baš pri čistoj svesti, možeš da prošetaš kroz selo. Ako pobiješ te stvorove, Škrti će ti sigurno dati nešto gratis sa police. Zapiši nam tvoju adresu, Ok? Poslaćemo pismo tvojima ako se nešto desi.</text>
 	</string>
 	<string id="mil_hunter_dialog_808">
 		<text>Dobro, idem da izvidim situaciju.</text>
@@ -1561,6 +1561,5 @@
 	<string id="mil_trader_dialog_story2_19">
 		<text>Ajde, ne ljuti se! Podvalio sam ti staru foru... Pa, vidimo se kasnije, "veteranu".</text>
 	</string>
-</string_table>
 <!-- Tekst usklađen sa 109984 verzijom zakrpe - 29.04.2015 23:36 -sadd -->
 <!-- Preveo i prilagodio Flexerca -=- 14:35 30.04.2015 -->

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<string_table>
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 something, removed "string_table" - aleks1970 -->
+
 	<string id="cit_doctor_escape_dialog_0">
 		<text>Trebam odgovore na nekoliko pitanja.</text>
 	</string>
@@ -129,6 +130,5 @@
 	<string id="quest_cit_reward_131">
 		<text>Ako saznaš nešto konkretnije, vrati se. Platiću ti.</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Flexerca - 23.01.2015 -13.50 -->
-<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:43 -sadd -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:45 -sadd -->

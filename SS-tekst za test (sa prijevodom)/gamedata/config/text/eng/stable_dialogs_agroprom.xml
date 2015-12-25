@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0, line 290 Russian char. aleks1970 -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8, line 290 Russian char., removed "string_table" - aleks1970 -->
+
 	<string id="agr_factory_krot_start_0">
 		<text>Hvala na pomoći stalkeru! Da se nisi pojavio, do sad bih bio mrtav.</text>
 	</string>
@@ -164,7 +164,7 @@
 		<text>Reci mi nešto o tim "sakupljačima".</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_11121">
-		<text>"Sakupljači" su standardni smrdljivi kanalizacioni odvodi koji odnose otpad iz Instituta do najbližeg rezervoara vode. </text>
+		<text>"Sakupljači" su standardni smrdljivi kanalizacioni odvodi koji odnose otpad iz Instituta do najbližeg rezervoara vode.</text>
 	</string>
 	<string id="agr_stalker_talk_about_ratcatcher1_111211">
 		<text>Sjajno. Vidimo se i čuvaj se.</text>
@@ -292,5 +292,4 @@
 	<string id="agr_krot_story_2">
 		<text>Heh, ala ti je priča...</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 13:54 20.04.2015 -->

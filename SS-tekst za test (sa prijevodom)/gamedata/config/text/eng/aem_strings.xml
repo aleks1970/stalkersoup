@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.11e -->
+<!-- TB3D 1.0.9.9.9.8 -->
 <!-- Text editing by: Martin Pallo 09/12/11-->
 <string_table>
+#include "text\eng\sak_strings_treasure.xml"
 	<string id="aem_start_421">
 		<!-- MF tenses -->
-		<text>Pa, sad još i to? Hoće li mečevi u areni prestati, ti zatvoriti radnju, pa otići da tražiš sreću na drugom kraju sveta? </text>
+		<text>Pa, sad još i to? Hoće li mečevi u areni prestati, ti zatvoriti radnju, pa otići da tražiš sreću na drugom kraju sveta?</text>
 	</string>
 	<string id="aem_start_4211">
 		<text>Stani malo, Obeleženi. Ne donosi zaključke na brzinu, to je samo turnir za lovu.</text>
@@ -146,7 +147,7 @@
 	</string>
 	<string id="aem_job_time_quest">
 		<!--	MF minor rewrite -->
-		<text>Ako si potpuno siguran u svoje mogućnosti, mogu predložiti vremenski ograničen meč? Te borbe obično ne traju dugo i zahtevaju određenu misteriju u umetnosti ubijanja. Tu je mogućnost dobijanja bonusa ili čak dupliranja dobitka ako pobediš za što kraće vreme. I zapamti zlatno pravilo, NESMEŠ ubiti protivnika ako vreme istekne. Ako to uradiš, bićeš kažnjen istim iznosom kojim bi pobedio. Mislim da se slažeš, bolje ti je da sačuvaš svoju bulju netaknutu čak i bez dobitka nego da moraš platiti to što je trebalo da osvojiš. A meni je potrebno što je više moguće živih takmičara za druge mečeve, tako da ćeš mi takođe pomoći ako se budeš pridržavao tog pravila. Pa, šta kažeš? Jel da uključim tu štopericu?   </text>
+		<text>Ako si potpuno siguran u svoje mogućnosti, mogu predložiti vremenski ograničen meč? Te borbe obično ne traju dugo i zahtevaju određenu misteriju u umetnosti ubijanja. Tu je mogućnost dobijanja bonusa ili čak dupliranja dobitka ako pobediš za što kraće vreme. I zapamti zlatno pravilo, NESMEŠ ubiti protivnika ako vreme istekne. Ako to uradiš, bićeš kažnjen istim iznosom kojim bi pobedio. Mislim da se slažeš, bolje ti je da sačuvaš svoju bulju netaknutu čak i bez dobitka nego da moraš platiti to što je trebalo da osvojiš. A meni je potrebno što je više moguće živih takmičara za druge mečeve, tako da ćeš mi takođe pomoći ako se budeš pridržavao tog pravila. Pa, šta kažeš? Jel da uključim tu štopericu?</text>
 	</string>
 	<string id="aem_job_time_5">
 		<text>Pet sekundi.</text>
@@ -355,15 +356,15 @@
 	</string>
 	<string id="aem_military_info">
 		<!-- MF minor rewrite -->
-		<text>Prva stvar koja dolazi na pamet je "koje bolesno sranje ovi ljude rade u Baru?". Zahvaljujući njihovim brojnim vezama, Djutijevci mogu sebi dozvoliti čak i ovo. Tu nema mnogo sumnje u profesionalizam ovih vojnika. Oni svi imaju mnogo iskustva iza svojih leđa, koje su stekli čak i pre nago što je Zona postala to što jeste. Neki od ovih momaka su bili u Avganistanu, Gruziji i Čečeniji, a potrošili su i nekoliko godina u pohodima kroz Zonu, dakle i dalje su oštri. Naoružani su najboljim naoružanjem koje njihova Ruska vlada može proizvesti. </text>
+		<text>Prva stvar koja dolazi na pamet je "koje bolesno sranje ovi ljude rade u Baru?". Zahvaljujući njihovim brojnim vezama, Djutijevci mogu sebi dozvoliti čak i ovo. Tu nema mnogo sumnje u profesionalizam ovih vojnika. Oni svi imaju mnogo iskustva iza svojih leđa, koje su stekli čak i pre nago što je Zona postala to što jeste. Neki od ovih momaka su bili u Avganistanu, Gruziji i Čečeniji, a potrošili su i nekoliko godina u pohodima kroz Zonu, dakle i dalje su oštri. Naoružani su najboljim naoružanjem koje njihova Ruska vlada može proizvesti.</text>
 	</string>
 	<string id="aem_killer">
 		<!-- MF articles -->
 		<text>Meč sa Plaćenicima.</text>
 	</string>
 	<string id="aem_killer_info">
-		<!-- MF minor rewrite </text> -->
-		<text>Plaćenici su vrlo organizovana paravojna formacija sastavljena od mnogo različitih plaćenika po ugovoru. Oni nose uvozno oružje, tako da nisu kratki sa lovom. Glasine kruže da oni rade za strane interese i vlade, pored Ruske, Ukrainske, a i moguće čak i Gruzijskih klijenata. Ja ih nazivam sporednim efektima u pokušaju Ukrainske vlade da uđe u NATO. Mnogo lokalnog stanovništva se trude da se drže podalje od tih što je više moguće, ali što se vojske tiče, ona ti je kao kost u grlu. Oni daju plaćenicima visoki prioritet ako ih susretnu, što znači da ja poštujem vojnike. Vatrena moć plaćenika se teško može ignorisati, zbog toga sakupljam sve više kontakata među njima. </text>
+		<!-- MF minor rewrite</text> -->
+		<text>Plaćenici su vrlo organizovana paravojna formacija sastavljena od mnogo različitih plaćenika po ugovoru. Oni nose uvozno oružje, tako da nisu kratki sa lovom. Glasine kruže da oni rade za strane interese i vlade, pored Ruske, Ukrainske, a i moguće čak i Gruzijskih klijenata. Ja ih nazivam sporednim efektima u pokušaju Ukrainske vlade da uđe u NATO. Mnogo lokalnog stanovništva se trude da se drže podalje od tih što je više moguće, ali što se vojske tiče, ona ti je kao kost u grlu. Oni daju plaćenicima visoki prioritet ako ih susretnu, što znači da ja poštujem vojnike. Vatrena moć plaćenika se teško može ignorisati, zbog toga sakupljam sve više kontakata među njima.</text>
 	</string>
 	<string id="aem_freedom">
 		<text>Borba sa Fridomom.</text>

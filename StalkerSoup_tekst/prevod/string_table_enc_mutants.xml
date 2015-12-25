@@ -113,7 +113,6 @@
 	<string id="Zombie">
 		<text>Zombi</text>
 	</string>
-
 	<string id="enc_mutant_zombie_general">
 		<text>"Spaljivaè mozgova" potpuno uništava ljudsku liènost, ostavljajuæi samo praznu telesnu ljušturu. Nakon kraæeg lutanja Zonom, tela lišena razuma, poèinju da pretvaraju u potpune zombije. Od refleksa su im ostali samo oni najprimitivniji, oružje i odeæa im postaju beskorisni. Zombiji su nešto malo više od hodajuæih leševa, koji jedino brinu o hrani i spavanju. Jedu i piju sve što im dospe u kandže, pa su praktièno natopljeni radijacijom i toksiènim otpadom. Obièno beciljno lutaju Zonom ili samo leže kao leševi u napuštenim zgradama. Meðutim, èim osete prisustvo èoveka, odmah kreæu u napad. Pouèeni iskustvom, stalkeri ih zaobilaze u širokom luku.\n \n%c[255,220,220,100]• %c[255,1,255,255]Zdravlje: %c[255,1,255,1]150 %c[255,220,220,100]• %c[255,1,255,255]Težina: %c[255,1,255,1]80kg\n%c[255,220,220,100]• %c[255,1,255,255]Brzina: %c[255,1,255,1]vrlo spor (1.2 m/sek)\n%c[255,220,220,100]• %c[255,1,255,255]Napad: %c[255,1,255,1]Fizièki\n \n%c[255,220,220,100]OTPORNOSTI:\n%c[255,220,220,100]• %c[255,1,255,255]Vatra: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Pogodak: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Šok: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Prelom: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radijacija: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]PSI: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hemijska: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Eksplozija: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Metci: %c[255,1,255,1]90%</text>
 	</string>
@@ -276,6 +275,18 @@
 	<string id="mutant_werewolf_kogot_description">
 		<text>Prièa se da su Kandže Vukodlaka jaèe i oštrije nego Himerine. Takoðe se prièa da su oni u stanju i vrata da rasture u delova samo da bi došli do svojih žrtava. Nekoliko ih je donešeno za prouèavanje ...</text>
 	</string>
+	<string id="mutant_raptor_kogot">	<!-- sadd poèetak -->
+		<text>Venom Claw</text>
+	</string>
+	<string id="enc_mutant_raptor_kogot_description">
+		<text>Claw of the very rare mutant who was called Venom. The one kind of the monster which strikes fear into the heart of any stalker. His loud and terrible roar will scare many of the mutants in Zone. Rarely who manage to get Venom Claw, so scientists are willing to give a tidy sum for him.</text>
+	</string>
+	<string id="mutant_deathclaw_antler">
+		<text>Horn "Claw of death"</text>
+	</string>
+	<string id="enc_mutant_deathclaw_antler_description">
+		<text>Some poorly studied strange monster, nicknamed "Deathclaw" among some stalkers. To meet such a mutant, and even more so to get his Horn trophy, well it is almost impossible...</text>
+	</string>	<!-- sadd kraj -->
 	<string id="part_digitis_biblio">
 		<text>Krzno Bibliotekara</text>
 	</string>
@@ -299,5 +310,5 @@
 		<text>Uzorak mutiranog tkiva od grudi ženskog Zombija .. Ima razna nepoznata svojstva, ali èini se da ne ispoljava nikakav uticaj na nosioca, ni pozitivan, a ni negativan.Nauèna zajednica je tek poèela da prouèava takve uzorke, a rezultat je taj da æe trgovci platiti do neba za tako redak pronalazak ..</text>
 	</string> -->
 </string_table>
-<!-- Tekst usklaðen sa 109983 verzijom zakrpe - 23.03.2015 20:49 -sadd -->
+	<!-- Tekst usklaðen sa 109999 verzijom 24.15.2015 19:33 - sadd -->
 <!-- Preveo i prilagodio Coolkingeye -=- 13:40 22.05.2015 -->

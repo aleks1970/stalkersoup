@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.5 removed bad filename characters from task titles, tm_kill_stalker_2_text, minor edits,
+<!-- TB3D 1.0.9.9.9.8 removed bad filename characters from task titles, tm_kill_stalker_2_text, minor edits,
  renamed ecolog_find_item_1 to ecolog_find_item_2, drunk_dolg_find_item_descr, spelling and minor edits,
  green_find_artefact_3, mercenary_kill_stalker -->
 <string_table>
@@ -1074,19 +1074,19 @@
 	<string id="tm_lisiy_list_job">
 		<text>Ima nešto:</text>
 	</string>
-	<string id="tm_Mercenary_has_no_job">
+	<string id="tm_mercenary_has_no_job">
 		<text>Trenutno nema ništa</text>
 	</string>
-	<string id="tm_Mercenary_job_ask">
+	<string id="tm_mercenary_job_ask">
 		<text>O kojem poslu želiš da razgovaramo?</text>
 	</string>
-	<string id="tm_Mercenary_job_complete">
+	<string id="tm_mercenary_job_complete">
 		<text>Zadatak je ispunjen... A evo i nagrade!</text>
 	</string>
-	<string id="tm_Mercenary_job_what">
+	<string id="tm_mercenary_job_what">
 		<text>A šta je sa zadatkom?</text>
 	</string>
-	<string id="tm_Mercenary_list_job">
+	<string id="tm_mercenary_list_job">
 		<text>Ima nešto:</text>
 	</string>
 	<string id="tm_monster_part_1">
@@ -1303,5 +1303,5 @@
 		<text>Ima nešto...</text>
 	</string>
 </string_table>
-<!-- Tekst usklađen sa 109989 verzijom zakrpe - 13.06.2015 17:06 -sadd -->
 <!-- Preveo i prilagodio Flexerca -=- 10:55 10.04.2015 -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 19:54 -sadd -->

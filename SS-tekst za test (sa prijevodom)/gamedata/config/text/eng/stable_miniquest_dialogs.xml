@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-<string_table>
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 -->
+<!--********************************-->
 	<!--*********************************** -->
 	<!-- Sidorovich miniquest dialog start  -->
 	<!--*********************************** -->
@@ -47,10 +47,10 @@
 		<text>Imam neke prijetelje ovde. Jako moćni ljudi, znaš...</text>
 	</string>
 	<string id="escape_trader_miniquest_14">
-		<text>Neki neće kupiti ništa - ostali će kupiti sve. Ovo je Zona.\n Oni ne mogu napustiti Zonu - vojnici blokiraju sve izlaze, a da idu dublje treba im municija, oružje... Gde ih mogu nabaviti osim kod mene? \n Zato me boli guzica šta ćeš im reći, razumeš?</text>
+		<text>Neki neće kupiti ništa - ostali će kupiti sve. Ovo je Zona.\nOni ne mogu napustiti Zonu - vojnici blokiraju sve izlaze, a da idu dublje treba im municija, oružje... Gde ih mogu nabaviti osim kod mene?\nZato me boli guzica šta ćeš im reći, razumeš?</text>
 	</string>
 	<string id="escape_trader_miniquest_15">
-		<text>Ha! Ha-ha! Baš si neki zabavan tip! Ne mogu se prestati smejati...\n Šta misliš otkud mi sva ova oprema, sve ovo oružje i municija? I šta misliš ko prebaciva sve ove artefakte iz Zone? Vojski treba ovaj moj posao više nego iko drugi. \n Ali možeš da odeš do njih, to bi bilo jako interesantno. Baš me zanima hoće li te upucati prije nego što nešto kažeš, ili kasnije...</text>
+		<text>Ha! Ha-ha! Baš si neki zabavan tip! Ne mogu se prestati smejati...\nŠta misliš otkud mi sva ova oprema, sve ovo oružje i municija? I šta misliš ko prebaciva sve ove artefakte iz Zone? Vojski treba ovaj moj posao više nego iko drugi.\nAli možeš da odeš do njih, to bi bilo jako interesantno. Baš me zanima hoće li te upucati prije nego što nešto kažeš, ili kasnije...</text>
 	</string>
 	<string id="escape_trader_miniquest_16">
 		<text>Čoveče, ako si pohlepniji od mene - jednostavno to reci. Ne volim ljude čije su pesnice ispred reči...</text>
@@ -88,6 +88,5 @@
 	<!--********************-->
 	<!-- miniquest dialogs end -->
 	<!--********************-->
-</string_table>
 	<!-- Preveo i prilagodio Flexerca - 29.01.2015 -14.23 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:47 -sadd -->

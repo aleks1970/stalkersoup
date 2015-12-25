@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.4 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes  -->
+<!-- TB3D 1.0.9.9.9.8 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes, vet_research_bio, added bios  -->
 
+	<string id="bio_classified">
+		<text>Informacija: Nedostupna</text>
+	</string>
+	<string id="bio_classified_dangerous">
+		<text>Informacija: Nedostupna - vrlo opasan</text>
+	</string>
 	<string id="bio_aes_ordinary_soldier">
 		<text>Obični vojnik. Detaljne informacije nedostupne.</text>
 	</string>
@@ -98,7 +104,7 @@
 		<text>Narednik Kičenko</text>
 	</string>
 	<string id="bar_lelik_bio">
-		<text>Telohranitelj vlasnika Arene. Iz njegove prošlosti je poznato samo loše. On mrzi svoju braću. </text>
+		<text>Telohranitelj vlasnika Arene. Iz njegove prošlosti je poznato samo loše. On mrzi svoju braću.</text>
 	</string>
 	<string id="bar_lelik_name">
 		<text>Lelik</text>
@@ -125,7 +131,7 @@
 		<text>Pegavi</text>
 	</string>
 	<string id="bar_voronin_bio">
-		<text>Jedan od osnivača Djuti frakcije i ujedno njen idejni vođa. Ogovoran je za sveta pravila frakcije, on je u osnovi regrutovao najvažnije članove Djuti frakcije. </text>
+		<text>Jedan od osnivača Djuti frakcije i ujedno njen idejni vođa. Ogovoran je za sveta pravila frakcije, on je u osnovi regrutovao najvažnije članove Djuti frakcije.</text>
 	</string>
 	<string id="bar_voronin_name">
 		<text>General Voronjin</text>
@@ -383,7 +389,7 @@
 		<text>Stražar iz grupacije Fridom. Fanatik. Odlično opremljen i jako opasan. Detaljne informacije nedostupne.</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_name">
-		<text>Murk</text>
+		<text>Tamni</text>
 	</string>
 	<string id="mil_Svoboda_regular_bio">
 		<text>Stalker iz Fridom frakcije. Detaljne informacije nedostupne.</text>
@@ -404,7 +410,7 @@
 		<text>Poznat po svojoj pohlepi i beskompromisnosti, ali kažu da kod njega možeš nabaviti šta god ti treba.</text>
 	</string>
 	<string id="mil_Svoboda_trader_name">
-		<text>Cicija</text>
+		<text>Škrti</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_bio">
 		<text>Stalker iz grupacije Fridom. Detaljne informacije nedostupne.</text>
@@ -544,6 +550,9 @@
 	<string id="sar2_crazy_svoboda_name">
 		<text>Ludi stalker.</text>
 	</string>
+	<string id="sar2_crazy_bio"> <!-- prevod start sadd -->
+		<text>This S.T.A.L.K.E.R. saw something in the Bloodsucker Village that drove him insane and made him extremely paranoid. After running away from the village, he holed up in a cabin near a small marsh just outside the Army Warehouses and proceeded to attack anyone who came too close.</text>
+	</string> <!-- prevod kraj sadd -->
 	<string id="sar2_dolg_blokpost_leader_name">
 		<text>Prapor</text>
 	</string>
@@ -608,34 +617,34 @@
 		<text>Pegavi</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>"Sivi"</text>
+		<text>Sivi</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>"Kep"</text>
+		<text>Kep</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>"Kaput"</text>
+		<text>Kaput</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>"Kuvar"</text>
+		<text>Kuvar</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
 		<text>Šraf</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>"Lukaš"</text>
+		<text>Lukaš</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
-		<text>"Maks"</text>
+		<text>Maks</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
 		<text>Pavlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>"Cicija"</text>
+		<text>Škrti</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>"Murk"</text>
+		<text>Tamni</text>
 	</string>
 	<string id="sar2_tiran_name">
 		<text>Tiranin</text>
@@ -650,7 +659,7 @@
 		<text>General Voronjin</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>"Vuk"</text>
+		<text>Vuk</text>
 	</string>
 	<string id="sim_bandit_general_bio">
 		<text>Nepoznat stalker. Sumnjive reputacije. Detaljne informacije nedostupne.</text>
@@ -680,7 +689,7 @@
 		<text>Borac iz frakcije Djuti. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
-		<text>Podlac, ulizica, licemer i kukavica. Barinov životni moto bi mogao biti: "Posle nas, Potop". Trudi se da iz svega izvuče korist. Izuzetno je ambiciozan i osetljiv. Došao je u Zonu, možda zvuči otrcano, zbog novca. I eto, već dve godine u Zoni se bavi prikupljanjem materijalnog bogatsva, svim mogućim sretsvima. </text>
+		<text>Podlac, ulizica, licemer i kukavica. Barinov životni moto bi mogao biti: "Posle nas, Potop". Trudi se da iz svega izvuče korist. Izuzetno je ambiciozan i osetljiv. Došao je u Zonu, možda zvuči otrcano, zbog novca. I eto, već dve godine u Zoni se bavi prikupljanjem materijalnog bogatsva, svim mogućim sretsvima.</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
 		<text>Borac iz frakcije Djuti. Obično dobro opremljen. Detaljne informacije nedostupne.</text>
@@ -737,7 +746,7 @@
 		<text>Iskusni stalker. Detaljne informacije nedostupne.</text>
 	</string>
 	<string id="sim_stalker_general_upir_bio">
-		<text>Stalker rođen pod srećnom zvezdom. Mnogo puta, ekipa sa kojom je išao, upadala je u nevolje a on jedini ostajao živ. Većina stalkera ga izbegava jer ga smatraju za "đavolju amajliju". Već duže vreme Zonom hoda sam. </text>
+		<text>Stalker rođen pod srećnom zvezdom. Mnogo puta, ekipa sa kojom je išao, upadala je u nevolje a on jedini ostajao živ. Većina stalkera ga izbegava jer ga smatraju za "đavolju amajliju". Već duže vreme Zonom hoda sam.</text>
 	</string>
 	<string id="sim_stalker_master_bio">
 		<text>Jedan od veterana Zone. Poznaje Zonu kao svoj dlan. Obično je odlično opremljen i jako opasan. Detaljne informacije nedostupne.</text>
@@ -773,7 +782,7 @@
 		<text>Student fizike, napustio fakultet u petom semestru i otišao u Zonu, radi lake zarade. Voli da se razmeće svojm "naučnim" znanjem i da raspravlja o apstraktnim filozofkim temama. To je dovoljan razlog da se ostalim stalkerima ne dopada. Sve u svemu, ipak nije loš momak. Jedna vrsta idealiste.</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_bio">
-		<text>Vrabac ima 27 godina, lukav i dalekovidan, ali i sklon grubim greškama. Ponekad zao. Prilično sumnjiva ličnost. Mršav i bled. Došao je u Zonu iz radoznalosti, obećavši sebi da će se vratiti kući nakon dva meseca. Nikad to nije uradio. Prilikom svog prvog izlaska u Zonu, krenuo je potpuno neopremljen i prošao kroz polja anomalija, ne znajući za njihovo postojanje. Kada su mu rekli kroz šta je prošao, dugo nije mogao da dođe sebi. Od tada slavi 9. oktobar, kao svoj drugi rođendan. </text>
+		<text>Vrabac ima 27 godina, lukav i dalekovidan, ali i sklon grubim greškama. Ponekad zao. Prilično sumnjiva ličnost. Mršav i bled. Došao je u Zonu iz radoznalosti, obećavši sebi da će se vratiti kući nakon dva meseca. Nikad to nije uradio. Prilikom svog prvog izlaska u Zonu, krenuo je potpuno neopremljen i prošao kroz polja anomalija, ne znajući za njihovo postojanje. Kada su mu rekli kroz šta je prošao, dugo nije mogao da dođe sebi. Od tada slavi 9. oktobar, kao svoj drugi rođendan.</text>
 	</string>
 	<string id="sim_Svoboda_master_bio">
 		<text>Majstor stalker iz grupacije Fridom. Detaljne informacije nedostupne.</text>
@@ -856,6 +865,9 @@
 	<string id="yan_saharov_bio">
 		<text>Veteran među istraživačima Zone. Učestvovao u prvoj ekspediciji 2007.</text>
 	</string>
+	<string id="vet_research_bio">
+		<text>Istraživač. Detaljne informacije nedostupne.</text>
+	</string>
 	<string id="yan_saharov_name">
 		<text>Profesor Saharov</text>
 	</string>
@@ -923,4 +935,4 @@
 		<text>Prut</text>
 	</string>
 <!-- Preveo i prilagodio Flexerca - 06.02.2015 - 15.00 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 11.02.2015 20:22 -sadd -->
+	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:37 -sadd -->

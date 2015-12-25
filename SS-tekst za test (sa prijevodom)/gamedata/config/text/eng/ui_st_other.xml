@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.5 startup prompts, moved _mm -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 startup prompts, moved _mm -->
+
 	<string id="id_mp_money">
 		<text>Novac</text>
 	</string>
@@ -185,7 +185,7 @@
 		<text>Greška u konekciji: Vaš CD-ključ je blokiran. Molim vas kontaktirajte podršku.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Nova zakrpa je dostupna. \n Verzija:% s \n% s \n Da li želite preuzeti odmah?</text>
+		<text>Nova zakrpa je dostupna.\nVerzija:% s \n% s\nDa li želite preuzeti odmah?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
 		<text>Nema novih zakrpa</text>
@@ -269,6 +269,5 @@
 	<string id="ui_mm_r2_sun_lumscale_amb">
 		<text>Pozadinsko osvetljenje</text>
 	</string> -->
-</string_table>
 	<!-- Preveo i prilagodio Flexerca -=- 12:40 12.07.2014 -->
-<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 22:16 -sadd -->
+<!-- Tekst usklađen sa 109998 verzijom zakrpe - 20.10.2015 16:26 - sadd -->

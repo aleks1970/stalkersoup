@@ -151,6 +151,13 @@
 	<string id="village_arhara_secret_4_descr">
 		<text>Izdvojio sam se. Ponekad je potrebno odmoriti, jesti i proèitati èasopis... Trepa pregledati. A moraš nositi tonu opreme sa sobom. I koji je idiot rekao, da Zona nije za šene? Impotentna budala, taèno tako...</text>
 	</string>
+	<string id="village_ghost_secret_name">
+		<!-- ghost box - aleks1970 -->
+		<text>Skriveno mjesto Duha</text>
+	</string>
+	<string id="village_ghost_secret_descr">
+		<text>Ostaviæu ovdje moje specialno odelo sa nadom, da ga nitko neæe naæi prije nego što se vraèam na SEVER...</text>
+	</string>
 	<string id="agr_secret_0000_descr">
 		<text>Za sad je naš tajni štek u tunelu. Nije loše mesto - retko ko zna za njega, a anomalije spreèavaju druge da im priðu.</text>
 	</string>
@@ -1729,4 +1736,4 @@
 	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 18:15 27.03.2015 -->
-<!-- Tekst usklaðen sa 109983 verzijom zakrpe - 23.03.2015 20:44 -sadd -->
+	<!-- Tekst usklaðen sa 109999 verzijom zakrpe - 24.12.2015 19:54 -sadd -->

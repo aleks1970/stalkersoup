@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-<string id="cit_doctor_task">
-<text>Skriveni štek u Pripjatu</text>
-</string>
-<string id="cit_doctor_task_0">
-<text>Pronađi Strelokov skriveni štek u Pripjatu</text>
-</string>
-<string id="cit_doctor_task_1">
-<text>Dođi do Hotela</text>
-</string>
-<string id="cit_doctor_task_2">
-<text>Pronađi sobu sa štekom</text>
-</string>
-<string id="cit_doctor_task_3">
-<text>Pretraži štek</text>
-</string>
-<!-- Preveo i prilagodio Flexerca---28.01.2015 --12.45 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 21:53 -sadd -->
-
+<!-- TB3D 1.0.9.9.9.8 -->
+	<string id="cit_doctor_task">
+		<text>Skriveni štek u Pripjatu</text>
+	</string>
+	<string id="cit_doctor_task_0">
+		<text>Pronađi Strelokov skriveni štek u Pripjatu</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>Dođi do Hotela</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>Pronađi sobu sa štekom</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>Pretraži štek</text>
+	</string>
+<!-- Preveo i prilagodio Flexerca - 28.01.2015 - 12.45 -->
+<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:23 -sadd -->

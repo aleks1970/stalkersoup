@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.5.0 The Doctor -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 The Doctor, something -->
+
 	<string id="escape_meceniy_start_0">
 		<text>Pozdrav, ko si ti?</text>
 	</string>
@@ -245,7 +245,7 @@
 		<text>Pa svašta mi prolazi kroz glavu a i pametniji sam nego što misliš. Ali dobro, daj mi detalje zadatka.</text>
 	</string>
 	<string id="doc_qeast_q_5">
-		<text>Pogrešio sam, mislio sam da nakon X-18 nisi u prijateljskim odnosima sa svojim mozgom. Ali sada vidim da su to posledice iz detinjstva. Ajmo na posao, Zadnji deo iz dokumenata koje si iz X-18 ispostavilo se da ipak nije zadnji deo ove slagalice. Al ije bacio svetlo na novi dokument i PDA u kojem su neki bitni podaci. Pronađi ih. Znam približnu lokaciju PDA. Traži u blizini krana ispred baze Borova. A dokument bi trebao biti u kontrolnoj sobi u Laboratoriju X-16. A potrebno je i još nešto, po jedan komad od ovih pancira:\n Vojni SKAT-10, Stalkerski Egzoskelet, Banditski Egzoskelet i Djutijevo Naučničko odelo.</text>
+		<text>Pogrešio sam, mislio sam da nakon X-18 nisi u prijateljskim odnosima sa svojim mozgom. Ali sada vidim da su to posledice iz detinjstva. Ajmo na posao, Zadnji deo iz dokumenata koje si iz X-18 ispostavilo se da ipak nije zadnji deo ove slagalice. Al ije bacio svetlo na novi dokument i PDA u kojem su neki bitni podaci. Pronađi ih. Znam približnu lokaciju PDA. Traži u blizini krana ispred baze Borova. A dokument bi trebao biti u kontrolnoj sobi u Laboratoriju X-16. A potrebno je i još nešto, po jedan komad od ovih pancira:\nVojni SKAT-10, Stalkerski Egzoskelet, Banditski Egzoskelet i Djutijevo Naučničko odelo.</text>
 	</string>
 	<string id="doc_qeast_q_6">
 		<text>Vidim ja da ti na moj račun povećavaš svoj asortiman! Prihvatam, ali će možda potrajati dok prikupim svu potrebnu opremu.</text>
@@ -395,7 +395,7 @@
 		<text>Misliš opravdan rizik koji ja trebam da podnesem? OK, potražiću tog vojnika i tu spravu.</text>
 	</string>
 	<string id="s_qeast_7">
-		<text>Cross(???), ajde muzi Veprove! Nemoj se igrati samnom, razumeš.</text>
+		<text>Krest, ajde muzi Veprove! Nemoj se igrati samnom, razumeš.</text>
 	</string>
 	<string id="s_qeast1_0">
 		<text>Pronašao sam ti teleporter, i ne radi, ali to već znaš. Izvoli.</text>
@@ -409,6 +409,5 @@
 	<string id="s_qeast1_3">
 		<text>Hvala, Obeleženi, evo ti nagrada. Aha, još nešto, ispod poklopca uređaja napisano je 'Prototip 2'. Znači da je prvi prototip još tu u Zoni. Ako ga nađeš, tvoj je. Sudeći po nekim oznakama, oba uređaja su napravljena u ATP, tamo bih ja počeo tražiti. Ima još jedan konkretniji dokaz, slušajući radio komunikacije lokalnih bandita, u očekivanju su vojne racije pa su sakrili nešto svog plena. Bilo bi dobro pogledati kontejnere smeća u ATP, siguran sam da ćeš naći nešto tamo.</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Flexerca - 05.02.2015 -13.45 -->
-<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:37 -sadd -->
+<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:33 -sadd -->

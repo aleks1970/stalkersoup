@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 added several from bind_det_arts for localization -->
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 added several from bind_det_arts for localization, removed "string_table" - aleks1970 -->
+
 	<!-- 10991.1 -->
 	<string id="nm_545x39_izomorf">
 		<text>"5.45x39-izomorf"</text>
@@ -300,7 +300,6 @@
 	<string id="enc_zone_artifact_simbion">
 		<text>Ovaj hipermodifikat artefakta je jedinstveni hibridni modifikat, dobijen spajanjem četiri artefakta i njihovom transmutacijom. Pomaže tako što blokira psi-emisije, ali sa druge strane, povećava osetljivost kože na deranje, također produžava krvarenje. Povrh svega, ovaj artefakt utiče na izdržljivost nosioca. Koristiti ga posebno kada napadaju psi- sposobni neprijatelji.</text>
 	</string>
-</string_table>
 	<!-- Modified by Coolkingeye -=- 15:13 24.06.2014 -->
 	<!-- Preveo i prilagodio Flexerca -=- 10:00 16.07.2014 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:56 -sadd -->

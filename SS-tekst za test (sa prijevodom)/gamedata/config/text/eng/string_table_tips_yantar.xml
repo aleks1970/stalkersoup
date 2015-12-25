@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
+<!-- TB3D 1.0.9.9.9.9 186char sms limit-->
 	<string id="general_ecolog_tip_1">
 		<text>Šta se dogodilo? Je li mrtav? Vraćaj se odmah!</text>
 	</string>
@@ -16,13 +16,22 @@
 		<text>-^-</text> <!-- text>Da bi uključili mašinu pritisnite ($$ACTION_USE$$)</text -->
 	</string>
 	<string id="yan_saharov_message">
-		<text>Odličan posao S.T.A.L.K.E.R.u ... uspeo si da pronađeš mašinu ... sada pronađi način i da je isključiš. Treba to da uradimo kako bismo bili u mogućnosti da je proučavamo kasnije, sa nadom da ćemo razumeti njenu svrhu ... Požuri!!!</text>
+		<text>Odličan posao S.T.A.L.K.E.R.u ... uspeo si da pronađeš mašinu ... sada pronađi način i da je isključiš.</text>
+	</string>
+	<string id="yan_saharov_message_p2">
+		<text>Treba to da uradimo kako bismo bili u mogućnosti da je proučavamo kasnije, sa nadom da ćemo razumeti njenu svrhu ... Požuri!!!</text>
 	</string>
 	<string id="yan_saharov_message_2">
-		<text>Slušaj, ovaj prototip te neće dugo štititi od snažnih Emisija. Očekivao sam ovo, pa tako svaki put kada se desi Emisija, aktivira se tajmer. Kada vreme istekne, prototip te više ne štiti, pa budi oprezan i pazi na vreme.</text>
+		<text>Slušaj, ovaj prototip te neće dugo štititi od snažnih Emisija. Očekivao sam ovo, pa tako svaki put kada se desi Emisija, aktivira se tajmer.</text>
+	</string>
+	<string id="yan_saharov_message_2_p2">
+		<text>Kada vreme istekne, prototip te više ne štiti, pa budi oprezan i pazi na vreme.</text>
 	</string>
 	<string id="yan_saharov_message_3">
-		<text>DA!!! .. uspeo si da isključiš .... bravo S.T.A.L.K.E.R.u ... moraš biti pažljiv ... nekoliko helikoptera je pristiglo, i oni nešto traže ... ili nekog. Mislim. Najbolje će biti da probaš da se iskradeš drugim putem u odnosu na onaj kojim si došao ... čekaćemo te ovde u laboratoriji .... još jednom .... odličan posao!!!</text>
+		<text>DA!!! .. uspeo si da isključiš .... bravo S.T.A.L.K.E.R.u ... moraš biti pažljiv ... nekoliko helikoptera je pristiglo, i oni nešto traže ... ili nekog.</text>
+	</string>
+	<string id="yan_saharov_message_3_p2">
+		<text>Mislim. Najbolje će biti da probaš da se iskradeš drugim putem u odnosu na onaj kojim si došao ... čekaćemo te ovde u laboratoriji .... još jednom .... odličan posao!!!</text>
 	</string>
 	<!-- Preveo i prilagodio Coolkingeye -=- 14:25 09.02.2015 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:14 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 17:57 - sadd -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
+<!-- TB3D 1.0.9.9.9.8 minor edits -->
 	<string id="esc_bandits_on_factory">
 		<text>Pobij Bandite u fabrici</text>
 	</string>
@@ -13,7 +13,7 @@
 		<text>Razgovaraj sa trgovcem</text>
 	</string>
 	<string id="esc_bandits_on_factory_3">
-		<text>Razgovaraj s Vukom </text>
+		<text>Razgovaraj s Vukom</text>
 	</string>
 	<string id="esc_blockpost_case_to_trader">
 		<text>Ukradi kofer iz Vojnog punkta</text>
@@ -31,7 +31,7 @@
 		<text>Zaštiti Kamp Početnika od Plaćenika</text>
 	</string>
 	<string id="esc_defend_lager_from_killers">
-		<text>Protect camp of beginners from mercenaries</text>
+		<text>Zaštiti Kamp Početnika od Plaćenika.</text>
 	</string>
 	<string id="esc_defend_lager_from_killers_0">
 		<text>Zaštiti Kamp Početnika od Plaćenika.</text>
@@ -55,7 +55,7 @@
 		<text>Pobij sve Bandite</text>
 	</string>
 	<string id="esc_dinamit_to_volk_3">
-		<text>Razgovaraj s Vukom </text>
+		<text>Razgovaraj s Vukom</text>
 	</string>
 	<string id="esc_help_wounded_from_raid">
 		<text>Saznaj nešto o Streloku od Lisca</text>
@@ -154,4 +154,4 @@
 		<text>Da bi ušli dublje u Zonu, potrebno je prvo da pređete stari železnički nasip. Jedini siguran prolaz čuva Vojska. Međutim, postoji mali tunel na levoj strani, početnici obično ide kroz njega. Tu će te čekati jedan od mojih dužnika.</text>
 	</string>
 	<!-- Preveo i prilagodio Coolkingeye -=- 13:35 09.02.2015 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:28 -sadd -->
+	<!-- Tekst usklađen sa 109983 verzijom zakrpe - 24.03.2015 23:10 -sadd -->

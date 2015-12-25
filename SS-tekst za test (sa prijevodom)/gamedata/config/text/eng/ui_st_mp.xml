@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<string_table>
+<!-- TB3D 1.0.9.9.9.8 -->
+
 	<string id="mp_art_destroyed">
 		<text>Artefakt je uništen</text>
 	</string>
@@ -402,6 +403,5 @@
 	<string id="mp_si_afbearer_cant_sprint">
 		<text>Nema sprinta sa artefaktom</text>
 	</string>
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 22:53 10.11.2014 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:55 -sadd -->
+<!-- Tekst usklađen sa 109998 verzijom zakrpe - 20.10.2015 16:26 - sadd -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.4.4 -->
+<!-- TB3D 1.0.9.9.9.9 186char sms limit-->
 	<string id="gar_actor_looser">
 		<text>Ti si obični klošar, Obeleženi. Potpuno bezvredan! Ne očekuj zahvalnost - nema ti se na čemu zahvaliti!</text>
 	</string>
@@ -27,5 +27,5 @@
 	<string id="tips_gar_hellcar_alarm">
 		<text>Ljudi, govori vam komandir Neutralne grupe. Potisnuli smo Bandite iz napuštenog parkirališta, ali očekujemo ponovni napad svakog momenta. Malo nas je, molim vas da nam pomognete, nećemo vam to zaboraviti.</text>
 	</string>
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:19 -sadd -->
 	<!-- Preveo i prilagodio Flexerca -=- 00:44 19.04.2015 -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 17:57 - sadd -->

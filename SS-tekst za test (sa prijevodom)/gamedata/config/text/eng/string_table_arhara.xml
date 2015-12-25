@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.4  dmx135 controller vice comptroller, doc message in pripyat removed dose_asses...,
+<!-- TB3D 1.0.9.9.9.8  dmx135 controller vice comptroller, doc message in pripyat removed dose_asses...,
  dip: gen/Astrol questline, The Doctor, \\n, cop_prip_msg1, line 981 - removed russian char. aleks1970,
- tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik -->
+ tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik, boatswain -->
 <string_table>
 	<string id="blow_phrase1">
 		<text>Pažnja! Približava se Emisija! Neka svi potraže sigurno utočište!</text>
@@ -169,7 +169,8 @@
 	<string id="data_downloaded">
 		<text>Snimljeni PDA podaci:</text>
 	</string>
-	<string id="mil_secret">
+<!-- <string id="mil_secret"> - Duplicated with the 119 line in to the "string_table_tasks_military.xml" file - aleks1970 -->
+	<string id="mil_secret_arhara">
 		<text>Vojna tajna:</text>
 	</string>
 	<string id="flame_tip1">
@@ -587,9 +588,9 @@
 	<string id="tex_esc_razvod">
 		<text>Sidorovič je poslao SMS i zahtev da se isplati stalker, koji je u maloj urušenoj kućici nasuprot farme. Treba mu dati 70,000! Trgovac obećava dobru naknadu za tu uslugu.</text>
 	</string>
-	<string id="tex_za_bablom">	<!-- sadd početak prevoda -->
+	<string id="tex_za_bablom">
 		<text>Gotovo je. Sada nazad do Sidoroviča vratiti novac i kamatu.</text>
-	</string>	<!-- sadd kraj prevoda -->
+	</string>
 	<string id="tex_kolmogor_say">
 		<text>Kolmogor traži svog brata. Postoje jesano dokazi da su ga odveli kažnjenici zajedno sa grupom zarobljenih stalkera, prema napuštenoj trgovini. Moram pomoći Kolmogoru.</text>
 	</string>
@@ -904,15 +905,7 @@
 	<string id="tex_neud_pomozch">
 		<text>Fang je pronašao Astrologa na nekoj drugoj lokaciji i sada me šalje tamo u zasedu.\nMoram se što prije vratiti do Fanga i pomoći mu u borbi protiv Astrologovih trupa.</text>
 	</string>
-	<string id="det_art_ultra_info">
-		<text>Detektor artefakata serija 'ULTRA'. Ovaj detektor je zadnji model lokalnog naučnika. Zahvaljujući nanotehnologiji, osetljivost detektora je povećana na 100 metara. Prisutnost artefakata označena je markerom na karti. Pored njihove lokacije, ovaj detektor određuje i vrstu artefakata, što ga čini najboljim od svih detektora za lov na artefakte. Aktivira se kada je u pištoljskom slotu.</text>
-	</string>
-	<string id="det_art_indy_info">
-		<text>Obični detektor artefakata. Uređaj je sposoban detektovati artefakte u radijusu od 50 metara, te obaveštava svog nosioca o prisustvu artefakta zvučnim signalom. Ne prikazuje lokaciju artefakta na karti. Aktivira se kada je u pištoljskom slotu.</text>
-	</string>
-	<string id="detektor_amorf_info">
-		<text>Detektor sposoban da detektuje objekte koji sadrže čestice strane energije i prikazuje ih na kartu u radijusu od 50 do 60 metara. Također obaveštava o prisustvu zvučnim signalom. Ima i mogućnost lociranja artefakata. Aktivira se kada je u pištoljskom slotu.</text>
-	</string>
+	<!-- moved string id: "det_art_ultra_info", "detektor_amorf_info" and "det_art_indy_info" in to the "dmx_mod_items.xml" file -aleks1970 -->
 	<string id="tex_podval_sarkofag">
 		<text>Moram naći mesto i pomoći Munji, ima korisne informacije. Nalazi se u nekoj vrsti kontrolnog centra sa puno hodnika.</text>
 	</string>
@@ -1055,9 +1048,6 @@
 		<text>Dakle, viši naučniče, nedavna preporuka:\nNa platformi iznad Mozga bi trebalo biti nekoliko modifikatora. Za nas - "lutke" nas više ne zanimaju. Nadalje, u vezi aktivacije teleportera - pogledajte dole, duž naponskih kablova. Moraćete skočiti sa platforme na kablove do teleportera. Savetujem vam da stavite svu moguću zaštitu koju imate. Dalje. Ne žurite prema teleporteru. Nakon što dođete do polovine kablova, okrenite se rezervoaru sa Mozgom i uništite samoisceljujuće zaštitno polje Mozga. Morate imati dobro oružje. Nakon toga možete ići do teleportera. Uništiti to polje je nužno za korištenje teleportera, inače će te umreti. Dva modifikatora bi trebao imati u svom rancu. Doći će te do samog Mozga. Trebala bi biti transformacija i modifikatori su neophodni za nas da prekinu uticaj PSI-zraka mozga. Dalje, aktivirajte teleporter da vas odvede na površinu."</text>
 	</string>
 	<string id="tex_starsh_say">
-		<text>Moram podići moral stalkerima jednom dobrom pljačkom. Moram pronaći stalkere koji će nadzirati kamp bandita i u pravom trenutku opljačkati im kamp. Verovatno se neće profitirati ništa posebno, ali moramo doneti: 20 konzervi goveđeg gulaša, 10 prvih pomoći, 5 flaša votke, 10 pakovanja municije za "Kalaša" i 2 skraćena AKM-a. Pitanje: je li to sve u kampu bandita? Onda moraš okupiti i dovesti sve preživele stalkere njihovim gostima.</text>
-	</string>
-	<string id="enc_rudiment_big">
 		<text>Mutirani ostatak grudne kosti. Dimenzije i težina značajno veće negu u svog prethodnika. Svojstva nepoznata. Nema nikakva uticaja na nosioca. Cena kod trgovaca je puno veća nego za originalnu kost. Preostaje ili ga prodati ili potražiti drugi deo recepta. A mogu li išta od toga?</text>
 	</string>
 	<string id="tex_dci_kontrik">
@@ -1094,5 +1084,5 @@
 		<text>Otvori sef ali ne dopusti da radiooperater umre.</text>
 	</string>
 </string_table>
-	<!-- Tekst usklađen sa 109994 verzijom zakrpe - 20.07.2015 17:54 -sadd --
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 19:40 -sadd -->
 	<!-- Preveo i prilagodio Flexerca -=- 08:35 15.07.2015 -->

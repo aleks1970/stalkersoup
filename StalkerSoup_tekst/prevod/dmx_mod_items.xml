@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 additional items, fixed typos, added 135 items, corrected text and strings aleks1970, det_art_super -->
+<!-- TB3D 1.0.9.9.9.9 additional items, fixed typos, added 135 items, corrected text and strings aleks1970, det_art_super -->
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 FOOD AND PROVISIONS 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
@@ -683,7 +683,7 @@ FOOD AND PROVISIONS
 <!--	<string id="det_artefact_indy">
 		<text>Detektor artefakata "Svarog"</text>
 	</string>
-	<string id="enc_det_art_ultra_info">
+	<string id="det_art_indy_info">
 		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora.</text>
 	</string> -->
 	<string id="det_art_ultra_super">
@@ -1083,4 +1083,4 @@ FOOD AND PROVISIONS
 
 </string_table>
 	<!-- Preveo i prilagodio Flexerca -=- 12:43 12.08.2014 -->
-	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:34 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 20:08 -sadd -->

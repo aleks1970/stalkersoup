@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.2 additional items, fixed typos, added 135 items, corrected text and strings aleks1970
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; DMX 1.3.5
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
+<!-- TB3D 1.0.9.9.9.9 additional items, fixed typos, added 135 items, corrected text and strings aleks1970, det_art_super -->
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 FOOD AND PROVISIONS 
--->
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+
 <string_table>
-	<!--dmx135-->
 	<string id="medic_overdose">
 		<text>Predoziranje!</text>
 	</string>
@@ -20,7 +17,6 @@ FOOD AND PROVISIONS
 	<string id="medic_not_finished">
 		<text>Prvi medicinski tretman još nije spreman!</text>
 	</string>
-	<!--dmx135 end-->
 	<string id="pivo">
 		<text>Chernigov pivo</text>
 	</string>
@@ -142,7 +138,7 @@ FOOD AND PROVISIONS
 		<text>2009 u piću "Red Bull Cola" uvezenom iz Austrije, pronađeno je da sadrži između 0.1 - 0.3 mikrograma kokaina po litri, izjavili su zvaničnici. Utvrđeno je da je to bilo zbog lansiranja marketinške kampanje sljedeći dan. Uvoz kokaina u nekim stranim zemljama je kažnjivo smrću ili doživotnim zatvorom. U Njemačkoj, 11 od 16 pokrajina je već zabranila pića od 25 maja 2009.</text>
 	</string>
 	<string id="energy_non_stop_lite">
-		<text>Non-Stop lite</text>
+		<text>Non-Stop 'lite'</text>
 	</string>
 	<string id="enc_equipment_energy_non_stop_lite">
 		<text>U suštini isti kao i obični "Non-Stop", samo bez dodatka šećera... Nije baš efektivan.</text>
@@ -290,7 +286,7 @@ FOOD AND PROVISIONS
 		<text>Ručna mina</text>
 	</string>
 	<string id="mine_1_description">
-		<text>  Radijus uništenja: 1 metar\n  Snaga: 20\n  Vreme detonacije: 10 sekundi\n Ručna mina koja se koristi u vojne svrhe za odbranu perimetra.</text>
+		<text>Radijus uništenja: 1 metar\nSnaga: 20\nVreme detonacije: 10 sekundi\nRučna mina koja se koristi u vojne svrhe za odbranu perimetra.</text>
 	</string>
 	<string id="mine_2_name">
 		<text>"Poboljšana" ručna mina</text>
@@ -299,7 +295,7 @@ FOOD AND PROVISIONS
 		<text>Ručna mina</text>
 	</string>
 	<string id="mine_2_description">
-		<text>  Radijus uništenja: 3 metra\n  Snaga: 35\n  Vreme detonacije: 10 sekundi\n Unapređena verzija Vojne mine sa većim radijus uništenja, te većom sposobnošću za nanošenje težih telesnih povreda.</text>
+		<text>Radijus uništenja: 3 metra\nSnaga: 35\nVreme detonacije: 10 sekundi\nUnapređena verzija Vojne mine sa većim radijus uništenja, te većom sposobnošću za nanošenje težih telesnih povreda.</text>
 	</string>
 	<string id="mine_3_name">
 		<text>Električna mina</text>
@@ -308,7 +304,7 @@ FOOD AND PROVISIONS
 		<text>Električna mina</text>
 	</string>
 	<string id="mine_3_description">
-		<text>  Radijus uništenja: 6 metara\n  Snaga: 60\n  Vreme detonacije: 10 sekundi\n Izrađena od strana vojnih Naučnika. Ova eksplozivna naprava žrtve onesposobljuje električnim pražnjenjem.</text>
+		<text>Radijus uništenja: 6 metara\nSnaga: 60\nVreme detonacije: 10 sekundi\nIzrađena od strana vojnih Naučnika. Ova eksplozivna naprava žrtve onesposobljuje električnim pražnjenjem.</text>
 	</string>
 	<string id="enc_guitar_name">
 		<text>Akustična gitara</text>
@@ -480,7 +476,7 @@ FOOD AND PROVISIONS
 		<text>Vojna Skladišta</text>
 	</string>
 	<string id="enc_dmx_military_map">
-		<text>Stara karta Vojnih Skladišta. očigledno nastale pre druge eksplozije u Černobilu. Na karti, na nekoliko mesta, ispisane su neke poruke bez imena.\n\n"Za pregled staviti u slot za pištolj"</text>
+		<text>Stara karta Vojnih Skladišta. očigledno nastale pre druge eksplozije u Černobilu. Na karti, na nekoliko mesta, ispisane su neke poruke bez imena.\n \n"Za pregled staviti u slot za pištolj"</text>
 	</string>
 	<string id="fake_cube">
 		<text>Kocka Duša</text>
@@ -495,7 +491,7 @@ FOOD AND PROVISIONS
 		<text>Istočan Pripjat</text>
 	</string>
 	<string id="enc_dmx_pripyat_map">
-		<text>Na karti je označeno mesto za evakuaciju osoblja iz Laboratorija X-8. Oznaka je stavljena na zgradu "Jubilej"(?????????).\nNa poleđini se može videti napola izbrisani unos: "...za brzo otključavanje pre evakuacije, kod je promenjen samo na jedan broj - 1."\n\n"Za pregled staviti u slot za pištolj"</text>
+		<text>Na karti je označeno mesto za evakuaciju osoblja iz Laboratorija X-8. Oznaka je stavljena na zgradu "Jubilej"(?????????).\nNa poleđini se može videti napola izbrisani unos: "...za brzo otključavanje pre evakuacije, kod je promenjen samo na jedan broj - 1."\n \n"Za pregled staviti u slot za pištolj"</text>
 	</string>
 	<string id="mudrec_instruments">
 		<text>Alat za popravke</text>
@@ -514,12 +510,6 @@ FOOD AND PROVISIONS
 	</string>
 	<string id="enc_item_certificate">
 		<text>Dokument koji dokazuje da je njen vlasnik legalno u Zoni.</text>
-	</string>
-	<string id="det_art_super">
-		<text>"Svarog" detektor artefakata</text>
-	</string>
-	<string id="det_art_super_info">
-		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora. "Svarog" - staroslavenski bog neba, otac Sunca i vatre...</text>
 	</string>
 	<string id="bipsizon_ogse">
 		<text>"Psihodelin"</text>
@@ -568,6 +558,10 @@ FOOD AND PROVISIONS
 	<string id="bolt_descr">
 		<text>Šaraf 32x100. Stalkerov najbolji prijatelj.</text>
 	</string>
+<!--	Duplicated from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="bolt_descr">
+		<text>Šaraf 32x100. Stalkerov najbolji prijatelj.</text>
+	</string> -->
 	<string id="rover_bot_stancion">
 		<text>Stanica za mobilne robote</text>
 	</string>
@@ -581,6 +575,12 @@ FOOD AND PROVISIONS
 	<string id="enc_cigara">
 		<text>Kubanske cigare su motane od duvanskih listova koji se mogu naći po celoj Kubi. Punjenje, vezivo i omotač mogu poticati iz različitih delova ostrva. Sva proizvodnja cigara na Kubi je pod kontrolom kubanske vlade i svaka vrsta može biti napravljena u samo nekoliko različitih fabrika. Kubanski motači cigara ili "torcedores", su potvrđeni stručnjaci predstavljaju najbolje motače cigara na svetu. Torcedoresi su jako poštovani u kubanskom društvu i putuju širom sveta pokazujući svoju veštinu. Jako su retke u Zoni... I mogu vrediti mnogo rubalja kod pravog kupca...</text>
 	</string>
+<!--	<string id="cigara">
+		<text>Cuba Cigar</text>
+	</string>
+	<string id="enc_cigara">
+		<text>This Cuban cigar. In the Zone gets smuggled. According to this, local merchants to sell cigars can be bought and they can not be the same. Tobacco natural, strength and flavor excellent. Complementing the picture beautiful form of cigars, which makes smoking a real pleasure when you consider that we are in the Zone.</text>
+	</string> -->
 	<string id="fake_cigara">
 		<text>Ovo treba popraviti...</text>
 	</string>
@@ -593,6 +593,12 @@ FOOD AND PROVISIONS
 	<string id="enc_sandwich">
 		<text>Obični sendvič sa bilo kakvim dostupnim mesom ili kobasicom. Kruh se ne čini previše ustajao... Zadovoljiće glad na neko vreme, bar dok nešto hranjivije ne naleti...</text>
 	</string>
+<!--	<string id="sandwich">
+		<text>Sandwich</text>
+	</string>
+	<string id="enc_sandwich">
+		<text>The most common sausage sandwich. Prepared in advance, so that you can eat on the go, without a knife uncovered and not digging in his backpack in search of food ingredients.</text>
+	</string> -->
 	<string id="beer_a">
 		<text>Pivo iz Zone</text>
 	</string>
@@ -602,6 +608,12 @@ FOOD AND PROVISIONS
 	<string id="enc_beer_a">
 		<text>Očigledno da je pivo nekako napravljeno tu u Zoni. Niko ne zna gde, ali se niko ni ne žali zbog toga...</text>
 	</string>
+<!--	<string id="beer_a">
+		<text>Beer</text>
+	</string>
+	<string id="enc_beer_a">
+		<text>Beer of local production. Composition of the course has been written. A good way to get drunk to the blue tomato.</text>
+	</string> -->
 	<string id="flaska">
 		<text>Ćutura</text>
 	</string>
@@ -611,6 +623,12 @@ FOOD AND PROVISIONS
 	<string id="enc_flaska">
 		<text>Ćutura napunjena sa čistom, izvorskom vodom... Verovatno napunjena sa Kristalno vodom, koja se može naći širom Zone...</text>
 	</string>
+<!--	<string id="flaska">
+		<text>Flask</text>
+	</string>
+	<string id="enc_flaska">
+		<text>Flask, filled to the edge of water from a pure spring. Cleaner water in these places do not find.</text>
+	</string> -->
 	<string id="sweetness">
 		<text>"Alenka" čokolada</text>
 	</string>
@@ -620,6 +638,12 @@ FOOD AND PROVISIONS
 	<string id="enc_sweetness">
 		<text>Proizvedena 1966 u moskovskoj fabrici Crveni Oktobar po naredbi Kremlja, da ne napravi nove brend mlečne čokolade, "Alenka" postaje simbol dobrih starih vremena... Omiljena je poslastica nekoliko generacija. Sastojci: šećer, punomasno mleko u prahu, kakao ulje, mleveni kakao, emulgator lecitin E322...</text>
 	</string>
+<!--	<string id="sweetness">
+		<text>Bar of chocolate</text>
+	</string>
+	<string id="enc_sweetness">
+		<text>A delicious chocolate bar. Soybeans in excess, the presence of natural cocoa is doubtful. Well satisfies hunger and positive effect on brain activity.</text>
+	</string> -->
 	<string id="box_cigara">
 		<text>Kutija cigara</text>
 	</string>
@@ -629,6 +653,12 @@ FOOD AND PROVISIONS
 	<string id="enc_box_cigara">
 		<text>Kutija kubanskih cigara... Vrede jako puno novca na ovakvom mestu!!!</text>
 	</string>
+<!--	<string id="box_cigara">
+		<text>Cigar Box</text>
+	</string>
+	<string id="enc_box_cigara">
+		<text>A box with Cuban cigars. Very expensive thing.</text>
+	</string> -->
 	<string id="balalaika_a">
 		<text>Balalajka</text>
 	</string>
@@ -638,33 +668,63 @@ FOOD AND PROVISIONS
 	<string id="enc_balalaika_a">
 		<text>Žičani instrument ruskog porekla, sa karakterističnim trouglastim telom i sa tri žice. U Balalajkinu porodicu spadaju: prima balalajka, sekunda balalajka, alto balalajka, bas balalajka i kontrabas balalajka. Najranije pominjanje izraza "balalajka" datira još od 1688. Izraz postaje široko u upotrebi, naročito u Ukrajinskim jezičnim dokumentima iz 1717-1732. Prema jednoj od teorija, izraz je posuđen i ruskom, gde se prvi put pojavljuje u poemi V. Maikova "Elisej" 1771.</text>
 	</string>
+<!--	<string id="balalaika_a">
+		<text>Balalaika</text>
+	</string>
+	<string id="enc_balalaika_a">
+		<text>Normal balalaika. A wonderful Russian folk instrument. In the Zone, too, lacks the masters of playing.</text>
+	</string> -->
 	<string id="det_artefact_indy">
 		<text>Detektor artefakata "Odjek"</text>
 	</string>
 	<string id="det_art_indy_info">
 		<text>Odjek detektor su izradili naučnici iz Zone. Bio je to prvi model uošte u Zoni. Radijus detekcije je ograničen na 40 metara, a prisutnost artefakata javlja samo jednostavnim zvukom. Daljni razvoj ovog modela doveo je do daleko efikasnijih uređaja, koje je jednako teško nabaviti i unutar i van Zone.</text>
 	</string>
-	<string id="det_artefact_super">
+<!--	<string id="det_artefact_indy">
 		<text>Detektor artefakata "Svarog"</text>
 	</string>
-	<string id="det_artefact_super_s">
+	<string id="det_art_indy_info">
+		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora.</text>
+	</string> -->
+	<string id="det_art_ultra_super">
+		<text>Detektor artefakata "Svarog"</text>
+	</string>
+	<string id="det_art_ultra_super_s">
 		<text>"Svarog"</text>
 	</string>
-	<string id="det_art_ultra_info">
+	<string id="enc_det_art_ultra_info">
 		<text>Detektor artefakata iz serije "Svarog". Ovaj detektor je najnoviji model iz vodećih istraživačkih instituta. Zahvaljujući nanotehnologiji, osetljivost detektora se povećava i do 1,5 km. Prisutnost artefakata prikazuje markere na karti terena. Uz njihovu lokaciju, detektor detektira vrste artefakata, što ovaj uređaj čini najboljim od svih serija detektora.</text>
 	</string>
+<!-- Duplicated string id's from "string_table_arhara.xml" and the "string_table_enc_equipment.xml" files.
+ TB. you should choose only one string id and delete the rest - aleks1970 -->
+	<!-- before was "det_art_ultra_info" id(which was also duplicated), but now have new string to match "items.ltx" file - aleks1970 -->
+<!--	<string id="enc_det_art_ultra_info">
+		<text>Detektor artefakata serija 'ULTRA'. Ovaj detektor je zadnji model lokalnog naučnika. Zahvaljujući nanotehnologiji, osetljivost detektora je povećana na 100 metara. Prisutnost artefakata označena je markerom na karti. Pored njihove lokacije, ovaj detektor određuje i vrstu artefakata, što ga čini najboljim od svih detektora za lov na artefakte. Aktivira se kada je u pištoljskom slotu.</text>
+	</string>
+	<string id="enc_det_art_ultra_info">
+		<text>This is an improved version of the detector artifacts, past upgrades among scientists. Added map of the area with the output label on it. Range increased to 70 meters. In connection with the reasonable price and improved performance, its use is considered preferable.</text>
+	</string> -->
 	<string id="detektor_amorf">
 		<text>Isomorfni detektor</text>
 	</string>
 	<string id="detektor_amorf_s">
 		<text>Isomorfni detektor</text>
 	</string>
+	<string id="detektor_amorf_info">
+		<text>Detektor sposoban da detektuje objekte koji sadrže čestice strane energije i prikazuje ih na kartu u radijusu od 50 do 60 metara. Također obaveštava o prisustvu zvučnim signalom. Ima i mogućnost lociranja artefakata. Aktivira se kada je u pištoljskom slotu.</text>
+	</string>
+<!--	<string id="detektor_amorf">
+		<text>The detector is isomorphic</text>
+	</string> -->
 	<string id="detector_elite_john">
 		<text>Hologramski detektor</text>
 	</string>
 	<string id="detector_elite_john_s">
 		<text>Hologramski detektor</text>
 	</string>
+<!--	<string id="detector_elite_john">
+		<text>Detector Holograms</text>
+	</string> -->
 	<!-- DOCUMENTS AKIM -->
 	<string id="doc_garbage">
 		<text>Stari dokumenti iz Deponije</text>
@@ -675,6 +735,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_garbage">
 		<text>Dokumenti pronađeni u Deponiji. Neka vrsta naučničkih formula.... Napisane na nekom nerazumljivom jeziku. Po izgledu može biti obična škrabotina nekog luđaka...</text>
 	</string>
+<!--	<string id="doc_garbage">
+		<text>Old paper from the landfill</text>
+	</string>
+	<string id="enc_doc_garbage">
+		<text>Documents found in the Garbage. Formula, write a foreign language. By type - ravings of a madman...</text>
+	</string> -->
 	<string id="doc_agro">
 		<text>Stari dokumenti iz Agroproma</text>
 	</string>
@@ -684,6 +750,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_agro">
 		<text>Gomila papira pronađena u katakombama ispod Agroproma. Neke vrste formula napisane na nepoznatom jeziku. Baš čudno...</text>
 	</string>
+<!--	<string id="doc_agro">
+		<text>Old paper with agricultural industry</text>
+	</string>
+	<string id="enc_doc_agro">
+		<text>A stack of documents found in the catacombs of agricultural industry. Formula, write a foreign language. By type - not very much like the previous...</text>
+	</string> -->
 	<string id="doc_x18_1">
 		<text>Stari dokument - I deo</text>
 	</string>
@@ -693,6 +765,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_x18_1">
 		<text>Dokument pronađen u Mračnoj Dolini. Izgleda da je samo prvi deo nečeg puno većeg...</text>
 	</string>
+<!--	<string id="doc_x18_1">
+		<text>The old document. Part I</text>
+	</string>
+	<string id="enc_doc_x18_1">
+		<text>Documents found in Dark Valley. By all appearances this is the first part.</text>
+	</string> -->
 	<string id="doc_x18_2">
 		<text>Stari dokument - II deo</text>
 	</string>
@@ -702,6 +780,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_x18_2">
 		<text>Drugi deo iz serije dokumenata, pronađen u Laboratoriju X-18...</text>
 	</string>
+<!--	<string id="doc_x18_2">
+		<text>The old document. Part II</text>
+	</string>
+	<string id="enc_doc_x18_2">
+		<text>The second part doumentov found in the laboratory X-18.</text>
+	</string> -->
 	<string id="doc_x18_3">
 		<text>Stari dokument - III deo</text>
 	</string>
@@ -711,6 +795,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_x18_3">
 		<text>Treći deo iz serije dokumenata, pronađen u Laboratoriju X-18...</text>
 	</string>
+<!--	<string id="doc_x18_3">
+		<text>The old document. Part III</text>
+	</string>
+	<string id="enc_doc_x18_3">
+		<text>The third part doumentov found in the laboratory X-18.</text>
+	</string> -->
 	<string id="doc_x18_4">
 		<text>Stari dokument - IV deo</text>
 	</string>
@@ -720,6 +810,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_x18_4">
 		<text>Četvrti deo iz serije dokumenata, pronađen u Laboratoriju X-18...</text>
 	</string>
+<!--	<string id="doc_x18_4">
+		<text>The old document. Part IV</text>
+	</string>
+	<string id="enc_doc_x18_4">
+		<text>Last quarter of doumentov found in the laboratory X-18.</text>
+	</string> -->
 	<string id="doc_x16">
 		<text>Stari dokument iz Laboratorija X-16</text>
 	</string>
@@ -729,6 +825,12 @@ FOOD AND PROVISIONS
 	<string id="enc_doc_x16">
 		<text>Dokumenti pronađeni unutar Laboratorija X-16. Niz naučnih formula napisan na nepoznatom jeziku koji ne razumem. Očito je ovo poslednji deo iz serije dokumenata koji čine neku vrstu izveštaja o tajnim eksperimentima u Zoni... Potpisao ga je neki "Benjamin Linus" iz Darma grupacije... Šta znači ovo?!.... I ko ili što je ta Darma grupacija na koju nailazim posvuda!!?</text>
 	</string>
+<!--	<string id="doc_x16">
+		<text>Old document from the X-16</text>
+	</string>
+	<string id="enc_doc_x16">
+		<text>Documents found in the laboratory X-16. Formula, write a foreign language. Apparently this is the last part of the documents found.</text>
+	</string> -->
 	<string id="pda_info">
 		<text>Pokvareni PDA</text>
 	</string>
@@ -738,97 +840,247 @@ FOOD AND PROVISIONS
 	<string id="enc_pda_info">
 		<text>Obični PDA, kojih u zoni ima monogo. Osim što ne radi i što je izgreban, čini se da njegov vlasnik i nije bio baš pažljiv s njim. Ne može se upaliti jer mu je polomljen ekran. Ni kartice ne može očitati. Ma goni ovo.</text>
 	</string>
+<!--	<string id="pda_info">
+		<text>Broken PDA</text>
+	</string>
+	<string id="enc_pda_info">
+		<text>A typical PDA, which many in the Zone. Besides - a non-working and bruised. It is evident that the former owner was with him not very frugal. Insert a PDA can not be due to a broken screen. Flash card no. In general, nothing can fuck.</text>
+	</string> -->
 	<string id="hand_teleporter_arhara">
 		<text>Neispravni ručni teleporter</text>
 	</string>
 	<string id="hand_teleporter_arhara_s">
 		<text>Neispravni teleporter</text>
 	</string>
+<!--	<string id="hand_teleporter_arhara">
+		<text>Faulty manual teleportator</text>
+	</string> -->
 	<string id="hand_teleporter">
 		<text>Ručni teleporter</text>
 	</string>
 	<string id="hand_teleporter_s">
 		<text>Ručni teleporter</text>
 	</string>
-	<!---Documents on the Hood -->
+<!--	<string id="hand_teleporter">
+		<text>Hand teleportator</text>
+	</string> -->
+	<!-- Documents on the Hood -->
 	<string id="bloknot_pantera">
 		<text>Panterova beležnica</text>
+	</string>
+	<string id="bloknot_pantera_s">
+		<text>P. Beležnica</text>
 	</string>
 	<string id="enc_equipment_bloknot_pantera">
 		<text>Panterova lična beležnica. Sadrži nekoliko ne jasnih izraza, i neki kod: 25190456... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="bloknot_pantera">
+		<text>Panthers Notebook</text>
+	</string>
+	<string id="enc_equipment_bloknot_pantera">
+		<text>Personal notebook Panthers. It was written a few sentences and some code: 25,190,456. To view a document, insert in pistol slot.</text>
+	</string> -->
 	<string id="dosye_zvez">
+		<text>Astrologov dosije</text>
+	</string>
+	<string id="dosye_zvez_s">
 		<text>Astrologov dosije</text>
 	</string>
 	<string id="enc_equipment_dosye_zvez">
 		<text>Dosije sadrži informacije o Astrologu... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="dosye_zvez">
+		<text>Astrologer Profile</text>
+	</string>
+	<string id="enc_equipment_dosye_zvez">
+		<text>Quick profile on Astrologer. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="foto_kukla">
 		<text>Fotografija dečije lutke</text>
+	</string>
+	<string id="foto_kukla_s">
+		<text>Fotografija</text>
 	</string>
 	<string id="enc_equipment_foto_kukla">
 		<text>Stara fotografija dečije lutke... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--		Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="foto_kukla">
+		<text>Photo Doll</text>
+	</string>
+	<string id="enc_equipment_foto_kukla">
+		<text>Old photo normal infant dolls. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="pilot_zapiska">
 		<text>Pismo Pilota</text>
+	</string>
+	<string id="pilot_zapiska_s">
+		<text>'Pismo'</text>
 	</string>
 	<string id="enc_equipment_pilot_zapiska">
 		<text>Pismo pilota helikoptera...koje sadrži neke jako važne informacije... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="pilot_zapiska">
+		<text>Letter to the pilot</text>
+	</string>
+	<string id="enc_equipment_pilot_zapiska">
+		<text>Letter from a helicopter pilot with important information. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="foto_chaes_truba">
 		<text>Fotografija helikoptera</text>
+	</string>
+	<string id="foto_chaes_truba_s">
+		<text>Fotografija</text>
 	</string>
 	<string id="enc_equipment_foto_chaes_truba">
 		<text>Fotografija spaljenog helikoptera koju je napravio Pilot. Na njoj, vidi se velika cev uzduž spaljenog helikpotera... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="foto_chaes_truba">
+		<text>Photo Driver</text>
+	</string>
+	<string id="enc_equipment_foto_chaes_truba">
+		<text>Photo taken a helicopter pilot. It is visible to a large pipe with the burning helicopter. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="foto_aver_mono">
+		<text>Fotografija grupe</text>
+	</string>
+	<string id="foto_aver_mono_s">
 		<text>Fotografija grupe</text>
 	</string>
 	<string id="enc_equipment_foto_aver_mono">
 		<text>Fotografija grupe koja je spalila helikopter... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="foto_aver_mono">
+		<text>Photo of</text>
+	</string>
+	<string id="enc_equipment_foto_aver_mono">
+		<text>Group photo, fired on the helicopter. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="foto_aver_zvezd">
 		<text>Fotografija vođe grupe</text>
+	</string>
+	<string id="foto_aver_zvezd_s">
+		<text>Fotografija vođe</text>
 	</string>
 	<string id="enc_equipment_foto_aver_zvezd">
 		<text>Fotografija vođe grupe koja je spalila helikopter ... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="foto_aver_zvezd">
+		<text>Photos of the leader</text>
+	</string>
+	<string id="enc_equipment_foto_aver_zvezd">
+		<text>Photos of the leader who fired on the helicopter. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="chaes2_karta_kluk">
 		<text>Fotografija NEP</text>
+	</string>
+	<string id="chaes2_karta_kluk_s">
+		<text>NEP...</text>
 	</string>
 	<string id="enc_equipment_chaes2_karta_kluk">
 		<text>Fotografija severne strane NEP Černobil. Oznaka na noj verovatno označava put za južnu stranu NEP... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="chaes2_karta_kluk">
+		<text>Chernobyl Photo</text>
+	</string>
+	<string id="enc_equipment_chaes2_karta_kluk">
+		<text>Photo northern region of Chernobyl. It marked a rough passage on the other - the south side of the Chernobyl NPP. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="kreditka">
 		<text>Kreditna kartica</text>
+	</string>
+	<string id="kreditka_s">
+		<text>kartica</text>
 	</string>
 	<string id="enc_equipment_kreditka">
 		<text>Kreditna kartica izdana od američke banke sa 5000,000 dolara limita na njoj!!! ... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="kreditka">
+		<text>Credit Card</text>
+	</string>
+	<string id="enc_equipment_kreditka">
+		<text>Credit Card Bank of America in denominations 5 mil. USD. To view the credit card insert in pistol slot.</text>
+	</string> -->
 	<string id="razved_karta">
+		<text>Komadi karte</text>
+	</string>
+	<string id="razved_karta_s">
 		<text>Komadi karte</text>
 	</string>
 	<string id="enc_equipment_razved_karta">
 		<text>Stari ostaci karte koji sadrže upute ili neke vrste koordinata... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="razved_karta">
+		<text>Scrap maps</text>
+	</string>
+	<string id="enc_equipment_razved_karta">
+		<text>Old scrap card with the coordinates of the transition. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="karta_peschera">
 		<text>Karta Pećine</text>
+	</string>
+	<string id="karta_peschera_s">
+		<text>Karta</text>
 	</string>
 	<string id="enc_equipment_karta_peschera">
 		<text>Stara karta pećina... Neko je našvrljao neke moguće smerove na nju... Teško je odgonetnuti... Možda izlaz odavde?! ... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="karta_peschera">
+		<text>Map of Cave</text>
+	</string>
+	<string id="enc_equipment_karta_peschera">
+		<text>An old map of the Cave. It shows all the moves and tunnels. There's also a label with the outputs of the Cave. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="recipi_bpb">
+		<text>Stalkerska beleška</text>
+	</string>
+	<string id="recipi_bpb_s">
 		<text>Stalkerska beleška</text>
 	</string>
 	<string id="enc_equipment_recipi_bpb">
 		<text>Beleška nepoznatog stalkera... Izgleda da su tu informacije o modifikaciji nekih artefakata!? ...zvuči interesantno... (za pregled staviti u prvi slot):</text>
 	</string>
+<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970
+	<string id="recipi_bpb">
+		<text>Note stalker</text>
+	</string>
+	<string id="enc_equipment_recipi_bpb">
+		<text>Note an unknown stalker. There is information on the modification of the artifacts. Insert in Pistol slot to view.</text>
+	</string> -->
 	<string id="stukach_book">
 		<text>Informantova (Doušnikova) beležnica</text>
+	</string>
+	<string id="stukach_book_s">
+		<text>Doušnikova beležnica</text>
 	</string>
 	<string id="stukach_book_desc">
 		<text>Beležnica Fridomovog doušnika. Sadrži informacije o modifikaciji artefakata... (za pregled staviti u prvi slot):</text>
 	</string>
-	<!-- Preveo i prilagodio Flexerca -=- 12:43 12.08.2014 -->
+	<!-- from the "string_table_enc_equipment" file - aleks1970
+		<string id="stukach_book">
+		<text>Notebook informer</text>
+	</string>
+	<string id="stukach_book_s">
+		<text>Notebook informer</text>
+	</string>
+	<string id="stukach_book_desc">
+		<text>Notebook informer group of Liberty. There is information about the new artmod. Insert in Pistol slot to view.</text>
+	</string> -->
+	<!-- from the "sak_strings" file - aleks1970
+		<string id="stukach_book_desc">
+		<text>To view: insert the Laptop into the first slot.\nPavliks laptop. Besides some boring financial records, it contains a recipe for 'Artpreobrazovaniya'.</text>
+	</string> -->
+
 </string_table>
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:37 -sadd -->
+	<!-- Preveo i prilagodio Flexerca -=- 12:43 12.08.2014 -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 20:08 -sadd -->

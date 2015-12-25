@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.7 Names and hints for map positions aleks1970, final bios -->
+<!-- TB3D 1.0.9.9.9.9 Names and hints for map positions aleks1970, final bios, volk, lehavre, canine to Fang, exp_stalker_known_bio -->
 <string_table>
 	<string id="Akim_name_gameplay">
 		<text>Akim</text>
@@ -164,7 +164,7 @@
 		<text>Prapor</text>
 	</string>
 	<string id="Miser_name_gameplay">
-		<text>Cicija</text>
+		<text>Škrti</text>
 	</string>
 	<string id="Max_name_gameplay">
 		<text>Maks</text>
@@ -173,7 +173,7 @@
 		<text>Fan</text>
 	</string>
 	<string id="Swamp_Doctor_name_gameplay">
-		<text>Blatni Doctor </text>
+		<text>Blatni Doctor</text>
 	</string>
 	<string id="Wolf_name_gameplay">
 		<text>Vuk</text>
@@ -206,7 +206,7 @@
 		<text>Krtica</text>
 	</string>
 	<string id="Skinflint_name_gameplay">
-		<text>Cicija</text>
+		<text>Škrti</text>
 	</string>
 	<string id="Deserter_name_gameplay">
 		<text>Dezerter</text>
@@ -283,6 +283,10 @@
 	<string id="ZVER_name_gameplay">
 		<text>ZVER</text>
 	</string>
+<!--	Duplicated: "ZVER_name_gameplay" is the correct string id - aleks1970
+	<string id="Zver_name_gameplay">
+		<text>Zver</text>
+	</string> -->
 	<string id="Robbers_name_gameplay">
 		<text>Pljačkaši</text>
 	</string>
@@ -892,9 +896,6 @@
 	<string id="Denis_name_gameplay">
 		<text>Denis</text>
 	</string>
-	<string id="Zver_name_gameplay">
-		<text>Zver</text>
-	</string>
 	<string id="Gavr_name_gameplay">
 		<text>Gavra</text>
 	</string>
@@ -1009,16 +1010,16 @@
 	</string>
 	<!-- Encyclopedia infos aleks1970 -->
 	<string id="Groza_TTX_encyclopedia_gameplay">
-		<text>Groza\n\n TTX:\nDomet - 600M\nKapacitet okvira: 20 metaka</text>
+		<text>Groza\n \nTTX:\nDomet - 600M\nKapacitet okvira: 20 metaka</text>
 	</string>
 	<string id="SVU_Sniper_rifle_encyclopedia_gameplay">
-		<text>SVU: Snajperska puška\n\n TTX:\nDomet - 2000M\nKapacitet okvira: 10 metaka</text>
+		<text>SVU: Snajperska puška\n \nTTX:\nDomet - 2000M\nKapacitet okvira: 10 metaka</text>
 	</string>
 	<string id="PM_Pistolet_Makarova_encyclopedia_gameplay">
-		<text>PM: Pištolj Makarov\n\n TTX:\nRange - 100M\nKapacitet okvira: 7 metaka</text>
+		<text>PM: Pištolj Makarov\n \nTTX:\nRange - 100M\nKapacitet okvira: 7 metaka</text>
 	</string>
 	<string id="Zombies_are_very_angry_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\nnjihove ruke i čeljusti su moćne.</text>
 	</string>
 	<string id="Pseudo_dogs_is_evil_encyclopedia_gameplay">
 		<text>Pseudo psi su vrlo zli\npolu mrtvi psi sa ogromnim\nvilicam :)</text>
@@ -1027,13 +1028,13 @@
 		<text>Možeš ručno markirati tačke na mapi kako bi označio neko mesto</text>
 	</string>
 	<string id="Zombies_are_very_angry_2_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\nnjihove ruke i čeljusti su moćne.</text>
 	</string>
 	<string id="Zombies_are_very_angry_3_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\nnjihove ruke i čeljusti su moćne.</text>
 	</string>
 	<string id="Zombies_are_very_angry_4_encyclopedia_gameplay">
-		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\n njihove ruke i čeljusti su moćne.</text>
+		<text>Zombiji su vrlo besna i gladna\nstvorenja. Kreću se sporo ali\nnjihove ruke i čeljusti su moćne.</text>
 	</string>
 	<string id="bartender_bio">
 		<text>Vrlo uspešan trgovac i vlasnik 100*Rada bara kod Divlje Teritorije (Rostok), Barmen uživa poštivanje i ima značajan uticaj u Zoni. On sarađuje sa Sidorovičem u zajedničkoj akciji da se otvore putanje u centar Zone. Sudeći po njemu, posedovao je restoran nekad u Ukrajini gde je bio konstantno pljačkan i reketiran od strane mafije još 1994. Postao je lični osvetnik protiv iste mafije koja ga je pljačkala ranije, pošto oni imaju takođe operacije u Zoni prodajući artefakte spoljnjem svetu, pa je on na misiji za ih zbriše - oni su se smestili ko Istraživačkog Instituta Agroprom.</text>
@@ -1053,6 +1054,9 @@
 	<string id="final_unknown_bio">
 		<text>Iskusan STALKER.. nema drugih informacija.</text>
 	</string>
+	<string id="exp_stalker_known_bio">
+		<text>Iskusan STALKER.. detaljnije informacije su dostupne na drugom kraju.</text>
+	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 0:36 07.02.2015 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 21.02.2015 16:41 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:18 - sadd -->

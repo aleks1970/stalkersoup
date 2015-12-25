@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.8.0 DKZ fn2000 fix, sg552, galil 7.62, aleks fixes -->
+<!-- TB3D 1.0.9.9.9.8 DKZ fn2000 fix, sg552, galil 7.62, aleks fixes -->
 <string_table>
 	<string id="ars-m16a2">
 		<text>Colt M16A2</text>
 	</string>
 	<string id="enc_arsenal_m16a2">
-		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Težina: 3.7kg\n• Kapacitet spremnika: 30 Komada\nPoboljšana M16A1 puška. Ima težu cev, i režim paljbe ograničen na 3 metka u kratkom rafalu, uz podršku magazina od 30 metakaa.\n Moguća dogradnja:\n• M16 optika\n• 5.56x45mm prigušivač\n• M203 bacač granata</text>
+		<text>• Municija: 5.56x45mm SS109, 5.56x45mm AP\n• Težina: 3.7kg\n• Kapacitet spremnika: 30 Komada\nPoboljšana M16A1 puška. Ima težu cev, i režim paljbe ograničen na 3 metka u kratkom rafalu, uz podršku magazina od 30 metakaa.\nMoguća dogradnja:\n• M16 optika\n• 5.56x45mm prigušivač\n• M203 bacač granata</text>
 	</string>
 	<string id="ars-m16a12">
 		<text>Modifikovani Colt M16A2</text>
@@ -54,7 +54,7 @@
 		<text>PKP Pecheneg</text>
 	</string>
 	<string id="enc_arsenal_peceneg">
-		<text>• Municija: 7.62x54mmR (Belt, 'Isomorphic')\n• Težina: 8.7kg\n Pecheneg je moderna verzija PK mitraljeza. Poseduje finu fiksiranu cev sa nosačem i polimerni kundak, prednji u zadnji rukohvat.  Težina je smanjena u poređenju sa PK, kao i u ostalih zapadnjačkih modela, ali opet sa punom 7.62x54mm vatrenom moć, uz 825m/sek. Nije za neprekidnu paljbu jer se cev ne može menjati u borbi. Njegova glavna prednost jeste redizajnirani skrivač plamena, koji eliminiše kod ranijih verzija, masivne eksplozije i pregrijavanje.</text>
+		<text>• Municija: 7.62x54mmR (Belt, 'Isomorphic')\n• Težina: 8.7kg\nPecheneg je moderna verzija PK mitraljeza. Poseduje finu fiksiranu cev sa nosačem i polimerni kundak, prednji u zadnji rukohvat.  Težina je smanjena u poređenju sa PK, kao i u ostalih zapadnjačkih modela, ali opet sa punom 7.62x54mm vatrenom moć, uz 825m/sek. Nije za neprekidnu paljbu jer se cev ne može menjati u borbi. Njegova glavna prednost jeste redizajnirani skrivač plamena, koji eliminiše kod ranijih verzija, masivne eksplozije i pregrijavanje.</text>
 	</string>
 	<string id="ars-mod-ak_md">
 		<text>"Mini" Dragunov</text>
@@ -96,7 +96,7 @@
 		<text>AN-94 SK2 'Gulag'</text>
 	</string>
 	<string id="enc_arsenal_an94_sk2">
-		<text>• Municija: 5.45x39mm fmj, 5.45x39mm AP\n• Brzina paljbe: 600 rpm • Efektivni domet: 650 metara\n• Kapacitet spremnika: 30 Komada\n AN-94 SK2 Gulag je retko unapređenje Abakana AN-92. Poseduje korisnu punu automatsku paljbu i fantastičnu trzajnu kontrolu. Izbalansiran, lagan i precizan "Gulag" je traženo oružje! </text>
+		<text>• Municija: 5.45x39mm fmj, 5.45x39mm AP\n• Brzina paljbe: 600 rpm • Efektivni domet: 650 metara\n• Kapacitet spremnika: 30 Komada\nAN-94 SK2 Gulag je retko unapređenje Abakana AN-92. Poseduje korisnu punu automatsku paljbu i fantastičnu trzajnu kontrolu. Izbalansiran, lagan i precizan "Gulag" je traženo oružje!</text>
 	</string>
 	<string id="wpn_imigalilar_5.56x45mm">
 		<text>IMI Galil ARM</text>
@@ -121,7 +121,7 @@
 		<text>Kar98k 'Sepp'</text>
 	</string>
 	<string id="enc_arsenal_k98">
-		<text>• Municija: 7.92x33mm fmj, 7.92x33mm AP\n• Optika: Zeiss ZF42 (dodatak)\n• Kapacitet spremnika: 5 Komada\n Karabin 98 K je puška koju je ekspertno prilagodio za 7.92x33mm municiju Sidorovičev tehničar. Poznata još kao i "Mauser", prihvaćena je kao službeno oružje 1935 od strane Njemačkog Wehrmachta. Predstavlja jedno od finalnih proizvoda u dugoj liniji Mauser vojnih pušaka. Iako opremljeni sa poluautomatskim i automatskim oružjem tokom II Svetskog Rata, ostaje u Njemačkoj službi do kraja rata 1945. Teško je potvrditi istinitost, ali na nosačima optike na natpis:: "Poklonjenu Josef 'Sepp' Allerbergeru za uzornu službu i izuzetnu preciznost... 20. April, 1945"</text>
+		<text>• Municija: 7.92x33mm fmj, 7.92x33mm AP\n• Optika: Zeiss ZF42 (dodatak)\n• Kapacitet spremnika: 5 Komada\nKarabin 98 K je puška koju je ekspertno prilagodio za 7.92x33mm municiju Sidorovičev tehničar. Poznata još kao i "Mauser", prihvaćena je kao službeno oružje 1935 od strane Njemačkog Wehrmachta. Predstavlja jedno od finalnih proizvoda u dugoj liniji Mauser vojnih pušaka. Iako opremljeni sa poluautomatskim i automatskim oružjem tokom II Svetskog Rata, ostaje u Njemačkoj službi do kraja rata 1945. Teško je potvrditi istinitost, ali na nosačima optike na natpis:: "Poklonjenu Josef 'Sepp' Allerbergeru za uzornu službu i izuzetnu preciznost... 20. April, 1945"</text>
 	</string>
 	<string id="ars_wpn_mossberg590_12ga">
 		<text>Mossberg 590A1 'Francis'</text>
@@ -130,6 +130,18 @@
 		<text>• Municija: 12x70 'Sačma'\n• Kapacitet: 8 Komada\nSidorovič mi je dao ovu pušku...sačmaricu. Prilično grubog oblika, ali dobro dođe u škripcu. Rekao mi je da je pripadala nekom tipu po imenu Francis, koji je prošao ovuda pre nekog vremena. Čudan neki tip... Sav prekriven tetovažama, kožom, lancima i ostalim sranjem. Kakvo je to ime "Francis" za takvog tipa?! Kako god .. Sid reče da je menjao pušku za celi sanduk votke, i da su ga tu zadnji put videli...jednostavno je ispario...nestao. Možda je umro u Zoni, ili je možda potplatio neke vojnike votkom da ga izvuku odavde. Ma koga briga..sada imam njegovu pušku. Oh, još nešto... Sid reče da je mumljao neke stvari sebi u bradu doj je predavao pušku... "pucaj im u glavu..." ili tako nešto... Čudan narod dolazi u Zonu.. Stvarno čudan... Dao mi je i neku municiju za pušku čudnog izgleda... Kaže da bi trebala "odraditi trik" ... E pa sačekaćemo i videti...</text>
 	</string>
 	<!-- ATTACHMENTS -->
+	<string id="ars-sil_545_ar">	<!-- new silencer - aleks1970 -->
+		<text>Prigušivač "THP-A-5.45"</text>
+	</string>
+	<string id="enc_arsenal_sil_545_ar">	<!-- sadd početak -->
+		<text>Muffler-tactical flash suppressor for the AK series machinguns caliber 5.45mm - "THP-A-5.45". It can be installed in place of regular AK Compensator on "Abakan" and RPK machine guns series "74". It designed to reduce the volume of the shot while shooting a machine gun in the rear hemisphere, and masking the arrow at the expense of distortion of the sound field in the forward hemisphere and the lack of flame shot.</text>
+	</string>	<!-- sadd kraj -->
+	<string id="ars-sil_1143_p">
+		<text>Prigušivač M-P 11.43</text>
+	</string>
+	<string id="enc_arsenal_sil_1143_p">
+		<text>Prigušivač za pištolje i PP kalibra 11.43mm (.45).</text>
+	</string>
 	<string id="ars-sil_556_ar">
 		<text>5.56x45mm prigušivač</text>
 	</string>
@@ -247,4 +259,4 @@
 	</string>
 </string_table>
 <!-- Preveo i prilagodio Flexerca -=- 12:39 22.02.2014 -->
-<!-- Tekst usklađen sa 109980 verzijom zakrpe - 22.02.2015 16:50 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom zakrpe - 24.12.2015 20:19 -sadd -->

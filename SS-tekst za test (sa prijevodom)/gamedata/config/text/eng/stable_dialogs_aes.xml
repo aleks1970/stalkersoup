@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.1e -->
-<string_table>
+<?xml version="1.0" encoding = "windows-1250"?>
+<!-- TB3D 1.0.9.9.9.8, removed "string_table" - aleks1970 -->
+
 	<string id="oso_chernobyl_crush_0">
 		<text>Da li je ekplozija '86 također tvoj posao?</text>
 	</string>
@@ -61,4 +61,3 @@
 	<string id="oso_yes_0">
 		<text>Slažem se da se pridružim C-Svest projektu.</text>
 	</string>
-</string_table>

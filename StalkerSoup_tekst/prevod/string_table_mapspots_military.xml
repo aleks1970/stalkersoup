@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 minor edits, hunter name to skinflint -->
+<!-- TB3D 1.0.9.9.9.9 minor edits, hunter name to skinflint -->
 	<string id="mil_cap_hint">
 		<text>Razgovaraj sa komandirom punkta "Barijera"</text>
 	</string>
@@ -57,7 +57,6 @@
 	<string id="mil_rg6_hint3">
 		<text>Uzmi RG-6 iz sela</text>
 	</string>
-<!-- <string id="mil_blockpost_job"> - Duplicated - aleks1970 -->
 	<string id="mil_blockpost_job_hint">
 		<text>Zaštiti Barijeru</text>
 	</string>
@@ -65,4 +64,4 @@
 		<text>Vodotoranj</text>
 	</string>
 <!-- Preveo i prilagodio Flexerca - 28.01.2015  - 12.16 -->
-<!-- Tekst usklađen sa 109984 verzijom zakrpe - 18.04.2015 19:36 -sadd -->
+	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 18:06 - sadd -->

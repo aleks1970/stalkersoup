@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.7.0 -->
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- TB3D 1.0.9.9.9.8 -->
 <!-- AMK Dialogs -->
 <!-- Added dialogue with the Informant(Snitch) about recipes - aleks1970 -->
-<string_table>
+
 	<!-- Dialogue with the Culinary Specialist -->
 	<string id="artem_kulinar_0">
-		<text>Dobrodošao! Imam nekoliko stvari na ponudi, zainteresiran? </text>
+		<text>Dobrodošao! Imam nekoliko stvari na ponudi, zainteresiran?</text>
 	</string>
 	<string id="artem_kulinar_1">
 		  <text>Pa pogledaj ovde, imaš potpuno sređen prokleti Bife. Šteta je što je tako blizo prokletih radioaktivnih gomila prljavštine.</text>
@@ -131,6 +131,5 @@
 		<text>Jel' ima još recepata?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<!-- Dialogue with the Informant Snitch about recipes end -->
-</string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 10:23 24.08.2014 -->
 	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 19:30 -sadd -->
