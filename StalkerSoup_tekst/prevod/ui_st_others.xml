@@ -3,34 +3,34 @@
 new subtitles and SMS repair kit text - aleks1970 -->
 
 	<string id="recipi_bpb_scr">
-		<text>I finally got this recipe! It was so easy... Just throw the artifact "Grandmother Burer's Beads" into the "Burner" anomaly for five minutes. Success is guaranteed in three out of four cases. You'll get the "Great-grandmother Burer's Beads" artifact. An absolute! That's it... I'm visiting Zahar. It's time to start hunting. I'll leave my notes here. I doubt anyone will ever find this place... Stalker-hunter, Sepator</text>
+		<text>Napokon sam došao do ovog recepta! Tako je jednostavan. Samo baciš artefakt "Perle Bake Burera" u anomaliju "Gorionik" na pet minuta. Uspeh je garantovan u tri od èetiri sluèaja. Dobije se artefakt "Perle Prabake Burera". Apsolut! To je to... Odoh posetiti Zahara. Vreme je za lov. Ostaviæu ovu poruku ovde. Sumnjam da æe ikada iko pronaæi ovo mesto. Stalker-lovac, Separator</text>
 	</string>
 	<string id="dosye_zvez_scr">
-		<text>The 'Astrologer' file:\nStargazer is an ex-Mercenary, whom was sent after the "death truck", to watch for Strelok. This "ride" was planned thoroughly, as well as the crash. Strelok was given a "task" - to kill himself, as well as a photo of Ghost.\nThe meeting with Doc and Fang was arranged as well. Everything was done so he could find the piece of the Monolith. However, it took longer than expected... Measures were taken, and Panther was kidnapped, in order to blackmail Strelok. You know the rest.\nP.S. Obviously, Strelok was used from the beginning, as an instrument for searching out the piece of the Monolith, but he constantly kept messing with the whole ordeal. I feel like that's what provoked the interest of not only the people from the "outside", but someone from the "old" Zone as well.\nI'm sensing a hurry... Immediately take defensive measures. Agent "XYZ"</text>
+		<text>Dosije "Astrologer":\nAstrolog je bivši plaæenik, koji je poslan nakon "Kamiona Smrti", da pazi na Streloka. Ova "vožnja" je detaljno isplanirana, kao i sam "sudar". Streloku je dan "zadatak" - da ubije sam sebe, kao i fotografiju Duha.\nSusreti sa Doktorom i Fangom su takoðer isplanirani. Sve je uraðeno kako bi se došlo do komada Monolita. Ipak, potrajalo je duže nego što je oèekivano. Mere su preduzete, Pantera je kidnapovana radi ucene Streloka. Ostatak ti je poznat.\nP.S. Oèigledno, Strelok je korišten od samog poèetka kao instrument za pronalaženje komada Monolita, ali se on konstantno odupirao celom iskušenju. Oseæam da je to ono što je privuklo pažnju ne samo ljudi "izvana", veæ i ljudi iz "stare" Zone.\nPredoseæam neku hitnost... Smesta preuzmi obrambene mere. Agent "XYZ"</text>
 	</string>
 	<string id="stukach_book_scr">
-		<text>Informant's Notebook:\nThe mercs have held on to the dough again and have given us only the artifact info...\nFine... At least it's something. "Crystals" might come in handy\nRecipe:\nThrow in the "Fountain" anomaly\n1. Bloodsucker tentacles\n2. "Fireball"\n3. "Medusa"\n4. "Stone flower"\nWait for 5 minutes and you got your free "Crystal", and let the real idiots look for it out there themselves... hehe... </text>
+		<text>Doušnikova beležnica:\nPlaæenici su zadržali novac a nama samo dali informaciju o artefaktu.\nDobro... I ovo je nešto. "Kristal" može dobro poslužiti.\nRecept:\nBaciti u anomaliju "Fontana"\n1. Pipke krvopije\n2. "Vatrena lopte"\n3. "Meduza"\n4. "Kameni Cvet"\nSaèekaš 5 minuta i besplatno dobiješ vlastiti "Kristal", i pustiš idiote da ga sami traže po Zoni, hehe... </text>
 	</string>
 	<string id="bloknot_pantera_scr">
-		<text>Panther's Notebook:\nDon't trust,\nDon't be afraid,\nDon't ask...\nCode to the Warlab door: 25-14-04-56\nCoordinates of the path: 1704, 2154, 4504\nYours truly, Panther</text>
+		<text>Panterina beležnica:\nNe veruj,\nNe boj se,\nNe pitaj...\nŠifra za vrata u Warlabu: 25-14-04-56\nKoordinate puta: 1704, 2154, 4504\nIskreno tvoja, Pantera</text>
 	</string>
 	<string id="razved_karta_scr">
-		<text>Map Fragments:\nEntrance to the Swamps from Agroprom. It's a pity that the road leads to a radioactive zone. You 'll have to put up with the radiation for about 10m. Better stock up on antirads.</text>
+		<text>Informacije o karti:\nUlaz u Moèvare iz Agroprom. Prava je šteta što put vodi u radioaktivno podruèje. Moraš pretrpiti radijaciju oko 10 metara. Zato se dobro opskrbi antiradom.</text>
 	</string>
 	<string id="pilot_zapiska_scr">
-		<text>To captain Zimin:\nI don't know what made us fly above the station... All 3 helis got stuck right in the middle of an emission.\nOne fell right on the roof of the CNPP, the other got stuck on a pipe and left hanging there. We got lucky, we landed, but it was a rough crash landing. Radiation's off the charts.\nTo get down from here, you need to jump from the heli to a cistern just below... But there's no time left...</text>
+		<text>Za kapetana Zimina:\nNe znam šta nas je nateralo da letimo iznad stanice... Sva 3 helikoptera su zaglavila u nekoj Emisiji.\nJedan je pao taèno na krov NEP Èernobil, drugi je zapeo za cevi i ostao da visi tamo. Mismo imali sreæe pa smo sleteli, ali bio je to više sudar ne sletanje. Radijacija je iznad skale.\nDa bi sišli odavde, treba skoèiti iz helikoptera na cisternu ispod... Ali nema više vremena...</text>
 	</string>
 	<!-- Added revamped repair kit SMS text - aleks1970 -->
 	<string id="rec_revampa10_3">
-		<text>Primljeno:\n - 25 komada rezervnih delova za pancir ...</text>
+		<text>Primljeno:\n - 25 komada rezervnih delova za pancir...</text>
 	</string>
 	<string id="rec_revampw10_3">
-		<text>Primljeno:\n - 5 komada rezervnih delova za maleno oružje i 15 za veliko ...</text>
+		<text>Primljeno:\n - 5 komada rezervnih delova za maleno oružje i 15 za veliko...</text>
 	</string>
 	<string id="rec_revampa10">
-		<text>Primljeno:\n - 10 komada rezervnih delova za pancir  ...</text>
+		<text>Primljeno:\n - 10 komada rezervnih delova za pancir...</text>
 	</string>
 	<string id="rec_revampw10">
-		<text>Primljeno:\n - 3 komada rezervnih delova za maleno oružje i 5 za veliko ...</text>
+		<text>Primljeno:\n - 3 komada rezervnih delova za maleno oružje i 5 za veliko...</text>
 	</string>
 	<!-- Tekst usklaðen sa 109999 verzijom 24.15.2015 17:35 - sadd -->

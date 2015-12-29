@@ -133,8 +133,8 @@
 	<string id="ars-sil_545_ar">	<!-- new silencer - aleks1970 -->
 		<text>Prigušivaè "THP-A-5.45"</text>
 	</string>
-	<string id="enc_arsenal_sil_545_ar">	<!-- sadd poèetak -->
-		<text>Muffler-tactical flash suppressor for the AK series machinguns caliber 5.45mm - "THP-A-5.45". It can be installed in place of regular AK Compensator on "Abakan" and RPK machine guns series "74". It designed to reduce the volume of the shot while shooting a machine gun in the rear hemisphere, and masking the arrow at the expense of distortion of the sound field in the forward hemisphere and the lack of flame shot.</text>
+	<string id="enc_arsenal_sil_545_ar">
+		<text>Prigušivaè-taktièki skrivaè plamena za AK seriju puškomitraljeza kalibra 5.45mm - "THP-A-5.45". Može se instalirati na mesto regularnog AK kompenzatora na "Abakan" i RPK puškomitraljezima serije "74". Dizajniran je da reduktuje jaèinu pucnja dok puškomitraljez dejstvuje u zadnjoj hemisferi, pa èini distorziju zvuènog polja u prednjoj hemisferi uz odsustvo vidnog plamena.</text>
 	</string>	<!-- sadd kraj -->
 	<string id="ars-sil_1143_p">
 		<text>Prigušivaè M-P 11.43</text>

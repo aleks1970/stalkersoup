@@ -267,7 +267,7 @@
 		<text>Himerine Kandže</text>
 	</string>
 	<string id="mutant_chimera_kogot_description">
-		<text>Prièa se da su Himerine Kandže èvršæe od legiranog èelika. To objašnjava tako razorna ošteæenja nastala kod žrtvi Himerinog napada. Mnogi su naðeni sa otkinutim ekstremitetima, a mnogo èesto i .. potpuno odeèene glave. Nauènici dobro plaæaju samo da bi došli do ovih predmeta do kojih se jako teško dolazi, zbog daljeg prouèavanja ...</text>
+		<text>Prièa se da su Himerine Kandže èvršæe od legiranog èelika. To objašnjava tako razorna ošteæenja nastala kod žrtvi Himerinog napada. Mnogi su naðeni sa otkinutim ekstremitetima, a mnogo èesto i potpuno odeèene glave. Nauènici dobro plaæaju samo da bi došli do ovih predmeta do kojih se jako teško dolazi, zbog daljeg prouèavanja.</text>
 	</string>
 	<string id="mutant_werewolf_kogot">
 		<text>Kandže Vukodlaka</text>
@@ -275,23 +275,23 @@
 	<string id="mutant_werewolf_kogot_description">
 		<text>Prièa se da su Kandže Vukodlaka jaèe i oštrije nego Himerine. Takoðe se prièa da su oni u stanju i vrata da rasture u delova samo da bi došli do svojih žrtava. Nekoliko ih je donešeno za prouèavanje ...</text>
 	</string>
-	<string id="mutant_raptor_kogot">	<!-- sadd poèetak -->
-		<text>Venom Claw</text>
+	<string id="mutant_raptor_kogot">
+		<text>Otrovna kandža</text>
 	</string>
 	<string id="enc_mutant_raptor_kogot_description">
-		<text>Claw of the very rare mutant who was called Venom. The one kind of the monster which strikes fear into the heart of any stalker. His loud and terrible roar will scare many of the mutants in Zone. Rarely who manage to get Venom Claw, so scientists are willing to give a tidy sum for him.</text>
+		<text>Kandža vrlo retkog mutanta koji se zove Otrov (Venom). To je ona vrsta èudovišta koje tera strah u kosti svim stalkerima. Njegovo glasno i užasno urlikanje plaši i mnoge mutante. Retki su oni koji nekako uspeju nabaviti Otrvnu kandžu, tako da su nauènici voljni platiti popriliènu sumu za nju.</text>
 	</string>
 	<string id="mutant_deathclaw_antler">
-		<text>Horn "Claw of death"</text>
+		<text>Rog "Kandža smrti"</text>
 	</string>
 	<string id="enc_mutant_deathclaw_antler_description">
-		<text>Some poorly studied strange monster, nicknamed "Deathclaw" among some stalkers. To meet such a mutant, and even more so to get his Horn trophy, well it is almost impossible...</text>
-	</string>	<!-- sadd kraj -->
+		<text>Jako slabo prouèeno èudovište, poznato meðu stalkerima pod nadimkom "Kandža smrti". Sresti ovakvog mutanta je teško, a doæi do njegovog roga, je gotovo nemoguæe.</text>
+	</string>
 	<string id="part_digitis_biblio">
 		<text>Krzno Bibliotekara</text>
 	</string>
 	<string id="enc_part_digitis_biblio">
-		<text>Retko se ronalazi zaista!! .. pošto su oni najreði mutanti u Zoni. Za Krzno Bibliotekara postoji prièa da ono donosi sreæu onome ko ga poseduje ... ali, prava istina je da njegova svojstva i poreklo tek treba otkriti... Neki prièaju da su oni migrirali èak iz podzemlja Moskve, ali niko do sada nije preživeo susret sa Bibliotekarem da bi potvrdio tu prièu, u bilo kom obliku...</text>
+		<text>Retko se pronalazi zaista!! Pošto su oni najreði mutanti u Zoni. Za Krzno Bibliotekara postoji prièa da ono donosi sreæu onome ko ga poseduje, ali prava istina je da njegova svojstva i poreklo tek treba otkriti. Neki prièaju da su oni migrirali èak iz podzemlja Moskve, ali niko do sada nije preživeo susret sa Bibliotekarem da bi potvrdio tu prièu, u bilo kom obliku.</text>
 	</string>
 	<string id="mutant_zombie_teeth">
 		<text>Zub Zombija</text>
