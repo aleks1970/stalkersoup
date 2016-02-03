@@ -6,896 +6,898 @@
 <text>\n</text>
 </string>
 <string id="collector_welcome_title">
-<text>SIDOROVICH</text>
+<text>SIDOROVIÈ</text>
 </string>
 <string id="collector_welcome_msg">
-<text>%c[255,255,128,128]Welcome back Marked One... the bridge soldiers just sent me an SMS that you were seen by the loft.. make sure to come by and visit!</text>
+<text>%c[255,255,128,128]Dobrodošao nazad, Obeleženi... Vojnici ispod mosta su mi upravo poslali SMS da su te videli. Ajde pa navrati u posetu!</text>
 </string>
 
 <!-- Tweed's book -->
 <string id="zep_tweed_book">
-<text>Tweed's book</text>
+<text>Tvidina knjiga</text>
 </string>
 <string id="zep_tweed_book_desc">
-<text>Incomplete book: For Women With an Adventurous Notion to Explore the Zone, by L. D. Tweed.</text>
+<text>Nedovršena knjiga: Za žene koje imaju avaturistièku želju za istraživanje Zone, L.D. Tvid.</text>
 </string>
 
 <!-- ZEP Project -->
 <string id="sid_zep1_0">
-<text>Strange things have happened up North...  not sure who to trust anymore..  Seems there is something MUCH BIGGER brewing up there! You of all people should know what is going on and where.</text>
+<text>Èudne stvari su se desile na Severu. Više ne znam kome da verujem. Izgleda da se NEŠTO VELIKO kuva tamo! Ti bi, od sviju ljudi, trebao znati šta se dešava i gde.</text>
 </string>
 
 <string id="sid_zep1_1">
-<text>Hmmm .. well..\nI heard rumors..  just rumors..  that the Monolith found something alien in nature and have stashed it somewhere around the NPP.</text>
+<text>Hmmm. Paa...\nÈuo sam neke prièe... Više glasine... Da je Monolit pronašao nešto vanzemaljsko u prirodi i da su ga smestili negde oko NEP Èerobil.</text>
 </string>
 
 <string id="sid_zep1_2">
-<text>Alien?!!!</text>
+<text>Vanzemaljsko?</text>
 </string>
 <string id="sid_zep1_3">
-<text>What I heard... OK!\nThere was talk about a strange generator that warps gravity itself, even rumors that those reported gravity anomalies are results of testing by the Monolith.</text>
+<text>Tako sam èuo. OK!\nPrièalo se o nekom èudnom generatoru koji savija i samu gravitacionu silu, èak se prièa da su te gravitacijske anomalije rezultat testiranja Monolita.</text>
 </string>
 <string id="sid_zep1_4">
-<text>This doesn't sound good...  imagine the Monolith scum bouncing around space or warps or whetever...\nmight as well wrap it up and flush the whole universe!</text>
+<text>To ne zvuèi dobro... Zamisli da to Monolitsko smeæe èaèka oko prostora ili da ga iskrivljuje, ili šta veæ...\nMogli bi iskriviti celi svemir i onda pustiti vodu za njim!</text>
 </string>
 <string id="sid_zep1_5">
-<text>Knowing the make-up of those bastards ... I would bet that it would just clog and overflow!</text>
+<text>Znaju ta kopilad ušminkati sranje. Kladim se da bi se zaèepilo i prelilo se, hah!</text>
 </string>
 <string id="sid_zep1_6">
-<text>No kidding..  even a plunger wouldn't help us, eh...</text>
+<text>Hah, sigurno. Èak nam ni odèepljivaè ne bi pomogao, hah...</text>
 </string>
 <string id="sid_zep1_7">
-<text>Well there is something else..\nThere is a search going on for a set of documents that supposedly map out a secret array of portals from under the old Hospital.\nIt is believed that they will trigger a special chamber of portals when all placed properly within the chamber slots.\nWord out of Rostok is that a stranger was asking about documents stamped with the code 'ZEP' on them.</text>
+<text>Nego ima još nešto.\nU toku je potraga za nizom dokumenata, koji, navodno, pokazuju èitav niz tajnih portala ispod stare Bolnice.\nVeruje se da æe oni aktivirati posebnu portalsku prostoriju kada se postave pravilno u utore komore.\nPrièa se da se u Rostoku neki stranac raspitivao za dokumente sa peèatom "ZEP".</text>
 </string>
 <string id="sid_zep1_8">
-<text>A series of portals to where...    this could be real trouble if the wrong person were to achieve it!</text>
+<text>Niz portala za kuda? Ovo bi moglo izazvati prave nevolje ako bi ih se domogla pogrešna osoba!</text>
 </string>
 <string id="sid_zep1_9">
-<text>Yes..  they could wipe out the Zone and have full control of whatever it is that was found! Hopefully it is just rumors and has no merit but I shudder to think it may be true...\nI also heard about a path to an area reffered to as Darkscape, not sure why they call it that.. seems a lot of activity there lately.\nI uploaded the location of it for you, out of the Dark Valley.</text>
+<text>Da. Mogli bi zbrisati Zonu i preuzeti punu kontrolu šta god da je to što su pronašli! Nadam se da je to samo glasina, iako se sav naježim kad pomislim da bi to mogla biti istina.\nTakoðer sam èuo o prelazu za podruèje koje zovu Mraèni izlaz, nemam pojma zašto ga tako zovu. seems a lot of activity there lately.\nPrebaciæu ti koordinate, za izlaz iz Mraène Doline.</text>
 </string>
 <string id="sid_zep1_10">
-<text>This is bad..   can't count on it being fantasy ..  I think I will check it out, thanks for the info.</text>
+<text>To je loše. Ne mogu to uzeti kao da je nešto izmišljeno. Mislim da æu proveriti, hvala na informaciji.</text>
 </string>
 
 <string id="sid_dialog_zep2_0">
-<text>Facility F1.. Well?</text>
+<text>Postrojenje F1.. Paa?</text>
 </string>
 <string id="sid_dialog_zep2_1">
-<text>Who did you talk to?!</text>
+<text>S kim si razgovarao?!</text>
 </string>
 <string id="sid_dialog_zep2_2">
-<text>Her name is Tweed and..</text>
+<text>Njeno ime je Tvid, i...</text>
 </string>
 <string id="sid_dialog_zep2_3">
-<text>Tweed...  alive?..    great news!\nHow is she?</text>
+<text>Tvid... Živa? Odlièna vest!\nKako je ona?</text>
 </string>
 <string id="sid_dialog_zep2_4">
-<text>Alone and in need of ammo for her AK..    maybe even a better weapon with a sight to help keep Darkscape clear of intruders.</text>
+<text>Sama i u potrebi za municijom za svoj AK. Možda bi joj neko oružje sa optikom više pomoglo da štiti Mraèni izlaz od uljeza.</text>
 </string>
 <string id="sid_dialog_zep2_5">
-<text>Done!\nI'll give you a sniper rifle I just got in trade and some ammo for it and the AK.\nTake it back to her and maybe she will have more to tell you..   who knows.</text>
+<text>Rešeno!\nDaæu ti snajpersku pušku koju sa upravo dobio u trgovini, i nešto municije za AK.\nOdnesi ga do nje i možda bude imala nešto više da ti kaže. Ko zna.</text>
 </string>
 <string id="sid_dialog_zep2_6">
-<text>So.. what about F1?</text>
+<text>Nego, šta ima sa F1?</text>
 </string>
 <string id="sid_dialog_zep2_7">
-<text>All I know is that something big was being transported there.\nI had a trader friend up there that had sent me an SMS just before things went bad.</text>
+<text>Sve što znam jeste da je nešto veliko tamo prevezeno.\nImao sam prijatelja trgovca tamo koji mi je poslao SMS pre nego su stvari krenule na loše.</text>
 </string>
 <string id="sid_dialog_zep2_8">
-<text>What did he say, what happened?</text>
+<text>Šta kaže, šta se desilo?</text>
 </string>
 <string id="sid_dialog_zep2_9">
-<text>His first SMS was telling me about a convoy of trucks..\nnext SMS was about a big flash and a cloud of smoke all over, that was the last message.</text>
+<text>U prvom SMS-u govori o konvoju kamiona.\nSledeæi SMS je bio o velikom bljesku i oblaku dima posvuda. To je bila zadnja poruka.</text>
 </string>
 <string id="sid_dialog_zep2_10">
-<text>No word from him since?</text>
+<text>Nije se javljao od tada?</text>
 </string>
 <string id="sid_dialog_zep2_11">
-<text>There has been nothing from that region since..   nothing at all.</text>
+<text>Niko i ništa iz tog podruèja. Ni reèi.</text>
 </string>
 
 <string id="sid_zep1_msg">
-<text>Marked One. You need to talk to the barman in Rostok about that stranger.. he was asking questions about you.</text>
+<text>Obeleženi. Moraš razgovarati sa barmenom u Rostok o tom strancu. Raspitivao se za tebe.</text>
 </string>
 
 <!-- tweed in darkscape -->
 <string id="tweed_dialog_zep1_0">
-<text>Hey! Who are you?</text>
+<text>Hej! Ko si ti?</text>
 </string>
 <string id="tweed_dialog_zep1_1">
-<text>Tweed, and you?</text>
+<text>Tvid, a ti si?</text>
 </string>
 <string id="tweed_dialog_zep1_2">
-<text>Most call me Marked One.</text>
+<text>Veæina me zove Obeleženi.</text>
 </string>
 <string id="tweed_dialog_zep1_3">
-<text>What brings you around this hole?</text>
+<text>Šta te dovodi u ovu rupu?</text>
 </string>
 <string id="tweed_dialog_zep1_4">
-<text>I'm searching for some documents, they are marked with the initials 'ZEP' ... seen any?</text>
+<text>U potrazi sam za nekim dokumentima, oznaèeni su sa inicijalima 'ZEP'. Da nisi videla neki?</text>
 </string>
 <string id="tweed_dialog_zep1_5">
-<text>Not seen any around these parts but most of what was here has been burned or moved.</text>
+<text>Nisam ništa videla, a inaèe sve što je bilo ovde je spaljeno ili premešteno.</text>
 </string>
 <string id="tweed_dialog_zep1_6">
-<text>Moved?.. where and why would it be moved?</text>
+<text>Premešteni? Gde i zašto bi ih neko premestio?</text>
 </string>
 <string id="tweed_dialog_zep1_7">
-<text>Don't have a clue why but I do know that they were taking whatever they did find to a place they kept calling F1.\nThey were storing them in the old gas station where a chopper would land and pick them up every few days.</text>
+<text>Nemam pojma zašto, ali znam da su sve što su pronašli odneli u mesto koje zovu F1.\nUskladištili su ih u staroj benzinskoj stanici, gde bi helikopter sleteo i pokupio ih svako nekoliko dana.</text>
 </string>
 <string id="tweed_dialog_zep1_8">
-<text>F1... yea I've heard of it, way up north. It was called Facility F1 and some bad crap came down there. Rumors of an alien ship or weapon... not sure now.</text>
+<text>F1...èuo sam za to mesto, skroz na severu. Zove se Postrojenje F1 i tamo je neko veliko sranje. Neki vanzemaljski svemirski brod ili neko oružje... Nisam siguran šta.</text>
 </string>
 <string id="tweed_dialog_zep1_9">
-<text>I heard one of the guards telling another one that he should not wander from the chopper when they get there as many bad-ass creatures live there.</text>
+<text>Èula sam jednog stražara kako govori drugom, da ne bi trebao lutati daleko od helikoptera kada stignu u F1, jer neka zeznuta stvorenja žive tamo.</text>
 </string>
 <string id="tweed_dialog_zep1_10">
-<text>Anything else they said? Are there any of them still around?</text>
+<text>Jesu li još nešto rekli? Je li još neko od njih u blizini?</text>
 </string>
 <string id="tweed_dialog_zep1_11">
-<text>Not been out much lately as I am low on ammo for this old AK of mine..\nWell...   I could try to use my charm to find out more, but a favor for a favor..</text>
+<text>Nisam dugo izlazila u zadnje vreme, jer sam slaba sa municijom za svoj stari AK.\nPa, mogu pokušati iskoristiti svoj šarm da saznam malo više, ali znaš onu, usluga za uslugu...</text>
 </string>
 <string id="tweed_dialog_zep1_12">
-<text>Of course... wouldn't expect less. What is it I can do for you?</text>
+<text>Naravno. Nisam ni oèekivao ništa manje. Šta mogu uraditi za tebe?</text>
 </string>
 <string id="tweed_dialog_zep1_13">
-<text>There is a book that I have been writing about this hell-hole for the adventurous woman... I had stashed it in an old bar in the Northeast.\nI think there was a research station a few kilometers south of it. If you find it in your travels then please SMS me at: @TWEED ...  I will let you know what to do with it.\nI will upload a path I found that will lead you to the Cordon, it may save you some time.</text>
+<text>Pa ima knjiga koju sam pisala o ovoj paklenoj rupi za žene željne avanture... Sakrila sam je u starom baru na severoistoku.\nMislim da je tamo istraživaèka stanica na nekoliko kilometara južno. Ukoliko je pronaðeš na svojim putovanjima, molim te da mi pošalješ SMS na: @TWEED. Reæi æu ti šta dalje da radiš s njom.\nPrebaciæu ti na PDA put koji sam pronašla, a vodi u Kordon. Uštedeæe ti nešto vremena.</text>
 </string>
 <string id="tweed_dialog_zep1_14">
-<text>Sure, why not. I hope that it is still there and in readable condition, you know the TP situation here!</text>
+<text>U redu, dogovoreno. Nadam se da je još tamo i da je u èitljivom stanju.</text>
 </string>
 <string id="tweed_dialog_zep1_15">
-<text>Well... not a big chance this will happen!</text>
+<text>Pa... Nije velika šansa, ali i ja se nadam.</text>
 </string>
 
 <string id="tweed_dialog_zep3_0">
-<text>Here it is... and still in one piece.</text>
+<text>Evo je. Još je u jednom komadu.</text>
 </string>
 <string id="tweed_dialog_zep3_1">
-<text>I am in your debt!\nI put another route on your PDA, you might find it interesting.</text>
+<text>Tvoj sam dužnik!\nPrebaciæu ti još jednu rutu na PDA, sigurna sam da æe ti biti interesantna.</text>
 </string>
 
 <string id="tweed_dialog_zep4_0">
-<text>I brought you more ammo and a new weapon so you can keep annoying the intruders.</text>
+<text>Doneo sam ti nešto municije i novo oružje, tako da imaš èime odbiti dosadne uljeze.</text>
 </string>
 <string id="tweed_dialog_zep4_1">
-<text>Thanks a lot! This will keep me busy for a week or two!\nHere's a key I found last time I was out, looks like a vehicle key of some sort..   maybe you can use it.</text>
+<text>Puno ti hvala! Ovo æe me držati bar sedmicu ili dve!\nEvo ti kljuè koji sam našla neki dan. Izgleda kao kljuè od nekog vozila, ili tako nešto. Možda ti može koristiti.</text>
 </string>
 <string id="tweed_dialog_zep4_2">
-<text>Thanks, do get tired of walking!\nOh yea..  Sid says hi..   So you plan to stay here?</text>
+<text>Hvala, veæ mi je dosadilo pešaèenje!\nAh da... Sidoroviè te pozdravlja. Znaèi, planiraš i dalje ostati ovde?</text>
 </string>
 <string id="tweed_dialog_zep4_3">
-<text>Sid?    You mean that son of a psydog is still kickin...  of course that relic will go on forever!\nI think I will stay.. things are less harsh here and the blowouts are very weak.</text>
+<text>Sidoroviè? Hoæeš reæi da je taj kuèkin sin još živ? Naravno da jeste, ta relikvija æe trajati zauvek!\nMislim da æu ostati. Ovde su situacije dosta retke a i Emisije su dosta blaže.</text>
 </string>
 <string id="tweed_dialog_zep4_4">
-<text>Ha..   that he is!   What will you do here?</text>
+<text>Ha,ha, takav je on! Šta æeš raditi ovde?</text>
 </string>
 <string id="tweed_dialog_zep4_5">
-<text>I will set up a trade route and wait for others to join me, do visit me once in awhile.\nAlmost forgot..   you should check out the gas station as they were in a hurry last trip and may have been careless..  worth a look.</text>
+<text>Napraviæu trgovaèku rutu i èekati da mi se ostali pridruže. Poseti me s vremena na vreme.\nGotovo da zaboravim. Trebao bi proveriti onu benzinsku stanicu, jer si prošli put bio u žurbi i možda nisi bio dovoljno pažljiv. Vredi pogledati.</text>
 </string>
 
 <string id="tweed_dialog_zep5_0">
-<text>Hi Tweed. How's life been for you lately?</text>
+<text>Zdravi Tvid. Kako život?</text>
 </string>
 <string id="tweed_dialog_zep5_1">
-<text>Not so good, marked One.</text>
+<text>Pa i nije najbolji, Obeleženi.</text>
 </string>
 <string id="tweed_dialog_zep5_2">
-<text>Tell me about it.</text>
+<text>Šta je bilo?</text>
 </string>
 <string id="tweed_dialog_zep5_3">
-<text>A new faction has been raiding the area and may be moving in, they have recruited bandits and made camp West of here.\nThey are ruthless and shoot first...  I have kept them away so far.</text>
+<text>Nova frakcija je došla u ovo podruèje i, kako izgleda, planira i ostati. Regrutuju bandite i prave kamp zapadno odavde.\nNemilosrdni su i pucaju èim te vide... Zasada ih držim na odstojanju.</text>
 </string>
 <string id="tweed_dialog_zep5_4">
-<text>Let me take a look around and see if I can discourage them from moving here.</text>
+<text>Pogledaæu i ja malo uokolo, ne bi li ih malo obeshrabrio da odu odavde.</text>
 </string>
 <string id="tweed_dialog_zep5_5">
-<text>You talk as though I am unable... but I am stressed to keep up sometimes...\nMost of them have been coming from southeast and have been moving toward the Dark Valley so I would start there.     Oh .. and thanks Marked One!</text>
+<text>Prièaš kao da ja nisam u stanju... Ali istina je da sam pod stresom ponekad...\nVeæina ih dolazi sa jugoistoka i kreæu se prema Mraènoj Dolini, tako da bih ja poèela od tamo. I još jednom ti puno hvala na svemu, Obeleženi!</text>
 </string>
 
 <!-- Barman in Rostok -->
 <string id="barman_zep1_0">
-<text>So tell me about this stranger that has been going around asking questions.</text>
+<text>Reci mi nešto o tom strancu koji se raspitivao za mene.</text>
 </string>
 <string id="barman_zep1_1">
-<text>Cold kind of creep..    the kind you cross the street to avoid if you know what I mean.</text>
+<text>Jeziv neki tip. To ti je ona vrsta koju izbegavaš kada sretneš na ulici, ako razumeš šta hoæu reæi.</text>
 </string>
 <string id="barman_zep1_2">
-<text>Ok great..   he has bad karma so maybe there is something a little more important.</text>
+<text>Ok, odlièno. Èovek sa lošom karmom, kao da je to baš toliko ne važno.</text>
 </string>
 <string id="barman_zep1_3">
-<text>You need a drink to calm those nerves!..    as I was saying..  because of his 'bad karma' he didn't get much cooperation so he was drowning himself in liquid anger..    loosened the tongue a bit.</text>
+<text>Ajde popij nešto da malo smiriš živce! Samo kažem, zbog te svoje "loše karme" nije naišao na saradnju ovde, zato je malo "omekšao" jezik.</text>
 </string>
 <string id="barman_zep1_4">
-<text>Alright, alright..    what did you get out of him?</text>
+<text>Haj dobro. Šta si saznao od njega?</text>
 </string>
 <string id="barman_zep1_5">
-<text>Have you heard of F1?</text>
+<text>Jesi li èuo za F1?</text>
 </string>
 <string id="barman_zep1_6">
-<text>A bit, a lot of rumors about a strange object and a big blast while transporting it.</text>
+<text>Nešto malo o nekom stranom objektu i o velikom bljesku prilikom transporta tog objekta.</text>
 </string>
 <string id="barman_zep1_7">
-<text>This object was something that baffled every scientist put in front of it.. but they did determine that it had been stashed here for some time and was staged to activate but when and how was not known.</text>
+<text>Taj objekat je nešto što je zbunilo svakog nauènika koji je stao ispred njega. Ali jesu utvrdili da je ta stvar tu veæ neko vreme i da je postavljena za aktiviranje. Samo nije poznato kada i kako.</text>
 </string>
 <string id="barman_zep1_8">
-<text>I found a document that outlines a plan to activate the device but there seems to be more to it. There is a project 'ZEP' that talks about an 'object' and also an array of portals.</text>
+<text>Našao sam dokument koji objašnjava plan aktivacije tog ureðaja, ali èini se da postoji i nešto više od toga. Tu je i projekat "ZEP", koji govori o "objektu" i nizu portala.</text>
 </string>
 <string id="barman_zep1_9">
-<text>He mentioned 'zep' many times..   thought it was his lost dog or something by the way he sighed each time he mentioned it.</text>
+<text>Spomenuo je "ZEP" nekoliko puta. Pomislio sam da je to njegov izgubljeni pas ili neki drugi ljubimac, jer je uzdahnuo svaki put kad bi ga spomenuo.</text>
 </string>
 <string id="barman_zep1_10">
-<text>Thanks..   I think I will go and talk to the geeks and also to the Dolg commander and see what they said to him.</text>
+<text>Hvala. Mislim da æu otiæi do štrebera i do komandira Djutija, da vidim šta oni imaju reæi o njemu.</text>
 </string>
 
 <!-- barman after dolg commander -->
 <string id="barman_zep2_0">
-<text>Man what a day!  What a bunch of clowns you have running things around here!</text>
+<text>Èoveèe, kakav dan! Kakvu gomilu klovnova si zaposlio ovde!</text>
 </string>
 <string id="barman_zep2_1">
-<text>Take it you had a talk with the commander over there.</text>
+<text>Tako je kako je. Razgovaraj sa komadirom.</text>
 </string>
 <string id="barman_zep2_2">
-<text>Talk?..     You call it talk?..  What happened to him anyway..  monoxide poisoning?</text>
+<text>Da razgovaram? Ti to zoveš razgovorom? Šta se desilo s njim. Trovanje monoksidom?</text>
 </string>
 <string id="barman_zep2_3">
-<text>Not sure but I try to leave him alone.</text>
+<text>Nisam siguran, ali se trudim da mu ne dosaðujem.</text>
 </string>
 <string id="barman_zep2_4">
-<text>I did figure out that the stranger was looking for the Wasted Woodland. What could be out there that would interest him?</text>
+<text>Shvatio sam da traži nešto u Crnoj Šumi. Šta bi to moglo biti?</text>
 </string>
 <string id="barman_zep2_5">
-<text>There was the old woodcutter shack..  way in the North West of the region.\nI know of a path from the North entrance that should save you some time, I will upload it for you.</text>
+<text>Tamo je bila stara koliba drvoseèa, u severozapadnom delu podruèja.\nZnam prelaz iz severnog ulaza koji bi ti trebao skratiti vreme, prebaciæu ti ga na PDA.</text>
 </string>
 <string id="barman_zep2_6">
-<text>Thanks..   I will see what I can find there.</text>
+<text>Hvala. Baš me zanima šta æu tamo pronaæi.</text>
 </string>
 
 <string id="barman_zep3_0">			<!-- if talked to tweed about book -->
-<text>Do you know of an old bar way to the north?</text>
+<text>Znaš li za stari bar na severu?</text>
 </string>
 <string id="barman_zep3_1">
-<text>There are many bars..  why?</text>
+<text>Ima dosta barova. Zašto?</text>
 </string>
 <string id="barman_zep3_2">
-<text>I met this doll Tweed.. she said it was a couple Kilometers North of a research lab.</text>
+<text>Sreo sam onu devojku Tvid. Kaže da je bar nekoliko kilometara severno od istraživaèkog laboratorija.</text>
 </string>
 <string id="barman_zep3_3">
-<text>Tweed?   Damn!   She owes me money..   and a couple rounds for the bar! How is she anyway?</text>
+<text>Tvid? Do ðavola! Dužna mi je hrpu love...i nekoliko rundi u baru! Zbilja, kako je ona?</text>
 </string>
 <string id="barman_zep3_4">
-<text>Healthy and hard core..   going to try and establish a trading post in Darkscape.</text>
+<text>Zdrava i žilava. Pokušava uspostaviti trgovaèku postaju u Mraènom Izlazu.</text>
 </string>
 <string id="barman_zep3_5">
-<text>I should get in touch with her..  could be a good business opportunity, eh.  As far as the bar..\nyes there is but it is inside a military compound and I don't think you would be very welcome.</text>
+<text>Trebao bih je nekako kontaktirati. Mogla bi to biti dobra poslovna prilika, heh.  Što se tièe bara...\nDa, on postoji, samo što je unutar vojnog kompleksa i mislim da tamo ne bi naišao na dobrodošlicu.</text>
 </string>
 <string id="barman_zep3_6">
-<text>Well..   I have a habit of not being welcome but I think I can live with it!  Let me know if anything else comes up..  you know I share the wealth so don't hold back.</text>
+<text>Pa, veæ sam nauèio da nisam negdje dobrodošao, tako da mogu živeti s tim! Javi mi ako još nešto iskrsne. Znaš da ja vraæam usluge.</text>
 </string>
 
 <string id="barman_zep4a_0">			<!-- back from research station -->
-<text>So..  tell me about the stanger, why was he trying to get in the back?</text>
+<text>Nego, prièaj mi o strancu. Zašto se pokušao vratiti?</text>
 </string>
 <string id="barman_zep4a_1">
-<text>Son of a Bitch tried to come in through the old exit but made too much noise when he hit the iron gate. My guard chased him into the Wild Territory where he lost him. Whatever it was he wanted must be important to him so I doubt that he is too far away.</text>
+<text>Kuèkin sin se pokušao vratiti kroz stari izlaz, ali je napravio previše buke kroz železna vrata. Moji stražari su ga jurili do Divlje Teritorije gde su ga izgubili. Šta god da je tražio, bilo mu je jako važno. Sumnjam da je negde daleko.</text>
 </string>
 <string id="barman_zep4a_2">
-<text>This is getting to be a real steeplechase! Me following him while he is following me and both of use after ????\nI wonder where he will turn up next?</text>
+<text>Ovo postaje prava zavrzlama! Ja pratim njega, dok on prati mene, a jesmo li obojica iskorišteni?\nBaš se pitam gde æe sledeæi put iskrsnuti?</text>
 </string>
 <string id="barman_zep4a_3">
-<text> It's only been a couple of days so you might start looking for him around one of the old campsites in the Wild Territory.</text>
+<text>To je bilo samo pre nekoliko dana, možda bi bilo dobro da ga potražiš oko starih kampirnih mesta u Divljoj Teritoriji.</text>
 </string>
 <string id="barman_zep4a_4">
-<text>Thanks for the info and advice.</text>
+<text>Hvala na informaciji i savetu.</text>
 </string>
 <string id="barman_zep4b_2">			<!-- already been to wild -->
-<text>This is getting to be a real steeplechase! Me following him while he is following me and both of use after ????\nI was able to find his camp in the Wild Territory but can't tell where he has gone.</text>
+<text>Ovo postaje prava zavrzlama! Ja pratim njega, dok on prati mene, a jesmo li obojica iskorišteni?\nMogu pronaæi njegov kamp u Divljoj Teritoriji, ali ne znam gde je otišao.</text>
 </string>
 <string id="barman_zep4b_3">
-<text>He didn't come back through Rostok or the guards whould have alerted me. He must have used a different path out of there.</text>
+<text>Nije se vratio kroz Rostok, jer bi me stražari upozorili. Sigurno je išao nekim drugim putem.</text>
 </string>
 <string id="barman_zep4b_4">
-<text>I think I will try the Warehouses...    maybe he has been seen passing through there recently.</text>
+<text>Hmm, pokušaæu ga potražiti u Skladištima. Možda je nedavno tamo bio.</text>
 </string>
 <string id="barman_zep4b_5">
-<text>Say hi to Fox if you see him there, haven't heard from him in awhile.</text>
+<text>Pozdravi Lisca ako ga vidiš tamo, nisam ništa èuo o njemu veæ odavno.</text>
 </string>
 <string id="barman_zep4b_6">
-<text>Sure thing, thanks for the info.</text>
+<text>Nije problem. Hvala na informacijama.</text>
 </string>
 
 <string id="barman_zep5a_0">			<!-- has book, not seen tweed -->
-<text>Hail 'Fat One' .. and how's life treating you?</text>
+<text>Zdravo "Debeli". Kako te život mazi?</text>
 </string>
 <string id="barman_zep5a_1">
-<text>At least I don't look like I've been eating rats and sleeping in sewers for the last few weeks! What's up?</text>
+<text>Bar ne izgledam kao da jedem pacove i da spavam po kanalizacijama! Šta ima?</text>
 </string>
 <string id="barman_zep5a_2">
-<text>Never could catch up with that stranger.. been to that bar up North, found Tweeds book..</text>
+<text>Nikako da naðem tog stranca. Bio sam u tom baru na Severu, pronašao sam Tvidinu knjigu.</text>
 </string>
 <string id="barman_zep5a_3">
-<text>He hasn't been back here.. A book?  Did you read it?  You aught to get it back to her as soon as you can, I bet she is eager for it..</text>
+<text>Ovamo se nije vraæao. Knjigu? Jesi li je proèitao? Trebaš je što pre vratiti, mislim da doslovno crkava za njom.</text>
 </string>
 <string id="barman_zep5a_4">
-<text>Looked at it.. not my kinda reading. Suppose your right, who knows..  I may even get something out of it.</text>
+<text>Pregledao sam malo, ali nije to moj žanr. Mislim da si u pravu. Možda èak nešto ispadne iz ovoga.</text>
 </string>
 <string id="barman_zep5b_2">			<!-- already seen tweed -->
-<text>I could use a nice cold keg of beer right now!</text>
+<text>Dobro bi mi sjela jedna krigla hladnog piva!</text>
 </string>
 <string id="barman_zep5b_3">
-<text>Sounds like you've had a hard day of it..</text>
+<text>Zvuèiš kao da si imao loš dan.</text>
 </string>
 <string id="barman_zep5b_4">
-<text>That's an understatement for sure! Everytime I turn around there is someone or something chasing me, never a dull moment!</text>
+<text>Blago reèeno! Svaki put kad se okrenem neko ili nešto me juri, nikada mira ni na trenutak!</text>
 </string>
 <string id="barman_zep5b_5">
-<text>From what I've heard..  it's you doing all the chasing!</text>
+<text>Koliko sam ja èuo, ti si uzrok sve te jurnjave!</text>
 </string>
 <string id="barman_zep5b_6">
-<text>More the reason I need to drown myself in liquid sorrow..  eh?</text>
+<text>Još jedan razlog više da se utopim u moru jada.</text>
 </string>
 
 <!-- Lisiy in bar, ZEP extra info -->
 <string id="lisiy_dialog_zep1_0">
-<text>Did you talk to the stranger that was going around asking questions the other day?</text>
+<text>Jesi li razgovarao sa onim strancem što se neki dan raspitivao uokolo?</text>
 </string>
 <string id="lisiy_dialog_zep1_1">
-<text>Stranger...    I would have a different name to describe that walking evil!</text>
+<text>Strancem? Imam ja bolje ime koje opisuje to hodajuæe zlo!</text>
 </string>
 <string id="lisiy_dialog_zep1_2">
-<text>What did he ask?</text>
+<text>Šta je hteo?</text>
 </string>
 <string id="lisiy_dialog_zep1_3">
-<text>About some documents I never heard about..    and you.</text>
+<text>Pitao me za neke dokumente za nikada nisam èuo. I za tebe.</text>
 </string>
 <string id="lisiy_dialog_zep1_4">
-<text>ME!...     what do you mean, what did he ask?</text>
+<text>Za mene! Kako to misliš? Šta je pitao?</text>
 </string>
 <string id="lisiy_dialog_zep1_5">
-<text>He wanted to know about a man with your mark on his arm and where he might be now.\nI told him you were through here a long time back but haven't seen you since... that's all, swear.</text>
+<text>Htio je nešto saznati o èoveku koji ima takvu tetovažu na ruci i gde bi mogao biti sada.\nRekao sam mu da si prošao davno ovuda i da te nisam video od tada. To je sve, kunem ti se.</text>
 </string>
 
 <!-- Voronin, dolg commander, ZEP required info -->
 <string id="voronin_dialog_zep1_0">
-<text>Still stuck here I see..   what can you tell me about the stranger who was asking around about me?</text>
+<text>Vidim da si još ovde. Šta mi možeš reæi o tom strancu koji se raspitivao za mene?</text>
 </string>
 <string id="voronin_dialog_zep1_1">
-<text>Delightful sole..   lifted my spirits and made me not care about this pit for awhile!</text>
+<text>Neka ugodna duša. Podigao mi je duh tako da mi više nije briga za ovom rupom!</text>
 </string>
 <string id="voronin_dialog_zep1_2">
-<text>You know..   I am not surprised you two hit it off..    having heard about this guy.\nI need to know what he wanted, what was he asking?</text>
+<text>Znaš, èudi me kako vas dvojica niste zajedno otišli nekuda, haha.\nMoram znati šta je hteo?</text>
 </string>
 <string id="voronin_dialog_zep1_3">
-<text>I told him about your work for me and our plans to retire in Moscow together. Sweet mother of my sole..</text>
+<text>Rekao sam mu da si radio nešto za mene i naše zajednièke planove za penzionisanje u Moskvi. Majko moja draga.</text>
 </string>
 <string id="voronin_dialog_zep1_4">
-<text>Are you OK?    who's going to Moscow with you..   we in the same room?</text>
+<text>Jesi li ti OK? Ko ide s tobom u Moskvu. Mi zajedno?</text>
 </string>
 <string id="voronin_dialog_zep1_5">
-<text>Moscow..    great place it is..    want to go there with me?   What you here for?</text>
+<text>Moskva. To je divno mesto. Hoæeš li iæi samnom? Zašto si došao ovamo?</text>
 </string>
 <string id="voronin_dialog_zep1_6">
-<text>OK.. well..  thanks anyway..</text>
+<text>OK. Paa. Svejedno hvala.</text>
 </string>
 
 <!-- Voronin, ZEP required info after return from ww -->
 <string id="voronin_dialog_zep2_0">
-<text>Tell me about ZEP and your copy of the codes.</text>
+<text>Reci mi nešto o ZEP-u i tvojoj kopiji šifara.</text>
 </string>
 <string id="voronin_dialog_zep2_1">
-<text>ZEP..    ZEP..    Ah..   codes, codes, codes..</text>
+<text>ZEP... ZEP... Ah... Šifre, šifre, šifre...</text>
 </string>
 <string id="voronin_dialog_zep2_2">
-<text>Where is it?    Give me the codes so we can go to Moscow.</text>
+<text>Gde su? Daj mi šifre, pa da možemo krenuti za Moskvu.</text>
 </string>
 <string id="voronin_dialog_zep2_3">
-<text>Moscow..   go, go, go..    let's all go to Moscow!</text>
+<text>Moskva... Idemo, idemo, idemo... Idemo svi za Moskvu!</text>
 </string>
 <string id="voronin_dialog_zep2_4">
-<text>Where is it..  what did you do with ZEP..  try and find ZEP..</text>
+<text>Gde su? Šta si u radio sa ZEP dokumentima. Pokušaj pronaæi ZEP...</text>
 </string>
 <string id="voronin_dialog_zep2_5">
-<text>Gone..   stranger came to take..     but can't find.\nMAD MAD MAD!..    that was him..   MAD MAD MAD!</text>
+<text>Otišli su. Stranac je došao da ih uzme... Ali ih ne mogu naæi.\nLUD, LUD, LUD! To je s njim... LUD, LUD, LUD!!</text>
 </string>
 <string id="voronin_dialog_zep2_6">
-<text>Ok..  Ok..    you take it easy..   later..</text>
+<text>Ok, ok... Polako... Vidimo se kasnije.</text>
 </string>
 
 <!-- Associate (geek), ZEP required info -->
 <string id="associate_dialog_zep1_0">
-<text>Tell me about this stranger..   what was he after?</text>
+<text>Reci mi o tom strancu. Šta traži?</text>
 </string>
 <string id="associate_dialog_zep1_1">
-<text>Whatever it is..    this ZEP conspiracy or whatever..   it has me nervous!</text>
+<text>Traži taj neki ZEP. Šta god to da je, neka zavjera ili šta veæ, èini me nervoznim!</text>
 </string>
 <string id="associate_dialog_zep1_2">
-<text>That isn't hard to achieve..   but please doctor, tell me anything that might be important.</text>
+<text>To i nije bilo teško postiæi. Molim vas doktore, recite mi sve što bi moglo biti važno.</text>
 </string>
 <string id="associate_dialog_zep1_3">
-<text>He has something to do with whatever happened at F1, nothing has been heard from there since the explosion..\neh.. this stranger.. and I do mean strange!.. had the air of an extremely well educated scientist and he is obviously looking for something very powerful.</text>
+<text>Šta god da je bilo u F1, on je imao veze s tim. Od tamo se nije èulo ništa još od eksplozije.\nEh... Taj stranac... Stvarno ima nešto "strano" u njemu! Na njemu se vidi da je strašno nauèno obrazovan i da traži nešto vrlo moæno.</text>
 </string>
 <string id="associate_dialog_zep1_4">
-<text>Did he mention anything about me? Where did he say he was going next?</text>
+<text>Da li je spomenuo nešto u vezi mene? Da li je rekao gde ide?</text>
 </string>
 <string id="associate_dialog_zep1_5">
-<text>He did..   he asked me to track your PDA but I told him you had one of the new modified devices that I could not track.\nHe seemed a little skeptical but then he asked about the Wasted Woodland which I new nothing about.</text>
+<text>Jeste. Tražio je od mene da pratim tvoj PDA, ali sam mu rekao da ti imaš jedan od onih novih, modifikovanih, ureðaja koje ne mogu pratiti.\nIzgledao je malo skeptièno ali me onda pitao za Crnu Šumu o kojoj ništa nisam znao.</text>
 </string>
 <string id="associate_dialog_zep1_6">
-<text>Thanks..   is my device really modified? Is this possible?</text>
+<text>Hvala. Je li moj PDA stvarno modifikovan? Je li to uopæe moguæe?</text>
 </string>
 <string id="associate_dialog_zep1_7">
-<text>Actually it is a modified device, remember the chip that was placed in it when it had malfunctioned?\nWell..  when you had me remove it I decided to leave the device hard code disabled which in effect makes it unidentifiable remotely. You still get your messages but your satellite bounce-back identity is 'nil'.</text>
+<text>Zapravo i jeste. Seæaš se onog èipa koji je zamenjen kada si imao problema s njim?\nPa, kada si me zamolio da ga zamenim, odluèio sam da ga ostavim šifriranog, tako da ga niko ne može identificirati na daljinu. I dalje možeš primati i slati poruke, ali tvoj satelitski identitetski otisak je "nula".</text>
 </string>
 <string id="associate_dialog_zep1_8">
-<text>Getting too techy now so I'm gonna split..    thanks for everything.</text>
+<text>Previše tehnièko-tehnoloških informacija, tako da idem odavde. Hvala na svemu.</text>
 </string>
 
 <!-- Associate (geek), flight recorder -->
 <string id="associate_dialog_zep2_0">
-<text>I have your flight recorder, pain in the butt to carry so I expect a decent payment.</text>
+<text>Imam tvoj snimaè leta, razgulio sam se vukuæi ovo po Zoni, tako da se nadam da æe isplata biti pristojna.</text>
 </string>
 <string id="associate_dialog_zep2_1">
-<text>You are amazing marked One!\nHere is 5000..   that ought to be sufficient!, eh?\nand a key that I think may come in useful to you..   who knows..</text>
+<text>Stvarno si izvanredan, Obeleženi!\nEvo 5000. Mislim da je to dovoljno! Zar ne?\n Evo i kljuè, mislim da æe ti dobro doæi. Ko zna.</text>
 </string>
 <string id="associate_dialog_zep2_2">
-<text>All right, fair enough but what about this object that I supposedly lost?.</text>
+<text>U redu, pošteno. Ali šta je sa onim predmetom što sam navodno izgubio?</text>
 </string>
 <string id="associate_dialog_zep2_3">
-<text>The Soul Cube was here..  but the person who has it decided to leave. I told him that it was yours and that you knew how it works.</text>
+<text>Kocka Duša je bila ovde. Ali osoba koja je imala, je odluèila da ode. Rekao sam mu da je tvoja i da ti znaš kako radi.</text>
 </string>
 <string id="associate_dialog_zep2_4">
-<text>What did he want for it?\nDo you have any idea where he went?</text>
+<text>Šta je tražio za nju?\nImaš li ikakvu ideju gde je otišao?</text>
 </string>
 <string id="associate_dialog_zep2_5">
-<text>He wouldn't say what he wanted for it but did say he considered it priceless.\nHe talked about taking it to the NPP and trying to make it work there where anomalous energy is at its greatest strength.</text>
+<text>Nije rekao šta želi za nju, ali jeste rekao da je smatra neprocenjivom.\nRekao je da æe je odneti do NEP Èernobila, i da æe tamo pokušati naterati da radi, jer tamo anomalna energija ima najveæu snagu.</text>
 </string>
 <string id="associate_dialog_zep2_6">
-<text>Damn...    last place I want to go to is around that plant!\nIf the radiation and anomalies don't get you those jumper-snorks will!</text>
+<text>Do ðavola. Ta nuklearka je zadnje mesto na svetu gde želim iæi!\nAko te radijacija i anomalije ne srede, srediæe ti snorkovi skakaèi!</text>
 </string>
 
 <!-- Ivancov, ZEP extra info -->
 <string id="ivancov_dialog_zep1_0">
-<text>Did a stranger talk to you lately?</text>
+<text>Da nije kakav stranac razgovarao s tobom u zadnje vreme?</text>
 </string>
 <string id="ivancov_dialog_zep1_1">
-<text>As a matter of fact yes..  why?</text>
+<text>Jeste. A zašto pitaš?</text>
 </string>
 <string id="ivancov_dialog_zep1_2">
-<text>He has been poking his nose into my affairs and I want to know why and better yet..   who he is!</text>
+<text>Zato što gura nos u moje poslove i želim znati zašto. Ili još bolje: želim znati ko je on!</text>
 </string>
 <string id="ivancov_dialog_zep1_3">
-<text>He seems to have lost something very important.. he had an air of desperation that caused me to fear him.</text>
+<text>Izgleda kao da je izgubio nešto vrlo važno. Imao je neko èudno ozraèje oèaja oko sebe, tako da sam ga se malo i uplašio.</text>
 </string>
 <string id="ivancov_dialog_zep1_4">
-<text>What did he ask you?.</text>
+<text>Šta te pitao?.</text>
 </string>
 <string id="ivancov_dialog_zep1_5">
-<text>Mostly about the commander..   seeing how he has flown over the kookoos nest..   eh. he wanted to know where he kept his private papers at.\nI told him to leave the base immediately and not return..   haven't seen him since.</text>
+<text>Uglavnom o komadantu. Htio je da zna gde drži privatne dokumente.\nRekao sam mu da smesta napusti bazu i da se više ne vraæa. Nisam ga video od tada.</text>
 </string>
 <string id="ivancov_dialog_zep1_6">
-<text>I guess even a half-wit commander deserves loyalty to some extent..</text>
+<text>Pretpostavljam da èak i budala od komadanta zaslužuje lojalnost u odreðenoj meri.</text>
 </string>
 
 <!-- Petrenko, ZEP extra info -->
 <string id="petrenko_dialog_zep1_0">
-<text>Hail trader.. any news?</text>
+<text>Zdravo trgovèe. Ima li šta novo?</text>
 </string>
 <string id="petrenko_dialog_zep1_1">
-<text>Nothing out of the ordinary.. strange intense blowout a few days ago..  Ivancov chasing some stranger out at gunpoint..  commander vacationing in Moscow..   eh..  how's it with you?</text>
+<text>Ništa normalno. Èudno intenzivna Emisije pre nekoliko dana, Ivancov juri nekog stranca držeæi ga na nišanu, komandant letuje u Moskvi... Heh... Šta ima kod tebe?</text>
 </string>
 <string id="petrenko_dialog_zep1_2">
-<text>Same as usual.. can you tell me anything about that stranger?</text>
+<text>Isto kao i uvek. Možeš li mi reæi nešto o tom strancu?</text>
 </string>
 <string id="petrenko_dialog_zep1_3">
-<text>Not much. He avoided me for some reason..  didn't think I looked that mean!</text>
+<text>Pa baš i ne. Iz nekog razloga me izbegavao. Nisam mislio da izgledam tako zlobno!</text>
 </string>
 <string id="petrenko_dialog_zep1_4">
-<text>Not sure mean is the word I would use.. so there is nothing you can tell me about him at all?</text>
+<text>Mislim da ja ne bi koristio reè "zloban". Znaèi stvarno nema ništa što bi mi mogao reæi u vezi tog èoveka?</text>
 </string>
 <string id="petrenko_dialog_zep1_5">
-<text>I did notice that he had a strange patch on his vest, never seen it before.\nIt was sorta like a Helix over a silver cloud with a small round symbol not unlike a radiation warning sign.</text>
+<text>Pa primetio sam da ima èudan amblem na jakni, kojeg nikada pre nisam video.\nNeka vrsta spirale preko srebrenog oblaka, sa malim okruglim simbolom slièan znaku upozorenja od radijacije.</text>
 </string>
 <string id="petrenko_dialog_zep1_6">
-<text>Never heard of it either..   all we need is some new faction coming in here and stirring things up.</text>
+<text>Ni ja nisam èuo za ništa slièno. Samo nam još treba jedna nova frakcija da još malo podgrije stvari.</text>
 </string>
 
 <!-- Leskinoz in Broken Road, starts gold bars quest -->
 <string id="tractorist_dialog_zep1_0">
-<text>What are you doing here?</text>
+<text>Šta radiš ovde?</text>
 </string>
 <string id="tractorist_dialog_zep1_1">
-<text>Not sure..    I was working in the tunnel when I felt a surge of heat and then woke up to the place abandoned.</text>
+<text>Nisam siguran. Radio sam u tunelu kada sam osetio nalet vruæine, a probudio sam se na napuštenom mestu.</text>
 </string>
 <string id="tractorist_dialog_zep2_0">
-<text>Who was that soldier and why was that tank out there?</text>
+<text>Ko je taj vojnik i zašto je taj tenk tamo?</text>
 </string>
 <string id="tractorist_dialog_zep2_1">
-<text>He told me to stay put and not try to leave. He said something about evac choppers.</text>
+<text>rekao mi je da ostanem tu i da ne pukušavam da odem. Spominjao je neki evakuacijski helikopter.</text>
 </string>
 <string id="tractorist_dialog_zep3_0">
-<text>What are they going to evacuate from here..  monsters?</text>
+<text>Šta hoæe evakuisati odavde? Èudovišta?</text>
 </string>
 <string id="tractorist_dialog_zep3_1">
-<text>Don't know, that soldier was talking on the radio about some gold bars stashed in an attic in the village.\nHe sounded very excited about it and was on his way there.</text>
+<text>Ne znam. taj vojnik je prièao s nekim preko radija o nekim zlatnim polugama skrivenim na nekom tavanu u selu.\nZvuèao je jako uzbuðeno i zaputio se tamo.</text>
 </string>
 <string id="tractorist_dialog_zep4_0">
-<text>What will you do now?</text>
+<text>Šta æeš sada?</text>
 </string>
 <string id="tractorist_dialog_zep4_1">
-<text>Wait here..  my collegues should come back now that the military is gone.</text>
+<text>Ostaæu ovde. Moje kolege bi se trebale vratiti sada kada je vojska otišla.</text>
 </string>
 <string id="tractorist_dialog_zep5_0">
-<text>Good luck with that..   seems like it is too overrun for you geek types.</text>
+<text>Pa nek' ti bude sreæno s tim. Izgleda da je vojska otišla ali su ostala èudovišta.</text>
 </string>
 <string id="tractorist_dialog_zep5_1">
-<text>The mosters can be dealt with once they get back with decent weapons.</text>
+<text>Sa èudovištima æemo izaæi na kraj sa malo ozbiljnijim oružjem.</text>
 </string>
 
 <!-- glavny in x14, tells player to drop black energy -->
 <string id="glavny_dialog1_1">
-<text>How did you get here?</text>
+<text>Kako si došao ovamo?</text>
 </string>
 <string id="glavny_dialog1_2">
-<text>I followed these creeps down here when I saw what they were transporting..   looked valuable</text>
+<text>Pratio sam ove nakaze ovamo kada sam video šta prevoze. Izgleda vredno.</text>
 </string>
 <string id="glavny_dialog1_3">
-<text>So..   what is it and why did they bring it here?</text>
+<text>I? Šta je to i zašto su to dovezli ovamo?</text>
 </string>
 <string id="glavny_dialog1_4">
-<text>I heard a man yelling at them while they were activating it, he was telling them to increase the power to spread the field over the entire Zone.</text>
+<text>Èuo sam èoveka kako vièe na njih kada su to aktivirali. Govorio im je da pojaèaju snagu i da prošire polje preko èitave Zone.</text>
 </string>
 <string id="glavny_dialog1_5">
-<text>So..  they brought it here for the power but what did he mean by entire Zone?</text>
+<text>Znaèi da su ga ovde dovezli zbog napajanja i snage, ali šta im znaèi to "preko cele Zone"?</text>
 </string>
 <string id="glavny_dialog1_6">
-<text>All I can do is guess but for sure it cannot be good..  I think that we should deactivate it some how.</text>
+<text>Sve što mogu je pretpostaviti, ali sigurno nije ništa dobro. Mislim da bi ga trebali nekako deaktivirati.</text>
 </string>
 <string id="glavny_dialog1_7">
-<text>How the hell do we do that?   The energy seems to have built up to a point where everything is fused, we need something to interact with the energy field.</text>
+<text>Kako, do ðavola, da to uradimo? Izgleda da je energija bila tolika da je sve spojeno. Treba nam nešto za interakciju sa energetskim poljem.</text>
 </string>
 <string id="glavny_dialog1_8">
-<text>Like what exactly..</text>
+<text>Kao, na primer, šta?</text>
 </string>
 <string id="glavny_dialog1_9">
-<text>Negative energy, like a Black Energy Anomaly.  We need to find one and drop it into the sphere of energy.</text>
+<text>Negativna energija, nešto kao Crna Energija. Treba da pronaðemo jedan i ubacimo u energetsku sferu.</text>
 </string>
 <string id="glavny_dialog2_1">
-<text>Glavny</text>
+<text>Glavni</text>
 </string>
 <string id="glavny_dialog2_2">
-<text>What's wrong, go find a Black Energy and hurry!</text>
+<text>Šta je problem? Idi i pronaði Crnu Energiju i požuri!</text>
 </string>
 <string id="glavny_dialog2_3">
-<text>I can't find one..   where the hell can I get one?</text>
+<text>Ne mogu je naæi. Gde da je, do ðavola, tražim?</text>
 </string>
 <string id="glavny_dialog2_4">
-<text>Search around the NPP Generators, they seem to spawn there often.</text>
+<text>Potraži u bilzini NEP Generatora, tamo se èesto pojavljuju.</text>
 </string>
 <string id="glavny_dialog2_5">
-<text>OK, OK..     don't get so worked up..</text>
+<text>Ok, ok... Ne srdi se toliko.</text>
 </string>
 
 <!-- sak trader info on soul cube -->
 <string id="sak_cube_dialog_1">
-<text>What did you say about a Soul Cube in that message?</text>
+<text>Šta si ono rekao za Kocku Duše u poruci?</text>
 </string>
 <string id="sak_cube_dialog_2">
-<text>Why? Are you interested in it?</text>
+<text>Zašto? Zar te zanima?</text>
 </string>
 <string id="sak_cube_dialog_3">
-<text>Yes and I am serious about getting it back!</text>
+<text>Zanima. I odluèio sam da je vratim nazad!</text>
 </string>
 <string id="sak_cube_dialog_4">
-<text>Getting it back? You know Shadows? OK look..    I was told by a deserter that he knew where it is, he said it was far South in the outpost firing range. I know a path from here to the wild territory, should make travelling a little easier.</text>
+<text>Da je vratiš? Znaš Senku? Ok, slušaj! Dezerter mi je rekao da on zna gde je. Kaže da je daleko na jugu, u Poligonu. Ja znam put odavde do Divlje Teritorije, što bi ti trebalo olakšati put.</text>
 </string>
 
 <!-- ZEP document contents -->
 <string id="zep_doc">
-<text>ZEP Confidential Release</text>
+<text>ZEP POVERLJIVO</text>
 </string>
 <string id="agent_ax">
 <text>Agent 'X'</text>
 </string>
 <string id="zep_doc_0">
-<text>ZEP [00]\n.\nFOR LEVEL 1 OPERATIVES ONLY\nThese reports will continue until further notice. Monitor them constantly as this information is time sensitive.\nAs you know two objects of alien nature have been discovered. These reports will keep you informed on their status.\n.\nThis device appears to have a relationship with 'Object X' recently discovered in a secret lab - location confidential.\nAfter delivery of the first object to Facility F1: team eleven will attempt to assemble it in the compound area.\n.\nCentral Command ORD-10639</text>
+<text>ZEP [00]\n \nSAMO ZA OPERATIVCE 1 NIVOA\nOvi izveštaji æe se nastavljati do daljnjeg obaveštenja. Konstantno ih prati jer su informacije vremenski osetljive.\nKao što veæ znaš, otkrivena su dva objekta vanzemaljke prirode. Ovaj izveštaj æe te obavestiti o njihovom statusu.\n \nOvaj ureðaj izgleda da ima veze sa "Objektom X", koji je nedavno otkriven u tajnom laboratoriju - lokacija poverljiva.\nNakon isporuke prvog objekta u Postrojenje F1: tim 11 æe ga pokušati sastaviti u podruèju baze.\n \nCentralna komanda NAR-10639</text>
 </string>
 <string id="zep_doc_1">
-<text>ZEP [01]\n.\nTo activate the portal system requires proper placement of special artifacts within the chamber slots. There are special codes on each of the last six pages that define the artifact and which slot. These pages have been seperated from the rest of the document. Three individuals will each be given a copy of these codes so that at least one will be able to complete the activation.\nHolder List:\nVoronin - Rostok\nNardistik - Research Center\nDominik - Agroprom Compound\n.\nSpatial Warp Generator:\nA secondary object was also found in the laboratory. How long it has been there and how it continues to operate is a mistery. A special team of scientists is being assembled in the Old Village to analyze the device. A second team will be sent to F1 to analyze the first object and attempt to determine its origin.\n.\nCentral Command ORD-10640</text>
+<text>ZEP [01]\n \nZa aktiviranje portalskog sistema potrebno je postaviti posebne artefakte unutar komore sa utorima. Tu su i posebne šifre na svakoj od zadnjih 6 stranica, koje definišu artefakte i utore koji im pripadaju. Te stranice su odvojene od ostatka dokumenta. Tri osobe æe dobiti taène kopije tih šifara, tako da æe bar jedna od njih biti u moguænosti završiti aktivaciju.\nLista osoba:\nVoronjin - Rostok\nNardistik - Istraživaèki Center\nDominik - Agroprom\n \nProstorni Warp Generator:\nSekundarni objekat je takoðer pronaðen u laboratoriju. Koliko dugo je tamo i kako nastavlja sa svojim radom je totalna misterija. Okupljen je posebni tim nauènika u Starom Selu, da analizira ureðaj. Drugi tim je poslan u F1 da analizira prvi objekat i da odredi njegovo poreklo.\n \nCentralna komanda NAR-10640</text>
 </string>
 <string id="zep_doc_2">
-<text>ZEP [02]\n.\nThe team in the Old Village was transported to the lab today. They will begin work immediately to determine what went wrong.\nStrange emmisions have recently been detected coming out of Backwater. A chopper has been dispatched to attempt to locate its source. It must be investigated as if it is related to the objects with the utmost urgency.\n.\nCentral Command ORD-10725</text>
+<text>ZEP [02]\n \nTim iz Starog Sela je danas transportovan u laboratorij. Odmah æe poèeti s radom da vide šta nije u redu.\nÈudna Emisija je nedavno detektovana kako dolazi iz Zatona. Poslan je jedan helikopter da pokuša locirati izvor. Mora biti istraženo ako je u vezi sa objektima, i to sa najveæim prioritetom.\n \nCentralna komanda NAR-10725</text>
 </string>
 <string id="zep_doc_3">
-<text>ZEP [03]\n.\nIt was reported by the transport team that the object has begun to vibrate and glow slightly. They are half way to their destination, a squad of military is being dispatched to Pripyat to escort them the rest of the way.\n.\nCentral Command ORD-10733</text>
+<text>ZEP [03]\n \nPrijavljeno je od transportnog tima da je objekat poèeo lagano vibrirati i da blago sija. Oni su na pola puta do svoje destinacije, odred vojske je poslan u Pripjat da ih otprati ostatak puta.\n \nCentralna komanda NAR-10733</text>
 </string>
 <string id="zep_doc_4">
-<text>ZEP [04]\n.\nStrange Blast:\nOn arriving at F1 there was a huge explosion that appears to have originated from the object. There is no communication at this point and air surveillance indicates the area is extremely high in radiation. Present dissipation indicates that the area will be re-enterable in four days.\nA secondary team has been assembled in the old Jupiter Rail Station that will stand ready to support team twelve.\n.\nCentral Command ORD-10744</text>
+<text>ZEP [04]\n \nÈudna eksplozija:\nPri dolasku u F1 desila se velika eksplozija èije je poreklo bilo iz samog objekta. Trenutno je komunikacija izgubljena, a izviðanje iz zraka pokazuje da je podruèje pod visokom radijacijom. Sadašnje rasipanje radijacije ukazuje da æe to podruèje biti dostupno za 4 dana.\nDrugi tim je bio okupljen kod stare Železnièke stanice u Jupiteru, koji æe biti spreman da pruži podršku timu 12.\n \nCentralna komanda NAR-10744</text>
 </string>
 <string id="zep_doc_5">
-<text>ZEP [05]\n.\nTemporary headquarters have been relocated to the old research station until F1 is safe to re-enter. Team eleven has been completely wiped out and team twelve has arrived at the lab and has started analyzing the second object. It is unknown when team twenty will be assembled and arrive at F1 after the radiation levels decrease. An agent has been dispatched to East Pripyat in search of one of the original scientists that worked on the Monolith project. His name is Glavny and he may have an idea as to what the object is here for.\n.\nCentral Command ORD-10871</text>
+<text>ZEP [05]\n \nPrivremena Komanda je premeštena u staru istraživaèku stanicu sve dok F1 ne bude sigurna za slobodni ulazak. Tim 11 je u potpunosti zbrisan a tim 12 je stigao u laboratorij i poèeo sa analizom drugog objekta. Nije poznato kada æe biti okupljen tim 20 i kada æe stiæi u F1 nakon smanjenja radijacije. Agent je poslan u Istoèni Pripjat da potraži jednog od originalnih nauènika koji su radili na projektu Monolit. Njegovo ime je Glavni i možda on ima ideju zašto je taj objekat ovde.\n \nCentralna komanda NAR-10871</text>
 </string>
 <string id="zep_doc_6">
-<text>ZEP [06]\n.\nLab Disaster:\nTeam twelve has vanished from the lab. No indication as to what happened at this point but it appears to have been caused by a power surge from the object. Special agent; code name 'AX' will be dispatched to the lab to investigate the occurance and attempt to locate survivors.\nIt is also advised that an agent for the Monolith has been seen in the old Distribution Center. Send a small detachment to investigate and possibly apprehend this agent.\nPerson of interest: name unknown, has tattoo on arm 'S.T.A.L.K.E.R.', was involved in the NPP disaster involving the 'OC', consider dangerous, try to bring in alive.\n.\nCentral Command ORD-10877</text>
+<text>ZEP [06]\n \nKatastrofa u Laboratoriju:\nTim 12 je nestao iz laboratorija. U ovom trenutku nema nikakvih pokazatelja šta se desilo, ali pretpostvljam da je uzrok udar iz objekta. Specijalni agent, kodno ime "AX", æe biti poslan u laboratorij da istraži ovu pojavu i potraži preživele.\nPošto smo obavešteni da je agent Monolita viðen u starom Distributivnom centru. Pošaljite mali odred da to istraži i po moguænosti uhvati agenta.\nOsoba od interesa: ime nepoznato, ima tetovažu "S.T.A.L.K.E.R." na ruci, umešan u katastrofu NEP sa O-svesti, smatra se vrlo opasnim, pokušaj ga dovesti živog.\n \nCentralna komanda NAR-10877</text>
 </string>
 <string id="zep_doc_7">
-<text>ZEP [07]\n.\nLab Report:\nAgent 'AX' has determined that the object had been compromised by the scientists of team twelve. This caused a feedback condition that created a portal of extreme magnitude. Where the team was teleported to is unknown. Our agent has informed me he is travelling south looking for an individual that may have information about the lab. His last known location was in the Rostok area but there are also rumors that he is buried in the old Cemetery.\n.\nCentral Command ORD-10913</text>
+<text>ZEP [07]\n \nIzveštaj iz laboratorija:\nAgent "AV" je zakljuèio da je objekat ugrožen od strane nauènika tima 12. Ovo je prouzrokovalo povratnu spregu i uslove koji su stvorili portal ekstremne magnitude. Gde je tim teleportiran je nepoznato. Naš agent me izvestio da putuje na jug, da potraži pojedinca koji možda ima informaciju o laboratoriju. Njegova zadnja poznata lokacija je bila u podruèju Rostoka, ali se prièa da je pokopan na starom Groblju.\n \nCentralna komanda NAR-10913</text>
 </string>
 <string id="zep_doc_8">
-<text>ZEP [08]\n.\nAX Report 1:\nOur agent located Voronin, he appears to have lost his copy of the activation codes and has also lost his mind. Agent 'AX' is travelling to Dead City following the trail of the second code holder. He also intends to re-visit the Cemetery as he has new information to go on.\n.\nCentral Command ORD-11003</text>
+<text>ZEP [08]\n \n"AX" izveštaj 1:\nNaš agent je locirao Voronjina, ali je on izgleda izgubio kopiju sa aktivacijskim šiframa, kao što je izgubio i um. Agent "AX" je na putu za Mrtvi Grad, sledeæi trag drugog nosioca šifre. Takoðer namerava da ponovo poseti Groblje jer ima neke nove informacije.\n \nCentralna komanda NAR-11003</text>
 </string>
 <string id="zep_doc_9">
-<text>ZEP [09]\n.\nAX Report 2:\nCemetery turned up nothing, Agent 'AX' has informed me that he will spend some time searching Dead City. A report has also come in that someone was in the old Warlab recently.\n.\nCentral Command ORD-11009</text>
+<text>ZEP [09]\n \n"AX" izveštaj 2:\nGroblje je bio pucanj u prazno, dakle ništa. Agent "AX" me obavesti da æe neko vreme uložiti u istraživanje Mrtvog Grada. Takoðer me izvestio da je neko nedavno bio u Varlabu.\n \nCentralna komanda NAR-11009</text>
 </string>
 <string id="zep_doc_10">
-<text>ZEP [10]\n.\nAX Report 3:\nSecond code holder 'Nardistik' found, grave is in the old Cemetery East of Pripyat. No indication as to how and where he died, and what became of his things. Agent 'AX' has searched the area thoroughly and is now headed to the Dead Marshes on another lead.\n.\nCentral Command ORD-11011</text>
+<text>ZEP [10]\n \n"AX" izveštaj 3:\nDrugi nosilac šifre "Nardistik" je pronaðen. Pokopan je na starom Groblju u Istoènom Pripjatu. Nema pokazatelja kako i gde je umro, ili šta se desilo sa njegovim stvarima. Agent "AX" je temeljito pretražio podruèje i sada se uputio prema Mrtvim Baruštinama, prema drugom tragu.\n \nCentralna komanda NAR-11011</text>
 </string>
 
 <!-- something to bring back with him -->
 <string id="zep_sms_from_geek">
-<text>Marked one...  I need your help. A chopper has gone down in the Dead Marshes that was making special measurements. Find me the flight recorder, bring it to me and I will pay you as well as reward you with something you have lost.</text>
+<text>Obeleženi... Treba mi tvoja pomoæ. Helikopter, koji je pao u Mrtvim Baruštinama, je vršio posebna merenja za nas. Pronaði snimaè leta i donesi ga do mene, a ja æu ti platiti i nagraditi neèim što si izgubio.</text>
 </string>
 
 <string id="zep_doc_11">
-<text>ZEP [11]\n.\nAX Report 4:\nAgent 'AX' has located information that the third code holder may be in the old Research Station comm facility. There is also a small group of scientists there that may be able to help locate him.\n.\nCentral Command ORD-11016</text>
+<text>ZEP [11]\n \n"AX" izveštaj 4:\nAgent "AX" je dobio informaciju da je treæi nosilac možda u starom Istraživaèkom komunikacijskom centru. Tu je i mala grupa nauènika koja bi mu mogla pomoæi da ga locira.\n \nCentralna komanda NAR-11016</text>
 </string>
 <string id="zep_doc_12">
-<text>ZEP [12]\n.\nAX Report 5:\nDead marshes did not turn up anything concrete. Minor resistance was experienced from the locals so a detachment has been sent to gain order there.\nAgent 'AX' was forced to retreat from the Dead Marshes to the Distribution Center. It is expected that he will re-group with central in the Old Research Station within the next two days.\n.\nCentral Command ORD-11019</text>
+<text>ZEP [12]\n \n"AX" izveštaj 5:\nMrtve Baruštine nisu donele ništa konkretno. Naleteo je na manji otpor lokalaca, tako da je jedan odred poslan da uvede red tamo.\nAgent "AX" je bio prisiljen da se vrati iz Baruština u Distributivni Centar. Oèekuje se da æe se regrupisati za dva dana u staroj Istraživaèkoj stanici.\n \nCentralna komanda NAR-11019</text>
 </string>
 
 <!-- make him go back to the bar -->
 <string id="zep_sms_from_bar2">
-<text>Marked one...  you need to get back here right away. That stranger was here and tried to break into the back. Not sure what he wanted..  more when you get here.</text>
+<text>Obeleženi... Moraš se hitno vratit. Onaj stranac je bio ovde i pokušao provaliti. Nisam siguran šta je hteo. Više o tome kada se vratiš.</text>
 </string>
 
 <!-- chase AX into the Wild Territory -->
 <string id="zep_doc_13">
-<text>ZEP [13]\n.\nAX Report 6:\n'AX' failed to gain access to the Associate's locker where Voronin's codes are suspected to be.\nHe was forced to flee into the Wild Territory to avoid confrontation. There was word from the Research Station that he is being tracked by someone. 'AX' is heading to the abandoned Military Warehouses in an attempt to intercept him.\n.\nCentral Command ORD-11023</text>
+<text>ZEP [13]\n \n"AX" izveštaj 6:\n"AX" nije uspeo da dobije pristup asistentovom ormariæu gde je sumnjao da se nalaze Voronjinove šifre.\nMorao je pobeæi u Divlju Teritoriju da izbegne sukob. Došle su neke prièe iz Istraživaèke stanice da ga neko prati. "AX" se uputio prema napuštenom Vojnom Skladištu u pokušaju da ga presretne.\n \nCentralna komanda NAR-11023</text>
 </string>
 <!-- note in warehouses points to npp1 -->
 <string id="zep_doc_14">
-<text>ZEP [14]\n.\nAX Report 7:\nMilitary Warehouses did not turn up anything except an excessive amount of Bandits. 'AX' is in the NPP after a secondary suspect which may be of interest. This suspect may have the 'Soul Cube' that was recorded in earlier events with the 'OC'.\nThe team in the Research Station have departed to Techniques but have left an injured collegue in a trailor near the trail entrance.\n.\nCentral Command ORD-11026</text>
+<text>ZEP [14]\n \n"AX" izveštaj 7:\nVojna Skladišta nisu donela ništa osim horde Bandita. "AX" je u NEP-u u potrazi za drugim osumnjièenim koji može biti od velike važnosti. Ovaj osumnjièeni možda poseduje "Kocku Duša", koja je zabeležena u ranijim dogaðajima sa O-svesti.\nTim iz Istraživaèke stanice je otišao u Industrijsku Zonu, ali su ostavili povreðenog kolegu u blizini ulaza u prikolicu.\n \nCentralna komanda NAR-11026</text>
 </string>
 <string id="zep_doc_15">
-<text>ZEP [15]\n.\nAX Report 8:\nSecond suspect was located near the cooling towers, decapitated and no sign of the 'Soul Cube'.\nStrange activity has been reported out of Techniques near the old motor pool facility. Attempts to get close have failed due to an exceptionaly strong Controller in the area. 'AX' will arrive there later today and will attempt to neutralize it.\n.\nCentral Command ORD-11029</text>
+<text>ZEP [15]\n \n"AX" izveštaj 8:\nDrugi osumnjièeni je lociran u blizini tornjava za hlaðenje, odrubljene glave i bez traga od Kocke.\nÈudna aktivnost je prijavljena u Industrijskoj Zoni, u blizini starog auto parka. Pokušaji da se bolje ispita ta aktivnost su propali zbog prisustva izuzetno jakog Kontrolera. "AX" æe tamo stiæi danas i pokušati ga neutralisati.\n \nCentralna komanda NAR-11029</text>
 </string>
 <string id="zep_doc_16">
-<text>ZEP [16]\n.\nAX Report 9:\nTechniques has proven to be a difficult area so the team has moved on to the far NE Helipad for transport to the Broken Road Facility.\n.\nCentral Command ORD-11038</text>
+<text>ZEP [16]\n \n"AX" izveštaj 9:\nIndustrijska Zona se pokazala kao jako teška i opasna, tako da se tim morao preseliti na daleki heliodrom za transport u Skriveni Put.\n \nCentralna komanda NAR-11038</text>
 </string>
 <string id="zep_doc_17">
-<text>ZEP [17]\n.\nDestruction Notice:\nTeam seven has been tasked with the destruction of all materials and information stored at site ALPHA. You are to assist them in any way necessary. Upon completion both teams are to relocate to the eastern tunnel until further instructions.\nA map found on a dead stalker indicates a path from the Research Station tunnels to a small underground hideout. 'AX' is going to attempt to locate this path and search the hideout.\n.\nCentral Command ORD-11035</text>
+<text>ZEP [17]\n \nDestruction Notice:\nTim 7 je bio zadužen za uništavanje svih materijala i informacija koji se nalaze na lokaciji ALFA. Trebaš im pomoæi ukoliko to bude potrebno. Po završetku posla, oba tima treba da se premeste u istoène tunele do daljnih instrukcija.\nKarta pronaðena kod mrtvog stalkera ukazuje da postoji put iz tunela Istraživaèke Stanice do malog podzemnog skrovišta. "AX" æe pokušati pronaæi taj put i istražiti skrovište.\n \nCentralna komanda NAR-11035</text>
 </string>
 <string id="zep_doc_18">
-<text>ZEP [18]\n.\nAX Report 10:\n'AX' has located a dispatch that indicates a meeting between the suspect found in the NPP and an unknown group. He is heading to End Station where the meeting is set to take place. Note was damaged so the date and time are not known.\n.\nCentral Command ORD-11041</text>
+<text>ZEP [18]\n \n"AX" izveštaj 10:\n"AX" je dobio depešu koja ukazuje na sastanak izmeðu osumnjièenog pronaðenog u NEP-u i jedne nepoznate grupe. Zaputio se do Krajnje Stanice gde se sastanak treba održati. Depeša je ošteæena tako da su datum i vreme nepoznati.\n \nCentralna komanda NAR-11041</text>
 </string>
 <string id="zep_doc_19">
-<text>ZEP [19]\n.\nAX Report 11:\nResistance was encountered at the End Station when 'AX' arrived. No survivors to interogate, 'AX' will search the area for any information about the objects and the individual tracking him. His next location of interest will be the Courtyards and Market areas.\n.\nCentral Command ORD-11046</text>
+<text>ZEP [19]\n \n"AX" izveštaj 11:\nKada je stigao do Krajnje Stanice, "AX" je naišao na otpor. Nije bilo preživelih za ispitivanje. "AX" æe pretražiti podruèje za bilo kakvim informacijama o objektu i pojedinaèno ih pratiti. Njegova sledeæa lokacija su Dvorišta i Crno Tržište.\n \nCentralna komanda NAR-11046</text>
 </string>
 <string id="zep_doc_20">
-<text>ZEP [20]\n.\nAX Report 12:\nMore resistance encountered in the Courtyards, a few fled toward the old Market. 'AX' is following them in an attempt to get a prisoner to interrogate.\n.\nCentral Command ORD-11051</text>
+<text>ZEP [20]\n \n"AX" izveštaj 12:\nVeæi otpor je naišao u Dvorištima, gde je nekoliko njih pobeglo prema Tržištu. "AX" ih prati u pokušaju da uhvati bar jednog radi ispitivanja.\n \nCentralna komanda NAR-11051</text>
 </string>
 <string id="zep_doc_21">
-<text>ZEP [21]\n.\nAX Report 13:\nMarket was abandoned and no evidence found as to where they went from there. 'AX' is now heading for the Broken Road Laboratory east of Facility F1 where information on the blast was kept. The hasty retreat from that area after the blast may have caused information to be left behind.\n.\nCentral Command ORD-11055</text>
+<text>ZEP [21]\n \n"AX" izveštaj 13:\nTržište je napušteno i nisu pronaðeni nikakvi tragovi i dokazi gde su otišli od tamo. "AX" se sada zaputio prema laboratoriju u Skrivenom Putu, istoèno od postrojenja F1 gde su i držane informacije o eksploziji. Užurbano povlaèenje nakon eksplozije, moglo je prouzrokovati neke ostavljene informacije.\n \nCentralna komanda NAR-11055</text>
 </string>
 <string id="zep_doc_22">
-<text>ZEP [22]\n.\nAX Report 14:\nInformation has been recovered in the lab pertaining to the object and subsequant blast. It indicates that there was a huge wave of heat prior to the blast that seemed to warp time itself. Several scientists reported a gap in their work reports that did not make sense. 'AX' has also encountered more and stronger creatures in the area.\nFacility F1 has become tolerable and 'AX' is attempting to enter the area.\n.\nCentral Command ORD-11057</text>
+<text>ZEP [22]\n \n"AX" izveštaj 14:\nInformacija pronaðena u laboratoriju odnosi se na objekat i kasniju eksploziju. On ukazuje da je prije eksplozije došlo do velikog vala vruæine koji je iskrivilo i samo vreme. Nekoliko nauènika je prijavilo veliki jaz u svojim radnim izveštajima, koji nisu imali smisla. Takoðer, "AX" je sreo više i jaèa stvorenja u podruèju.\nPostrojenje F1 je postalo podnošljivo i "AX" æe pokušati uæi u teritoriju.\n \nCentralna komanda NAR-11057</text>
 </string>
 <string id="zep_doc_23">
-<text>ZEP [23]\n.\nAX Report 15:\nF1 is extremely hot and destruction was wide spread. There appears to have been two explosions, both convoys seem to be the central points for these explosions. The crystal object being transported appears to be inert now, no activity or energy of any kind. 'AX' was unable to get close to them as the radiation is still off the charts at those two locations.\n'AX' has been dispatched to the Jupiter area where seismic activity has been recently recorded beneath the old Jupiter Complex.\n.\nCentral Command ORD-11060</text>
+<text>ZEP [23]\n \n"AX" izveštaj 15:\nF1 je izuzetno vruæe mesto i razaranje je široko rasprostranjeno. Po svemu sudeæi, bile su dve eksplozije, oba konvoja su bile centralne taèke tih eksplozija. Kristalni objekat koji se transportovao se sada èini inertnim, ne pokazuje nikakvu aktivnost. "AX" nije u moguænosti da mu se približi jer je radijacija iznad svih oèitavanja u obje lokacije.\n"AX" se zaputio prema podruèju Jupitera, gde je nedavno uoèena seizmièka aktivnost i to ispod starog kompleksa Jupitera.\nOklopna vozila su rasporeðena u podruèje oko lifta kao mjera opreza.\nCentralna komanda NAR-11060</text>
 </string>
 <string id="zep_doc_24">
-<text>ZEP [24]\n.\nAX Report 16:\nIt has been reported that heavy resistance was encountered in the underground facility discovered beneath the complex. There has been no communication with agent 'AX' since this last report. A military group is being dispatched to infiltrate the underground and gain control there.\n.\nCentral Command ORD-11064</text>
+<text>ZEP [24]\n \n"AX" izveštaj 16:\nPrimljen je izveštaj o velikom otporu u podzemnom postrojenju kompleksa. Nije bilo kontakta sa agentom "AX" od njegovog zadnjeg izveštaja. Vojni odred je poslan da se infiltrira u podzemlje i da tamo preuzme kontrolu.\n \nCentralna komanda NAR-11064</text>
 </string>
 
 <string id="zep_note">
-<text>Notes and Memos</text>
+<text>Napomene i beleške</text>
 </string>
 
 <string id="zep_note_tower">
-<text>Missed you, sorry I came so late.\nWe can meet at the old lab just a short ways Southwest from here. Come alone and bring the package with you.\nOzzi</text>
+<text>Nedostaješ mi, žao mi je što sam došao tako kasno.\nMožemo se naæi u obližnjoj staroj laboratoriji jugozapadno odavde. Doði sam i ponesi paket sa sobom.\nOzzi</text>
 </string>
 <string id="zep_note_t">
-<text>Jack</text>
+<text>Džek</text>
 </string>
 
 <string id="zep_note_bunker">
-<text>Been waiting here too long, doors are broken and provide no protection.\nI will meet you at the bar, you know where. Don't loose that package and be careful!\nOzzi</text>
+<text>Predugo èekam, vrata su razbijena i ne pružaju nikakvu zaštitu.\nNaæi æemo se u baru, znaš gde. Nemoj izgubiti paket i budi oprezan!\nOzzi</text>
 </string>
 <string id="zep_note_jb">
-<text>Jack</text>
+<text>Džek</text>
 </string>
 
 <string id="zep_note_tent">
-<text>In case you come by here.\nHad to leave early to the meeting place that we agreed upon earlier. Tweed and Dominik have already left and I hope to catch up with them before they get to the old bar.\nOzzi</text>
+<text>U sluèaju da doðeš ovamo.\nMorao sam otiæi ranije na mesto sastanka koje smo ranije dogovorili. Tvid i Dominik su veæ otišli i nadam se da æu ih stiæi pre nego stignu u stari bar.\nOzzi</text>
 </string>
 <string id="zep_note_tn">
-<text>Jack</text>
+<text>Džek</text>
 </string>
 
 <string id="zep_note_dist1">
-<text>ALL POINTS: WANTED FOR QUESTIONING\nAll points of transit be aware of an individual seen in the area that is wanted for questioning. His name is not known, he displays a silver colored patch not known to these parts. Report his location but do not approach without adequate backup. Notify the top command in your area immediatly if spotted.</text>
+<text>ZA SVE: TRAŽI SE ZBOG ISPITIVANJA\nSvi punktovi na prelazima neka budu na oprezu i dobro pripaze na osobu koja se traži za ispitivanje. Ime nije poznato, nosi srebreno obojeni amblem koji je nepoznat u ovim karajevima. Prijavite njegovu lokaciju ali mu ne prilazite bez adekvatne podrške. Izvestite svog nadreðenog odmah po viðenju.</text>
 </string>
 <string id="zep_note_d1">
-<text>DISPATCH</text>
+<text>OBAVEŠTENJE</text>
 </string>
 
 <string id="zep_note_dist2">
-<text>Intercepted a dispatch from our bastard neighbors...\nRemember that boar-dung that passed through here a few days back? They want him, we should go after this trash and use him for leverage. I trailed him as far as the river, I am sure he went accross it to East Pripyat. How and where he got accross I do not know for sure but there must be a way. Be ready with a squad for when I arrive, I will try and find his path.\nPatch</text>
+<text>Presreli smo obavest od naših kopiladskih suseda...\nImajte na umu da je ta svinja koju traže prošla ovuda pre neki dan. Oni ga žele pa bi ga i mi morali pratiti i iskoristiti kao polugu. Pratio sam ga do reke i siguran sam da je prešao preko u Istoèni Pripjat. Kako i gde je prešao preko, ne znam ali sigurno mora postojati neki naèin. Budi spreman sa odredoma kada stignem. Pokušaæu potražiti taj njegov put ili prelaz.\nAmblem</text>
 </string>
 <string id="zep_note_d2">
-<text>Commander</text>
+<text>Komandir</text>
 </string>
 
 <string id="zep_note_rsch1">
-<text>I was here for the package, could not stay as things are too insane.\nWill get in touch with you at the old bar North of the Research Station.\n.\nNardistik</text>
+<text>Bila sam tu zbog paketa, ali nisam mogla ostati, stvari su previše loše.\nPokušaæu stupiti u kontakt s tobom u starom baru severno od Istraživaèke stanice.\n \nNardistik</text>
 </string>
 <string id="zep_note_r1">
-<text>Tweed</text>
+<text>Tvid</text>
 </string>
 
 <string id="zep_note_warehouses1">
-<text>Place is deserted, not sure what happened here.\nWoke up to a band of Bandits outside the barracks this morning, surprised them with a grenade out the window. That sort of perked me up and gave me new strength, is that sick?\nHope you get this note as I am leaving for the NPP, can't wait here any longer. I was able to talk to some stalkers in an old farmhouse, they said that a group of scientists went through here on their way to the NPP Control Center. No doubt the stalker that has been tracking me is also following them or will be. If I am lucky I will cross paths with him and deal with this character and maybe even find out what he wants first, maybe.\n.\nX</text>
+<text>Mesto je napušteno, nisam siguran šta se desilo ovde.\nProbudila me horda Bandita ispred baraka jutros. Iznenadio sam ih sa bombom sa prozora. Ti ljudi su me nekako nadahnuli i dali novu snagu, zar to nije bolesno?\nNadam se da æeš dobiti ovu poruku jer ja odlazim za NEP, ne mogu èekati duže. Prièao sam sa nekim stalkerima u staroj kuæi, rekli su mi da je grupa nauènika prošla ovuda na svom putu za NEP Kontrolni Centar. Nema sumnje da stalker koji me prati takoðer prati i njih. Ukoliko budem imao sreæe, putevi æe nam se ukrstiti pa æu se suoèiti s tim likom, a možda prije toga i saznam šta želi.\n \nX</text>
 </string>
 <string id="zep_note_wh1">
 <text>Snatch</text>
 </string>
 
 <string id="zep_note_rad1">
-<text>I am not sure what happened. I entered a purple fog in the Northern part of the NPP and somehow ended up on a roof near the NPP Generators. There were Monolith there and I was able to sneak away but had to leave my stuff behind. If you find this letter then I am most likely dead, beware of the fog, it has strange powers.</text>
+<text>Nisam siguran šta se desilo. Upao sam u neku ljubièastu maglu severnom delu NEP-a i nekako završio na krovu u blizini Generatora NEP-a. Tamo su bile horde Monolita i nekako sam se uspeo iskrasti, ali su mi sve stvari ostale tamo. Ako pronaðeš ovo pismo, onda sam najverovatnije mrtav. Èuvaj se ljubièaste magle, ima èudne moæi.</text>
 </string>
 <string id="zep_note_rdr1">
-<text>Unknown</text>
+<text>Nepoznat</text>
 </string>
 
 <string id="zep_note_sarc1">
-<text>If you read this before going below, then be warned: you will most likely NOT come back out!</text>
+<text>Ako ovo èitaš pre nego što odeš dole znaj da si upozoren: najverovatnije da se neæeš vratiti!</text>
 </string>
 <string id="zep_note_src1">
-<text>Fox</text>
+<text>Lisac</text>
 </string>
 
 <string id="zep_note_suic1">
-<text>I had to sleep here last night, nothing but nightmares. Something bad happened here and a heavy presence haunts this place.\nI am heading for the tower, you know where.\n.\nOzzi</text>
+<text>Morao sam prespavati ovde, ništa osim noænih mora. Nešto jako loše se desilo ovde, neka teška prisutnost progoni ovo mesto.\nIdem prema tornju, znaš gde.\n \nOzzi</text>
 </string>
 <string id="zep_note_sui1">
-<text>Jack</text>
+<text>Džek</text>
 </string>
 
 <string id="zep_note_oldlab1">
-<text>Professor, I had to leave this place! Something has been trying to get in here but I can't see anything. It must be BIG from the pounding it does as the whole lab shakes from it!\nI must try to get out of here after it leaves the next time, I don't know where I will go as this whole region is unsafe.\n.\nGlowworm</text>
+<text>Profesore, moram napustiti ovo mesto! Nešto stalno pokušava da uðe ovamo ali ništa ne mogu videti. Znam samo da je nešto ogromno jer od udara cela se laboratorija trese!\nMoram pokušati otiæi odavde, iako ne znam kuda. Cela regija je nesigurna.\n \nGlowworm</text>
 </string>
 <string id="zep_note_olb1">
 <text>Aleks</text>
 </string>
 
 <string id="zep_note_deadm1">
-<text>Take your offer and shove it!\nIf I see even one of your goons near my camp, there will be retaliation!\nKeep your ugly snoz out of my business!\nYour ENEMY</text>
+<text>Uzmi tu svoju ponudu i obriši se njom!\nAko vidim makar jednog od tih tvojih siledžija u blizini kampa, dobiæete rat koji ne možete ni zamisliti!\nDrži tu svoju ružnu njušku dalje od mojeg posla!\nTvoj NEPRIJATELJ</text>
 </string>
 <string id="zep_note_dm1">
-<text>Commander</text>
+<text>Komandir</text>
 </string>
 
 <string id="zep_note_dcity1">
-<text>I wrote this instead of seeing you again.\nYou're ok, don't get me wrong but I need my space and you just won't give it to me.\nI left you food and ammo, hope to cross paths again soon. I am heading South to look for a quiet place to settle, good luck!\nTweed</text>
+<text>Napisala sam ovo umesto da te ponovo vidim.\nTi si u redu, nemoj me pogrešno shvatiti ali treba mi prostora a ti mi ga nikako ne daš.\nOstavila sam ti hrane i municije, nadam se da æe nam se putevi ponovo ukrstiti. Idem na jug da pronaðem neko tiho mesto da se smirim, sreæno!\nTvid</text>
 </string>
 <string id="zep_note_dc1">
-<text>Sparrow</text>
+<text>Vrabac</text>
 </string>
 
 <string id="zep_note_dcity2">
-<text>Today they told us to leave, not how or where but..     just leave.\nI plan to hide in the bunker until they are gone and then figure out what to do. I will write again as soon as</text>
+<text>Danas su nam rekli da idemo, ni kako ni gde, veæ...samo da idemo.\nPlaniram se sakriti u bunkeru dok oni ne odu i razmisliti šta dalje. Pisaæu ti èim prije.</text>
 </string>
 <string id="zep_note_dc2">
-<text>Dear Mom</text>
+<text>Draga mama</text>
 </string>
 
 <string id="zep_note_dcity3">
-<text>I am sorry that it has been so long since you have heard from me. I was forced to leave the lab area under gunfire and ended up in an old attic. I am ok, hungry but ok.\nI plan to travel south to a place they call Rostok. I will write again when I get there.\nDexter</text>
+<text>Žao mi je što je prošlo toliko vremena od kada se nismo èuli. Bio sam prisiljen napustiti podruèje laboratorija pod paljbom, i završio na starom tavanu. Dobro sam, gladan ali ipak dobro.\nPlaniram krenuti na jug, prema mestu koje zovu Rostok. Pisaæu ti opet kada doðem tamo.\nDexter</text>
 </string>
 <string id="zep_note_dc3">
-<text>Dear Mom</text>
+<text>Draga mama</text>
 </string>
 
 <string id="zep_note_wait1">
-<text>This dispatch is to warn you of an individual that is apparently tracking you. Reason is unknown as attempts to subdue the individual have resulted in the loss of several soldiers. All attempts have ceased by this command, you are on your own. Take steps to eliminate him before he gets to F1 and finds th..</text>
+<text>Ova obavest je za tebe da te upozori na jednog pojedinca koji te oèigledno prati. Razlog je nepoznat kao i pokušaji da se pojedinac privede, gde je izgubljeno nekoliko vojnika. Svi pokušaji prestaju sa ovom komandom, sad si prepušten sam sebi. Preduzmi sve korake koji su potrebni da ga eliminišeš prije nego on doðe do F1 i pronaðe...</text>
 </string>
 <string id="zep_note_wtg1">
 <text>AX</text>
 </string>
 
 <string id="zep_note_wait2">
-<text>If you are reading this note then you are in my hideout and you should leave now without touching anything! Don't make me come looking for you as I am not a nice guy!\nYOU HAVE BEEN WARNED!</text>
+<text>Ako èitaš ovo onda to znaèi da si u mojem skrovištu i treba da ga smesta napustiš bez diranja ièega! Nemoj me terati da te moram tražiti jer uopšte nisam dobar èovek!\nUPOZOREN SI!</text>
 </string>
 <string id="zep_note_wtg2">
-<text>READ THIS!</text>
+<text>PROÈITAJ OVO!</text>
 </string>
 
 <string id="zep_evac_order">
-<text>Immediately all personnel are to report to their staging area. Take all data with you and deposit in the receptacle provided. Transport will commence promptly and there will be no return flight. It is your responsibilty to arrive at the staging area prior to departure.\nCentral Command ORD-11019</text>
+<text>Svo osoblje odmah da se javi na svoja poèetna mesta. Uzmite sva svoja dokumenta i položite ih u predviðeni pretinac. Transport æe ubrzo poèeti i neæe biti drugog leta. Vaša je odgovornost da doðete na mesto okupljanja pre odlaska.\nCentralna komanda NAR-11019</text>
 </string>
 <string id="zep_evac_ordr">
-<text>Evacuation Notice</text>
+<text>Obavest o evakuaciji</text>
 </string>
 
 <string id="zep_note_resrch2">
-<text>All items stored in this bunker must be transported to Facility F1 by the end of the week. Those containers marked 'AX' must arrive intact and unopened.\nIf items are going to be compromised then they must be destroyed before falling into enemy hands.\nOperatives at F1 will identify themselves as agents of 'X', you will release everything to them including the transport vehicle.\n.\nCentral Command ORD-11073</text>
+<text>Svi predmeti uskladišteni u ovom bunkeru moraju biti transportovani u Postrojenje F1 do kraja sedmice. Kontejneri sa oznakom 'AX' morajo doæi nedirnuti i neotvoreni.\nUkoliko doðe do ugrožavanja predmeta, isti moraju biti uništeni pre nego padnu u neprijateljske ruke.\nOperativci u F1 æe se identificirati kao agenti 'X', i sve æete prepustiti njima, ukljuèujuæi i transportna vozila.\n \nCentralna komanda NAR-11073</text>
 </string>
 <string id="zep_note_rs2">
-<text>Team Alpha</text>
+<text>Tim Alfa</text>
 </string>
 
 <string id="zep_note_npp1">
-<text>Waited as long as I could but armored vehicles started arriving.\nI am heading toward the old checkpoint near the far pits, you might catch up with me there. If I see I am being followed we will have to meet at the old bar.\nScabs</text>
+<text>Èekao sam koliko sam mogao, ali sada su poèela dolaziti i oklopna vozila.\nIdem prema starom punktu u blizini daleke jame, možda se naðemo tamo. Ako primetim da me prate, naæi æemo se u starom baru.\nScabs</text>
 </string>
 <string id="zep_note_np1">
 <text>Vin</text>
 </string>
 
 <string id="zep_note_npp2">
-<text>Beware of the Soul Cube!\nIt feeds on your soul as well as your enemies', I am empty. It has left me. I can feel its presence, like its waiting for me to follow.\nBut where?</text>
+<text>Èuvaj se Kocke Duša!\nHrani se i tvojom dušom kao i tvojih neprijatelja. Ja sam prazan. Ostavila me. Ali mogu da osetim njenu prisutnost, kao da me èeka da je pratim.\nAli kuda?</text>
 </string>
 <string id="zep_note_np2">
-<text>Anyone</text>
+<text>Bilo ko</text>
 </string>
 
 <!-- gold bars quests -->
+<!-- sadd - provjeri poèetak -->
 <string id="zep_note_broke1">					<!-- starts the gold bars quest, randomly in an attic in broken road -->
-<text>Potski,\nI have located the bars and will disperse them in safe locations to be picked up later. I have left you this note so that you can find them if anything happens to me. That Bloodsucker butt 'AX' has been dogging me for awhile now but he split for F1 when word went out that it was safe to enter. I would most likely be dead now if that had not happened when it did!\nI am heading to our favorite hangout where the first bar will be stashed, they are heavy so I must use a vehicle to get them out of here. No doubt 'AX' or one of his minions will detect my movement so I need to go quickly. Here is the first location, you know where it is: NE-BAR-UP, FENCE-E, GAP-N, FENCE-W, TWINS-X\nEleven of the fifteen have special markings - do not loose them!\nTake them to the old tunnels when you have them all.\n.\nGen Kirschi</text>
+<text>Potski,\nLocirao sam poluge i razbacao ih po sigurnim lokacijama pa æu ih pokupiti kasnije. Ostavljam ti ovu poruku tako da ih ti možeš pronaæi ako se meni nešto desi. Ta krvopijina guzica 'AX' me veæ dugo lovi, ali sada je nestao u F1 kada se proèulo da je sigurno za ulaz. Najverovatnije je da bih bio mrtav do sada da se to nije desilo!\nIdem prema našem omiljenom okupljalištu gde æe i prva poluga biti skrivena, jako su teške tako da moram koristiti vozilo da ih dovezem tamo. Nema sumnje da æe 'AX' ili jedan od njegovih ljubimaca, primetiti moje kretanje tako da moram brzo krenuti. Evo prve lokacije, znaæeš gde je: NE-BAR-UP, FENCE-E, GAP-N, FENCE-W, TWINS-X (???)\n11 od 15 imaju specijalne oznake - nemoj ih izgubiti!\nOdnesi ih do starih tunela kad ih sve sakupiš.\n \nGen Kirschi</text>
 </string>
 <string id="zep_note_brk1">
-<text>The Spot</text>
+<text>Mesto</text>
 </string>
 
 <string id="zep_note_tech1">
-<text>Will meet at 'pipes end'. Bring goods for the trade and don't cross me or the Zone won't be big enough to hide in!\nJust in case you get greedy, I have hidden two of the bars\nCEM-TNL-BNDT and JUP-LAB-TNT\n.\nScabs</text>
+<text>Naæi æemo se na "kraju cevi". Donesi robu za trgovanje i ne pokušavaj me prevariti, jer ti onda Zona neæe biti dovoljno velika da se sakriješ!\nZa sluèaj da postaneš pohlepan, skrio sam 2 poluge\nCEM-TNL-BNDT i JUP-LAB-TNT\n \nScabs</text>
 </string>
 <string id="zep_note_tch1">
 <text>Sodar</text>
 </string>
 
 <string id="zep_note_swamp">
-<text>Moved them: OLD-STV-N, OLD-STV-W, you may get wet.\n.\nA third on a table in a very old Hospital</text>
+<text>Premestio ih: OLD-STV-N, OLD-STV-W, možda se malo smoèiš.\n \nTreæa je na stolu u staroj Bolnici.</text>
 </string>
 <string id="zep_note_swmp">
-<text>Relocated</text>
+<text>Premešteno</text>
 </string>
 
 <string id="zep_note_wlab1">
-<text>I found a document deep in the lab yesterday. It outlines a series of steps for placing special gold ingots in specific spots in an old tunnel somewhere.\nThe ingots have codes that indicate which spot it is supposed to be droped at. It also indicates that they must be placed in a certain order which is continued on the next page. I cannot find this page so I don't know the order!\nI also found a note with this scribbled on it:\nDS-RB1-NE-RKS\nGR-BAR-HIGH-LDG\nWT-YAN-TNT\n.\nno clue what they mean\nSacola</text>
+<text>Pronašao sam dokument u laboratoriju juèer. Na marginama je napisan niz koraka za postavljanje posebnih zlatnih poluga na posebna mesta negde u starom tunelu.\nPoluge imaju šifre koje pokazuju na koje mesto treba da se polože. Takoðer moraju biti položene po odreðenom redu koji se nastavlja na sledeæoj stranici. Nisam mogao pronaæi tu stranicu, tako da ne znam po kojem redu!\nNašao sam i jednu belešku na kojoj je napisano:\nDS-RB1-NE-RKS\nGR-BAR-HIGH-LDG\nWT-YAN-TNT\n \nNemam pojma šta to znaèi.\nSacola</text>
 </string>
+<!-- sadd - provjeri kraj -->
 <string id="zep_note_wlb1">
 <text>Gorto</text>
 </string>
 
 <string id="zep_note_cem2">
-<text>Just because you messed with my shack!!!!\n.\nCaretaker</text>
+<text>Samo zato što si brljao sa mojojm kolibom!!!!\n \nCaretaker</text>
 </string>
 <string id="zep_note_cm2">
-<text>Trespassers</text>
+<text>Uljezi</text>
 </string>
 
 <string id="zep_note_deadm2">
-<text>I am trapped here\ncontroller outside trying to get to me\n.\nleaving my stuff and will try to run for it\nif you find this then I did not make it\nthe gold bar    is important    take to veronin in rostok\nthere is another bar in the northern research   village tower\ndeath eagle</text>
+<text>Zarobljen sam ovde.\nKontroler izvana pokušava doæi do mene.\n \nOstaviæu sve svoje stvari ovde i pokušati pobeæi od njega\nAko pronaðete ovu poruku onda verovatno nisam uspeo.\nZlatna poluga je jako važna, odnesi je Voronjinu u Rostok\nIma još jedan bar u severnom istraživaèkom naselju, u tornju.\nMrtvi orao.</text>
 </string>
 <string id="zep_note_dm2">
-<text>no choice</text>
+<text>Bez izbora</text>
 </string>
 
 <string id="zep_note_tunnels">
-<text>must be done to control the intensity.\nEach Ingot with a code on it must be placed in the proper slot and in the proper order.\nIt is beleived that the order should be West to center then East to center. It is uncertain if the center is done last but the fifteenth Ingot must be dropped in dead center as the last step.</text>
+<text>...mora biti odraðeno da se kontroliše intenzitet.\nSvaka poluga sa šifrom mora biti postavljena u odgovarajuæi slot i po odgovarajuæem redosledu.\nVerujem da redosled treba biti od zapada prema centru, a onda od istoka prema centru. Nije sigurno ako se centar završi zadnji, ali petnaesta poluga se mora spustiti zadnja u sami centar.</text>
 </string>
 <string id="zep_note_tnls">
-<text>LOCATOR Page 2</text>
+<text>LOKATOR stranica 2</text>
 </string>
 
 <string id="zep_note_tunnels2">
-<text>LDK almost trapped me here\ngot the bars out earlier in three passes\nI will meet up with you at the old house in Techniques\nyou know the one\nScabs</text>
+<text>LDK me umalo zarobio ovde\n Dobio sam tri poluge ranije iz tri prolaza.\nNaæi æemo se u staroj kuæi u Industrijskoj Zoni.\nZnaš u kojoj.\nScabs</text>
 </string>
 <string id="zep_note_tnls2">
 <text>Vin</text>
 </string>
 
 <string id="zep_note_rsch3">
-<text>Could only get to one, the others are located in x8 under water and deep under the NPP cooling cells.\n.\nNardistik</text>
+<text>Došao sam do samo jedne, ostale se nalaze u x8, ispod vode i duboko u NEP rashladnim æelijama.\n \nNardistik</text>
 </string>
 <string id="zep_note_rs3">
 <text>Scabs</text>
@@ -903,1166 +905,1218 @@
 
 <!-- Caesier's extra stashes throughout the zone -->
 <string id="zep_note_trshr1">
-<text>Needed to unload a little weight as I need to climb out of here.\nI always hide them near small candles as a reference.\n.\nCaesier</text>
+<text>Moram istovariti i smanjiti malo teret, bar onoliko koliko je potrebno da se popnem odavde.\nUvek ih sakrivam u blizini male sveæe kao orjentira.\n \nCezar.</text>
 </string>
 <string id="zep_note_trs1">
-<text>My Monilith stash</text>
+<text>Moj monolitski plen</text>
 </string>
 
 <string id="zep_note_grimwald">
-<text>One night in the zone a strange cat came to me, after a small battle under a hunters moon and many dead animals, many rats, bloods, stalkers.. perhaps I smell of rat?\nTurning off the night vision we begin looting corpses, many dropped weapons, animal parts, and ammunition of course, normal stalking. well....\nThis strange cat hovering above the ground, now making cat noises...all four of the legs motionless...only hovering...the face turned away...\nSounded like a million running feet from all directions I turn on my light to get a better look. Of course this cat's face never turns to me, constantly looking at some objects far away...always, what does this cat look for? Where are her eyes?... very unusual...\nWhat is another dead animal to the zone anyway...\nSo we ready our weapon to shoot this cat, notice looking down for a moment to see we are stuck on a random boar corpse and fire a round into it, why not! Corpse in my way!?\nAs I look up to find this cat with iron sights... this cat perhaps heard my weapon? It moves now hovering at the speed of light diagonal from it's previous position to directly towards me, directly at me...this cat ran through me, slapped me harder than any stalker...the zone was kind to spare me that night...\nI still do not know how this happened, the guns to pickup were missing... did the cat take them? The dead rats flew off in different directions.. the zone is frightening... still have not recovered...\nGrimwald</text>
+<text>Jedne noæi u Zoni neka èudna maèka je došla do mene. Nakon male borbe pod lovaèkim mesecom i mnogo mrtvih životinja, mnogo pacova, krvi, stalkera... Možda mirišem kao pacov?\nUpalili smo ureðaje za noæno osmatranje i poèeli pretraživati tela, odbaèeno oružje, delove životinja, i municiju naravno...\nAli ta maèka ne nekako lebdela iznad tla, ispuštajuæi maèije zvukove... Nepomièna sa sve èetiri noge... Samo lebdi... Okrenuta lica...\n Zvuèala je kao da milion nogu u trku juri prema meni iz svih smerova. Upalio sam lampu da bolje pogledam. Njeno lice nikada se nije okrenulo prema meni, konstantno je gledala u neki daleki objekat... U šta je gledala ova maèka? Gde su joj oèi? Vrlo neobièno...\nUostalom, šta je još jedna mrtva životinja u Zoni...\nI tako smo spremali oružje da upucamo tu maèku, kad smo primetili da nas gleda i vidi da smo zaglavili oko leša nekog vepra i da veæ poèinjemo pucati prema njoj! \nKako sam podizao pušku da je nanišanim, sigurno je èula naše oružje, odlebdela je brzinom svetlosti dijagonalno od svoje poèetne pozicije direktno prema meni. Ta maèka je gotovo prošla kroz mene, ošamaravši me jaèe nego bilo koji stalker... Zona je bila dobra i poštedela me to veèe.\nJoš ne znam kako se to desilo, oružje koje smo pokupili je nestalo. Je li ga ta maèka uzela? Mrtvi pacovi su odleteli u svim smerovima. Zona je zastrašujuæa. Još se nisam oporavio.\nGrimwald</text>
 </string>
 <string id="zep_note_grim">
-<text>Diary entry: ??</text>
+<text>Zabilješka u dnevnik: ??</text>
 </string>
 
 <!-- Karina in Dead Marshes -->
 <string id="karina_dialog_zep1_0">
-<text>Who might you be?</text>
+<text>A ko si ti?</text>
 </string>
 <string id="karina_dialog_zep1_1">
-<text>Karina Zetraphonic at your service.\nYou have a name or you shy?</text>
+<text>Karina Zetrafonik na usluzi.\nImaš li ti ime ili se stidiš?</text>
 </string>
 <string id="karina_dialog_zep1_2">
-<text>Marked One, what are you doing here?\nLooks like you have been abandoned.</text>
+<text>Ja sam Obeleženi. Šta radiš ovde?\nIzgleda kao da si napuštena.</text>
 </string>
 <string id="karina_dialog_zep1_3">
-<text>I can't leave this place unguarded, the scientists will return once things quiet down.</text>
+<text>Ne mogu napustiti ovo mesto nezaštiæena, nauènici æe se vratiti èim se stvari malo smire.</text>
 </string>
 <string id="karina_dialog_zep1_4">
-<text>From what I have seen since I started travelling North is that things just keep getting worse.</text>
+<text>Iz onog što sam vidio odkako putujem severom mogu reæi da se stvari samo pogoršavaju.</text>
 </string>
 <string id="karina_dialog_zep1_5">
-<text>I wish those two jerks commanding the village and tunnel kill each other off and soon!</text>
+<text>Želim da se ta dva idiota koja komanduju u selu i tunelima meðusobno ubiju, i to što pre!</text>
 </string>
 <string id="karina_dialog_zep1_6">
-<text>Tell me about them.</text>
+<text>Reci mi nešto o njima.</text>
 </string>
 <string id="karina_dialog_zep1_7">
-<text>The village has been there for more than a year and never bothered us.\nThe guerillas in the tunnel came in from the South and chased off everyone here claiming a military emergency or something.\nIt happened real fast and fighting errupted..   I hit the swamps and avoided the search parties but they drove the rest out.</text>
+<text>Pa selu je tu veæ više od godine dana i niko nikada nas nije uznemiravao.\nGerilci iz tunela su došli sa juga i progonili svakog ovde tvrdeæi da se radi o hitnoj vojnoj intervenciji ili tako nešto.\nSve se dogodilo jako brzo tako da su izbile borbe. Ja sam se uputila prema Moèvarama i izbegla pretrese, ali ostale su pokupili.</text>
 </string>
 <string id="karina_dialog_zep1_8">
-<text>Did you hear anything about what the emergency was or why they wanted such a shit hole?</text>
+<text>Jesi li èula šta je toliko hitno ili šta toliko traže u ovoj rupetini?</text>
 </string>
 <string id="karina_dialog_zep1_9">
-<text>I did hear something being yelled out about evac choppers comming from near a blast zone..   well that's what it sounded like.</text>
+<text>Èula sam da je neko vikao nešto o evakuaciji helikoptera koji dolaze iz zone eksplozije. Bar mi je tako zvuèalo.</text>
 </string>
 <string id="karina_dialog_zep1_10">
-<text>You don't know about F1 ?!..   Those idiots found something powerful and while transporting it to F1 it went kaplui and wiped out the whole region.\nI wonder where those choppers were comming from.</text>
+<text>Ti ne znaš za F1?! Ti idioti su pronašli nešto moæno i dok su to transportovali u F1, došlo je do eksplozije koja je zbrisala celo podruèje.\nBaš se pitam odakle ti helikoptere dolaze.</text>
 </string>
 <string id="karina_dialog_zep1_11">
-<text>Only thing I know of near there is the old village and chemical lab.\nI think the village was called Broken Road..   can't remember the lab's name though.</text>
+<text>Jedino što znam jeste da se u blizini nalazi jedno staro selo i hemijski laboratorij.\nMislim da se selo zove Skriveni Put. Ne mogu se setiti kako se zove laboratorij.</text>
 </string>
 <string id="karina_dialog_zep1_12">
-<text>Have you heard anyone say or get called X or AX or did a man with a silver emblem talk to you?</text>
+<text>Jesi li èula za nekoga koga zovu "X" ili "AX", ili si možda razgovarala sa èovekom koji nosi srebreni amblem?</text>
 </string>
 <string id="karina_dialog_zep1_13">
-<text>Sure did..    he was yelling at a captain about a chopper that crashed. He also told several men to secure the tunnel for his headquarters.\nThat's when I split as they started to round up everybody..   I don't react well to being herded!</text>
+<text>Naravno da jesam. On je taj koji je vikao na kapetana za onaj srušeni helikopter. Takoðer je rekao nekolicini ljudi da osiguraju tunel za komandno mesto.\nTada sam se odvojila od ostalih!</text>
 </string>
 <string id="karina_dialog_zep1_14">
-<text>I have to check out this tunnel, thanks!</text>
+<text>Proveriæu taj tunel, hvala!</text>
 </string>
 
 <string id="karina_dialog_zep2_0">
-<text>You don't have to worry about that tunnel anymore, chased the vermin out... so to speak.</text>
+<text>Ne moraš se više brinuti zbog onog tunela, isterao sam gamad...da se tako izrazim.</text>
 </string>
 <string id="karina_dialog_zep2_1">
-<text>You did that by yourself?!</text>
+<text>Uradio si sve to sam?!</text>
 </string>
 <string id="karina_dialog_zep2_2">
-<text>Just sorta riled em up and they took each other out more than I got to!</text>
+<text>Pa malo sam ih iznervirao pa su više sami sebe isterali nego što sam ih ja isterao!</text>
 </string>
 <string id="karina_dialog_zep2_3">
-<text>Who the HELL are you?!!!\nNever let me piss you off! Please...  I'm serious!</text>
+<text>Ko si, do ðavola, ti?!!!\nNe dopusti da te ikada iznerviram! Stvarno... Ozbiljna sam!</text>
 </string>
 <string id="karina_dialog_zep2_4">
-<text>Look..  no big deal, ok..   I'm not a bad guy..  really!</text>
+<text>Ej, ma ne brini, ok. Nisam loš èovek, stvarno!</text>
 </string>
 <string id="karina_dialog_zep2_5">
-<text>Why are you realy here and don't BS me..  I know it must be important for someone like you to be here!</text>
+<text>Zašto si ovde stvarno me ne zanima. Ali znam da je nešto važno dok si ovde!</text>
 </string>
 <string id="karina_dialog_zep2_6">
-<text>Interesting observation..   I am following this agent 'AX', as he was following me and I think we both are looking for the same thing.</text>
+<text>Interesantno zapažanje. Pratim tog agenta 'AX', dok on prati mene i mislim da tražimo istu stvar.</text>
 </string>
 <string id="karina_dialog_zep2_7">
-<text>You are following him and he is following you and you are looking for..    what?</text>
+<text>Ti pratiš njega dok on prati tebe, a oba tražite... Šta?</text>
 </string>
 <string id="karina_dialog_zep2_8">
-<text>Don't realy know.\nI do know that it is very powerful and in the wrong hands will be a very evil tool. I also know that several factions will not hesitate to kill for it and already have.</text>
+<text>Još ni sam ne znam.\nOno što znam jeste da je vrlo moæno i kada bi palo u pogrešne ruke postalo bi vrlo opasno oruðe. Takoðer znam da nekoliko frakcija neæe oklevati da ubije samo da ga se doèepa.</text>
 </string>
 <string id="karina_dialog_zep2_9">
-<text>But who are you?\nWho sent you here?</text>
+<text>Ko si ti?\nKo te poslao ovamo?</text>
 </string>
 <string id="karina_dialog_zep2_10">
-<text>Marked One..   no one sent me..\nit just all happened..</text>
+<text>Rekao sam ti, ja sam Obeleženi. Niko me nije poslao.\nSve se ovo samo desilo.</text>
 </string>
 <string id="karina_dialog_zep2_11">
-<text>Never did understand people like you..\nGOOD LUCK!..   Marked One.</text>
+<text>Nikada nisam razumela ljude poput tebe.\nNek' ti bude sa sreæom! Obeleženi.</text>
 </string>
 
 <string id="karina_dialog_zep3_0">
-<text>How are things in wonderful swampland?..</text>
+<text>Šta ima novo u ovoj prelepoj moèvari?</text>
 </string>
 <string id="karina_dialog_zep3_1">
-<text>There are MANY wonderful things here..   if you ever looked at anything but money!</text>
+<text>Ima mnogo LEPIH stvari ovde. Ako tražiš išta drugo osim novca!</text>
 </string>
 <string id="karina_dialog_zep3_2">
-<text>wow..    I sure stepped in that one!      SORRY!</text>
+<text>Opa. Sigurno sam ugazio u tu jednu stvar! Izvini!</text>
 </string>
 <string id="karina_dialog_zep3_3">
-<text>ah..  ok..    just getting a bit lonely..</text>
+<text>Haha. Ma ok je sve, samo sam malo usamljena.</text>
 </string>
 <string id="karina_dialog_zep3_4">
-<text>well..   look, you sent me a message about strangers comming back?</text>
+<text>Poslala si mi poruku o strancima koji su se vratili?</text>
 </string>
 <string id="karina_dialog_zep3_5">
-<text>There was two of them, they went to the old shack past the downed chopper to look for something.</text>
+<text>Bila su dvojica, otišli su do stare kolibe kod oborenog helikoptera da traže nešto.</text>
 </string>
 <string id="karina_dialog_zep3_6">
-<text>Did they say anything?</text>
+<text>Jesu li išta rekli?</text>
 </string>
 <string id="karina_dialog_zep3_7">
-<text>Only heard them yelling to each other as they ran away from the shack, sounded like what they were looking for was not there.</text>
+<text>Èula sam samo kako vièu jedan drugom dok su bežali iz kolibe. Zvuèalo je kao da ono što traže nije tamo.</text>
 </string>
 <string id="karina_dialog_zep3_8">
-<text>Why did they run away?</text>
+<text>Zašto su bežali?</text>
 </string>
 <string id="karina_dialog_zep3_9">
-<text>OBVIOUSLY..  they ran into the old controller that has settled there, been there for months.</text>
+<text>Oèigledno su naleteli na starog kontrolera koji se tamo naselio. Tamo je veæ mesecima.</text>
 </string>
 <string id="karina_dialog_zep3_10">
-<text>Oh yea..  sorry, shoulda known about that controller..    my mistake toooootally..</text>
+<text>Ah da. Izvini, trebao sam se setiti tog kontrolera. Moja greška.</text>
 </string>
 <string id="karina_dialog_zep3_11">
-<text>Hmmph, told you I was moody! Feel sorry for the sad soul that settles for you!</text>
+<text>Hmm, rekla sam ti da sam neraspoložena! Žao mi je te tužne duše koja tamo nastanjuje!</text>
 </string>
 
 <string id="karina_dialog_zep4_0">
-<text>How are things in wonderful swampland?..</text>
+<text>Šta ima novo u ovoj prelepoj moèvari?</text>
 </string>
 <string id="karina_dialog_zep4_1">
-<text>There are MANY wonderful things here..   if you ever looked at anything but money!</text>
+<text>Ima mnogo LEPIH stvari ovde. Ako tražiš išta drugo osim novca!</text>
 </string>
 <string id="karina_dialog_zep4_2">
-<text>wow..    I sure stepped in that one!      SORRY!</text>
+<text>Opa. Sigurno sam ugazio u tu jednu stvar! Izvini!</text>
 </string>
 <string id="karina_dialog_zep4_3">
-<text>ah..  ok..    just getting a bit lonely..</text>
+<text>Haha. Ma ok je sve, samo sam malo usamljena.</text>
 </string>
 <string id="karina_dialog_zep4_4">
-<text>well..   look, you sent me a message about strangers coming back?</text>
+<text>Poslala si mi poruku o strancima koji su se vratili?</text>
 </string>
 <string id="karina_dialog_zep4_5">
-<text>There were two of them, they went to the old shack past the downed chopper to look for something.</text>
+<text>Bila su dvojica, otišli su do stare kolibe kod oborenog helikoptera da traže nešto.</text>
 </string>
 <string id="karina_dialog_zep4_6">
-<text>Did they say anything?</text>
+<text>Jesu li išta rekli?</text>
 </string>
 <string id="karina_dialog_zep4_7">
-<text>Only heard them yelling to each other as they ran away from the shack, sounded like what they were looking for was not there.</text>
+<text>Èula sam samo kako vièu jedan drugom dok su bežali iz kolibe. Zvuèalo je kao da ono što traže nije tamo.</text>
 </string>
 <string id="karina_dialog_zep4_8">
-<text>Met the controller there no doubt..</text>
+<text>Sigurno naleteli na kontrolera.</text>
 </string>
 <string id="karina_dialog_zep4_9">
-<text>Seems they weren't prepared for dealing with it, just lucky for them they got away.</text>
+<text>Izgleda da nisu bili spremni da se suoèe s njim. Imaju sreæe što su uopæe pobegli.</text>
 </string>
 <string id="karina_dialog_zep4_10">
-<text>That means someone will be coming back soon, you be careful.</text>
+<text>To znaèi da æe se ubrzo vratiti, budi oprezna.</text>
 </string>
 <string id="karina_dialog_zep4_11">
-<text>Don't have to worry about me! You look like you're not doing all that well to me! Hmmmph</text>
+<text>Ne brini za mene! Ipak izgleda da ne radiš sve najbolje za mene! Hmmm.</text>
 </string>
 
 <string id="karina_dialog_zep5_0">
-<text>Anything new around this Metropolis?..</text>
+<text>Šta ima novo u Metropolisu?</text>
 </string>
 <string id="karina_dialog_zep5_1">
-<text>Always with the pun..  why are you back?</text>
+<text>Ti i tvoje igre reèi. Zašto si se vratio?</text>
 </string>
 <string id="karina_dialog_zep5_2">
-<text>I could stop coming by..</text>
+<text>Ne mogu prestati dolaziti.</text>
 </string>
 <string id="karina_dialog_zep5_3">
-<text>Aren't you the sensitive one..   poor baby..  you can come by anytime you want!</text>
+<text>Baš si sladak, jadnièak. Možeš doæi kada god poželiš!</text>
 </string>
 <string id="karina_dialog_zep5_4">
-<text>All right then..   but right now I need to know if anyone has been through here lately.</text>
+<text>Dogovoreno. Ali sada me zanima je li neko nedavno dolazio ovamo?</text>
 </string>
 <string id="karina_dialog_zep5_5">
-<text>I heard gunfire in the Northeast before sunset yesterday but no one came around here.</text>
+<text>Juèer predveèer sam èula neku pucnjavu severoistoèno odavde, ali ovamo niko nije navraæao.</text>
 </string>
 <string id="karina_dialog_zep5_6">
-<text>Good..    don't want anyone bothering you..   except for me that is.</text>
+<text>Dobro. Ne želim da ti iko dosaðuje...osim mene.</text>
 </string>
 <string id="karina_dialog_zep5_7">
-<text>You'll never be a bother to me!</text>
+<text>Ti mi nikada neæe dosaditi!</text>
 </string>
 <string id="karina_dialog_zep5_8">
-<text>OK then..   I better get off to the Northeast and see what I can find there.</text>
+<text>Ok, super. Bolje da odem odmah i da proverim to mesto na severoistoku, možda nešto pronaðem.</text>
 </string>
 <string id="karina_dialog_zep5_9">
-<text>I know there is a path beyond the old bus that can lead you to the old Techniques center, maybe someone came down from there..</text>
+<text>Znam da postoji put iza starog autobusa koji vodi u Industrijsku Zonu, možda je neko došao iz tog smera.</text>
 </string>
 <string id="karina_dialog_zep5_10">
-<text>Thanks, I will see if it can lead me anywhere.</text>
+<text>Hvala, videæu gde æe me odvesti.</text>
 </string>
 <string id="karina_dialog_zep5_11">
-<text>You take care, Marked One.</text>
+<text>Èuvaj se, Obeleženi.</text>
 </string>
 
 <!-- dd_inform in Dead Marshes -->
 <string id="dd_inform_dialog_zep1_0">
-<text>Informer?!..    I would have shot you but..   you look like you soiled your pants!</text>
+<text>Doušnik?! Trebao bih te ubiti, ali veæ vidim da si se usrao u gaæe!</text>
 </string>
 <string id="dd_inform_dialog_zep1_1">
-<text>Thanks man!\nI just want to be left alone!</text>
+<text>Hvala ti èoveèe!\nSamo želim da me puste na miru!</text>
 </string>
 <string id="dd_inform_dialog_zep1_2">
-<text>Relax..   I don't care what you do as long as it doesn't threaten me.\nWhat are you doing way up here anyway?</text>
+<text>Opusti se. Nije me briga šta radiš sve dok me to ne ugrožava.\nZašto si uopæe došao ovamo?</text>
 </string>
 <string id="dd_inform_dialog_zep1_3">
-<text>I had to leave!\nThat commander is insane and I can't carry out his orders anymore..</text>
+<text>Morao sam pobeæi!\nTaj komandir je lud, ne mogu više slušati njegova nareðenja.</text>
 </string>
 <string id="dd_inform_dialog_zep1_4">
-<text>He has gone a little off the deep end, eh...</text>
+<text>Skrenuo je malo, eh...</text>
 </string>
 <string id="dd_inform_dialog_zep1_5">
-<text>Now I am a deserter and don't know what to do.\nI thought I could make it here but bandits keep passing through and trying to get my stuff.</text>
+<text>Sada sam dezerter i ne znam šta da radim.\nMislio sam da æu lako doæi ovamo, ali banditi drže prelaz i sada žele moje stvari.</text>
 </string>
 <string id="dd_inform_dialog_zep1_6">
-<text>Well ..   I don't care what you do as long as you don't try and attack me, I have an ichy finger that is hard to control sometimes!</text>
+<text>Ne zanima me šta radiš sve dok me ne pokušaš napasti, imam svrabljiv kažiprst kojeg nekada ne mogu kontrolisati!</text>
 </string>
 <string id="dd_inform_dialog_zep1_7">
-<text>OK..   OK..    I don't want trouble!\nJust don't tell anyone you saw me OK..</text>
+<text>Ok, ok... Ne želim nikakve nevolje!\nSamo nemoj reæi nikome da si me vidio, ok?</text>
 </string>
 <string id="dd_inform_dialog_zep1_8">
-<text>Sure and you do the same for me..  got it?</text>
+<text>Dobro, ali nemoj ni ti da si vidio mene. U redu?</text>
 </string>
 <string id="dd_inform_dialog_zep1_9">
-<text>No problem, I plan on heading North soon anyway.</text>
+<text>U redu. Ionako uskoro planiram na sever.</text>
 </string>
 <string id="dd_inform_dialog_zep1_10">
-<text>North?!..\nOnly thing North is desolation and lots of military factions running about.</text>
+<text>Sever?!\nJedino što ima na severu je pustoš i hrpa vojnih frakcija.</text>
 </string>
 <string id="dd_inform_dialog_zep1_11">
-<text>You sure?!\nI gotta get away from here and I don't know where to go.</text>
+<text>Jesi li siguran?!\nMoram nekuda odavde ali ne znam gde.</text>
 </string>
 <string id="dd_inform_dialog_zep1_12">
-<text>I know a town of deserters that may take you in.\nStay here until I return. I will talk to them and if I get you in then I want something in return.</text>
+<text>Znam jedan grad dezertera gde bih te mogao odvesti.\nOstani ovde dok se ne vratim. Razgovaraæu s njima, a ako te prime onda želim nešto zauzvrat.</text>
 </string>
 <string id="dd_inform_dialog_zep1_13">
-<text>What do you want..</text>
+<text>Šta želiš?</text>
 </string>
 <string id="dd_inform_dialog_zep1_14">
-<text>We'll discuss it when I return.</text>
+<text>Prièaæemo o tome kada se vratim.</text>
 </string>
 
 <string id="pred_barmen_name">
-	<text>Governor</text>
+	<text>Guverner</text>
 </string>
 <string id="pred_barmen_bio">
-	<text>Called the 'Governor' by those around him and obviously the boss, he seems to have some good connections.</text>
+	<text>Zovu ga 'Guverner' oni oko njega, i oèito im je šef. Izgleda da ima dobre veze.</text>
 </string>
 
 <string id="pred_barmen_zep0_1">
-	<text>What is this place?</text>
+	<text>Kakvo je ovo mesto?</text>
 </string>
 <string id="pred_barmen_zep0_2">
-	<text>We call this the Waiting Room, why?</text>
+	<text>Ovo mesto zovemo "Èekaonica", zašto?</text>
 </string>
 <string id="pred_barmen_zep0_3">
-	<text>Seems strange having such a diverse group..</text>
+	<text>Èudno mi je da ima toliko razlièitih grupa.</text>
 </string>
 <string id="pred_barmen_zep0_4">
-	<text>Take off stalker..    don't like strangers poking around here!</text>
+	<text>Odbij stalkeru. Ne volim strance koji zabadaju nos tamo gde ne treba!</text>
 </string>
 
 <string id="pred_barmen_zep1_1">
-	<text>Shelves a bit empty today, eh..</text>
+	<text>Police su nešto prazne danas.</text>
 </string>
 <string id="pred_barmen_zep1_2">
-	<text>Who are you and what do you want?</text>
+	<text>Ko si ti i šta hoæeš?</text>
 </string>
 <string id="pred_barmen_zep1_3">
-	<text>Go by Marked One..  and you?</text>
+	<text>Ja sam Obeleženi. A ti si?</text>
 </string>
 <string id="pred_barmen_zep1_4">
-	<text>They call me the Governor and I am getting tired of this conversation..</text>
+	<text>Mene zovu Guverenr i veæ sam se umorio od ovog razgovora.</text>
 </string>
 
 <string id="pred_barmen_zep2_1">
-	<text>Look..   sorry we got off to a bad start.</text>
+	<text>Izvini... Loše smo poèeli.</text>
 </string>
 <string id="pred_barmen_zep2_2">
-	<text>OK, then quickly.. what do you want?</text>
+	<text>OK, reci brzo. Šta hoæeš?</text>
 </string>
 <string id="pred_barmen_zep2_3">
-	<text>I know a deserter that got his butt stuck in the old Distribution District and I said I would ask if you would let him in.</text>
+	<text>Znam jednog dezertera koji je zaglavio u starom Distributivnom Centru i ja sam mu rekao da æu te zamoliti da ga pustiš unutra.</text>
 </string>
 <string id="pred_barmen_zep2_4">
-	<text>What can he contribute?</text>
+	<text>Šta može da doprinese?</text>
 </string>
 <string id="pred_barmen_zep2_5">
-	<text>He was a dealer in information and may still have contacts.</text>
+	<text>On je trgovac informacijama i verovatno još ima kontakte.</text>
 </string>
 <string id="pred_barmen_zep2_6">
-	<text>Not likely if he is on the run but maybe he can help cleaning out these damn creatures..  seems like they just keep on comming..</text>
+	<text>Èisto sumnjam dok je u begu, ali možda može pomoæi u èišæenju ovih stvorenja. Samo dolaze i dolaze, bez prestanka.</text>
 </string>
 <string id="pred_barmen_zep2_7">
-	<text>Sounds like a great fit!</text>
+	<text>Odlièno!</text>
 </string>
 
 <string id="pred_barmen_zep3_1">
-	<text>Is there anything I can do that would be of help? I most likely will be in the neighborhood often.</text>
+	<text>Mogu li vam nekako pomoæi? najverovatnije je da æu èesto biti tu u susedstvu.</text>
 </string>
 <string id="pred_barmen_zep3_2">
-	<text>BOOZE!..  I will trade rare ammo for libations.. of course Vodka will get you the most but even Beer will get you something.</text>
+	<text>ALKOHOL! Daæu ti jako retku municiju za bilo kakvu pijaèu. Naravno, za votku æeš dobiti najviše ali èak i za obièno pivo æeš dobiti nešto.</text>
 </string>
 <string id="pred_barmen_zep3_3">
-	<text>I think I can handle carrying around a few bottles.</text>
+	<text>Mislim da se mogu snaæi za nekoliko flaša.</text>
 </string>
 
 <string id="pred_barmen_zep4_1">
-	<text>Greetings..  have a bottle of Vodka!</text>
+	<text>Zdravo. Imam flašu votke!</text>
 </string>
 <string id="pred_barmen_zep4_2">
-	<text>Maybe you should find a bottle first..  moron!</text>
+	<text>Možda si prvo trebao pronaæi flašu!</text>
 </string>
 <string id="pred_barmen_zep4_3">
-	<text>Great! take this ammo.</text>
+	<text>Odlièno! Uzmi ovu municiju.</text>
 </string>
 
 <string id="pred_barmen_zep5_1">
-	<text>Hey Governor..  have a Beer.</text>
+	<text>Hej Guverneru. Imam pivo.</text>
 </string>
 <string id="pred_barmen_zep5_2">
-	<text>You know..  it would be wise to lay off your stash so you can actually sell some of it.</text>
+	<text>Znaš, bilo bi ti pametno da malo otpustiš tu svoju zalihu, tako da možeš nešto i prodati.</text>
 </string>
 <string id="pred_barmen_zep5_3">
-	<text>Hmmm.. well I quess its worth something here.. take this ammo.</text>
+	<text>Hmmm. Mislim da je vredno neèeg...evo uzmi ovu municiju.</text>
 </string>
 
 <string id="dd_inform_dialog_zep2_0">
-<text>Glad to see I didn't waste a trip, you look hungry though.</text>
+<text>Drago mi je što nisam otišao uzalud. Nešto si mi jako omršavio.</text>
 </string>
 <string id="dd_inform_dialog_zep2_1">
-<text>Rations running low and I don't like to wander around out there.</text>
+<text>Zalihe hrane su mi pri kraju a ja ne volim lutati uokolo.</text>
 </string>
 <string id="dd_inform_dialog_zep2_2">
-<text>You're in luck..  you can go there but now we talk business.</text>
+<text>Imaš sreæe. Možeš iæi na ono mesto što sam ti govorio, ali prvo moramo porazgovarati o poslu.</text>
 </string>
 <string id="dd_inform_dialog_zep2_3">
-<text>Thanks Marked One!\nWhat do you want?</text>
+<text>Hvala Obeleženi!\nŠta želiš?</text>
 </string>
 <string id="dd_inform_dialog_zep2_4">
-<text>I need information about a stranger that was in Rostok a while back, I understand you had a run-in with him.</text>
+<text>Trebaju mi informacije o strancu koji je bio u Rostoku nedavno. Koliko sam razumeo i ti si imao sukob s njim.</text>
 </string>
 <string id="dd_inform_dialog_zep2_5">
-<text>OK..  OK..  What can I tell you..\nah yea..   this guy was different, cold and precise..    like he was manufactered and not born..\nyou know..   like no soul at all.</text>
+<text>Ok, ok. Šta da ti kažem.\nTaj... Taj tip je nekako drugaèiji, hladan i precizan. Kao da je proizveden a ne roðen.\nZnaš, kao da uopæe nema dušu.</text>
 </string>
 <string id="dd_inform_dialog_zep2_6">
-<text>What else do you remember..   what did he say to you.</text>
+<text>Èega se još seæaš? Šta ti je rekao?</text>
 </string>
 <string id="dd_inform_dialog_zep2_7">
-<text>F1..    lots of talk about F1 and a lab..   something about a connection between F1 and this lab..    14 yea..  lab 14 he was calling it.</text>
+<text>F1. Dosta je prièao o F1 i laboratoriji. Nešto o vezi izmeðu F1 i te laboratorije. 14... Da, Laboratorij 14, tako ga je zvao.</text>
 </string>
 <string id="dd_inform_dialog_zep2_8">
-<text>A connection between a 'Lab 14' and F1? What kind of connection?\nWhat else can you remember?</text>
+<text>Veza izmeðu Laboratorija 14 i F1? Kakva veza?\nMožeš li se još neèeg setiti?</text>
 </string>
 <string id="dd_inform_dialog_zep2_9">
-<text>Just something about codes and Voronin but it seemed like giberish at the time..\nThat's all I can remember, please don't hurt me..</text>
+<text>Samo još nešto o Voronjinu i šiframa, ali mi se u tom trenutku èinilo više kao neko frfljanje.\nTo je sve èega se seæam, molim te nemoj me povrediti.</text>
 </string>
 <string id="dd_inform_dialog_zep2_10">
-<text>Get it together man..   you're pathetic!</text>
+<text>Daj saberi se malo èoveèe. Jadan si!</text>
 </string>
 <string id="dd_inform_dialog_zep2_11">
-<text>I just want out..   please help me get out of here..</text>
+<text>Samo želim odavde. Molim te, pomozi mi da odem odavde.</text>
 </string>
 <string id="dd_inform_dialog_zep2_12">
-<text>Go far to the East and then North of the old research station when you reach it. You have to sneek into the military compound that surrounds the area that the village is in.\nYou'll find an old underground bar off what's left of a main freeway. Be careful passing through the village as it has been overrun by mutants.\nSay the Marked One sent you.  See you around.</text>
+<text>Idi prema istoku a onda kada doðeš do Istraživaèke Stanice, okreni na sever. Moraæeš se prošuljati kroz vojnu bazu koja okružuje to selo.\nNaæi æeš stari podzemni bar, sve što je ostalo od autoceste. Budi oprezan kada budeš prolazio kroz selo, puno je mutanata.\nSamo reci da te Obeleženi poslao. Vidimo se.</text>
 </string>
 
 <string id="dd_inform_dialog_zep3_2">
-<text>Sorry..  they don't want you there.  Guess you'll have to make your way East and try to get out of the Zone where the radiation is weakest.</text>
+<text>Žao mi je, ne žele te primiti. Preostaje ti da kreneš prema istoku i pokušaš izaæi iz Zone tamo gde je radijacija najslabija.</text>
 </string>
 <string id="dd_inform_dialog_zep3_3">
-<text>Damn..\nthanks for nothing!</text>
+<text>Do ðavola.\nHvala opet!</text>
 </string>
 <string id="dd_inform_dialog_zep3_4">
-<text>You're going to tell me anyway..\nI understand you had a run-in with this stranger that has been going around asking questions.</text>
+<text>Ali kako god, nešto mi moraš reæi.\nKoliko sam razumeo, imao si sukob sa strancem koji se uokolo raspitivao za mene i druge stvari.</text>
 </string>
 <string id="dd_inform_dialog_zep3_12">
-<text>Sorry..   don't have time for babysitting.\nLike I said..   go East through the barrier of the Zone but better wear a scientific suit or you'll fry..\nLots of luck!</text>
+<text>Izvini, ali nemam vremena za èuvanje dece.\nKao što sam rekao, idi prema istoku kroz barijeru Zone, ali bolje obuci neko nauènièko odelo ili æeš biti spržen.\nŽelim ti puno sreæe!</text>
 </string>
 <string id="start_zep_search">
-<text>Start ZEP search</text>
+<text>Zapoèni ZEP potragu</text>
 </string>
 <string id="have_tweed_weapon">
-<text>Have Tweed Weapon</text>
+<text>Tvidino oružje nabavljeno</text>
 </string>
 <string id="find_book_tweed">
-<text>Find book for Tweed</text>
+<text>Pronaði knjigu za Tvid</text>
 </string>
 <string id="found_book_tweed">
-<text>Found book for Tweed</text>
+<text>Pronaðena knjiga za Tvid</text>
 </string>
 <string id="gave_tweed_weapon">
-<text>Gave Tweed Weapon</text>
+<text>Daj Tvid oružje</text>
 </string>
 <string id="give_tweed_help">
-<text>Give Tweed Help</text>
+<text>Pomozi Tvid</text>
 </string>
 <string id="wasted_awaits">
-<text>Wasted Woodland Awaits</text>
+<text>Crna Šuma èeka</text>
 </string>
 <string id="pipes_end">
-<text>Pipes End</text>
+<text>Kraj cevi</text>
 </string>
 <string id="touch_tweed">
-<text>Get in touch with Tweed</text>
+<text>Doði u kontak sa Tvid</text>
 </string>
 <string id="backwater_activated">
-<text>Backwater restricted area teleports activated</text>
+<text>Ogranièeno teleportersko podruèje u Zatonu aktivirano</text>
 </string>
 <string id="caesiers_activated">
-<text>Caesiers Underground teleports activated</text>
+<text>Cezarovi podzemni teleporteri aktivirani</text>
 </string>
 <string id="zep_bars_2">
-<text>Marked One.. got word from the Generators that someone was in the Warlab recently, not of a known faction..  you may want to investigate!</text>
+<text>Obeleženi, dobio sam informaciju iz Generatora da je neko nedavno bio u Warlabu, niko od poznatih frakcija. Možda budeš želeo to istražiti!</text>
 </string>
 <string id="zep_bars_3">
-<text>Marked One.. Clear Sky Commander has informed me that an unknown faction was searching through the ruins by the old water tower. Captured one and he informed us that they were looking for a stalker referred to as the Marked One, there might be clues there for you.</text>
+<text>Obeleženi, komandi Èistog Neba me obavestio da je neka nepoznata frakcija pretraživala ruševine kod starog vodenog tornja. Jednog su zarobili i on im je rekao da traže stalkera poznatog po imenu Obeleženi, tu bi moglo biti još tragova za tebe.</text>
 </string>
 <string id="zep_bars_4">
-<text>Marked One.. Karina has contacted me and wants me to let you know they were back. They were arguing over who should clear out the Controller there.</text>
+<text>Obeleženi. Karina me kontaktirala i želi da znaš da su se vratili. Svaðali su se oko toga ko bi trebao rešiti onog kontrolera.</text>
 </string>
 <string id="gbars1_done">
-<text>Tunnels Activated</text>
+<text>Tuneli aktivirani</text>
 </string>
 <string id="sak_cube_info">
-<text>Get to the Firing Range</text>
+<text>Idi do Poligona</text>
 </string>
 <string id="start_x14">
-<text>Find the lab and help Glavny</text>
+<text>Pronaði laboratorij i pomozi Glavnom</text>
 </string>
 
 <!-- OGSE COMPANIONS -->
 <!-- COMPANION STALKER -->	
 	<string id="companion_release_dialog_0">
-		<text>Thanks, buddy, but now I must leave you.</text>
+		<text>Hvala prijatelju, ali sada moram da te napustim.</text>
 	</string>	
 	<string id="companion_release_dialog_1">
-		<text>Thank you too. Good luck!</text>
+		<text>Hvala i tebi. Sreæno!</text>
 	</string>
 	<string id="companion_hire_dialog_0">
-		<text>I need some backup,would you like to join me?</text>
+		<text>Treba mi podrška, hoæeš li mi se pridružiti?</text>
 	</string>	
 	<string id="companion_hire_dialog_1">
-		<text>Sure, I have been eager to explore the Zone.</text>
+		<text>Naravno, i ja sam željan istražiti Zonu.</text>
 	</string>
 	<string id="companion_hire_dialog_2">
-		<text>Sorry, I have other plans.</text>
+		<text>Izvini, imam drugih planova.</text>
 	</string>
 	<string id="companion_hire_dialog_3">
-		<text>No way, You scare the hell out of me!</text>
+		<text>Nema šanse, prestrašio si me!</text>
 	</string>
 	<string id="companion_hire_dialog_4">
-		<text>No way, go to hell, man! No one ever returned back after leaving with you! Look for "lockpicks" elsewhere.</text>
+		<text>Nema šanse, goni se od mene! Ko je otišao s tobom, nikada se nije vratio! Potraži žrtve negde drugo.</text>
 	</string>
 	<string id="companion_hire_dialog_5">
-		<text>Sorry, but I just can't. The Zone has beat me down, I need to take a break.</text>
+		<text>Izvini, ali stvarno ne mogu. Zona me dokusurila, treba mi odmor.</text>
 	</string>
 	<string id="companion_hire_dialog_6">
-		<text>Hell No! I have no desire to 'RAMBO' around the Zone with a nut job like you!</text>
+		<text>Nema šanse! Nemam nikakve želje izigravati Ramba po Zoni sa luðakom poput tebe!</text>
 	</string>
 	<string id="companion_hire_dialog_7">
-		<text>Not a chance! I've heard all about you and I don't have a 'death wish' so bug off and find someone else!</text>
+		<text>Nema šanse! Èuo sam ja sve o tebi! Nemam još želje da umrem, zato razguli i potraži nekog drugog!</text>
 	</string>
 	<string id="companion_hire_dialog_8">
-		<text>No, you already have enough people with you. Don't wander around the Zone in crowds, you know, She does not like this.</text>
+		<text>Ne, veæ imaš dovoljno ljudi. Ne želim u èoporu lutati Zonom, znaš, ona to ne voli.</text>
 	</string>
 	<string id="companion_hire_dialog_9">
-		<text>Do not be offended, Marked One, but as long as you're not from our faction - we have no business with you. </text>
+		<text>Nemoj se uvrediti, Obeleženi, ali pošto nisi iz naše frakcije - ne želimo da imamo posla s tobom. </text>
 	</string>
 	<string id="companion_management_dialog_0">
-		<text>Let's discuss our tactics.</text>
+		<text>Ajde da poprièamo o taktici.</text>
 	</string>
 	<string id="companion_management_dialog_1">
-		<text>I'm listening.</text>
+		<text>Slušam.</text>
 	</string>
 	<string id="companion_management_dialog_2">
-		<text>Follow me.</text>
+		<text>Prati me.</text>
 	</string>
 	<string id="companion_management_dialog_3">
-		<text>How do I behave in this case?</text>
+		<text>Kako da se ponašam u ovom sluèaju?</text>
 	</string>
 	<string id="companion_management_dialog_4">
-		<text>Just follow me and stay alert.</text>
+		<text>Samo me prati i budi na oprezu.</text>
 	</string>
 	<string id="companion_management_dialog_5">
-		<text>Come follow me and try to lead the enemy closer.</text>
+		<text>Prati me i pokušaj dovesti neprijatelja bliže.</text>
 	</string>
 	<string id="companion_management_dialog_6">
-		<text>Come follow me and attack only when absolutely necessary.</text>
+		<text>Prati me i napadaj samo ako je apsolutno neophodno.</text>
 	</string>	
 	<string id="companion_management_dialog_7">
-		<text>Wait here.</text>
+		<text>Èekaj ovde.</text>
 	</string>
 	<string id="companion_management_dialog_8">
-		<text>Waiting your orders.</text>
+		<text>Èekam tvoja nareðenja.</text>
 	</string>
 	<string id="companion_management_dialog_9">
-		<text>Just wait here and stay alert.</text>
+		<text>Èekaj ovde i budi na oprezu.</text>
 	</string>
 	<string id="companion_management_dialog_10">
-		<text>Wait here and try to lead the enemy closer.</text>
+		<text>Èekaj ovde i pokušaj dovesti neprijatelja bliže.</text>
 	</string>
 	<string id="companion_management_dialog_11">
-		<text>Wait here and attack only when absolutely necessary.</text>
+		<text>Èekaj ovde i napadaj samo ako je apsolutno neophodno.</text>
 	</string>
 	<string id="companion_management_dialog_12">
-		<text>Sneak after me.</text>
+		<text>Šuljaj se posle mene.</text>
 	</string>
 	<string id="companion_management_dialog_13">
-		<text>Waiting your orders.</text>
+		<text>Èekam tvoja nareðenja.</text>
 	</string>
 	<string id="companion_management_dialog_14">
-		<text>Just sneak and stay alert.</text>
+		<text>Samo se šuljaj i budi na oprezu.</text>
 	</string>
 	<string id="companion_management_dialog_15">
-		<text>Sneak and try to lead enemy closer.</text>
+		<text>Šuljaj se i pokušaj dovesti neprijatelja bliže.</text>
 	</string>
 	<string id="companion_management_dialog_16">
-		<text>Sneak and attack only when absolutely necessary.</text>
+		<text>Šuljaj se i napadaj samo ako je apsolutno neophodno.</text>
 	</string>
 	<string id="companion_management_dialog_17">
-		<text>Hide here.</text>
+		<text>Sakrij se ovde.</text>
 	</string>
 	<string id="companion_management_dialog_18">
-		<text>Waiting your orders.</text>
+		<text>Èekam tvoja nareðenja.</text>
 	</string>
 	<string id="companion_management_dialog_19">
-		<text>Just hide here and stay alert.</text>
+		<text>Sakrij se ovde i budi na oprezu.</text>
 	</string>
 	<string id="companion_management_dialog_20">
-		<text>Hide here and try to lead enemy closer.</text>
+		<text>Sakrij se ovde i pokušaj navesti neptijatelja bliže.</text>
 	</string>
 	<string id="companion_management_dialog_21">
-		<text>Hide here and attack only when absolutely necessary.</text>
+		<text>>Sakrij se ovde i napadaj samo ako je apsolutno neophodno.</text>
 	</string>	
 	
 	<!-- COMPANION DOLG -->
 	<string id="companion_release_dialog_dolg_0">
-		<text>Thank you for your service, soldier. Dismissed!</text>
+		<text>Hvala na službi, vojnièe. Voljno!</text>
 	</string>	
 	<string id="companion_release_dialog_dolg_1">
-		<text>Glory to the Duty!</text>
+		<text>Slava Djutiju!</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_0">
-		<text>Hey fighter, let's travel together?</text>
+		<text>Hej borèe, hajde da putujemo zajedno?</text>
 	</string>	
 	<string id="companion_hire_dialog_dolg_1">
-		<text>Yes sir! Awaiting orders.</text>
+		<text>Da gospodine! Èekam nareðenje.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_2">
-		<text>Sorry, I have a job to do, I'm busy.</text>
+		<text>Izvini, moram nešto odraditi pa sam zauzet.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_3">
-		<text>Sorry, I will not go with you. The soldiers tell odd things about you...</text>
+		<text>Žao mi je ali ne mogu iæi s tobom. Èuo sam od vojnika èudne prièe o tebi.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_4">
-		<text>No way, Marked One, you have a scary reputation. Every time you're returning back, your partner is no longer with you.</text>
+		<text>Nema šanse Obeleženi, imaš zastrašujuæu reputaciju. Svaki put kada se vratiš, tvoj partner nije s tobom.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_5">
-		<text>Sorry, but I can't. I need a break after the attacks, tired already of killing monsters.</text>
+		<text>Žao mi je ali ne mogu. Treba mi odmor od napada, umoran sam od ubijanja èudovišta.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_6">
-		<text>Your experience is not enough to go with me into the Zone. Learn first to fight monsters well, and get a higher rank.</text>
+		<text>Nemaš dovoljno iskustva da ideš samnom u Zonu. Nauèi prvo da se boriš sa èudovištima i da dobiješ veæi èin.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_7">
-		<text>No offence but I say "no". Experience I have is not enough to compete with you - you're a seasoned fighter, I am just a greenhorn in comparison with you.</text>
+		<text>Bez uvrede ali moram reæi ne. Iskustvo koje imam nije dovoljno da se poredim s tobom - Ti si pravi borac a ja sam obièni gušter.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_8">
-		<text>No, you already have enough people with you, I'll be more useful here.</text>
+		<text>Ne, veæ imaš dovoljno ljudi sa sobom. Biæu više od koristi ovde.</text>
 	</string>
 	<string id="companion_hire_dialog_dolg_9">
-		<text>Do not be offended, but as long as you're not from our faction - we have no business with you.</text>
+		<text>Nemoj se ljutiti, ali pošto nisi iz naše frakcije - ne želimo imati posla s tobom.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_0">
-		<text>Listen to my orders.</text>
+		<text>Slušaj moja nareðenja.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_1">
-		<text>Sir, yes sir!</text>
+		<text>Da gospodine!</text>
 	</string>
 	<string id="companion_management_dialog_dolg_2">
-		<text>Follow me.</text>
+		<text>Prati me.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_3">
-		<text>How to respond to threats?</text>
+		<text>Kako odgovaraš na pretnju?</text>
 	</string>
 	<string id="companion_management_dialog_dolg_4">
-		<text>Keep high alert.</text>
+		<text>Visokim stepenom pripravnosti.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_5">
-		<text>Follow me, fire from medium range.</text>
+		<text>Prati me, vatra sa srednjeg odstojanja.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_6">
-		<text>Come follow me and attack only when absolutely necessary.</text>
+		<text>Prati me i napadaj samo ako je apsolutno neophodno.</text>
 	</string>	
 	<string id="companion_management_dialog_dolg_7">
-		<text>Wait here.</text>
+		<text>Èekaj ovde.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_8">
-		<text>How to respond to threats?</text>
+		<text>Kako odgovaraš na pretnju?</text>
 	</string>
 	<string id="companion_management_dialog_dolg_9">
-		<text>Keep high alert.</text>
+		<text>Visokim stepenom pripravnosti.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_10">
-		<text>Wait here, fire from medium range.</text>
+		<text>Èekaj ovde, vatra sa srednjeg odstojanja.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_11">
-		<text>Wait here and attack only when absolutely necessary.</text>
+		<text>Èekaj ovde i napadaj samo ako je apsolutno neophodno.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_12">
-		<text>Sneak after me.</text>
+		<text>Šuljaj se zamnom.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_13">
-		<text>How to respond to threats?</text>
+		<text>Kako odgovaraš na pretnju?</text>
 	</string>
 	<string id="companion_management_dialog_dolg_14">
-		<text>Keep high alert.</text>
+		<text>Visokim stepenom pripravnosti.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_15">
-		<text>Sneak after me, fire from medium range.</text>
+		<text>Šuljaj se zamnom, vatra sa srednjeg odstojanja.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_16">
-		<text>Sneak after me and attack only when absolutely necessary.</text>
+		<text>Šuljaj se zamnom i napadaj samo ako je apsolutno neophodno.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_17">
-		<text>Hide here.</text>
+		<text>Sakrij se.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_18">
-		<text>How to respond to threats?</text>
+		<text>Kako odgovaraš na pretnju?</text>
 	</string>
 	<string id="companion_management_dialog_dolg_19">
-		<text>Keep high alert.</text>
+		<text>Visokim stepenom pripravnosti.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_20">
-		<text>Hide here, fire from medium range.</text>
+		<text>Sakrij se ovde, vatra sa srednjeg odstojanja.</text>
 	</string>
 	<string id="companion_management_dialog_dolg_21">
-		<text>Hide here and attack only when absolutely necessary.</text>
+		<text>Sakrij se ovde i napadaj samo ako je apsolutno neophodno.</text>
 	</string>		
 	
 	<!-- COMPANION FREEDOM -->
 	<string id="companion_release_dialog_freedom_0">
-		<text>Thanks, man. Good spent time, but I need to hit the road alone!</text>
+		<text>Hvala ti èoveèe, ali dalje moram nastaviti sam!</text>
 	</string>	
 	<string id="companion_release_dialog_freedom_1">
-		<text>Bye, dude, Freedom rules!</text>
+		<text>Zdravo, Fridom je zakon!</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_0">
-		<text>Hey, man, let's be in cahoots!</text>
+		<text>Hej èoveèe, budimo u kontaktu!</text>
 	</string>	
 	<string id="companion_hire_dialog_freedom_1">
-		<text>Okay, let's hit the road.</text>
+		<text>Ok, idemo na put.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_2">
-		<text>No, man, I'm busy, sorry.</text>
+		<text>Ne, zauzet sam.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_3">
-		<text>Damn no, I'm chicken out to go with you, maniac.</text>
+		<text>Nema šanse, previše sam kukavica da bi išao s tobom, manijaèe jedan.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_4">
-		<text>Get lost, man, there were a lot of guys to go with you already - and I never saw them return.</text>
+		<text>Ma gubi se èoveèe, previše je ljudi otišlo s tobom ali nisam vidio nijednog da se vratio.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_5">
-		<text>Sorry, I can't. I've conked out already, need some rest, take a dope, relax. Do you have some? Nope? Sad...</text>
+		<text>Žao mi je ali ne mogu. Premoren sam i treba mi odmora malo i cuge. Imaš li nešto? Ne? Šteta...</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_6">
-		<text>No, man, you're still a rookie. Get harder first.</text>
+		<text>Ne, još si poèetnik. Možda kada oèvrsneš malo.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_7">
-		<text>Damn no, it's hairy for me to go with ya - you're exploring such depths, I'm still wondering how you make it out in one piece.</text>
+		<text>Ne, previše je èupavo tamo gde ti ideš - još se èudim kako se vraæaš u jednom komadu.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_8">
-		<text>No, man, you have enough guys already, one "high" is too small for three.</text>
+		<text>Ne hvala, veæ imaš dosta ljudi sa sobom.</text>
 	</string>
 	<string id="companion_hire_dialog_freedom_9">
-		<text>No, man, no offence, but as long as you're not from our faction - we have no business with you.</text>
+		<text>Nemoj se ljutiti, ali pošto nisi iz naše frakcije - ne želimo imati posla s tobom.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_0">
-		<text>Listen up, man, we need to chitchat a bit about tactics.</text>
+		<text>Slušaj, moramo malo poprièati o taktici.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_1">
-		<text>Yep, I'm listening.</text>
+		<text>DA, slušam.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_2">
-		<text>Follow me, man.</text>
+		<text>Prati me.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_3">
-		<text>What if get into a jam?</text>
+		<text>Šta ako se "zaledim"?</text>
 	</string>
 	<string id="companion_management_dialog_freedom_4">
-		<text>Don't play chicken, but stay alert if something happens.</text>
+		<text>Ne izgravaj mi kukavicu, budi na oprezu ako se šta desi.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_5">
-		<text>Don't play chicken, and let badasses come closer before hit'em.</text>
+		<text>Ne izgravaj mi kukavicu, pusti te seronje da se malo približe pre nego ih napadneš.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_6">
-		<text>Go on and hide the gun.</text>
+		<text>Idi i sakrij pušku.</text>
 	</string>	
 	<string id="companion_management_dialog_freedom_7">
-		<text>Sit, take a break, I need to check something.</text>
+		<text>Sedi i odmori se, moram proveriti nešto.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_8">
-		<text>What if get into a jam?</text>
+		<text>Šta ako se "zaledim"?</text>
 	</string>
 	<string id="companion_management_dialog_freedom_9">
-		<text>Take break, but stay alert if something happens.</text>
+		<text>Odmori se ali budi na oprezu ako se nešto desi.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_10">
-		<text>Don't be a chicken, take a break, but let badasses come closer before hit'em.</text>
+		<text>Ne izgravaj kukavicu, odmori se, ali pusti te seronje da se malo približe pre nego ih napadneš.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_11">
-		<text>Take a break man, and keep a low profile.</text>
+		<text>Odmori se malo, ali ne odaji položaj.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_12">
-		<text>Sneak with me, but don't kick up a fuss.</text>
+		<text>Šuljaj se zamnom ali ne diži frku.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_13">
-		<text>What if get into a jam?</text>
+		<text>Šta ako se "zaledim"?</text>
 	</string>
 	<string id="companion_management_dialog_freedom_14">
-		<text>Sneak with me, just stay alert if something happens.</text>
+		<text>Šuljaj se zamnom, ali budi na oprezu ako se nešto desi.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_15">
-		<text>Everything's fine, just don't kick up a fuss and let badasses come closer before hit'em.</text>
+		<text>Sve je u redu, samo ne diži frku i pusti te seronje da se malo približe pre nego ih napadneš.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_16">
-		<text>Listen, don't kick up a fuss to the last moment, catch what?</text>
+		<text>Slušaj, nemoj da dižeš frku u poslednjem trenutku, razumeš?</text>
 	</string>
 	<string id="companion_management_dialog_freedom_17">
-		<text>Hide here and don't kick up a fuss.</text>
+		<text>Sakrij se ovde i ne pravi frku.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_18">
-		<text>What if get into a jam?</text>
+		<text>Šta ako se "zaledim"?</text>
 	</string>
 	<string id="companion_management_dialog_freedom_19">
-		<text>Hide silently, just stay alert if something happens.</text>
+		<text>Sakrij se i budi na oprezu ako se nešto desi.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_20">
-		<text>Hide silently, and let badasses come closer before hit'em.</text>
+		<text>Sakrij se i pusti te seronje da se malo približe pre nego ih napadneš.</text>
 	</string>
 	<string id="companion_management_dialog_freedom_21">
-		<text>Hide as silently as you can to the last moment.</text>
+		<text>Sakrij se i budi tiho sve do zadnjeg trenutka.</text>
 	</string>	
 	
 	<!-- COMPANION BANDIT -->
 	<string id="companion_release_dialog_bandit_0">
-		<text>That's all, bro', break up. Be good.</text>
+		<text>To je sve, burazeru, razilazimo se. Budi mi dobro.</text>
 	</string>	
 	<string id="companion_release_dialog_bandit_1">
-		<text>You also don't get hurt, bro'.</text>
+		<text>Èuvaj se burazeru.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_0">
-		<text>Yo, bro', let's make a gang?</text>
+		<text>Zdravo buraz, da napravimo bandu?</text>
 	</string>	
 	<string id="companion_hire_dialog_bandit_1">
-		<text>You've a point there, yep.</text>
+		<text>Èitaš mi misli, može.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_2">
-		<text>No, I'd rather be a gang by myself.</text>
+		<text>Ne, radije æu sam.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_3">
-		<text>Fuck you, only suckers go with you.</text>
+		<text>Ma goni se, samo æe naivèine iæi s tobom.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_4">
-		<text>Get lost, badass, you always rat out bros' under fire.</text>
+		<text>Ma gubi se, guzièaru, uvek braæu prve naguziš pod vatru.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_5">
-		<text>Nah, I'm burned out enough already.</text>
+		<text>Ne, veæ sam dovoljno izgorio.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_6">
-		<text>You're not tough enough, jerk. First make yourself a man, then return.</text>
+		<text>Još si zelen, drkadžijo. Vrati se kada malo sazriješ.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_7">
-		<text>Sorry, you're tough bro', makin' hardballs, I can't get over with you - only stay a lookout, at best.</text>
+		<text>Žao mi je ali previše si žestok za mene, ne mogu se porediti s tobom - u najboljem, mogu samo stajati i posmatrati.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_8">
-		<text>No, bro', you have one grunt already.</text>
+		<text>Ne, buraz.</text>
 	</string>
 	<string id="companion_hire_dialog_bandit_9">
-		<text>No way, you're not of our gang -  I've nothing to talk about with ya.</text>
+		<text>Nema šanse, nisi deo naše bande - tako da nema poslovanja s tobom.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_0">
-		<text>Hey, bro', listen up here.</text>
+		<text>Hej, burazeru, slušaj ovamo.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_1">
-		<text>What da fuck ya need?</text>
+		<text>Koji ti klinac sada treba?</text>
 	</string>
 	<string id="companion_management_dialog_bandit_2">
-		<text>Go after me, get it?</text>
+		<text>Idi zamnom, kontaš?</text>
 	</string>
 	<string id="companion_management_dialog_bandit_3">
-		<text>Yep, and what if some problems happen around?</text>
+		<text>Da, a šta ako se desi neko sranje?</text>
 	</string>
 	<string id="companion_management_dialog_bandit_4">
-		<text>Hold your jaw, if there are problems - just draw out a gun and make holes in the jerks.</text>
+		<text>Prestani cvokotati zubima, ako doðe do nekog sranja - samo izvuci pištolj i izbuši te drkadžije.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_5">
-		<text>Go after me, if any problems happen - let'em get closer.</text>
+		<text>Idi zamnom, ako se desi neko sranje - pusti ih nek' se približe.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_6">
-		<text>Go after me and don't make noise. And hide your fuckin' gun already!</text>
+		<text>Idi zamnom i ne pravi buku. I sakrij tu svoju prokletu pušku!</text>
 	</string>	
 	<string id="companion_management_dialog_bandit_7">
-		<text>Stay here, get it? I'll check out and get back.</text>
+		<text>Ostani ovde, razumeš? Proveriæu šta se dešava i vratiti se.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_8">
-		<text>Yep, and what if some problems happen around?</text>
+		<text>Dobro, a šta ako se desi neko sranje?</text>
 	</string>
 	<string id="companion_management_dialog_bandit_9">
-		<text>Hold your jaw, if there are problems - just draw out a gun and make holes in the jerks.</text>
+		<text>Prestani cvokotati zubima, ako doðe do nekog sranja - samo izvuci pištolj i izbuši te drkadžije.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_10">
-		<text>Stay here I'm tellin' ya, if any problems happen - let'em get closer.</text>
+		<text>Kažem ti ostani ovde, ako se desi neko sranje - samo ih pusti da se približe.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_11">
-		<text>Hold your jaw I'm tellin' ya. And hide you fuckin' gun already and keep quiet!</text>
+		<text>Prestani cvokotati zubima, kažem ti. I sakrij tu prokletu pušku!</text>
 	</string>
 	<string id="companion_management_dialog_bandit_12">
-		<text>Go after me and keep quiet.</text>
+		<text>Idi zamnom i budi tih.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_13">
-		<text>Yep, and what if some problems happen around?</text>
+		<text>Dobro, a šta ako se desi neko sranje?</text>
 	</string>
 	<string id="companion_management_dialog_bandit_14">
-		<text>Hold your jaw, if there are problems - just draw out a gun and make holes in the jerks.</text>
+		<text>Prestani cvokotati zubima, ako doðe do nekog sranja - samo izvuci pištolj i izbuši te drkadžije.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_15">
-		<text>Keep quiet I'm tellin' ya, don't get it? If any problems happen - let'em get closer.</text>
+		<text>Budi tiho kad ti kažem, zar si glup? Ako se desi neko sranje - samo ih pusti da se približe.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_16">
-		<text>Keep quiet mothafucka, and don't make noise! And hide you fuckin' gun already!</text>
+		<text>Budi tiho i ne pravi buku! I sakrij tu prokletu pušku!</text>
 	</string>
 	<string id="companion_management_dialog_bandit_17">
-		<text>Hide there and wait.</text>
+		<text>Sakrij se i èekaj.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_18">
-		<text>Yep, and what if some problems happen around?</text>
+		<text>Dobro, a šta ako se desi neko sranje?</text>
 	</string>
 	<string id="companion_management_dialog_bandit_19">
-		<text>Hold your jaw, if there are problems - just draw out a gun and make holes in the jerks.</text>
+		<text>Prestani cvokotati zubima, ako doðe do nekog sranja - samo izvuci pištolj i izbuši te drkadžije.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_20">
-		<text>Hide there sayin' ya, if any problems happen - let'em get closer.</text>
+		<text>Sakrij se kad ti kažem, ako se desi neko sranje - samo ih pusti da se približe.</text>
 	</string>
 	<string id="companion_management_dialog_bandit_21">
-		<text>Whatta you don't get it? Hide there and be quiet, and hide you fuckin' gun!</text>
+		<text>Šta ne shvataš? Sakrij se i budi tiho! I sakrij tu prokletu pušku!</text>
 	</string>	
 	
 	<!-- COMPANION ZOMBIED -->
 	<string id="companion_release_dialog_zombied_0">
-		<text>Aaaarrrghhh... byyyeee... I'm theeeree...</text>
+		<text>Aaaarrrghhh... Zdrrraaavvo... Taammo sssaaamm...</text>
 	</string>	
 	<string id="companion_release_dialog_zombied_1">
-		<text>Gooooo...</text>
+		<text>Iddeeemooo...</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_0">
-		<text>Gooooo... slaaain... cruuushhh...</text>
+		<text>Iddeeemooo... Ubijennnnn... Zdrrrobbiii...</text>
 	</string>	
 	<string id="companion_hire_dialog_zombied_1">
-		<text>Gooooo....</text>
+		<text>Iddeeemooooooo....</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_2">
-		<text>Nooooo... busyyy... ..geeee...</text>
+		<text>Neeeee... Zaauzzzettt... </text>
 	</string>
 	<string id="companion_hire_dialog_zombied_3">
-		<text>Nooooo... scarrr... rryyyy...</text>
+		<text>Neeeee... Strrraaahhh...</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_4">
-		<text>Geeee... looost... you'reee deaaath...</text>
+		<text>Guuubbiii... Seeee... Tiii mmmrrttavvv...</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_5">
-		<text>Nooooo... sleeeep... reeeest...</text>
+		<text>Neeeee... Sppavvatttii... Odmmmoooorrr...</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_6">
-		<text>Noooo, tooo weeeeaaak.</text>
+		<text>Neeeee, prreeessslabbb.</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_7">
-		<text>Scaaaryyy... noooo...</text>
+		<text>Strrraaahhh... Neeeee...</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_8">
-		<text>Muuuch... muuuch... noooo</text>
+		<text>Prrreviššeee... Prrreviššeee... Neeeee...</text>
 	</string>
 	<string id="companion_hire_dialog_zombied_9">
-		<text>Looost... you baaaaad...</text>
+		<text>Brrriišššiii... Tiiii loooššš...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_0">
-		<text>Geee! Saaayyin'...</text>
+		<text>Eeeee! Ubbiiijatti...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_1">
-		<text>Yyyyeee?</text>
+		<text>Štaaaa?</text>
 	</string>
 	<string id="companion_management_dialog_zombied_2">
-		<text>Gooooo...</text>
+		<text>Iddeeemooo...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_3">
-		<text>Eneeemyyyy?</text>
+		<text>Neeprrrijatteelj?</text>
 	</string>
 	<string id="companion_management_dialog_zombied_4">
-		<text>Slaaaain!!!! Cruuush!!!</text>
+		<text>Ubbiiijatti!!!! Zdrrrobbiii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_5">
-		<text>Closer... closer... then slaaaain!!!</text>
+		<text>Blližže... Blližže... Onddaaa ubbbijjaatii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_6">
-		<text>Dooont cruuush... sileeent...</text>
+		<text>Neeeee zdrobbbiiittii... Tihhhoooo...</text>
 	</string>	
 	<string id="companion_management_dialog_zombied_7">
-		<text>Waaait.... waaait...</text>
+		<text>Èeekkaaj... Èeekkaaj...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_8">
-		<text>Eneeemyyyy?</text>
+		<text>Neeprrrijatteelj?</text>
 	</string>
 	<string id="companion_management_dialog_zombied_9">
-		<text>Slaaaain!!!! Cruuush!!!</text>
+		<text>Ubbiiijatti!!!! Zdrrrobbiii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_10">
-		<text>Closer... closer... then slaaaain!!!</text>
+		<text>Blližže... Blližže... Onddaaa ubbbijjaatii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_11">
-		<text>Dooont cruuush... sileeent...</text>
+		<text>Neeeee zdrobbbiiittii... Tihhhoooo...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_12">
-		<text>Sileeent... gooooo...</text>
+		<text>Tihhhoooo... Iddeeemooo...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_13">
-		<text>Eneeemyyyy?</text>
+		<text>Neeprrrijatteelj?</text>
 	</string>
 	<string id="companion_management_dialog_zombied_14">
-		<text>Slaaaain!!!! Cruuush!!!</text>
+		<text>Ubbiiijatti!!!! Zdrrrobbiii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_15">
-		<text>Closer... closer... then slaaaain!!!</text>
+		<text>Blližže... Blližže... Onddaaa ubbbijjaatii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_16">
-		<text>Dooont cruuush... sileeent...</text>
+		<text>Neeeee zdrobbbiiittii... Tihhhoooo...</text>
 	</string>
 	<string id="companion_management_dialog_zombied_17">
-		<text>Hiiiiide....</text>
+		<text>Saakkrrijjj sseeee....</text>
 	</string>
 	<string id="companion_management_dialog_zombied_18">
-		<text>Eneeemyyyy?</text>
+		<text>Neeprrrijatteelj?</text>
 	</string>
 	<string id="companion_management_dialog_zombied_19">
-		<text>Slaaaain!!!! Cruuush!!!</text>
+		<text>Ubbiiijatti!!!! Zdrrrobbiii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_20">
-		<text>Closer... closer... then slaaaain!!!</text>
+		<text>Blližže... Blližže... Onddaaa ubbbijjaatii!!!</text>
 	</string>
 	<string id="companion_management_dialog_zombied_21">
-		<text>Dooont cruuush... sileeent...</text>
+		<text>Neeeee zdrobbbiiittii... Tihhhoooo...</text>
 	</string>
 
 	<!-- GPS and PDA text -->
 	<string id="beacon_location">
-		<text>At the beacon location: </text>
+		<text>Na mestu lokatora:</text>
 	</string>
 	<string id="beacon_lost">
-		<text> no battery. Connection lost.</text>
+		<text>Nema baterija. Veza izgubljena.</text>
 	</string>
 	<string id="beacon_through">
-		<text>Through </text>
+		<text>Posredstvom</text>
 	</string>
-<!--	<string id="beacon_lost">	-  Duplicated - aleks1970
-		<text> hrs. on beacon location</text>
-	</string>
-	<string id="beacon_location">
-		<text>On location </text>
-	</string> -->
 	<string id="beacon_change">
-		<text> need to change battery.</text>
+		<text>Treba zameniti baterije.</text>
 	</string>
 	<string id="beacon_no_loot">
-		<text>No loot in stash.</text>
+		<text>Nema plena u šteku.</text>
 	</string>
 	<string id="beacon_tagged_empty">
-		<text>Tagged empty stash.</text>
+		<text>Oznaèen prazni štek.</text>
 	</string>
 	<string id="beacon_tagged">
-		<text>Tagged</text>
+		<text>Oznaèen</text>
 	</string>
 	<string id="beacon_empty">
-		<text>Empty Cache.</text>
+		<text>Prazni štek.</text>
 	</string>
 	<string id="beacon_total">
-		<text>with a list of wares.</text>
+		<text>Sa listom plena.</text>
 	</string>
 	<string id="beacon_subject">
-		<text> the subject</text>
+		<text>Subjekat</text>
 	</string>
 	<string id="beacon_tagged_stalker">
-		<text>Tagged by stalker </text>
+		<text>Oznaèen od stalkera</text>
 	</string>
 	<string id="beacon_killed">
-		<text>Killed Stalker </text>
+		<text>Ubijen stalker</text>
 	</string>
 	<string id="beacon_has">
-		<text> with GPS-beacon</text>
+		<text>sa GPS-lokatorom</text>
 	</string>
 	<string id="beacon_robbed">
-		<text> robbed cache!</text>
+		<text>Štek opljaèkan!</text>
 	</string>
 	<string id="beacon_died">
-		<text>died</text>
+		<text>Mrtav</text>
 	</string>
 	<string id="beacon_alive">
-		<text>alive</text>
+		<text>Živ</text>
 	</string>
 	<string id="beacon_unknown">
-		<text>Unknown</text>
+		<text>Nepoznat</text>
 	</string>
-
 	<string id="tb3d_x14_distress">
-		<text>Anyone..   I am trapped in a lab full of Monolith..  there is an entrance in the Northwest corner of NPP North\nI am hiding out behind a lab with a strange machine they seem to be protecting..  please help me</text>
+		<text>Bilo ko!! Zarobljen sam u laboratoriji koja je puna Monolitovaca. Postoji ulaz u severozapadnom uglu NEP-a.\nKrijem se iza laboratorija sa èudnom mašinom koja nešto štiti. Molim pomozite mi.</text>
 	</string>
 
 	<string id="tb3d_cem_distress">
-		<text>ALL STALKERS..   we are under attack by what look like Mercs ..  the old cemetery and hurry..</text>
+		<text>SVI STALKERI. Pod napadom smo Plaæenika. Kod starog Groblja, požurite!!!</text>
 	</string>
 
 	<string id="tb3d_sms_about_storm">
-		<text>ATTENTION!..   an extreme radiation storm has developed over the Northern NPP and has spread over several areas..   evacuate or head underground if you are close to the NPP..</text>
+		<text>PAŽNJA! Ekstremna radijacijska oluja se formirala iznad severnog dela NEP-a i proširila se na više podruèja. Evakuirajte se ili požurite u podzemlje ako ste u blizini NEP-a.</text>
 	</string>
 
 	<string id="tb3d_sms_storm_areas">
-		<text>ATTENTION!..   areas effected so far are: NPP, Radar, Dead City, East pripyat, RECON, Warehouses, Generators, Black Market and the old cemetery..    These areas are extremely hazardous and should be avoided at all cost!</text>
+		<text>PAŽNJA! Do sada pogoðena podruèja su: NEP, Radar, Mrtvi Grad, Istoèni Pripjat, Neotkrivena zemlja, Vojna Skladišta, Generatori, Crno Tržište i Groblje. Ta su podruèja izuzetno opasna i treba ih izbegavati po svaku cenu!</text>
 	</string>
 
 	<string id="kostya_generic">
-		<text>most likely it will pay to have a look .. it is there somewhere ... I know what I'm talking about .. trust me...</text>
+		<text>Najverovatnije je da æe platiti samo da vide. Tamo je negde. Znam šta govorim. Veruj mi...</text>
 	</string>
+	<!-- sadd - provjeri -->
 	<string id="kostya_tag_les">
-		<text>les</text>
+		<text>les(???)</text>
 	</string>
 	<string id="kostya_tag_lager">
-		<text>lager</text>
+		<text>lager(???)</text>
 	</string>
 	<string id="kostya_tag_atr">
-		<text>atr</text>
+		<text>atr(???)</text>
 	</string>
 	<string id="kostya_af_star">
-		<text>Somewhere here in the Cordon</text>
+		<text>Ovde negde u Kordonu.</text>
 	</string>
 	<string id="kostya_p1_1">
-		<text>In the woods near the abandoned factory</text>
+		<text>U šumi u blizini napuštene fabrike.</text>
 	</string>
 	<string id="kostya_p1_2">
-		<text>Near a cross under a tree, below some tracks</text>
+		<text>U blizini krsta ispod drveta, ispod neke staze.</text>
 	</string>
 	<string id="kostya_p1_3">
-		<text>Accross from the old village, under a triangle of stones</text>
+		<text>Nasuprot starog sela, ispod trougla stena.</text>
 	</string>
 	<string id="kostya_p2_1">
-		<text>Beyond the forest near a swamp</text>
+		<text>Iza šume u blizini moèvare.</text>
 	</string>
 	<string id="kostya_p2_2">
-		<text>In the woods behind the camp, near the technology graveyard beyond a cemetery</text>
+		<text>U šumi iza kampa, u blizini tehnološkog groblja, iza groblja.</text>
 	</string>
 	<string id="kostya_p2_3">
-		<text>On a radioactive pile, next to the parking lot full of abandoned equipment</text>
+		<text>Na radioaktivnoj gomili, pored parkinga punog napuštene opreme.</text>
 	</string>
 	<string id="kostya_p2_4">
-		<text>On radioactive pile next to a forest</text>
+		<text>Na radioaktivnoj gomili pored šume.</text>
 	</string>
 	<string id="kostya_p2_5">
-		<text>On a radioactive pile next to the Duty checkpoint</text>
+		<text>>Na radioaktivnoj gomili pored Djutijevog punkta.</text>
 	</string>
 	<string id="kostya_p3_1">
-		<text>Pipes in a swamp</text>
+		<text>Cevi u moèvari.</text>
 	</string>
 	<string id="kostya_p3_2">
-		<text>At the source of radiation to the south of the Southwestern Complex</text>
+		<text>Na izvoru radijacije na jugoistoku kompleksa.</text>
 	</string>
 	<string id="kostya_p3_3">
-		<text>Next to the transmission lines</text>
+		<text>Pored dalekovoda.</text>
 	</string>
 	<string id="kostya_p3_4">
-		<text>In the bushes at the tushkano lair high in radiation</text>
+		<text>U grmlju, u leglu skoèimiša gde je visoka radijacija.</text>
 	</string>
 	<string id="kostya_p3_5">
-		<text>In the area of the Feral Cat dens</text>
+		<text>U podruèju gde su jazbine Maèaka.</text>
 	</string>
 	<string id="kostya_p3_6">
-		<text>In a ravine between the complexes</text>
+		<text>U jednoj jaruzi izmeðu kompleksa.</text>
 	</string>
 	<string id="kostya_p4_1">
-		<text>In a room with an old broken safe</text>
+		<text>U sobi sa starim slomljenim sefom.</text>
 	</string>
 	<string id="kostya_p4_2">
-		<text>In a room with cumfy cells</text>
+		<text>U sobi sa udobnim æelijama.</text>
 	</string>
 	<string id="kostya_p4_3">
-		<text>In a room with a Pseudogiant</text>
+		<text>U sobi sa Pseudogigantom.</text>
 	</string>
 	<string id="kostya_p5_1">
-		<text>Under a barrel of Propane</text>
+		<text>Ispod bureta sa Propanom.</text>
 	</string>
 	<string id="kostya_p5_2">
-		<text>In a container under some crap</text>
+		<text>U kontenjeru ispod nekog smeæa.</text>
 	</string>
 	<string id="kostya_p5_3">
-		<text>In a soggy pipe</text>
+		<text>U blatnjavoj cevi.</text>
 	</string>
 	<string id="kostya_p5_4">
-		<text>Up a tree</text>
+		<text>Na drvetu.</text>
 	</string>
 	<string id="kostya_p5_5">
-		<text>On one of the tanks</text>
+		<text>Na jednom od rezervoara.</text>
 	</string>
 	<string id="kostya_p5_6">
-		<text>On a high tunnel</text>
+		<text>Na visokom tunelu.</text>
 	</string>
 	<string id="kostya_p6_1">
-		<text>Under the tree near a helicopter</text>
+		<text>Ispod drveta u blizini helikoptera.</text>
 	</string>
 	<string id="kostya_p6_2">
-		<text>In the village of bloodsuckers in a house</text>
+		<text>U Selu Krvopija u kuæi.</text>
 	</string>
 	<string id="kostya_p6_3">
-		<text>In the village of bloodsuckers in a chimney</text>
+		<text>U Selu Krvopija u dimnjaku.</text>
 	</string>
 	<string id="kostya_p6_4">
-		<text>In the village of bloodsuckers in a tree</text>
+		<text>U Selu Krvopija u drvetu.</text>
 	</string>
 	<string id="kostya_p6_5">
-		<text>In the village of bloodsuckers on the ridge of a roof</text>
+		<text>U Selu Krvopija na sljemenu krova.</text>
 	</string>
 	<string id="kostya_p6_6">
-		<text>An old minefield</text>
+		<text>U minskom polju.</text>
 	</string>
 	<string id="kostya_p7_1">
-		<text>Cache associated with a helicopter, is not on the ground</text>
+		<text>Štek povezan sa helikopterom, ali nije na zemlji.</text>
 	</string>
 	<string id="kostya_p7_2">
-		<text>In the woods on a tree near a hole in the fence</text>
+		<text>U šumi na drvetu, u blizini rupe u ogradi.</text>
 	</string>
 	<string id="kostya_p7_3">
-		<text>In the woods on the rocks near a wagon</text>
+		<text>U šumi na steni u blizini vagona.</text>
 	</string>
 	<string id="kostya_p7_4">
-		<text>In the woods on a tree. You must move from the carriage along the rocks</text>
+		<text>U šumi na drvetu. Moraš proæi iz kola preko stena.</text>
 	</string>
 
 	<string id="tb3d_system_msg">
-		<text>System ALERT!</text>
+		<text>SISTEM UPOZORENJE!</text>
 	</string>
 	<string id="tb3d_bad_script_msg">
-		<text>One or more of your script files has failed to verify!</text>
+		<text>Jedna ili više vaših skripti nije prošlo potvrdu!</text>
+	</string>
+
+	<!-- new in 110000 -->
+	<string id="tb3d_crest1_0">
+		<text>Lepo je videti da je neko staro lice još živo!</text>
+	</string>
+	<string id="tb3d_crest1_1">
+		<text>Pozdrav i tebi. Šta radiš ovde?</text>
+	</string>
+	<string id="tb3d_crest1_2">
+		<text>Malo se krijem od oluje!</text>
+	</string>
+	<string id="tb3d_crest1_3">
+		<text>Èuo sam za tu oluju oko NEP-a. Znaš li šta se desilo tamo?</text>
+	</string>
+	<string id="tb3d_crest1_4">
+		<text>Nemam pojma. Ahhhh. Nego kako se živi ovih dana?</text>
+	</string>
+	<string id="tb3d_crest1_5">
+		<text>Uvek isto sranje. Hmm. Smeo bi se kladiti da si nekako umešan u ta dešavanja na severu, jel' da?</text>
+	</string>
+	<string id="tb3d_crest1_6">
+		<text>Ja?! Zašto to kažeš?</text>
+	</string>
+	<string id="tb3d_crest1_7">
+		<text>Ne tako davno grupa vojnika, kakvih još nisam video, je prošla ovuda tražeæi tebe, Obeleženi.\nTo je ona vrsta s kojima se ne treba zezati ali sam se pravio glup. Rekao sam im da sam èuo da si kupovao nešto u Radaru.</text>
+	</string>
+	<string id="tb3d_crest1_8">
+		<text>Cenim to. Èuvaj se.</text>
+	</string>
+
+	<string id="tb3d_crest2_0">
+		<text>Drago mi je da si preživeo oluju!</text>
+	</string>
+	<string id="tb3d_crest2_1">
+		<text>Sreæom nije došla dovde.</text>
+	</string>
+	<string id="tb3d_crest2_2">
+		<text>Ima li šta novo?</text>
+	</string>
+	<string id="tb3d_crest2_3">
+		<text>Nekoliko samotnjaka i frakcija je prošlo ovuda na svom putu do NEP odkako je oluja prestala.</text>
+	</string>
+	<string id="tb3d_crest2_4">
+		<text>Jesi li vidio nekoga iz one grupe što su me ranije tražili?</text>
+	</string>
+	<string id="tb3d_crest2_5">
+		<text>U stvari baš su juèer prošli ovuda i opet su pitali za tebe.</text>
+	</string>
+	<string id="tb3d_crest2_6">
+		<text>Onda bi trebao izbegavati NEP neko vreme.</text>
+	</string>
+	<string id="tb3d_crest2_7">
+		<text>Po njihovom izgledu bilo bi ti najbolje da ga izbegavaš zauvek!</text>
+	</string>
+	<string id="tb3d_crest2_8">
+		<text>Pa, hvala ti na savetu. Vidimo se.</text>
 	</string>
 </string_table>
-	<!-- Tekst usklaðen sa 109999 verzijom zakrpe - 24.12.2015 13:30 -sadd -->
+	<!-- Tekst usklaðen sa 110000 verzijom zakrpe - 30.1.2016 22:58 -sadd --
+	<!-- Preveo i prilagodio Flexerca -=- 14:31 29.01.2016 -->

@@ -1,10 +1,9 @@
-<!-- TB3D 1.0.9.9.9.8 added bio text from char desc general -->
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.7 added bio text from char desc general -->
 <string_table>
-
 	<!-- ***************************************** -->
 	<!--  FACTION INTERACTION WITH SIDOROVICH -->
 	<!-- ***************************************** -->
-
 	<string id="list_factions_repair_0">
 		<text>Restore relations with Duty:</text>
 	</string>
@@ -138,7 +137,7 @@
 		<text>This S.T.A.L.K.E.R. saw something in the Bloodsucker village that drove him insane and made him extremely paranoid. After running away from the village, he holed up in a cabin near a small marsh just outside the Army Warehouses and proceeded to open fire at anyone who came too close.</text>
 	</string>
 	<string id="hunter_bar_bio">
-    <text>A good-natured fellow with a unique problem .. He has recently lost a very important family heirloom - a hunting rifle. It is somewhere in the Wild Territory - a very dangerous place. He spends most of his days in the 100*Rads Bar.. hoping to meet some schmuck willing to risk his life in retrieving it for him...</text>
+		<text>A good-natured fellow with a unique problem .. He has recently lost a very important family heirloom - a hunting rifle. It is somewhere in the Wild Territory - a very dangerous place. He spends most of his days in the 100*Rads Bar.. hoping to meet some schmuck willing to risk his life in retrieving it for him...</text>
 	</string>
 	<string id="duty_elite_bio">
 		<text>Elite member within the Duty Faction : Detailed information unavailable</text>
@@ -189,7 +188,7 @@
 		<text>A true Veteran of the Zone. This S.T.A.L.K.E.R. knows the Zone like the back of his hand : Well equipped, and very Dangerous. No further details available..</text>
 	</string>
 	<string id="stalker_vet_bio">
- 		<text>Veteran S.T.A.L.K.E.R. : Well equipped : Detailed information unavailable</text>
+		<text>Veteran S.T.A.L.K.E.R. : Well equipped : Detailed information unavailable</text>
 	</string>
 	<string id="guard_lukash_bio">
 		<text>Personal Bodyguard of Lukash, the leader of the Freedom Faction</text>
@@ -239,6 +238,5 @@
 	<string id="sim_sldr_bio">
 		<text>Ordinary soldiers. Detailed information is not available.</text>
 	</string>
-
-<!--*****************************************-->
+	<!--*****************************************-->
 </string_table>

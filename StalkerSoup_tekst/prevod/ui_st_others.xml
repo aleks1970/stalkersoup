@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.9, Removed duplicated string id's: "ui_st_conn_version_differs", "ui_st_conn_cdkey_invalid", "ui_st_conn_cdkey_in_use", "ui_st_conn_cdkey_disabled", "ui_st_conn_new_patch" and "ui_st_conn_no_new_patch",
+<!-- TB3D 1.1.0.0.0.0, Removed duplicated string id's: "ui_st_conn_version_differs", "ui_st_conn_cdkey_invalid", "ui_st_conn_cdkey_in_use", "ui_st_conn_cdkey_disabled", "ui_st_conn_new_patch" and "ui_st_conn_no_new_patch",
 new subtitles and SMS repair kit text - aleks1970 -->
 
 	<string id="recipi_bpb_scr">
@@ -33,4 +33,35 @@ new subtitles and SMS repair kit text - aleks1970 -->
 	<string id="rec_revampw10">
 		<text>Primljeno:\n - 3 komada rezervnih delova za maleno oružje i 5 za veliko...</text>
 	</string>
-	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 17:35 - sadd -->
+	<!-- New text for the onscreen report - aleks1970 -->
+	<string id="game_gd_novice">
+		<text>Početnik</text>
+	</string>
+	<string id="game_gd_stalker">
+		<text>Profesionalac</text>
+	</string>
+	<string id="game_gd_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="game_gd_markedone">
+		<text>Obeleženi</text>
+	</string>
+	<string id="game_gd_collector">
+		<text>Kolektor</text>
+	</string>
+	<string id="version_scr">
+		<text>Verzija:</text>
+	</string>
+	<string id="release_scr">
+		<text>Izdanje:</text>
+	</string>
+	<string id="revision_scr">
+		<text>Revizija:</text>
+	</string>
+	<string id="difficulty_scr">
+		<text>Teškoća:</text>
+	</string>
+	<string id="network_info">
+		<text>Info o mreži</text>
+	</string>
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 16:05 - sadd -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8   StalkerSoup game tasks - descriptions aleks1970, life heart, explore the hospital, Tushkan heads, boatswain, minor edits -->
+<!-- TB3D 1.1.0.0.0.0   StalkerSoup game tasks - descriptions aleks1970, life heart, explore the hospital, Tushkan heads, boatswain, minor edits, lukash, Miser -->
 <string_table>
 	<string id="useful_information_gameplay_descriptions">
 		<text>Imaš li kakavih korisnih informacija?</text>
@@ -28,10 +28,6 @@
 	<string id="objective_gameplay_descriptions">
 		<text>Zadaci</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="objective_gameplay_descriptions">
-		<text>objective</text>
-	</string> -->
 	<string id="Search_for_fix the_Flamethrower_gameplay_descriptions">
 		<text>Pronađi potrebne predmete za popravku bacača plamena</text>
 	</string>
@@ -354,7 +350,7 @@
 		<text>Donesi vreću Ciciji</text>
 	</string>
 	<string id="Take_the_bag_Plans_gameplay_descriptions">
-		<text>Uzmi vreću sa planovima</text>
+		<text>Uzmi vreću sa travom</text>
 	</string>
 	<string id="Talk_to_the_deserter_gameplay_descriptions">
 		<text>Razgovaraj sa Dezerterom</text>
@@ -2001,4 +1997,4 @@
 	</string>
 </string_table>
 	<!-- Preveo i prilagodio Flexerca -=- 12:41 17.07.2014 -->
-	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:18 - sadd -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 17:46 - sadd -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8, line 308 Russian char., removed "string_table" - aleks1970 -->
+<!-- TB3D 1.1.0.0.0.0, line 308 Russian char., removed "string_table" - aleks1970, Miser -->
 
 	<string id="gar_dolg_blokpost_11">
 		<text>Stani stalkeru. Ne možeš ići dalje!</text>
@@ -346,4 +346,4 @@
 	<string id="gar_seriy_story2_5">
 		<text>Jebi se...</text>
 	</string>
-<!-- Preveo i prilagodio Coolkingeye -=- 15:09 21.04.2015 -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 18:10 - sadd -->

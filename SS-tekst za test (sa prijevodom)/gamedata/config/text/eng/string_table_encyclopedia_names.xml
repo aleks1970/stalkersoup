@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8   StalkerSoup new pda_name section aleks1970, line: 456, 459 -->
+<!-- TB3D 1.1.0.0.0.0   StalkerSoup new pda_name section aleks1970, line: 456, 459, amber to yantar, lukash -->
 <string_table>
 	<!-- ********** new pda game descriptions ********** -->
 	<string id="Bring_parcel_to_Fox_pda_name">
@@ -692,20 +692,12 @@
 	<string id="Bengal_fire_from_jumping_pda_name">
 		<text>Varnica iz Trampoline</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Bengal_fire_from_jumping_pda_name">
-		<text>Bengal fire from jumping</text>
-	</string> -->
 	<string id="Slither_from_jumping_pda_name">
 		<text>Puž Golać iz Trampoline</text>
 	</string>
 	<string id="Crystal_from_jumping_pda_name">
 		<text>Kristal iz Trampoline</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Crystal_from_jumping_pda_name">
-		<text>Crystal from jumping</text>
-	</string> -->
 	<string id="Sea_Urchin_from_jumping_pda_name">
 		<text>Morski jež iz Trampoline</text>
 	</string>
@@ -736,20 +728,12 @@
 	<string id="Drop_from_carousel_pda_name">
 		<text>Kapljice iz Ringišpila</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Drop_from_carousel_pda_name">
-		<text>Drop from the carousel</text>
-	</string> -->
 	<string id="Crystal_from_Carousel_pda_name">
 		<text>Kristal iz Ringišpila</text>
 	</string>
 	<string id="Moonlight_from_carousel_pda_name">
 		<text>Mesečina iz Ringišpila</text>
 	</string>
-<!--	Duplicated - aleks1970	
-	<string id="Moonlight_from_carousel_pda_name">
-		<text>Moonlight from the carousel</text>
-	</string> -->
 	<string id="Grind_from_Carousel_pda_name">
 		<text>Liskun iz Ringišpila</text>
 	</string>
@@ -783,20 +767,12 @@
 	<string id="Gravel_from_frying_pda_name">
 		<text>Gravi iz Gorionika</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Gravel_from_frying_pda_name">
-		<text>Gravel from the frying</text>
-	</string> -->
 	<string id="Night_Star_from_Frying_pda_name">
 		<text>Noćna Zvezda iz Gorionika</text>
 	</string>
 	<string id="Moonlight_from_frying_pda_name">
 		<text>Mesečina iz Gorionika</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Moonlight_from_frying_pda_name">
-		<text>Moonlight from frying</text>
-	</string> -->
 	<string id="Battery_from_Frying_pda_name">
 		<text>Baterija iz Gorionika</text>
 	</string>
@@ -962,10 +938,6 @@
 	<string id="With_agricultural_industry_Amber_pda_name">
 		<text>Iz Agroproma u Jantar</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_agricultural_industry_Amber_pda_name">
-		<text>With the agricultural industry in Amber</text>
-	</string> -->
 	<string id="With_Wild_Territory_Warehouses_pda_name">
 		<text>Iz Divlje Teritorije u Vojna Skladišta</text>
 	</string>
@@ -1125,27 +1097,15 @@
 	<string id="With_ATP_Cordon_pda_name">
 		<text>Iz ATP u Kordon</text>
 	</string>
-<!--	Duplicated - aleks1970	
-	<string id="With_ATP_Cordon_pda_name">
-		<text>With ATP at Cordon</text>
-	</string> -->
 	<string id="With_ATP_Army_Warehouses_pda_name">
 		<text>Iz ATP  u Vojna Skladišta</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_ATP_Army_Warehouses_pda_name">
-		<text>With ATP in the Army Warehouses</text>
-	</string> -->
 	<string id="Locate_bag_south_Chernobyl_pda_name">
 		<text>Pronađi vreću negde u na jugu Černobila</text>
 	</string>
 	<string id="With_ATP_Pripyat_pda_name">
 		<text>Iz ATP u Pripjat</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_ATP_Pripyat_pda_name">
-		<text>With ATP in the Pripyat</text>
-	</string> -->
 	<string id="Find_the_Bolotny_Locket_pda_name">
 		<text>Pronađi medaljon za Doktora</text>
 	</string>
@@ -1644,4 +1604,4 @@
 	</string>
 </string_table>
 <!-- Preveo i prilagodio Flexerca -=- 10:41 17.04.2015 -->
-	<!-- Tekst usklađen sa 109999 verzijom 24.15.2015 19:23 - sadd -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 17:50 - sadd -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.9 sms_pilot, _girl3_nachalo, sms_shadows_cube, sms_shadows_speech, sms_solvador, harsh environment, hunt_part2_message, sms_syac, sms_zaschita_portal, sms_foto_mozg_ok, sms_mina_pant, sms_pili_sdelal_psevdofoto - aleks1970, 186 char limit to sms messages!!!! -->
+<!-- TB3D 1.1.0.0.0.0 sms_pilot, _girl3_nachalo, sms_shadows_cube, sms_shadows_speech, sms_solvador, harsh environment, hunt_part2_message, sms_syac, sms_zaschita_portal, sms_foto_mozg_ok, sms_mina_pant, sms_pili_sdelal_psevdofoto - aleks1970, 186 char limit to sms messages!!!! -->
 <string_table>
 <string id="nl_default">
 <text>: %c[255,255,255,255]</text>
@@ -2321,4 +2321,4 @@
 <!-- Moved duplicated "hunt_part2_message" string id in to the "valerich_stable.xml" file - aleks1970 -->
 </string_table>
 	<!-- Preveo i prilagodio Flexerca - 31.03.2015 - 14.33 -->
-	<!-- Tekst usklađen sa 109999 verzijom 25.15.2015 21:39 - sadd -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 16:40 - sadd -->

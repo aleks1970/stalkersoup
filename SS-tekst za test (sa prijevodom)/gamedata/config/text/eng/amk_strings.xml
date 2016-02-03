@@ -374,7 +374,7 @@
 	</string>
 	<string id="enc_amk_recipt_burer_grandmother_glassbeards_text">
 		<!-- MF medium rewrite -->
-		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+9\n%c[255,255,255,255]Eksplozija %c[255,1,255,1]+8 %\n%c[255,255,255,255]Pancir  %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Jedinstveni hipermodifikat koji parira "apsolutnoj" klasi artefakata. Njegovo vremensko poljeje vrlo moæno i ima ogroman radijus, tako da osoba koja nosi "Perle Babe Burera" na pojasu, ima veliku šansu da ostane živ èak i ako bude pogoðen sa snajperom SVD. Ova hipermodifikacija takoðe štiti od eksplozija, ali je radioaktivan.\n \nMeðumodifikat "Prababine Perle" reaguje sa anomalijom "Ringišpil".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]10 minuta u Zoni\n%c[255,255,255,255]Verovatnoæa uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
+		<text>%c[255,255,255,255]Radijacija  %c[255,255,1,1]+9\n%c[255,255,255,255]Eksplozija %c[255,1,255,1]+8 %\n%c[255,255,255,255]Pancir  %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Jedinstveni hipermodifikat koji parira "apsolutnoj" klasi artefakata. Njegovo vremensko polje je vrlo moæno i ima ogroman radijus, tako da osoba koja nosi "Perle Babe Burera" na pojasu, ima veliku šansu da ostane živ èak i ako bude pogoðen sa snajperom SVD. Ova hipermodifikacija takoðe štiti od eksplozija, ali je radioaktivan.\n \nMeðumodifikat "Prababine Perle" reaguje sa anomalijom "Ringišpil".\n%c[255,255,255,255]Vreme Transmutacije  %c[255,224,224,160]10 minuta u Zoni\n%c[255,255,255,255]Verovatnoæa uspešne transmutacije  %c[255,1,255,1]100 %%c[default]</text>
 	</string>
 	<string id="enc_amk_recipt_shkura_text">
 		<!-- MF minor rewrite -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 removed bad filename characters, minor edits and hunters name to skinflint -->
+<!-- TB3D 1.1.0.0.0.0 removed bad filename characters, minor edits and hunters name to skinflint, skinflint to miser -->
 	<string id="mil_blockpost_job">
 		<text>Pomozi kod Barijere</text>
 	</string>
@@ -151,4 +151,4 @@
 		<text>Pobij sve članove Djutija kod farme</text>
 	</string>
 	<!-- Preveo i prilagodio Coolkingeye -=- 13:54 09.02.2015 -->
-	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 08.02.2015 1:25 -sadd -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 16:30 - sadd -->

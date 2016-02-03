@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 The Doctor, something -->
+<!-- TB3D 1.1.0.0.0.0 The Doctor, something, Crest -->
 
 	<string id="escape_meceniy_start_0">
 		<text>Pozdrav, ko si ti?</text>
@@ -305,7 +305,7 @@
 		<text>Šta, do vraga, radiš ovde? Da nisi došao sakupljati pečurke?? Haha.</text>
 	</string>
 	<string id="qeast_q_1">
-		<text>Pozdrav stalkeru, ja sam Cross(???). A što se tiče pečuraka one ne rastu ovde. Došao sam na ovo mesto zbog artefakata. Ovde i h ima puno, ali nažalost ne onih koje ja tražim. Hoćeš mi pomoći da ih nađem? Treba mi 15 artefakata, svakog po 5 od ovih artefakata: Meduza, Kameni Cvet i Vatrena Lopta.</text>
+		<text>Pozdrav stalkeru, ja sam Krest. A što se tiče pečuraka one ne rastu ovde. Došao sam na ovo mesto zbog artefakata. Ovde i h ima puno, ali nažalost ne onih koje ja tražim. Hoćeš mi pomoći da ih nađem? Treba mi 15 artefakata, svakog po 5 od ovih artefakata: Meduza, Kameni Cvet i Vatrena Lopta.</text>
 	</string>
 	<string id="qeast_q_2">
 		<text>15 artefakata? To je velik zadatak za bilo kog stalkera. Reci mi zašto se ja sada ne bih okrenuo i otišao i zaboravio da sam te ikada video?</text>
@@ -323,10 +323,10 @@
 		<text>Da, ovde je puno prevare i izdaje, nadam se da govoriš iskreno! Dobro, doneću ti 15 artefakata i očekujem dobru isplatu.</text>
 	</string>
 	<string id="qeast_q_7">
-		<text>Cross(???), sakupi ih sam, previše je to radijacije da se nosa po Zoni.</text>
+		<text>Krest, sakupi ih sam, previše je to radijacije da se nosa po Zoni.</text>
 	</string>
 	<string id="qeast_q1_0">
-		<text>Živio Cross. Evo uzmi svoje artefakte, sva ta radijacija uopće nije zdrava. Ne želim da postanem impotentan!</text>
+		<text>Živio Krest. Evo uzmi svoje artefakte, sva ta radijacija uopće nije zdrava. Ne želim da postanem impotentan!</text>
 	</string>
 	<string id="qeast_q1_1">
 		<text>Odličan posao, Obeleženi! Hvala. Sudeći po toj hrpi artefakata koju imaš za pojasom, već si pokupio dosta radijacije! Zato se ne boj radijacije, jer si možda već impotentan. Evo ti nagrada.</text>
@@ -410,4 +410,4 @@
 		<text>Hvala, Obeleženi, evo ti nagrada. Aha, još nešto, ispod poklopca uređaja napisano je 'Prototip 2'. Znači da je prvi prototip još tu u Zoni. Ako ga nađeš, tvoj je. Sudeći po nekim oznakama, oba uređaja su napravljena u ATP, tamo bih ja počeo tražiti. Ima još jedan konkretniji dokaz, slušajući radio komunikacije lokalnih bandita, u očekivanju su vojne racije pa su sakrili nešto svog plena. Bilo bi dobro pogledati kontejnere smeća u ATP, siguran sam da ćeš naći nešto tamo.</text>
 	</string>
 <!-- Preveo i prilagodio Flexerca - 05.02.2015 -13.45 -->
-<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:33 -sadd -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 18:19 - sadd -->

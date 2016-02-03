@@ -50,6 +50,9 @@
 	<string id="tb3d_karina_trade_article">
 		<text>Karina mi je ponudila da èe mi prodati rijetke stvari i potrepštine u zamjenu za hranu, uzeti æe odreðen dio od mene svako malo tako da ne umrem od gladi.</text>
 	</string>
+	<string id="tb3d_x14_article1">
+		<text>Dobio sam SMS iz tajne laboratorije koja se nalazi u severoistoènom delu NEP-a, i koju moram smesta proveriti. Nauènik zove u pomoæ, a kako zvuèi možda pronaðem i neke odgovore o "AX"!</text>
+	</string>
 	
 	<string id="secret_tunnels_info">
 		<text>Tunel Teleport, Aktivacija</text>
@@ -58,7 +61,7 @@
 		<text>Informacije su sakupljene koje opisuju èudne portale koji se mogu aktivirati tako što se ubaci specifièna Zlatna poluga u njihovo odgovarajuæe slotove.\nSvaka poluga ima kodove koji indicira kojem slotu pripada. Redoslijed bi trebao biti:\nws-6,wn-5,ws-3,wn-2,es-6,es-4,en-3,es-2,w-0,e-0,center.\n.\nSlot u centru se može prepoznati po velikoj cijevi koja visi odozgora. Aktivacija portala nikada nije bila raðena tako da posljedice korištenja nisu poznate.\n.\nInformacije sakupljene od AX znastvenog tima je lista portala koji bi se trebali aktivirati:\nWS6 - Moèvare\nWN5 - Postrojenje F1\nWS3 - Kordon\nWN2 - Sakriveni Put\nES6 - Mraèni Izlaz\nES4 - Crno Tržište\nEN3 - Generatori\nES2 - NPP Èernobil-2\nW00 - Èekaonica\nE00 - Neotkrivena Zemlja</text>
 	</string>
 	<string id="tb3d_warlab_desc">
-		<text>Barmen mi je poslao poporuku u kojoj me obaveštava da je neki stranac dolazio u Warlab. Trebalo bi to da proverim, da li je možda "AX" (?) ili možda jedan od njegovih ljudi.</text>
+		<text>Barmen mi je poslao poporuku u kojoj me obaveštava da je neki stranac dolazio u Varlab. Trebalo bi to da proverim, da li je možda "AX" ili možda jedan od njegovih ljudi.</text>
 	</string>
 
 	<string id="tb3d_agentax_info">
@@ -123,7 +126,7 @@
 </string>
 
 <string id="syslov_items_quest_opisanie_entry">
-	<text>Suslov, od frakcije Èistog Neba me je zatražio za neke stvari. U zamjenu za te stvari, obeèao mi je dati Kubiènu Dušu od Sjenke (the Soul Cube of Shadows), koja ima unikatna svojstva. Lista stvari:\nDegtyareva puškostrojnica 'RPD' - navodno ju je prodao nekom trgovcu u Agroprom regiji,\nPlaæeniæko Istraživaèko Odijelo,\npet boca "Nemiroff" votke,\ndva komada vojnih namirnica (two military rations),\ntri komada "Amber" sira,\npet komada konzervi oraha ili orašastog voæa (five cans of nuts),\ntri limenke "Chernigov" piva,\npet "Adrenalin Rush" energetska piæa.</text>
+	<text>Suslov, od frakcije Èistog Neba me je zatražio za neke stvari. U zamjenu za te stvari, obeèao mi je dati Kubiènu Dušu od Sjenke, koja ima unikatna svojstva. Lista stvari:\nDegtyareva puškostrojnica 'RPD' - navodno ju je prodao nekom trgovcu u Agroprom regiji,\nPlaæeniæko Istraživaèko Odijelo,\npet boca "Nemiroff" votke,\ndva komada vojnih namirnica (two military rations),\ntri komada "Amber" sira,\npet komada konzervi oraha ili orašastog voæa (five cans of nuts),\ntri limenke "Chernigov" piva,\npet "Adrenalin Rush" energetska piæa.</text>
 </string>
 <string id="cop_prip_info_lab_opisanie_entry">
 	<text>Grozni je rekao da je u jednoj sobi u staroj bolnici vidio plan Pripjata. Navodno je oznaèen podzemni israživaèki kompleks ... Možda æe mi plan pomoæi u pronalasku kompleksa.</text>
@@ -155,7 +158,7 @@
 </string>
 
 <string id="jaw_for_prapor_entry">
-	<text>Dežurni Oficir (Prapor), je jedan od Djutijevih oficira koji èuvaju Djutijevu kontrolnu toèku, zatražio me je da mu naðem Krvosisaèevu (Bloodsucker) èeljust, u zamjenu da mi da Foksov (Lisac) paket. Izgleda da Prapor ima neku vrstu bolesti, i neki Doktor æe mu morati napraviti jak lijek od Krvosisaèeve (bloodsucker) èeljusti. Okej, znaèi idemo naèi Krvosisaèa i vratiti se Praporu prije nego što mu zatreba više "lijekova" od mene!</text>
+	<text>Dežurni Oficir (Prapor), je jedan od Djutijevih oficira koji èuvaju Djutijevu kontrolnu toèku, zatražio me je da mu naðem Krvosisaèevu (Bloodsucker) èeljust, u zamjenu da mi da paket za Lisca. Izgleda da Prapor ima neku vrstu bolesti, i neki Doktor æe mu morati napraviti jak lijek od Krvosisaèeve (bloodsucker) èeljusti. Okej, znaèi idemo naèi Krvosisaèa i vratiti se Praporu prije nego što mu zatreba više "lijekova" od mene!</text>
 </string>
 
 <string id="find_desert_eagle_entry">
@@ -167,13 +170,17 @@
 </string>
 
 <string id="case_to_freeman_entry">
-	<text>Gordon Frimen me je zatražio da odem u Divlji Teritorij i da se naðem sa Ðejms likom (DeJames). Trebam pokupiti kutiju ili torbu od njega i vratiti je Frimenu u Baru.</text>
+	<text>Gordon Frimen me je zatražio da odem u Divlji Teritorij i da se naðem sa Ðejms likom. Trebam pokupiti kutiju ili torbu od njega i vratiti je Frimenu u Baru.</text>
 </string>
 
 <string id="tb3d_mush_arts_quest_entry">
 	<text>Oluja možda bude od koristi sada, zato što æe Barmen platiti masno za artefakt gljive zvane Peæurke koje se kuhaju u oluji uokolo NPP Generatora.</text>
 </string>
-</string_table>
 
-	<!-- Tekst usklaðen sa 109998 verzijom 20.10.2015 16:31 - sadd -->
-    <!-- Tekst preveo Nailer - 27.09.2015 19:59 -->
+<string id="tb3d_lanky_mush_art_quest_entry">
+	<text>Lanki ima odelo za koje veruje da æe me zaštititi od oluje. Naravno, testiraæu ga NAKON što mu donesem jedinstveni artefakt Peèurka iz F1 ili možda jedan iz Istraživaèkog laboratorija na severu.</text>
+</string>
+</string_table>
+	<!-- Tekst preveo Nailer - 27.09.2015 19:59 -->
+	<!-- Dorada dodatog teksta - Flexerca - 26.01.2016 - 18.50 -->
+	<!-- Tekst usklaðen sa 110000 verzijom 26.1.2016 16:34 - sadd -->

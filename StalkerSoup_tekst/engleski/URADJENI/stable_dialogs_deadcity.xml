@@ -1,133 +1,134 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<!-- TB3D 1.0.9.9.9.8 something, removed "string_table" - aleks1970 -->
-
-
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
 	<string id="cit_doctor_escape_dialog_0">
-		<text>I need answers to several questions.</text>
+		<text>Trebam odgovore na nekoliko pitanja.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1">
-		<text>Ask away, I'll try to help.</text>
+		<text>Samo pitaj, pokuљaжu ti pomoжi.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_11">
-		<text>Where are my things?</text>
+		<text>Gde su moje stvari?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_111">
-		<text>The leader usually keeps all the confiscated stuff. His room is on the top floor. My things were taken there when they caught me.</text>
+		<text>Komandir obiиno иuva sve oduzete stvari. Njegova soba je na zadnjem spratu. I meni su oduzeli stvari kad su me uhvatili.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1111">
-		<text>Thanks!</text>
+		<text>Hvala!</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_12">
-		<text>How can I get out of here?</text>
+		<text>Kako mogu izaжi odavde?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_121">
-		<text>When they were leading me around I noticed a sewer grate under the stairs on the first floor... If you managed to open the cell it would be possible to get out of here using that sewer... It's best to go West and then you can use the tunnel to get to Freedom.</text>
+		<text>Kada su me dovodili ovamo primetio sam kanalizacijeske reљetke ispod stepenica na prvom spratu... Ako uspeљ otvoriti жeliju, moћda bi mogao da pobegneљ kroz taj kanalizacioni otvor... Najbolje ti je onda da kreneљ zapadno, kroz tunel da doрeљ do Fridoma.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1211">
-		<text>Thanks for the information.</text>
+		<text>Hvala na informacijama.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14">
-		<text>Who captured us?</text>
+		<text>ko nas je zarobio?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141">
-		<text>We're being held by the Mercs. Nobody really knows who they are but there are rumors that they work together with foreign intelligence services. The location of this base is top secret - no one knows how to get into the Dead City. Many people are very interested in this information, especially Freedom and Duty.</text>
+		<text>Zarobili su nas Plaжenici. Niko ne zna ko su oni ali se priиa da rade zajedno sa stranim obaveљtajnim sluћbama. Lokacija ove baze je najstroћa tajna - niko ne zna kako da uрe u Mrtvi Grad. Mnogi ljude jako zanima ta informacija, posebno Fridom i Djuti.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1411">
-		<text>Go on.</text>
+		<text>Nastavi.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14111">
-		<text>If you manage to get a map of the Dead City, a successful assault will be possible. The Mercs or the bandits probably have one. You could try to get it.</text>
+		<text>Ukoliko uspeљ da nabaviљ kartu Mrtvog Grada, napad bi onda mogao biti uspeљan. Plaжenici najverovatnije imaju jednu. Pokuљaj je nekako dobiti.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141111">
-		<text>Thanks for the information.</text>
+		<text>Hvala na informacijama.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_15">
-		<text>What do you know about this place?</text>
+		<text>Љta znaљ o ovom mestu?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_151">
-		<text>The city is split into two sections. We're on the Merc side. To the South beyond the square is where the bandits are. They're holed up in the school building Southwest of the city. In between the bases, there is a run down five-floor building and a few relatively intact ones. If the shit hits the fan, you can sit it out there. There are also some garages and a couple of small houses around that area. There are a couple of five-floor buildings and a dozen garages on the bandits' side too. The former city council building is on the other side of the square.</text>
+		<text>Grad je podeljen na dve oblasti. Mi smo sada u Plaжeniиkoj oblasti. Dole juћno, iza trga, su Banditi. Ukopali su se u љkolskoj zgradi na jugozapadnom delu grada. Izmeрu baza, nalazi je istroљena petospratnica ali i nekoliko netaknutih zgrada. Ukoliko zagusti, moћeљ se tamo sakriti. Takoрer ima tamo i garaћa i nekoliko manjih kuжa u blizini. Ima nekoliko petospratnica i tucet garaћa i na Banditskoj strani. Bivљa gradska veжnica nalazi se sa druge strane trga.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1511">
-		<text>Thanks for the information.</text>
+		<text>Hvala na informacijama.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_16">
-		<text>Who's in charge here?</text>
+		<text>Ko je glavni ovde?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_161">
-		<text>A truly nasty guy named Dushman. I've seen him carrying around a folder with some documents a couple of times. I reckon there's something interesting inside.</text>
+		<text>Jedan pravo zeznut tip pod imanom Duљman. Video sam ga nekoliko puta kako nosi neku fasciklu sa dokumentima. Pretpostavljam da je neљto interesantno unutra.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1611">
-		<text>Thanks for the information.</text>
+		<text>Hvala na informacijama.</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_17">
-		<text>Nope, nothing.</text>
+		<text>Ne, niљta.</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_11">
-		<text>Strelok! Where the hell have you been??? I haven't seen you or the guys since the last raid! I was getting worried!</text>
+		<text>Strelok! Gde si dovraga bio??? Nisam video ni tebe ni ostale deиke joљ od zadnje racije! Pravo sam se zabrinuo!</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_21">
-		<text>So, you feeling better? You thinking clearly?</text>
+		<text>I, jel' se oseжaљ bolje? Razmiљljaљ li bistrije?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_0">
 		<text>Strelok???</text>
 	</string>
 	<string id="cit_doctor_main_dialog_1">
-		<text>Yeah, you're Strelok! Who else would you be? I'm Doc, don't you recognize me? What happened to you, friend? You don't look well. We went into the Zone together for 2 years. You really don't remember me?</text>
+		<text>Da, ti si Strelok! Ko bi drugi mogao biti? Ja sam Dok, zar me ne prepoznajeљ? Љta ti se desilo, prijatelju? Ne izgledaљ dobro. Bili smo zajedno u Zoni 2 godine. Zar me se stvarno ne seжaљ?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_11">
-		<text>No, I don't.</text>
+		<text>Ne, ne seжam.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_2">
-		<text>You don't??? Strelok, what the...? You're not joking around, are you? Man... What about the guys, our guys? Fang, Ghost? You remember them, don't you?</text>
+		<text>Ne seжaљ??? Strelok, koji k...? Ne zezaљ se samnom, jel tako? Иoveиe... Љta je sa deиkima, naљim deиkima? Fangom, Duhom? Seжaљ se s njim, zar ne?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_21">
-		<text>I don't remember Fang, and Ghost is dead - I found his body in Yantar.</text>
+		<text>Ne seжam se Fanga, a Duh je mrtav - naљao sam njegovo telu u Jantaru.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_3">
-		<text>Ghost!!?!?! Dead??!!! Dammit, how could that happen?! They... they were the best. What happened to you?</text>
+		<text>Duh!!?!?! Mrtav??!!! Do vraga, kako se to desilo?! Oni... Oni su bili najbolji. Љta se s tobom desilo?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_31">
-		<text>I don't know what happened, I don't remember.</text>
+		<text>Ne znam љta se desilo, ne seжam se.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_4">
-		<text>Wait, I need to calm down. That's some shitty news man. I think it's all linked with your last trip into the Zone. When we saw each other the last time, you left me the key from the stash at Pripyat and the map of how to find it. I've managed to keep it - hid it from the Mercs. Here, take it, hide it well. Perhaps you'll find something there. You were saying that there's some trick with the Monolith. But I don't understand what it was about, and you didn't either.</text>
+		<text>Иekaj, moram doжi sebi. To su jako loљe vesti, иoveиe. Mislim da je to sve povezano sa tvojim zadnjim izletom u Zonu. Kada smo se zadnji put videli, ostavio si mi kljuи od љteka u Pripjatu i kartu kako ga pronaжi. Uspeo sam ga saиuvati - sakrio sam ga od Plaжenika. Evo, uzmi ga i dobro sakrij. Moћda pronaрeљ neљto tamo. Rekao si mi da ima neka varka u vezi Monolita. Ni ti ni ja nismo razumeli o иemu se radi.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_41">
-		<text>I see. Where are we? I don't remember how I got here.</text>
+		<text>Razumem. Gde smo? Ne seжam se kako sam doљao ovde.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_5">
-		<text>We're in Dead City! In the Merc camp.</text>
+		<text>Nalazimo se u Mrtvom Gradu! U Plaжeniиkom kampu.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_6">
-		<text>We're in Dead City!.. In the Merc camp...</text>
+		<text>U Mrtvom Gradu!.. U Plaжeniиkom kampu...</text>
 	</string>
 	<string id="quest_cit_reward_0">
-		<text>By the way, I have information about the Mercs. Interested?</text>
+		<text>Usput, imam neke informacije o Plaжenicima. Zainteresiran?</text>
 	</string>
 	<string id="quest_cit_reward_1">
-		<text>Depends on the information.</text>
+		<text>Ovisi o informacijama.</text>
 	</string>
 	<string id="quest_cit_reward_11">
-		<text>I have a map which details the location of their base, guard posts, the way to get in without being noticed and a lot more.</text>
+		<text>Imam kartu sa svim detaljima i lokacijom njihove baze, straћarskim mestima, kako uжi unutra da te ne primete i joљ puno stvari.</text>
 	</string>
 	<string id="quest_cit_reward_111">
-		<text>Sounds valuable. I'll give you 3000 for it.</text>
+		<text>Zvuиi jako dobro. Daжu ti 3000 za nju.</text>
 	</string>
 	<string id="quest_cit_reward_1111">
-		<text>Deal. Here.</text>
+		<text>Dogovoreno. Izvoli.</text>
 	</string>
 	<string id="quest_cit_reward_11111">
-		<text>Great! Here's your reward. Soon stalkers will argue about whether the Mercs even existed at all!</text>
+		<text>Odliиno! Evo ti tvoja nagrada. Uskoro жe stalkeri priиati o vremenu kada su Plaжenici postojali!</text>
 	</string>
 	<string id="quest_cit_reward_1112">
-		<text>Not, that's not enough.</text>
+		<text>Ne, to nije dovoljno.</text>
 	</string>
 	<string id="quest_cit_reward_11121">
-		<text>As you wish, I'm not giving you any more.</text>
+		<text>Kako hoжeљ, ne mogu ti dati niљta viљe.</text>
 	</string>
 	<string id="quest_cit_reward_13">
-		<text>Nothing worthwhile. Just the usual gossip. Sorry.</text>
+		<text>Niљta vredno. Samo obiиne glasine. Izvini.</text>
 	</string>
 	<string id="quest_cit_reward_131">
-		<text>If you find out something more specific come back. I'll pay you.</text>
+		<text>Ako saznaљ neљto konkretnije, vrati se. Platiжu ti.</text>
 	</string>
+</string_table>
+<!-- Preveo i prilagodio Flexerca - 23.01.2015 -13.50 -->
+<!-- Tekst usklaрen sa 109977 verzijom zakrpe - 06.02.2015 20:43 -sadd -->

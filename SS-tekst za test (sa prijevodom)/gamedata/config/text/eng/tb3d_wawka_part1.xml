@@ -1373,13 +1373,13 @@
 		<text>Obiènu Jaknu...</text>
 	</string>
 	<string id="update_outfit_sidor_303">
-		<text>The Tamni Kišni Mantil...</text>
+		<text>Tamni Kišni Mantil...</text>
 	</string>
 	<string id="update_outfit_sidor_304">
-		<text>The Laki Kišni Mantil...</text>
+		<text>Laki Kišni Mantil...</text>
 	</string>
 	<string id="update_outfit_sidor_305">
-		<text>The Smeðu jaknu...</text>
+		<text>Smeðu jaknu...</text>
 	</string>
 	<string id="update_outfit_sidor_306">
 		<text>Tamno smeðu Kožnu jaknu...</text>
@@ -1514,7 +1514,7 @@
 		<text>Ja sam se vratio, Profesore...</text>
 	</string>
 	<string id="start_update_outfit_sakharov_1">
-		<text>Marked One, you have made gaugings, Is well done glad to offer you the services in modernisation of some suits - a suit of the ecologist and a SSP-99 Ekološko zaštitno odelo. Takoðer ti mogu ponuditi instalaciju razlièitih ureðaja za noæno osmatranje i ojaèanje datih odela.</text>
+		<text>Obeleženi, napravili ste dobru gužvu. Èestitke, drago mi je da ti mogu ponuditi usluge oko modernizacije nekih odela - Ekološko odelo i SSP-99 Ekološko zaštitno odelo. Takoðer ti mogu ponuditi instalaciju razlièitih ureðaja za noæno osmatranje i ojaèanje datih odela.</text>
 	</string>
 	<string id="start_update_outfit_sakharov_2">
 		<text>Hvala Profesore, to mi je potrebno.</text>
@@ -3290,5 +3290,5 @@
 		<text>Trenutno nije potrebno ništa...</text>
 	</string>
 </string_table>
-	<!-- Tekst usklaðen sa 109998 verzijom 20.10.2015 16:09 - sadd -->
+	<!-- Tekst usklaðen sa 110000 verzijom 26.1.2016 16:25 - sadd -->
 <!-- Preveo i prilagodio flexerca -=- 14:46 28.09.2015 -->

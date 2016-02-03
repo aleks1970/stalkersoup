@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- TB3D 1.0.9.9.9.8 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes, vet_research_bio, added bios  -->
+<!-- TB3D 1.1.0.0.0.0 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes, vet_research_bio, added bios, skinflint to miser  -->
 
 	<string id="bio_classified">
 		<text>Informacija: Nedostupna</text>
@@ -550,9 +550,9 @@
 	<string id="sar2_crazy_svoboda_name">
 		<text>Ludi stalker.</text>
 	</string>
-	<string id="sar2_crazy_bio"> <!-- prevod start sadd -->
-		<text>This S.T.A.L.K.E.R. saw something in the Bloodsucker Village that drove him insane and made him extremely paranoid. After running away from the village, he holed up in a cabin near a small marsh just outside the Army Warehouses and proceeded to attack anyone who came too close.</text>
-	</string> <!-- prevod kraj sadd -->
+	<string id="sar2_crazy_bio">
+		<text>Ovaj stalker je video nešto u Selu Krvopija što ga je izludelo i napravilo paranoičnim. Nakon što je pobegao iz sela, sakrio se u kolibu u blizini male močvare odmah izvan same baze Vojnih Skladišta, i nastavio da napada svakog ko mu se približi.</text>
+	</string>
 	<string id="sar2_dolg_blokpost_leader_name">
 		<text>Prapor</text>
 	</string>
@@ -934,5 +934,5 @@
 	<string id="sim_svoboda_specnaz_prut_name">
 		<text>Prut</text>
 	</string>
-<!-- Preveo i prilagodio Flexerca - 06.02.2015 - 15.00 -->
-	<!-- Tekst usklađen sa 109985 verzijom zakrpe - 30.04.2015 22:37 -sadd -->
+<!-- Preveo i prilagodio Flexerca - 26.01.2016 - 18.48 -->
+	<!-- Tekst usklađen sa 110000 verzijom 26.1.2016 18:13 - sadd -->

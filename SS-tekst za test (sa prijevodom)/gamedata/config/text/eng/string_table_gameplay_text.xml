@@ -280,13 +280,9 @@
 	<string id="Beast_last_spotted_name_gameplay">
 		<text>Zver poslednja uoèena</text>
 	</string>
-	<string id="ZVER_name_gameplay">
-		<text>ZVER</text>
-	</string>
-<!--	Duplicated: "ZVER_name_gameplay" is the correct string id - aleks1970
 	<string id="Zver_name_gameplay">
 		<text>Zver</text>
-	</string> -->
+	</string>
 	<string id="Robbers_name_gameplay">
 		<text>Pljaèkaši</text>
 	</string>
@@ -919,7 +915,7 @@
 	</string>
 	<string id="N_name_gameplay">
 		<!-- potrebno preveriti -->
-		<text>N</text>
+		<text>'N'</text>
 	</string>
 	<string id="Vergas_name_gameplay">
 		<text>Vergas</text>
@@ -1059,4 +1055,4 @@
 	</string>
 </string_table>
 <!-- Preveo i prilagodio Coolkingeye -=- 0:36 07.02.2015 -->
-	<!-- Tekst usklaðen sa 109999 verzijom 24.15.2015 19:18 - sadd -->
+	<!-- Tekst usklaðen sa 110000 verzijom 26.1.2016 17:10 - sadd -->

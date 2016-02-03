@@ -1,7 +1,10 @@
-<!-- TB3D 1.0.9.9.9.9 -->
-	<string id="pri_decoder_docs_conclusion">
-		<text>Pripyat Stash</text>
-	</string>
-	<string id="pri_decoder_docs_conclusion_txt">
-		<text>The stash contained a short report on how Fang and I infiltrated the underground galleries below the sarcophagus and found a suspicious-looking door. Fang said that he'd put together a decoder for the electronic lock for our next visit. After that we had to run for our lives. There were hordes of Monolith patrols there. Well, I also found the decoder in the stash and directions for finding the door. However, it seems that approaching the Monolith is extremely dangerous - last time we avoided going under the sarcophagus by crawling over the destroyed reactor and it seems that's where the Monolith are now.</text>
-	</string>
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.1e -->
+<string id="pri_decoder_docs_conclusion">
+<text>Skrovište u Pripjatu</text>
+</string>
+<string id="pri_decoder_docs_conclusion_txt">
+<text>U skrovištu se nalazi kratak izveštaj kako smo Fang i ja ušli u podzemne galerije ispod Sarkofaga i pronašli vrata sumnjivog izgleda. Fang je rekao da je napravio dekoder za elektronsku bravu za našu sledeću posetu. Nakon toga smo morali da se borimo za sopstvene živote. Tamo su bile horde Monolit patrola. Također sam našao dekoder u skrovištu i uputstvo za pronalaženje vrata. Međutim, čini mi se da je prilaženje Monolitu izuzetno opasno - zadnji put smo izbegli ulazak u Sarkofag iznad uništenog reaktora i čini mi se da je tamo Monlolit.</text>
+</string>
+<!-- Preveo i prilagodio Flexerca---26.01.2015 --15.12 -->
+	<!-- Tekst usklađen sa 109977 verzijom zakrpe - 06.02.2015 20:54 -sadd -->

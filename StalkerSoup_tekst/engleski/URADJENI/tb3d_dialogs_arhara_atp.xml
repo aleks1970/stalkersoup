@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<!-- TB3D 1.0.9.9.8.8 Trans 100%, Literal editing 0%, The Doctor, something -->
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.8.4 Trans 100%, Literal editing 0%, The Doctor, something -->
 <!-- ATP MISSIONS -->
-
 <!-- MEETING WHALE -->
 <string_table>
-
 	<string id="atp_vstrecha_0">
 		<text>That was a close call,  you mind telling me what's going on here?</text>
 	</string>
@@ -29,11 +27,7 @@
 	<string id="atp_vstrecha_7">
 		<text>Thanks for the information, I'll probably see you over at the Camp.</text>
 	</string>
-
-
-<!-- KALININ MISSIONS -->
-
-
+	<!-- KALININ MISSIONS -->
 	<string id="kalinin_zadan_vzyt_0">
 		<text>I've heard that you are the one that discovered this place.</text>
 	</string>
@@ -58,7 +52,6 @@
 	<string id="kalinin_zadan_vzyt_7">
 		<text>This is a bit too extreme for me right now,   Sorry,   maybe later, see ya.</text>
 	</string>
-
 	<string id="kalinin_otvet_0">
 		<text>Well, Shynra is toast along with all his men, tisk, tisk.</text>
 	</string>
@@ -71,18 +64,13 @@
 	<string id="kalinin_otvet_3">
 		<text>Thank you for the information. As payment, all I can give you is information on a transition from the Dark Valley to the Forgotten Forest. Nobody else besides me knows about it. Take this Serum as well, it's great for sores and hang-overs. Listen, Marked One I have another job for you as well.</text>
 	</string>
-
 	<string id="gonets_spasti_0">
 		<text>Oh, and what might that be?</text>
 	</string>
 	<string id="gonets_spasti_1">
 		<text>I'm expecting a Courier that is carrying some very important information. I need you to meet up with him, and get that information from him. Then I want you to escort him back to camp safely, as there are a lot of mutants in this territory. He will be coming in via the same road you came in on, but from the opposite end. Here, I'll send the coordinates to your PDA. Oh, and one more thing, he will be dressed as a Rookie.</text>
 	</string>
-
-
-
-<!-- KALININ MISSION (Messenger) -->
-
+	<!-- KALININ MISSION (Messenger) -->
 	<string id="gonets_talk_0">
 		<text>You must be the Courier that Kalinin spoke of.</text>
 	</string>
@@ -107,12 +95,7 @@
 	<string id="gonets_talk_7">
 		<text>Sorry man,   but,  you're on your own from here,  later dude.</text>
 	</string>
-
-
-
-<!-- KALININ MISSION (Messenger) complete -->
-
-
+	<!-- KALININ MISSION (Messenger) complete -->
 	<string id="gonets_vse_ok_0">
 		<text>Here's your Flash-Drive.</text>
 	</string>
@@ -125,10 +108,6 @@
 	<string id="gonets_vse_ok_3">
 		<text>Stay in touch! We will likely need your help again soon.</text>
 	</string>
-
-
-
-
 	<string id="kalinin_btr_vzyt_0">
 		<text>That Flash-Card I brought you, were there by any chance Military radio frequencies on it?</text>
 	</string>
@@ -147,8 +126,6 @@
 	<string id="kalinin_btr_vzyt_5">
 		<text>This isn't my fight! Best of luck to you, and your men tho, really.</text>
 	</string>
-
-
 	<string id="kalinin_btr_unichtoz_0">
 		<text>I found the Iglomet, here it is, pretty cool!</text>
 	</string>
@@ -161,15 +138,12 @@
 	<string id="kalinin_btr_unichtoz_3">
 		<text>I'm waiting for word from my Scouts.</text>
 	</string>
-
-
 	<string id="btr_ataka_0">
 		<text>Have they arrived or are they simply passing us by?!</text>
 	</string>
 	<string id="btr_ataka_1">
 		<text>My scouts have reported two Troop Carriers and regular infantry are arriving now. There is a third Armoured Car on the way. You need to take out those Troop Carriers!!!  Go now,   HURRY!!</text>
 	</string>
-
 	<string id="kalinin_btr_nagrada_0">
 		<text>It was a brutal, but necessary battle.</text>
 	</string>
@@ -182,12 +156,6 @@
 	<string id="kalinin_btr_nagrada_3">
 		<text>Here, take this. It comes from the heart.</text>
 	</string>
-
-
-
-
-
-
 	<string id="plenniy_dialog_0">
 		<text>Judging by your appearance you'r a former miner.</text>
 	</string>
@@ -209,15 +177,12 @@
 	<string id="plenniy_dialog_6">
 		<text>Immortal Zombie Monolith!    What the hell next?   Tell the Miner what's going on here and I will see the both of you later.</text>
 	</string>
-
 	<string id="plenniy_dialog1_0">
 		<text>Immortal Zombie Monolith!    What the hell next?   Are you able to get out on your own?, look like crap to me! I AM supposed to escort you back.</text>
 	</string>
 	<string id="plenniy_dialog1_1">
 		<text>It's ok, really. I just need a little rest, my head is dizzy. I will return to the Miner soon. Thanks for the help.</text>
 	</string>
-
-
 	<string id="shax_plennik_nayti_0">
 		<text>What has happened? You look so sad?</text>
 	</string>
@@ -242,7 +207,6 @@
 	<string id="shax_plennik_nayti_7">
 		<text>Thats a big no Miner. I am still young, I want to live.</text>
 	</string>
-
 	<string id="shax_plennik_prines_0">
 		<text>Your man has been set free, he promised to come after me. He gave me the info on how to find the exit.</text>
 	</string>
@@ -255,9 +219,6 @@
 	<string id="shax_plennik_prines_3">
 		<text>Pogodi. My person will return, to find out truth, and you I will tell...\nYes the notebook which you have brought, I esteem, the blessing of small lamps now. You can learn from it yourself, but I do not think that while it will tell much, goodness knows. And, here the 'prodigal son' has returned!</text>
 	</string>
-
-
-
 	<string id="fima_mulo_nayti_0">
 		<text>Greetings, Im glad you made it back alive. I want to ask you in detail about the person who was in captivity with you.</text>
 	</string>
@@ -282,7 +243,6 @@
 	<string id="fima_mulo_nayti_7">
 		<text>No way Fima! you want soap??? Here the destiny of mankind hangs in the balance and you want soap!  You ARE a bit ripe tho!</text>
 	</string>
-
 	<string id="fima_mulo_prines_0">
 		<text>Ive brought everything that you asked for. Judging by all the boar meat on the table you won't starve here.</text>
 	</string>
@@ -295,9 +255,6 @@
 	<string id="fima_mulo_prines_3">
 		<text>Dont get angry, the Miner said that it was for your own good. In exploration we are going to do, we are going on an already proven and tested path. In the meantime, here's a recipe. Throw into a Tornado: one sausage and one rudiment of the sternum of a female zombie. This rudiment increases in size, and accordingly is much more valuable to merchants. But, obviously, this is not the whole recipe. The rest of it I dont know. But don't try this transmutation with the auxiliary device, this recipe is an exception and transmutation can only be done by hand. Yes, and the probability of a successful outcome is rather small.</text>
 	</string>
-
-
-
 	<string id="adr_shkatulka_dost_0">
 		<text>Adrenalin, I wanted to ask you something. Did a man with a beard and a speech problem come here?</text>
 	</string>
@@ -322,8 +279,6 @@
 	<string id="adr_shkatulka_dost_7">
 		<text>No thanks, I can't be bothered with vaults.</text>
 	</string>
-
-
 	<string id="adr_shkatulka_prines_0">
 		<text>Well, did that rookie come back?</text>
 	</string>
@@ -336,8 +291,6 @@
 	<string id="adr_shkatulka_prines_3">
 		<text>Good luck, Marked One.</text>
 	</string>
-
-
 	<string id="tretiy_kod_dost_0">
 		<text>Hello Miner, have you been able to learn anything?</text>
 	</string>
@@ -362,8 +315,6 @@
 	<string id="tretiy_kod_dost_7">
 		<text>I would kill myself before joining the Monolith!</text>
 	</string>
-
-
 	<string id="tretiy_kod_nayden_0">
 		<text>I've seen enough Horror films! I got the safe, sure was glad to see it was a small!!!</text>
 	</string>
@@ -376,8 +327,6 @@
 	<string id="tretiy_kod_nayden_3">
 		<text>Leave it here with me and finish your investigation. I know you're look for the killer of a stalker. Finish that business, then return here and we will work on opening the safe.</text>
 	</string>
-
-
 	<string id="sidor_amulet_vzyt_0">
 		<text>Sidorovich, I need to talk to you about something.</text>
 	</string>
@@ -402,7 +351,6 @@
 	<string id="sidor_amulet_vzyt_7">
 		<text>I don't think I'm ready for this, I'm sorta a nice guy really, just misunderstood, thats all, really.</text>
 	</string>
-
 	<string id="sidor_amulet_prines_0">
 		<text>Here are the boxed Repair Kits you asked for, now help me remove this Amulet, will you? I'm starting to want to read Nostradamus, strange...</text>
 	</string>
@@ -415,8 +363,6 @@
 	<string id="sidor_amulet_prines_3">
 		<text>Ok, relax, I'm only curious! Give me the Repair Kits, and I'll relieve you of the Amulet</text>
 	</string>
-
-
 	<string id="ten_monolita_talk_0">
 		<text>Greetings, Im a newcomer here.</text>
 	</string>
@@ -438,9 +384,6 @@
 	<string id="ten_monolita_talk_6">
 		<text>Well and beautiful! Epsel-mopsel, yada-yada...   And if the safe is not there?</text>
 	</string>
-
-
-
 	<string id="shax_land_perehod_talk_0">
 		<text>Greetings, you said to come back when I finish the investigation.</text>
 	</string>
@@ -462,9 +405,6 @@
 	<string id="shax_land_perehod_talk_6">
 		<text>Thanks. I will go to this not yet Reconnoitered Earth and find the infirmary. I will see you again Miner.</text>
 	</string>
-
-
-
 	<string id="zvezdochet_aver_talk_0">
 		<text>Hello! I didn't expect to run into you, the rain seems endless here!</text>
 	</string>
@@ -486,8 +426,6 @@
 	<string id="zvezdochet_aver_talk_6">
 		<text>Well thanks, I will go and find this camp.</text>
 	</string>
-
-
 	<string id="otshelnik_yzik_nayti_0">
 		<text>Hello, nice camp you have here. What's going on with the helicopter, is there going to be an attack?</text>
 	</string>
@@ -512,8 +450,6 @@
 	<string id="otshelnik_yzik_nayti_7">
 		<text>Listen, I have changed my mind. You have the people to search for it yourself.</text>
 	</string>
-
-
 	<string id="otshelnik_yzik_prines_0">
 		<text>Heres your crate, it fell into a bog, surprise, surprise! It's wet but nothings broken.</text>
 	</string>
@@ -526,7 +462,6 @@
 	<string id="otshelnik_yzik_prines_3">
 		<text>By the way, I buy artifacts. Truth though, I dont pay much. Come back and chat sometime, I might have a job for you.</text>
 	</string>
-
 	<string id="master_aver_talk_0">
 		<text>Hello! Tell me, how it's possible to drop a box from a chopper anyway?</text>
 	</string>
@@ -548,9 +483,6 @@
 	<string id="master_aver_talk_6">
 		<text>Its good that it fell in this area and not over in Chernobyl somewhere!</text>
 	</string>
-
-
-
 	<string id="starik_aver_talk_0">
 		<text>Hello, is this the infirmary? Who are you?</text>
 	</string>
@@ -572,9 +504,6 @@
 	<string id="starik_aver_talk_6">
 		<text>Thanks for the info.</text>
 	</string>
-
-
-
 	<string id="ziklop_aver_talk_0">
 		<text>What happened to you?</text>
 	</string>
@@ -596,9 +525,6 @@
 	<string id="ziklop_aver_talk_6">
 		<text>Well, good luck with your treatment. Perhaps we will be able to help each other.</text>
 	</string>
-
-
-
 	<string id="golograma_aver_talk_0">
 		<text>Greetings. Its quite an odd gathering here.</text>
 	</string>
@@ -620,8 +546,6 @@
 	<string id="golograma_aver_talk_6">
 		<text>Well, I hope you can find a cure. If I can help you solve this problem, let me know.</text>
 	</string>
-
-
 	<string id="jora_aver_talk_0">
 		<text>Greetings. You look like the shadow of death, I can see only darkness.</text>
 	</string>
@@ -643,9 +567,6 @@
 	<string id="jora_aver_talk_6">
 		<text>Your skills sound necessary. Now I will talk to your doctor and for you I have a job.</text>
 	</string>
-
-
-
 	<string id="ginekolog_lekarstvo_nayti_0">
 		<text>Greetings, I was asked to transfer a bag to you. Truth is I'm here on business, I think your patient will be able to help me. By the way, why do they call you Gynecologist?</text>
 	</string>
@@ -670,8 +591,6 @@
 	<string id="ginekolog_lekarstvo_nayti_7">
 		<text>Well, how can I do it without a little carnage? Rambo style is all I know, I can't do it.</text>
 	</string>
-
-
 	<string id="ginekolog_lekarstvo_prines_0">
 		<text>I have found the medicine. I hope, this is what you need. All went as planned and I think nobody got hurt.</text>
 	</string>
@@ -684,13 +603,11 @@
 	<string id="ginekolog_lekarstvo_prines_3">
 		<text>There is some business. But since your wanted as a theif, I can't speak with you about it.</text>
 	</string>
-
-
 	<string id="ziklop_lekarstvo_nayti_0">
 		<text>You said that you can use telepathy. Ive been asked to find medicine, can you tell me where to look?</text>
 	</string>
 	<string id="ziklop_lekarstvo_nayti_1">
-		<text>Yes, we are in bad need of medicine. Listen to my vision:\n\nI see buildings\nIn them are soldiers\nthey drink Vodka and smoke\nthey gaurd the Entrance to the Zone\nIn these Buildings much you will find\nIn them the goods you will take.\n\nSearch this place, of the soldiers.</text>
+		<text>Yes, we are in bad need of medicine. Listen to my vision:\n \nI see buildings\nIn them are soldiers\nthey drink Vodka and smoke\nthey gaurd the Entrance to the Zone\nIn these Buildings much you will find\nIn them the goods you will take.\n \nSearch this place, of the soldiers.</text>
 	</string>
 	<string id="ziklop_lekarstvo_nayti_2">
 		<text>Whoh, slow down! Allow me to write this down, so I dont forget.</text>
@@ -707,9 +624,6 @@
 	<string id="ziklop_lekarstvo_nayti_6">
 		<text>I understand, thanks for the information and this new transition will save me a lot of travel.</text>
 	</string>
-
-
-
 	<string id="ziklop_lekar_proval_0">
 		<text>I couldnt do it the silent way, and the Gynecologist has taken offence.</text>
 	</string>
@@ -731,8 +645,6 @@
 	<string id="ziklop_lekar_proval_6">
 		<text>This is good news. I hope you can put in a good word for me with the Gynecologist.</text>
 	</string>
-
-
 	<string id="jora_accumul_0">
 		<text>Greetings, Zhorika. Have you been able to open the safe?</text>
 	</string>
@@ -754,8 +666,6 @@
 	<string id="jora_accumul_6">
 		<text>I will go speak to the Old Man.</text>
 	</string>
-
-
 	<string id="jora_accumul_prines_0">
 		<text>Zhorik, I have found three accumulators.</text>
 	</string>
@@ -768,9 +678,6 @@
 	<string id="jora_accumul_prines_3">
 		<text>Do not rush a sick person. If there is progress you will know.</text>
 	</string>
-
-
-
 	<string id="starik_zadanie_vzyt_0">
 		<text>Hello Old timer, Zhorik told me you have lived around here all your life. Do you know where I can find accumulators?</text>
 	</string>
@@ -795,8 +702,6 @@
 	<string id="starik_zadanie_vzyt_7">
 		<text>Im not into finding watches, I can't help..</text>
 	</string>
-
-
 	<string id="starik_zadanie_prines_0">
 		<text>I managed to find the cave, but couldn't enter. I did find your watch and I get the accumulators.</text>
 	</string>
@@ -809,9 +714,6 @@
 	<string id="starik_zadanie_prines_3">
 		<text>Well I hope you are able to find a way inside. As a reward for finding my watch I'm giving you the info on transitions from the Army Warehouses and the Dark Valley. To you these will obviously be useful.</text>
 	</string>
-
-
-
 	<string id="otshel_uznat_0">
 		<text>Hello hermit.</text>
 	</string>
@@ -833,9 +735,6 @@
 	<string id="otshel_uznat_6">
 		<text>Thanks for the info about the cave.</text>
 	</string>
-
-
-
 	<string id="piligrim_britva_nayti_0">
 		<text>Hello, can you tell me who lives here?</text>
 	</string>
@@ -860,8 +759,6 @@
 	<string id="piligrim_britva_nayti_7">
 		<text>I will not go!!!!!</text>
 	</string>
-
-
 	<string id="piligrim_britva_prines_0">
 		<text>I got the backpack without being spotted.</text>
 	</string>
@@ -874,8 +771,6 @@
 	<string id="piligrim_britva_prines_3">
 		<text>It will take about an hour and a half to charge them.</text>
 	</string>
-
-
 	<string id="piligrim1_britva1_prines_0">
 		<text>I got the backpack, but I was caught and had to shoot my way out.</text>
 	</string>
@@ -888,8 +783,6 @@
 	<string id="piligrim1_britva1_prines_3">
 		<text>It will take about an hour and a half to charge them.</text>
 	</string>
-
-
 	<string id="pilig_akkum_0">
 		<text>Have you finished charging the accumulators?</text>
 	</string>
@@ -911,9 +804,6 @@
 	<string id="pilig_akkum_6">
 		<text>Chief? He knows me? If I find a key to these teleports, dont get offended because I will come without an invitation. I need to unlock my past and this cave has answers I need.</text>
 	</string>
-
-
-
 	<string id="otsh_pda_nayti_0">
 		<text>Were you looking for me?</text>
 	</string>
@@ -938,8 +828,6 @@
 	<string id="otsh_pda_nayti_7">
 		<text>I have no time to fetch detectors.</text>
 	</string>
-
-
 	<string id="otsh_pda_prines_0">
 		<text>Greetings Adrenalin, I have brought you the second detector.</text>
 	</string>
@@ -961,8 +849,6 @@
 	<string id="otsh_pda_prines_6">
 		<text>Thanks for the information. I will go check on the the safe. NICE PIECE! If the Astrologer comes back, tell him we will talk.</text>
 	</string>
-
-
 	<string id="jora_vopros_0">
 		<text>Zhorik, did you manage to get it open?</text>
 	</string>
@@ -975,8 +861,6 @@
 	<string id="jora_vopros_3">
 		<text>Don't get upset, I will finish soon.</text>
 	</string>
-
-
 	<string id="golo_detektor_nayti_0">
 		<text>Greetings Hologram. I need your help.</text>
 	</string>
@@ -1001,8 +885,6 @@
 	<string id="golo_detektor_nayti_7">
 		<text>I don't need an Ultra Detector, no deal.</text>
 	</string>
-
-
 	<string id="golo_detektor_prines_0">
 		<text>I've got the artefact and detectors.</text>
 	</string>
@@ -1015,14 +897,11 @@
 	<string id="golo_detektor_prines_3">
 		<text>Ask the Cyclops, he will tell you where the stash is.</text>
 	</string>
-
-
-
 	<string id="ziklop_stix2_0">
 		<text>Greetings Cyclops, the Hologram has sent me to you for help finding his stolen detectors.</text>
 	</string>
 	<string id="ziklop_stix2_1">
-		<text>Hello Strelok. I will tell you what I see.\n\nIn the roots of a faded giant\nThe back pack is hidden with care\nThere the blind creatures scurry about their business\nBetween a radioactive pile and a hill\nThat is the closest to the lawless Valley\n\nStrelok, I am sure that you perfectly know this place.</text>
+		<text>Hello Strelok. I will tell you what I see.\n \nIn the roots of a faded giant\nThe back pack is hidden with care\nThere the blind creatures scurry about their business\nBetween a radioactive pile and a hill\nThat is the closest to the lawless Valley\n \nStrelok, I am sure that you perfectly know this place.</text>
 	</string>
 	<string id="ziklop_stix2_2">
 		<text>Still necessary to write this down in my PDA. Thank you for the clues to this location.</text>
@@ -1030,9 +909,6 @@
 	<string id="ziklop_stix2_3">
 		<text>Yes, write it down so you dont forget. Good luck.</text>
 	</string>
-
-
-
 	<string id="medik_pribor_1_nayti_0">
 		<text>Have you really managed to crack it?</text>
 	</string>
@@ -1057,7 +933,6 @@
 	<string id="medik_pribor_1_nayti_7">
 		<text>Im too busy for this, I need to search for the Astrologer.</text>
 	</string>
-
 	<string id="medik_pribor_1_prines_0">
 		<text>I have found the diskette. It was in one of the caves in the Labyrinth on a wounded Mercenary.</text>
 	</string>
@@ -1070,14 +945,11 @@
 	<string id="medik_pribor_1_prines_3">
 		<text>Yes, we need to get the flasks. Talk to Cyclops he will be able to help.</text>
 	</string>
-
-
-
 	<string id="ziklop_stix3_0">
 		<text>Greetings Cyclops. Im helping Hologram make a device for producing medicine. Can you help me locate the diskette with the schematics he needs?</text>
 	</string>
 	<string id="ziklop_stix3_1">
-		<text>Hello Strelok, of course now listen:\n\nIn the deserted lower cave of the Labyrinth\nWhere packs of rats scurry in the dark\nthere lies a half-dead body\nAnd the secret is stored on it\n\nStrelok, search for a wounded man, and nearby you will find your diskette.</text>
+		<text>Hello Strelok, of course now listen:\n \nIn the deserted lower cave of the Labyrinth\nWhere packs of rats scurry in the dark\nthere lies a half-dead body\nAnd the secret is stored on it\n \nStrelok, search for a wounded man, and nearby you will find your diskette.</text>
 	</string>
 	<string id="ziklop_stix3_2">
 		<text>Thanks, I think I can guess where it is.</text>
@@ -1085,9 +957,6 @@
 	<string id="ziklop_stix3_3">
 		<text>In the corner of our cave is a transition you can use, it will save you time.</text>
 	</string>
-
-
-
 	<string id="ded_dialog_0">
 		<text>How did you manage to climb in this hole?</text>
 	</string>
@@ -1109,14 +978,11 @@
 	<string id="ded_dialog_6">
 		<text>Since you have told me what you know, here take the first-aid set.</text>
 	</string>
-
-
-
 	<string id="ziklop_stix4_0">
 		<text>Greetings Cyclops, you have some information for me?</text>
 	</string>
 	<string id="ziklop_stix4_1">
-		<text>The Merc you cured has deceived you. The flasks are highly radiocative and he did hide them, but not in the Radar. Listen:\n\nThe strange cache lies beneath,\nThe tower that helped deliver power to the world.\non territory Where the spirit of Anarchy soars highly\nthe soldiers of fortune\nAre close by.\nBut the trick here is -\n- over a fence you must climb.\n\nSearch for the flasks.</text>
+		<text>The Merc you cured has deceived you. The flasks are highly radiocative and he did hide them, but not in the Radar. Listen:\n \nThe strange cache lies beneath,\nThe tower that helped deliver power to the world.\non territory Where the spirit of Anarchy soars highly\nthe soldiers of fortune\nAre close by.\nBut the trick here is -\n- over a fence you must climb.\n \nSearch for the flasks.</text>
 	</string>
 	<string id="ziklop_stix4_2">
 		<text>Thanks, but it's not an easy riddle. This will take some thought, maybe a few beers.</text>
@@ -1124,10 +990,6 @@
 	<string id="ziklop_stix4_3">
 		<text>You ponder upon my words, these pieces are on a hill under a tower. The flasks might have rolled away so look around the area if you don't find them all.</text>
 	</string>
-
-
-
-
 	<string id="akkum_and_mikposx_nayti_0">
 		<text>I have brought flasks, all three pieces.</text>
 	</string>
@@ -1152,8 +1014,6 @@
 	<string id="akkum_and_mikposx_nayti_7">
 		<text>I will not go, this place sounds too dangerous.</text>
 	</string>
-
-
 	<string id="akkum_and_mikposx_prines_0">
 		<text>You were right, I found the batteries and the microcircuit.</text>
 	</string>
@@ -1166,9 +1026,6 @@
 	<string id="akkum_and_mikposx_prines_3">
 		<text>Not yet, I'm trying to do the best job I can, more time is required. I will work on it while you get the Reagents from the snipers.</text>
 	</string>
-
-
-
 	<string id="piligrim_3_0">
 		<text>Greetings Pilgrim, I thought you said you were going on a mission.</text>
 	</string>
@@ -1190,9 +1047,6 @@
 	<string id="piligrim_3_6">
 		<text>Sounds like a good idea, send the SMS. Meanwhile I will look for the batteries and microcircuit.</text>
 	</string>
-
-
-
 	<string id="chimaera_zadan_nayti_0">
 		<text>Greetings, I've come looking for work. I want to build up my reputation as a Mercenary. I want your endorsement.</text>
 	</string>
@@ -1217,8 +1071,6 @@
 	<string id="chimaera_zadan_nayti_7">
 		<text>I cant cut off a head. Im not cut out to be a Mercenary, maybe I will be an artist.</text>
 	</string>
-
-
 	<string id="chimaera_zadan_prines_0">
 		<text>I have brought you the head, now can I get your recommendation and receive your means for invisibility.</text>
 	</string>
@@ -1231,9 +1083,6 @@
 	<string id="chimaera_zadan_prines_3">
 		<text>Experience, that's why. My men train here then go on to more important missions. We have teams all over the zone. There's another piece of business I will tell you about. We're searching for the daughter of one of the Big Boss's, she has gone missing in the Zone. Don't look so surprised, I did say a woman. If you can bring her to me, I will pay a big bounty. Now here take this rare artefact for your troubles.</text>
 	</string>
-
-
-
 	<string id="ginek_vlip_0">
 		<text>I Have managed to communicate with the boss of the snipers, Chimera. He wants me to bring him the head of Sidorovich! Then he will give me the Regeants, Merks have no sole. Eh!</text>
 	</string>
@@ -1255,8 +1104,6 @@
 	<string id="ginek_vlip_6">
 		<text>I will go and talk to Eagle owl and see what he says.</text>
 	</string>
-
-
 	<string id="ginek_vlip_raschet_0">
 		<text>I have bgought the flasks with Reagents. Here, take them away.</text>
 	</string>
@@ -1269,9 +1116,6 @@
 	<string id="ginek_vlip_raschet_3">
 		<text>I've heard nothing. Here, take this reward for your good work. Torn from my heart. Look, dont sell it. My Great-Grandfather brought it back from the war. You are always welcome here and come check on how the patients are healing. Also Cyclops has the location of another cache for you.</text>
 	</string>
-
-
-
 	<string id="land_oxot_nayti_0">
 		<text>Hello hunter. I have some business that requires your help.</text>
 	</string>
@@ -1296,7 +1140,6 @@
 	<string id="land_oxot_nayti_7">
 		<text>No way I'm carrying a rotten controller.</text>
 	</string>
-
 	<string id="land_oxot_prines_0">
 		<text>I have brought the controller, the stink is unbearable.</text>
 	</string>
@@ -1309,7 +1152,6 @@
 	<string id="land_oxot_prines_3">
 		<text>Screw this, ten Chimera claws AND a fortune!</text>
 	</string>
-
 	<string id="land_oxot_raschet_0">
 		<text>Here is the payment. Is the head ready?</text>
 	</string>
@@ -1322,14 +1164,11 @@
 	<string id="land_oxot_raschet_3">
 		<text>If you ever need a stuffed girlfriend, I can prepare one from s controller for you, HA, HA.</text>
 	</string>
-
-
-
 	<string id="ziklop_stix5_0">
 		<text>Hello Cyclops, I need your help finding the Reagents. Chimera has deceived me and given me nothing. He has only told me that the Regeants are in a hiding place somewhere. But he could have lied.</text>
 	</string>
 	<string id="ziklop_stix5_1">
-		<text>Don't be upset, the main thing is that he has told you about a hiding place. Now I can make a connection with my telepathy. You will now be able to take everything from his hiding place. He has hidden it well so listen attentively:\n\nWhere five towers\naspire in a height. Go down from the heavens in human life\nThe doll lost by the mistress it is forgotten,\nyou will find it In one of rooms\nAnd near to a doll in the house\nYou will find a backpack with plunder\n\n</text>
+		<text>Don't be upset, the main thing is that he has told you about a hiding place. Now I can make a connection with my telepathy. You will now be able to take everything from his hiding place. He has hidden it well so listen attentively:\n \nWhere five towers\naspire in a height. Go down from the heavens in human life\nThe doll lost by the mistress it is forgotten,\nyou will find it In one of rooms\nAnd near to a doll in the house\nYou will find a backpack with plunder\n \n</text>
 	</string>
 	<string id="ziklop_stix5_2">
 		<text>Im not sure where that is, can I have another clue?</text>
@@ -1337,13 +1176,11 @@
 	<string id="ziklop_stix5_3">
 		<text>I can only see an approximate place. I See only vague outlines of the subjects nearest to a hiding place and objects and I can express it only in the form of riddles, Good luck.</text>
 	</string>
-
-
 	<string id="ziklop_stix6_0">
 		<text>Hello Cyclops, I have brought you the Reagents for your treatment.</text>
 	</string>
 	<string id="ziklop_stix6_1">
-		<text>Thanks Strelok, the treatment will take some time. In my case, a long time. I know of one more cache, take it as a gift from me. The Rhyme is short, it's a place you will find without problems.\n\nWhere the bloodsuckers call home\nWearily sleeps the Iron Horse\n\n</text>
+		<text>Thanks Strelok, the treatment will take some time. In my case, a long time. I know of one more cache, take it as a gift from me. The Rhyme is short, it's a place you will find without problems.\n \nWhere the bloodsuckers call home\nWearily sleeps the Iron Horse\n \n</text>
 	</string>
 	<string id="ziklop_stix6_2">
 		<text>Thanks, I think I know this place.</text>
@@ -1351,9 +1188,6 @@
 	<string id="ziklop_stix6_3">
 		<text>Well, this is excellent. Look, the Hologram has already charged the device!</text>
 	</string>
-
-
-
 	<string id="vuxod_atp_0">
 		<text>How is it possible to get out of this territory?</text>
 	</string>
@@ -1366,8 +1200,6 @@
 	<string id="vuxod_atp_3">
 		<text>You didn't think to ask the person who sent you? I can show you a path to the Dump, but there will not be further conversation till you bring me three artefacts: a Mother's Beads, Moonlight, and a Flash. All of them can be found on this territory. You bring them to me and I will show you the path.</text>
 	</string>
-
-
 	<string id="vuxod_atp1_0">
 		<text>Here's your artefacts, now could you show me the path.</text>
 	</string>
@@ -1377,9 +1209,6 @@
 	<string id="vuxod_atp1_2">
 		<text>That's easy enough to find.</text>
 	</string>
-
-
-
 	<string id="kluk_vstrecha_0">
 		<text>Fang??? Is it really you??? I thought you had been killed.</text>
 	</string>
@@ -1407,8 +1236,6 @@
 	<string id="kluk_vstrecha_8">
 		<text>I understand, we have much work to do.</text>
 	</string>
-
-
 	<string id="kluk_vstr_after_prizrak_0">
 		<text>Fang??? Is it really you??? I thought you had been killed.</text>
 	</string>
@@ -1436,9 +1263,6 @@
 	<string id="kluk_vstr_after_prizrak_8">
 		<text>I understand, we have much work to do.</text>
 	</string>
-
-
-
 	<string id="kluk_vstrecha_otchet_0">
 		<text>Greetings. Seems I arrived at Varlab at an inappropriate moment. The Monolith attacked the mercenary base. Or on the contrary. But the Monolithians destroyed Mrcenaries, and then I finished off the Monolithians. The lab has been cleaned out. The entrance into one of the parts of the laboratory is closed off by a teleport. To pass through there is impossible. The girl was no where to be found, but a search of one of the leaders of the group has produced an interesting document. It's not difficult to guess to whom it belonged.</text>
 	</string>
@@ -1454,9 +1278,6 @@
 	<string id="kluk_vstrecha_otchet_4">
 		<text>Well, I will go and speak with the Freedom boss.</text>
 	</string>
-
-
-
 	<string id="lukash_pechatka_nayti_0">
 		<text>Lukash, greetings. Fang has hinted that you could help me with some business.</text>
 	</string>
@@ -1484,9 +1305,6 @@
 	<string id="lukash_pechatka_nayti_8">
 		<text>I have understood, and we will settle later. I will try to 'squash' this Spider and take away the Signet ring, then go to Varlab.</text>
 	</string>
-
-
-
 	<string id="lukash_pechatka_vernul_0">
 		<text>I Have returned. I found the Signet ring and little 'iti-biti' Spider has been eliminated. Now about that reward.</text>
 	</string>
@@ -1499,9 +1317,6 @@
 	<string id="lukash_pechatka_vernul_3">
 		<text>You will get your reward and a bonus, but first listen. Freedom is expanding its borders of influence. We want to organise one more base in the former Laboratory, Varlab. You know this place and your help is essential. I sent a group of masters there under the command of Vitamin. Help secure the lab and Vitamin will give you the award and bonus when the task is completed. By the way, acquaint yourself, he's here now. He will give you further instructions.</text>
 	</string>
-
-
-
 	<string id="vitamin_reyd_zadan_0">
 		<text>Greetings, are you Vitamin?</text>
 	</string>
@@ -1526,9 +1341,6 @@
 	<string id="vitamin_reyd_zadan_7">
 		<text>Screw this, I'm no dog catcher! You dont need my help.</text>
 	</string>
-
-
-
 	<string id="vitamin_radar_0">
 		<text>You got here quickly. Well, are you ready to go?</text>
 	</string>
@@ -1541,9 +1353,6 @@
 	<string id="vitamin_radar_3">
 		<text>We are right behind you, move out men!</text>
 	</string>
-
-
-
 	<string id="vitamin_reyd_okonchen_0">
 		<text>We made it.</text>
 	</string>
@@ -1556,8 +1365,6 @@
 	<string id="vitamin_reyd_okonchen_3">
 		<text>Dont worry, when the lab is clear of all dogs you will be rewarded.</text>
 	</string>
-
-
 	<string id="vitamin_warl_talk_0">
 		<text>Well, thats all the dogs killed! No doubt your men will eat well tonight, Eh.</text>
 	</string>
@@ -1570,5 +1377,5 @@
 	<string id="vitamin_warl_talk_3">
 		<text>Here, take your well earned rewards, a key for a teleport and a gift from Lukash. The gift is a small Gold Ingot. It's owner has a number of important advantages in our faction: when it is in your backpack, you are one of us. When you enter a territory with it in your pack, you will be rcognized as a member of Freedom. Taking it out of your pack won't make you nuetral until you leave the territory.</text>
 	</string>
-
-	</string_table>
+</string_table>
+	<!-- Tekst usklaрen sa 109984 verzijom zakrpe - 18.04.2015 22:43 -sadd -->

@@ -1,132 +1,136 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<!-- TB3D 1.0.9.9.9.8 -->
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.0.9.9.7.0 -->
 <!-- AMK Dialogs -->
 <!-- Added dialogue with the Informant(Snitch) about recipes - aleks1970 -->
+<string_table>
 	<!-- Dialogue with the Culinary Specialist -->
 	<string id="artem_kulinar_0">
-		<text>Welcome! I have a few things on offer, interested? </text>
+		<text>Dobrodoљao! Imam nekoliko stvari na ponudi, zainteresiran? </text>
 	</string>
 	<string id="artem_kulinar_1">
-		  <text>Well look here, you have organised a damn snack Bar. TO bad its so damn close to radioactive heaps of dust.</text>
+		  <text>Pa pogledaj ovde, imaљ potpuno sreрen prokleti Bife. Љteta je љto je tako blizo prokletih radioaktivnih gomila prljavљtine.</text>
 	</string>
 	<string id="artem_kulinar_2">
-		<text>For some people the Dump is a hard place to reach and I congratulate you on that! It will most likely be forgotten quickly though.</text>
+		<text>Za neke ljude Deponija je mesto do kojeg je teљko doжi, zato ti иestitam na tome! Vrlo je verovatno da жe to biti brzo zaboravljeno.</text>
 	</string>
 	<string id="artem_kulinar_3">
-		<text>Does it make any sense to you? Not far from here is a Bar that buys loot and sells better weapons. While over here, we have bandits and all sorts of scum with checkpoints that will take your money.</text>
+		<text>Da li to tebi ima ikakvog smisla? Ne daleko odavde je Bar koji otkupljuje plen i prodaje bolje oruћje. Dok ovde, mi imamo bandite i ostalo kojekakvo smeжe sa ciljem da ti otmu tvoj novac.</text>
 	</string>
 	<string id="artem_kulinar_4">
-		<text>Over there in the Bar people are serious and can easily get angry so I warn you not to make a fuss. While the Dump is a place where the rookies find out if they can handle the zone. Fighting Gangsters HA! this is not real combat. They need a few of us old hands to teach them a few things, but the ones that arnt gonna make it die within a week. Step into an anomaly or become mutant food.</text>
+		<text>Eno tamo u Baru ljudi su ozbiljni i lako mogu postati ljutiti, zato te upozoravam da ne praviљ gluposti. Dok je Deponija mesto gde poиetnici uиe kako da se snalaze u Zoni. Boriti se protiv Gangstera HA! To i nije prava borba. Njima je potrebno nas nekoliko starih glava da ih nauиimo neke stvari, ali oni koji ne uspeju umiru u roku od nedelju dana. Zakoraиe u Anomaliju ili postanu hrana mutantima.</text>
 	</string>
 	<string id="artem_kulinar_5">
-		<text>All right I heard enough about the rookies. Where are you from?</text>
+		<text>U redu dovoljno sam sluљao o poиetnicima. Odakle si ti?</text>
 	</string>
 	<string id="artem_kulinar_6">
-		<text>I was brought up in the forest. I traveled around Europe working as a cook. The leftover food was given to cats and dogs while the homeless were walking around the streets hungry! While here in the Zone how many dogs and cats starve? Not many, as most rookies become a meal.</text>
+		<text>Ja sam odrastao u љumi. Putovao sam celom Evropom radeжi kao kuvar. Preostala hrana bacana je maиkama i dћukelama dok su beskuжnici tumarali ulicama gladni! Dok ovde u Zoni koliko pasa i maиaka gladuju? Ne mnogo, uglavnom poиetnici postaju hrana.</text>
 	</string>
 	<string id="artem_kulinar_7">
-		<text>Who do I speak with around here concerning weapons and ammo?</text>
+		<text>Sa kim ovde mogu razgovarati u vezi oruћja i municije?</text>
 	</string>
 	<string id="artem_kulinar_8">
-		<text>You want to talk to Vityok Voron. He is a very mysterious person.</text>
+		<text>Ti ћeliљ da razgovaraљ sa osobom po imenu Vitek Vrana. To je vrlo misteriozan lik.</text>
 	</string>
 	<string id="artem_kulinar_9">
-		<text>Tell me more about this mysterious person.</text>
+		<text>Priиaj mi joљ o tom misterioznom liku.</text>
 	</string>
 	<string id="artem_kulinar_10">
-		<text>Want to know what is comfortable here in the Zone? Ravens. If they have one talent among them its they know where death is most likley to happen and they will fly above waiting for fresh corpses. That is how Vityok got the nickname of Raven, attracted to the death and profits of these rookies in the garbage.</text>
+		<text>Ћeliљ da znaљ љta je zgodno ovde u Zoni? Gavrani. Imaju jedan jedinstven talenat a to je da znaju gde жe smrt vrlo izvesno da se desi i onda kruћe iznad tog mesta иekajuжi sveћe leљeve. Tako je Vitek dobio svoj nadimak Gavran, privuиen smrжu i profitom od tih poиetnika na Deponiji.</text>
 	</string>
 	<string id="artem_kulinar_11">
-		<text>Everything is now clear to me. Thank you for telling me what you know of the Raven.</text>
+		<text>Sada mi je sve jasno. Hvala ti љto si mi ispriиao љta znaљ o Gavranu.</text>
 	</string>
 	<!-- dialogue with Vitko the Raven -->
 	<string id="vitek_voron_0">
-		<text>What is it?</text>
+		<text>Љta je bilo?</text>
 	</string>
 	<string id="vitek_voron_1">
-		<text>Greetings, this is a nice place, wouldn't you agree?</text>
+		<text>Pozdravljam, ovo je divno mesto, zar se ne slaћeљ?</text>
 	</string>
 	<string id="vitek_voron_2">
-		<text>This place is just right for what I call home.</text>
+		<text>Ovo mesto je dovoljno dobro za ono љto ja nazivam domom.</text>
 	</string>
 	<string id="vitek_voron_3">
-		<text>Ive been looking around for you. You aren't an easy person to find, yet here you are.</text>
+		<text>Traћio sam te naokolo. Nije te lako pronaжi, a ipak sam uspeo.</text>
 	</string>
 	<string id="vitek_voron_4">
-		<text>Im here to do business and I prefer business to words if you understand me. What keeps me in business? its my weapon.</text>
+		<text>Ovde sam zbog biznisa i samo biznisa doslovno ako me razumeљ. Љta me odrћava u poslu? To je moje oruћje.</text>
 	</string>
 	<string id="vitek_voron_5">
-		<text>Sort of attitude one needs in the Zone</text>
+		<text>Taka stav je neophodan u Zoni</text>
 	</string>
 	<string id="vitek_voron_6">
-		<text>I dont know you and you dont know me so there will be no discounts here on my goods okay?</text>
+		<text>Ja ne poznajem tebe a ni ti ne poznajeљ mene, dakle neжe biti popusta ovde na moju robu, u redu?</text>
 	</string>
 	<string id="vitek_voron_7">
-		<text>Lets drop the small talk and get down to business, what do you offer?</text>
+		<text>Ostavimo se glupe priиe i preрimo na posao, љta nudiљ?</text>
 	</string>
 
 	<!-- Dialogue with the Informant Snitch about recipes start -->
 	<string id="dialog_amk_00_recipt">
-		<text>Can I ask you a question? ...</text>  <!-- !!!!TB3D 134 -->
+		<text>Mogu li ti postaviti pitanje? ...</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_02_recipt">
-		<text>Transmute recipes are?</text> <!-- !!!!TB3D 134 -->
+		<text>Imaљ recepte za Transmutaciju?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_03_recipt">
-		<text>Are you sure? ... This is fairly valuable information ...</text>  <!-- !!!!TB3D 134 -->
+		<text>Jesi li siguran? ... Ovo je priliиno vredna informacija ...</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_41_recipt">
-		<text>Perhaps not.</text>  <!-- !!!!TB3D 134 -->
+		<text>Moћda ne.</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_42_recipt">
-		<text>And how much will this information cost?</text>  <!-- !!!!TB3D 134 -->
+		<text>A koliko жe ta informacija da koљta?</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_05_recipt">
-		<text>I think that 30,000 is quite reasonable ... what do you say?</text>  <!-- !!!!TB3D 134 -->
+		<text>Mislim da je 30,000 sasvim razumna suma ... љta kaћeљ?</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_61_recipt">
-		<text>Too much ... I can do without it, I think.</text>  <!-- !!!!TB3D 134 -->
+		<text>Previљe ... Mogu ja i bez toga, bar mislim.</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_07_recipt">
-		<text>Good choice ...</text>  <!-- !!!!TB3D 134 -->
+		<text>Dobar izbor ...</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_08_recipt">
-		  <text>I hope so.</text>  <!-- !!!!TB3D 134 -->
+		<text>Nadam se.</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_01_recipt">
-		<text>What are you interested in? ...</text>  <!-- !!!!TB3D 134 -->
+		<text>Љta te zanima? ...</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_10_recipt">
-		<text>do you have any other recipes??</text> <!-- !!!!TB3D 134 -->
+		<text>Dali imaљ joљ nekih recepata??</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_recipt">
-		<text>No, I don't have anything else.</text> <!-- !!!!TB3D 134 -->
+		<text>Ne, nemam niљta viљe.</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_11_recipt">
-		<text>So, it was 30,000 rubles ... Agreed?</text> <!-- !!!!TB3D 134 -->
+		<text>Dakle, to je 30,000 rubalja ... Slaћeљ se?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_142_recipt">
-		<text>That's expensive ...</text> <!-- !!!!TB3D 134 -->
+		<text>To je preskupo ...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_15_recipt">
-		<text>I've input the data onto your PDA ...</text> <!-- !!!!TB3D 134 -->
+		<text>Ubacio sam podatke u tvoj PDA ...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_16_recipt">
-		<text>Excellent.</text> <!-- !!!!TB3D 134 -->
+		<text>Izvrsno.</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_18_recipt">
-		<text>Here's your money ... 30,000 rubles ...</text> <!-- !!!!TB3D 134 -->
+		<text>Evo tvojih para ... 30,000 rubalja ...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_19_recipt">
-		<text>Too expensive for me right now ...</text> <!-- !!!!TB3D 134 -->
+		<text>Preskupo za mene za sada ...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_20_recipt">
-		<text>Search deep in your pockets. Usual price is 30,000 ... you want the recipe or not!?</text> <!-- !!!!TB3D 134 -->
+		<text>Pretraћi malo bolje svoje dћepove. Uobiиajena cena je 30,000 ... ћeliљ taj recept ili ne!?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_21_recipt">
-		<text>Lost data?</text> <!-- !!!!TB3D 134 -->
+		<text>Izgubljeni podaci?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_22_recipt">
-		<text>Any more recipes there?</text> <!-- !!!!TB3D 134 -->
+		<text>Jel' ima joљ recepata?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<!-- Dialogue with the Informant Snitch about recipes end -->
+</string_table>
+<!-- Preveo i prilagodio Coolkingeye -=- 10:23 24.08.2014 -->
+	<!-- Tekst usklaрen sa 109977 verzijom zakrpe - 06.02.2015 19:30 -sadd -->

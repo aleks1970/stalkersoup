@@ -283,7 +283,7 @@
 <text>This is getting to be a real steeplechase! Me following him while he is following me and both of use after ????\nI wonder where he will turn up next?</text>
 </string>
 <string id="barman_zep4a_3">
-<text> It's only been a couple of days so you might start looking for him around one of the old campsites in the Wild Territory.</text>
+<text>It's only been a couple of days so you might start looking for him around one of the old campsites in the Wild Territory.</text>
 </string>
 <string id="barman_zep4a_4">
 <text>Thanks for the info and advice.</text>
@@ -395,7 +395,7 @@
 <text>Where is it..  what did you do with ZEP..  try and find ZEP..</text>
 </string>
 <string id="voronin_dialog_zep2_5">
-<text>Gone..   stranger came to take..     but can't find.\nMAD MAD MAD!..    that was him..   MAD MAD MAD!</text>
+<text>Gone..   stranger came to take..     but can't find.\n MAD MAD MAD!..    that was him..   MAD MAD MAD!</text>
 </string>
 <string id="voronin_dialog_zep2_6">
 <text>Ok..  Ok..    you take it easy..   later..</text>
@@ -680,7 +680,7 @@
 <text>ZEP [22]\n.\nAX Report 14:\nInformation has been recovered in the lab pertaining to the object and subsequant blast. It indicates that there was a huge wave of heat prior to the blast that seemed to warp time itself. Several scientists reported a gap in their work reports that did not make sense. 'AX' has also encountered more and stronger creatures in the area.\nFacility F1 has become tolerable and 'AX' is attempting to enter the area.\n.\nCentral Command ORD-11057</text>
 </string>
 <string id="zep_doc_23">
-<text>ZEP [23]\n.\nAX Report 15:\nF1 is extremely hot and destruction was wide spread. There appears to have been two explosions, both convoys seem to be the central points for these explosions. The crystal object being transported appears to be inert now, no activity or energy of any kind. 'AX' was unable to get close to them as the radiation is still off the charts at those two locations.\n'AX' has been dispatched to the Jupiter area where seismic activity has been recently recorded beneath the old Jupiter Complex.\n.\nCentral Command ORD-11060</text>
+<text>ZEP [23]\n.\nAX Report 15:\nF1 is extremely hot and destruction was wide spread. There appears to have been two explosions, both convoys seem to be the central points for these explosions. The crystal object being transported appears to be inert now, no activity or energy of any kind. 'AX' was unable to get close to them as the radiation is still off the charts at those two locations.\n'AX' has been dispatched to the Jupiter area where seismic activity has been recently recorded beneath the old Jupiter Complex.\nArmored vehicles are being deployed in the elevator area as a precaution.\nCentral Command ORD-11060</text>
 </string>
 <string id="zep_doc_24">
 <text>ZEP [24]\n.\nAX Report 16:\nIt has been reported that heavy resistance was encountered in the underground facility discovered beneath the complex. There has been no communication with agent 'AX' since this last report. A military group is being dispatched to infiltrate the underground and gain control there.\n.\nCentral Command ORD-11064</text>
@@ -1383,7 +1383,7 @@
 		<text>No, you already have enough people with you. Don't wander around the Zone in crowds, you know, She does not like this.</text>
 	</string>
 	<string id="companion_hire_dialog_9">
-		<text>Do not be offended, Marked One, but as long as you're not from our faction - we have no business with you. </text>
+		<text>Do not be offended, Marked One, but as long as you're not from our faction - we have no business with you.</text>
 	</string>
 	<string id="companion_management_dialog_0">
 		<text>Let's discuss our tactics.</text>
@@ -1870,22 +1870,16 @@
 
 	<!-- GPS and PDA text -->
 	<string id="beacon_location">
-		<text>At the beacon location: </text>
+		<text>At the beacon location:</text>
 	</string>
 	<string id="beacon_lost">
-		<text> no battery. Connection lost.</text>
+		<text>no battery. Connection lost.</text>
 	</string>
 	<string id="beacon_through">
-		<text>Through </text>
+		<text>Through</text>
 	</string>
-<!--	<string id="beacon_lost">	-  Duplicated - aleks1970
-		<text> hrs. on beacon location</text>
-	</string>
-	<string id="beacon_location">
-		<text>On location </text>
-	</string> -->
 	<string id="beacon_change">
-		<text> need to change battery.</text>
+		<text>need to change battery.</text>
 	</string>
 	<string id="beacon_no_loot">
 		<text>No loot in stash.</text>
@@ -1903,19 +1897,19 @@
 		<text>with a list of wares.</text>
 	</string>
 	<string id="beacon_subject">
-		<text> the subject</text>
+		<text>the subject</text>
 	</string>
 	<string id="beacon_tagged_stalker">
-		<text>Tagged by stalker </text>
+		<text>Tagged by stalker</text>
 	</string>
 	<string id="beacon_killed">
-		<text>Killed Stalker </text>
+		<text>Killed Stalker</text>
 	</string>
 	<string id="beacon_has">
-		<text> with GPS-beacon</text>
+		<text>with GPS-beacon</text>
 	</string>
 	<string id="beacon_robbed">
-		<text> robbed cache!</text>
+		<text>robbed cache!</text>
 	</string>
 	<string id="beacon_died">
 		<text>died</text>
@@ -2064,5 +2058,62 @@
 	<string id="tb3d_bad_script_msg">
 		<text>One or more of your script files has failed to verify!</text>
 	</string>
+
+	<!-- new in 110000 --><!-- sadd poèetak -->
+	<string id="tb3d_crest1_0">
+		<text>Nice to see some old faces still kickin!</text>
+	</string>
+	<string id="tb3d_crest1_1">
+		<text>Salutations to you too, what you doing around here?</text>
+	</string>
+	<string id="tb3d_crest1_2">
+		<text>Keeping the hell out of that storm!</text>
+	</string>
+	<string id="tb3d_crest1_3">
+		<text>Heard chatter about a storm around the NPP, got any idea what happened?</text>
+	</string>
+	<string id="tb3d_crest1_4">
+		<text>Not a clue..    ahhhh..    how's life around here these days?</text>
+	</string>
+	<string id="tb3d_crest1_5">
+		<text>Same old crap..   somehow I bet your involved with what happened up North aren't you..</text>
+	</string>
+	<string id="tb3d_crest1_6">
+		<text>Me?!..    why would you say that?</text>
+	</string>
+	<string id="tb3d_crest1_7">
+		<text>Not too long ago a group of Soldiers the likes of which I have never seen before were through here looking for you, 'Marked One'..\nThey were the kind you don't mess with but I still played dumb. Told them I had heard that you baught it in the Radar.</text>
+	</string>
+	<string id="tb3d_crest1_8">
+		<text>Appreciate it..    you take care.</text>
+	</string>
+
+	<string id="tb3d_crest2_0">
+		<text>Glad to see you survived the storm!</text>
+	</string>
+	<string id="tb3d_crest2_1">
+		<text>Luckily it never made it this far.</text>
+	</string>
+	<string id="tb3d_crest2_2">
+		<text>Any news from around here?</text>
+	</string>
+	<string id="tb3d_crest2_3">
+		<text>Been several loners and factions passing through here on their way to the NPP since the storm stopped.</text>
+	</string>
+	<string id="tb3d_crest2_4">
+		<text>Seen anything from that group that was looking for me earlier?</text>
+	</string>
+	<string id="tb3d_crest2_5">
+		<text>As a matter of fact they just passed through yesterday and were still asking about you.</text>
+	</string>
+	<string id="tb3d_crest2_6">
+		<text>Well I guess I should avoid the NPP for awhile, eh..</text>
+	</string>
+	<string id="tb3d_crest2_7">
+		<text>By the looks of them I would stay away for good!</text>
+	</string>
+	<string id="tb3d_crest2_8">
+		<text>Well..  thanks for the advice, see ya.</text>
+	</string>
 </string_table>
-	<!-- Tekst usklaðen sa 109999 verzijom zakrpe - 24.12.2015 13:30 -sadd -->
+	<!-- Tekst usklaðen sa 110000 verzijom 26.1.2016 18:00 - sadd -->
