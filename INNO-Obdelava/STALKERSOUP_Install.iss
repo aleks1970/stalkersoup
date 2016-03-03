@@ -246,6 +246,9 @@ Filename: "{app}\Resources\StalkerSoup_install.ini"; Section: "InstallExePath"; 
 Filename: "{app}\Resources\StalkerSoup_install.ini"; Section: "InstalledAppId"; Key: "AppId"; String: "{{AED2CCF1-E91E-4657-A05D-B410D45B541A}"; Flags: uninsdeletesection createkeyifdoesntexist; Components: InstallOnPortable; Tasks: DesktopIconPortable DesktopIconPortable\TB3D_Modders
 
 [Registry]
+;  Run as administrator
+;;;Root: "HKCU"; Subkey: "Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers"; ValueType: string; ValueName: "{app}\{#MyAppExeName}"; ValueData: "RUNASADMIN"; Flags: uninsdeletevalue uninsdeletekeyifempty; Components: InstallOnComputer InstallOnComputer\Web InstallOnPortable InstallOnPortable\Web; Tasks: DesktopIconComp DesktopIconComp\SS_Launcher DesktopIconComp\TB3D_Modders DesktopIconPortable DesktopIconPortable\SS_Launcher DesktopIconPortable\TB3D_Modders; Check: CheckError
+;
 Root: "HKCU"; Subkey: "Software\TB3D\StalkerSoup"; ValueType: string; ValueName: "InstallPath"; ValueData: "{app}"; Flags: uninsdeletekeyifempty uninsdeletevalue createvalueifdoesntexist; Components: InstallOnComputer; Tasks: DesktopIconComp
 Root: "HKCU"; Subkey: "Software\TB3D\StalkerSoup"; ValueType: string; ValueName: "InstallVers"; ValueData: "{#MyAppVersion}"; Flags: uninsdeletekeyifempty uninsdeletevalue createvalueifdoesntexist; Components: InstallOnComputer; Tasks: DesktopIconComp
 Root: "HKCU"; Subkey: "Software\TB3D\StalkerSoup"; ValueType: string; ValueName: "InstalledMajorVersion"; ValueData: "{#MyAppMajorVersion}"; Flags: uninsdeletekeyifempty uninsdeletevalue createvalueifdoesntexist; Components: InstallOnComputer; Tasks: DesktopIconComp DesktopIconComp\TB3D_Modders
