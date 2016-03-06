@@ -1043,7 +1043,7 @@ end;
     var
       myppAbout: String;
   begin
-        myppAbout := ExpandConstant('{cm:NameAndVersion,STALKERSOUP,{cm:MyPatchVersion}}          '+#13+'(2016.03.01 - 00:11:01)          '+#13+#13+'Copyright © 2016 TecnoBacon          ');
+        myppAbout := ExpandConstant('{cm:NameAndVersion,{#MyAppName},{cm:MyPatchVersion}}          '+#13+'({#ISSI_LongYear}.{#ISSI_Month}.{#ISSI_day} - {#ISSI_Hour}:{#ISSI_Minute}:{#ISSI_Second})          '+#13+#13+'Copyright © {#ISSI_LongYear} {#MyAppPublisher}          ');
     MsgBox(myppAbout, mbInformation, mb_Ok);
   end;
   procedure InitializeWizardMYABOUT();
